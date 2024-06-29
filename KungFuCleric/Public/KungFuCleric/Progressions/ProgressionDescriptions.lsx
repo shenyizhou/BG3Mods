@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="319"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="he84d54b6g3bd0g4693g9cb3g148897371853" version="1"/> UUID for Subclass Description
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf9ae34c1g23a1g4db9gb0dbg53aaf95eef82" version="1"/> UUID for Subclass Name
+                    <attribute id="ExactMatch" type="FixedString" value="KungFuCleric"/>
+                    <attribute id="ProgressionTableId" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a"/>
+                    <attribute id="UUID" type="guid" value="b22462cd-d9de-412a-bd8f-63855c9795ef"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
