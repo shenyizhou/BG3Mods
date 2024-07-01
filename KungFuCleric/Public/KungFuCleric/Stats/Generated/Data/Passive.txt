@@ -1,5 +1,5 @@
 // 1级自带气长生
-new entry "Passive_KungFuCleric_QiChangSheng"
+new entry "Passive_KFC_QiChangSheng"
 type "PassiveData"
 data "DisplayName" "h8300d99cga216g44e1g802fg4253da379ad9;1"
 data "Description" "h8b0eb523gf117g4c2dg877ege89321c2d6c5;1"
@@ -7,7 +7,7 @@ data "Icon" "PassiveFeature_PurityOfBody"
 data "Properties" "Highlighted"
 data "Boosts" "IF(Player() and not Tagged('DOWNED_DISABLED')):DownedStatus(HAG_DOWNED,1)"
 
-new entry "Passive_KungFuCleric_QiYangTi"
+new entry "Passive_KFC_QiYangTi"
 type "PassiveData"
 data "DisplayName" "h86e86573gc282g4b56gb89ag4e8996f706a2;2"
 data "Description" "hfe9f531bg760fg475dgab51g2a71f294c35d;2"
@@ -16,7 +16,7 @@ data "Icon" "PassiveFeature_Tough"
 data "Properties" "Highlighted"
 data "Boosts" "IncreaseMaxHP(Level*DexterityModifier)"
 
-new entry "Passive_KungFuCleric_QiHuaXing"
+new entry "Passive_KFC_QiHuaXing"
 type "PassiveData"
 data "DisplayName" "heafd6140g8985g46e0g87a8g6c9e739a8523;2"
 data "Description" "h91389a51g2529g4c1bg8431g0b9744157463;3"
@@ -28,13 +28,24 @@ data "BoostConditions" "not WearingArmor(context.Source)"
 data "Boosts" "ACOverrideFormula(10,true,Dexterity,Dexterity)"
 
 // 1级从不同元素中选择一种神兽和对应属性的能力
-// 青龙：闪电，闪电吸收，飞行，激活狂电状态
-new entry "Passive_KungFuCleric_QingLong"
+// 青龙·狂电：闪电吸收，闪电充能，飞行，激活狂电状态
+new entry "Passive_KFC_QingLong_ChargedLightning_Attack"
+type "PassiveData"
+data "DisplayName" "h48fd8d70gf4c4g44b6ga261gc6e09bb1efd6;1"
+data "Description" "h56131a51g3406g458agaf7bg31c6c618b69e;1"
+data "DescriptionParams" "5"
+data "StatsFunctorContext" "OnDamage"
+// 移除各种条件，简化为造成伤害即可
+data "StatsFunctors" "IF(not HasStatus('MAG_CHARGED_LIGHTNING', context.Source)):ApplyStatus(SELF, MAG_CHARGED_LIGHTNING_LIGHTNING_DAMAGE_ONCE_TECHNICAL,100, 0);IF(Character()):ApplyStatus(SELF, MAG_CHARGED_LIGHTNING_GENERATE_CHARGE_FX, 100, 0);IF(Character() and not IsDischargingLightning(context.Source)):ApplyStatus(SELF, MAG_CHARGED_LIGHTNING,100, 5);ApplyStatus(SELF, MAG_CHARGED_LIGHTNING_DURATION_TECHNICAL, 100, 1)"
+
+new entry "Passive_KFC_QingLong"
 type "PassiveData"
 using "LightningAbsortion"
+using "Passive_KFC_QingLong_ChargedLightning_Attack"
 data "DisplayName" "h8222880eg02b6g4811gb8d0g05b39677e240;1"
 data "Description" "h6565d090ga0dag46e9gaf3bg41274d714f3f;1"
-data "Icon" "Spell_Evocation_ChromaticOrb_Thunder"
+// 都用龙族血统的icon好了，闪电用的青铜龙
+data "Icon" "PassiveFeature_DraconicAncestry_Bronze"
 data "Properties" "IsToggled;Highlighted;ToggledDefaultAddToHotbar"
-data "Boosts" "UnlockSpell(Projectile_Fly);UnlockSpell(SPELL_KungFuCleric_QingLong_LightningMode)"
-data "ToggleGroup" "KungFuCleric_Elements"
+data "Boosts" "UnlockSpell(Projectile_Fly);UnlockSpell(Shout_KFC_QingLongMode)"
+data "ToggleGroup" "KFC_Elements"

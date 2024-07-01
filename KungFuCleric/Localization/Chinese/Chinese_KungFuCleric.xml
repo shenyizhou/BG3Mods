@@ -11,9 +11,15 @@
     <content contentuid="heafd6140g8985g46e0g87a8g6c9e739a8523" version="1">气化形</content>
     <content contentuid="h91389a51g2529g4c1bg8431g0b9744157463" version="1">将气息贯通到你的躯体中。在不装备任何护甲时，你可以将你的敏捷调整值额外添加到你的护甲等级上。</content>
     <!-- 各种神兽及其对应的属性能力，但是只能选择其一 -->
+    <!-- 青龙·狂电 -->
     <content contentuid="h8222880eg02b6g4811gb8d0g05b39677e240" version="1">青龙·狂电</content>
-    <content contentuid="h6565d090ga0dag46e9gaf3bg41274d714f3f" version="1">一堆电系效果。</content>
-    <content contentuid="h52fd5e84g81c5g4f2fga375g6f85c8051c8c" version="1">青龙狂电型态</content>
-    <content contentuid="h017e8941g90beg4719g82d9ge53790d55f05" version="1">切换青龙狂电型态,获得狂电威势状态,攻击附加闪电伤害。</content>
+    <content contentuid="h6565d090ga0dag46e9gaf3bg41274d714f3f" version="1">获得闪电吸收、狂电攻击能力，解锁青龙·狂电型态。</content>
+    <content contentuid="h48fd8d70gf4c4g44b6ga261gc6e09bb1efd6" version="1">狂电攻击</content>
+    <content contentuid="h56131a51g3406g458agaf7bg31c6c618b69e" version="1">攻击命中目标时，获得[1]&lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;闪电充能&lt;/LSTag&gt;。</content>
+    <content contentuid="h52fd5e84g81c5g4f2fga375g6f85c8051c8c" version="1">青龙·狂电型态</content>
+    <content contentuid="h017e8941g90beg4719g82d9ge53790d55f05" version="1">进入青龙·狂电型态10回合，获得狂电威势状态，强化附近队友，同时对敌人造成伤害。</content>
+    <content contentuid="h268fb659ga380g4a56g8b18g35583282124b" version="1">附近队友的武器攻击造成一个额外的[2]。敌人每回合受到[1]，且无法做出反应。</content>
     <content contentuid="h97d6bc27gfcf9g4a42g9a37gc2c931ca7dd3" version="1">狂电威势</content>
+    <content contentuid="h030d5ad3gd8e7g4904gaea0g14f313e1ae52" version="1">站在青龙·狂电形态附近。每回合受到[1]，且无法作出反应；如果发起攻击，则会受到一个额外的[1]。</content>
+    <content contentuid="h3417d7e6g9fb5g4003gbd52gcb702dc0cb6a" version="1">站在青龙·狂电形态附近。造成一个额外的[1]。</content>
 </contentList>
