@@ -1,3 +1,4 @@
+// 1级自带气长生
 new entry "Passive_KungFuCleric_QiChangSheng"
 type "PassiveData"
 data "DisplayName" "h8300d99cga216g44e1g802fg4253da379ad9;1"
@@ -6,3 +7,13 @@ data "Icon" "PassiveFeature_PurityOfBody"
 data "Properties" "Highlighted"
 data "Boosts" "IF(Player() and not Tagged('DOWNED_DISABLED')):DownedStatus(HAG_DOWNED,1)"
 
+// 1级从不同元素中选择一种神兽和对应属性的能力
+// 青龙：闪电，飞行，激活雷电状态
+new entry "Passive_KungFuCleric_QingLong"
+type "PassiveData"
+data "DisplayName" "h8222880eg02b6g4811gb8d0g05b39677e240;1"
+data "Description" "h6565d090ga0dag46e9gaf3bg41274d714f3f;1"
+data "Icon" "Spell_Evocation_ChromaticOrb_Thunder"
+data "Properties" "IsToggled;Highlighted;ToggledDefaultAddToHotbar"
+data "Boosts" "UnlockSpell(Projectile_Fly);UnlockSpell(SPELL_KungFuCleric_QingLong_LightningMode)"
+data "ToggleGroup" "KungFuCleric_Elements"
