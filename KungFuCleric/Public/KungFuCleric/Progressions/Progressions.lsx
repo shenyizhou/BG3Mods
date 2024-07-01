@@ -47,6 +47,16 @@
                         </node>
                     </children>
                 </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Proficiency(MartialWeapons);Proficiency(Shields)"/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="KungFuCleric"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_KungFuCleric_QiChangSheng"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(c2a50096-81f5-4833-a291-ad82fa558414,ClericDeathDomainSpells,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a"/>
+                    <attribute id="UUID" type="guid" value="30cbcb19-25ff-488c-aa42-a81e519411a3"/>
+                </node>
             </children>
         </node>
     </region>

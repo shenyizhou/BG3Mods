@@ -1,0 +1,8 @@
+new entry "Passive_KungFuCleric_QiChangSheng"
+type "PassiveData"
+data "DisplayName" "h8300d99cga216g44e1g802fg4253da379ad9;1"
+data "Description" "h8b0eb523gf117g4c2dg877ege89321c2d6c5;1"
+data "Icon" "PassiveFeature_PurityOfBody"
+data "Properties" "Highlighted"
+data "Boosts" "IF(Player() and not Tagged('DOWNED_DISABLED')):DownedStatus(HAG_DOWNED,1)"
+
