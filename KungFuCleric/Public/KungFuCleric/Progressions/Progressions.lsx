@@ -51,7 +51,7 @@
                     <attribute id="Boosts" type="LSString" value="Proficiency(MartialWeapons);Proficiency(Shields)"/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="KungFuCleric"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Passive_KungFuCleric_QiChangSheng;Passive_KungFuCleric_QingLong"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_KungFuCleric_QiChangSheng;Passive_KungFuCleric_QiYangTi;Passive_KungFuCleric_QiHuaXing;Passive_KungFuCleric_QingLong"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(c2a50096-81f5-4833-a291-ad82fa558414,ClericDeathDomainSpells,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a"/>

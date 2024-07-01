@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
     <content contentuid="hf9ae34c1g23a1g4db9gb0dbg53aaf95eef82" version="1">斗魂领域</content>
-    <content contentuid="he84d54b6g3bd0g4693g9cb3g148897371853" version="1">斗魂领域注重近身搏斗的生与死</content>
+    <content contentuid="he84d54b6g3bd0g4693g9cb3g148897371853" version="1">斗魂领域注重近身搏斗的生与死。</content>
     <content contentuid="hbd34047cg9f09g43c6g8c47g590bb07f9d17" version="1">斗魂</content>
     <!-- 1级自带的被动 -->
     <content contentuid="h8300d99cga216g44e1g802fg4253da379ad9" version="1">气长生</content>
-    <content contentuid="h8b0eb523gf117g4c2dg877ege89321c2d6c5" version="1">死亡豁免检定更容易成功</content>
+    <content contentuid="h8b0eb523gf117g4c2dg877ege89321c2d6c5" version="1">死亡豁免检定更容易成功。</content>
+    <content contentuid="h86e86573gc282g4b56gb89ag4e8996f706a2" version="1">气养体</content>
+    <content contentuid="hfe9f531bg760fg475dgab51g2a71f294c35d" version="1">每提升1级，生命值上限增加[1]。</content>
+    <content contentuid="heafd6140g8985g46e0g87a8g6c9e739a8523" version="1">气化形</content>
+    <content contentuid="h91389a51g2529g4c1bg8431g0b9744157463" version="1">将气息贯通到你的躯体中。在不装备任何护甲时，你可以将你的敏捷调整值额外添加到你的护甲等级上。</content>
     <!-- 各种神兽及其对应的属性能力，但是只能选择其一 -->
     <content contentuid="h8222880eg02b6g4811gb8d0g05b39677e240" version="1">青龙·狂电</content>
-    <content contentuid="h6565d090ga0dag46e9gaf3bg41274d714f3f" version="1">一堆电系效果</content>
+    <content contentuid="h6565d090ga0dag46e9gaf3bg41274d714f3f" version="1">一堆电系效果。</content>
     <content contentuid="h52fd5e84g81c5g4f2fga375g6f85c8051c8c" version="1">青龙狂电型态</content>
-    <content contentuid="h017e8941g90beg4719g82d9ge53790d55f05" version="1">切换青龙狂电型态,获得狂电威势状态,攻击附加闪电伤害</content>
+    <content contentuid="h017e8941g90beg4719g82d9ge53790d55f05" version="1">切换青龙狂电型态,获得狂电威势状态,攻击附加闪电伤害。</content>
     <content contentuid="h97d6bc27gfcf9g4a42g9a37gc2c931ca7dd3" version="1">狂电威势</content>
 </contentList>

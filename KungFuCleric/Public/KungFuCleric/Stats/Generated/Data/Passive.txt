@@ -7,6 +7,26 @@ data "Icon" "PassiveFeature_PurityOfBody"
 data "Properties" "Highlighted"
 data "Boosts" "IF(Player() and not Tagged('DOWNED_DISABLED')):DownedStatus(HAG_DOWNED,1)"
 
+new entry "Passive_KungFuCleric_QiYangTi"
+type "PassiveData"
+data "DisplayName" "h86e86573gc282g4b56gb89ag4e8996f706a2;2"
+data "Description" "hfe9f531bg760fg475dgab51g2a71f294c35d;2"
+data "DescriptionParams" "Level*DexterityModifier"
+data "Icon" "PassiveFeature_Tough"
+data "Properties" "Highlighted"
+data "Boosts" "IncreaseMaxHP(Level*DexterityModifier)"
+
+new entry "Passive_KungFuCleric_QiHuaXing"
+type "PassiveData"
+data "DisplayName" "heafd6140g8985g46e0g87a8g6c9e739a8523;2"
+data "Description" "h91389a51g2529g4c1bg8431g0b9744157463;3"
+data "ExtraDescription" "hceac007dge7a9g4b14gab69ga009067ffdc6;5"
+data "Icon" "PassiveFeature_UnarmoredDefense"
+data "Properties" "Highlighted"
+data "BoostContext" "OnEquip;OnCreate"
+data "BoostConditions" "not WearingArmor(context.Source)"
+data "Boosts" "ACOverrideFormula(10,true,Dexterity,Dexterity)"
+
 // 1级从不同元素中选择一种神兽和对应属性的能力
 // 青龙：闪电，闪电吸收，飞行，激活狂电状态
 new entry "Passive_KungFuCleric_QingLong"
