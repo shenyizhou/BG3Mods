@@ -1,4 +1,5 @@
 // 狂电威势状态相关
+// 伤害相关
 new entry "STATIC_KFC_QL_DISCHARGE_DAMAGE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -8,6 +9,7 @@ data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndi
 data "OnRemoveFunctors" "DealDamage(2d8, Lightning)"
 data "ApplyEffect" "df702a35-27e4-4a78-bdf2-fd5f3a8484b3"
 
+// 对敌人
 new entry "STATIC_KFC_QL_DISCHARGE_BASE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -24,6 +26,7 @@ data "Boosts" "ActionResourceBlock(ReactionActionPoint);"
 data "TickFunctors" "ApplyStatus(STATIC_KFC_QL_DISCHARGE_DAMAGE,100,2)"
 data "StatusEffect" "b3049983-8291-455c-9e75-06646c3ae8ba"
 
+// 对队友
 new entry "STATIC_KFC_QL_DISCHARGE_ALLY"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -38,6 +41,7 @@ data "StackId" "STATIC_KFC_QL_DISCHARGE_ALLY"
 data "Boosts" "CharacterWeaponDamage(1d8,Lightning)"
 data "StatusEffect" "6243918d-a503-49fb-a85c-bdac5ce40b0a"
 
+// 整体光环
 new entry "STATIC_KFC_QL_DISCHARGE_ARUA"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -50,7 +54,8 @@ data "SoundLoop" "Spell_Status_StaticAura_ST"
 data "SoundStop" "Spell_Status_StaticAura_ST_Stop"
 data "StackId" "STATIC_KFC_QL_DISCHARGE_ARUA"
 data "AuraRadius" "6"
-data "AuraStatuses" "TARGET:IF(Character() and not Dead() and Enemy()):ApplyStatus(STATIC_KFC_QL_DISCHARGE_BASE);TARGET:IF(Character() and not Dead() and Ally()):ApplyStatus(STATIC_KFC_QL_DISCHARGE_ALLY)"
+// 队友还增加闪电抗性
+data "AuraStatuses" "TARGET:IF(Character() and not Dead() and Enemy()):ApplyStatus(STATIC_KFC_QL_DISCHARGE_BASE);TARGET:IF(Character() and not Dead() and Ally()):ApplyStatus(STATIC_KFC_QL_DISCHARGE_ALLY);TARGET:IF(Character() and not Dead() and Ally()):Resistance(Lightning, Resistant)"
 data "Passives" "StaticDischarge_Aura"
 data "StatusPropertyFlags" "InitiateCombat;BringIntoCombat"
 data "StatusEffect" "2738f3a2-e9cd-4357-95f5-4c927cc487a6"
