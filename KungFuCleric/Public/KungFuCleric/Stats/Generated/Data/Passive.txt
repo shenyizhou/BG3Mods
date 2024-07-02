@@ -9,8 +9,8 @@ data "Boosts" "IF(Player() and not Tagged('DOWNED_DISABLED')):DownedStatus(HAG_D
 
 new entry "Passive_KFC_QiYangTi"
 type "PassiveData"
-data "DisplayName" "h86e86573gc282g4b56gb89ag4e8996f706a2;2"
-data "Description" "hfe9f531bg760fg475dgab51g2a71f294c35d;2"
+data "DisplayName" "h86e86573gc282g4b56gb89ag4e8996f706a2;1"
+data "Description" "hfe9f531bg760fg475dgab51g2a71f294c35d;1"
 data "DescriptionParams" "Level*DexterityModifier"
 data "Icon" "PassiveFeature_Tough"
 data "Properties" "Highlighted"
@@ -18,8 +18,8 @@ data "Boosts" "IncreaseMaxHP(Level*DexterityModifier)"
 
 new entry "Passive_KFC_QiHuaXing"
 type "PassiveData"
-data "DisplayName" "heafd6140g8985g46e0g87a8g6c9e739a8523;2"
-data "Description" "h91389a51g2529g4c1bg8431g0b9744157463;3"
+data "DisplayName" "heafd6140g8985g46e0g87a8g6c9e739a8523;1"
+data "Description" "h91389a51g2529g4c1bg8431g0b9744157463;1"
 data "ExtraDescription" "hceac007dge7a9g4b14gab69ga009067ffdc6;5"
 data "Icon" "PassiveFeature_UnarmoredDefense"
 data "Properties" "Highlighted"
@@ -28,7 +28,8 @@ data "BoostConditions" "not WearingArmor(context.Source)"
 data "Boosts" "ACOverrideFormula(10,true,Dexterity,Dexterity)"
 
 // 1级从不同元素中选择一种神兽和对应属性的能力
-// 青龙·狂电：闪电吸收，闪电充能，飞行，激活狂电状态
+// 青龙·狂电
+// 狂电攻击附带闪电充能
 new entry "Passive_KFC_QingLong_ChargedLightning_Attack"
 type "PassiveData"
 data "DisplayName" "h48fd8d70gf4c4g44b6ga261gc6e09bb1efd6;1"
@@ -38,9 +39,32 @@ data "StatsFunctorContext" "OnDamage"
 // 移除各种条件，简化为造成伤害即可
 data "StatsFunctors" "IF(not HasStatus('MAG_CHARGED_LIGHTNING', context.Source)):ApplyStatus(SELF, MAG_CHARGED_LIGHTNING_LIGHTNING_DAMAGE_ONCE_TECHNICAL,100, 0);IF(Character()):ApplyStatus(SELF, MAG_CHARGED_LIGHTNING_GENERATE_CHARGE_FX, 100, 0);IF(Character() and not IsDischargingLightning(context.Source)):ApplyStatus(SELF, MAG_CHARGED_LIGHTNING,100, 5);ApplyStatus(SELF, MAG_CHARGED_LIGHTNING_DURATION_TECHNICAL, 100, 1)"
 
+// 狂电感应
+new entry "MAG_ChargedLightning_AbilityCheckBoost_Passive"
+type "PassiveData"
+data "DisplayName" "hda7854f2gdc96g46a9gbcaeg35e3ba1ee43e;1"
+data "Description" "h31574939g5fadg408fgb34cg99d89e1118e4;1"
+// 增强到5回合
+data "DescriptionParams" "5"
+data "StatsFunctorContext" "OnStatusRemoved;OnStatusApplied"
+data "StatsFunctors" "IF(context.HasContextFlag(StatsFunctorContext.OnStatusRemoved) and not HasStatus('MAG_CHARGED_LIGHTNING')):RemoveStatus(MAG_CHARGED_LIGHTNING_ABILITY_CHECK_BOOST);IF(context.HasContextFlag(StatsFunctorContext.OnStatusApplied) and StatusId('MAG_CHARGED_LIGHTNING')):ApplyStatus(MAG_CHARGED_LIGHTNING_ABILITY_CHECK_BOOST,100,-5)"
+
+// 狂电反击
+new entry "MAG_ChargedLightning_Electrocute_Armor_Passive"
+type "PassiveData"
+data "DisplayName" "h401c9cedg0416g44a4g8843gfcf6bb59afcd;1"
+data "Description" "haa72b5bcg5bffg4b72g9839g8ba6ca671afb;1"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamaged"
+// 难度调整到18
+data "Conditions" "not SavingThrow(Ability.Dexterity, 18, false, false, context.Source) and HasStatus('MAG_CHARGED_LIGHTNING')"
+data "StatsFunctors" "ApplyStatus(SWAP, MAG_CHARGED_LIGHTNING_SHOCK_FX,100,0);IF(HasStatus('MAG_CHARGED_LIGHTNING')):ApplyStatus(SWAP,SHOCKED, 100, 1)"
+
+// 闪电吸收，无视闪电抗性，闪电充能，飞行，激活狂电状态
 new entry "Passive_KFC_QingLong"
 type "PassiveData"
 using "LightningAbsortion"
+using "ElementalAdept_Lightning"
 using "Passive_KFC_QingLong_ChargedLightning_Attack"
 data "DisplayName" "h8222880eg02b6g4811gb8d0g05b39677e240;1"
 data "Description" "h6565d090ga0dag46e9gaf3bg41274d714f3f;1"
