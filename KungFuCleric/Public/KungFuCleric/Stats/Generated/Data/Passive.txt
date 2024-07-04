@@ -20,64 +20,8 @@ new entry "Passive_KFC_QiHuaXing"
 type "PassiveData"
 data "DisplayName" "heafd6140g8985g46e0g87a8g6c9e739a8523;1"
 data "Description" "h91389a51g2529g4c1bg8431g0b9744157463;1"
-data "ExtraDescription" "hceac007dge7a9g4b14gab69ga009067ffdc6;5"
 data "Icon" "PassiveFeature_UnarmoredDefense"
 data "Properties" "Highlighted"
 data "BoostContext" "OnEquip;OnCreate"
 data "BoostConditions" "not WearingArmor(context.Source)"
-data "Boosts" "ACOverrideFormula(10,true,Dexterity,Dexterity)"
-
-// 1级从不同元素中选择一种神兽和对应属性的能力
-// 青龙·狂电
-// 狂电攻击附带闪电充能
-new entry "Passive_KFC_QL_ChargedLightning_Attack"
-type "PassiveData"
-data "DisplayName" "h48fd8d70gf4c4g44b6ga261gc6e09bb1efd6;1"
-data "Description" "h56131a51g3406g458agaf7bg31c6c618b69e;1"
-data "DescriptionParams" "5"
-data "StatsFunctorContext" "OnDamage"
-// 移除各种条件，简化为造成伤害即可
-data "StatsFunctors" "IF(not HasStatus('MAG_CHARGED_LIGHTNING', context.Source)):ApplyStatus(SELF, MAG_CHARGED_LIGHTNING_LIGHTNING_DAMAGE_ONCE_TECHNICAL,100, 0);IF(Character()):ApplyStatus(SELF, MAG_CHARGED_LIGHTNING_GENERATE_CHARGE_FX, 100, 0);IF(Character() and not IsDischargingLightning(context.Source)):ApplyStatus(SELF, MAG_CHARGED_LIGHTNING,100, 5);ApplyStatus(SELF, MAG_CHARGED_LIGHTNING_DURATION_TECHNICAL, 100, 1)"
-
-// 狂电感应，充能闪电
-new entry "Passive_KFC_QL_ChargedLightning_AbilityCheckBoost"
-type "PassiveData"
-data "DisplayName" "hda7854f2gdc96g46a9gbcaeg35e3ba1ee43e;1"
-data "Description" "h31574939g5fadg408fgb34cg99d89e1118e4;1"
-// 增强到5回合
-data "DescriptionParams" "5"
-data "StatsFunctorContext" "OnStatusRemoved;OnStatusApplied"
-data "StatsFunctors" "IF(context.HasContextFlag(StatsFunctorContext.OnStatusRemoved) and not HasStatus('MAG_CHARGED_LIGHTNING')):RemoveStatus(MAG_CHARGED_LIGHTNING_ABILITY_CHECK_BOOST);IF(context.HasContextFlag(StatsFunctorContext.OnStatusApplied) and StatusId('MAG_CHARGED_LIGHTNING')):ApplyStatus(MAG_CHARGED_LIGHTNING_ABILITY_CHECK_BOOST,100,-5)"
-
-// 狂电反击，电流反击
-new entry "Passive_KFC_QL_ChargedLightning_Electrocute_Armor"
-type "PassiveData"
-data "DisplayName" "h401c9cedg0416g44a4g8843gfcf6bb59afcd;1"
-data "Description" "haa72b5bcg5bffg4b72g9839g8ba6ca671afb;1"
-data "Properties" "Highlighted"
-data "StatsFunctorContext" "OnDamaged"
-// 难度调整到18
-data "Conditions" "not SavingThrow(Ability.Dexterity, 18, false, false, context.Source) and HasStatus('MAG_CHARGED_LIGHTNING')"
-data "StatsFunctors" "ApplyStatus(SWAP, MAG_CHARGED_LIGHTNING_SHOCK_FX,100,0);IF(HasStatus('MAG_CHARGED_LIGHTNING')):ApplyStatus(SWAP,SHOCKED, 100, 1)"
-
-// 青龙·狂电
-new entry "Passive_KFC_QingLong"
-type "PassiveData"
-// 闪电吸收
-using "LightningAbsortion"
-// 元素导师：闪电，无视闪电抗性
-using "ElementalAdept_Lightning"
-// 攻击附带闪电充能
-using "Passive_KFC_QL_ChargedLightning_Attack"
-// 充能闪电
-using "Passive_KFC_QL_ChargedLightning_AbilityCheckBoost"
-// 电流反击
-using "Passive_KFC_QL_ChargedLightning_Electrocute_Armor"
-data "DisplayName" "h8222880eg02b6g4811gb8d0g05b39677e240;1"
-data "Description" "h6565d090ga0dag46e9gaf3bg41274d714f3f;1"
-// 都用龙族血统的icon好了，闪电用的青铜龙
-data "Icon" "PassiveFeature_DraconicAncestry_Bronze"
-data "Properties" "IsToggled;Highlighted;ToggledDefaultAddToHotbar"
-// 附伤16d，飞行，激活狂电状态
-data "Boosts" "WeaponDamage(1d6, Lightning);UnlockSpell(Projectile_Fly);UnlockSpell(Shout_KFC_QingLongMode)"
-data "ToggleGroup" "KFC_Elements"
+data "Boosts" "ACOverrideFormula(10,true,Dexterity,Constitution)"

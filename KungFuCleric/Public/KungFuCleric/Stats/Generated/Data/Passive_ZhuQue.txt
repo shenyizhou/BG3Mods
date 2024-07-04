@@ -1,0 +1,20 @@
+new entry "FireShield_Warm"
+type "PassiveData"
+data "DisplayName" "h967349e8g79acg4187gb87egaed902982c8a;1"
+data "Description" "hb6cc3a06gbe30g4fc9gada9gc8d15a7d9f8e;1"
+data "DescriptionParams" "DealDamage(2d8,Fire)"
+data "Icon" "Spell_Evocation_FireShield_Warm"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttacked"
+data "Conditions" "IsMeleeAttack() and HasDamageEffectFlag(DamageFlags.Hit)"
+data "StatsFunctors" "ApplyStatus(PASSIVE_FIRE_SHIELD_WARM,100,0);ApplyStatus(SELF,PASSIVE_FIRE_SHIELD_WARM_ATTACKER,100,0);DealDamage(SWAP,2d8,Fire,Magical);ApplyStatus(PASSIVE_FIRE_SHIELD_CHILL,100,0);ApplyStatus(SELF,PASSIVE_FIRE_SHIELD_CHILL_ATTACKER,100,0);DealDamage(SWAP,2d8,Cold,Magical)"
+
+// 朱雀·烈火
+new entry "Passive_KFC_ZhuQue"
+type "PassiveData"
+data "DisplayName" "h8222880eg02b6g4811gb8d0g05b39677e240;1"
+data "Description" "h6565d090ga0dag46e9gaf3bg41274d714f3f;1"
+// 都用龙族血统的icon好了，火焰用的红龙
+data "Icon" "PassiveFeature_DraconicAncestry_Red"
+data "Properties" "IsToggled;Highlighted;ToggledDefaultAddToHotbar"
+data "ToggleGroup" "KFC_Elements"
