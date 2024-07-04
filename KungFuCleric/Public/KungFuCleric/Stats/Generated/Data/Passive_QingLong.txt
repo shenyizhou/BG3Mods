@@ -31,32 +31,14 @@ data "StatsFunctorContext" "OnDamaged"
 data "Conditions" "not SavingThrow(Ability.Dexterity, 18, false, false, context.Source) and HasStatus('MAG_CHARGED_LIGHTNING')"
 data "StatsFunctors" "ApplyStatus(SWAP, MAG_CHARGED_LIGHTNING_SHOCK_FX, 100, 0);IF(HasStatus('MAG_CHARGED_LIGHTNING')):ApplyStatus(SWAP,SHOCKED, 100, 1)"
 
-// 测试被动
-new entry "Passive_KFC_test"
-type "PassiveData"
-data "DisplayName" "h401c9cedg0416g44a4g8843gfcf6bb59afcd;1"
-data "Description" "haa72b5bcg5bffg4b72g9839g8ba6ca671afb;1"
-data "Boosts" "UnlockSpell(Shout_KFC_QingLongMode)"
-
 // 青龙·狂电
 new entry "Passive_KFC_QingLong"
 type "PassiveData"
-// 攻击附带闪电充能
-using "Passive_KFC_QL_ChargedLightning_Attack"
-// 充能闪电
-using "Passive_KFC_QL_ChargedLightning_AbilityCheckBoost"
-// 电流反击
-using "Passive_KFC_QL_ChargedLightning_Electrocute_Armor"
-using "Passive_KFC_test"
-// 闪电吸收
-using "LightningAbsortion"
-// 元素导师：闪电，无视闪电抗性
-using "ElementalAdept_Lightning"
 data "DisplayName" "h8222880eg02b6g4811gb8d0g05b39677e240;1"
 data "Description" "h6565d090ga0dag46e9gaf3bg41274d714f3f;1"
 // 都用龙族血统的icon好了，闪电用的青铜龙
 data "Icon" "PassiveFeature_DraconicAncestry_Bronze"
 data "Properties" "IsToggled;Highlighted;ToggledDefaultAddToHotbar"
 // 附伤16d，飞行，激活狂电状态
-data "Boosts" "WeaponDamage(1d6, Lightning);UnlockSpell(Projectile_Fly)"
+data "Boosts" "WeaponDamage(1d6, Lightning);UnlockSpell(Projectile_Fly);UnlockSpell(Shout_KFC_QingLongMode)"
 data "ToggleGroup" "KFC_Elements"
