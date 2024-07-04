@@ -1,4 +1,4 @@
-// 1级自带气长生
+// 气长生
 new entry "Passive_KFC_QiChangSheng"
 type "PassiveData"
 data "DisplayName" "h8300d99cga216g44e1g802fg4253da379ad9;1"
@@ -7,21 +7,23 @@ data "Icon" "PassiveFeature_PurityOfBody"
 data "Properties" "Highlighted"
 data "Boosts" "IF(Player() and not Tagged('DOWNED_DISABLED')):DownedStatus(HAG_DOWNED,1)"
 
+// 气养体
 new entry "Passive_KFC_QiYangTi"
 type "PassiveData"
 data "DisplayName" "h86e86573gc282g4b56gb89ag4e8996f706a2;1"
-data "Description" "hfe9f531bg760fg475dgab51g2a71f294c35d;1"
-data "DescriptionParams" "Level*DexterityModifier"
-data "Icon" "PassiveFeature_Tough"
-data "Properties" "Highlighted"
-data "Boosts" "IncreaseMaxHP(Level*DexterityModifier)"
-
-new entry "Passive_KFC_QiHuaXing"
-type "PassiveData"
-data "DisplayName" "heafd6140g8985g46e0g87a8g6c9e739a8523;1"
 data "Description" "h91389a51g2529g4c1bg8431g0b9744157463;1"
 data "Icon" "PassiveFeature_UnarmoredDefense"
 data "Properties" "Highlighted"
 data "BoostContext" "OnEquip;OnCreate"
 data "BoostConditions" "not WearingArmor(context.Source)"
 data "Boosts" "ACOverrideFormula(10,true,Dexterity,Constitution)"
+
+// 气化形
+new entry "Passive_KFC_QiHuaXing"
+type "PassiveData"
+data "DisplayName" "heafd6140g8985g46e0g87a8g6c9e739a8523;1"
+data "Description" "hfe9f531bg760fg475dgab51g2a71f294c35d;1"
+data "DescriptionParams" "Level*DexterityModifier"
+data "Icon" "PassiveFeature_Tough"
+data "Properties" "Highlighted"
+data "Boosts" "IncreaseMaxHP(Level*DexterityModifier)"

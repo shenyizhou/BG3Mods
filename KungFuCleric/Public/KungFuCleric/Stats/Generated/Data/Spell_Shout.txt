@@ -33,7 +33,8 @@ data "SpellType" "Shout"
 using "Shout_KFC_ActionSurge"
 // 移出了Cooldown和OncePerTurn
 data "AIFlags" ""
-data "SpellProperties" "ApplyStatus(SELF,STATIC_KFC_QL_DISCHARGE_ARUA,100,10);ApplyStatus(SELF,STATIC_KFC_QL_DISCHARGE_ALLY,100,10)"
+// 额外附带10层闪电充能
+data "SpellProperties" "ApplyStatus(SELF, MAG_CHARGED_LIGHTNING,100,10);ApplyStatus(SELF,STATIC_KFC_QL_DISCHARGE_ARUA,100,10);ApplyStatus(SELF,STATIC_KFC_QL_DISCHARGE_ALLY,100,10)"
 data "TargetConditions" "Self()"
 data "Icon" "PassiveFeature_HeartOfTheStorm_Lightning"
 data "DisplayName" "h52fd5e84g81c5g4f2fga375g6f85c8051c8c;1"
