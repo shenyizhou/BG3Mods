@@ -36,7 +36,7 @@ new entry "Passive_KFC_test"
 type "PassiveData"
 data "DisplayName" "h401c9cedg0416g44a4g8843gfcf6bb59afcd;1"
 data "Description" "haa72b5bcg5bffg4b72g9839g8ba6ca671afb;1"
-data "Boosts" "UnlockSpell(Projectile_Fly)"
+data "Boosts" "UnlockSpell(Shout_KFC_QingLongMode)"
 
 // 青龙·狂电
 new entry "Passive_KFC_QingLong"
@@ -58,5 +58,5 @@ data "Description" "h6565d090ga0dag46e9gaf3bg41274d714f3f;1"
 data "Icon" "PassiveFeature_DraconicAncestry_Bronze"
 data "Properties" "IsToggled;Highlighted;ToggledDefaultAddToHotbar"
 // 附伤16d，飞行，激活狂电状态
-data "Boosts" "WeaponDamage(1d6, Lightning);UnlockSpell(Shout_KFC_QingLongMode)"
+data "Boosts" "WeaponDamage(1d6, Lightning);UnlockSpell(Projectile_Fly)"
 data "ToggleGroup" "KFC_Elements"
