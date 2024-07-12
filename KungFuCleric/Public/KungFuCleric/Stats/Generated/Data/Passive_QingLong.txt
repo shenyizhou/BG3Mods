@@ -17,8 +17,8 @@ data "Description" "h6facdd24gf38cg4003ga266ge800bdbf58fb;1"
 data "ExtraDescription" "h268fb659ga380g4a56g8b18g35583282124b;1"
 data "ExtraDescriptionParams" "DealDamage(2d8,Lightning);DealDamage(1d8,Lightning)"
 data "Icon" "PassiveFeature_HeartOfTheStorm_Lightning"
-data "Properties" "Hidden"
-data "BoostConditions" "HasPassive('Passive_KFC_QingLong',context.Source) and HasStatus('MAG_CHARGED_LIGHTNING',context.Source)"
+data "Properties" "IsHidden"
+data "BoostConditions" "HasPassive('Passive_KFC_QingLong',context.Source)"
 // 闪电伤害无视免疫，对闪电免疫，附伤
 data "Boosts" "AC(1);UnlockSpell(Shout_KFC_QingLongMode);WeaponDamage(2d8,Lightning);Resistance(Lightning,Immune);IgnoreResistance(Lightning,Immune);IgnoreResistance(Lightning,Resistant)"
 
@@ -30,7 +30,7 @@ data "Description" "h56131a51g3406g458agaf7bg31c6c618b69e;1"
 data "DescriptionParams" "max(1,DexterityModifier);DealDamage(2d8,Lightning)"
 // 闪电灵光的图标
 data "Icon" "Action_LightningAura"
-data "Properties" "Hidden"
+data "Properties" "IsHidden"
 // todo: remove
 data "BoostConditions" "HasPassive('Passive_KFC_QingLong',context.Source)"
 data "Boosts" "AC(2)"
@@ -47,7 +47,7 @@ data "Description" "haa72b5bcg5bffg4b72g9839g8ba6ca671afb;1"
 data "DescriptionParams" "max(15,15+DexterityModifier)"
 // 闪电释能的图标
 data "Icon" "Action_LightningBlast"
-data "Properties" "Hidden"
+data "Properties" "IsHidden"
 // todo: remove
 data "BoostConditions" "HasPassive('Passive_KFC_QingLong',context.Source)"
 data "Boosts" "AC(3)"
@@ -63,7 +63,7 @@ data "Description" "h31574939g5fadg408fgb34cg99d89e1118e4;1"
 data "DescriptionParams" "max(1,DexterityModifier)"
 // 毕竟带着无视免疫，用的元素导师的图标
 data "Icon" "PassiveFeature_ElementalAdept_Lightning"
-data "Properties" "Hidden"
+data "Properties" "IsHidden"
 // todo: remove
 data "BoostConditions" "HasPassive('Passive_KFC_QingLong',context.Source)"
 data "Boosts" "AC(4)"

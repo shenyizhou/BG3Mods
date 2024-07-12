@@ -56,7 +56,7 @@
 					<!-- 移除了法术选择，后期有需要再加 -->
 					<!-- <attribute id="Selectors" type="LSString" value="AddSpells(c2a50096-81f5-4833-a291-ad82fa558414,ClericDeathDomainSpells,,,AlwaysPrepared)"/> -->
 					<!-- 技能预埋 -->
-					<attribute id="PassivesAdded" type="LSString" value="Passive_KFC_QL_Arua;Passive_KFC_QL_ChargedLightning_Attack;Passive_KFC_QL_ChargedLightning_Electrocute_Armor;Passive_KFC_QL_ChargedLightning_AbilityCheckBoost" />
+					<attribute id="PassivesAdded" type="LSString" value="Passive_KFC_QL_Arua;Passive_KFC_QL_ChargedLightning_Attack;Passive_KFC_QL_ChargedLightning_Electrocute_Armor;Passive_KFC_QL_ChargedLightning_AbilityCheckBoost;Passive_KFC_JinGangBuHuaiTi" />
 					<!-- 神话功法 -->
 					<!-- 防御内功 -->
 					<attribute id="Selectors" type="LSString" value="SelectPassives(8179398c-2568-42a5-a33e-215f2b723f2a,1,MythKungFu);SelectPassives(d9eff3c2-0fa4-4022-9ce3-d684c6d3fa29,3,DefenseKungFu)" />
