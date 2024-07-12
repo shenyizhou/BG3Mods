@@ -1,31 +1,40 @@
-// 金刚不坏
-new entry "Passive_KFC_JinGangBuHuai"
+// 金刚不坏体
+new entry "Passive_KFC_JinGangBuHuaiTi"
 type "PassiveData"
 data "DisplayName" "h86e86573gc282g4b56gb89ag4e8996f706a2;1"
 data "Description" "h91389a51g2529g4c1bg8431g0b9744157463;1"
-data "DescriptionParams" "ConstitutionModifier"
-data "Icon" "PassiveFeature_UnarmoredDefense"
+data "DescriptionParams" "max(1,ConstitutionModifier)"
+// 无甲防御的图标(带Barbarian是金色版)
+data "Icon" "PassiveFeature_UnarmoredDefense_Barbarian"
 data "Properties" "Highlighted"
-data "BoostConditions" "not WearingArmor(context.Source)"
-data "Boosts" "AC(max(1,ConstitutionModifier));DamageReduction(Piercing, Flat, max(1,ConstitutionModifier));DamageReduction(Bludgeoning, Flat, max(1,ConstitutionModifier));DamageReduction(Slashing, Flat, max(1,ConstitutionModifier))"
+// 目前未装备护甲时的写法不生效，暂且移除
+// data "BoostContext" "OnCreate;OnEquip"
+// data "BoostConditions" "not WearingArmor(context.Source)"
+data "Boosts" "AC(max(1,ConstitutionModifier));DamageReduction(Piercing,Flat,max(1,ConstitutionModifier));DamageReduction(Bludgeoning,Flat,max(1,ConstitutionModifier));DamageReduction(Slashing,Flat,max(1,ConstitutionModifier))"
 
-// 不死印
-new entry "Passive_KFC_BuSiYin"
+// 不死印法
+new entry "Passive_KFC_BuSiYinFa"
 type "PassiveData"
 data "DisplayName" "heafd6140g8985g46e0g87a8g6c9e739a8523;1"
 data "Description" "hfe9f531bg760fg475dgab51g2a71f294c35d;1"
-data "DescriptionParams" "Level*ConstitutionModifier+Level*DexterityModifier"
-data "Icon" "PassiveFeature_Tough"
+data "DescriptionParams" "max(2*Level,Level*ConstitutionModifier+Level*DexterityModifier);1"
+// 不死生物的图标
+data "Icon" "GenericIcon_DamageType_Necrotic"
 data "Properties" "Highlighted"
-data "Boosts" "IncreaseMaxHP(max(Level*2,Level*ConstitutionModifier+Level*DexterityModifier));IF(Player() and not Tagged('DOWNED_DISABLED')):DownedStatus(HAG_DOWNED,1)"
+data "Boosts" "IncreaseMaxHP(max(2*Level,Level*ConstitutionModifier+Level*DexterityModifier));IF(Player() and not Tagged('DOWNED_DISABLED')):DownedStatus(HAG_DOWNED,1)"
+data "StatsFunctorContext" "OnTurn"
+data "Conditions" "IsDowned() and IsLastConditionRollSuccess(ConditionRollType.ConditionSavingThrow)"
+data "StatsFunctors" "RegainHitPoints(1)"
 
 // 天蚕功
 new entry "Passive_KFC_TianCanGong"
 type "PassiveData"
 data "DisplayName" "h4590d42cg7a63g48b2gaed2g8b457fcd8fe5;1"
 data "Description" "hdd847a96g0c2eg41e1ga736g00e7c38e1e5b;1"
-data "DescriptionParams" "Level*ConstitutionModifier"
-data "Icon" "PassiveFeature_UnarmoredDefense"
+data "DescriptionParams" "max(Level,Level*ConstitutionModifier)"
+// 免疫缠绕的图标
+data "Icon" "Spell_Conjuration_Web"
 data "Properties" "Highlighted"
-data "StatsFunctorContext" "OnTurn;OnDamaged"
-data "StatsFunctors" "RegainHitPoints(SELF, max(Level,Level*ConstitutionModifier))"
+data "Boosts" "StatusImmunity(ENSNARED_VINES)"
+data "StatsFunctorContext" "OnDamaged"
+data "StatsFunctors" "RegainHitPoints(SELF,max(Level,Level*ConstitutionModifier));IF(not SavingThrow(Ability.Dexterity,max(10,10+DexterityModifier),false,false,context.Source)):ApplyStatus(SWAP,ENSNARED_VINES,100,1)"

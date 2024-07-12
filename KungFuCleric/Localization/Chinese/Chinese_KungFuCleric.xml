@@ -8,29 +8,31 @@
     <content contentuid="hb1aae83cgf92dg4f82gb479g9cee8b7a6f49" version="1">选择你所感悟的神话生物对应属性的功法进行修习，功法的主动状态每次只能开启其中一种。</content>
     <!-- 青龙·五雷天心诀 -->
     <content contentuid="h8222880eg02b6g4811gb8d0g05b39677e240" version="1">青龙·五雷天心诀</content>
-    <content contentuid="h6565d090ga0dag46e9gaf3bg41274d714f3f" version="1">千重霄远乾坤近，倚石来补帝王衿。临风把酒萧然泪，化雷难抚断剑心。开启时，获得青龙·神霄和飞行能力。</content>
-    <content contentuid="h52fd5e84g81c5g4f2fga375g6f85c8051c8c" version="1">青龙·神霄</content>
-    <content contentuid="h017e8941g90beg4719g82d9ge53790d55f05" version="1">进入青龙·神霄状态10回合，对附近敌人造成青龙·神霄的伤害，并强化附近队友进入青龙·卧霆状态。</content>
-    <content contentuid="h268fb659ga380g4a56g8b18g35583282124b" version="1">经脉蕴有奔雷，不必引由，随手一掌便有雷霆万钧之力。附近敌人每回合受到[1]，且无法做出反应。附近队友的武器攻击造成一个额外的[2]，且获得闪电伤害的抗性。</content>
-    <content contentuid="h030d5ad3gd8e7g4904gaea0g14f313e1ae52" version="1">站在青龙·神霄状态附近。每回合受到[1]，且无法作出反应；如果发起攻击，则会受到一个额外的[1]。</content>
-    <content contentuid="h97d6bc27gfcf9g4a42g9a37gc2c931ca7dd3" version="1">青龙·卧霆</content>
-    <content contentuid="h3417d7e6g9fb5g4003gbd52gcb702dc0cb6a" version="1">以雷为势，发肤微动皆魄若雷鸣，虽有万军所阻，亦势不可挡。站在青龙·神霄形态附近，获得青龙·卧霆状态。造成一个额外的[1]，获得闪电伤害的抗性。</content>
+    <content contentuid="h6565d090ga0dag46e9gaf3bg41274d714f3f" version="1">千重霄远乾坤近，倚石来补帝王衿。临风把酒萧然泪，化雷难抚断剑心。获得&lt;LSTag Type="Passive" Tooltip="Passive_KFC_QingLong_Arua"&gt;青龙·神霄&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_QL_ChargedLightning_Attack"&gt;青龙·芒破&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_QL_ChargedLightning_AbilityCheckBoost"&gt;青龙·青遥&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_QL_ChargedLightning_Electrocute_Armor"&gt;青龙·雷元&lt;/LSTag&gt;被动。</content>
+    <content contentuid="h5f2662f0g1607g464ag9577gd305ca0945cf" version="1">青龙·神霄</content>
+    <content contentuid="h6facdd24gf38cg4003ga266ge800bdbf58fb" version="1">经脉蕴有奔雷，不必引由，随手一掌便有雷霆万钧之力。获得进入&lt;LSTag Type="Status" Tooltip="STATIC_KFC_QL_DISCHARGE_ARUA"&gt;神霄&lt;/LSTag&gt;状态的能力，在&lt;LSTag Type="Status" Tooltip="STATIC_KFC_QL_DISCHARGE_ARUA"&gt;神霄&lt;/LSTag&gt;状态下，对附近敌人造成&lt;LSTag Type="Status" Tooltip="STATIC_KFC_QL_DISCHARGE_ENEMY"&gt;神霄&lt;/LSTag&gt;伤害，并强化附近队友进入&lt;LSTag Type="Status" Tooltip="STATIC_KFC_QL_DISCHARGE_ALLY"&gt;卧霆&lt;/LSTag&gt;状态。</content>
+    <content contentuid="h017e8941g90beg4719g82d9ge53790d55f05" version="1">经脉蕴有奔雷，不必引由，随手一掌便有雷霆万钧之力。进入&lt;LSTag Type="Status" Tooltip="STATIC_KFC_QL_DISCHARGE_ARUA"&gt;神霄&lt;/LSTag&gt;状态[1]回合，对附近敌人造成&lt;LSTag Type="Status" Tooltip="STATIC_KFC_QL_DISCHARGE_ENEMY"&gt;神霄&lt;/LSTag&gt;伤害，并强化附近队友进入&lt;LSTag Type="Status" Tooltip="STATIC_KFC_QL_DISCHARGE_ALLY"&gt;卧霆&lt;/LSTag&gt;状态。</content>
+    <content contentuid="h52fd5e84g81c5g4f2fga375g6f85c8051c8c" version="1">神霄</content>
+    <content contentuid="h268fb659ga380g4a56g8b18g35583282124b" version="1">奔雷游走，使出雷霆万钧之力。附近敌人每回合受到[1]，且无法做出反应。附近队友的武器攻击造成一个额外的[2]，且获得闪电伤害&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
+    <content contentuid="h030d5ad3gd8e7g4904gaea0g14f313e1ae52" version="1">被雷霆万钧之力覆盖。站在&lt;LSTag Type="Status" Tooltip="STATIC_KFC_QL_DISCHARGE_ARUA"&gt;神霄&lt;/LSTag&gt;状态附近时，每回合受到[1]，且无法作出反应；如果发起攻击，则会受到一个额外的[1]。</content>
+    <content contentuid="h97d6bc27gfcf9g4a42g9a37gc2c931ca7dd3" version="1">卧霆</content>
+    <content contentuid="h3417d7e6g9fb5g4003gbd52gcb702dc0cb6a" version="1">以雷为势，发肤微动皆魄若雷鸣，虽有万军所阻，亦势不可挡。站在&lt;LSTag Type="Status" Tooltip="STATIC_KFC_QL_DISCHARGE_ARUA"&gt;神霄&lt;/LSTag&gt;状态附近时，造成一个额外的[1]，获得闪电伤害&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
     <content contentuid="h48fd8d70gf4c4g44b6ga261gc6e09bb1efd6" version="1">青龙·芒破</content>
-    <content contentuid="h56131a51g3406g458agaf7bg31c6c618b69e" version="1">以雷做兵刃，碎石切物，无往不利。攻击命中目标时，获得[1]&lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;闪电充能&lt;/LSTag&gt;。在拥有&lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;闪电充能&lt;/LSTag&gt;状态时，你的武器额外造成[2]。</content>
+    <content contentuid="h56131a51g3406g458agaf7bg31c6c618b69e" version="1">以雷做兵刃，碎石切物，无往不利。攻击命中目标时，获得敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;[1]&lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;闪电充能&lt;/LSTag&gt;。在拥有&lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;闪电充能&lt;/LSTag&gt;状态时，你的武器额外造成[2]。</content>
     <content contentuid="hda7854f2gdc96g46a9gbcaeg35e3ba1ee43e" version="1">青龙·青遥</content>
-    <content contentuid="h31574939g5fadg408fgb34cg99d89e1118e4" version="1">以雷作神速身法。在拥有&lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;闪电充能&lt;/LSTag&gt;状态时，你的闪电伤害无视抗性和免疫，且在力量与敏捷&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;中获得+[1]加成。</content>
+    <content contentuid="h31574939g5fadg408fgb34cg99d89e1118e4" version="1">以雷作神速身法。在拥有&lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;闪电充能&lt;/LSTag&gt;状态时，你施展的法术和攻击无视闪电伤害&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;，且在力量与敏捷&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;中获得+敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;[1]加成。</content>
     <content contentuid="h401c9cedg0416g44a4g8843gfcf6bb59afcd" version="1">青龙·雷元</content>
-    <content contentuid="haa72b5bcg5bffg4b72g9839g8ba6ca671afb" version="1">引天雷入体。在拥有&lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;闪电充能&lt;/LSTag&gt;状态时，你对闪电伤害免疫，且在受到伤害时，攻击者必须进行难度为[1]的敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;，如果失败将被施加&lt;LSTag Type="Status" Tooltip="SHOCKED"&gt;感电&lt;/LSTag&gt;。</content>
+    <content contentuid="haa72b5bcg5bffg4b72g9839g8ba6ca671afb" version="1">引天雷入体。在拥有&lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;闪电充能&lt;/LSTag&gt;状态时，&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;闪电伤害，且在受到伤害时，攻击者必须进行&lt;LSTag Tooltip="DifficultyClass"&gt;难度等级&lt;/LSTag&gt;为15+敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;=[1]的敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;，如果失败将被施加&lt;LSTag Type="Status" Tooltip="SHOCKED"&gt;感电&lt;/LSTag&gt;。</content>
     <!-- 朱雀·凤舞九天 -->
     <content contentuid="h3b592d2fgbaddg4a6dg9164g4f7ae5231336" version="1">朱雀·凤舞九天</content>
     <content contentuid="h159375b1g02b1g4e94gb408g4fca44bea26c" version="1">朱雀·凤舞九天。</content>
     <!-- 防御内功 -->
     <content contentuid="h6a27bd83gbff9g449bgbd0bg7ab357df5e21" version="1">防御内功</content>
     <content contentuid="he94a2dbfg4862g4eb0ga2dbg066ba04130a3" version="1">选择你所感悟的防御内功进行修习。</content>
-    <content contentuid="h86e86573gc282g4b56gb89ag4e8996f706a2" version="1">金刚不坏</content>
-    <content contentuid="h91389a51g2529g4c1bg8431g0b9744157463" version="1">外表如穿金甲，抵御一切外力袭击。未装备护甲时，护甲等级获得+[1]加值，且受所有钝击、穿刺以及挥砍伤害减少[1]。</content>
-    <content contentuid="heafd6140g8985g46e0g87a8g6c9e739a8523" version="1">不死印</content>
-    <content contentuid="hfe9f531bg760fg475dgab51g2a71f294c35d" version="1">让自己的真气内力生生不息永不衰竭的法门。每提升1级，生命值上限增加[1]。死亡豁免检定更容易成功。</content>
+    <content contentuid="h86e86573gc282g4b56gb89ag4e8996f706a2" version="1">金刚不坏体</content>
+    <content contentuid="h91389a51g2529g4c1bg8431g0b9744157463" version="1">外表如穿金甲，抵御一切外力袭击。护甲等级获得+体力&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;[1]加值，且受所有钝击、穿刺以及挥砍伤害减少体力&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;[1]。</content>
+    <content contentuid="heafd6140g8985g46e0g87a8g6c9e739a8523" version="1">不死印法</content>
+    <content contentuid="hfe9f531bg760fg475dgab51g2a71f294c35d" version="1">让自己的真气内力生生不息永不衰竭的法门。每提升1级，生命值上限增加体力和敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;[1]。死亡豁免检定更容易成功。当你成功通过一次死亡豁免检定时，恢复[2]点生命值。</content>
     <content contentuid="h4590d42cg7a63g48b2gaed2g8b457fcd8fe5" version="1">天蚕功</content>
-    <content contentuid="hdd847a96g0c2eg41e1ga736g00e7c38e1e5b" version="1">此功施展之下掌心流窜晶光一片，一种蚕丝也似的丝状物出现。在回合开始时和每次你受到伤害时，恢复[1]生命值。</content>
+    <content contentuid="hdd847a96g0c2eg41e1ga736g00e7c38e1e5b" version="1">此功施展之下掌心流窜晶光一片，一种蚕丝也似的丝状物出现。你不会陷入&lt;LSTag Type="Status" Tooltip="ENSNARED_VINES"&gt;缠绕&lt;/LSTag&gt;状态。每次你受到伤害时，恢复[1]生命值，同时攻击者必须进行&lt;LSTag Tooltip="DifficultyClass"&gt;难度等级&lt;/LSTag&gt;为10+敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;=[1]的敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;，如果失败将陷入&lt;LSTag Type="Status" Tooltip="ENSNARED_VINES"&gt;缠绕&lt;/LSTag&gt;状态。被缠绕的生物无法移动。</content>
 </contentList>
