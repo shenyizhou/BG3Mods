@@ -1,12 +1,12 @@
 // 青龙相关
-new entry "STATUS_KFC_QINGLONG"
-type "StatusData"
-data "StatusType" "BOOST"
-data "DisplayName" "h8222880eg02b6g4811gb8d0g05b39677e240;1"
-data "Description" "h6565d090ga0dag46e9gaf3bg41274d714f3f;1"
-data "Icon" "GenericIcon_DamageType_Lightning"
-data "StackId" "STATUS_KFC_QINGLONG"
-data "Passives" "Passive_KFC_QingLong_Arua;Passive_KFC_QL_ChargedLightning_Attack;Passive_KFC_QL_ChargedLightning_AbilityCheckBoost;Passive_KFC_QL_ChargedLightning_Electrocute_Armor"
+// new entry "STATUS_KFC_QINGLONG"
+// type "StatusData"
+// data "StatusType" "BOOST"
+// data "DisplayName" "h8222880eg02b6g4811gb8d0g05b39677e240;1"
+// data "Description" "h6565d090ga0dag46e9gaf3bg41274d714f3f;1"
+// data "Icon" "GenericIcon_DamageType_Lightning"
+// data "StackId" "STATUS_KFC_QINGLONG"
+// data "Passives" "Passive_KFC_QL_Arua;Passive_KFC_QL_ChargedLightning_Attack;Passive_KFC_QL_ChargedLightning_AbilityCheckBoost;Passive_KFC_QL_ChargedLightning_Electrocute_Armor"
 
 // 造成伤害
 new entry "STATIC_KFC_QL_DISCHARGE_DAMAGE"

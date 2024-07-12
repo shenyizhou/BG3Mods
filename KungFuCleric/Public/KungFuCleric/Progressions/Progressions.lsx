@@ -1,66 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="0" revision="9" build="330"/>
-    <region id="Progressions">
-        <node id="root">
-            <children>
-                <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1);ProficiencyBonus(SavingThrow,Wisdom);ProficiencyBonus(SavingThrow,Charisma);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields);Proficiency(SimpleWeapons);Proficiency(Morningstars);Proficiency(Flails)"/>
-                    <attribute id="Level" type="uint8" value="1"/>
-                    <attribute id="Name" type="LSString" value="Cleric"/>
-                    <attribute id="PassivesAdded" type="LSString" value="DomainSpells;UnlockedSpellSlotLevel1"/>
-                    <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSkills(6cb9d731-a518-46f0-b20e-9e2bf18e6acd,2);SelectSpells(2f43a103-5bf1-4534-b14f-663decc0c525,3,0,,,,AlwaysPrepared);AddSpells(269d1a3b-eed8-4131-8901-a562238f5289);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1)"/>
-                    <attribute id="TableUUID" type="guid" value="64474b62-b4f5-46b3-b94a-c676c6da3116"/>
-                    <attribute id="UUID" type="guid" value="1dbce574-fff1-49be-b7da-704f9b73cad9"/>
-                    <children>
-                        <node id="SubClasses">
-                            <children>
-                                <node id="SubClass">
-                                    <attribute id="Object" type="guid" value="4b5da2f5-b999-4623-8bff-a63df5560fb3"/>
-                                </node>
-                                <node id="SubClass">
-                                    <attribute id="Object" type="guid" value="c54d7591-b305-4f22-b2a7-1bf5c4a3470a"/>
-                                </node>
-                                <node id="SubClass">
-                                    <attribute id="Object" type="guid" value="f013d01b-3310-43f7-81bf-a51130442b5e"/>
-                                </node>
-                                <node id="SubClass">
-                                    <attribute id="Object" type="guid" value="ebe18794-b5e1-41c4-befa-4b9d6922b0ec"/>
-                                </node>
-                                <node id="SubClass">
-                                    <attribute id="Object" type="guid" value="6dec76d0-df22-411c-8a78-3d6fb843ae50"/>
-                                </node>
-                                <node id="SubClass">
-                                    <attribute id="Object" type="guid" value="89bacf1b-8f15-4972-ada7-bf59c7c78441"/>
-                                </node>
-                                <node id="SubClass">
-                                    <attribute id="Object" type="guid" value="b9ccf90e-b35b-4b73-b896-8ed2d32ae8c6"/>
-                                </node>
+	<version major="4" minor="0" revision="9" build="330" />
+	<region id="Progressions">
+		<node id="root">
+			<children>
+				<node id="Progression">
+					<attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1);ProficiencyBonus(SavingThrow,Wisdom);ProficiencyBonus(SavingThrow,Charisma);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields);Proficiency(SimpleWeapons);Proficiency(Morningstars);Proficiency(Flails)" />
+					<attribute id="Level" type="uint8" value="1" />
+					<attribute id="Name" type="LSString" value="Cleric" />
+					<attribute id="PassivesAdded" type="LSString" value="DomainSpells;UnlockedSpellSlotLevel1" />
+					<attribute id="ProgressionType" type="uint8" value="0" />
+					<attribute id="Selectors" type="LSString" value="SelectSkills(6cb9d731-a518-46f0-b20e-9e2bf18e6acd,2);SelectSpells(2f43a103-5bf1-4534-b14f-663decc0c525,3,0,,,,AlwaysPrepared);AddSpells(269d1a3b-eed8-4131-8901-a562238f5289);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1)" />
+					<attribute id="TableUUID" type="guid" value="64474b62-b4f5-46b3-b94a-c676c6da3116" />
+					<attribute id="UUID" type="guid" value="1dbce574-fff1-49be-b7da-704f9b73cad9" />
+					<children>
+						<node id="SubClasses">
+							<children>
 								<node id="SubClass">
-                                    <attribute id="Object" type="guid" value="e64c5974-b64b-42b7-b86d-2fb368ae9d33"/>
-                                </node>
+									<attribute id="Object" type="guid" value="4b5da2f5-b999-4623-8bff-a63df5560fb3" />
+								</node>
 								<node id="SubClass">
-                                    <attribute id="Object" type="guid" value="6a625b97-053b-4d45-b583-384d04ec6d08"/>
-                                </node>
-                            </children>
-                        </node>
-                    </children>
-                </node>
-                <node id="Progression">
-                    <!-- 获得盾牌熟练度，用卓越骰子作为专属资源 -->
-                    <attribute id="Boosts" type="LSString" value="Proficiency(MartialWeapons);Proficiency(Shields);ActionResource(SuperiorityDie,1,0)"/>
-                    <attribute id="Level" type="uint8" value="1"/>
-                    <attribute id="Name" type="LSString" value="KungFuCleric"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Passive_KFC_QingLong"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <!-- 移除了法术选择，后期有需要再加 -->
-                    <!-- <attribute id="Selectors" type="LSString" value="AddSpells(c2a50096-81f5-4833-a291-ad82fa558414,ClericDeathDomainSpells,,,AlwaysPrepared)"/> -->
-                    <attribute id="Selectors" type="LSString" value="SelectPassives(8179398c-2568-42a5-a33e-215f2b723f2a,1,MythKungFu);SelectPassives(d9eff3c2-0fa4-4022-9ce3-d684c6d3fa29,2,DefenseKungFu)"/>
-                    <attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a"/>
-                    <attribute id="UUID" type="guid" value="30cbcb19-25ff-488c-aa42-a81e519411a3"/>
-                </node>
-            </children>
-        </node>
-    </region>
+									<attribute id="Object" type="guid" value="c54d7591-b305-4f22-b2a7-1bf5c4a3470a" />
+								</node>
+								<node id="SubClass">
+									<attribute id="Object" type="guid" value="f013d01b-3310-43f7-81bf-a51130442b5e" />
+								</node>
+								<node id="SubClass">
+									<attribute id="Object" type="guid" value="ebe18794-b5e1-41c4-befa-4b9d6922b0ec" />
+								</node>
+								<node id="SubClass">
+									<attribute id="Object" type="guid" value="6dec76d0-df22-411c-8a78-3d6fb843ae50" />
+								</node>
+								<node id="SubClass">
+									<attribute id="Object" type="guid" value="89bacf1b-8f15-4972-ada7-bf59c7c78441" />
+								</node>
+								<node id="SubClass">
+									<attribute id="Object" type="guid" value="b9ccf90e-b35b-4b73-b896-8ed2d32ae8c6" />
+								</node>
+								<node id="SubClass">
+									<attribute id="Object" type="guid" value="e64c5974-b64b-42b7-b86d-2fb368ae9d33" />
+								</node>
+								<node id="SubClass">
+									<attribute id="Object" type="guid" value="6a625b97-053b-4d45-b583-384d04ec6d08" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Progression">
+					<!-- 获得军用武器、重甲、盾牌熟练度，用卓越骰子作为专属资源 -->
+					<attribute id="Boosts" type="LSString" value="Proficiency(MartialWeapons);Proficiency(HeavyArmor);Proficiency(Shields);ActionResource(SuperiorityDie,1,0)" />
+					<attribute id="Level" type="uint8" value="1" />
+					<attribute id="Name" type="LSString" value="KungFuCleric" />
+					<attribute id="ProgressionType" type="uint8" value="1" />
+					<!-- 移除了法术选择，后期有需要再加 -->
+					<!-- <attribute id="Selectors" type="LSString" value="AddSpells(c2a50096-81f5-4833-a291-ad82fa558414,ClericDeathDomainSpells,,,AlwaysPrepared)"/> -->
+					<!-- 技能预埋 -->
+					<attribute id="PassivesAdded" type="LSString" value="Passive_KFC_QL_Arua;Passive_KFC_QL_ChargedLightning_Attack;Passive_KFC_QL_ChargedLightning_Electrocute_Armor;Passive_KFC_QL_ChargedLightning_AbilityCheckBoost" />
+					<!-- 神话功法 -->
+					<!-- 防御内功 -->
+					<attribute id="Selectors" type="LSString" value="SelectPassives(8179398c-2568-42a5-a33e-215f2b723f2a,1,MythKungFu);SelectPassives(d9eff3c2-0fa4-4022-9ce3-d684c6d3fa29,3,DefenseKungFu)" />
+					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
+					<attribute id="UUID" type="guid" value="30cbcb19-25ff-488c-aa42-a81e519411a3" />
+				</node>
+			</children>
+		</node>
+	</region>
 </save>

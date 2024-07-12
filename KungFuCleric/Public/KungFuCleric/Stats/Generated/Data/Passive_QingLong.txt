@@ -1,31 +1,28 @@
 // 青龙相关
 new entry "Passive_KFC_QingLong"
 type "PassiveData"
-using "Passive_KFC_QingLong_Arua"
-using "Passive_KFC_QL_ChargedLightning_Attack"
-using "Passive_KFC_QL_ChargedLightning_Electrocute_Armor"
-using "Passive_KFC_QL_ChargedLightning_AbilityCheckBoost"
 data "DisplayName" "h8222880eg02b6g4811gb8d0g05b39677e240;1"
 data "Description" "h6565d090ga0dag46e9gaf3bg41274d714f3f;1"
 // 都用龙族血统的icon
 data "Icon" "GenericIcon_DamageType_Lightning"
 data "Properties" "Highlighted"
-// 尝试下using的写法，暂时隐藏状态
-// data "StatsFunctorContext" "OnCreate"
-// data "StatsFunctors" "ApplyStatus(SELF,STATUS_KFC_QINGLONG,100,0)"
+// data "StatsFunctorContext" "OnCreate;OnLongRest"
+// data "StatsFunctors" "ApplyStatus(SELF,STATUS_KFC_QINGLONG,100,-1)"
 
 // 光环被动
-new entry "Passive_KFC_QingLong_Arua"
+new entry "Passive_KFC_QL_Arua"
 type "PassiveData"
 data "DisplayName" "h5f2662f0g1607g464ag9577gd305ca0945cf;1"
 data "Description" "h6facdd24gf38cg4003ga266ge800bdbf58fb;1"
 data "ExtraDescription" "h268fb659ga380g4a56g8b18g35583282124b;1"
 data "ExtraDescriptionParams" "DealDamage(2d8,Lightning);DealDamage(1d8,Lightning)"
 data "Icon" "PassiveFeature_HeartOfTheStorm_Lightning"
-data "Properties" "Highlighted"
-data "Boosts" "UnlockSpell(Shout_KFC_QingLongMode)"
+data "Properties" "Hidden"
+data "BoostConditions" "HasPassive('Passive_KFC_QingLong',context.Source) and HasStatus('MAG_CHARGED_LIGHTNING',context.Source)"
+// 闪电伤害无视免疫，对闪电免疫，附伤
+data "Boosts" "AC(1);UnlockSpell(Shout_KFC_QingLongMode);WeaponDamage(2d8,Lightning);Resistance(Lightning,Immune);IgnoreResistance(Lightning,Immune);IgnoreResistance(Lightning,Resistant)"
 
-// 攻击获得闪电充能，在有闪电充能时附伤
+// 攻击获得闪电充能
 new entry "Passive_KFC_QL_ChargedLightning_Attack"
 type "PassiveData"
 data "DisplayName" "h48fd8d70gf4c4g44b6ga261gc6e09bb1efd6;1"
@@ -33,13 +30,16 @@ data "Description" "h56131a51g3406g458agaf7bg31c6c618b69e;1"
 data "DescriptionParams" "max(1,DexterityModifier);DealDamage(2d8,Lightning)"
 // 闪电灵光的图标
 data "Icon" "Action_LightningAura"
-data "Properties" "Highlighted"
-data "Boosts" "IF(HasStatus('MAG_CHARGED_LIGHTNING',context.Source)):WeaponDamage(2d8,Lightning)"
+data "Properties" "Hidden"
+// todo: remove
+data "BoostConditions" "HasPassive('Passive_KFC_QingLong',context.Source)"
+data "Boosts" "AC(2)"
 data "StatsFunctorContext" "OnAttack"
-// 移除各种条件
+// 简化条件
+data "Conditions" "HasPassive('Passive_KFC_QingLong',context.Source)"
 data "StatsFunctors" "IF(not HasStatus('MAG_CHARGED_LIGHTNING',context.Source)):ApplyStatus(SELF,MAG_CHARGED_LIGHTNING_LIGHTNING_DAMAGE_ONCE_TECHNICAL,100,0);IF(Character()):ApplyStatus(SELF,MAG_CHARGED_LIGHTNING_GENERATE_CHARGE_FX,100,0);IF(Character() and not IsDischargingLightning(context.Source)):ApplyStatus(SELF,MAG_CHARGED_LIGHTNING,100,max(1,DexterityModifier));ApplyStatus(SELF,MAG_CHARGED_LIGHTNING_DURATION_TECHNICAL,100,1)"
 
-// 在有闪电充能时，对闪电免疫，受到伤害附加感电，类似电流反击，难度调高
+// 在有闪电充能时，受到伤害附加感电，类似电流反击，难度调高
 new entry "Passive_KFC_QL_ChargedLightning_Electrocute_Armor"
 type "PassiveData"
 data "DisplayName" "h401c9cedg0416g44a4g8843gfcf6bb59afcd;1"
@@ -47,13 +47,15 @@ data "Description" "haa72b5bcg5bffg4b72g9839g8ba6ca671afb;1"
 data "DescriptionParams" "max(15,15+DexterityModifier)"
 // 闪电释能的图标
 data "Icon" "Action_LightningBlast"
-data "Properties" "Highlighted"
-data "Boosts" "IF(HasStatus('MAG_CHARGED_LIGHTNING',context.Source)):Resistance(Lightning,Immune)"
+data "Properties" "Hidden"
+// todo: remove
+data "BoostConditions" "HasPassive('Passive_KFC_QingLong',context.Source)"
+data "Boosts" "AC(3)"
 data "StatsFunctorContext" "OnDamaged"
-data "Conditions" "not SavingThrow(Ability.Dexterity,max(15,15+DexterityModifier),false,false,context.Source) and HasStatus('MAG_CHARGED_LIGHTNING')"
+data "Conditions" "HasPassive('Passive_KFC_QingLong',context.Source) and not SavingThrow(Ability.Dexterity,max(15,15+DexterityModifier),false,false,context.Source) and HasStatus('MAG_CHARGED_LIGHTNING')"
 data "StatsFunctors" "ApplyStatus(SWAP,MAG_CHARGED_LIGHTNING_SHOCK_FX,100,0);IF(HasStatus('MAG_CHARGED_LIGHTNING')):ApplyStatus(SWAP,SHOCKED,100,1)"
 
-// 检定加成，闪电伤害无视免疫，类似充能闪电
+// 检定加成，类似充能闪电
 new entry "Passive_KFC_QL_ChargedLightning_AbilityCheckBoost"
 type "PassiveData"
 data "DisplayName" "hda7854f2gdc96g46a9gbcaeg35e3ba1ee43e;1"
@@ -61,7 +63,10 @@ data "Description" "h31574939g5fadg408fgb34cg99d89e1118e4;1"
 data "DescriptionParams" "max(1,DexterityModifier)"
 // 毕竟带着无视免疫，用的元素导师的图标
 data "Icon" "PassiveFeature_ElementalAdept_Lightning"
-data "Properties" "Highlighted"
-data "Boosts" "IF(HasStatus('MAG_CHARGED_LIGHTNING',context.Source)):IgnoreResistance(Lightning,Resistant);IgnoreResistance(Lightning,Immune)"
+data "Properties" "Hidden"
+// todo: remove
+data "BoostConditions" "HasPassive('Passive_KFC_QingLong',context.Source)"
+data "Boosts" "AC(4)"
 data "StatsFunctorContext" "OnStatusRemoved;OnStatusApplied"
+data "Conditions" "HasPassive('Passive_KFC_QingLong',context.Source)"
 data "StatsFunctors" "IF(context.HasContextFlag(StatsFunctorContext.OnStatusRemoved) and not HasStatus('MAG_CHARGED_LIGHTNING')):RemoveStatus(MAG_CHARGED_LIGHTNING_ABILITY_CHECK_BOOST);IF(context.HasContextFlag(StatsFunctorContext.OnStatusApplied) and StatusId('MAG_CHARGED_LIGHTNING')):ApplyStatus(MAG_CHARGED_LIGHTNING_ABILITY_CHECK_BOOST,100,-max(1,DexterityModifier))"
