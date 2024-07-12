@@ -1,16 +1,27 @@
 // 金刚不坏体
 new entry "Passive_KFC_JinGangBuHuaiTi"
+using "Passive_KFC_JinGangBuHuaiShenGong"
 type "PassiveData"
 data "DisplayName" "h86e86573gc282g4b56gb89ag4e8996f706a2;1"
 data "Description" "h91389a51g2529g4c1bg8431g0b9744157463;1"
-data "DescriptionParams" "max(1,ConstitutionModifier)"
+data "DescriptionParams" "2;max(1,ConstitutionModifier)"
 // 无甲防御的图标(带Barbarian是金色版)
 data "Icon" "PassiveFeature_UnarmoredDefense_Barbarian"
 data "Properties" "Highlighted"
 // 目前未装备护甲时的写法不生效，暂且移除
 // data "BoostContext" "OnCreate;OnEquip"
-// data "BoostConditions" "not WearingArmor(context.Source)"
-data "Boosts" "AC(max(1,ConstitutionModifier));DamageReduction(Piercing,Flat,max(1,ConstitutionModifier));DamageReduction(Bludgeoning,Flat,max(1,ConstitutionModifier));DamageReduction(Slashing,Flat,max(1,ConstitutionModifier))"
+data "BoostConditions" "not WearingArmor(context.Source)"
+data "Boosts" "AC(2);DamageReduction(Piercing,Flat,max(1,ConstitutionModifier));DamageReduction(Bludgeoning,Flat,max(1,ConstitutionModifier));DamageReduction(Slashing,Flat,max(1,ConstitutionModifier))"
+
+// 金刚不坏神功，主动开启
+new entry "Passive_KFC_JinGangBuHuaiShenGong"
+type "PassiveData"
+data "DisplayName" "h86e86573gc282g4b56gb89ag4e8996f706a2;1"
+data "Description" "h91389a51g2529g4c1bg8431g0b9744157463;1"
+// 栉吾还击的图标
+data "Icon" "Spell_Abjuration_MageArmor"
+data "Properties" "Highlighted;IsToggled;ToggledDefaultAddToHotbar;ToggledDefaultOn"
+data "Boosts" "Resistance(Slashing,Immune);Resistance(Piercing,Immune);Resistance(Bludgeoning,Immune);AC(2);ActionResource(Movement,-5, 0)"
 
 // 不死印法
 new entry "Passive_KFC_BuSiYinFa"
