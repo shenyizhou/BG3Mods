@@ -37,4 +37,14 @@
     <content contentuid="hfe9f531bg760fg475dgab51g2a71f294c35d" version="1">让自己的真气内力生生不息永不衰竭的法门。每提升1级，生命值上限增加[1](体力&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;和敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;之和)；你的死亡豁免检定更容易成功；当你成功通过一次死亡豁免检定时，恢复[2]点生命值。</content>
     <content contentuid="h4590d42cg7a63g48b2gaed2g8b457fcd8fe5" version="1">天蚕功</content>
     <content contentuid="hdd847a96g0c2eg41e1ga736g00e7c38e1e5b" version="1">此功施展之下掌心流窜晶光一片，一种蚕丝也似的丝状物出现。你不会陷入&lt;LSTag Type="Status" Tooltip="ENSNARED_VINES"&gt;缠绕&lt;/LSTag&gt;状态；每次你受到伤害时，恢复[1]生命值，攻击者必须进行&lt;LSTag Tooltip="DifficultyClass"&gt;难度等级&lt;/LSTag&gt;为[1](10+敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;)的敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;，如果失败将陷入&lt;LSTag Type="Status" Tooltip="ENSNARED_VINES"&gt;缠绕&lt;/LSTag&gt;状态。被缠绕的生物无法移动。</content>
+    <!-- 反击功法 -->
+    <content contentuid="h417b8404gad11g47b3g989eg67763535b242" version="1">乾坤大挪移</content>
+    <content contentuid="h4fb1ac90gb530g46c1g80b6g92ef5218f482" version="1">瓦解一切敌人的指向性法术。</content>
+    <content contentuid="h3d939e1ag9bf7g4fdeg894ag8903924c3295" version="1">御物</content>
+    <content contentuid="h82937870gace4g462eg8648gdfa7b2350918" version="1">减少远程武器对你的伤害，如果你完全挡下此次攻击，则可将其投射回去。</content>
+    <content contentuid="h5c7ceaeag7b34g46b1g9dfcg40b86c131b16" version="1">太极拳</content>
+    <content contentuid="hf0ef0c0fgcf66g497ag8f14geda7f04209bb" version="1">获得一个额外反应。能够使用反应“太极拳”，对攻击你的目标进行反击</content>
+    <!-- 外功招式 -->
+    <content contentuid="h0c7e2f77g70afg4e93g9fcege1f7a65c9fa8" version="1">降龙</content>
+    <content contentuid="h69952e20gdc68g4911gbd55g9c71af56a0ab" version="1">敏捷+2，魅力+2，对一个目标攻击一次，造成钝击伤害，不消耗动作</content>
 </contentList>

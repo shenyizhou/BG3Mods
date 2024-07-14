@@ -48,3 +48,204 @@ data "Properties" "Highlighted"
 data "Boosts" "StatusImmunity(ENSNARED_VINES)"
 data "StatsFunctorContext" "OnDamaged"
 data "StatsFunctors" "RegainHitPoints(SELF,max(Level,Level*ConstitutionModifier));IF(not SavingThrow(Ability.Dexterity,max(10,10+DexterityModifier),false,false,context.Source)):ApplyStatus(SWAP,ENSNARED_VINES,100,1)"
+
+// 乾坤大挪移
+new entry "shenmingling"
+type "PassiveData"
+data "DisplayName" "h27102227g7757g4b13g823fgcbe66a1d534d;1"
+data "Description" "hd23ccb90gea37g4301g90bdg2dbd9401357a;1"
+data "Icon" "PassiveFeature_Generic_Darkness"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockInterrupt(shenmingilng_1)"
+
+// 斗转星移
+new entry "yuwu"
+type "PassiveData"
+data "DisplayName" "h3d939e1ag9bf7g4fdeg894ag8903924c3295;1"
+data "Description" "h82937870gace4g462eg8648gdfa7b2350918;1"
+data "ExtraDescription" "hce60d25egdd6cg4173g88dfgde55fcfeefcc;3"
+data "TooltipUseCosts" "ReactionActionPoint:0"
+data "Icon" "Action_EndGameAlly_FlamingFistSummon"
+data "Properties" "Highlighted"
+data "Boosts" "IF(not HasStatus('SG_Polymorph_BeastShape')):UnlockInterrupt(yuwu_1);UnlockInterrupt(yuwu_2)"
+data "StatsFunctorContext" "OnCreate;OnLongRest"
+data "StatsFunctors" "UseActionResource(DeflectMissiles_Charge,1,0)"
+
+// 太极拳
+new entry "TaiJiQuan"
+type "PassiveData"
+data "DisplayName" "h5c7ceaeag7b34g46b1g9dfcg40b86c131b16;1"
+data "Description" "hf0ef0c0fgcf66g497ag8f14geda7f04209bb;1"
+data "Icon" "PassiveFeature_Generic_Magical"
+data "Properties" "Highlighted"
+data "Boosts" "ActionResource(ReactionActionPoint,1,0);UnlockSpell(taiji_1);IF(not HasStatus('INCAPACITATED_DND')):UnlockInterrupt(TaiJiQuan_1)"
+
+// 六合八荒唯我独尊功
+new entry "busikuangnu"
+type "PassiveData"
+data "DisplayName" "hee8528f7g8e4fg4d7egb9a1g2909c3210e4d;1"
+data "Description" "h31446535gb5e7g4d43g9c29gdbab01187a32;1"
+data "Icon" "TadpoleSuperPower_StageFright_2"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockInterrupt(busikuangnu_1)"
+
+// 皇帝内经
+new entry "TaiJiQuan22"
+type "PassiveData"
+data "DisplayName" "h5c7ceaeag7b34g46b1g9dfcg40b86c131b16;1"
+data "Description" "hf0ef0c0fgcf66g497ag8f14geda7f04209bb;1"
+data "Icon" "PassiveFeature_Generic_Magical"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockSpell(hongshou_1);UnlockSpell(hongshou_2)"
+
+// 神照经
+new entry "TaiJiQuan11"
+type "PassiveData"
+data "DisplayName" "h5c7ceaeag7b34g46b1g9dfcg40b86c131b16;1"
+data "Description" "hf0ef0c0fgcf66g497ag8f14geda7f04209bb;1"
+data "Icon" "PassiveFeature_Generic_Magical"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockSpell(Teleportation_TrueResurrection_Scroll)"
+
+// 太玄经
+new entry "MAG_Critical_CriticalSwiftness_Passive"
+type "PassiveData"
+data "DisplayName" "h4af7448ag6a0eg4259g8114g8eb297fec991;2"
+data "Description" "hb91d1e6bgf680g4749g84d9g601324202509;3"
+data "StatsFunctorContext" "OnDamage"
+data "StatsFunctors" "IF(IsCritical() or IsKillingBlow()):RestoreResource(SELF, Movement, 100%, 0)"
+
+
+// 鬼影迷踪
+new entry "IllusorySelf"
+type "PassiveData"
+data "DisplayName" "ha3ef73edg81b6g43b5gb42eg4f8103245a86;2"
+data "Description" "hb8c133f6gbebeg4fb7gaddag354ac13d83b9;3"
+data "TooltipUseCosts" "ReactionActionPoint:1"
+data "Icon" "PassiveFeature_IllusorySelf"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockInterrupt(Interrupt_IllusorySelf1);ActionResource(Interrupt_IllusorySelf_Charge,1,0)"
+
+// 螺旋九影
+new entry "Shout_MirrorImage"
+type "SpellData"
+data "SpellType" "Shout"
+data "Level" "2"
+data "SpellSchool" "Illusion"
+data "SpellProperties" "ApplyStatus(MIRROR_IMAGE_3,100,10);ApplyStatus(MIRROR_IMAGE_2,100,10);ApplyStatus(MIRROR_IMAGE_1,100,10)"
+data "TargetConditions" "Self()"
+data "Icon" "Spell_Illusion_MirrorImage"
+data "DisplayName" "h72b46baeg6aebg441dg8353g88a660c5321c;1"
+data "Description" "h2724fcdeg5687g46ecgbda1g629e1803cd56;5"
+data "ExtraDescription" "heae67680g762fg492agbb87g7506fb6bf21d;2"
+data "TooltipStatusApply" "ApplyStatus(MIRROR_IMAGE_1,100,10)"
+data "TooltipUpcastDescription" "6ff1780a-855a-414c-a8bf-811251537206"
+data "PrepareSound" "Spell_Prepare_Buff_Gen_L1to3_01"
+data "PrepareLoopSound" "Spell_Prepare_Buff_Gen_L1to3_01_Loop"
+data "CastSound" "Spell_Cast_Buff_MirrorImage_L1to3"
+data "VocalComponentSound" "Vocal_Component_CastIllusion"
+data "CastTextEvent" "Cast"
+data "UseCosts" "ActionPoint:1;SpellSlotsGroup:1:1:2"
+data "SpellAnimation" "03496c4a-49e0-4132-b585-3e5ecd1ad8e5,,;,,;4156d364-d2c0-4a01-908c-3552f78f434d,,;6f0a29b6-0ae8-4ebf-a1e4-8069c4a6ad16,,;a9682ef9-5d9e-4ac0-8144-2c7fe6eb868c,,;,,;32fb4d91-7fde-4b05-9144-ea87b9a4284a,,;,,;,,"
+data "VerbalIntent" "Buff"
+data "SpellFlags" "IsSpell;HasVerbalComponent;HasSomaticComponent"
+data "HitAnimationType" "MagicalNonDamage"
+data "MemoryCost" "1"
+data "PrepareEffect" "33302a46-4a12-41dd-8845-6b7314d50022"
+data "CastEffect" "1a4b0423-005b-4577-b376-815a08809675"
+
+// 五雷天心诀
+new entry "Passive_KFC_QingLong"
+type "PassiveData"
+data "DisplayName" "h8222880eg02b6g4811gb8d0g05b39677e240;1"
+data "Description" "h6565d090ga0dag46e9gaf3bg41274d714f3f;1"
+// 都用龙族血统的icon
+data "Icon" "GenericIcon_DamageType_Lightning"
+data "Properties" "Highlighted"
+// data "StatsFunctorContext" "OnCreate;OnLongRest"
+// data "StatsFunctors" "ApplyStatus(SELF,STATUS_KFC_QINGLONG,100,-1)"
+
+// 光环被动
+new entry "Passive_KFC_QL_Arua"
+type "PassiveData"
+data "DisplayName" "h5f2662f0g1607g464ag9577gd305ca0945cf;1"
+data "Description" "h6facdd24gf38cg4003ga266ge800bdbf58fb;1"
+data "ExtraDescription" "h268fb659ga380g4a56g8b18g35583282124b;1"
+data "ExtraDescriptionParams" "DealDamage(2d8,Lightning);DealDamage(1d8,Lightning)"
+data "Icon" "PassiveFeature_HeartOfTheStorm_Lightning"
+data "Properties" "IsHidden"
+data "BoostConditions" "HasPassive('Passive_KFC_QingLong',context.Source)"
+// 闪电伤害无视免疫，对闪电免疫，附伤
+data "Boosts" "AC(1);UnlockSpell(Shout_KFC_QingLongMode);WeaponDamage(2d8,Lightning);Resistance(Lightning,Immune);IgnoreResistance(Lightning,Immune);IgnoreResistance(Lightning,Resistant)"
+
+// 攻击获得闪电充能
+new entry "Passive_KFC_QL_ChargedLightning_Attack"
+type "PassiveData"
+data "DisplayName" "h48fd8d70gf4c4g44b6ga261gc6e09bb1efd6;1"
+data "Description" "h56131a51g3406g458agaf7bg31c6c618b69e;1"
+data "DescriptionParams" "max(1,DexterityModifier);DealDamage(2d8,Lightning)"
+// 闪电灵光的图标
+data "Icon" "Action_LightningAura"
+data "Properties" "IsHidden"
+// todo: remove
+data "BoostConditions" "HasPassive('Passive_KFC_QingLong',context.Source)"
+data "Boosts" "AC(2)"
+data "StatsFunctorContext" "OnAttack"
+// 简化条件
+data "Conditions" "HasPassive('Passive_KFC_QingLong',context.Source)"
+data "StatsFunctors" "IF(not HasStatus('MAG_CHARGED_LIGHTNING',context.Source)):ApplyStatus(SELF,MAG_CHARGED_LIGHTNING_LIGHTNING_DAMAGE_ONCE_TECHNICAL,100,0);IF(Character()):ApplyStatus(SELF,MAG_CHARGED_LIGHTNING_GENERATE_CHARGE_FX,100,0);IF(Character() and not IsDischargingLightning(context.Source)):ApplyStatus(SELF,MAG_CHARGED_LIGHTNING,100,max(1,DexterityModifier));ApplyStatus(SELF,MAG_CHARGED_LIGHTNING_DURATION_TECHNICAL,100,1)"
+
+// 在有闪电充能时，受到伤害附加感电，类似电流反击，难度调高
+new entry "Passive_KFC_QL_ChargedLightning_Electrocute_Armor"
+type "PassiveData"
+data "DisplayName" "h401c9cedg0416g44a4g8843gfcf6bb59afcd;1"
+data "Description" "haa72b5bcg5bffg4b72g9839g8ba6ca671afb;1"
+data "DescriptionParams" "max(15,15+DexterityModifier)"
+// 闪电释能的图标
+data "Icon" "Action_LightningBlast"
+data "Properties" "IsHidden"
+// todo: remove
+data "BoostConditions" "HasPassive('Passive_KFC_QingLong',context.Source)"
+data "Boosts" "AC(3)"
+data "StatsFunctorContext" "OnDamaged"
+data "Conditions" "HasPassive('Passive_KFC_QingLong',context.Source) and not SavingThrow(Ability.Dexterity,max(15,15+DexterityModifier),false,false,context.Source) and HasStatus('MAG_CHARGED_LIGHTNING')"
+data "StatsFunctors" "ApplyStatus(SWAP,MAG_CHARGED_LIGHTNING_SHOCK_FX,100,0);IF(HasStatus('MAG_CHARGED_LIGHTNING')):ApplyStatus(SWAP,SHOCKED,100,1)"
+
+// 检定加成，类似充能闪电
+new entry "Passive_KFC_QL_ChargedLightning_AbilityCheckBoost"
+type "PassiveData"
+data "DisplayName" "hda7854f2gdc96g46a9gbcaeg35e3ba1ee43e;1"
+data "Description" "h31574939g5fadg408fgb34cg99d89e1118e4;1"
+data "DescriptionParams" "max(1,DexterityModifier)"
+// 毕竟带着无视免疫，用的元素导师的图标
+data "Icon" "PassiveFeature_ElementalAdept_Lightning"
+data "Properties" "IsHidden"
+// todo: remove
+data "BoostConditions" "HasPassive('Passive_KFC_QingLong',context.Source)"
+data "Boosts" "AC(4)"
+data "StatsFunctorContext" "OnStatusRemoved;OnStatusApplied"
+data "Conditions" "HasPassive('Passive_KFC_QingLong',context.Source)"
+data "StatsFunctors" "IF(context.HasContextFlag(StatsFunctorContext.OnStatusRemoved) and not HasStatus('MAG_CHARGED_LIGHTNING')):RemoveStatus(MAG_CHARGED_LIGHTNING_ABILITY_CHECK_BOOST);IF(context.HasContextFlag(StatsFunctorContext.OnStatusApplied) and StatusId('MAG_CHARGED_LIGHTNING')):ApplyStatus(MAG_CHARGED_LIGHTNING_ABILITY_CHECK_BOOST,100,-max(1,DexterityModifier))"
+
+// 朱雀相关
+new entry "Passive_KFC_ZhuQue"
+type "PassiveData"
+data "DisplayName" "h3b592d2fgbaddg4a6dg9164g4f7ae5231336;1"
+data "Description" "h159375b1g02b1g4e94gb408g4fca44bea26c;1"
+// 都用龙族血统的icon好了，火焰用的红龙
+data "Icon" "PassiveFeature_DraconicAncestry_Red"
+data "Properties" "IsToggled;Highlighted;ToggledDefaultAddToHotbar"
+data "StatsFunctorContext" "OnCreate"
+data "StatsFunctors" "ApplyStatus(SELF, STATUS_KFC_ZHUQUE, 100, -1)"
+data "ToggleGroup" "KFC_Myth"
+
+new entry "Passive_KFC_ZQ_FireShield"
+type "PassiveData"
+data "DisplayName" "h967349e8g79acg4187gb87egaed902982c8a;1"
+data "Description" "hb6cc3a06gbe30g4fc9gada9gc8d15a7d9f8e;1"
+data "DescriptionParams" "DealDamage(2d8,Fire)"
+data "Icon" "Spell_Evocation_FireShield_Warm"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttacked"
+data "Conditions" "IsMeleeAttack() and HasDamageEffectFlag(DamageFlags.Hit)"
+data "StatsFunctors" "ApplyStatus(PASSIVE_FIRE_SHIELD_WARM,100,0);ApplyStatus(SELF,PASSIVE_FIRE_SHIELD_WARM_ATTACKER,100,0);DealDamage(SWAP,2d8,Fire,Magical);ApplyStatus(PASSIVE_FIRE_SHIELD_CHILL,100,0);ApplyStatus(SELF,PASSIVE_FIRE_SHIELD_CHILL_ATTACKER,100,0);DealDamage(SWAP,2d8,Cold,Magical)"

@@ -1,0 +1,84 @@
+// 状态汇总
+// 优势
+// Advantage(AttackRoll); // 攻击掷骰优势。
+// Advantage(AttackTarget); // 被攻击优势。妖火。
+
+// 抗性
+// Resistance(...,ResistantToNonMagical); // 对非魔法攻击的抗性。
+
+// 异常状态
+// StatusImmunity(BLEEDING); // 流血
+
+// 免疫相关：劣势地形、倒地、束缚、麻痹、隐形。
+// StatusImmunity(SG_DifficultTerrain);
+// StatusImmunity(SG_Prone);
+// StatusImmunity(SG_Restrained);
+// StatusImmunity(SG_Paralyzed);
+// StatusImmunity(SG_Invisible);
+
+// 劣势地形相关：蛛网、淤泥、藤蔓、植物滋长、岩浆、深水
+// 移动消耗翻倍（除了植物滋长）
+// StatusImmunity(DIFFICULT_TERRAIN);
+// StatusImmunity(DIFFICULT_TERRAIN_WEB);
+// StatusImmunity(DIFFICULT_TERRAIN_MUD);
+// StatusImmunity(DIFFICULT_TERRAIN_VINES);
+// StatusImmunity(DIFFICULT_TERRAIN_OVERGROWTH); // 移动速度降为1/4
+// StatusImmunity(DIFFICULT_TERRAIN_LAVA);
+// StatusImmunity(DIFFICULT_TERRAIN_DEEPWATER);
+
+// 倒伏相关：油脂、水面、冰面、坠落、雷击、命令术：匍匐、邪魔敬意：下跪
+// 无法移动、动作、附赠动作或反应，力量和敏捷豁免劣势，被攻击优势，耗费一半移动起身。
+// StatusImmunity(PRONE);
+// StatusImmunity(PRONE_GREASE);
+// StatusImmunity(PRONE_SEWER);
+// StatusImmunity(PRONE_ICE);
+// StatusImmunity(PRONE_FALLEN);
+// StatusImmunity(PRONE_THUNDEROUS_SMITE);
+// StatusImmunity(COMMAND_GROVEL);
+// StatusImmunity(IRN_IRONTHRONE_RAVENGARDPRONE);
+
+// 其他倒伏相关：免疫狂笑术、昏迷、倒地、电能冲击
+// StatusImmunity(HIDEOUS_LAUGHTER); // 无法移动、动作、附赠动作或反应，力量和敏捷豁免劣势，被攻击优势，回合结束或受到伤害概率恢复。
+// StatusImmunity(UNCONSCIOUS); // 无法移动、动作、附赠动作或反应，长休后恢复。
+// StatusImmunity(KNOCKED_DOWN); // 无法行动。
+// StatusImmunity(SHOCKWAVE);
+
+// 隐形相关
+// Invisibility(); // 隐形
+// DetectDisturbancesBlock(true); // 阻止检测
+
+// 捕获相关
+// StatusImmunity(ENSNARED);
+// StatusImmunity(ENSNARED_VINES); // 被缠绕
+// StatusImmunity(ENSNARING_STRIKE);
+// StatusImmunity(ENSNARING_STRIKE_2);
+
+// 移动不会受阻（伤筋、受制、跛足、网缚）
+// StatusImmunity(HAMSTRING); // 移动减少x。
+// StatusImmunity(PIN_DOWN); // 移动减少x。
+// StatusImmunity(CRIPPLED); // 移动降到0，敏捷劣势。
+// StatusImmunity(WEB); // 无法移动，被攻击优势，攻击和敏捷劣势。
+
+// 不会被法术或动作强行移动
+// Attribute(Grounded);
+// 浮空
+// Attribute(Floating);
+// CanShootThrough(true); // 允许攻击穿透该角色。
+// CanWalkThrough(true); // 允许其他角色穿过该角色。
+
+// 无法被缴械
+// CannotBeDisarmed();
+
+// 忽视追击距离
+// IgnoreLeaveAttackRange;
+
+// 免疫坠落伤害
+// IgnoreFallDamage();
+
+// 跳跃距离提高
+// JumpMaxDistanceBonus(1);
+
+// 阻止
+// VoicebarkBlock(); // 攻击
+// BlockSpellCast(); // 施法
+// DialogueBlock(); // 说话
