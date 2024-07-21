@@ -11,19 +11,12 @@
                     <attribute id="ProgressionTableId" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a"/>
                     <attribute id="UUID" type="guid" value="b22462cd-d9de-412a-bd8f-63855c9795ef"/>
                 </node>
-                <!-- 神话功法 -->
-                <node id="ProgressionDescription">
-                    <attribute id="Description" type="TranslatedString" handle="hd3f6582ag93fag4087gbd19gcfe72c1a147b" version="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hb1aae83cgf92dg4f82gb479g9cee8b7a6f49" version="1"/>
-                    <attribute id="SelectorId" type="FixedString" value="MythKungFu"/>
-                    <attribute id="ProgressionTableId" type="guid" value="8947a7c9-f7e8-4038-ba6a-59de9431f18c"/>
-                    <attribute id="UUID" type="guid" value="722c8634-b956-47c1-bd59-a08e95d9a2a4"/>
                 </node>
-                <!-- 防御内功 -->
+                <!-- 轻功 -->
                 <node id="ProgressionDescription">
                     <attribute id="Description" type="TranslatedString" handle="h6a27bd83gbff9g449bgbd0bg7ab357df5e21" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="he94a2dbfg4862g4eb0ga2dbg066ba04130a3" version="1"/>
-                    <attribute id="SelectorId" type="FixedString" value="DefenseKungFu"/>
+                    <attribute id="SelectorId" type="FixedString" value="QingGong"/>
                     <attribute id="ProgressionTableId" type="guid" value="17850d9a-0537-4e73-b24d-270b51c06c51"/>
                     <attribute id="UUID" type="guid" value="b454bced-6b5c-41c5-8bcd-f136cc0bd735"/>
                 </node>

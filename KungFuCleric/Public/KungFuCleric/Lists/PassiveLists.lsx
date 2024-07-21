@@ -4,13 +4,9 @@
     <region id="PassiveLists">
         <node id="root">
             <children>
+                <!-- 轻功 -->
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Passive_KFC_QingLong,Passive_KFC_ZhuQue"/>
-                    <attribute id="UUID" type="guid" value="8179398c-2568-42a5-a33e-215f2b723f2a"/>
-                </node>
-                <node id="PassiveList">
-                    <!-- 先保留主动开启的效果 -->
-                    <attribute id="Passives" type="LSString" value="Passive_KFC_JinGangBuHuaiShenGong,Passive_KFC_BuSiYinFa,Passive_KFC_TianCanGong"/>
+                    <attribute id="Passives" type="LSString" value="Passive_KFC_YiWeiDuJiang,Passive_KFC_TiYunZong,Passive_KFC_LingBoWeiBu,Passive_KFC_FeiXuQingYanGong,Passive_KFC_GuiYingMiZongBu"/>
                     <attribute id="UUID" type="guid" value="d9eff3c2-0fa4-4022-9ce3-d684c6d3fa29"/>
                 </node>
             </children>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-  <version major="4" minor="0" revision="0" build="49" />
+  <version major="4" minor="0" revision="0" build="0" />
   <region id="Config">
     <node id="root">
       <children>
@@ -8,7 +8,7 @@
         <node id="ModuleInfo">
           <attribute id="Author" type="LSWString" value="ShenLang" />
           <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
-          <attribute id="Description" type="LSWString" value="牧师斗魂领域子职业" />
+          <attribute id="Description" type="LSWString" value="牧师武功领域子职业" />
           <attribute id="Folder" type="LSWString" value="KungFuCleric" />
           <attribute id="GMTemplate" type="FixedString" value="" />
           <attribute id="LobbyLevelName" type="FixedString" value="" />

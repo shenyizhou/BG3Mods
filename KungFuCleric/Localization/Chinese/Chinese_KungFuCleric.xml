@@ -1,50 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
     <content contentuid="hf9ae34c1g23a1g4db9gb0dbg53aaf95eef82" version="1">武功领域</content>
-    <content contentuid="he84d54b6g3bd0g4693g9cb3g148897371853" version="1">武功领域注重修习各种武功功法。</content>
+    <content contentuid="he84d54b6g3bd0g4693g9cb3g148897371853" version="1">习武之人谨记，仁者无敌！</content>
     <content contentuid="hbd34047cg9f09g43c6g8c47g590bb07f9d17" version="1">武功</content>
-    <!-- 各种神兽及其对应的属性能力，主动状态每次只能开启其一 -->
-    <content contentuid="hd3f6582ag93fag4087gbd19gcfe72c1a147b" version="1">神话功法</content>
-    <content contentuid="hb1aae83cgf92dg4f82gb479g9cee8b7a6f49" version="1">选择你所感悟的神话生物对应属性的功法进行修习。</content>
-    <!-- 青龙·五雷天心诀 -->
-    <content contentuid="h8222880eg02b6g4811gb8d0g05b39677e240" version="1">青龙·五雷天心诀</content>
-    <content contentuid="h6565d090ga0dag46e9gaf3bg41274d714f3f" version="1">千重霄远乾坤近，倚石来补帝王衿。临风把酒萧然泪，化雷难抚断剑心。获得&lt;LSTag Type="Passive" Tooltip="Passive_KFC_QL_Arua"&gt;青龙·神霄&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_QL_ChargedLightning_Attack"&gt;青龙·芒破&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_QL_ChargedLightning_Electrocute_Armor"&gt;青龙·雷元&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_QL_ChargedLightning_AbilityCheckBoost"&gt;青龙·青遥&lt;/LSTag&gt;被动。</content>
-    <content contentuid="h5f2662f0g1607g464ag9577gd305ca0945cf" version="1">青龙·神霄</content>
-    <content contentuid="h6facdd24gf38cg4003ga266ge800bdbf58fb" version="1">经脉蕴有奔雷，不必引由，随手一掌便有雷霆万钧之力。获得进入&lt;LSTag Type="Status" Tooltip="STATIC_KFC_QL_DISCHARGE_ARUA"&gt;神霄&lt;/LSTag&gt;状态的能力，对附近敌人造成&lt;LSTag Type="Status" Tooltip="STATIC_KFC_QL_DISCHARGE_ENEMY"&gt;神霄&lt;/LSTag&gt;伤害，并强化附近队友进入&lt;LSTag Type="Status" Tooltip="STATIC_KFC_QL_DISCHARGE_ALLY"&gt;卧霆&lt;/LSTag&gt;状态。</content>
-    <content contentuid="h017e8941g90beg4719g82d9ge53790d55f05" version="1">经脉蕴有奔雷，不必引由，随手一掌便有雷霆万钧之力。进入&lt;LSTag Type="Status" Tooltip="STATIC_KFC_QL_DISCHARGE_ARUA"&gt;神霄&lt;/LSTag&gt;状态[1]回合，对附近敌人造成&lt;LSTag Type="Status" Tooltip="STATIC_KFC_QL_DISCHARGE_ENEMY"&gt;神霄&lt;/LSTag&gt;伤害，并强化附近队友进入&lt;LSTag Type="Status" Tooltip="STATIC_KFC_QL_DISCHARGE_ALLY"&gt;卧霆&lt;/LSTag&gt;状态。</content>
-    <content contentuid="h52fd5e84g81c5g4f2fga375g6f85c8051c8c" version="1">神霄</content>
-    <content contentuid="h268fb659ga380g4a56g8b18g35583282124b" version="1">附近敌人每回合受到[1]，且无法做出反应；如果发起攻击，则会受到一个额外的[1]。附近队友的武器攻击造成一个额外的[2]，并获得闪电伤害&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
-    <content contentuid="h030d5ad3gd8e7g4904gaea0g14f313e1ae52" version="1">奔雷游走，使出雷霆万钧之力。站在&lt;LSTag Type="Status" Tooltip="STATIC_KFC_QL_DISCHARGE_ARUA"&gt;神霄&lt;/LSTag&gt;状态附近时，每回合受到[1]，且无法作出反应；如果发起攻击，则会受到一个额外的[1]。</content>
-    <content contentuid="h97d6bc27gfcf9g4a42g9a37gc2c931ca7dd3" version="1">卧霆</content>
-    <content contentuid="h3417d7e6g9fb5g4003gbd52gcb702dc0cb6a" version="1">以雷为势，发肤微动皆魄若雷鸣，虽有万军所阻，亦势不可挡。站在&lt;LSTag Type="Status" Tooltip="STATIC_KFC_QL_DISCHARGE_ARUA"&gt;神霄&lt;/LSTag&gt;状态附近时，造成一个额外的[1]，并获得闪电伤害&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
-    <content contentuid="h48fd8d70gf4c4g44b6ga261gc6e09bb1efd6" version="1">青龙·芒破</content>
-    <content contentuid="h56131a51g3406g458agaf7bg31c6c618b69e" version="1">以雷做兵刃，碎石切物，无往不利。攻击命中目标时，获得[1](敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;)层&lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;闪电充能&lt;/LSTag&gt;；在拥有&lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;闪电充能&lt;/LSTag&gt;状态时，你的武器额外造成[2]。</content>
-    <content contentuid="hda7854f2gdc96g46a9gbcaeg35e3ba1ee43e" version="1">青龙·青遥</content>
-    <content contentuid="h31574939g5fadg408fgb34cg99d89e1118e4" version="1">以雷作神速身法。在拥有&lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;闪电充能&lt;/LSTag&gt;状态时才能生效。你施展的法术和攻击无视闪电伤害&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;；在力量与敏捷&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;中获得+[1](敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;)的加成。</content>
-    <content contentuid="h401c9cedg0416g44a4g8843gfcf6bb59afcd" version="1">青龙·雷元</content>
-    <content contentuid="haa72b5bcg5bffg4b72g9839g8ba6ca671afb" version="1">引天雷入体。在拥有&lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;闪电充能&lt;/LSTag&gt;状态时才能生效。&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;闪电伤害；在受到伤害时，攻击者必须进行&lt;LSTag Tooltip="DifficultyClass"&gt;难度等级&lt;/LSTag&gt;为[1](15+敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;)的敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;，如果失败将被施加&lt;LSTag Type="Status" Tooltip="SHOCKED"&gt;感电&lt;/LSTag&gt;。</content>
-    <!-- 朱雀·凤舞九天 -->
-    <content contentuid="h3b592d2fgbaddg4a6dg9164g4f7ae5231336" version="1">朱雀·凤舞九天</content>
-    <content contentuid="h159375b1g02b1g4e94gb408g4fca44bea26c" version="1">朱雀·凤舞九天。</content>
-    <!-- 防御内功 -->
-    <content contentuid="h6a27bd83gbff9g449bgbd0bg7ab357df5e21" version="1">防御内功</content>
-    <content contentuid="he94a2dbfg4862g4eb0ga2dbg066ba04130a3" version="1">选择你所感悟的防御内功进行修习。</content>
-    <content contentuid="h86e86573gc282g4b56gb89ag4e8996f706a2" version="1">金刚不坏体</content>
-    <content contentuid="h91389a51g2529g4c1bg8431g0b9744157463" version="1">外表如穿金甲，抵御一切外力袭击。未装备护甲时才能生效。护甲等级获得+[1]的加值，且受所有钝击、穿刺以及挥砍伤害减少[2]体力(&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;)。</content>
-    <content contentuid="h883637a7g1125g4809gb4d9g17ba42d40e71" version="1">金刚不坏神功</content>
-    <content contentuid="h91389a51g2529g4c1bg8431g0b9744157463" version="1">开启金刚不坏神功。未装备护甲时才能生效。护甲等级获得+[1]的加值，免疫所有钝击、穿刺以及挥砍伤害。&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;减少[2]。</content>
-    <content contentuid="heafd6140g8985g46e0g87a8g6c9e739a8523" version="1">不死印法</content>
-    <content contentuid="hfe9f531bg760fg475dgab51g2a71f294c35d" version="1">让自己的真气内力生生不息永不衰竭的法门。每提升1级，生命值上限增加[1](体力&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;和敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;之和)；你的死亡豁免检定更容易成功；当你成功通过一次死亡豁免检定时，恢复[2]点生命值。</content>
-    <content contentuid="h4590d42cg7a63g48b2gaed2g8b457fcd8fe5" version="1">天蚕功</content>
-    <content contentuid="hdd847a96g0c2eg41e1ga736g00e7c38e1e5b" version="1">此功施展之下掌心流窜晶光一片，一种蚕丝也似的丝状物出现。你不会陷入&lt;LSTag Type="Status" Tooltip="ENSNARED_VINES"&gt;缠绕&lt;/LSTag&gt;状态；每次你受到伤害时，恢复[1]生命值，攻击者必须进行&lt;LSTag Tooltip="DifficultyClass"&gt;难度等级&lt;/LSTag&gt;为[1](10+敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;)的敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;，如果失败将陷入&lt;LSTag Type="Status" Tooltip="ENSNARED_VINES"&gt;缠绕&lt;/LSTag&gt;状态。被缠绕的生物无法移动。</content>
-    <!-- 反击功法 -->
-    <content contentuid="h417b8404gad11g47b3g989eg67763535b242" version="1">乾坤大挪移</content>
-    <content contentuid="h4fb1ac90gb530g46c1g80b6g92ef5218f482" version="1">瓦解一切敌人的指向性法术。</content>
-    <content contentuid="h3d939e1ag9bf7g4fdeg894ag8903924c3295" version="1">御物</content>
-    <content contentuid="h82937870gace4g462eg8648gdfa7b2350918" version="1">减少远程武器对你的伤害，如果你完全挡下此次攻击，则可将其投射回去。</content>
-    <content contentuid="h5c7ceaeag7b34g46b1g9dfcg40b86c131b16" version="1">太极拳</content>
-    <content contentuid="hf0ef0c0fgcf66g497ag8f14geda7f04209bb" version="1">获得一个额外反应。能够使用反应“太极拳”，对攻击你的目标进行反击</content>
-    <!-- 外功招式 -->
-    <content contentuid="h0c7e2f77g70afg4e93g9fcege1f7a65c9fa8" version="1">降龙</content>
-    <content contentuid="h69952e20gdc68g4911gbd55g9c71af56a0ab" version="1">敏捷+2，魅力+2，对一个目标攻击一次，造成钝击伤害，不消耗动作</content>
+    <!-- 轻功 -->
+    <content contentuid="h6a27bd83gbff9g449bgbd0bg7ab357df5e21" version="1">轻功</content>
+    <content contentuid="he94a2dbfg4862g4eb0ga2dbg066ba04130a3" version="1">选择轻功进行修习。</content>
+    <content contentuid="hc0decce3g35ecg4ef6gaeb1g69746c6100ba" version="1">一苇渡江</content>
+    <content contentuid="h18c06e21gd830g46dfg8b98g36dc52717f77" version="1">鲸波万里，一苇可航。无视劣势地形，免疫伤筋、受制、跛足，增加移动速度，获得运动和体操熟练项，获得踏雪无痕。</content>
+    <content contentuid="h4cbfeb20gf142g4c3bga4e6gcf9c4acb88e6" version="1">踏雪无痕</content>
+    <content contentuid="h9a8b72a0gf46dg433ag9a02gf0785a95b7bc" version="1">疾风快影，来去无迹。本回合的活动距离变大：移动速度加倍。</content>
+    <content contentuid="h0735f7aag028fg4f50g91a3g2480891e7eea" version="1">梯云纵</content>
+    <content contentuid="hf8bb6033g741cg4852g9b84g62e96b1fba44" version="1">如白鹤腾空，瞬息入云。免疫跌落伤害，使用跳跃不消耗附赠动作，增加跳跃距离，跳跃距离翻三倍。</content>
+    <content contentuid="he42f3386g62d7g4d28gbeefgc6a99e526e86" version="1">凌波微步</content>
+    <content contentuid="hf635c638g7c69g4197gbe5cg6e9d011c993f" version="1">休迅飞凫，飘忽若神，进止难期，若往若还。不会倒伏，不会被强制移动，移动不会招致攻击，不会受到重击，获得反射闪避。</content>
+    <content contentuid="h8e41fc32g21edg4917g9ef9g64b444f148d4" version="1">飞絮轻烟功</content>
+    <content contentuid="hfb313e4fgf07eg407bga931g86d66f4245c4" version="1">轻盈若飞絮，行动若蝙蝠，来无影，去无踪。获得飞行术、隐形术。</content>
+    <content contentuid="hc76c4133gcf44g4944ga44eg78f7a28e3c61" version="1">草上飞</content>
+    <content contentuid="heb53e572gd41cg4363g8b71g4f83c493bc94" version="1">飞往目标位置。移动速度消耗为正常的0.2倍。</content>
+    <content contentuid="h3afbd937gd422g4448g866eg037dd163de69" version="1">遁甲术</content>
+    <content contentuid="h8b31c26ag8ac5g4209ga122g7372b6601b5d" version="1">进入隐形状态。</content>
+    <content contentuid="h112e3c6dgd9b3g4e6dg8838g440b2af60307" version="1">鬼影迷踪步</content>
+    <content contentuid="h5c9d56feg8979g4b89gbab1g8f4398eac6c0" version="1">幽鬼行游，若即若离。获得迷踪步、镜像术。</content>
+    <content contentuid="h506afe25gece8g4981gbd5cg835ca5f30e73" version="1">移形换影</content>
+    <content contentuid="h312eda7fg99d7g4504gb075g2f3c0b7e0db4" version="1">传送到[1]范围内的位置，下一次攻击必为重击。</content>
+    <content contentuid="hbec4f3b2g3f64g42f5g96e6g9c1ed60289bd" version="1">螺旋九影</content>
+    <content contentuid="h4b3f8049g7be9g4f19gbcfcgfdda670d6031" version="1">创造出9个自身的幻影复制体，分散攻击者的注意力。每个幻影让你的&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;+1。</content>
+	<content contentuid="h455264d9ge55ag4bc5g85c6g188770b81db5" version="1">每当成功躲避一次攻击时，一个幻影就会消失。</content>
+    <content contentuid="h6c7b5e76gda38g419ega1f9g5a85de6a54e2" version="1">第二幻影</content>
+    <content contentuid="hffde06e8g0aabg4a48g92e7ga9549ad674c4" version="1">第三幻影</content>
+    <content contentuid="h2d44f9b4g1e6ag42e4gb04dg7d0616ea9f1a" version="1">第四幻影</content>
+    <content contentuid="hcfdad618gdd2eg4e5cgb6fdgc91f57b8e601" version="1">第五幻影</content>
+    <content contentuid="hfa7db201gd094g460bg90fbge367c9e9abbe" version="1">第六幻影</content>
+    <content contentuid="hff45644ag7894g4642g9c52gc42d9eee495b" version="1">第七幻影</content>
+    <content contentuid="h13623ff3g30a1g4880gaf9fg9a2e1d5e85de" version="1">第八幻影</content>
+    <content contentuid="hcfd4d5b9g598fg4f63g9403g21280f044ceb" version="1">第九幻影</content>
+    <!-- <content contentuid="" version="1"></content>
+    <content contentuid="" version="1"></content>
+    <content contentuid="" version="1"></content>
+    <content contentuid="" version="1"></content>
+    <content contentuid="" version="1"></content>
+    <content contentuid="" version="1"></content>
+    <content contentuid="" version="1"></content> -->
 </contentList>

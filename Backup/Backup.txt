@@ -26,7 +26,7 @@
 // StatusImmunity(DIFFICULT_TERRAIN_LAVA);
 // StatusImmunity(DIFFICULT_TERRAIN_DEEPWATER);
 
-// 倒伏相关：油脂、水面、冰面、坠落、雷击、命令术：匍匐、邪魔敬意：下跪
+// 倒伏相关：油脂、水面、冰面、跌落、雷击、命令术：匍匐、邪魔敬意：下跪
 // 无法移动、动作、附赠动作或反应，力量和敏捷豁免劣势，被攻击优势，耗费一半移动起身。
 // StatusImmunity(PRONE);
 // StatusImmunity(PRONE_GREASE);
@@ -66,17 +66,26 @@
 // CanShootThrough(true); // 允许攻击穿透该角色。
 // CanWalkThrough(true); // 允许其他角色穿过该角色。
 
+// 不会被重击
+// CriticalHit(AttackTarget,Success,Never);
+
 // 无法被缴械
 // CannotBeDisarmed();
 
 // 忽视追击距离
 // IgnoreLeaveAttackRange;
 
-// 免疫坠落伤害
+// 免疫跌落伤害
 // IgnoreFallDamage();
 
-// 跳跃距离提高
-// JumpMaxDistanceBonus(1);
+// 增加距离
+// ActionResource(Movement,9,0); // 移动
+// JumpMaxDistanceBonus(1); // 跳跃
+
+// 翻倍
+// ActionResourceMultiplier(Movement,200,0); // 移动，继续翻倍就是300、400以此类推
+// JumpMaxDistanceMultiplier(3); // 跳跃
+// CarryCapacityMultiplier(3); // 负重
 
 // 阻止
 // VoicebarkBlock(); // 攻击
