@@ -6,12 +6,12 @@
     <!-- 轻功 -->
     <content contentuid="h6a27bd83gbff9g449bgbd0bg7ab357df5e21" version="1">轻功</content>
     <content contentuid="he94a2dbfg4862g4eb0ga2dbg066ba04130a3" version="1">选择轻功进行修习。</content>
+    <content contentuid="h0735f7aag028fg4f50g91a3g2480891e7eea" version="1">梯云纵</content>
+    <content contentuid="hf8bb6033g741cg4852g9b84g62e96b1fba44" version="1">如白鹤腾空，瞬息入云。免疫跌落伤害。使用跳跃不消耗附赠动作。增加跳跃距离3m。跳跃距离翻三倍。</content>
     <content contentuid="hc0decce3g35ecg4ef6gaeb1g69746c6100ba" version="1">一苇渡江</content>
     <content contentuid="h18c06e21gd830g46dfg8b98g36dc52717f77" version="1">鲸波万里，一苇可航。无视劣势地形。免疫伤筋、受制、跛足。增加移动速度9m。获得运动和体操熟练项。获得&lt;LSTag Type="Spell" Tooltip="Shout_KFC_Dash"&gt;踏雪无痕&lt;/LSTag&gt;。</content>
     <content contentuid="h4cbfeb20gf142g4c3bga4e6gcf9c4acb88e6" version="1">踏雪无痕</content>
     <content contentuid="h9a8b72a0gf46dg433ag9a02gf0785a95b7bc" version="1">疾风快影，来去无迹。本回合的活动距离变大，移动速度加倍。</content>
-    <content contentuid="h0735f7aag028fg4f50g91a3g2480891e7eea" version="1">梯云纵</content>
-    <content contentuid="hf8bb6033g741cg4852g9b84g62e96b1fba44" version="1">如白鹤腾空，瞬息入云。免疫跌落伤害。使用跳跃不消耗附赠动作。增加跳跃距离9m。跳跃距离翻三倍。</content>
     <content contentuid="he42f3386g62d7g4d28gbeefgc6a99e526e86" version="1">凌波微步</content>
     <content contentuid="hf635c638g7c69g4197gbe5cg6e9d011c993f" version="1">休迅飞凫，飘忽若神，进止难期，若往若还。不会倒伏。不会被强制移动。移动不会招致攻击。不会受到重击。获得&lt;LSTag Type="Passive" Tooltip="Evasion"&gt;反射闪避&lt;/LSTag&gt;。</content>
     <content contentuid="h8e41fc32g21edg4917g9ef9g64b444f148d4" version="1">飞絮轻烟功</content>

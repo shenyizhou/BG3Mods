@@ -1,3 +1,13 @@
+// 梯云纵
+new entry "Passive_KFC_TiYunZong"
+type "PassiveData"
+data "DisplayName" "h0735f7aag028fg4f50g91a3g2480891e7eea;1"
+data "Description" "hf8bb6033g741cg4852g9b84g62e96b1fba44;1"
+// 气化形体
+data "Icon" "Spell_Transmutation_GaseousForm"
+data "Properties" "Highlighted"
+data "Boosts" "IgnoreFallDamage();UnlockSpellVariant(SpellId('Projectile_Jump'),ModifyUseCosts(Replace,BonusActionPoint,0,0,BonusActionPoint));JumpMaxDistanceBonus(3);JumpMaxDistanceMultiplier(3)"
+
 // 一苇渡江
 new entry "Passive_KFC_YiWeiDuJiang"
 type "PassiveData"
@@ -38,16 +48,6 @@ data "CastEffect" "806a170b-c567-4481-bb56-56871d8aaf5f"
 data "CinematicArenaFlags" "Ignore"
 data "SpellSoundMagnitude" "Small"
 data "Sheathing" "DontChange"
-
-// 梯云纵
-new entry "Passive_KFC_TiYunZong"
-type "PassiveData"
-data "DisplayName" "h0735f7aag028fg4f50g91a3g2480891e7eea;1"
-data "Description" "hf8bb6033g741cg4852g9b84g62e96b1fba44;1"
-// 气化形体
-data "Icon" "Spell_Transmutation_GaseousForm"
-data "Properties" "Highlighted"
-data "Boosts" "IgnoreFallDamage();UnlockSpellVariant(SpellId('Projectile_Jump'),ModifyUseCosts(Replace,BonusActionPoint,0,0,BonusActionPoint));JumpMaxDistanceBonus(3);JumpMaxDistanceMultiplier(3)"
 
 // 凌波微步
 new entry "Passive_KFC_LingBoWeiBu"
