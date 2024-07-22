@@ -3,7 +3,8 @@ new entry "Passive_KFC_YiWeiDuJiang"
 type "PassiveData"
 data "DisplayName" "hc0decce3g35ecg4ef6gaeb1g69746c6100ba;1"
 data "Description" "h18c06e21gd830g46dfg8b98g36dc52717f77;1"
-data "Icon" "Spell_Abjuration_Transmutation_Shillelagh" // 橡棍术
+// 橡棍术
+data "Icon" "Spell_Abjuration_Transmutation_Shillelagh"
 data "Properties" "Highlighted"
 data "Boosts" "StatusImmunity(SG_DifficultTerrain);StatusImmunity(DIFFICULT_TERRAIN);StatusImmunity(DIFFICULT_TERRAIN_WEB);StatusImmunity(DIFFICULT_TERRAIN_MUD);StatusImmunity(DIFFICULT_TERRAIN_VINES);StatusImmunity(DIFFICULT_TERRAIN_OVERGROWTH);StatusImmunity(DIFFICULT_TERRAIN_LAVA);StatusImmunity(DIFFICULT_TERRAIN_DEEPWATER);StatusImmunity(HAMSTRING);StatusImmunity(PIN_DOWN);StatusImmunity(CRIPPLED);ActionResource(Movement,9,0);ProficiencyBonus(Skill,Athletics);ProficiencyBonus(Skill,Acrobatics);UnlockSpell(Shout_KFC_Dash)"
 
@@ -14,7 +15,8 @@ data "SpellType" "Shout"
 data "AIFlags" "GrantsResources;UseAsSupportingActionOnly"
 data "SpellProperties" "IF(HasStatus('DASH_STACKED')):ApplyStatus(DASH_STACKED_2,100,1);IF(not HasStatus('DASH_STACKED_2') and HasStatus('DASH')):ApplyStatus(DASH_STACKED,100,1);IF(not HasStatus('DASH_STACKED_2') and not HasStatus('DASH_STACKED') and not HasStatus('DASH')):ApplyStatus(DASH,100,1)"
 data "TargetConditions" "Self()"
-data "Icon" "Action_Dash_Bonus" // 疾走：附赠动作
+// 疾走：附赠动作
+data "Icon" "Action_Dash_Bonus"
 data "DisplayName" "h4cbfeb20gf142g4c3bga4e6gcf9c4acb88e6;1"
 data "Description" "h9a8b72a0gf46dg433ag9a02gf0785a95b7bc;1"
 data "TooltipStatusApply" "ApplyStatus(DASH,100,1)"
@@ -42,7 +44,8 @@ new entry "Passive_KFC_TiYunZong"
 type "PassiveData"
 data "DisplayName" "h0735f7aag028fg4f50g91a3g2480891e7eea;1"
 data "Description" "hf8bb6033g741cg4852g9b84g62e96b1fba44;1"
-data "Icon" "Spell_Transmutation_GaseousForm" // 气化形体
+// 气化形体
+data "Icon" "Spell_Transmutation_GaseousForm"
 data "Properties" "Highlighted"
 data "Boosts" "IgnoreFallDamage();UnlockSpellVariant(SpellId('Projectile_Jump'),ModifyUseCosts(Replace,BonusActionPoint,0,0,BonusActionPoint));JumpMaxDistanceBonus(3);JumpMaxDistanceMultiplier(3)"
 
@@ -51,7 +54,8 @@ new entry "Passive_KFC_LingBoWeiBu"
 type "PassiveData"
 data "DisplayName" "he42f3386g62d7g4d28gbeefgc6a99e526e86;1"
 data "Description" "hf635c638g7c69g4197gbe5cg6e9d011c993f;1"
-data "Icon" "Action_Monk_ShadowStep" // 暗影步
+// 暗影步
+data "Icon" "Action_Monk_ShadowStep"
 data "Properties" "Highlighted"
 data "Boosts" "StatusImmunity(SG_Prone);StatusImmunity(PRONE);StatusImmunity(PRONE_GREASE);StatusImmunity(PRONE_SEWER);StatusImmunity(PRONE_ICE);StatusImmunity(PRONE_FALLEN);StatusImmunity(PRONE_THUNDEROUS_SMITE);StatusImmunity(COMMAND_GROVEL);StatusImmunity(IRN_IRONTHRONE_RAVENGARDPRONE);StatusImmunity(HIDEOUS_LAUGHTER);StatusImmunity(UNCONSCIOUS);StatusImmunity(KNOCKED_DOWN);StatusImmunity(SHOCKWAVE);Attribute(Grounded);IgnoreLeaveAttackRange;CriticalHit(AttackTarget,Success,Never);AreaDamageEvade()"
 
@@ -60,7 +64,8 @@ new entry "Passive_KFC_FeiXuQingYanGong"
 type "PassiveData"
 data "DisplayName" "h8e41fc32g21edg4917g9ef9g64b444f148d4;1"
 data "Description" "hfb313e4fgf07eg407bga931g86d66f4245c4;1"
-data "Icon" "Shout_Invisibility_ShadarKai_GloomWeaver" // 障眼薄雾
+// 障眼薄雾
+data "Icon" "Shout_Invisibility_ShadarKai_GloomWeaver"
 data "Properties" "Highlighted"
 data "Boosts" "UnlockSpell(Projectile_KFC_FLY);UnlockSpell(Shout_KFC_Invisibility)"
 
@@ -127,7 +132,8 @@ new entry "Passive_KFC_GuiYingMiZongBu"
 type "PassiveData"
 data "DisplayName" "h112e3c6dgd9b3g4e6dg8838g440b2af60307;1"
 data "Description" "h5c9d56feg8979g4b89gbab1g8f4398eac6c0;1"
-data "Icon" "Spell_Conjuration_MistyStep" // 迷踪步
+// 迷踪步
+data "Icon" "Spell_Conjuration_MistyStep"
 data "Properties" "Highlighted"
 data "Boosts" "UnlockSpell(Target_KFC_MistyStep);UnlockSpell(Shout_KFC_MirrorImage)"
 
