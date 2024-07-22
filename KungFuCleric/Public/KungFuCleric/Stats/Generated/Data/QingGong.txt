@@ -65,7 +65,7 @@ type "PassiveData"
 data "DisplayName" "h8e41fc32g21edg4917g9ef9g64b444f148d4;1"
 data "Description" "hfb313e4fgf07eg407bga931g86d66f4245c4;1"
 // 障眼薄雾
-data "Icon" "Shout_Invisibility_ShadarKai_GloomWeaver"
+data "Icon" "Action_Warlock_OneWithShadows"
 data "Properties" "Highlighted"
 data "Boosts" "UnlockSpell(Projectile_KFC_FLY);UnlockSpell(Shout_KFC_Invisibility)"
 
