@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-  <version major="4" minor="0" revision="0" build="0" />
+  <version major="4" minor="0" revision="0" build="49" />
   <region id="Config">
     <node id="root">
       <children>
         <node id="Dependencies" />
         <node id="ModuleInfo">
-          <attribute id="Author" type="LSWString" value="ShenLang" />
+          <attribute id="Author" type="LSWString" value="沈浪" />
           <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
           <attribute id="Description" type="LSWString" value="牧师武功领域子职业" />
           <attribute id="Folder" type="LSWString" value="KungFuCleric" />
