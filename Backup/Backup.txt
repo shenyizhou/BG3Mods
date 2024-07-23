@@ -9,11 +9,14 @@
 // 异常状态
 // StatusImmunity(BLEEDING); // 流血
 
-// 免疫相关：劣势地形、倒地、束缚、麻痹、隐形。
+// StateGroups：劣势地形、倒地、束缚、惊恐、麻痹、魅惑、隐形。
 // StatusImmunity(SG_DifficultTerrain);
 // StatusImmunity(SG_Prone);
 // StatusImmunity(SG_Restrained);
-// StatusImmunity(SG_Paralyzed);
+// StatusImmunity(SG_Frightened); // 包括魅影杀手
+// StatusImmunity(SG_Paralyzed); // 包括怪物定身术
+// StatusImmunity(SG_Charmed); // 包括奥图迷舞
+// StatusImmunity(SG_Incapacitated); // 包括怪物定身术
 // StatusImmunity(SG_Invisible);
 
 // 劣势地形相关：蛛网、淤泥、藤蔓、植物滋长、岩浆、深水
@@ -91,3 +94,10 @@
 // VoicebarkBlock(); // 攻击
 // BlockSpellCast(); // 施法
 // DialogueBlock(); // 说话
+
+// 护盾：SHIELD
+// 高等隐形术：GREATER_INVISIBILITY
+// 昏沉：CONFUSION 来源于疯狂：MADNESS
+// 疯狂：AiArchetypeOverride(madness,99);
+// 石肤术：STONESKIN，ResistantToNonMagical 只对非魔法抵抗
+// 魅影杀手：PHANTASMAL_KILLER

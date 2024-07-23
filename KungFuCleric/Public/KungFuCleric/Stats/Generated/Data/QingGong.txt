@@ -6,7 +6,7 @@ data "Description" "hf8bb6033g741cg4852g9b84g62e96b1fba44;1"
 // 气化形体
 data "Icon" "Spell_Transmutation_GaseousForm"
 data "Properties" "Highlighted"
-data "Boosts" "IgnoreFallDamage();UnlockSpellVariant(SpellId('Projectile_Jump'),ModifyUseCosts(Replace,BonusActionPoint,0,0,BonusActionPoint));JumpMaxDistanceBonus(3);JumpMaxDistanceMultiplier(3)"
+data "Boosts" "IgnoreFallDamage();UnlockSpellVariant(SpellId('Projectile_Jump'),ModifyUseCosts(Replace,BonusActionPoint,0,0,BonusActionPoint));JumpMaxDistanceBonus(3);JumpMaxDistanceMultiplier(3);ProficiencyBonus(Skill,Athletics);ProficiencyBonus(Skill,Acrobatics)"
 
 // 一苇渡江
 new entry "Passive_KFC_YiWeiDuJiang"
@@ -16,7 +16,7 @@ data "Description" "h18c06e21gd830g46dfg8b98g36dc52717f77;1"
 // 橡棍术
 data "Icon" "Spell_Abjuration_Transmutation_Shillelagh"
 data "Properties" "Highlighted"
-data "Boosts" "StatusImmunity(SG_DifficultTerrain);StatusImmunity(DIFFICULT_TERRAIN);StatusImmunity(DIFFICULT_TERRAIN_WEB);StatusImmunity(DIFFICULT_TERRAIN_MUD);StatusImmunity(DIFFICULT_TERRAIN_VINES);StatusImmunity(DIFFICULT_TERRAIN_OVERGROWTH);StatusImmunity(DIFFICULT_TERRAIN_LAVA);StatusImmunity(DIFFICULT_TERRAIN_DEEPWATER);StatusImmunity(HAMSTRING);StatusImmunity(PIN_DOWN);StatusImmunity(CRIPPLED);ActionResource(Movement,9,0);ProficiencyBonus(Skill,Athletics);ProficiencyBonus(Skill,Acrobatics);UnlockSpell(Shout_KFC_Dash)"
+data "Boosts" "StatusImmunity(SG_DifficultTerrain);StatusImmunity(DIFFICULT_TERRAIN);StatusImmunity(DIFFICULT_TERRAIN_WEB);StatusImmunity(DIFFICULT_TERRAIN_MUD);StatusImmunity(DIFFICULT_TERRAIN_VINES);StatusImmunity(DIFFICULT_TERRAIN_OVERGROWTH);StatusImmunity(DIFFICULT_TERRAIN_LAVA);StatusImmunity(DIFFICULT_TERRAIN_DEEPWATER);StatusImmunity(HAMSTRING);StatusImmunity(PIN_DOWN);StatusImmunity(CRIPPLED);StatusImmunity(SG_Paralyzed);StatusImmunity(SG_Frightened);ActionResource(Movement,9,0);UnlockSpell(Shout_KFC_Dash)"
 
 // 踏雪无痕（疾走）
 new entry "Shout_KFC_Dash"
@@ -57,7 +57,7 @@ data "Description" "hf635c638g7c69g4197gbe5cg6e9d011c993f;1"
 // 暗影步
 data "Icon" "Action_Monk_ShadowStep"
 data "Properties" "Highlighted"
-data "Boosts" "StatusImmunity(SG_Prone);StatusImmunity(PRONE);StatusImmunity(PRONE_GREASE);StatusImmunity(PRONE_SEWER);StatusImmunity(PRONE_ICE);StatusImmunity(PRONE_FALLEN);StatusImmunity(PRONE_THUNDEROUS_SMITE);StatusImmunity(COMMAND_GROVEL);StatusImmunity(IRN_IRONTHRONE_RAVENGARDPRONE);StatusImmunity(HIDEOUS_LAUGHTER);StatusImmunity(UNCONSCIOUS);StatusImmunity(KNOCKED_DOWN);StatusImmunity(SHOCKWAVE);Attribute(Grounded);IgnoreLeaveAttackRange;CriticalHit(AttackTarget,Success,Never);AreaDamageEvade()"
+data "Boosts" "StatusImmunity(SG_Prone);StatusImmunity(PRONE);StatusImmunity(PRONE_GREASE);StatusImmunity(PRONE_SEWER);StatusImmunity(PRONE_ICE);StatusImmunity(PRONE_FALLEN);StatusImmunity(PRONE_THUNDEROUS_SMITE);StatusImmunity(COMMAND_GROVEL);StatusImmunity(IRN_IRONTHRONE_RAVENGARDPRONE);StatusImmunity(HIDEOUS_LAUGHTER);StatusImmunity(UNCONSCIOUS);StatusImmunity(KNOCKED_DOWN);StatusImmunity(SHOCKWAVE);Attribute(Grounded);IgnoreLeaveAttackRange;CriticalHit(AttackTarget,Success,Never);Advantage(Ability, Dexterity);AreaDamageEvade()"
 
 // 飞絮轻烟功
 new entry "Passive_KFC_FeiXuQingYanGong"
@@ -159,7 +159,6 @@ data "UseCosts" "BonusActionPoint:1"
 data "SpellAnimation" "dd86aa43-8189-4d9f-9a5c-454b5fe4a197,,;,,;39daf365-ec06-49a8-81f3-9032640699d7,,;5c400e93-0266-499c-a2e1-75d53358460f,,;cc5b0caf-3ed1-4711-a50d-11dc3f1fdc6a,,;,,;1715b877-4512-472e-9bd0-fd568a112e90,,;,,;,,"
 data "VerbalIntent" "Utility"
 data "SpellFlags" "IsSpell;HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold"
-data "MemoryCost" "1"
 data "LineOfSightFlags" "AddSourceHeight"
 data "PrepareEffect" "7121a488-7c9a-4ba1-a585-f79aaa77e97c"
 data "CastEffect" "71859b27-bdda-44c3-8c65-7f142a1a2f60"
@@ -196,7 +195,6 @@ data "SpellAnimation" "03496c4a-49e0-4132-b585-3e5ecd1ad8e5,,;,,;4156d364-d2c0-4
 data "VerbalIntent" "Buff"
 data "SpellFlags" "IsSpell;HasSomaticComponent"
 data "HitAnimationType" "MagicalNonDamage"
-data "MemoryCost" "1"
 data "PrepareEffect" "33302a46-4a12-41dd-8845-6b7314d50022"
 data "CastEffect" "1a4b0423-005b-4577-b376-815a08809675"
 
@@ -325,3 +323,72 @@ data "RemoveConditions" "IsMiss() and not HasStatus('KFC_MIRROR_IMAGE_1', contex
 data "RemoveEvents" "OnAttacked"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog"
 data "StatusEffect" "3fa4349f-687b-4715-a510-962f97d544d1"
+
+// 不灭金身
+new entry "Target_KFC_ResilientSphere"
+type "SpellData"
+data "SpellType" "Target"
+data "TargetRadius" "9"
+data "SpellRoll" "SpellAutoResolveOnAlly(Ability.Dexterity, SourceSpellDC(),true)"
+data "SpellSuccess" "ApplyStatus(KFC_RESILIENT_SPHERE,100,3)"
+data "TargetConditions" "Character() and not Dead() and TargetSizeEqualOrSmaller(Size.Large)"
+data "Icon" "Spell_Evocation_OtilukesResilientSphere"
+// 移动速度下降一半，不受任何伤害影响，也无法造成任何伤害。
+data "DisplayName" "h36b69d47g818fg4823ga4c8g9b7e1802a5b9;1" // todo: fix
+data "Description" "h92e01dabg5f34g4fc0gb458gab3f3443883e;1" // todo: fix
+data "ExtraDescription" "h5c073d04gd175g4757g8d47gc0a750e14552;1" // todo: fix
+data "TooltipAttackSave" "Dexterity"
+data "TooltipStatusApply" "ApplyStatus(KFC_RESILIENT_SPHERE,100,3)"
+data "TooltipPermanentWarnings" "c4da40d6-cfc7-4148-a5e5-5b7cbc41a991"
+data "CastSound" "Spell_Cast_Wizard_ResilientSphere_L4to5"
+data "TargetSound" "Spell_Impact_Wizard_ResilientSphere_L4to5"
+data "PreviewCursor" "Cast"
+data "CastTextEvent" "Cast"
+data "CycleConditions" "Ally() and not Dead()"
+data "UseCosts" "ActionPoint:1;"
+data "SpellAnimation" "03114753-8d91-4c52-8207-728a67cdd59b,,;,,;2bac2431-3048-44e9-ad4a-ca4db0a63104,,;352ab1cc-249f-4d9e-9a42-58148d3658fe,,;8fcb1f19-a84b-486d-81fa-098aaf7cc9be,,;,,;c5bd6ce6-281c-4314-9f74-9f7bb2f4cf03,,;,,;,,"
+data "VerbalIntent" "Utility"
+data "SpellFlags" "HasSomaticComponent;IsConcentration;IsSpell"
+data "PrepareEffect" "af787096-8656-4495-a6ce-cbd376578069"
+data "CastEffect" "c32a08dc-ebfa-4d8c-bd4b-e21cd1f5f256"
+data "TargetEffect" "4075547d-197f-4cb3-94ff-b40a7fd113d4"
+
+new entry "KFC_RESILIENT_SPHERE"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h50070436g69f4g428agbc1dg8f08557a6411;1" // todo: fix
+data "Description" "h17b585f2g5da4g40eagb8b8g73788b584dd6;1" // todo: fix
+data "Icon" "Spell_Evocation_OtilukesResilientSphere"
+data "StackId" "KFC_RESILIENT_SPHERE"
+data "Boosts" "Invulnerable();ActionResourceMultiplier(Movement,50,0);MovementSpeedLimit(Walk)"
+data "StatusPropertyFlags" "IsInvulnerable;DisableInteractions"
+data "OnApplyFunctors" "IF(Tagged('WEIGHT_SMALL')):ApplyStatus(RESILIENT_SPHERE_SMALL,100,-1);IF(Tagged('WEIGHT_MEDIUM')):ApplyStatus(RESILIENT_SPHERE_MEDIUM,100,-1);IF(Tagged('WEIGHT_LARGE')):ApplyStatus(RESILIENT_SPHERE_LARGE,100,-1);IF(Tagged('WEIGHT_TINY') or Tagged('WEIGHT_HUGE') or Tagged('WEIGHT_GARGANTUAN')):ApplyStatus(RESILIENT_SPHERE_OVERLAY,100,-1)"
+data "StatusGroups" "SG_RemoveOnRespec"
+data "StatusEffect" "2419c2ea-a3b6-45e7-8b57-dd6cecf0ec2d"
+
+// 五罗轻烟
+new entry "Target_KFC_FogCloud"
+type "SpellData"
+data "SpellType" "Target"
+data "SpellProperties" "GROUND:CreateSurface(5,10,FogCloud,true)"
+data "TargetRadius" "18"
+data "AreaRadius" "4"
+data "Icon" "Spell_Conjuration_FogCloud"
+data "DisplayName" "h104bcca2g2b4bg48b5g881eged1304347914;1" // todo: fix
+data "Description" "h3c804d34g56e4g4e60g8ec1ge6e8a81660c5;1" // todo: fix
+data "TooltipUpcastDescription" "fcc00846-6526-4d5d-9933-7f3e0bd7e2ef"
+data "PrepareSound" "Spell_Prepare_Control_Gen_L1to3_01"
+data "PrepareLoopSound" "Spell_Loop_Control_Gen_L1to3_01"
+data "CastSound" "Spell_Cast_Control_FogCloud_L1to3"
+data "TargetSound" "Spell_Impact_Control_FogCloud_L1to3"
+data "VocalComponentSound" "Vocal_Component_SurfaceCreationCloud"
+data "CastTextEvent" "Cast"
+data "CycleConditions" "Enemy() and not Dead()"
+data "UseCosts" "BonusActionPoint:1"
+data "SpellAnimation" "554a18f7-952e-494a-b301-7702a85d4bc9,,;,,;09ae2f11-f5b4-42f5-ae16-687a5b57d500,,;10caea0e-c949-4d91-8ab7-3b50019dd054,,;22dfbbf4-f417-4c84-b39e-2039315961e6,,;,,;5bfbe9f9-4fc3-4f26-b112-43d404db6a89,,;,,;,,"
+data "VerbalIntent" "Control"
+data "SpellFlags" "IsSpell;HasSomaticComponent;HasHighGroundRangeExtension;IsConcentration;RangeIgnoreVerticalThreshold"
+data "HitAnimationType" "None"
+data "PrepareEffect" "2fa6b127-6f8a-4150-8be6-6f62b7a85911"
+data "CastEffect" "b4221f40-bcc3-4703-acc5-1afaee284839"
+data "PositionEffect" "2de1821f-02b9-454d-8436-382c9879becd"
