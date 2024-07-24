@@ -15,7 +15,7 @@
     <content contentuid="he42f3386g62d7g4d28gbeefgc6a99e526e86" version="1">凌波微步</content>
     <content contentuid="hf635c638g7c69g4197gbe5cg6e9d011c993f" version="1">休迅飞凫，飘忽若神，进止难期，若往若还。不会倒伏。不会被强制移动。移动不会招致攻击。不会受到重击。获得敏捷&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。获得&lt;LSTag Type="Passive" Tooltip="Evasion"&gt;反射闪避&lt;/LSTag&gt;。</content>
     <content contentuid="h8e41fc32g21edg4917g9ef9g64b444f148d4" version="1">飞絮轻烟功</content>
-    <content contentuid="hfb313e4fgf07eg407bga931g86d66f4245c4" version="1">轻盈若飞絮，行动若蝙蝠，来无影，去无踪。获得&lt;LSTag Type="Spell" Tooltip="Projectile_KFC_FLY"&gt;草上飞&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Shout_KFC_Invisibility"&gt;遁甲术&lt;/LSTag&gt;。</content>
+    <content contentuid="hfb313e4fgf07eg407bga931g86d66f4245c4" version="1">轻盈若飞絮，行动若蝙蝠，来无影，去无踪。获得&lt;LSTag Type="Spell" Tooltip="Projectile_KFC_FLY"&gt;草上飞&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Target_KFC_FogCloud"&gt;五罗轻烟&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Shout_KFC_Invisibility"&gt;遁甲术&lt;/LSTag&gt;。</content>
     <content contentuid="hc76c4133gcf44g4944ga44eg78f7a28e3c61" version="1">草上飞</content>
     <content contentuid="heb53e572gd41cg4363g8b71g4f83c493bc94" version="1">飞往目标位置。移动速度消耗为正常的0.2倍。</content>
     <content contentuid="h3afbd937gd422g4448g866eg037dd163de69" version="1">遁甲术</content>

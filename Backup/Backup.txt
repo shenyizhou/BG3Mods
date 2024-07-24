@@ -90,6 +90,9 @@
 // JumpMaxDistanceMultiplier(3); // 跳跃
 // CarryCapacityMultiplier(3); // 负重
 
+// 增加资源
+// Initiative(3); // 先攻
+
 // 阻止
 // VoicebarkBlock(); // 攻击
 // BlockSpellCast(); // 施法
