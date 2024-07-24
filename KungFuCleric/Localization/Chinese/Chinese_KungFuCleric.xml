@@ -20,6 +20,8 @@
     <content contentuid="heb53e572gd41cg4363g8b71g4f83c493bc94" version="1">飞往目标位置。&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;消耗变为正常的0.2倍。</content>
     <content contentuid="h3afbd937gd422g4448g866eg037dd163de69" version="1">遁甲术</content>
     <content contentuid="h8b31c26ag8ac5g4209ga122g7372b6601b5d" version="1">进入&lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;隐形&lt;/LSTag&gt;状态。</content>
+    <content contentuid="h17455be4ge0edg4546g9a34g8b5df8cf1f56" version="1">五罗轻烟</content>
+    <content contentuid="hd141dc48g4c10g4458gb7ffge9fa8e663cd9" version="1">云团让内部的生物陷入&lt;LSTag Type="Status" Tooltip="BLINDED"&gt;目盲&lt;/LSTag&gt;状态。</content>
     <content contentuid="h112e3c6dgd9b3g4e6dg8838g440b2af60307" version="1">鬼影迷踪步</content>
     <content contentuid="h5c9d56feg8979g4b89gbab1g8f4398eac6c0" version="1">幽鬼行游，若即若离。获得&lt;LSTag Type="Spell" Tooltip="Target_KFC_MistyStep"&gt;移形换影&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Shout_KFC_MirrorImage"&gt;螺旋九影&lt;/LSTag&gt;。</content>
     <content contentuid="h506afe25gece8g4981gbd5cg835ca5f30e73" version="1">移形换影</content>
@@ -35,12 +37,37 @@
     <content contentuid="hff45644ag7894g4642g9c52gc42d9eee495b" version="1">第七幻影</content>
     <content contentuid="h13623ff3g30a1g4880gaf9fg9a2e1d5e85de" version="1">第八幻影</content>
     <content contentuid="hcfd4d5b9g598fg4f63g9403g21280f044ceb" version="1">第九幻影</content>
+    <content contentuid="hb94a2330g175cg4d74g831dgcd4bdcde53ca" version="1">鬼影迷踪</content>
+    <content contentuid="hc130da9ag9b81g4108gbda6g35abdfe0a510" version="1">在你和攻击者的攻击范围之间插入自己的一个幻影复制体，让其无法命中。</content>
+    <!-- 硬功 -->
+    <content contentuid="he86e97a0gf404g49e6g9d48g9df39c696dbd" version="1">硬功</content>
+    <content contentuid="hb5884a09g33c0g4908ga7d1g1c277630bfd5" version="1">金刚不坏神功</content>
+    <content contentuid="h58031c2dgb037g493fgab67g50139ff50c99" version="1">金钟罩、铁布衫，锻就金刚不坏体。基础&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;变为13，额外增加体质&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;[1]到&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;。穿刺、钝击、劈砍伤害体质减免&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;[1]。主动开启时变为不坏金身：移动速度下降一半，不受任何伤害影响，也无法造成任何伤害。</content>
+    <content contentuid="h174714ebgc630g445dga4d1g0550a18efbec" version="1">不灭金身</content>
+    <content contentuid="h1876724fg1229g41e9g9f20g850e5967bf45" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;减半，不受任何伤害影响，也无法造成任何伤害。</content>
+    <content contentuid="h5c1fe274ge454g48a4g8bb7gd0b950e95d32" version="1">不灭金身。&lt;br&gt;&lt;br&gt;受影响个体不受所有法术效果和伤害影响，同时无法施展法术或是造成伤害。此外，&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;减半。</content>
+    <content contentuid="h5007e0ebg5a58g4da0gbe36g93017b27d17c" version="1">大金刚神力</content>
+    <content contentuid="ha627cd63g0326g496fg8e26gf87b4593a1e9" version="1">可以将你的力量&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;加伤害和&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;上。伤害掷骰将掷骰两次并取高值。</content>
     <!-- 软功 -->
+    <content contentuid="hd73e6a09g5e3bg4e44g960egbe91f6675c1d" version="1">软功</content>
     <content contentuid="hcf746165g6699g4ae3ga1f6gb11027870777" version="1">左右手互搏术</content>
     <content contentuid="h38c8f50cg329dg440eg980dgc7fb37f8443c" version="1">熟练地掌握双武器战斗。攻击后可以进行一次额外的免费攻击。</content>
     <content contentuid="h681edf83gb56cg4a83gac08gf735251f317d" version="1">明目功</content>
     <content contentuid="h8efb89f9g5e4cg4014g86c4g9b00343ce7e8" version="1">免疫&lt;LSTag Type="Status" Tooltip="SHOCKED_SURFACE"&gt;目盲&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="CHARMED"&gt;魅惑&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;恐慌&lt;/LSTag&gt;。</content>
-    <content contentuid="" version="1"></content>
-    <content contentuid="" version="1"></content>
+    <content contentuid="hc130da9ag9b81g4108gbda6g35abdfe0a510" version="1"></content>
+    <content contentuid="h308cec68gda29g40e5gae76g5f53aa842295" version="1"></content>
+    <content contentuid="he57bf83egac0cg46dfga37ag7474c1550ff2" version="1"></content>
+    <content contentuid="h7d8c4363g3d93g4153g9efcg501e96688a28" version="1"></content>
+    <content contentuid="ha3df34c0g92a9g484egbbc7g9ef0389d65f0" version="1"></content>
+    <content contentuid="hfd0aa887g3748g4a84gb58dg5fb17d797a3e" version="1"></content>
+    <content contentuid="h5ebbeae0g8fafg44dcgbb9bg484a66a95cef" version="1"></content>
+    <content contentuid="hf40603abge5c8g4953gb33ag79391ed5ec21" version="1"></content>
+    <content contentuid="h18802e06g429eg4e49g86cdg5c6a70b899a4" version="1"></content>
+    <content contentuid="hcfe443adg79efg4d38g9874g31381a17f8d8" version="1"></content>
+    <content contentuid="h4b255013gd765g4f09g8f7fg10da16e0f520" version="1"></content>
+    <content contentuid="hbf516c35gaed3g48dfgb6b0g5df4a1b9315c" version="1"></content>
+    <content contentuid="h846722bag6b61g4b9fgac2agd4670d0f76eb" version="1"></content>
+    <content contentuid="hf9269375gc6f5g44eagae79g2a361a0ebb75" version="1"></content>
+    <content contentuid="had17e753g4081g4f21gbc18gb4e7dad10955" version="1"></content>
     <content contentuid="" version="1"></content>
 </contentList>

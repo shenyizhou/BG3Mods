@@ -1,12 +1,12 @@
 // 金刚不坏神功
 new entry "Passive_KFC_JinGangBuHuaiShenGong"
 type "PassiveData"
-data "DisplayName" "h86e86573gc282g4b56gb89ag4e8996f706a2;1" // todo: fix
-data "Description" "h91389a51g2529g4c1bg8431g0b9744157463;1" // todo: fix
-data "DescriptionParams" "max(1,ConstitutionModifier)" // todo: fix
-data "Icon" "Spell_Abjuration_MageArmor" // 栉吾还击
+data "DisplayName" "hb5884a09g33c0g4908ga7d1g1c277630bfd5;1"
+data "Description" "h58031c2dgb037g493fgab67g50139ff50c99;1"
+data "DescriptionParams" "max(1,ConstitutionModifier)"
+// 暗影护甲
+data "Icon" "Spell_Abjuration_MageArmor"
 data "Properties" "Highlighted"
-// 金钟罩、铁布衫，锻就金刚不坏体。基础&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;变为13，额外增加体质调整值[1]到&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;。穿刺、钝击、劈砍伤害体质减免调整值[1]。主动开启时变为不坏金身：移动速度下降一半，不受任何伤害影响，也无法造成任何伤害。
 data "Boosts" "ACOverrideFormula(13,true,Dexterity,Constitution);DamageReduction(Piercing,Flat,max(1,ConstitutionModifier));DamageReduction(Bludgeoning,Flat,max(1,ConstitutionModifier));DamageReduction(Slashing,Flat,max(1,ConstitutionModifier));UnlockSpell(Target_KFC_ResilientSphere)"
 
 // 不灭金身
@@ -17,11 +17,10 @@ data "TargetRadius" "9"
 data "SpellRoll" "SpellAutoResolveOnAlly(Ability.Dexterity,SourceSpellDC(),true)"
 data "SpellSuccess" "ApplyStatus(KFC_RESILIENT_SPHERE,100,3)"
 data "TargetConditions" "Character() and not Dead() and TargetSizeEqualOrSmaller(Size.Large)"
+// 欧提路克弹力法球
 data "Icon" "Spell_Evocation_OtilukesResilientSphere"
-// 移动速度下降一半，不受任何伤害影响，也无法造成任何伤害。
-data "DisplayName" "h36b69d47g818fg4823ga4c8g9b7e1802a5b9;1" // todo: fix
-data "Description" "h92e01dabg5f34g4fc0gb458gab3f3443883e;1" // todo: fix
-data "ExtraDescription" "h5c073d04gd175g4757g8d47gc0a750e14552;1" // todo: fix
+data "DisplayName" "h174714ebgc630g445dga4d1g0550a18efbec;1"
+data "Description" "h1876724fg1229g41e9g9f20g850e5967bf45;1"
 data "TooltipAttackSave" "Dexterity"
 data "TooltipStatusApply" "ApplyStatus(KFC_RESILIENT_SPHERE,100,3)"
 data "TooltipPermanentWarnings" "c4da40d6-cfc7-4148-a5e5-5b7cbc41a991"
@@ -30,10 +29,10 @@ data "TargetSound" "Spell_Impact_Wizard_ResilientSphere_L4to5"
 data "PreviewCursor" "Cast"
 data "CastTextEvent" "Cast"
 data "CycleConditions" "Ally() and not Dead()"
-data "UseCosts" "ActionPoint:1;"
+data "UseCosts" "ActionPoint:1"
 data "SpellAnimation" "03114753-8d91-4c52-8207-728a67cdd59b,,;,,;2bac2431-3048-44e9-ad4a-ca4db0a63104,,;352ab1cc-249f-4d9e-9a42-58148d3658fe,,;8fcb1f19-a84b-486d-81fa-098aaf7cc9be,,;,,;c5bd6ce6-281c-4314-9f74-9f7bb2f4cf03,,;,,;,,"
 data "VerbalIntent" "Utility"
-data "SpellFlags" "HasSomaticComponent;IsConcentration;IsSpell"
+data "SpellFlags" "HasSomaticComponent"
 data "PrepareEffect" "af787096-8656-4495-a6ce-cbd376578069"
 data "CastEffect" "c32a08dc-ebfa-4d8c-bd4b-e21cd1f5f256"
 data "TargetEffect" "4075547d-197f-4cb3-94ff-b40a7fd113d4"
@@ -41,8 +40,9 @@ data "TargetEffect" "4075547d-197f-4cb3-94ff-b40a7fd113d4"
 new entry "KFC_RESILIENT_SPHERE"
 type "StatusData"
 data "StatusType" "BOOST"
-data "DisplayName" "h50070436g69f4g428agbc1dg8f08557a6411;1" // todo: fix
-data "Description" "h17b585f2g5da4g40eagb8b8g73788b584dd6;1" // todo: fix
+data "DisplayName" "h174714ebgc630g445dga4d1g0550a18efbec;1"
+data "Description" "h5c1fe274ge454g48a4g8bb7gd0b950e95d32;1"
+// 欧提路克弹力法球
 data "Icon" "Spell_Evocation_OtilukesResilientSphere"
 data "StackId" "KFC_RESILIENT_SPHERE"
 data "Boosts" "Invulnerable();ActionResourceMultiplier(Movement,50,0);MovementSpeedLimit(Walk)"
@@ -51,14 +51,13 @@ data "OnApplyFunctors" "IF(Tagged('WEIGHT_SMALL')):ApplyStatus(RESILIENT_SPHERE_
 data "StatusGroups" "SG_RemoveOnRespec"
 data "StatusEffect" "2419c2ea-a3b6-45e7-8b57-dd6cecf0ec2d"
 
-
 // 大金刚神力
 new entry "Passive_KFC_DaJinGangShenLi"
 type "PassiveData"
-data "DisplayName" "h86e86573gc282g4b56gb89ag4e8996f706a2;1" // todo: fix
-data "Description" "h91389a51g2529g4c1bg8431g0b9744157463;1" // todo: fix
+data "DisplayName" "h5007e0ebg5a58g4da0gbe36g93017b27d17c;1"
+data "Description" "ha627cd63g0326g496fg8e26gf87b4593a1e9;1"
 data "DescriptionParams" "max(1,StrengthModifier)"
-data "Icon" "Spell_Abjuration_MageArmor" // todo: fix
+// 凶蛮打击
+data "Icon" "PassiveFeature_SavageAttacks"
 data "Properties" "Highlighted;IsToggled;ToggledDefaultAddToHotbar;ToggledDefaultOn"
-// 可以将你的力量调整值加伤害和攻击掷骰上。伤害掷骰将掷骰两次并取高值。
-data "Boosts" "IF(IsMeleeWeaponAttack() and IsProficientWithEquippedWeapon()):CharacterWeaponDamage(max(1,StrengthModifier));IF(IsMeleeUnarmedAttack()):CharacterUnarmedDamage(max(1,StrengthModifier));IF(IsRangedUnarmedAttack()):DamageBonus(max(1,StrengthModifier));RollBonus(Attack,max(1,StrengthModifier));Reroll(MeleeWeaponDamage,20,false);Reroll(MeleeOffHandWeaponAttack,20,false)"
+data "Boosts" "IF(IsWeaponAttack() and IsProficientWithEquippedWeapon()):CharacterWeaponDamage(max(1,StrengthModifier));IF(IsMeleeUnarmedAttack()):CharacterUnarmedDamage(max(1,StrengthModifier));IF(IsRangedUnarmedAttack()):DamageBonus(max(1,StrengthModifier));RollBonus(Attack,max(1,StrengthModifier));Reroll(Damage,20,false)"
