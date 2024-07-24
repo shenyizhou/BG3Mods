@@ -60,6 +60,5 @@ data "Description" "h91389a51g2529g4c1bg8431g0b9744157463;1" // todo: fix
 data "DescriptionParams" "max(1,StrengthModifier)"
 data "Icon" "Spell_Abjuration_MageArmor" // todo: fix
 data "Properties" "Highlighted;IsToggled;ToggledDefaultAddToHotbar;ToggledDefaultOn"
-// 可以将你的力量调整值加伤害和攻击掷骰上。
-// todo: 攻击时，进行两次掷骰取最高结果。(凶蛮打手)
-data "Boosts" "IF(IsMeleeWeaponAttack() and IsProficientWithEquippedWeapon()):CharacterWeaponDamage(max(1,StrengthModifier));IF(IsMeleeUnarmedAttack()):CharacterUnarmedDamage(max(1,StrengthModifier));IF(IsRangedUnarmedAttack()):DamageBonus(max(1,StrengthModifier));RollBonus(Attack,max(1,StrengthModifier))"
+// 可以将你的力量调整值加伤害和攻击掷骰上。伤害掷骰将掷骰两次并取高值。
+data "Boosts" "IF(IsMeleeWeaponAttack() and IsProficientWithEquippedWeapon()):CharacterWeaponDamage(max(1,StrengthModifier));IF(IsMeleeUnarmedAttack()):CharacterUnarmedDamage(max(1,StrengthModifier));IF(IsRangedUnarmedAttack()):DamageBonus(max(1,StrengthModifier));RollBonus(Attack,max(1,StrengthModifier));Reroll(MeleeWeaponDamage,20,false);Reroll(MeleeOffHandWeaponAttack,20,false)"

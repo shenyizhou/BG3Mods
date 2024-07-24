@@ -1,0 +1,8 @@
+// 左右手互搏术
+new entry "Passive_KFC_ZuoYouShouHuBoShu"
+type "PassiveData"
+data "DisplayName" "h86e86573gc282g4b56gb89ag4e8996f706a2;1" // todo: fix
+data "Description" "h91389a51g2529g4c1bg8431g0b9744157463;1" // todo: fix
+data "Icon" "Spell_Abjuration_MageArmor" // todo: fix
+data "Properties" "Highlighted;IsToggled;ToggledDefaultAddToHotbar;ToggledDefaultOn"
+data "Boosts" "DualWielding(true);DualWielding(false);"

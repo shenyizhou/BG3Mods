@@ -104,3 +104,4 @@
 // 疯狂：AiArchetypeOverride(madness,99);
 // 石肤术：STONESKIN，ResistantToNonMagical 只对非魔法抵抗
 // 魅影杀手：PHANTASMAL_KILLER
+// 双持客：DualWielding(true);DualWielding(false); // 双持
