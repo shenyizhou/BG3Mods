@@ -9,7 +9,7 @@
 // 异常状态
 // StatusImmunity(BLEEDING); // 流血
 
-// StateGroups：劣势地形、倒地、束缚、惊恐、麻痹、魅惑、隐形。
+// StateGroups：劣势地形、倒地、束缚、恐慌、麻痹、魅惑、隐形。
 // StatusImmunity(SG_DifficultTerrain);
 // StatusImmunity(SG_Prone);
 // StatusImmunity(SG_Restrained);

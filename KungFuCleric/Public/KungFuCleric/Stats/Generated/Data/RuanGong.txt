@@ -1,8 +1,22 @@
 // 左右手互搏术
 new entry "Passive_KFC_ZuoYouShouHuBoShu"
 type "PassiveData"
-data "DisplayName" "h86e86573gc282g4b56gb89ag4e8996f706a2;1" // todo: fix
-data "Description" "h91389a51g2529g4c1bg8431g0b9744157463;1" // todo: fix
-data "Icon" "Spell_Abjuration_MageArmor" // todo: fix
-data "Properties" "Highlighted;IsToggled;ToggledDefaultAddToHotbar;ToggledDefaultOn"
+data "DisplayName" "hcf746165g6699g4ae3ga1f6gb11027870777;1"
+data "Description" "h38c8f50cg329dg440eg980dgc7fb37f8443c;1"
+// 双持客
+data "Icon" "PassiveFeature_DualWielder_PassiveBonuses"
+data "Properties" "Highlighted"
 data "Boosts" "DualWielding(true);DualWielding(false);"
+data "StatsFunctorContext" "OnCast;OnStatusRemoved;OnStatusApplied"
+data "Conditions" "(context.HasContextFlag(StatsFunctorContext.OnCast) and ExtraAttackSpellCheck() and HasUseCosts('ActionPoint', true) and not Tagged('EXTRA_ATTACK_BLOCKED',context.Source) and not HasStatus('SLAYER_PLAYER',context.Source) and not HasStatus('SLAYER_PLAYER_10',context.Source) and TurnBased(context.Source)) or (context.HasContextFlag(StatsFunctorContext.OnStatusRemoved) and StatusId('INITIAL_ATTACK_TECHNICAL') and TurnBased()) or (context.HasContextFlag(StatsFunctorContext.OnStatusApplied) and StatusId('EXTRA_ATTACK_Q'))"
+data "StatsFunctors" "IF(context.HasContextFlag(StatsFunctorContext.OnCast)):ApplyStatus(SELF,EXTRA_ATTACK_Q,100,1);IF(context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):ApplyStatus(EXTRA_ATTACK_Q,100,1);IF(context.HasContextFlag(StatsFunctorContext.OnStatusApplied) and not HasHigherPriorityExtraAttackQueued('EXTRA_ATTACK_Q') and not HasAnyExtraAttack()):ApplyStatus(EXTRA_ATTACK, 100, 1)"
+
+// 明目功
+new entry "Passive_KFC_MingMuGong"
+type "PassiveData"
+data "DisplayName" "h681edf83gb56cg4a83gac08gf735251f317d;1"
+data "Description" "h8efb89f9g5e4cg4014g86c4g9b00343ce7e8;1"
+// 暗夜之眼
+data "Icon" "PassiveFeature_Generic_WildAnimal"
+data "Properties" "Highlighted"
+data "Boosts" "StatusImmunity(SG_Blinded);StatusImmunity(SG_Charmed);StatusImmunity(SG_Frightened)"

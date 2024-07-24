@@ -3,6 +3,7 @@ new entry "Passive_KFC_TiYunZong"
 type "PassiveData"
 data "DisplayName" "h0735f7aag028fg4f50g91a3g2480891e7eea;1"
 data "Description" "hf8bb6033g741cg4852g9b84g62e96b1fba44;1"
+data "DescriptionParams" "Distance(3)"
 // 气化形体
 data "Icon" "Spell_Transmutation_GaseousForm"
 data "Properties" "Highlighted"
@@ -13,10 +14,11 @@ new entry "Passive_KFC_YiWeiDuJiang"
 type "PassiveData"
 data "DisplayName" "hc0decce3g35ecg4ef6gaeb1g69746c6100ba;1"
 data "Description" "h18c06e21gd830g46dfg8b98g36dc52717f77;1"
+data "DescriptionParams" "Distance(9)"
 // 橡棍术
 data "Icon" "Spell_Abjuration_Transmutation_Shillelagh"
 data "Properties" "Highlighted"
-data "Boosts" "StatusImmunity(SG_DifficultTerrain);StatusImmunity(DIFFICULT_TERRAIN);StatusImmunity(DIFFICULT_TERRAIN_WEB);StatusImmunity(DIFFICULT_TERRAIN_MUD);StatusImmunity(DIFFICULT_TERRAIN_VINES);StatusImmunity(DIFFICULT_TERRAIN_OVERGROWTH);StatusImmunity(DIFFICULT_TERRAIN_LAVA);StatusImmunity(DIFFICULT_TERRAIN_DEEPWATER);StatusImmunity(HAMSTRING);StatusImmunity(PIN_DOWN);StatusImmunity(CRIPPLED);StatusImmunity(SG_Paralyzed);StatusImmunity(SG_Frightened);ActionResource(Movement,9,0);UnlockSpell(Shout_KFC_Dash)"
+data "Boosts" "StatusImmunity(SG_DifficultTerrain);StatusImmunity(DIFFICULT_TERRAIN);StatusImmunity(DIFFICULT_TERRAIN_WEB);StatusImmunity(DIFFICULT_TERRAIN_MUD);StatusImmunity(DIFFICULT_TERRAIN_VINES);StatusImmunity(DIFFICULT_TERRAIN_OVERGROWTH);StatusImmunity(DIFFICULT_TERRAIN_LAVA);StatusImmunity(DIFFICULT_TERRAIN_DEEPWATER);StatusImmunity(HAMSTRING);StatusImmunity(PIN_DOWN);StatusImmunity(CRIPPLED);StatusImmunity(SG_Paralyzed);ActionResource(Movement,9,0);UnlockSpell(Shout_KFC_Dash)"
 
 // 踏雪无痕（疾走）
 new entry "Shout_KFC_Dash"
