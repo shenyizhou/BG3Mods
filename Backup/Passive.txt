@@ -93,19 +93,6 @@ data "Properties" "Highlighted"
 // data "StatsFunctorContext" "OnCreate;OnLongRest"
 // data "StatsFunctors" "ApplyStatus(SELF,STATUS_KFC_QINGLONG,100,-1)"
 
-// 光环被动
-new entry "Passive_KFC_QL_Arua"
-type "PassiveData"
-data "DisplayName" "h5f2662f0g1607g464ag9577gd305ca0945cf;1"
-data "Description" "h6facdd24gf38cg4003ga266ge800bdbf58fb;1"
-data "ExtraDescription" "h268fb659ga380g4a56g8b18g35583282124b;1"
-data "ExtraDescriptionParams" "DealDamage(2d8,Lightning);DealDamage(1d8,Lightning)"
-data "Icon" "PassiveFeature_HeartOfTheStorm_Lightning"
-data "Properties" "IsHidden"
-data "BoostConditions" "HasPassive('Passive_KFC_QingLong',context.Source)"
-// 闪电伤害无视免疫，对闪电免疫，附伤
-data "Boosts" "AC(1);UnlockSpell(Shout_KFC_QingLongMode);WeaponDamage(2d8,Lightning);Resistance(Lightning,Immune);IgnoreResistance(Lightning,Immune);IgnoreResistance(Lightning,Resistant)"
-
 // 攻击获得闪电充能
 new entry "Passive_KFC_QL_ChargedLightning_Attack"
 type "PassiveData"
