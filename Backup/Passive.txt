@@ -74,25 +74,6 @@ data "Icon" "PassiveFeature_Generic_Magical"
 data "Properties" "Highlighted"
 data "Boosts" "UnlockSpell(Teleportation_TrueResurrection_Scroll)"
 
-// 太玄经
-new entry "MAG_Critical_CriticalSwiftness_Passive"
-type "PassiveData"
-data "DisplayName" "h4af7448ag6a0eg4259g8114g8eb297fec991;2"
-data "Description" "hb91d1e6bgf680g4749g84d9g601324202509;3"
-data "StatsFunctorContext" "OnDamage"
-data "StatsFunctors" "IF(IsCritical() or IsKillingBlow()):RestoreResource(SELF, Movement, 100%, 0)"
-
-// 五雷天心诀
-new entry "Passive_KFC_QingLong"
-type "PassiveData"
-data "DisplayName" "h8222880eg02b6g4811gb8d0g05b39677e240;1"
-data "Description" "h6565d090ga0dag46e9gaf3bg41274d714f3f;1"
-// 都用龙族血统的icon
-data "Icon" "GenericIcon_DamageType_Lightning"
-data "Properties" "Highlighted"
-// data "StatsFunctorContext" "OnCreate;OnLongRest"
-// data "StatsFunctors" "ApplyStatus(SELF,STATUS_KFC_QINGLONG,100,-1)"
-
 // 攻击获得闪电充能
 new entry "Passive_KFC_QL_ChargedLightning_Attack"
 type "PassiveData"

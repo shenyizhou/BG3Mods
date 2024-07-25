@@ -1,0 +1,7 @@
+// 太玄经
+new entry "Passive_KFC_TaiXuanJing"
+type "PassiveData"
+data "DisplayName" "h7d8c4363g3d93g4153g9efcg501e96688a28;1"
+data "Description" "ha3df34c0g92a9g484egbbc7g9ef0389d65f0;1"
+data "StatsFunctorContext" "OnDamage"
+data "StatsFunctors" "IF(IsCritical() or IsKillingBlow()):RestoreResource(SELF, Movement, 100%, 0)"

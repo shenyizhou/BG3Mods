@@ -9,7 +9,7 @@ data "Properties" "Highlighted"
 // todo: 绛宫雷 水脏雷
 data "Boosts" "IgnoreResistance(Thunder,Immune);IgnoreResistance(Thunder,Resistant);IgnoreResistance(Lightning,Immune);IgnoreResistance(Lightning,Resistant);UnlockSpell(Shout_KFC_StaticOverdrive)"
 
-// 神霄雷(静电过载)
+// 神霄雷 (静电过载)
 new entry "Shout_KFC_StaticOverdrive"
 type "SpellData"
 data "SpellType" "Shout"
@@ -51,7 +51,7 @@ data "AuraRadius" "6"
 data "AuraStatuses" "TARGET:IF(Character() and not Dead() and Ally()):ApplyStatus(KFC_STATIC_DISCHARGE_ALLY);TARGET:IF(Character() and not Dead() and Enemy()):ApplyStatus(KFC_STATIC_DISCHARGE_ENEMY)"
 // todo: 确认下这里的武器攻击是否有局限性，下同
 data "Boosts" "CharacterWeaponDamage(1d8,Lightning);Resistance(Thunder,Resistant);Resistance(Lightning,Resistant)"
-data "Passives" "KFC_StaticDischarge_Aura"
+data "Passives" "Passive_KFC_StaticDischarge_Aura"
 data "StatusPropertyFlags" "InitiateCombat;BringIntoCombat"
 data "StatusEffect" "2738f3a2-e9cd-4357-95f5-4c927cc487a6"
 
@@ -68,7 +68,7 @@ data "SoundLoop" "Spell_Status_StaticConstruct_MO"
 data "SoundStop" "Spell_Status_StaticConstruct_MO_Stop"
 data "StackId" "KFC_STATIC_DISCHARGE_ALLY"
 data "Boosts" "CharacterWeaponDamage(1d8,Lightning);Resistance(Thunder,Resistant);Resistance(Lightning,Resistant)"
-data "Passives" "KFC_StaticDischarge_Aura"
+data "Passives" "Passive_KFC_StaticDischarge_Aura"
 data "StatusEffect" "6243918d-a503-49fb-a85c-bdac5ce40b0a"
 
 new entry "KFC_STATIC_DISCHARGE_ENEMY"
@@ -94,7 +94,7 @@ data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndi
 data "OnRemoveFunctors" "DealDamage(2d8,Lightning)"
 data "ApplyEffect" "df702a35-27e4-4a78-bdf2-fd5f3a8484b3"
 
-new entry "KFC_StaticDischarge_Aura"
+new entry "Passive_KFC_StaticDischarge_Aura"
 type "PassiveData"
 data "DisplayName" "h52fd5e84g81c5g4f2fga375g6f85c8051c8c;1"
 data "Description" "had17e753g4081g4f21gbc18gb4e7dad10955;1"

@@ -3,7 +3,7 @@ new entry "Passive_KFC_QianKunDaNuoYi"
 type "PassiveData"
 data "DisplayName" "hc130da9ag9b81g4108gbda6g35abdfe0a510;1"
 data "Description" "h308cec68gda29g40e5gae76g5f53aa842295;1"
-// 暂定法术反制
+// 法术反制
 data "Icon" "PassiveFeature_Counterspell"
 data "Properties" "Highlighted"
 data "Boosts" "ActionResource(ReactionActionPoint,2,0);UnlockInterrupt(Interrupt_KFC_Counterspell)"
@@ -13,7 +13,7 @@ type "InterruptData"
 data "DisplayName" "hc130da9ag9b81g4108gbda6g35abdfe0a510;1"
 data "Description" "he57bf83egac0cg46dfga37ag7474c1550ff2;1"
 data "DescriptionParams" "Distance(18)"
-// 暂定灵能统御
+// 灵能统御
 data "Icon" "TadpoleSuperPower_PsionicDominance"
 data "InterruptContext" "OnSpellCast"
 data "InterruptContextScope" "Nearby"
