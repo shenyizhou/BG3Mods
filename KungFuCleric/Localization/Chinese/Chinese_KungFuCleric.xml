@@ -7,32 +7,34 @@
     <content contentuid="he86e97a0gf404g49e6g9d48g9df39c696dbd" version="1">硬功</content>
     <content contentuid="h5588c27agf95fg466bgb44egd88a73a689ee" version="1">选择硬功进行修习。</content>
     <content contentuid="hb5884a09g33c0g4908ga7d1g1c277630bfd5" version="1">金刚不坏神功</content>
-    <content contentuid="h58031c2dgb037g493fgab67g50139ff50c99" version="1">金钟罩、铁布衫，锻就金刚不坏体。基础&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;变为13，额外增加体质&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;[1]到&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;。穿刺、钝击、劈砍、力场伤害体质减免&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;[1]。主动开启时变为不坏金身：移动速度下降一半，不受任何伤害影响，也无法造成任何伤害。</content>
+    <content contentuid="h58031c2dgb037g493fgab67g50139ff50c99" version="1">金钟罩、铁布衫，锻就金刚不坏体。&lt;br&gt;基础&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;变为13，额外增加体质&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;[1]到&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;。&lt;br&gt;受到的穿刺、钝击、劈砍、力场伤害减少体质&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;[1]。&lt;br&gt;获得&lt;LSTag Type="Spell" Tooltip="Target_KFC_ResilientSphere"&gt;不灭金身&lt;/LSTag&gt;。</content>
     <content contentuid="h174714ebgc630g445dga4d1g0550a18efbec" version="1">不灭金身</content>
-    <content contentuid="h1876724fg1229g41e9g9f20g850e5967bf45" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;减半，不受任何伤害影响，也无法造成任何伤害。</content>
-    <content contentuid="h5c1fe274ge454g48a4g8bb7gd0b950e95d32" version="1">不灭金身。&lt;br&gt;&lt;br&gt;受影响个体不受所有法术效果和伤害影响，同时无法施展法术或是造成伤害。此外，&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;减半。</content>
+    <content contentuid="h1876724fg1229g41e9g9f20g850e5967bf45" version="1">不受所有法术效果和伤害影响，同时无法施展法术或是造成伤害。&lt;br&gt;&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;减半。</content>
+    <content contentuid="h5c1fe274ge454g48a4g8bb7gd0b950e95d32" version="1">受影响个体不受所有法术效果和伤害影响，同时无法施展法术或是造成伤害。此外，&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;减半。</content>
     <content contentuid="h5007e0ebg5a58g4da0gbe36g93017b27d17c" version="1">大金刚神力</content>
-    <content contentuid="ha627cd63g0326g496fg8e26gf87b4593a1e9" version="1">可以将你的力量&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;加伤害和&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;上。伤害掷骰将掷骰两次并取高值。</content>
+    <content contentuid="ha627cd63g0326g496fg8e26gf87b4593a1e9" version="1">可以将你的力量&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;[1]加到伤害和&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;上。&lt;br&gt;伤害掷骰将掷骰两次并取高值。</content>
     <!-- 软功 -->
     <content contentuid="hd73e6a09g5e3bg4e44g960egbe91f6675c1d" version="1">软功</content>
     <content contentuid="h97decd04g955cg49f4g9b3cg0a5dc50219a7" version="1">选择软功进行修习。</content>
     <content contentuid="h681edf83gb56cg4a83gac08gf735251f317d" version="1">明目功</content>
-    <content contentuid="h8efb89f9g5e4cg4014g86c4g9b00343ce7e8" version="1">免疫&lt;LSTag Type="Status" Tooltip="BLINDED"&gt;目盲&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="CHARMED"&gt;魅惑&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;恐慌&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="STUNNED"&gt;震慑&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="POISONED"&gt;中毒&lt;/LSTag&gt;。</content>
+    <content contentuid="h8efb89f9g5e4cg4014g86c4g9b00343ce7e8" version="1">免疫&lt;LSTag Type="Status" Tooltip="BLINDED"&gt;目盲&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="CHARMED"&gt;魅惑&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="POISONED"&gt;中毒&lt;/LSTag&gt;。</content>
     <content contentuid="hcf746165g6699g4ae3ga1f6gb11027870777" version="1">左右手互搏术</content>
-    <content contentuid="h38c8f50cg329dg440eg980dgc7fb37f8443c" version="1">熟练地掌握双武器战斗。攻击后可以进行一次额外的免费攻击。</content>
+    <content contentuid="h38c8f50cg329dg440eg980dgc7fb37f8443c" version="1">熟练地掌握双武器战斗。&lt;br&gt;攻击后可以进行一次额外的免费攻击。</content>
+    <content contentuid="hcfe443adg79efg4d38g9874g31381a17f8d8" version="1">神机百变</content>
+    <content contentuid="h4b255013gd765g4f09g8f7fg10da16e0f520" version="1">将你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练项加值&lt;/LSTag&gt;（向下取整）添加到你不具备&lt;LSTag Tooltip="Proficiency"&gt;熟练项&lt;/LSTag&gt;的&lt;LSTag Tooltip="AbilityCheck"&gt;属性检定&lt;/LSTag&gt;上。</content>
     <!-- 轻功 -->
     <content contentuid="h6a27bd83gbff9g449bgbd0bg7ab357df5e21" version="1">轻功</content>
     <content contentuid="he94a2dbfg4862g4eb0ga2dbg066ba04130a3" version="1">选择轻功进行修习。</content>
     <content contentuid="h0735f7aag028fg4f50g91a3g2480891e7eea" version="1">梯云纵</content>
-    <content contentuid="hf8bb6033g741cg4852g9b84g62e96b1fba44" version="1">如白鹤腾空，瞬息入云。&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;坠落伤害。使用&lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;跳跃&lt;/LSTag&gt;不消耗&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;。&lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;跳跃&lt;/LSTag&gt;距离增加[1]。&lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;跳跃&lt;/LSTag&gt;距离翻三倍。获得&lt;LSTag Tooltip="Athletics"&gt;运动&lt;/LSTag&gt;和&lt;LSTag Tooltip="Acrobatics"&gt;体操&lt;/LSTag&gt;&lt;LSTag Tooltip="Proficiency"&gt;熟练项&lt;/LSTag&gt;。</content>
+    <content contentuid="hf8bb6033g741cg4852g9b84g62e96b1fba44" version="1">如白鹤腾空，瞬息入云。&lt;br&gt;&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;坠落伤害。&lt;br&gt;使用&lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;跳跃&lt;/LSTag&gt;不消耗&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;。&lt;br&gt;&lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;跳跃&lt;/LSTag&gt;距离增加[1]。&lt;br&gt;&lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;跳跃&lt;/LSTag&gt;距离翻三倍。&lt;br&gt;获得&lt;LSTag Tooltip="Athletics"&gt;运动&lt;/LSTag&gt;和&lt;LSTag Tooltip="Acrobatics"&gt;体操&lt;/LSTag&gt;&lt;LSTag Tooltip="Proficiency"&gt;熟练项&lt;/LSTag&gt;。</content>
     <content contentuid="hc0decce3g35ecg4ef6gaeb1g69746c6100ba" version="1">一苇渡江</content>
-    <content contentuid="h18c06e21gd830g46dfg8b98g36dc52717f77" version="1">鲸波万里，一苇可航。&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;不会被劣势地形、法术或魔法效果降低。不受地形影响。免疫&lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;麻痹&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="WET"&gt;濡湿&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;束缚&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="CRIPPLED"&gt;跛足&lt;/LSTag&gt;。&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;增加[1]。移动不会招致&lt;LSTag Tooltip="OpportunityAttack"&gt;借机攻击&lt;/LSTag&gt;。获得&lt;LSTag Type="Spell" Tooltip="Shout_KFC_Dash"&gt;踏雪无痕&lt;/LSTag&gt;。</content>
+    <content contentuid="h18c06e21gd830g46dfg8b98g36dc52717f77" version="1">鲸波万里，一苇可航。&lt;br&gt;&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;不会被劣势地形、法术或魔法效果降低。&lt;br&gt;不受地形影响。&lt;br&gt;免疫&lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;麻痹&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;束缚&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="CRIPPLED"&gt;跛足&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="WET"&gt;濡湿&lt;/LSTag&gt;。&lt;br&gt;&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;增加[1]。&lt;br&gt;移动不会招致&lt;LSTag Tooltip="OpportunityAttack"&gt;借机攻击&lt;/LSTag&gt;。&lt;br&gt;获得&lt;LSTag Type="Spell" Tooltip="Shout_KFC_Dash"&gt;踏雪无痕&lt;/LSTag&gt;。</content>
     <content contentuid="h4cbfeb20gf142g4c3bga4e6gcf9c4acb88e6" version="1">踏雪无痕</content>
-    <content contentuid="h9a8b72a0gf46dg433ag9a02gf0785a95b7bc" version="1">疾风快影，来去无迹。本回合的活动距离变大，&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;加倍。</content>
+    <content contentuid="h9a8b72a0gf46dg433ag9a02gf0785a95b7bc" version="1">疾风快影，来去无迹。&lt;br&gt;本回合的活动距离变大，&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;加倍。</content>
     <content contentuid="he42f3386g62d7g4d28gbeefgc6a99e526e86" version="1">凌波微步</content>
-    <content contentuid="hf635c638g7c69g4197gbe5cg6e9d011c993f" version="1">休迅飞凫，飘忽若神，进止难期，若往若还。免疫&lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒伏&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="UNCONSCIOUS"&gt;昏迷&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;失能&lt;/LSTag&gt;。不会受到强制移动。不受&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;。受到攻击&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。获得敏捷&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。获得&lt;LSTag Type="Passive" Tooltip="Evasion"&gt;反射闪避&lt;/LSTag&gt;。</content>
+    <content contentuid="hf635c638g7c69g4197gbe5cg6e9d011c993f" version="1">休迅飞凫，飘忽若神，进止难期，若往若还。&lt;br&gt;免疫&lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒伏&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="UNCONSCIOUS"&gt;昏迷&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;恐慌&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="STUNNED"&gt;震慑&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="INCAPACITATED_DND"&gt;失能&lt;/LSTag&gt;。&lt;br&gt;不会受到强制移动。&lt;br&gt;不受&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;。&lt;br&gt;受到攻击&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。&lt;br&gt;获得敏捷&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。&lt;br&gt;获得&lt;LSTag Type="Passive" Tooltip="Evasion"&gt;反射闪避&lt;/LSTag&gt;。</content>
     <content contentuid="h8e41fc32g21edg4917g9ef9g64b444f148d4" version="1">飞絮轻烟功</content>
-    <content contentuid="hfb313e4fgf07eg407bga931g86d66f4245c4" version="1">轻盈若飞絮，行动若蝙蝠，来无影，去无踪。获得&lt;LSTag Tooltip="Stealth"&gt;隐匿&lt;/LSTag&gt;&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;优势。遮蔽状态获得&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。获得&lt;LSTag Type="Spell" Tooltip="Projectile_KFC_FLY"&gt;草上飞&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Shout_KFC_Invisibility"&gt;遁甲术&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Target_KFC_FogCloud"&gt;五罗轻烟&lt;/LSTag&gt;。</content>
+    <content contentuid="hfb313e4fgf07eg407bga931g86d66f4245c4" version="1">轻盈若飞絮，行动若蝙蝠，来无影，去无踪。&lt;br&gt;获得&lt;LSTag Tooltip="Stealth"&gt;隐匿&lt;/LSTag&gt;&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。&lt;br&gt;遮蔽状态获得&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。&lt;br&gt;获得&lt;LSTag Type="Spell" Tooltip="Projectile_KFC_FLY"&gt;草上飞&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Shout_KFC_Invisibility"&gt;遁甲术&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Target_KFC_FogCloud"&gt;五罗轻烟&lt;/LSTag&gt;。</content>
     <content contentuid="hc76c4133gcf44g4944ga44eg78f7a28e3c61" version="1">草上飞</content>
     <content contentuid="heb53e572gd41cg4363g8b71g4f83c493bc94" version="1">飞往目标位置。&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;消耗变为正常的0.2倍。</content>
     <content contentuid="h3afbd937gd422g4448g866eg037dd163de69" version="1">遁甲术</content>
@@ -40,11 +42,11 @@
     <content contentuid="h17455be4ge0edg4546g9a34g8b5df8cf1f56" version="1">五罗轻烟</content>
     <content contentuid="hd141dc48g4c10g4458gb7ffge9fa8e663cd9" version="1">云团让内部的生物陷入&lt;LSTag Type="Status" Tooltip="BLINDED"&gt;目盲&lt;/LSTag&gt;状态。</content>
     <content contentuid="h112e3c6dgd9b3g4e6dg8838g440b2af60307" version="1">鬼影迷踪步</content>
-    <content contentuid="h5c9d56feg8979g4b89gbab1g8f4398eac6c0" version="1">幽鬼行游，若即若离。获得&lt;LSTag Type="Spell" Tooltip="Interrupt_KFC_IllusorySelf"&gt;鬼影迷踪&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Target_KFC_MistyStep"&gt;移形换影&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Shout_KFC_MirrorImage"&gt;螺旋九影&lt;/LSTag&gt;。</content>
+    <content contentuid="h5c9d56feg8979g4b89gbab1g8f4398eac6c0" version="1">幽鬼行游，若即若离。&lt;br&gt;获得&lt;LSTag Type="Interrupt" Tooltip="Interrupt_KFC_IllusorySelf"&gt;鬼影迷踪&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Target_KFC_MistyStep"&gt;移形换影&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Shout_KFC_MirrorImage"&gt;螺旋九影&lt;/LSTag&gt;。</content>
     <content contentuid="hb94a2330g175cg4d74g831dgcd4bdcde53ca" version="1">鬼影迷踪</content>
     <content contentuid="hc130da9ag9b81g4108gbda6g35abdfe0a510" version="1">在你和攻击者的攻击范围之间插入自己的一个幻影复制体，让其无法命中。</content>
     <content contentuid="h506afe25gece8g4981gbd5cg835ca5f30e73" version="1">移形换影</content>
-    <content contentuid="h312eda7fg99d7g4504gb075g2f3c0b7e0db4" version="1">传送到[1]范围内的位置，下一次攻击必为&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;。</content>
+    <content contentuid="h312eda7fg99d7g4504gb075g2f3c0b7e0db4" version="1">传送到[1]范围内的位置。&lt;br&gt;下一次攻击必为&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;。</content>
     <content contentuid="hbec4f3b2g3f64g42f5g96e6g9c1ed60289bd" version="1">螺旋九影</content>
     <content contentuid="h4b3f8049g7be9g4f19gbcfcgfdda670d6031" version="1">创造出9个自身的幻影复制体，分散攻击者的注意力。每个幻影让你的&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;+1。</content>
 	<content contentuid="h455264d9ge55ag4bc5g85c6g188770b81db5" version="1">每当成功躲避一次攻击时，一个幻影就会消失。</content>
@@ -76,7 +78,7 @@
     <content contentuid="h6565d090ga0dag46e9gaf3bg41274d714f3f" version="1">千重霄远乾坤近，倚石来补帝王衿。临风把酒萧然泪，化雷难抚断剑心。你施展的法术和攻击无视雷鸣和闪电伤害&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。获得&lt;LSTag Type="Spell" Tooltip="Shout_KFC_StaticOverdrive"&gt;神霄雷&lt;/LSTag&gt;、绛宫雷、水脏雷。</content>
     <content contentuid="h52fd5e84g81c5g4f2fga375g6f85c8051c8c" version="1">神霄雷</content>
     <content contentuid="h017e8941g90beg4719g82d9ge53790d55f05" version="1">以雷为势，奔雷游走。获得&lt;LSTag Type="Status" Tooltip="KFC_STATIC_DISCHARGE_ARUA"&gt;神霄雷&lt;/LSTag&gt;和&lt;LSTag Type="Status" Tooltip="ACTION_SURGE"&gt;动作如潮&lt;/LSTag&gt;[1]回合。自己和[2]范围内的所有队友获得&lt;LSTag Type="Status" Tooltip="KFC_STATIC_DISCHARGE_ALLY"&gt;神霄雷&lt;/LSTag&gt;。[2]范围内的所有敌人获得&lt;LSTag Type="Status" Tooltip="KFC_STATIC_DISCHARGE_ENEMY"&gt;神霄雷&lt;/LSTag&gt;。</content>
-    <content contentuid="h268fb659ga380g4a56g8b18g35583282124b" version="1">自己和附近的所有队友额外造成[1]，并获得雷鸣和闪电伤害&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;附近的所有敌人每回合受到[2]，且会在攻击时受到一个额外的[2]，无法作出反应。</content>
+    <content contentuid="h268fb659ga380g4a56g8b18g35583282124b" version="1">自己和附近的所有队友额外造成[1]，并获得雷鸣和闪电伤害&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。&lt;br&gt;附近的所有敌人每回合受到[2]，且会在攻击时受到一个额外的[2]，无法作出反应。</content>
     <content contentuid="h3417d7e6g9fb5g4003gbd52gcb702dc0cb6a" version="1">经脉蕴有奔雷。造成一个额外的[1]。获得雷鸣和闪电伤害&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
     <content contentuid="h030d5ad3gd8e7g4904gaea0g14f313e1ae52" version="1">发肤微动皆魄若雷鸣。每回合受到[1]。如果发起攻击，则会受到一个额外的[1]。无法作出反应。</content>
     <content contentuid="had17e753g4081g4f21gbc18gb4e7dad10955" version="1">对位于&lt;LSTag Type="Status" Tooltip="KFC_STATIC_DISCHARGE_ARUA"&gt;神霄雷&lt;/LSTag&gt;灵光范围内的攻击者造成[1]。</content>
@@ -86,8 +88,6 @@
     <content contentuid="hc130da9ag9b81g4108gbda6g35abdfe0a510" version="1">乾坤大挪移</content>
     <content contentuid="h308cec68gda29g40e5gae76g5f53aa842295" version="1">获得两个额外&lt;LSTag Tooltip="Reaction"&gt;反应&lt;/LSTag&gt;。获得&lt;LSTag Type="Spell" Tooltip="Interrupt_KFC_Counterspell"&gt;乾坤大挪移&lt;/LSTag&gt;</content>
     <content contentuid="he57bf83egac0cg46dfga37ag7474c1550ff2" version="1">如果[1]范围内的敌人用来攻击你的法术等级低于或等于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练项加值&lt;/LSTag&gt;，你可以使用&lt;LSTag Tooltip="Reaction"&gt;反应&lt;/LSTag&gt;动作使法术无效。</content>
-    <content contentuid="hcfe443adg79efg4d38g9874g31381a17f8d8" version="1"></content>
-    <content contentuid="h4b255013gd765g4f09g8f7fg10da16e0f520" version="1"></content>
     <content contentuid="hbf516c35gaed3g48dfgb6b0g5df4a1b9315c" version="1"></content>
     <content contentuid="h846722bag6b61g4b9fgac2agd4670d0f76eb" version="1"></content>
     <content contentuid="hf9269375gc6f5g44eagae79g2a361a0ebb75" version="1"></content>

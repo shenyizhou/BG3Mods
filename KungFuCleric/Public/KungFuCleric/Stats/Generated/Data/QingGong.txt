@@ -4,8 +4,8 @@ type "PassiveData"
 data "DisplayName" "h0735f7aag028fg4f50g91a3g2480891e7eea;1"
 data "Description" "hf8bb6033g741cg4852g9b84g62e96b1fba44;1"
 data "DescriptionParams" "Distance(3)"
-// 气化形体
-data "Icon" "Spell_Transmutation_GaseousForm"
+// 跳跃术
+data "Icon" "Spell_Transmutation_LongJump"
 data "Properties" "Highlighted"
 data "Boosts" "IgnoreFallDamage();UnlockSpellVariant(SpellId('Projectile_Jump'),ModifyUseCosts(Replace,BonusActionPoint,0,0,BonusActionPoint));JumpMaxDistanceBonus(3);JumpMaxDistanceMultiplier(3);ProficiencyBonus(Skill,Athletics);ProficiencyBonus(Skill,Acrobatics)"
 
@@ -15,10 +15,10 @@ type "PassiveData"
 data "DisplayName" "hc0decce3g35ecg4ef6gaeb1g69746c6100ba;1"
 data "Description" "h18c06e21gd830g46dfg8b98g36dc52717f77;1"
 data "DescriptionParams" "Distance(9)"
-// 橡棍术
-data "Icon" "Spell_Abjuration_Transmutation_Shillelagh"
+// 大步奔行
+data "Icon" "Spell_Transmutation_Longstrider"
 data "Properties" "Highlighted"
-data "Boosts" "ActionResourcePreventReduction(Movement);StatusImmunity(SG_DifficultTerrain);StatusImmunity(SG_Surface);StatusImmunity(SG_Paralyzed);StatusImmunity(WET);StatusImmunity(SG_Restrained);StatusImmunity(CRIPPLED);ActionResource(Movement,9,0);IgnoreLeaveAttackRange;UnlockSpell(Shout_KFC_Dash)"
+data "Boosts" "ActionResourcePreventReduction(Movement);StatusImmunity(SG_DifficultTerrain);StatusImmunity(SG_Surface);StatusImmunity(SG_Paralyzed);StatusImmunity(SG_Restrained);StatusImmunity(CRIPPLED);StatusImmunity(WET);ActionResource(Movement,9,0);IgnoreLeaveAttackRange;UnlockSpell(Shout_KFC_Dash)"
 
 // 踏雪无痕（疾走）
 new entry "Shout_KFC_Dash"
@@ -59,19 +59,19 @@ data "Description" "hf635c638g7c69g4197gbe5cg6e9d011c993f;1"
 // 暗影步
 data "Icon" "Action_Monk_ShadowStep"
 data "Properties" "Highlighted"
-data "Boosts" "StatusImmunity(SG_Prone);StatusImmunity(SG_Unconscious);StatusImmunity(SHOCKWAVE);StatusImmunity(SG_Incapacitated);Attribute(Grounded);CriticalHit(AttackTarget,Success,Never);Disadvantage(AttackTarget);Advantage(Ability,Dexterity);AreaDamageEvade()"
+data "Boosts" "StatusImmunity(SG_Prone);StatusImmunity(SG_Unconscious);StatusImmunity(SHOCKWAVE);StatusImmunity(SG_Frightened);StatusImmunity(SG_Stunned);StatusImmunity(SG_Incapacitated);Attribute(Grounded);CriticalHit(AttackTarget,Success,Never);Disadvantage(AttackTarget);Advantage(Ability,Dexterity);AreaDamageEvade()"
 
 // 飞絮轻烟功
 new entry "Passive_KFC_FeiXuQingYanGong"
 type "PassiveData"
 data "DisplayName" "h8e41fc32g21edg4917g9ef9g64b444f148d4;1"
 data "Description" "hfb313e4fgf07eg407bga931g86d66f4245c4;1"
-// 障眼薄雾
-data "Icon" "Action_Warlock_OneWithShadows"
+// 升空
+data "Icon" "TadpoleSuperPower_Levitate"
 data "Properties" "Highlighted"
 data "Boosts" "Advantage(Skill,Stealth);IF(not HasObscuredState(ObscuredState.Clear)):Advantage(AllSavingThrows);UnlockSpell(Projectile_KFC_FLY);UnlockSpell(Shout_KFC_Invisibility);UnlockSpell(Target_KFC_FogCloud)"
 
-// 草上飞
+// 草上飞（飞行术）
 new entry "Projectile_KFC_FLY"
 type "SpellData"
 data "SpellType" "Projectile"
@@ -106,7 +106,7 @@ data "CastEffect" "8b2df096-373b-4323-b5bc-6cf2c3db8281"
 data "SpellSoundMagnitude" "Small"
 data "Sheathing" "DontChange"
 
-// 遁甲术
+// 遁甲术（隐形术）
 new entry "Shout_KFC_Invisibility"
 type "SpellData"
 data "SpellType" "Shout"
@@ -129,14 +129,15 @@ data "PrepareEffect" "b1c774c1-9ad2-426b-9240-ba83ad2efc70"
 data "CastEffect" "fadb15d3-6175-4334-be28-3160a640e799"
 data "Sheathing" "DontChange"
 
-// 五罗轻烟
+// 五罗轻烟（云雾术）
 new entry "Target_KFC_FogCloud"
 type "SpellData"
 data "SpellType" "Target"
 data "SpellProperties" "GROUND:CreateSurface(5,10,FogCloud,true)"
 data "TargetRadius" "18"
 data "AreaRadius" "4"
-data "Icon" "Spell_Conjuration_FogCloud"
+// 御风而行
+data "Icon" "Spell_Transmutation_WindWalk"
 data "DisplayName" "h17455be4ge0edg4546g9a34g8b5df8cf1f56;1"
 data "Description" "hd141dc48g4c10g4458gb7ffge9fa8e663cd9;1"
 data "TooltipUpcastDescription" "fcc00846-6526-4d5d-9933-7f3e0bd7e2ef"
@@ -150,7 +151,7 @@ data "CycleConditions" "Enemy() and not Dead()"
 data "UseCosts" "BonusActionPoint:1"
 data "SpellAnimation" "554a18f7-952e-494a-b301-7702a85d4bc9,,;,,;09ae2f11-f5b4-42f5-ae16-687a5b57d500,,;10caea0e-c949-4d91-8ab7-3b50019dd054,,;22dfbbf4-f417-4c84-b39e-2039315961e6,,;,,;5bfbe9f9-4fc3-4f26-b112-43d404db6a89,,;,,;,,"
 data "VerbalIntent" "Control"
-data "SpellFlags" "HasSomaticComponent;HasHighGroundRangeExtension;IsConcentration;RangeIgnoreVerticalThreshold"
+data "SpellFlags" "HasSomaticComponent;HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold"
 data "HitAnimationType" "None"
 data "PrepareEffect" "2fa6b127-6f8a-4150-8be6-6f62b7a85911"
 data "CastEffect" "b4221f40-bcc3-4703-acc5-1afaee284839"
@@ -171,8 +172,8 @@ new entry "Interrupt_KFC_IllusorySelf"
 type "InterruptData"
 data "DisplayName" "hb94a2330g175cg4d74g831dgcd4bdcde53ca;1"
 data "Description" "hc130da9ag9b81g4108gbda6g35abdfe0a510;1"
-// 幻影化形
-data "Icon" "PassiveFeature_IllusorySelf"
+// 障眼薄雾
+data "Icon" "Action_Warlock_OneWithShadows"
 data "InterruptContext" "OnPostRoll"
 data "InterruptContextScope" "Self"
 data "Container" "YesNoDecision"
@@ -233,7 +234,8 @@ type "SpellData"
 data "SpellType" "Shout"
 data "SpellProperties" "ApplyStatus(KFC_MIRROR_IMAGE_9,100,10);ApplyStatus(KFC_MIRROR_IMAGE_8,100,10);ApplyStatus(KFC_MIRROR_IMAGE_7,100,10);ApplyStatus(KFC_MIRROR_IMAGE_6,100,10);ApplyStatus(KFC_MIRROR_IMAGE_5,100,10);ApplyStatus(KFC_MIRROR_IMAGE_4,100,10);ApplyStatus(KFC_MIRROR_IMAGE_3,100,10);ApplyStatus(KFC_MIRROR_IMAGE_2,100,10);ApplyStatus(KFC_MIRROR_IMAGE_1,100,10)"
 data "TargetConditions" "Self()"
-data "Icon" "Spell_Illusion_MirrorImage"
+// 幻影化形
+data "Icon" "PassiveFeature_IllusorySelf"
 data "DisplayName" "hbec4f3b2g3f64g42f5g96e6g9c1ed60289bd;1"
 data "Description" "h4b3f8049g7be9g4f19gbcfcgfdda670d6031;1"
 data "ExtraDescription" "h455264d9ge55ag4bc5g85c6g188770b81db5;1"

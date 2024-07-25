@@ -6,18 +6,27 @@ data "Description" "h8efb89f9g5e4cg4014g86c4g9b00343ce7e8;1"
 // 暗夜之眼
 data "Icon" "PassiveFeature_Generic_WildAnimal"
 data "Properties" "Highlighted"
-data "Boosts" "StatusImmunity(SG_Blinded);StatusImmunity(SG_Charmed);StatusImmunity(SG_Frightened);StatusImmunity(SG_Stunned);StatusImmunity(SG_Poisoned);"
+data "Boosts" "StatusImmunity(SG_Blinded);StatusImmunity(SG_Charmed);StatusImmunity(SG_Poisoned)"
 
 // 左右手互搏术
 new entry "Passive_KFC_ZuoYouShouHuBoShu"
 type "PassiveData"
 data "DisplayName" "hcf746165g6699g4ae3ga1f6gb11027870777;1"
 data "Description" "h38c8f50cg329dg440eg980dgc7fb37f8443c;1"
-// 双持客
-data "Icon" "PassiveFeature_DualWielder_PassiveBonuses"
+// 防御式决斗
+data "Icon" "PassiveFeature_DefensiveDualist"
 data "Properties" "Highlighted"
 data "Boosts" "DualWielding(true);DualWielding(false);"
 data "StatsFunctorContext" "OnCast;OnStatusRemoved;OnStatusApplied"
 data "Conditions" "(context.HasContextFlag(StatsFunctorContext.OnCast) and ExtraAttackSpellCheck() and HasUseCosts('ActionPoint', true) and not Tagged('EXTRA_ATTACK_BLOCKED',context.Source) and not HasStatus('SLAYER_PLAYER',context.Source) and not HasStatus('SLAYER_PLAYER_10',context.Source) and TurnBased(context.Source)) or (context.HasContextFlag(StatsFunctorContext.OnStatusRemoved) and StatusId('INITIAL_ATTACK_TECHNICAL') and TurnBased()) or (context.HasContextFlag(StatsFunctorContext.OnStatusApplied) and StatusId('EXTRA_ATTACK_Q'))"
 data "StatsFunctors" "IF(context.HasContextFlag(StatsFunctorContext.OnCast)):ApplyStatus(SELF,EXTRA_ATTACK_Q,100,1);IF(context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):ApplyStatus(EXTRA_ATTACK_Q,100,1);IF(context.HasContextFlag(StatsFunctorContext.OnStatusApplied) and not HasHigherPriorityExtraAttackQueued('EXTRA_ATTACK_Q') and not HasAnyExtraAttack()):ApplyStatus(EXTRA_ATTACK, 100, 1)"
 
+// 神机百变
+new entry "Passive_KFC_ShenJiBaiBian"
+type "PassiveData"
+data "DisplayName" "hcfe443adg79efg4d38g9874g31381a17f8d8;1"
+data "Description" "h4b255013gd765g4f09g8f7fg10da16e0f520;1"
+// 演员
+data "Icon" "Action_Perform_Voice"
+data "Properties" "Highlighted"
+data "Boosts" "IF(not HasProficiencyBonus(context.CheckedAbility,context.CheckedSkill,context.Source)):RollBonus(SkillCheck,ProficiencyBonus);IF(not HasProficiencyBonus(context.CheckedAbility,context.CheckedSkill,context.Source)):RollBonus(RawAbility,ProficiencyBonus)"

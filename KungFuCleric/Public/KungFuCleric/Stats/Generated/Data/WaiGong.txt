@@ -3,7 +3,7 @@ new entry "Passive_KFC_WuLeiTianXinJue"
 type "PassiveData"
 data "DisplayName" "h8222880eg02b6g4811gb8d0g05b39677e240;1"
 data "Description" "h6565d090ga0dag46e9gaf3bg41274d714f3f;1"
-// 龙族血统：蓝龙
+// 龙族血统
 data "Icon" "GenericIcon_DamageType_Lightning"
 data "Properties" "Highlighted"
 // todo: 绛宫雷 水脏雷
