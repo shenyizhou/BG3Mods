@@ -59,7 +59,7 @@
     <!-- 拆招 -->
     <content contentuid="hc130da9ag9b81g4108gbda6g35abdfe0a510" version="1">乾坤大挪移</content>
     <content contentuid="h308cec68gda29g40e5gae76g5f53aa842295" version="1">获得两个额外&lt;LSTag Tooltip="Reaction"&gt;反应&lt;/LSTag&gt;。获得&lt;LSTag Type="Spell" Tooltip="Interrupt_KFC_Counterspell"&gt;乾坤大挪移&lt;/LSTag&gt;</content>
-    <content contentuid="he57bf83egac0cg46dfga37ag7474c1550ff2" version="1">你可以使用&lt;LSTag Tooltip="Reaction"&gt;反应&lt;/LSTag&gt;动作使法术无效。</content>
+    <content contentuid="he57bf83egac0cg46dfga37ag7474c1550ff2" version="1">如果[1]范围内的敌人用来攻击你的法术等级低于或等于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练项加值&lt;/LSTag&gt;，你可以使用&lt;LSTag Tooltip="Reaction"&gt;反应&lt;/LSTag&gt;动作使法术无效。</content>
     <content contentuid="h7d8c4363g3d93g4153g9efcg501e96688a28" version="1"></content>
     <content contentuid="ha3df34c0g92a9g484egbbc7g9ef0389d65f0" version="1"></content>
     <content contentuid="hfd0aa887g3748g4a84gb58dg5fb17d797a3e" version="1"></content>

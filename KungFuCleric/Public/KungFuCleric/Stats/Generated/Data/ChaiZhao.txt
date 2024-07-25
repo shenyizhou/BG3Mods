@@ -12,13 +12,14 @@ new entry "Interrupt_KFC_Counterspell"
 type "InterruptData"
 data "DisplayName" "hc130da9ag9b81g4108gbda6g35abdfe0a510;1"
 data "Description" "he57bf83egac0cg46dfga37ag7474c1550ff2;1"
+data "DescriptionParams" "Distance(18)"
 // 暂定灵能统御
 data "Icon" "TadpoleSuperPower_PsionicDominance"
 data "InterruptContext" "OnSpellCast"
 data "InterruptContextScope" "Nearby"
 data "Container" "YesNoDecision"
-// 允许反应、可反应、未被沉默、是敌人、非自己、是角色、是法术、非武器攻击，移除了灵能统御的法术等级小于等于熟练度判断
-data "Conditions" "IsAbleToReact(context.Observer) and not Uninterruptible() and not HasSpellCastBlocked(context.Observer) and Enemy(context.Source, context.Observer) and not Self(context.Source, context.Observer) and not AnyEntityIsItem() and IsSpell() and not HasStringInSpellRoll('WeaponAttack')"
+// 允许反应、可反应、未被沉默、是敌人、非自己、是角色、是法术、法术等级小于等于熟练度判断、非武器攻击
+data "Conditions" "IsAbleToReact(context.Observer) and not Uninterruptible() and not HasSpellCastBlocked(context.Observer) and Enemy(context.Source, context.Observer) and not Self(context.Source, context.Observer) and not AnyEntityIsItem() and IsSpell() and SpellPowerLevelEqualOrLessThan(context.Observer.ProficiencyBonus) and not HasStringInSpellRoll('WeaponAttack')"
 data "Properties" "Counterspell()"
 data "Cost" "ReactionActionPoint:1"
 data "InterruptDefaultValue" "Ask;Enabled"
