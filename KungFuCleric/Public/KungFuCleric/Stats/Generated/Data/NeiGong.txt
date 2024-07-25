@@ -1,6 +1,8 @@
 // 太玄经
 new entry "Passive_KFC_TaiXuanJing"
 type "PassiveData"
+// 盲视术
+data "Icon" "PassiveFeature_Generic_Darkness"
 data "DisplayName" "h7d8c4363g3d93g4153g9efcg501e96688a28;1"
 data "Description" "ha3df34c0g92a9g484egbbc7g9ef0389d65f0;1"
 data "StatsFunctorContext" "OnDamage"
@@ -15,6 +17,7 @@ data "DescriptionParams" "max(1,Level*ConstitutionModifier);18"
 // 免疫缠绕
 data "Icon" "Spell_Conjuration_Web"
 data "Properties" "Highlighted"
+data "Boosts" "StatusImmunity(SG_Restrained)"
 data "StatsFunctorContext" "OnDamaged"
 data "StatsFunctors" "RegainHitPoints(SELF,max(1,Level*ConstitutionModifier));IF(not SavingThrow(Ability.Dexterity,18,false,false,context.Source)):ApplyStatus(SWAP,ENSNARED_VINES,100,1)"
 

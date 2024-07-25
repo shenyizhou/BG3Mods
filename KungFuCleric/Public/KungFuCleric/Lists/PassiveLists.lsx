@@ -11,7 +11,7 @@
                 </node>
                 <!-- 软功 -->
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Passive_KFC_MingMuGong,Passive_KFC_ZuoYouShouHuBoShu"/>
+                    <attribute id="Passives" type="LSString" value="Passive_KFC_MingMuGong,Passive_KFC_ZuoYouShouHuBoShu,Passive_KFC_ShenJiBaiBian"/>
                     <attribute id="UUID" type="guid" value="d1a02545-223f-4b66-b822-eec3168fb322"/>
                 </node>
                 <!-- 轻功 -->

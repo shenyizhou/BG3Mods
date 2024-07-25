@@ -18,7 +18,7 @@ data "DescriptionParams" "Distance(9)"
 // 大步奔行
 data "Icon" "Spell_Transmutation_Longstrider"
 data "Properties" "Highlighted"
-data "Boosts" "ActionResourcePreventReduction(Movement);StatusImmunity(SG_DifficultTerrain);StatusImmunity(SG_Surface);StatusImmunity(SG_Paralyzed);StatusImmunity(SG_Restrained);StatusImmunity(CRIPPLED);StatusImmunity(WET);ActionResource(Movement,9,0);IgnoreLeaveAttackRange;UnlockSpell(Shout_KFC_Dash)"
+data "Boosts" "ActionResourcePreventReduction(Movement);StatusImmunity(SG_DifficultTerrain);StatusImmunity(SG_Surface);StatusImmunity(SG_Frightened);StatusImmunity(CRIPPLED);StatusImmunity(WET);ActionResource(Movement,9,0);IgnoreLeaveAttackRange;UnlockSpell(Shout_KFC_Dash)"
 
 // 踏雪无痕（疾走）
 new entry "Shout_KFC_Dash"
@@ -59,7 +59,7 @@ data "Description" "hf635c638g7c69g4197gbe5cg6e9d011c993f;1"
 // 暗影步
 data "Icon" "Action_Monk_ShadowStep"
 data "Properties" "Highlighted"
-data "Boosts" "StatusImmunity(SG_Prone);StatusImmunity(SG_Unconscious);StatusImmunity(SHOCKWAVE);StatusImmunity(SG_Frightened);StatusImmunity(SG_Stunned);StatusImmunity(SG_Incapacitated);Attribute(Grounded);CriticalHit(AttackTarget,Success,Never);Disadvantage(AttackTarget);Advantage(Ability,Dexterity);AreaDamageEvade()"
+data "Boosts" "StatusImmunity(SG_Prone);StatusImmunity(SG_Paralyzed);StatusImmunity(SG_Unconscious);StatusImmunity(SHOCKWAVE);StatusImmunity(SG_Stunned);StatusImmunity(SG_Incapacitated);Attribute(Grounded);CriticalHit(AttackTarget,Success,Never);Disadvantage(AttackTarget);Advantage(Ability,Dexterity);AreaDamageEvade()"
 
 // 飞絮轻烟功
 new entry "Passive_KFC_FeiXuQingYanGong"
