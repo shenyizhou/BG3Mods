@@ -1,7 +1,7 @@
 // 乾坤大挪移
 new entry "Passive_KFC_QianKunDaNuoYi"
 type "PassiveData"
-data "DisplayName" "hc130da9ag9b81g4108gbda6g35abdfe0a510;1"
+data "DisplayName" "h86d88fd1g5817g4239gae61gdc97ceabc9a8;1"
 data "Description" "h308cec68gda29g40e5gae76g5f53aa842295;1"
 // 法术反制
 data "Icon" "PassiveFeature_Counterspell"

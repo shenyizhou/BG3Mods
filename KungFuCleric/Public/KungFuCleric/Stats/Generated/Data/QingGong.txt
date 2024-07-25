@@ -160,8 +160,8 @@ data "PositionEffect" "2de1821f-02b9-454d-8436-382c9879becd"
 // 鬼影迷踪步
 new entry "Passive_KFC_GuiYingMiZongBu"
 type "PassiveData"
-data "DisplayName" "hb94a2330g175cg4d74g831dgcd4bdcde53ca;1"
-data "Description" "hc130da9ag9b81g4108gbda6g35abdfe0a510;1"
+data "DisplayName" "h112e3c6dgd9b3g4e6dg8838g440b2af60307;1"
+data "Description" "h5c9d56feg8979g4b89gbab1g8f4398eac6c0;1"
 // 迷踪步
 data "Icon" "Spell_Conjuration_MistyStep"
 data "Properties" "Highlighted"
