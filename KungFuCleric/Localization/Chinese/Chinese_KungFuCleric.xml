@@ -57,6 +57,8 @@
     <!-- 内功 -->
     <content contentuid="h7d8c4363g3d93g4153g9efcg501e96688a28" version="1">太玄经</content>
     <content contentuid="ha3df34c0g92a9g484egbbc7g9ef0389d65f0" version="1">打出&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;或杀掉敌方生物时，&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;恢复到最大值。</content>
+    <content contentuid="heafd6140g8985g46e0g87a8g6c9e739a8523" version="1">不死印法</content>
+    <content contentuid="hfe9f531bg760fg475dgab51g2a71f294c35d" version="1">你的死亡豁免检定更容易成功。当你成功通过一次死亡豁免检定时，恢复1点生命值。</content>
     <content contentuid="hfd0aa887g3748g4a84gb58dg5fb17d797a3e" version="1">神照经</content>
     <content contentuid="h5ebbeae0g8fafg44dcgbb9bg484a66a95cef" version="1">获得&lt;LSTag Type="Spell" Tooltip="KFC_Teleportation_Resurrection"&gt;起死回生&lt;/LSTag&gt;</content>
     <content contentuid="hf40603abge5c8g4953gb33ag79391ed5ec21" version="1">起死回生</content>

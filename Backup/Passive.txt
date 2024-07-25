@@ -1,17 +1,3 @@
-// 不死印法
-new entry "Passive_KFC_BuSiYinFa"
-type "PassiveData"
-data "DisplayName" "heafd6140g8985g46e0g87a8g6c9e739a8523;1"
-data "Description" "hfe9f531bg760fg475dgab51g2a71f294c35d;1"
-data "DescriptionParams" "max(2*Level,Level*ConstitutionModifier+Level*DexterityModifier);1"
-// 不死生物的图标
-data "Icon" "GenericIcon_DamageType_Necrotic"
-data "Properties" "Highlighted"
-data "Boosts" "IncreaseMaxHP(max(2*Level,Level*ConstitutionModifier+Level*DexterityModifier));IF(Player() and not Tagged('DOWNED_DISABLED')):DownedStatus(HAG_DOWNED,1)"
-data "StatsFunctorContext" "OnTurn"
-data "Conditions" "IsDowned() and IsLastConditionRollSuccess(ConditionRollType.ConditionSavingThrow)"
-data "StatsFunctors" "RegainHitPoints(1)"
-
 // 天蚕功
 new entry "Passive_KFC_TianCanGong"
 type "PassiveData"
@@ -55,15 +41,6 @@ data "Description" "h31446535gb5e7g4d43g9c29gdbab01187a32;1"
 data "Icon" "TadpoleSuperPower_StageFright_2"
 data "Properties" "Highlighted"
 data "Boosts" "UnlockInterrupt(busikuangnu_1)"
-
-// 皇帝内经
-new entry "TaiJiQuan22"
-type "PassiveData"
-data "DisplayName" "h5c7ceaeag7b34g46b1g9dfcg40b86c131b16;1"
-data "Description" "hf0ef0c0fgcf66g497ag8f14geda7f04209bb;1"
-data "Icon" "PassiveFeature_Generic_Magical"
-data "Properties" "Highlighted"
-data "Boosts" "UnlockSpell(hongshou_1);UnlockSpell(hongshou_2)"
 
 // 攻击获得闪电充能
 new entry "Passive_KFC_QL_ChargedLightning_Attack"

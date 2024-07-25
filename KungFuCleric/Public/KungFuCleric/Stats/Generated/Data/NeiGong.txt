@@ -6,6 +6,19 @@ data "Description" "ha3df34c0g92a9g484egbbc7g9ef0389d65f0;1"
 data "StatsFunctorContext" "OnDamage"
 data "StatsFunctors" "IF(IsCritical() or IsKillingBlow()):RestoreResource(SELF, Movement, 100%, 0)"
 
+// 不死印法
+new entry "Passive_KFC_BuSiYinFa"
+type "PassiveData"
+data "DisplayName" "heafd6140g8985g46e0g87a8g6c9e739a8523;1"
+data "Description" "hfe9f531bg760fg475dgab51g2a71f294c35d;1"
+// 不死生物
+data "Icon" "GenericIcon_DamageType_Necrotic"
+data "Properties" "Highlighted"
+data "Boosts" "IF(Player() and not Tagged('DOWNED_DISABLED')):DownedStatus(HAG_DOWNED,1)"
+data "StatsFunctorContext" "OnTurn"
+data "Conditions" "IsDowned() and IsLastConditionRollSuccess(ConditionRollType.ConditionSavingThrow)"
+data "StatsFunctors" "RegainHitPoints(1)"
+
 // 神照经
 new entry "Passive_KFC_ShenZhaoJing"
 type "PassiveData"
