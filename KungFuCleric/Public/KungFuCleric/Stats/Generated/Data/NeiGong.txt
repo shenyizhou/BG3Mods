@@ -26,6 +26,7 @@ new entry "Passive_KFC_BuSiYinFa"
 type "PassiveData"
 data "DisplayName" "heafd6140g8985g46e0g87a8g6c9e739a8523;1"
 data "Description" "hfe9f531bg760fg475dgab51g2a71f294c35d;1"
+data "DescriptionParams" "1"
 // 不死生物
 data "Icon" "GenericIcon_DamageType_Necrotic"
 data "Properties" "Highlighted"
