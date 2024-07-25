@@ -4,10 +4,35 @@
     <region id="PassiveLists">
         <node id="root">
             <children>
+                <!-- 硬功 -->
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="Passive_KFC_JinGangBuHuaiShenGong,Passive_KFC_DaJinGangShenLi"/>
+                    <attribute id="UUID" type="guid" value="5457b361-7306-469d-9032-6f2760a629e3"/>
+                </node>
+                <!-- 软功 -->
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="Passive_KFC_MingMuGong,Passive_KFC_ZuoYouShouHuBoShu"/>
+                    <attribute id="UUID" type="guid" value="d1a02545-223f-4b66-b822-eec3168fb322"/>
+                </node>
                 <!-- 轻功 -->
                 <node id="PassiveList">
                     <attribute id="Passives" type="LSString" value="Passive_KFC_TiYunZong,Passive_KFC_YiWeiDuJiang,Passive_KFC_LingBoWeiBu,Passive_KFC_FeiXuQingYanGong,Passive_KFC_GuiYingMiZongBu"/>
                     <attribute id="UUID" type="guid" value="d9eff3c2-0fa4-4022-9ce3-d684c6d3fa29"/>
+                </node>
+                <!-- 内功 -->
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="Passive_KFC_TaiXuanJing,Passive_KFC_TianCanGong,Passive_KFC_BuSiYinFa,Passive_KFC_ShenZhaoJing"/>
+                    <attribute id="UUID" type="guid" value="01bef723-3a92-4640-811d-4c57df429712"/>
+                </node>
+                <!-- 外功 -->
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="Passive_KFC_WuLeiTianXinJue"/>
+                    <attribute id="UUID" type="guid" value="556ab3de-5af7-4e11-9b08-48764ae60b46"/>
+                </node>
+                <!-- 拆招 -->
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="Passive_KFC_QianKunDaNuoYi"/>
+                    <attribute id="UUID" type="guid" value="20aff608-ecf9-422f-85ee-6be3e36d9d8c"/>
                 </node>
             </children>
         </node>
