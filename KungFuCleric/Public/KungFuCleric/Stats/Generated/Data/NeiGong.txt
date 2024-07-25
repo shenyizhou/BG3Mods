@@ -4,7 +4,19 @@ type "PassiveData"
 data "DisplayName" "h7d8c4363g3d93g4153g9efcg501e96688a28;1"
 data "Description" "ha3df34c0g92a9g484egbbc7g9ef0389d65f0;1"
 data "StatsFunctorContext" "OnDamage"
-data "StatsFunctors" "IF(IsCritical() or IsKillingBlow()):RestoreResource(SELF, Movement, 100%, 0)"
+data "StatsFunctors" "IF(IsCritical() or IsKillingBlow()):RestoreResource(SELF,Movement,100%,0)"
+
+// 天蚕功
+new entry "Passive_KFC_TianCanGong"
+type "PassiveData"
+data "DisplayName" "h4590d42cg7a63g48b2gaed2g8b457fcd8fe5;1"
+data "Description" "hdd847a96g0c2eg41e1ga736g00e7c38e1e5b;1"
+data "DescriptionParams" "max(1,Level*ConstitutionModifier);18"
+// 免疫缠绕
+data "Icon" "Spell_Conjuration_Web"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamaged"
+data "StatsFunctors" "RegainHitPoints(SELF,max(1,Level*ConstitutionModifier));IF(not SavingThrow(Ability.Dexterity,18,false,false,context.Source)):ApplyStatus(SWAP,ENSNARED_VINES,100,1)"
 
 // 不死印法
 new entry "Passive_KFC_BuSiYinFa"

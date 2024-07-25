@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
-    <content contentuid="h4590d42cg7a63g48b2gaed2g8b457fcd8fe5" version="1">天蚕功</content>
-    <content contentuid="hdd847a96g0c2eg41e1ga736g00e7c38e1e5b" version="1">此功施展之下掌心流窜晶光一片，一种蚕丝也似的丝状物出现。你不会陷入&lt;LSTag Type="Status" Tooltip="ENSNARED_VINES"&gt;缠绕&lt;/LSTag&gt;状态；每次你受到伤害时，恢复[1]生命值，攻击者必须进行&lt;LSTag Tooltip="DifficultyClass"&gt;难度等级&lt;/LSTag&gt;为[1](10+敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;)的敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;，如果失败将陷入&lt;LSTag Type="Status" Tooltip="ENSNARED_VINES"&gt;缠绕&lt;/LSTag&gt;状态。被缠绕的生物无法移动。</content>
-    <!-- 反击功法 -->
     <content contentuid="h3d939e1ag9bf7g4fdeg894ag8903924c3295" version="1">御物</content>
     <content contentuid="h82937870gace4g462eg8648gdfa7b2350918" version="1">减少远程武器对你的伤害，如果你完全挡下此次攻击，则可将其投射回去。</content>
     <content contentuid="h5c7ceaeag7b34g46b1g9dfcg40b86c131b16" version="1">太极拳</content>

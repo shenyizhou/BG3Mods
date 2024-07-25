@@ -57,6 +57,8 @@
     <!-- 内功 -->
     <content contentuid="h7d8c4363g3d93g4153g9efcg501e96688a28" version="1">太玄经</content>
     <content contentuid="ha3df34c0g92a9g484egbbc7g9ef0389d65f0" version="1">打出&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;或杀掉敌方生物时，&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;恢复到最大值。</content>
+    <content contentuid="h4590d42cg7a63g48b2gaed2g8b457fcd8fe5" version="1">天蚕功</content>
+    <content contentuid="hdd847a96g0c2eg41e1ga736g00e7c38e1e5b" version="1">每次你受到伤害时，恢复[1]生命值。攻击者必须进行&lt;LSTag Tooltip="DifficultyClass"&gt;难度等级&lt;/LSTag&gt;为[2]的敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;，如果失败将陷入&lt;LSTag Type="Status" Tooltip="ENSNARED_VINES"&gt;缠绕&lt;/LSTag&gt;状态。</content>
     <content contentuid="heafd6140g8985g46e0g87a8g6c9e739a8523" version="1">不死印法</content>
     <content contentuid="hfe9f531bg760fg475dgab51g2a71f294c35d" version="1">你的死亡豁免检定更容易成功。当你成功通过一次死亡豁免检定时，恢复1点生命值。</content>
     <content contentuid="hfd0aa887g3748g4a84gb58dg5fb17d797a3e" version="1">神照经</content>

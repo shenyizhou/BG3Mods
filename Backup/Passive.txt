@@ -1,16 +1,3 @@
-// 天蚕功
-new entry "Passive_KFC_TianCanGong"
-type "PassiveData"
-data "DisplayName" "h4590d42cg7a63g48b2gaed2g8b457fcd8fe5;1"
-data "Description" "hdd847a96g0c2eg41e1ga736g00e7c38e1e5b;1"
-data "DescriptionParams" "max(Level,Level*ConstitutionModifier)"
-// 免疫缠绕的图标
-data "Icon" "Spell_Conjuration_Web"
-data "Properties" "Highlighted"
-data "Boosts" "StatusImmunity(ENSNARED_VINES)"
-data "StatsFunctorContext" "OnDamaged"
-data "StatsFunctors" "RegainHitPoints(SELF,max(Level,Level*ConstitutionModifier));IF(not SavingThrow(Ability.Dexterity,max(10,10+DexterityModifier),false,false,context.Source)):ApplyStatus(SWAP,ENSNARED_VINES,100,1)"
-
 // 斗转星移
 new entry "yuwu"
 type "PassiveData"
