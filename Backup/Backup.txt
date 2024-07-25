@@ -105,3 +105,7 @@
 // 石肤术：STONESKIN，ResistantToNonMagical 只对非魔法抵抗
 // 魅影杀手：PHANTASMAL_KILLER
 // 双持客：DualWielding(true);DualWielding(false); // 双持
+
+// 烧伤汇总
+// StatusImmunity(BURNING);StatusImmunity(WILD_MAGIC_BURNING);StatusImmunity(BURNING_HOLY);
+// StatusImmunity(WET); // 濡湿

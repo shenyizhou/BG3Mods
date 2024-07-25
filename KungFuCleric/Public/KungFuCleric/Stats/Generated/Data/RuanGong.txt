@@ -19,4 +19,4 @@ data "Description" "h8efb89f9g5e4cg4014g86c4g9b00343ce7e8;1"
 // 暗夜之眼
 data "Icon" "PassiveFeature_Generic_WildAnimal"
 data "Properties" "Highlighted"
-data "Boosts" "StatusImmunity(SG_Blinded);StatusImmunity(SG_Charmed);StatusImmunity(SG_Frightened)"
+data "Boosts" "StatusImmunity(SG_Blinded);StatusImmunity(SG_Charmed);StatusImmunity(SG_Frightened);StatusImmunity(SG_Stunned);StatusImmunity(SG_Poisoned);"
