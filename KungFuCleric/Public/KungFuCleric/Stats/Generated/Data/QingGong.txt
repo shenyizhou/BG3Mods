@@ -59,7 +59,7 @@ data "Description" "hf635c638g7c69g4197gbe5cg6e9d011c993f;1"
 // 暗影步
 data "Icon" "Action_Monk_ShadowStep"
 data "Properties" "Highlighted"
-data "Boosts" "StatusImmunity(SG_Prone);StatusImmunity(SG_Unconscious);StatusImmunity(SHOCKWAVE);StatusImmunity(SG_Incapacitated);Attribute(Grounded);CriticalHit(AttackTarget,Success,Never);Advantage(Ability,Dexterity);Disadvantage(AttackTarget);AreaDamageEvade()"
+data "Boosts" "StatusImmunity(SG_Prone);StatusImmunity(SG_Unconscious);StatusImmunity(SHOCKWAVE);StatusImmunity(SG_Incapacitated);Attribute(Grounded);CriticalHit(AttackTarget,Success,Never);Disadvantage(AttackTarget);Advantage(Ability,Dexterity);AreaDamageEvade()"
 
 // 飞絮轻烟功
 new entry "Passive_KFC_FeiXuQingYanGong"
@@ -130,7 +130,6 @@ data "CastEffect" "fadb15d3-6175-4334-be28-3160a640e799"
 data "Sheathing" "DontChange"
 
 // 五罗轻烟
-// todo: 云雾术无法配合的话可能还是要配合黑暗术
 new entry "Target_KFC_FogCloud"
 type "SpellData"
 data "SpellType" "Target"
