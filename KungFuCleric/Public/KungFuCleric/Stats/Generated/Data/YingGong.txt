@@ -7,7 +7,7 @@ data "DescriptionParams" "max(1,ConstitutionModifier)"
 // 暗影护甲
 data "Icon" "Spell_Abjuration_MageArmor"
 data "Properties" "Highlighted"
-data "Boosts" "ACOverrideFormula(13,true,Dexterity,Constitution);DamageReduction(Piercing,Flat,max(1,ConstitutionModifier));DamageReduction(Bludgeoning,Flat,max(1,ConstitutionModifier));DamageReduction(Slashing,Flat,max(1,ConstitutionModifier));UnlockSpell(Target_KFC_ResilientSphere)"
+data "Boosts" "ACOverrideFormula(13,true,Dexterity,Constitution);DamageReduction(Piercing,Flat,max(1,ConstitutionModifier));DamageReduction(Bludgeoning,Flat,max(1,ConstitutionModifier));DamageReduction(Slashing,Flat,max(1,ConstitutionModifier));DamageReduction(Force,Flat,max(1,ConstitutionModifier));UnlockSpell(Target_KFC_ResilientSphere)"
 
 // 不灭金身
 new entry "Target_KFC_ResilientSphere"
