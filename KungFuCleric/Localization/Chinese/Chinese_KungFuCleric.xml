@@ -42,7 +42,7 @@
     <content contentuid="h17455be4ge0edg4546g9a34g8b5df8cf1f56" version="1">五罗轻烟</content>
     <content contentuid="hd141dc48g4c10g4458gb7ffge9fa8e663cd9" version="1">轻烟让内部的生物陷入&lt;LSTag Type="Status" Tooltip="BLINDED"&gt;目盲&lt;/LSTag&gt;状态。</content>
     <content contentuid="h112e3c6dgd9b3g4e6dg8838g440b2af60307" version="1">鬼影迷踪步</content>
-    <content contentuid="h5c9d56feg8979g4b89gbab1g8f4398eac6c0" version="1">幽鬼行游，若即若离。&lt;br&gt;获得鬼影迷踪反应、&lt;LSTag Type="Spell" Tooltip="Target_KFC_MistyStep"&gt;移形换影&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Shout_KFC_MirrorImage"&gt;螺旋九影&lt;/LSTag&gt;。</content>
+    <content contentuid="h5c9d56feg8979g4b89gbab1g8f4398eac6c0" version="1">幽鬼行游，若即若离。&lt;br&gt;获得&lt;LSTag Tooltip="Interrupt_KFC_IllusorySelf"&gt;鬼影迷踪&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Target_KFC_MistyStep"&gt;移形换影&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Shout_KFC_MirrorImage"&gt;螺旋九影&lt;/LSTag&gt;。</content>
     <content contentuid="hb94a2330g175cg4d74g831dgcd4bdcde53ca" version="1">鬼影迷踪</content>
     <content contentuid="hc130da9ag9b81g4108gbda6g35abdfe0a510" version="1">在你和攻击者的攻击范围之间插入自己的一个幻影复制体，让其无法命中。</content>
     <content contentuid="h506afe25gece8g4981gbd5cg835ca5f30e73" version="1">移形换影</content>
@@ -86,7 +86,7 @@
     <content contentuid="hf464b6d5g856ag4112g91d2gee4161123372" version="1">拆招</content>
     <content contentuid="hff181426gdc9dg49cfgb8d6gf60704e8163c" version="1">选择拆招进行修习。</content>
     <content contentuid="hc130da9ag9b81g4108gbda6g35abdfe0a510" version="1">乾坤大挪移</content>
-    <content contentuid="h308cec68gda29g40e5gae76g5f53aa842295" version="1">获得两个额外&lt;LSTag Tooltip="Reaction"&gt;反应&lt;/LSTag&gt;。获得乾坤大挪移反应。</content>
+    <content contentuid="h308cec68gda29g40e5gae76g5f53aa842295" version="1">获得两个额外&lt;LSTag Tooltip="Reaction"&gt;反应&lt;/LSTag&gt;。获得&lt;LSTag Tooltip="Interrupt_KFC_Counterspell"&gt;乾坤大挪移&lt;/LSTag&gt;。</content>
     <content contentuid="he57bf83egac0cg46dfga37ag7474c1550ff2" version="1">如果 [1] 范围内的敌人用来攻击你的法术等级低于或等于你的 &lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练项加值&lt;/LSTag&gt;，你可以使用 &lt;LSTag Tooltip="Reaction"&gt;反应&lt;/LSTag&gt; 动作使法术无效。</content>
     <content contentuid="hbf516c35gaed3g48dfgb6b0g5df4a1b9315c" version="1"></content>
     <content contentuid="h846722bag6b61g4b9fgac2agd4670d0f76eb" version="1"></content>
