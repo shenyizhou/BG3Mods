@@ -65,15 +65,6 @@ data "Icon" "PassiveFeature_Generic_Magical"
 data "Properties" "Highlighted"
 data "Boosts" "UnlockSpell(hongshou_1);UnlockSpell(hongshou_2)"
 
-// 神照经
-new entry "TaiJiQuan11"
-type "PassiveData"
-data "DisplayName" "h5c7ceaeag7b34g46b1g9dfcg40b86c131b16;1"
-data "Description" "hf0ef0c0fgcf66g497ag8f14geda7f04209bb;1"
-data "Icon" "PassiveFeature_Generic_Magical"
-data "Properties" "Highlighted"
-data "Boosts" "UnlockSpell(Teleportation_TrueResurrection_Scroll)"
-
 // 攻击获得闪电充能
 new entry "Passive_KFC_QL_ChargedLightning_Attack"
 type "PassiveData"

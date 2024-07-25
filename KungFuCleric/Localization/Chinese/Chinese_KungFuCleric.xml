@@ -57,6 +57,10 @@
     <!-- 内功 -->
     <content contentuid="h7d8c4363g3d93g4153g9efcg501e96688a28" version="1">太玄经</content>
     <content contentuid="ha3df34c0g92a9g484egbbc7g9ef0389d65f0" version="1">打出&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;或杀掉敌方生物时，&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;恢复到最大值。</content>
+    <content contentuid="hfd0aa887g3748g4a84gb58dg5fb17d797a3e" version="1">神照经</content>
+    <content contentuid="h5ebbeae0g8fafg44dcgbb9bg484a66a95cef" version="1">获得&lt;LSTag Type="Spell" Tooltip="KFC_Teleportation_Resurrection"&gt;起死回生&lt;/LSTag&gt;</content>
+    <content contentuid="hf40603abge5c8g4953gb33ag79391ed5ec21" version="1">起死回生</content>
+    <content contentuid="h18802e06g429eg4e49g86cdg5c6a70b899a4" version="1">让一名同伴起死回生。他们将重生并恢复一半&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;。</content>
     <!-- 外功 -->
     <content contentuid="h8222880eg02b6g4811gb8d0g05b39677e240" version="1">五雷天心诀</content>
     <content contentuid="h6565d090ga0dag46e9gaf3bg41274d714f3f" version="1">千重霄远乾坤近，倚石来补帝王衿。临风把酒萧然泪，化雷难抚断剑心。你施展的法术和攻击无视雷鸣和闪电伤害&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。获得&lt;LSTag Type="Spell" Tooltip="Shout_KFC_StaticOverdrive"&gt;神霄雷&lt;/LSTag&gt;、绛宫雷、水脏雷。</content>
@@ -70,10 +74,6 @@
     <content contentuid="hc130da9ag9b81g4108gbda6g35abdfe0a510" version="1">乾坤大挪移</content>
     <content contentuid="h308cec68gda29g40e5gae76g5f53aa842295" version="1">获得两个额外&lt;LSTag Tooltip="Reaction"&gt;反应&lt;/LSTag&gt;。获得&lt;LSTag Type="Spell" Tooltip="Interrupt_KFC_Counterspell"&gt;乾坤大挪移&lt;/LSTag&gt;</content>
     <content contentuid="he57bf83egac0cg46dfga37ag7474c1550ff2" version="1">如果[1]范围内的敌人用来攻击你的法术等级低于或等于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练项加值&lt;/LSTag&gt;，你可以使用&lt;LSTag Tooltip="Reaction"&gt;反应&lt;/LSTag&gt;动作使法术无效。</content>
-    <content contentuid="hfd0aa887g3748g4a84gb58dg5fb17d797a3e" version="1"></content>
-    <content contentuid="h5ebbeae0g8fafg44dcgbb9bg484a66a95cef" version="1"></content>
-    <content contentuid="hf40603abge5c8g4953gb33ag79391ed5ec21" version="1"></content>
-    <content contentuid="h18802e06g429eg4e49g86cdg5c6a70b899a4" version="1"></content>
     <content contentuid="hcfe443adg79efg4d38g9874g31381a17f8d8" version="1"></content>
     <content contentuid="h4b255013gd765g4f09g8f7fg10da16e0f520" version="1"></content>
     <content contentuid="hbf516c35gaed3g48dfgb6b0g5df4a1b9315c" version="1"></content>
