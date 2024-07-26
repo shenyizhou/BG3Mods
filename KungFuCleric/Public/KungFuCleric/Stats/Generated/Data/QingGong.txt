@@ -59,7 +59,10 @@ data "Description" "hf635c638g7c69g4197gbe5cg6e9d011c993f;1"
 // 暗影步
 data "Icon" "Action_Monk_ShadowStep"
 data "Properties" "Highlighted"
-data "Boosts" "StatusImmunity(SG_Prone);StatusImmunity(SG_Paralyzed);StatusImmunity(SG_Unconscious);StatusImmunity(SHOCKWAVE);StatusImmunity(SG_Stunned);StatusImmunity(SG_Incapacitated);Attribute(Grounded);CriticalHit(AttackTarget,Success,Never);Disadvantage(AttackTarget);Advantage(Ability,Dexterity);AreaDamageEvade()"
+data "Boosts" "StatusImmunity(SG_Prone);StatusImmunity(SG_Paralyzed);StatusImmunity(SG_Unconscious);StatusImmunity(SHOCKWAVE);StatusImmunity(SG_Stunned);StatusImmunity(SG_Incapacitated);Attribute(Grounded);CriticalHit(AttackTarget,Success,Never);Advantage(Ability,Dexterity);AreaDamageEvade()"
+data "StatsFunctorContext" "OnDamaged"
+data "Conditions" "HasActionResource('ReactionActionPoint',1,0,false) and not HasStatus('BLUR')"
+data "StatsFunctors" "ApplyStatus(BLUR,100,1);UseActionResource(ReactionActionPoint,1)"
 
 // 飞絮轻烟功
 new entry "Passive_KFC_FeiXuQingYanGong"
