@@ -1,37 +1,3 @@
-// 斗转星移：减少远程武器对你的伤害，如果你完全挡下此次攻击，则可将其投射回去。
-new entry "yuwu_1"
-type "InterruptData"
-data "DisplayName" "h3d939e1ag9bf7g4fdeg894ag8903924c3295;1"
-data "Description" "h82937870gace4g462eg8648gdfa7b2350918;1"
-data "ExtraDescription" "hb9536012ge890g44adgb433gf437ace0e2fc;2"
-data "Icon" "Action_EndGameAlly_FlamingFistSummon"
-data "InterruptContext" "OnPreDamage"
-data "InterruptContextScope" "Self"
-data "Container" "YesNoDecision"
-// 允许反应、是敌人、是角色、是远程、未变形
-data "Conditions" "IsAbleToReact(context.Observer) and Self(context.Target,context.Observer) and not AnyEntityIsItem() and IsRangedWeaponAttack() and not HasStatus('SG_Polymorph_BeastShape')"
-data "Properties" "AdjustRoll(OBSERVER_OBSERVER,-(5d6+Level+WisdomModifier));ApplyStatus(OBSERVER_TARGET,INTERRUPT_DEFLECT_MISSILES_HIT,100,1);RestoreResource(DeflectMissiles_Charge,1,0)"
-data "Cost" "ReactionActionPoint:0"
-data "InterruptDefaultValue" "Ask;Enabled"
-data "EnableCondition" "not HasStatus('SG_Polymorph') or Tagged('MINDFLAYER')"
-data "EnableContext" "OnStatusApplied"
-
-new entry "yuwu_2"
-type "InterruptData"
-data "DisplayName" "h3d939e1ag9bf7g4fdeg894ag8903924c3295;1"
-data "Description" "h82937870gace4g462eg8648gdfa7b2350918;1"
-data "Icon" "Action_EndGameAlly_FlamingFistSummon"
-data "InterruptContext" "OnCastHit"
-data "InterruptContextScope" "Self"
-data "Container" "YesNoDecision"
-// 允许反应、是敌人、是角色、是远程、已命中、有资源
-data "Conditions" "IsAbleToReact(context.Observer) and Self(context.Target,context.Observer) and not AnyEntityIsItem() and IsAttackType(AttackType.RangedWeaponAttack) and not (IsCriticalMiss() or IsMiss()) and HasActionResource('DeflectMissiles_Charge', 1, 0, false, false, context.Observer)"
-data "Properties" "UseSpell(SWAP,Projectile_Deflect_Missiles,true,true,true,99636a80-29ec-4a19-a905-e0d30825c3e0);UseActionResource(OBSERVER_OBSERVER,DeflectMissiles_Charge,1,0)"
-data "Cost" "ReactionActionPoint:0"
-data "InterruptDefaultValue" "Ask;Enabled"
-data "EnableCondition" "not HasAnyStatus({'SG_Polymorph','SG_Blinded'}) or Tagged('MINDFLAYER')"
-data "EnableContext" "OnStatusApplied;OnStatusRemoved"
-
 // 八荒六合唯我独尊功
 new entry "busikuangnu_1"
 type "InterruptData"

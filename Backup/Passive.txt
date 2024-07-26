@@ -1,16 +1,3 @@
-// 斗转星移
-new entry "yuwu"
-type "PassiveData"
-data "DisplayName" "h3d939e1ag9bf7g4fdeg894ag8903924c3295;1"
-data "Description" "h82937870gace4g462eg8648gdfa7b2350918;1"
-data "ExtraDescription" "hce60d25egdd6cg4173g88dfgde55fcfeefcc;3"
-data "TooltipUseCosts" "ReactionActionPoint:0"
-data "Icon" "Action_EndGameAlly_FlamingFistSummon"
-data "Properties" "Highlighted"
-data "Boosts" "IF(not HasStatus('SG_Polymorph_BeastShape')):UnlockInterrupt(yuwu_1);UnlockInterrupt(yuwu_2)"
-data "StatsFunctorContext" "OnCreate;OnLongRest"
-data "StatsFunctors" "UseActionResource(DeflectMissiles_Charge,1,0)"
-
 // 六合八荒唯我独尊功
 new entry "busikuangnu"
 type "PassiveData"
