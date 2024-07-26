@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
     <content contentuid="hf9ae34c1g23a1g4db9gb0dbg53aaf95eef82" version="1">武功领域</content>
-    <content contentuid="he84d54b6g3bd0g4693g9cb3g148897371853" version="1">习武之人谨记，仁者无敌！</content>
+    <content contentuid="he84d54b6g3bd0g4693g9cb3g148897371853" version="1">习武之人谨记，仁者无敌！&lt;br&gt;起始可以在每类功法中选择一种修习：&lt;br&gt;硬功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_JinGangBuHuaiShenGong"&gt;金刚不坏神功&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_DaJinGangShenLi"&gt;大金刚神力&lt;/LSTag&gt;。&lt;br&gt;软功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_MingMuGong"&gt;明目功&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_ZuoYouShouHuBoShu"&gt;左右手互搏术&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_ShenJiBaiBian"&gt;神机百变&lt;/LSTag&gt;。&lt;br&gt;轻功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_TiYunZong"&gt;梯云纵&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_YiWeiDuJiang"&gt;一苇渡江&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_LingBoWeiBu"&gt;凌波微步&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_FeiXuQingYanGong"&gt;飞絮轻烟功&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Interrupt_KFC_IllusorySelf"&gt;鬼影迷踪步&lt;/LSTag&gt;。&lt;br&gt;内功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_TaiXuanJing"&gt;太玄经&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_TianCanGong"&gt;天蚕功&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_BuSiYinFa"&gt;不死印法&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_ShenZhaoJing"&gt;神照经&lt;/LSTag&gt;。&lt;br&gt;外功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_WuLeiTianXinJue"&gt;五雷天心诀&lt;/LSTag&gt;。&lt;br&gt;拆招：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_QianKunDaNuoYi"&gt;乾坤大挪移&lt;/LSTag&gt;。</content>
     <content contentuid="hbd34047cg9f09g43c6g8c47g590bb07f9d17" version="1">武功</content>
     <!-- 硬功 -->
     <content contentuid="he86e97a0gf404g49e6g9d48g9df39c696dbd" version="1">硬功</content>
@@ -10,7 +10,6 @@
     <content contentuid="h58031c2dgb037g493fgab67g50139ff50c99" version="1">基础&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;变为 13，额外增加体质&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; [1] 到&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;。&lt;br&gt;受到的穿刺、钝击、劈砍、力场伤害减少体质&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; [1]。&lt;br&gt;获得&lt;LSTag Type="Spell" Tooltip="Shout_KFC_ResilientSphere"&gt;不灭金身&lt;/LSTag&gt;。</content>
     <content contentuid="h174714ebgc630g445dga4d1g0550a18efbec" version="1">不灭金身</content>
     <content contentuid="h1876724fg1229g41e9g9f20g850e5967bf45" version="1">不受所有法术效果和伤害影响，同时无法施展法术或是造成伤害。&lt;br&gt;&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;减半。</content>
-    <content contentuid="h5c1fe274ge454g48a4g8bb7gd0b950e95d32" version="1">受影响个体不受所有法术效果和伤害影响，同时无法施展法术或是造成伤害。此外，&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;减半。</content>
     <content contentuid="h5007e0ebg5a58g4da0gbe36g93017b27d17c" version="1">大金刚神力</content>
     <content contentuid="ha627cd63g0326g496fg8e26gf87b4593a1e9" version="1">可以将你的力量&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; [1] 加到伤害和&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;上。&lt;br&gt;伤害掷骰将掷骰两次并取高值。</content>
     <!-- 软功 -->
@@ -39,6 +38,7 @@
     <content contentuid="heb53e572gd41cg4363g8b71g4f83c493bc94" version="1">飞往目标位置。&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;消耗变为正常的0.2倍。</content>
     <content contentuid="h3afbd937gd422g4448g866eg037dd163de69" version="1">遁甲术</content>
     <content contentuid="h8b31c26ag8ac5g4209ga122g7372b6601b5d" version="1">进入&lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;隐形&lt;/LSTag&gt;状态。</content>
+	<content contentuid="h4e912cb3g0127g4ba8gb689gf3a0bf2cb756" version="1">&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;获得&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，为敌人的攻击掷骰强加&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。&lt;br&gt;&lt;Br&gt;如果隐形个体发动攻击、施展另一个法术、做出动作或受到伤害，则隐形状态提前结束。</content>
     <content contentuid="h17455be4ge0edg4546g9a34g8b5df8cf1f56" version="1">五罗轻烟</content>
     <content contentuid="hd141dc48g4c10g4458gb7ffge9fa8e663cd9" version="1">轻烟让内部的生物陷入&lt;LSTag Type="Status" Tooltip="BLINDED"&gt;目盲&lt;/LSTag&gt;状态。</content>
     <content contentuid="h112e3c6dgd9b3g4e6dg8838g440b2af60307" version="1">鬼影迷踪步</content>
@@ -75,13 +75,13 @@
     <content contentuid="hd52899f5g8e89g4414gb2cdg3255c4fc8336" version="1">外功</content>
     <content contentuid="h7e010da3g9923g4e80g8b25g6a0bacf39ac1" version="1">选择外功进行修习。</content>
     <content contentuid="h8222880eg02b6g4811gb8d0g05b39677e240" version="1">五雷天心诀</content>
-    <content contentuid="h6565d090ga0dag46e9gaf3bg41274d714f3f" version="1">千重霄远乾坤近，倚石来补帝王衿。临风把酒萧然泪，化雷难抚断剑心。你施展的法术和攻击无视雷鸣和闪电伤害&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。获得&lt;LSTag Type="Spell" Tooltip="Shout_KFC_StaticOverdrive"&gt;神霄雷&lt;/LSTag&gt;、绛宫雷、水脏雷。</content>
+    <content contentuid="h6565d090ga0dag46e9gaf3bg41274d714f3f" version="1">千重霄远乾坤近，倚石来补帝王衿。临风把酒萧然泪，化雷难抚断剑心。你的雷鸣和闪电伤害无视&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;，可以使用引导神力来造成最大伤害。获得&lt;LSTag Type="Spell" Tooltip="Shout_KFC_StaticOverdrive"&gt;神霄雷&lt;/LSTag&gt;、绛宫雷、水脏雷。</content>
     <content contentuid="h52fd5e84g81c5g4f2fga375g6f85c8051c8c" version="1">神霄雷</content>
-    <content contentuid="h017e8941g90beg4719g82d9ge53790d55f05" version="1">以雷为势，奔雷游走。获得&lt;LSTag Type="Status" Tooltip="KFC_STATIC_DISCHARGE_ARUA"&gt;神霄雷&lt;/LSTag&gt;和&lt;LSTag Type="Status" Tooltip="ACTION_SURGE"&gt;动作如潮&lt;/LSTag&gt;[1]回合。自己和[2]范围内的所有队友获得&lt;LSTag Type="Status" Tooltip="KFC_STATIC_DISCHARGE_ALLY"&gt;神霄雷&lt;/LSTag&gt;。[2]范围内的所有敌人获得&lt;LSTag Type="Status" Tooltip="KFC_STATIC_DISCHARGE_ENEMY"&gt;神霄雷&lt;/LSTag&gt;。</content>
-    <content contentuid="h268fb659ga380g4a56g8b18g35583282124b" version="1">自己和附近的所有队友额外造成[1]，并获得雷鸣和闪电伤害&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。&lt;br&gt;附近的所有敌人每回合受到[2]，且会在攻击时受到一个额外的[2]，无法作出反应。</content>
+    <content contentuid="h017e8941g90beg4719g82d9ge53790d55f05" version="1">以雷为势，奔雷游走。获得&lt;LSTag Type="Status" Tooltip="KFC_STATIC_DISCHARGE_ARUA"&gt;神霄雷&lt;/LSTag&gt;和&lt;LSTag Type="Status" Tooltip="ACTION_SURGE"&gt;动作如潮&lt;/LSTag&gt;[1]回合。影响[2]范围内的队友和敌人。</content>
+    <content contentuid="h268fb659ga380g4a56g8b18g35583282124b" version="1">自己和&lt;LSTag Type="Status" Tooltip="KFC_STATIC_DISCHARGE_ALLY"&gt;神霄雷&lt;/LSTag&gt;附近的所有队友额外造成[1]，并获得雷鸣和闪电伤害&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。&lt;br&gt;&lt;LSTag Type="Status" Tooltip="KFC_STATIC_DISCHARGE_ENEMY"&gt;神霄雷&lt;/LSTag&gt;附近的所有敌人每回合受到[2]，且会在攻击时受到一个额外的[2]，无法作出反应。</content>
+    <content contentuid="had17e753g4081g4f21gbc18gb4e7dad10955" version="1">经脉蕴有奔雷。对攻击者造成[1]。</content>
     <content contentuid="h3417d7e6g9fb5g4003gbd52gcb702dc0cb6a" version="1">经脉蕴有奔雷。造成一个额外的[1]。获得雷鸣和闪电伤害&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
     <content contentuid="h030d5ad3gd8e7g4904gaea0g14f313e1ae52" version="1">发肤微动皆魄若雷鸣。每回合受到[1]。如果发起攻击，则会受到一个额外的[1]。无法作出反应。</content>
-    <content contentuid="had17e753g4081g4f21gbc18gb4e7dad10955" version="1">对位于&lt;LSTag Type="Status" Tooltip="KFC_STATIC_DISCHARGE_ARUA"&gt;神霄雷&lt;/LSTag&gt;灵光范围内的攻击者造成[1]。</content>
     <!-- 拆招 -->
     <content contentuid="hf464b6d5g856ag4112g91d2gee4161123372" version="1">拆招</content>
     <content contentuid="hff181426gdc9dg49cfgb8d6gf60704e8163c" version="1">选择拆招进行修习。</content>
@@ -101,7 +101,6 @@
     <content contentuid="hafb61a6ag52b7g4ebeg8974g1a6024c33bf6" version="1"></content>
     <content contentuid="h2bb626a5gda28g4083ga18dgfae2718be3e5" version="1"></content>
     <content contentuid="h8cc06fc1gb0b0g4ffdga030gfe5ecdbbfe2f" version="1"></content>
-    <content contentuid="h4e912cb3g0127g4ba8gb689gf3a0bf2cb756" version="1"></content>
     <!-- 备用 -->
     <content contentuid="" version="1"></content>
 </contentList>
