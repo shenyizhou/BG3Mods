@@ -109,3 +109,5 @@
 // 烧伤汇总
 // StatusImmunity(BURNING);StatusImmunity(WILD_MAGIC_BURNING);StatusImmunity(BURNING_HOLY);
 // StatusImmunity(WET); // 濡湿
+
+// 红手效果：RemoveStatus(SG_Charmed);RemoveStatus(SG_Petrified);RemoveStatus(SG_Cursed);RemoveStatus(SG_Stunned);RemoveStatus(SG_Poisoned);RemoveStatus(SG_Disease);RemoveStatus(ASTARION_WEAK)

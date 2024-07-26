@@ -3,6 +3,11 @@
     <content contentuid="hf9ae34c1g23a1g4db9gb0dbg53aaf95eef82" version="1">武功领域</content>
     <content contentuid="he84d54b6g3bd0g4693g9cb3g148897371853" version="1">习武之人谨记，仁者无敌！&lt;br&gt;起始可以在每类功法中选择一种修习：&lt;br&gt;硬功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_JinGangBuHuaiShenGong"&gt;金刚不坏神功&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_DaJinGangShenLi"&gt;大金刚神力&lt;/LSTag&gt;。&lt;br&gt;软功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_MingMuGong"&gt;明目功&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_ZuoYouShouHuBoShu"&gt;左右手互搏术&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_ShenJiBaiBian"&gt;神机百变&lt;/LSTag&gt;。&lt;br&gt;轻功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_TiYunZong"&gt;梯云纵&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_YiWeiDuJiang"&gt;一苇渡江&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_LingBoWeiBu"&gt;凌波微步&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_FeiXuQingYanGong"&gt;飞絮轻烟功&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Interrupt_KFC_IllusorySelf"&gt;鬼影迷踪步&lt;/LSTag&gt;。&lt;br&gt;内功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_TaiXuanJing"&gt;太玄经&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_TianCanGong"&gt;天蚕功&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_BuSiYinFa"&gt;不死印法&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_ShenZhaoJing"&gt;神照经&lt;/LSTag&gt;。&lt;br&gt;外功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_WuLeiTianXinJue"&gt;五雷天心诀&lt;/LSTag&gt;。&lt;br&gt;拆招：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_QianKunDaNuoYi"&gt;乾坤大挪移&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_TaiJiQuan"&gt;太极拳&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_DouZhuanXingYi"&gt;斗转星移&lt;/LSTag&gt;。</content>
     <content contentuid="hbd34047cg9f09g43c6g8c47g590bb07f9d17" version="1">武功</content>
+    <!-- 医药 -->
+    <content contentuid="" version="1">黄帝内经</content>
+    <content contentuid="" version="1">获得&lt;br&gt;&lt;LSTag Type="Spell" Tooltip="Shout_KFC_Healing"&gt;灵枢&lt;/LSTag&gt;、素问和&lt;LSTag Tooltip="Medicine"&gt;医药&lt;/LSTag&gt;&lt;LSTag Tooltip="Proficiency"&gt;熟练项&lt;/LSTag&gt;</content>
+    <content contentuid="hafb61a6ag52b7g4ebeg8974g1a6024c33bf6" version="1">灵枢</content>
+    <content contentuid="h2bb626a5gda28g4083ga18dgfae2718be3e5" version="1">治疗附近的盟友 [1]。</content>
     <!-- 硬功 -->
     <content contentuid="he86e97a0gf404g49e6g9d48g9df39c696dbd" version="1">硬功</content>
     <content contentuid="h5588c27agf95fg466bgb44egd88a73a689ee" version="1">选择硬功进行修习。</content>
@@ -99,8 +104,6 @@
     <content contentuid="h5b9ecc36gc9efg42aagbfd5g1598246af4d5" version="1">使用你的反应力来减少从远程武器攻击那里受到的伤害，减少值为2d8+你的等级+你的敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; [1]。&lt;br&gt;如果完全挡下此次攻击，则可以使用1个卓越骰子来 &lt;LSTag Type="Spell" Tooltip="Projectile_KFC_Deflect_Missiles"&gt;斗转星移&lt;/LSTag&gt; 投射回去，造成一个额外的 [2] 伤害。</content>
     <content contentuid="h9a5ca2b6g288bg4c88gb0d5g1009e127b40b" version="1">你只能减少攻击带来的伤害 —— 任何附加效果都无法消除。</content>
     <content contentuid="hf330a78bga831g4cc5g9e01g100d39828039" version="1">利用你的反应能力抓住远程武器攻击发出的一个投射物，并将其投射回攻击者。</content>
-    <content contentuid="hafb61a6ag52b7g4ebeg8974g1a6024c33bf6" version="1"></content>
-    <content contentuid="h2bb626a5gda28g4083ga18dgfae2718be3e5" version="1"></content>
     <!-- 备用 -->
     <content contentuid="" version="1"></content>
 </contentList>

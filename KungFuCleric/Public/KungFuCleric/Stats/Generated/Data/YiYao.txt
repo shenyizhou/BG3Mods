@@ -1,0 +1,34 @@
+// 黄帝内经
+new entry "Passive_KFC_HuangDiNeiJing"
+type "PassiveData"
+// 治愈真言
+data "Icon" "Spell_Evocation_MassHealingWord"
+data "DisplayName" "h7d8c4363g3d93g4153g9efcg501e96688a28;1" // todo: fix
+data "Description" "ha3df34c0g92a9g484egbbc7g9ef0389d65f0;1" // todo: fix
+data "Boosts" "UnlockSpell(Shout_KFC_Healing)"
+
+// 灵枢
+new entry "Shout_KFC_Healing"
+type "SpellData"
+data "SpellType" "Shout"
+data "AreaRadius" "18"
+data "SpellProperties" "RegainHitPoints(2d8+Level+max(1,WisdomModifier))"
+data "TooltipDamageList" "RegainHitPoints(2d8+Level+max(1,WisdomModifier))"
+data "TargetConditions" "Ally() and not Dead() and not Tagged('UNDEAD') and not Tagged('CONSTRUCT') and not Item()"
+// 治愈真言
+data "Icon" "Spell_Evocation_MassHealingWord"
+data "DisplayName" "hafb61a6ag52b7g4ebeg8974g1a6024c33bf6;1"
+data "Description" "h2bb626a5gda28g4083ga18dgfae2718be3e5;1"
+data "DescriptionParams" "RegainHitPoints(2d8+Level+max(1,WisdomModifier))"
+data "TooltipPermanentWarnings" "662e013d-e5cb-4669-9a4b-771636b24aa2"
+data "CastSound" "Spell_Cast_Healing_MassHealingWord_L1to3"
+data "TargetSound" "Spell_Impact_Healing_MassHealingWord_L1to3"
+data "VocalComponentSound" "Vocal_Component_HealingHPMass"
+data "CastTextEvent" "Cast"
+data "UseCosts" "BonusActionPoint:1;"
+data "SpellAnimation" "414bbf02-2918-4f01-83fb-1ddc7a588d88,,;,,;7abe77ed-9c77-4eac-872c-5b8caed070b6,,;cb171bda-f065-4520-b470-e447f678ba1f,,;0c5dcc83-fa78-41da-b6a5-440b5ea30936,,;,,;bea988a0-2ec5-40d8-a67e-ffbd7454bc53,,;,,;,,"
+data "VerbalIntent" "Healing"
+data "HitAnimationType" "MagicalNonDamage"
+data "PrepareEffect" "88532675-7be6-4a54-b750-90e6a8f2c012"
+data "CastEffect" "47f3994a-396b-40ac-a063-aa9ed71dc523"
+data "TargetEffect" "3c7b783e-d2ee-4125-9f94-0d48d44fe3e8"
