@@ -32,23 +32,6 @@ data "InterruptDefaultValue" "Ask;Enabled"
 data "EnableCondition" "not HasAnyStatus({'SG_Polymorph','SG_Blinded'}) or Tagged('MINDFLAYER')"
 data "EnableContext" "OnStatusApplied;OnStatusRemoved"
 
-// 太极拳：当你被近战攻击时，你可以反击。
-new entry "TaiJiQuan_1"
-type "InterruptData"
-data "DisplayName" "h5c7ceaeag7b34g46b1g9dfcg40b86c131b16;1"
-data "Description" "h4c74868ag3bfcg4a1cga605gb8987164d201;1"
-data "Icon" "PassiveFeature_PurityOfBody"
-data "InterruptContext" "OnCastHit"
-data "InterruptContextScope" "Self"
-data "Container" "YesNoDecision"
-// 允许反应、是敌人、是角色、触发攻击、是近战、距离2以内、未隐身
-data "Conditions" "IsAbleToReact(context.Observer) and Enemy(context.Source,context.Observer) and not AnyEntityIsItem() and HasLastAttackTriggered() and IsMeleeAttack() and not DistanceToEntityGreaterThan(2, context.ObserverPosition, context.Source) and not HasStatus('INVISIBILITY')"
-data "Properties" "UseSpell(SWAP,Target_Riposte,true,true,true);ApplyStatus(OBSERVER_OBSERVER,INTERRUPT_RIPOSTE,100,0)"
-data "Cost" "ReactionActionPoint:0"
-data "InterruptDefaultValue" "Enabled"
-data "EnableCondition" "not HasAnyStatus({'SG_Polymorph','SG_Blinded'}) or Tagged('MINDFLAYER')"
-data "EnableContext" "OnStatusApplied;OnStatusRemoved"
-
 // 八荒六合唯我独尊功
 new entry "busikuangnu_1"
 type "InterruptData"

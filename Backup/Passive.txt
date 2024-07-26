@@ -11,15 +11,6 @@ data "Boosts" "IF(not HasStatus('SG_Polymorph_BeastShape')):UnlockInterrupt(yuwu
 data "StatsFunctorContext" "OnCreate;OnLongRest"
 data "StatsFunctors" "UseActionResource(DeflectMissiles_Charge,1,0)"
 
-// 太极拳
-new entry "TaiJiQuan"
-type "PassiveData"
-data "DisplayName" "h5c7ceaeag7b34g46b1g9dfcg40b86c131b16;1"
-data "Description" "hf0ef0c0fgcf66g497ag8f14geda7f04209bb;1"
-data "Icon" "PassiveFeature_Generic_Magical"
-data "Properties" "Highlighted"
-data "Boosts" "ActionResource(ReactionActionPoint,1,0);UnlockSpell(taiji_1);IF(not HasStatus('INCAPACITATED_DND')):UnlockInterrupt(TaiJiQuan_1)"
-
 // 六合八荒唯我独尊功
 new entry "busikuangnu"
 type "PassiveData"

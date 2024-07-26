@@ -31,7 +31,7 @@
                 </node>
                 <!-- 拆招 -->
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Passive_KFC_QianKunDaNuoYi"/>
+                    <attribute id="Passives" type="LSString" value="Passive_KFC_QianKunDaNuoYi,Passive_KFC_TaiJiQuan"/>
                     <attribute id="UUID" type="guid" value="20aff608-ecf9-422f-85ee-6be3e36d9d8c"/>
                 </node>
             </children>
