@@ -1,16 +1,18 @@
-// 太极拳 (反击)
+// 太极功
 new entry "Passive_KFC_TaiJiQuan"
 type "PassiveData"
 data "DisplayName" "hbf516c35gaed3g48dfgb6b0g5df4a1b9315c;1"
 data "Description" "h846722bag6b61g4b9fgac2agd4670d0f76eb;1"
+data "ExtraDescription" "hea0b19beg0157g44ddgac81g9beb70e4f73f;1"
 // 魔法抗性
 data "Icon" "PassiveFeature_Generic_Magical"
 data "Properties" "Highlighted"
-data "Boosts" "ActionResource(ReactionActionPoint,2,0);IF(not HasStatus('INCAPACITATED_DND')):UnlockInterrupt(KFC_INTERRUPT_RIPOSTE);UnlockSpell(Target_KFC_Shove)"
+data "Boosts" "ActionResource(ReactionActionPoint,2,0);IF(not HasStatus('INCAPACITATED_DND')):UnlockInterrupt(Interrupt_KFC_Riposte);UnlockSpell(Target_KFC_Shove)"
 
-new entry "KFC_INTERRUPT_RIPOSTE"
+// 太极拳 (反击)
+new entry "Interrupt_KFC_Riposte"
 type "InterruptData"
-data "DisplayName" "hbf516c35gaed3g48dfgb6b0g5df4a1b9315c;1"
+data "DisplayName" "ha0112a84gdffdg4db7g8d21g5b9c88ac904e;1"
 data "Description" "hea0b19beg0157g44ddgac81g9beb70e4f73f;1"
 // 百病不侵
 data "Icon" "PassiveFeature_PurityOfBody"
@@ -28,7 +30,7 @@ data "EnableContext" "OnStatusApplied;OnStatusRemoved"
 new entry "KFC_INTERRUPT_RIPOSTE"
 type "StatusData"
 data "StatusType" "EFFECT"
-data "DisplayName" "hbf516c35gaed3g48dfgb6b0g5df4a1b9315c;1"
+data "DisplayName" "ha0112a84gdffdg4db7g8d21g5b9c88ac904e;1"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 data "StatusEffect" "ec81657b-9e78-49d9-83a0-47a7ad2a1753"
 
@@ -74,6 +76,7 @@ new entry "Passive_KFC_DouZhuanXingYi"
 type "PassiveData"
 data "DisplayName" "h6ae8a09bg7750g41b1gaa7ege85ab323c667;1"
 data "Description" "hee24ba29ge538g4118gba17g4cb68f1d067c;1"
+data "ExtraDescription" "h5b9ecc36gc9efg42aagbfd5g1598246af4d5;1"
 // 弗洛瑞克的支持者
 data "Icon" "Action_EndGameAlly_FlamingFistSummon"
 data "Properties" "Highlighted"
@@ -151,6 +154,7 @@ new entry "Passive_KFC_QianKunDaNuoYi"
 type "PassiveData"
 data "DisplayName" "h86d88fd1g5817g4239gae61gdc97ceabc9a8;1"
 data "Description" "h308cec68gda29g40e5gae76g5f53aa842295;1"
+data "ExtraDescription" "he57bf83egac0cg46dfga37ag7474c1550ff2;1"
 // 法术反制
 data "Icon" "PassiveFeature_Counterspell"
 data "Properties" "Highlighted"

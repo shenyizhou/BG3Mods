@@ -17,7 +17,7 @@
                     <attribute id="Description" type="TranslatedString" handle="he86e97a0gf404g49e6g9d48g9df39c696dbd" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h5588c27agf95fg466bgb44egd88a73a689ee" version="1"/>
                     <attribute id="SelectorId" type="FixedString" value="YingGong"/>
-                    <attribute id="ProgressionTableId" type="guid" value="79734daf-a7d7-4513-860f-b4d27ae44465"/>
+                    <attribute id="ProgressionTableId" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a"/>
                     <attribute id="UUID" type="guid" value="b4d27059-bcbb-45fe-921f-b1359a8539fb"/>
                 </node>
                 <!-- 软功 -->
@@ -25,7 +25,7 @@
                     <attribute id="Description" type="TranslatedString" handle="hd73e6a09g5e3bg4e44g960egbe91f6675c1d" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h97decd04g955cg49f4g9b3cg0a5dc50219a7" version="1"/>
                     <attribute id="SelectorId" type="FixedString" value="RuanGong"/>
-                    <attribute id="ProgressionTableId" type="guid" value="ea631e60-3009-4fb6-9819-08fc38756171"/>
+                    <attribute id="ProgressionTableId" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a"/>
                     <attribute id="UUID" type="guid" value="6b7e3e64-b234-4f3f-bb73-33e0980c0406"/>
                 </node>
                 <!-- 轻功 -->
@@ -33,7 +33,7 @@
                     <attribute id="Description" type="TranslatedString" handle="h6a27bd83gbff9g449bgbd0bg7ab357df5e21" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="he94a2dbfg4862g4eb0ga2dbg066ba04130a3" version="1"/>
                     <attribute id="SelectorId" type="FixedString" value="QingGong"/>
-                    <attribute id="ProgressionTableId" type="guid" value="17850d9a-0537-4e73-b24d-270b51c06c51"/>
+                    <attribute id="ProgressionTableId" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a"/>
                     <attribute id="UUID" type="guid" value="b454bced-6b5c-41c5-8bcd-f136cc0bd735"/>
                 </node>
                 <!-- 内功 -->
@@ -41,7 +41,7 @@
                     <attribute id="Description" type="TranslatedString" handle="h6c9d2010gadaeg4d69g9a3dg9f8444fc22ad" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hf74ad82dg5348g4b04gaedfga9f21f55f4e1" version="1"/>
                     <attribute id="SelectorId" type="FixedString" value="NeiGong"/>
-                    <attribute id="ProgressionTableId" type="guid" value="72154d11-c8b3-4799-874f-84cddb522214"/>
+                    <attribute id="ProgressionTableId" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a"/>
                     <attribute id="UUID" type="guid" value="28771f61-706d-4889-8a47-22ee108cdf44"/>
                 </node>
                 <!-- 外功 -->

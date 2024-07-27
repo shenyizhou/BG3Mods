@@ -3,9 +3,9 @@ new entry "Passive_KFC_HuangDiNeiJing"
 type "PassiveData"
 // 治愈真言
 data "Icon" "Spell_Evocation_MassHealingWord"
-data "DisplayName" "h7d8c4363g3d93g4153g9efcg501e96688a28;1" // todo: fix
-data "Description" "ha3df34c0g92a9g484egbbc7g9ef0389d65f0;1" // todo: fix
-data "Boosts" "UnlockSpell(Shout_KFC_Healing)"
+data "DisplayName" "he0b71fabg1e50g442ag9a50g8fdc88999678;1"
+data "Description" "h186b341fg82dfg4c47gb17dg158fbc28e04b;1"
+data "Boosts" "ProficiencyBonus(Skill,Medicine);UnlockSpell(Shout_KFC_Healing)"
 
 // 灵枢
 new entry "Shout_KFC_Healing"

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
     <content contentuid="hf9ae34c1g23a1g4db9gb0dbg53aaf95eef82" version="1">武功领域</content>
-    <content contentuid="he84d54b6g3bd0g4693g9cb3g148897371853" version="1">习武之人谨记，仁者无敌！&lt;br&gt;起始可以在每类功法中选择一种修习：&lt;br&gt;硬功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_JinGangBuHuaiShenGong"&gt;金刚不坏神功&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_DaJinGangShenLi"&gt;大金刚神力&lt;/LSTag&gt;。&lt;br&gt;软功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_MingMuGong"&gt;明目功&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_ZuoYouShouHuBoShu"&gt;左右手互搏术&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_ShenJiBaiBian"&gt;神机百变&lt;/LSTag&gt;。&lt;br&gt;轻功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_TiYunZong"&gt;梯云纵&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_YiWeiDuJiang"&gt;一苇渡江&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_LingBoWeiBu"&gt;凌波微步&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_FeiXuQingYanGong"&gt;飞絮轻烟功&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Interrupt_KFC_IllusorySelf"&gt;鬼影迷踪步&lt;/LSTag&gt;。&lt;br&gt;内功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_TaiXuanJing"&gt;太玄经&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_TianCanGong"&gt;天蚕功&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_BuSiYinFa"&gt;不死印法&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_ShenZhaoJing"&gt;神照经&lt;/LSTag&gt;。&lt;br&gt;外功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_WuLeiTianXinJue"&gt;五雷天心诀&lt;/LSTag&gt;。&lt;br&gt;拆招：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_TaiJiQuan"&gt;太极拳&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_DouZhuanXingYi"&gt;斗转星移&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_QianKunDaNuoYi"&gt;乾坤大挪移&lt;/LSTag&gt;。</content>
+    <content contentuid="he84d54b6g3bd0g4693g9cb3g148897371853" version="1">起始你可以在每类功法中选择一种进行修习：&lt;br&gt;硬功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_JinGangBuHuaiShenGong"&gt;金刚不坏神功&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_DaJinGangShenLi"&gt;大金刚神力&lt;/LSTag&gt;。&lt;br&gt;软功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_MingMuGong"&gt;明目功&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_ZuoYouShouHuBoShu"&gt;左右手互搏术&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_ShenJiBaiBian"&gt;神机百变&lt;/LSTag&gt;。&lt;br&gt;轻功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_TiYunZong"&gt;梯云纵&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_YiWeiDuJiang"&gt;一苇渡江&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_LingBoWeiBu"&gt;凌波微步&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_FeiXuQingYanGong"&gt;飞絮轻烟功&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_GuiYingMiZongBu"&gt;鬼影迷踪步&lt;/LSTag&gt;。&lt;br&gt;内功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_TaiXuanJing"&gt;太玄经&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_TianCanGong"&gt;天蚕功&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_BuSiYinFa"&gt;不死印法&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_ShenZhaoJing"&gt;神照经&lt;/LSTag&gt;。&lt;br&gt;外功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_WuLeiTianXinJue"&gt;五雷天心诀&lt;/LSTag&gt;。&lt;br&gt;拆招：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_TaiJiQuan"&gt;太极拳&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_DouZhuanXingYi"&gt;斗转星移&lt;/LSTag&gt;、&lt;LSTag Type="Passive" Tooltip="Passive_KFC_QianKunDaNuoYi"&gt;乾坤大挪移&lt;/LSTag&gt;。&lt;br&gt;升级可以在某一类功法中继续修习。</content>
     <content contentuid="hbd34047cg9f09g43c6g8c47g590bb07f9d17" version="1">武功</content>
     <!-- 医药 -->
-    <content contentuid="" version="1">黄帝内经</content>
-    <content contentuid="" version="1">获得&lt;br&gt;&lt;LSTag Type="Spell" Tooltip="Shout_KFC_Healing"&gt;灵枢&lt;/LSTag&gt;、素问和&lt;LSTag Tooltip="Medicine"&gt;医药&lt;/LSTag&gt;&lt;LSTag Tooltip="Proficiency"&gt;熟练项&lt;/LSTag&gt;</content>
+    <content contentuid="he0b71fabg1e50g442ag9a50g8fdc88999678" version="1">黄帝内经</content>
+    <content contentuid="h186b341fg82dfg4c47gb17dg158fbc28e04b" version="1">获得&lt;br&gt;&lt;LSTag Type="Spell" Tooltip="Shout_KFC_Healing"&gt;灵枢&lt;/LSTag&gt;、素问和&lt;LSTag Tooltip="Medicine"&gt;医药&lt;/LSTag&gt;&lt;LSTag Tooltip="Proficiency"&gt;熟练项&lt;/LSTag&gt;</content>
     <content contentuid="hafb61a6ag52b7g4ebeg8974g1a6024c33bf6" version="1">灵枢</content>
     <content contentuid="h2bb626a5gda28g4083ga18dgfae2718be3e5" version="1">治疗附近的盟友 [1]。</content>
     <!-- 硬功 -->
@@ -36,7 +36,7 @@
     <content contentuid="h4cbfeb20gf142g4c3bga4e6gcf9c4acb88e6" version="1">踏雪无痕</content>
     <content contentuid="h9a8b72a0gf46dg433ag9a02gf0785a95b7bc" version="1">疾风快影，来去无迹。&lt;br&gt;本回合的活动距离变大，&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;加倍。</content>
     <content contentuid="he42f3386g62d7g4d28gbeefgc6a99e526e86" version="1">凌波微步</content>
-    <content contentuid="hf635c638g7c69g4197gbe5cg6e9d011c993f" version="1">休迅飞凫，飘忽若神。&lt;br&gt;免疫&lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;麻痹&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒伏&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="STUNNED"&gt;震慑&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="INCAPACITATED_DND"&gt;失能&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="UNCONSCIOUS"&gt;昏迷&lt;/LSTag&gt;。&lt;br&gt;不会被任何法术或动作强制移动。&lt;br&gt;不会受到&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;，受到攻击会使用&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;施展&lt;LSTag Type="Status" Tooltip="BLUR"&gt;神行百变&lt;/LSTag&gt;。&lt;br&gt;获得敏捷&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;和&lt;LSTag Type="Passive" Tooltip="Evasion"&gt;反射闪避&lt;/LSTag&gt;。</content>
+    <content contentuid="hf635c638g7c69g4197gbe5cg6e9d011c993f" version="1">休迅飞凫，飘忽若神。&lt;br&gt;免疫&lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;麻痹&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒伏&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="STUNNED"&gt;震慑&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="INCAPACITATED_DND"&gt;失能&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="UNCONSCIOUS"&gt;昏迷&lt;/LSTag&gt;。&lt;br&gt;不会被任何法术或动作强制移动。&lt;br&gt;不会受到&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;，受到攻击会施展&lt;LSTag Type="Status" Tooltip="BLUR"&gt;朦胧术&lt;/LSTag&gt;。&lt;br&gt;获得敏捷&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;和&lt;LSTag Type="Passive" Tooltip="Evasion"&gt;反射闪避&lt;/LSTag&gt;。</content>
     <content contentuid="h8e41fc32g21edg4917g9ef9g64b444f148d4" version="1">飞絮轻烟功</content>
     <content contentuid="hfb313e4fgf07eg407bga931g86d66f4245c4" version="1">轻盈若飞絮，行动若蝙蝠，来无影去无踪。&lt;br&gt;获得&lt;LSTag Tooltip="Stealth"&gt;隐匿&lt;/LSTag&gt;&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，在遮蔽状态获得&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。&lt;br&gt;获得&lt;LSTag Type="Spell" Tooltip="Projectile_KFC_FLY"&gt;草上飞&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Shout_KFC_Invisibility"&gt;遁甲术&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Target_KFC_FogCloud"&gt;五罗轻烟&lt;/LSTag&gt;。</content>
     <content contentuid="hc76c4133gcf44g4944ga44eg78f7a28e3c61" version="1">草上飞</content>
@@ -90,20 +90,35 @@
     <!-- 拆招 -->
     <content contentuid="hf464b6d5g856ag4112g91d2gee4161123372" version="1">拆招</content>
     <content contentuid="hff181426gdc9dg49cfgb8d6gf60704e8163c" version="1">选择拆招进行修习。</content>
-    <content contentuid="hbf516c35gaed3g48dfgb6b0g5df4a1b9315c" version="1">太极拳</content>
+    <content contentuid="hbf516c35gaed3g48dfgb6b0g5df4a1b9315c" version="1">太极功</content>
     <content contentuid="h846722bag6b61g4b9fgac2agd4670d0f76eb" version="1">获得两个额外&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;。获得&lt;LSTag Tooltip="Interrupt_KFC_Riposte"&gt;太极拳&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Target_KFC_Shove"&gt;太极劲&lt;/LSTag&gt;。</content>
-    <content contentuid="hea0b19beg0157g44ddgac81g9beb70e4f73f" version="1">当你被近战攻击时，你可以发动一次强力反击，并对其额外造成1d8伤害。</content>
+    <content contentuid="ha0112a84gdffdg4db7g8d21g5b9c88ac904e" version="1">太极拳</content>
+    <content contentuid="hea0b19beg0157g44ddgac81g9beb70e4f73f" version="1">当你被近战攻击时，你可以使用 &lt;LSTag Tooltip="Reaction"&gt;反应&lt;/LSTag&gt; 动作发动一次强力反击，并对其额外造成1d8伤害。</content>
     <content contentuid="hf9269375gc6f5g44eagae79g2a361a0ebb75" version="1">太极劲</content>
     <content contentuid="h63e40bd7ge61dg429cgbc1fgcc223f1e0239" version="1">推离一个目标，造成 [1]。推离成功后，进行 &lt;LSTag Tooltip="DifficultyClass"&gt;难度等级&lt;/LSTag&gt; 为 [2] 的敏捷 &lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;，如果失败将陷入 &lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒伏&lt;/LSTag&gt; [3] 回合</content>
 	<content contentuid="h8cc06fc1gb0b0g4ffdga030gfe5ecdbbfe2f" version="1">尝试推离一个目标，成功几率取决于你的运动属性。如果你处于隐藏或隐形状态，则几率增加。&lt;br&gt;推击距离取决于你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;以及目标的重量。</content>
     <content contentuid="h6ae8a09bg7750g41b1gaa7ege85ab323c667" version="1">斗转星移</content>
     <content contentuid="hee24ba29ge538g4118gba17g4cb68f1d067c" version="1">获得两个额外&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;。获得&lt;LSTag Tooltip="Interrupt_KFC_DeflectMissiles"&gt;斗转星移&lt;/LSTag&gt;</content>
-    <content contentuid="h5b9ecc36gc9efg42aagbfd5g1598246af4d5" version="1">使用你的反应力来减少从远程武器攻击那里受到的伤害，减少值为2d8+你的等级+你的敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; [1]。&lt;br&gt;如果完全挡下此次攻击，则可以使用1个卓越骰子来 &lt;LSTag Type="Spell" Tooltip="Projectile_KFC_Deflect_Missiles"&gt;斗转星移&lt;/LSTag&gt; 投射回去，造成一个额外的 [2] 伤害。</content>
+    <content contentuid="h5b9ecc36gc9efg42aagbfd5g1598246af4d5" version="1">使用 &lt;LSTag Tooltip="Reaction"&gt;反应&lt;/LSTag&gt; 动作来减少从远程武器攻击那里受到的伤害，减少值为 2d8+你的等级+你的敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; [1]。&lt;br&gt;如果完全挡下此次攻击，则可以使用 1 个卓越骰子来 &lt;LSTag Type="Spell" Tooltip="Projectile_KFC_Deflect_Missiles"&gt;斗转星移&lt;/LSTag&gt; 投射回去，造成一个额外的 [2] 伤害。</content>
     <content contentuid="h9a5ca2b6g288bg4c88gb0d5g1009e127b40b" version="1">你只能减少攻击带来的伤害 —— 任何附加效果都无法消除。</content>
-    <content contentuid="hf330a78bga831g4cc5g9e01g100d39828039" version="1">利用你的反应能力抓住远程武器攻击发出的一个投射物，并将其投射回攻击者。</content>
+    <content contentuid="hf330a78bga831g4cc5g9e01g100d39828039" version="1">使用 &lt;LSTag Tooltip="Reaction"&gt;反应&lt;/LSTag&gt; 能力抓住远程武器攻击发出的一个投射物，并将其投射回攻击者。</content>
     <content contentuid="h86d88fd1g5817g4239gae61gdc97ceabc9a8" version="1">乾坤大挪移</content>
     <content contentuid="h308cec68gda29g40e5gae76g5f53aa842295" version="1">获得两个额外&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;。获得&lt;LSTag Tooltip="Interrupt_KFC_Counterspell"&gt;乾坤大挪移&lt;/LSTag&gt;。</content>
     <content contentuid="he57bf83egac0cg46dfga37ag7474c1550ff2" version="1">如果 [1] 范围内的敌人用来攻击你的法术等级低于或等于你的 &lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练项加值&lt;/LSTag&gt;，你可以使用 &lt;LSTag Tooltip="Reaction"&gt;反应&lt;/LSTag&gt; 动作使法术无效。</content>
     <!-- 备用 -->
+    <content contentuid="hd7c5f3a6ge2a4g4d0cgb46bg5fd49d003347" version="1"></content>
+    <content contentuid="hd2aa6de7g6596g45c4gbcdbg8307d584920f" version="1"></content>
+    <content contentuid="h59dfaff5gfd53g4de4gba58ge5fd85887972" version="1"></content>
+    <content contentuid="hd3f2a30cg933cg4e95ga3deg55989e394873" version="1"></content>
+    <content contentuid="hcebcd611gaa70g4854gaeafg191511ecd8d5" version="1"></content>
+    <content contentuid="hf695d1a4g3cfcg4353gaacdg9080f7d81d38" version="1"></content>
+    <content contentuid="h46bea85dg9862g4327g8536g832ea4bc3c8f" version="1"></content>
+    <content contentuid="hd5312865g12f1g4fb5gbec8g270019260fad" version="1"></content>
+    <content contentuid="hb6f52e08g9db0g4443g8ac6gb8cdede34446" version="1"></content>
+    <content contentuid="hcbbd6375g06b0g4059g83e3g4068a4f42597" version="1"></content>
+    <content contentuid="hcbbd6375g06b0g4059g83e3g4068a4f42597" version="1"></content>
+    <content contentuid="hac4e6518g6a0dg4ab5gb343g3ed689d67a61" version="1"></content>
+    <content contentuid="h51b64495g6d3ag432cga145g1f7781cfc8e0" version="1"></content>
+    <content contentuid="h008c531cg2dffg472dg937cgcb7d281cc0d6" version="1"></content>
     <content contentuid="" version="1"></content>
 </contentList>
