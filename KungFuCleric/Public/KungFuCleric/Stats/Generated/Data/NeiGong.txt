@@ -1,8 +1,8 @@
 // 太玄经
 new entry "Passive_KFC_TaiXuanJing"
 type "PassiveData"
-// 盲视术
-data "Icon" "PassiveFeature_Generic_Darkness"
+// 魔法抗性
+data "Icon" "PassiveFeature_Generic_Magical"
 data "DisplayName" "h7d8c4363g3d93g4153g9efcg501e96688a28;1"
 data "Description" "ha3df34c0g92a9g484egbbc7g9ef0389d65f0;1"
 data "StatsFunctorContext" "OnDamage"

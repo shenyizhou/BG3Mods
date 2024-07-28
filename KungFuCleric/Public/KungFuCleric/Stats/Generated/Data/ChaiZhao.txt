@@ -4,8 +4,8 @@ type "PassiveData"
 data "DisplayName" "hbf516c35gaed3g48dfgb6b0g5df4a1b9315c;1"
 data "Description" "h846722bag6b61g4b9fgac2agd4670d0f76eb;1"
 data "ExtraDescription" "hea0b19beg0157g44ddgac81g9beb70e4f73f;1"
-// 魔法抗性
-data "Icon" "PassiveFeature_Generic_Magical"
+// 共鸣之气
+data "Icon" "Action_KiResonation_Punch"
 data "Properties" "Highlighted"
 data "Boosts" "ActionResource(ReactionActionPoint,2,0);IF(not HasStatus('INCAPACITATED_DND')):UnlockInterrupt(Interrupt_KFC_Riposte);UnlockSpell(Target_KFC_Shove)"
 
@@ -14,8 +14,8 @@ new entry "Interrupt_KFC_Riposte"
 type "InterruptData"
 data "DisplayName" "ha0112a84gdffdg4db7g8d21g5b9c88ac904e;1"
 data "Description" "hea0b19beg0157g44ddgac81g9beb70e4f73f;1"
-// 百病不侵
-data "Icon" "PassiveFeature_PurityOfBody"
+// 共鸣之气
+data "Icon" "Action_KiResonation_Punch"
 data "InterruptContext" "OnCastHit"
 data "InterruptContextScope" "Self"
 data "Container" "YesNoDecision"
@@ -77,8 +77,8 @@ type "PassiveData"
 data "DisplayName" "h6ae8a09bg7750g41b1gaa7ege85ab323c667;1"
 data "Description" "hee24ba29ge538g4118gba17g4cb68f1d067c;1"
 data "ExtraDescription" "h5b9ecc36gc9efg42aagbfd5g1598246af4d5;1"
-// 弗洛瑞克的支持者
-data "Icon" "Action_EndGameAlly_FlamingFistSummon"
+// 拨挡飞弹
+data "Icon" "PassiveFeature_DeflectMissiles"
 data "Properties" "Highlighted"
 data "Boosts" "ActionResource(ReactionActionPoint,2,0);UnlockInterrupt(Interrupt_KFC_DeflectMissiles);UnlockInterrupt(Interrupt_KFC_DeflectMissiles_Return)"
 data "StatsFunctorContext" "OnCreate;OnLongRest"
@@ -90,8 +90,8 @@ data "DisplayName" "h6ae8a09bg7750g41b1gaa7ege85ab323c667;1"
 data "Description" "h5b9ecc36gc9efg42aagbfd5g1598246af4d5;1"
 data "DescriptionParams" "2d8+Level+DexterityModifier;LevelMapValue(SuperiorityDie)"
 data "ExtraDescription" "h9a5ca2b6g288bg4c88gb0d5g1009e127b40b;1"
-// 弗洛瑞克的支持者
-data "Icon" "Action_EndGameAlly_FlamingFistSummon"
+// 拨挡飞弹
+data "Icon" "PassiveFeature_DeflectMissiles"
 data "InterruptContext" "OnPreDamage"
 data "InterruptContextScope" "Self"
 data "Container" "YesNoDecision"
@@ -107,8 +107,8 @@ new entry "Interrupt_KFC_DeflectMissiles_Return"
 type "InterruptData"
 data "DisplayName" "h6ae8a09bg7750g41b1gaa7ege85ab323c667;1"
 data "Description" "hf330a78bga831g4cc5g9e01g100d39828039;1"
-// 弗洛瑞克的支持者
-data "Icon" "Action_EndGameAlly_FlamingFistSummon"
+// 拨挡飞弹
+data "Icon" "PassiveFeature_DeflectMissiles"
 data "InterruptContext" "OnCastHit"
 data "InterruptContextScope" "Self"
 data "Container" "YesNoDecision"
@@ -162,7 +162,7 @@ data "Boosts" "ActionResource(ReactionActionPoint,2,0);UnlockInterrupt(Interrupt
 
 new entry "Interrupt_KFC_Counterspell"
 type "InterruptData"
-data "DisplayName" "hc130da9ag9b81g4108gbda6g35abdfe0a510;1"
+data "DisplayName" "h86d88fd1g5817g4239gae61gdc97ceabc9a8;1"
 data "Description" "he57bf83egac0cg46dfga37ag7474c1550ff2;1"
 data "DescriptionParams" "Distance(18)"
 // 灵能统御
