@@ -19,7 +19,7 @@ data "Icon" "PassiveFeature_PurityOfBody"
 data "InterruptContext" "OnCastHit"
 data "InterruptContextScope" "Self"
 data "Container" "YesNoDecision"
-// 允许反应、是敌人、非物体、触发攻击、是近战、距离2以内、未隐身
+// 允许反应、是敌人、不是物品、触发攻击、是近战、距离2以内、未隐身
 data "Conditions" "IsAbleToReact(context.Observer) and Enemy(context.Source,context.Observer) and not AnyEntityIsItem() and HasLastAttackTriggered() and IsMeleeAttack() and not DistanceToEntityGreaterThan(2,context.ObserverPosition,context.Source) and not HasStatus('INVISIBILITY')"
 data "Properties" "UseAttack(SWAP);ApplyStatus(OBSERVER_OBSERVER,KFC_INTERRUPT_RIPOSTE,100,0)"
 data "Cost" "ReactionActionPoint:1"
@@ -95,7 +95,7 @@ data "Icon" "Action_EndGameAlly_FlamingFistSummon"
 data "InterruptContext" "OnPreDamage"
 data "InterruptContextScope" "Self"
 data "Container" "YesNoDecision"
-// 允许反应、是敌人、非物体、是远程
+// 允许反应、是敌人、不是物品、是远程
 data "Conditions" "IsAbleToReact(context.Observer) and Self(context.Target,context.Observer) and not AnyEntityIsItem() and IsRangedWeaponAttack()"
 data "Properties" "AdjustRoll(OBSERVER_OBSERVER,-(2d8+Level+DexterityModifier));ApplyStatus(OBSERVER_TARGET,KFC_INTERRUPT_DEFLECT_MISSILES_HIT,100,1);RestoreResource(KFC_DeflectMissiles_Charge,1,0)"
 data "Cost" "ReactionActionPoint:1"
@@ -112,7 +112,7 @@ data "Icon" "Action_EndGameAlly_FlamingFistSummon"
 data "InterruptContext" "OnCastHit"
 data "InterruptContextScope" "Self"
 data "Container" "YesNoDecision"
-// 允许反应、是敌人、非物体、是远程、已命中、有资源
+// 允许反应、是敌人、不是物品、是远程、已命中、有资源
 data "Conditions" "IsAbleToReact(context.Observer) and Self(context.Target,context.Observer) and not AnyEntityIsItem() and IsAttackType(AttackType.RangedWeaponAttack) and not (IsCriticalMiss() or IsMiss()) and HasActionResource('KFC_DeflectMissiles_Charge',1,0,false,false,context.Observer)"
 data "Properties" "UseSpell(SWAP,Projectile_KFC_Deflect_Missiles,true,true,true,99636a80-29ec-4a19-a905-e0d30825c3e0);UseActionResource(OBSERVER_OBSERVER,KFC_DeflectMissiles_Charge,1,0)"
 data "Cost" "SuperiorityDie:1"
@@ -170,7 +170,7 @@ data "Icon" "TadpoleSuperPower_PsionicDominance"
 data "InterruptContext" "OnSpellCast"
 data "InterruptContextScope" "Nearby"
 data "Container" "YesNoDecision"
-// 允许反应、未禁用、未被沉默、是敌人、非自己、非物体、是法术、非武器攻击、法术等级小于等于熟练度判断
+// 允许反应、未禁用、未被沉默、是敌人、非自己、不是物品、是法术、非武器攻击、法术等级小于等于熟练度判断
 data "Conditions" "IsAbleToReact(context.Observer) and not Uninterruptible() and not HasSpellCastBlocked(context.Observer) and Enemy(context.Source,context.Observer) and not Self(context.Source,context.Observer) and not AnyEntityIsItem() and IsSpell() and not HasStringInSpellRoll('WeaponAttack') and SpellPowerLevelEqualOrLessThan(context.Observer.ProficiencyBonus)"
 data "Properties" "Counterspell()"
 data "Cost" "ReactionActionPoint:1"

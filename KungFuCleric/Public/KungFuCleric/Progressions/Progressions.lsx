@@ -38,9 +38,6 @@
 									<attribute id="Object" type="guid" value="b9ccf90e-b35b-4b73-b896-8ed2d32ae8c6" />
 								</node>
 								<node id="SubClass">
-									<attribute id="Object" type="guid" value="e64c5974-b64b-42b7-b86d-2fb368ae9d33" />
-								</node>
-								<node id="SubClass">
 									<attribute id="Object" type="guid" value="6a625b97-053b-4d45-b583-384d04ec6d08" />
 								</node>
 							</children>
@@ -54,9 +51,49 @@
 					<attribute id="Name" type="LSString" value="KungFuCleric" />
 					<attribute id="ProgressionType" type="uint8" value="1" />
 					<attribute id="PassivesAdded" type="LSString" value="Passive_KFC_HuangDiNeiJing" />
-					<attribute id="Selectors" type="LSString" value="SelectPassives(5457b361-7306-469d-9032-6f2760a629e3,2,YingGong);SelectPassives(d1a02545-223f-4b66-b822-eec3168fb322,3,RuanGong);SelectPassives(d9eff3c2-0fa4-4022-9ce3-d684c6d3fa29,5,QingGong);SelectPassives(01bef723-3a92-4640-811d-4c57df429712,4,NeiGong);SelectPassives(556ab3de-5af7-4e11-9b08-48764ae60b46,1,WaiGong);SelectPassives(20aff608-ecf9-422f-85ee-6be3e36d9d8c,3,ChaiZhao)" />
+					<attribute id="Selectors" type="LSString" value="SelectPassives(5457b361-7306-469d-9032-6f2760a629e3,2,YingGong);SelectPassives(d1a02545-223f-4b66-b822-eec3168fb322,3,RuanGong);SelectPassives(d9eff3c2-0fa4-4022-9ce3-d684c6d3fa29,5,QingGong);SelectPassives(01bef723-3a92-4640-811d-4c57df429712,4,NeiGong);SelectPassives(556ab3de-5af7-4e11-9b08-48764ae60b46,1,WaiGong);SelectPassives(20aff608-ecf9-422f-85ee-6be3e36d9d8c,3,ChaiZhao);AddSpells(bc60b1ba-b922-44c8-90b1-d8e918d6415b,KungFuClericSpells,,,AlwaysPrepared)" />
 					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
 					<attribute id="UUID" type="guid" value="30cbcb19-25ff-488c-aa42-a81e519411a3" />
+				</node>
+				<node id="Progression">
+					<attribute id="Level" type="uint8" value="3" />
+					<attribute id="Name" type="LSString" value="KungFuCleric" />
+					<attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="Selectors" type="LSString" value="AddSpells(c8501a67-cafa-4ba7-9b96-4e7a3d6c77ad,KungFuCleric,,,AlwaysPrepared)" />
+					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
+					<attribute id="UUID" type="guid" value="a0d47f19-6f8b-4e9d-a644-3d47c4e55157" />
+				</node>
+				<node id="Progression">
+					<attribute id="Level" type="uint8" value="5" />
+					<attribute id="Name" type="LSString" value="KungFuCleric" />
+					<attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="Selectors" type="LSString" value="AddSpells(c46229b5-72a8-49e1-bd50-27bf8a0660b9,KungFuCleric,,,AlwaysPrepared)" />
+					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
+					<attribute id="UUID" type="guid" value="b86febd7-edbd-4c93-9db8-944342e89993" />
+				</node>
+				<node id="Progression">
+					<attribute id="Level" type="uint8" value="7" />
+					<attribute id="Name" type="LSString" value="KungFuCleric" />
+					<attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="Selectors" type="LSString" value="AddSpells(669dd7e0-816f-4321-b627-63e5f0a1eca7,KungFuCleric,,,AlwaysPrepared)" />
+					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
+					<attribute id="UUID" type="guid" value="7afb015e-1047-484d-ad0e-fe607dbfea1f" />
+				</node>
+				<node id="Progression">
+					<attribute id="Level" type="uint8" value="9" />
+					<attribute id="Name" type="LSString" value="KungFuCleric" />
+					<attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="Selectors" type="LSString" value="AddSpells(23973da0-ccec-468e-b1d0-01bf7d10db5a,KungFuCleric,,,AlwaysPrepared)" />
+					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
+					<attribute id="UUID" type="guid" value="1ac11586-aebf-4077-8880-ed422d0be513" />
+				</node>
+				<node id="Progression">
+					<attribute id="Level" type="uint8" value="11" />
+					<attribute id="Name" type="LSString" value="KungFuCleric" />
+					<attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="Selectors" type="LSString" value="AddSpells(a0f375e0-8e6d-4b41-bccd-791414d9675b,KungFuCleric,,,AlwaysPrepared)" />
+					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
+					<attribute id="UUID" type="guid" value="5cfbbccd-5f00-44cd-85de-3628f75dc4ff" />
 				</node>
 			</children>
 		</node>

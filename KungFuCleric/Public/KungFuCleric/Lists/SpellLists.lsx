@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="329"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Cleric KungFu Domain Level 1 Spells"/>
+                    <attribute id="Spells" type="LSString" value=" Projectile_MagicMissile;Target_FaerieFire"/>
+                    <attribute id="UUID" type="guid" value="bc60b1ba-b922-44c8-90b1-d8e918d6415b"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Cleric KungFu Domain Level 3 Spells"/>
+                    <attribute id="Spells" type="LSString" value="Target_Hex;Target_HoldPerson"/>
+                    <attribute id="UUID" type="guid" value="c8501a67-cafa-4ba7-9b96-4e7a3d6c77ad"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Cleric KungFu Domain Level 5 Spells"/>
+                    <attribute id="Spells" type="LSString" value="Target_CallLightning;Projectile_Fireball"/>
+                    <attribute id="UUID" type="guid" value="c46229b5-72a8-49e1-bd50-27bf8a0660b9"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Cleric KungFu Domain Level 7 Spells"/>
+                    <attribute id="Spells" type="LSString" value="Target_IceStorm;Target_PhantasmalKiller"/>
+                    <attribute id="UUID" type="guid" value="669dd7e0-816f-4321-b627-63e5f0a1eca7"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Cleric KungFu Domain Level 9 Spells"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_CursedTome_CurriculumofStrategy;Target_HoldMonster"/>
+                    <attribute id="UUID" type="guid" value="23973da0-ccec-468e-b1d0-01bf7d10db5a"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Cleric KungFu Domain Level 11 Spells"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_ChainLightning;Target_IrresistibleDance"/>
+                    <attribute id="UUID" type="guid" value="a0f375e0-8e6d-4b41-bccd-791414d9675b"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

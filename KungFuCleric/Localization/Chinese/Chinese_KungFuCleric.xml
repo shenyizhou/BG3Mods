@@ -12,11 +12,17 @@
     <content contentuid="he86e97a0gf404g49e6g9d48g9df39c696dbd" version="1">硬功</content>
     <content contentuid="h5588c27agf95fg466bgb44egd88a73a689ee" version="1">选择硬功进行修习。</content>
     <content contentuid="hb5884a09g33c0g4908ga7d1g1c277630bfd5" version="1">金刚不坏神功</content>
-    <content contentuid="h58031c2dgb037g493fgab67g50139ff50c99" version="1">基础&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;变为 13，额外增加体质&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; [1] 到&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;。&lt;br&gt;受到的穿刺、钝击、劈砍、力场伤害减少体质&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; [1]。&lt;br&gt;获得&lt;LSTag Type="Spell" Tooltip="Shout_KFC_ResilientSphere"&gt;不灭金身&lt;/LSTag&gt;。</content>
+    <content contentuid="h58031c2dgb037g493fgab67g50139ff50c99" version="1">基础&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;变为 13，额外增加体质&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; [1] 到&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;。&lt;br&gt;受到的穿刺、钝击、劈砍、力场伤害减少体质&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; [1]。&lt;br&gt;获得体质&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Shout_KFC_AuraOf_Protection"&gt;金钟罩&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Shout_KFC_Shield"&gt;铁布衫&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Shout_KFC_ResilientSphere"&gt;不灭金身&lt;/LSTag&gt;。</content>
+    <content contentuid="hcebcd611gaa70g4854gaeafg191511ecd8d5" version="1">金钟罩</content>
+    <content contentuid="hf695d1a4g3cfcg4353gaacdg9080f7d81d38" version="1">施法者和 [1] 范围内的 &lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt; 获得一个 +[2] 的加值。</content>
+    <content contentuid="hd2aa6de7g6596g45c4gbcdbg8307d584920f" version="1">铁布衫</content>
+    <content contentuid="h59dfaff5gfd53g4de4gba58ge5fd85887972" version="1">当你即将被一个敌人命中时，&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;+5。同时完全防止&lt;LSTag Type="Spell" Tooltip="Projectile_MagicMissile"&gt;魔法飞弹&lt;/LSTag&gt;对你造成伤害。</content>
+    <content contentuid="hd3f2a30cg933cg4e95ga3deg55989e394873" version="1">免疫魔法飞弹。&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;+5。</content>
     <content contentuid="h174714ebgc630g445dga4d1g0550a18efbec" version="1">不灭金身</content>
     <content contentuid="h1876724fg1229g41e9g9f20g850e5967bf45" version="1">不受所有法术效果和伤害影响，同时无法施展法术或是造成伤害。&lt;br&gt;&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;减半。</content>
     <content contentuid="h5007e0ebg5a58g4da0gbe36g93017b27d17c" version="1">大金刚神力</content>
-    <content contentuid="ha627cd63g0326g496fg8e26gf87b4593a1e9" version="1">可以将你的力量&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; [1] 加到伤害和&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;上。&lt;br&gt;伤害掷骰将掷骰两次并取高值。</content>
+    <content contentuid="ha627cd63g0326g496fg8e26gf87b4593a1e9" version="1">可以将你的力量&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; [1] 加到伤害和&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;上。伤害掷骰将掷骰两次并取高值。获得力量&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+    <content contentuid="hd7c5f3a6ge2a4g4d0cgb46bg5fd49d003347" version="1">可以影响武器伤害、徒手伤害、投掷伤害和力场法术伤害。</content>
     <!-- 软功 -->
     <content contentuid="hd73e6a09g5e3bg4e44g960egbe91f6675c1d" version="1">软功</content>
     <content contentuid="h97decd04g955cg49f4g9b3cg0a5dc50219a7" version="1">选择软功进行修习。</content>
@@ -80,12 +86,12 @@
     <content contentuid="hd52899f5g8e89g4414gb2cdg3255c4fc8336" version="1">外功</content>
     <content contentuid="h7e010da3g9923g4e80g8b25g6a0bacf39ac1" version="1">选择外功进行修习。</content>
     <content contentuid="h8222880eg02b6g4811gb8d0g05b39677e240" version="1">五雷天心诀</content>
-    <content contentuid="h6565d090ga0dag46e9gaf3bg41274d714f3f" version="1">千重霄远乾坤近，倚石来补帝王衿。临风把酒萧然泪，化雷难抚断剑心。你的雷鸣和闪电伤害无视&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;，可以使用引导神力来造成最大伤害。获得&lt;LSTag Type="Spell" Tooltip="Shout_KFC_StaticOverdrive"&gt;神霄雷&lt;/LSTag&gt;、绛宫雷、水脏雷。</content>
+    <content contentuid="h6565d090ga0dag46e9gaf3bg41274d714f3f" version="1">千重霄远乾坤近，倚石来补帝王衿。临风把酒萧然泪，化雷难抚断剑心。你的雷鸣、闪电和光耀伤害无视&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;和&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;，并可以使用&lt;LSTag Type="ActionResource" Tooltip="ChannelDivinity"&gt;引导神力&lt;/LSTag&gt;来造成最大伤害。获得&lt;LSTag Type="Spell" Tooltip="Shout_KFC_StaticOverdrive"&gt;神霄雷&lt;/LSTag&gt;、绛宫雷、水脏雷。</content>
     <content contentuid="h52fd5e84g81c5g4f2fga375g6f85c8051c8c" version="1">神霄雷</content>
     <content contentuid="h017e8941g90beg4719g82d9ge53790d55f05" version="1">以雷为势，奔雷游走。获得&lt;LSTag Type="Status" Tooltip="KFC_STATIC_DISCHARGE_ARUA"&gt;神霄雷&lt;/LSTag&gt;和&lt;LSTag Type="Status" Tooltip="ACTION_SURGE"&gt;动作如潮&lt;/LSTag&gt;[1]回合。影响[2]范围内的队友和敌人。</content>
-    <content contentuid="h268fb659ga380g4a56g8b18g35583282124b" version="1">自己和&lt;LSTag Type="Status" Tooltip="KFC_STATIC_DISCHARGE_ALLY"&gt;神霄雷&lt;/LSTag&gt;附近的所有队友额外造成[1]，并获得雷鸣和闪电伤害&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。&lt;br&gt;&lt;LSTag Type="Status" Tooltip="KFC_STATIC_DISCHARGE_ENEMY"&gt;神霄雷&lt;/LSTag&gt;附近的所有敌人每回合受到[2]，且会在攻击时受到一个额外的[2]，无法作出反应。</content>
+    <content contentuid="h268fb659ga380g4a56g8b18g35583282124b" version="1">施法者和 &lt;LSTag Type="Status" Tooltip="KFC_STATIC_DISCHARGE_ALLY"&gt;神霄雷&lt;/LSTag&gt; 附近的所有队友造成雷鸣、闪电和光耀伤害时，额外造成敏捷 &lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; [1] 的伤害，并获得雷鸣、闪电和光耀伤害&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。&lt;br&gt;&lt;LSTag Type="Status" Tooltip="KFC_STATIC_DISCHARGE_ENEMY"&gt;神霄雷&lt;/LSTag&gt; 附近的所有敌人每回合受到 [2]，会在攻击时受到一个额外的[2]，且无法作出反应。</content>
     <content contentuid="had17e753g4081g4f21gbc18gb4e7dad10955" version="1">经脉蕴有奔雷。对攻击者造成[1]。</content>
-    <content contentuid="h3417d7e6g9fb5g4003gbd52gcb702dc0cb6a" version="1">经脉蕴有奔雷。造成一个额外的[1]。获得雷鸣和闪电伤害&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
+    <content contentuid="h3417d7e6g9fb5g4003gbd52gcb702dc0cb6a" version="1">经脉蕴有奔雷。造成雷鸣、闪电和光耀伤害时，额外造成敏捷 &lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; [1] 的伤害。获得雷鸣、闪电和光耀伤害&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
     <content contentuid="h030d5ad3gd8e7g4904gaea0g14f313e1ae52" version="1">发肤微动皆魄若雷鸣。每回合受到[1]。如果发起攻击，则会受到一个额外的[1]。无法作出反应。</content>
     <!-- 拆招 -->
     <content contentuid="hf464b6d5g856ag4112g91d2gee4161123372" version="1">拆招</content>
@@ -106,12 +112,6 @@
     <content contentuid="h308cec68gda29g40e5gae76g5f53aa842295" version="1">获得两个额外&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;。获得&lt;LSTag Tooltip="Interrupt_KFC_Counterspell"&gt;乾坤大挪移&lt;/LSTag&gt;。</content>
     <content contentuid="he57bf83egac0cg46dfga37ag7474c1550ff2" version="1">如果 [1] 范围内的敌人用来攻击你的法术等级低于或等于你的 &lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练项加值&lt;/LSTag&gt;，你可以使用 &lt;LSTag Tooltip="Reaction"&gt;反应&lt;/LSTag&gt; 动作使法术无效。</content>
     <!-- 备用 -->
-    <content contentuid="hd7c5f3a6ge2a4g4d0cgb46bg5fd49d003347" version="1"></content>
-    <content contentuid="hd2aa6de7g6596g45c4gbcdbg8307d584920f" version="1"></content>
-    <content contentuid="h59dfaff5gfd53g4de4gba58ge5fd85887972" version="1"></content>
-    <content contentuid="hd3f2a30cg933cg4e95ga3deg55989e394873" version="1"></content>
-    <content contentuid="hcebcd611gaa70g4854gaeafg191511ecd8d5" version="1"></content>
-    <content contentuid="hf695d1a4g3cfcg4353gaacdg9080f7d81d38" version="1"></content>
     <content contentuid="h46bea85dg9862g4327g8536g832ea4bc3c8f" version="1"></content>
     <content contentuid="hd5312865g12f1g4fb5gbec8g270019260fad" version="1"></content>
     <content contentuid="hb6f52e08g9db0g4443g8ac6gb8cdede34446" version="1"></content>
