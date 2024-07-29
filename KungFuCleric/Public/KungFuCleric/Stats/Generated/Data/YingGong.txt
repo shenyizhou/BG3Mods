@@ -7,7 +7,7 @@ data "DescriptionParams" "max(1,ConstitutionModifier)"
 // 无甲防御：野蛮人
 data "Icon" "PassiveFeature_UnarmoredDefense_Barbarian"
 data "Properties" "Highlighted"
-data "Boosts" "ACOverrideFormula(13,true,Dexterity,Constitution);DamageReduction(Piercing,Flat,max(1,ConstitutionModifier));DamageReduction(Bludgeoning,Flat,max(1,ConstitutionModifier));DamageReduction(Slashing,Flat,max(1,ConstitutionModifier));DamageReduction(Force,Flat,max(1,ConstitutionModifier));Advantage(Ability,Constitution);UnlockSpell(Shout_KFC_AuraOf_Protection);UnlockInterrupt(Interrupt_KFC_Shield);UnlockSpell(Shout_KFC_Shield);UnlockSpell(Shout_KFC_ResilientSphere)"
+data "Boosts" "ACOverrideFormula(13,true,Dexterity,Constitution);DamageReduction(Piercing,Flat,max(1,ConstitutionModifier));DamageReduction(Bludgeoning,Flat,max(1,ConstitutionModifier));DamageReduction(Slashing,Flat,max(1,ConstitutionModifier));DamageReduction(Force,Flat,max(1,ConstitutionModifier));Advantage(Ability,Constitution);Advantage(SavingThrow,Constitution);UnlockSpell(Shout_KFC_AuraOf_Protection);UnlockInterrupt(Interrupt_KFC_Shield);UnlockSpell(Shout_KFC_Shield);UnlockSpell(Shout_KFC_ResilientSphere)"
 
 // 金钟罩（守护灵光）
 new entry "Shout_KFC_AuraOf_Protection"
@@ -167,4 +167,4 @@ data "ExtraDescription" "hd7c5f3a6ge2a4g4d0cgb46bg5fd49d003347;1"
 // 狂暴
 data "Icon" "Action_Barbarian_Rage"
 data "Properties" "Highlighted"
-data "Boosts" "IF(IsWeaponAttack() and IsProficientWithEquippedWeapon()):CharacterWeaponDamage(max(1,StrengthModifier));IF(IsMeleeUnarmedAttack()):CharacterUnarmedDamage(max(1,StrengthModifier));IF(IsRangedUnarmedAttack()):DamageBonus(max(1,StrengthModifier));IF(IsSpell() and IsDamageTypeForce()):DamageBonus(max(1,StrengthModifier));RollBonus(Attack,max(1,StrengthModifier));Reroll(Damage,20,false);Advantage(Ability,Strength)"
+data "Boosts" "IF(IsWeaponAttack() and IsProficientWithEquippedWeapon()):CharacterWeaponDamage(max(1,StrengthModifier));IF(IsMeleeUnarmedAttack()):CharacterUnarmedDamage(max(1,StrengthModifier));IF(IsRangedUnarmedAttack()):DamageBonus(max(1,StrengthModifier));IF(IsSpell() and IsDamageTypeForce()):DamageBonus(max(1,StrengthModifier));RollBonus(Attack,max(1,StrengthModifier));Reroll(Damage,20,false);Advantage(Ability,Strength);Advantage(SavingThrow,Strength)"

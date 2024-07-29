@@ -46,7 +46,7 @@
 				</node>
 				<node id="Progression">
 					<!-- 获得重甲熟练度，用卓越骰子作为专属资源 -->
-					<attribute id="Boosts" type="LSString" value="Proficiency(HeavyArmor);ActionResource(SuperiorityDie,1,0)" />
+					<attribute id="Boosts" type="LSString" value="Proficiency(HeavyArmor);ActionResource(SuperiorityDie,2,0)" />
 					<attribute id="Level" type="uint8" value="1" />
 					<attribute id="Name" type="LSString" value="KungFuCleric" />
 					<attribute id="ProgressionType" type="uint8" value="1" />
