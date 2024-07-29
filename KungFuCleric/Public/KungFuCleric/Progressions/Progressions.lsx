@@ -61,7 +61,7 @@
 					<attribute id="Name" type="LSString" value="KungFuCleric" />
 					<attribute id="ProgressionType" type="uint8" value="1" />
 					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
-					<attribute id="UUID" type="guid" value="" />
+					<attribute id="UUID" type="guid" value="bce69ae4-18ac-41d5-a71c-41bec8bfcfd6" />
 				</node>
 				<node id="Progression">
 					<attribute id="Boosts" type="LSString" value="ActionResource(SuperiorityDie,1,0)" />
@@ -78,7 +78,7 @@
 					<attribute id="Name" type="LSString" value="KungFuCleric" />
 					<attribute id="ProgressionType" type="uint8" value="1" />
 					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
-					<attribute id="UUID" type="guid" value="" />
+					<attribute id="UUID" type="guid" value="b167f4b8-881f-4040-9fa6-a3aa90d1bad4" />
 				</node>
 				<node id="Progression">
 					<attribute id="Boosts" type="LSString" value="ActionResource(SuperiorityDie,1,0)" />
@@ -95,7 +95,7 @@
 					<attribute id="Name" type="LSString" value="KungFuCleric" />
 					<attribute id="ProgressionType" type="uint8" value="1" />
 					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
-					<attribute id="UUID" type="guid" value="" />
+					<attribute id="UUID" type="guid" value="085699f3-a0e4-4278-891a-2cbf4abe7e67" />
 				</node>
 				<node id="Progression">
 					<attribute id="Boosts" type="LSString" value="ActionResource(SuperiorityDie,1,0)" />
@@ -112,7 +112,7 @@
 					<attribute id="Name" type="LSString" value="KungFuCleric" />
 					<attribute id="ProgressionType" type="uint8" value="1" />
 					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
-					<attribute id="UUID" type="guid" value="" />
+					<attribute id="UUID" type="guid" value="63a5a1ab-01c7-4b8c-8d59-967411c5e92d" />
 				</node>
 				<node id="Progression">
 					<attribute id="Boosts" type="LSString" value="ActionResource(SuperiorityDie,1,0)" />
@@ -129,7 +129,7 @@
 					<attribute id="Name" type="LSString" value="KungFuCleric" />
 					<attribute id="ProgressionType" type="uint8" value="1" />
 					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
-					<attribute id="UUID" type="guid" value="" />
+					<attribute id="UUID" type="guid" value="df4e4250-8577-4ef7-b5e4-27747ff24097" />
 				</node>
 				<node id="Progression">
 					<attribute id="Boosts" type="LSString" value="ActionResource(SuperiorityDie,1,0)" />
@@ -146,7 +146,7 @@
 					<attribute id="Name" type="LSString" value="KungFuCleric" />
 					<attribute id="ProgressionType" type="uint8" value="1" />
 					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
-					<attribute id="UUID" type="guid" value="" />
+					<attribute id="UUID" type="guid" value="afbb425f-5dd1-4859-91a9-0abcdc874e04" />
 				</node>
 				<node id="Progression">
 					<attribute id="Boosts" type="LSString" value="ActionResource(SuperiorityDie,1,0)" />
@@ -154,7 +154,7 @@
 					<attribute id="Name" type="LSString" value="KungFuCleric" />
 					<attribute id="ProgressionType" type="uint8" value="1" />
 					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
-					<attribute id="UUID" type="guid" value="" />
+					<attribute id="UUID" type="guid" value="77b0f439-a73c-49bc-b6e1-fceeaf950eaa" />
 				</node>
 				<node id="Progression">
 					<attribute id="Boosts" type="LSString" value="ActionResource(SuperiorityDie,1,0)" />
@@ -162,7 +162,7 @@
 					<attribute id="Name" type="LSString" value="KungFuCleric" />
 					<attribute id="ProgressionType" type="uint8" value="1" />
 					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
-					<attribute id="UUID" type="guid" value="" />
+					<attribute id="UUID" type="guid" value="eee31db6-c14c-4edf-9c5a-f1a33fc4ce14" />
 				</node>
 				<node id="Progression">
 					<attribute id="Boosts" type="LSString" value="ActionResource(SuperiorityDie,1,0)" />
@@ -170,7 +170,7 @@
 					<attribute id="Name" type="LSString" value="KungFuCleric" />
 					<attribute id="ProgressionType" type="uint8" value="1" />
 					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
-					<attribute id="UUID" type="guid" value="" />
+					<attribute id="UUID" type="guid" value="be64f31f-e309-42e0-9323-5d175f8d9674" />
 				</node>
 				<node id="Progression">
 					<attribute id="Boosts" type="LSString" value="ActionResource(SuperiorityDie,1,0)" />
@@ -178,7 +178,7 @@
 					<attribute id="Name" type="LSString" value="KungFuCleric" />
 					<attribute id="ProgressionType" type="uint8" value="1" />
 					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
-					<attribute id="UUID" type="guid" value="" />
+					<attribute id="UUID" type="guid" value="661e0946-aa21-4343-ac9b-af3f72bf9d5d" />
 				</node>
 				<node id="Progression">
 					<attribute id="Boosts" type="LSString" value="ActionResource(SuperiorityDie,1,0)" />
@@ -186,7 +186,7 @@
 					<attribute id="Name" type="LSString" value="KungFuCleric" />
 					<attribute id="ProgressionType" type="uint8" value="1" />
 					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
-					<attribute id="UUID" type="guid" value="" />
+					<attribute id="UUID" type="guid" value="661e0946-aa21-4343-ac9b-af3f72bf9d5d" />
 				</node>
 				<node id="Progression">
 					<attribute id="Boosts" type="LSString" value="ActionResource(SuperiorityDie,1,0)" />
@@ -194,7 +194,7 @@
 					<attribute id="Name" type="LSString" value="KungFuCleric" />
 					<attribute id="ProgressionType" type="uint8" value="1" />
 					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
-					<attribute id="UUID" type="guid" value="" />
+					<attribute id="UUID" type="guid" value="661e0946-aa21-4343-ac9b-af3f72bf9d5d" />
 				</node>
 				<node id="Progression">
 					<attribute id="Boosts" type="LSString" value="ActionResource(SuperiorityDie,1,0)" />
@@ -202,7 +202,7 @@
 					<attribute id="Name" type="LSString" value="KungFuCleric" />
 					<attribute id="ProgressionType" type="uint8" value="1" />
 					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
-					<attribute id="UUID" type="guid" value="" />
+					<attribute id="UUID" type="guid" value="661e0946-aa21-4343-ac9b-af3f72bf9d5d" />
 				</node>
 				<node id="Progression">
 					<attribute id="Boosts" type="LSString" value="ActionResource(SuperiorityDie,1,0)" />
@@ -210,7 +210,7 @@
 					<attribute id="Name" type="LSString" value="KungFuCleric" />
 					<attribute id="ProgressionType" type="uint8" value="1" />
 					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
-					<attribute id="UUID" type="guid" value="" />
+					<attribute id="UUID" type="guid" value="661e0946-aa21-4343-ac9b-af3f72bf9d5d" />
 				</node>
 			</children>
 		</node>
