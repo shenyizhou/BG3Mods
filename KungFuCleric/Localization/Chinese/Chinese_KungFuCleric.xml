@@ -5,7 +5,7 @@
     <content contentuid="hbd34047cg9f09g43c6g8c47g590bb07f9d17" version="1">武功</content>
     <!-- 医药 -->
     <content contentuid="he0b71fabg1e50g442ag9a50g8fdc88999678" version="1">黄帝内经</content>
-    <content contentuid="h186b341fg82dfg4c47gb17dg158fbc28e04b" version="1">获得&lt;br&gt;&lt;LSTag Type="Spell" Tooltip="Shout_KFC_Healing"&gt;灵枢&lt;/LSTag&gt;、素问和&lt;LSTag Tooltip="Medicine"&gt;医药&lt;/LSTag&gt;&lt;LSTag Tooltip="Proficiency"&gt;熟练项&lt;/LSTag&gt;</content>
+    <content contentuid="h186b341fg82dfg4c47gb17dg158fbc28e04b" version="1">获得&lt;LSTag Type="Spell" Tooltip="Shout_KFC_Healing"&gt;灵枢&lt;/LSTag&gt;、素问和&lt;LSTag Tooltip="Medicine"&gt;医药&lt;/LSTag&gt;&lt;LSTag Tooltip="Proficiency"&gt;熟练项&lt;/LSTag&gt;。</content>
     <content contentuid="hafb61a6ag52b7g4ebeg8974g1a6024c33bf6" version="1">灵枢</content>
     <content contentuid="h2bb626a5gda28g4083ga18dgfae2718be3e5" version="1">治疗附近的盟友 [1]。</content>
     <!-- 硬功 -->
@@ -90,7 +90,7 @@
     <content contentuid="h6565d090ga0dag46e9gaf3bg41274d714f3f" version="1">千重霄远乾坤近，倚石来补帝王衿。临风把酒萧然泪，化雷难抚断剑心。&lt;br&gt;你的雷鸣、闪电和光耀伤害无视&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;和&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;，并可以使用&lt;LSTag Type="ActionResource" Tooltip="ChannelDivinity"&gt;引导神力&lt;/LSTag&gt;来造成最大伤害。获得&lt;LSTag Type="Spell" Tooltip="Shout_KFC_StaticOverdrive"&gt;神霄雷&lt;/LSTag&gt;、绛宫雷、水脏雷。</content>
     <content contentuid="h52fd5e84g81c5g4f2fga375g6f85c8051c8c" version="1">神霄雷</content>
     <content contentuid="h017e8941g90beg4719g82d9ge53790d55f05" version="1">以雷为势，奔雷游走。获得&lt;LSTag Type="Status" Tooltip="KFC_STATIC_DISCHARGE_ARUA"&gt;神霄雷&lt;/LSTag&gt;和&lt;LSTag Type="Status" Tooltip="ACTION_SURGE"&gt;动作如潮&lt;/LSTag&gt;[1]回合。影响[2]范围内的队友和敌人。</content>
-    <content contentuid="h268fb659ga380g4a56g8b18g35583282124b" version="1">施法者和 &lt;LSTag Type="Status" Tooltip="KFC_STATIC_DISCHARGE_ALLY"&gt;神霄雷&lt;/LSTag&gt; 附近的所有队友造成雷鸣、闪电和光耀伤害时，额外造成敏捷 &lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; [1] 的伤害。&lt;br&gt;&lt;LSTag Type="Status" Tooltip="KFC_STATIC_DISCHARGE_ENEMY"&gt;神霄雷&lt;/LSTag&gt; 附近的所有敌人每回合受到 [2]，会在攻击时受到一个额外的[2]，且无法作出反应。</content>
+    <content contentuid="h268fb659ga380g4a56g8b18g35583282124b" version="1">施法者和 &lt;LSTag Type="Status" Tooltip="KFC_STATIC_DISCHARGE_ALLY"&gt;神霄雷&lt;/LSTag&gt; 附近的所有队友造成雷鸣、闪电和光耀伤害时，额外造成敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; [1] 的伤害。&lt;br&gt;&lt;LSTag Type="Status" Tooltip="KFC_STATIC_DISCHARGE_ENEMY"&gt;神霄雷&lt;/LSTag&gt; 附近的所有敌人每回合受到 [2]，会在攻击时受到一个额外的[2]，且无法作出反应。</content>
     <content contentuid="had17e753g4081g4f21gbc18gb4e7dad10955" version="1">经脉蕴有奔雷。对攻击者造成 [1]。</content>
     <content contentuid="h3417d7e6g9fb5g4003gbd52gcb702dc0cb6a" version="1">经脉蕴有奔雷。造成雷鸣、闪电和光耀伤害时，额外造成敏捷 &lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; [1] 的伤害。</content>
     <content contentuid="h030d5ad3gd8e7g4904gaea0g14f313e1ae52" version="1">发肤微动皆魄若雷鸣。每回合受到[1]。如果发起攻击，则会受到一个额外的[1]。无法作出反应。</content>
@@ -98,13 +98,13 @@
     <content contentuid="hf464b6d5g856ag4112g91d2gee4161123372" version="1">拆招</content>
     <content contentuid="hff181426gdc9dg49cfgb8d6gf60704e8163c" version="1">选择拆招进行修习。</content>
     <content contentuid="hbf516c35gaed3g48dfgb6b0g5df4a1b9315c" version="1">太极功</content>
-    <content contentuid="h846722bag6b61g4b9fgac2agd4670d0f76eb" version="1">获得一个额外&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;和两颗&lt;LSTag Type="ActionResource" Tooltip="SuperiorityDie"&gt;卓越骰子&lt;/LSTag&gt;。获得&lt;LSTag Tooltip="Target_KFC_Riposte"&gt;太极拳&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Target_KFC_Shove"&gt;太极劲&lt;/LSTag&gt;。</content>
+    <content contentuid="h846722bag6b61g4b9fgac2agd4670d0f76eb" version="1">获得一个额外&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;和两颗&lt;LSTag Type="ActionResource" Tooltip="SuperiorityDie"&gt;卓越骰子&lt;/LSTag&gt;。获得&lt;LSTag Type="Spell" Tooltip="Target_KFC_Riposte"&gt;太极拳&lt;/LSTag&gt;</content>
     <content contentuid="ha0112a84gdffdg4db7g8d21g5b9c88ac904e" version="1">太极拳</content>
     <content contentuid="hea0b19beg0157g44ddgac81g9beb70e4f73f" version="1">四两拨千斤。当你被近战攻击时，你可以使用 &lt;LSTag Tooltip="Reaction"&gt;反应&lt;/LSTag&gt; 动作并消耗一个&lt;LSTag Type="ActionResource" Tooltip="SuperiorityDie"&gt;卓越骰子&lt;/LSTag&gt;发动两次徒手打击推离一个目标，每一击都造成 [1]。推离成功后，进行 &lt;LSTag Tooltip="DifficultyClass"&gt;难度等级&lt;/LSTag&gt; 为 [2] 的敏捷 &lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;，如果失败将陷入 &lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒伏&lt;/LSTag&gt; [3] 回合。</content>
     <content contentuid="h63e40bd7ge61dg429cgbc1fgcc223f1e0239" version="1">四两拨千斤。消耗一个&lt;LSTag Type="ActionResource" Tooltip="SuperiorityDie"&gt;卓越骰子&lt;/LSTag&gt;发动两次徒手打击推离一个目标，每一击都造成 [1]。推离成功后，进行 &lt;LSTag Tooltip="DifficultyClass"&gt;难度等级&lt;/LSTag&gt; 为 [2] 的敏捷 &lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;，如果失败将陷入 &lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒伏&lt;/LSTag&gt; [3] 回合。</content>
 	<content contentuid="h8cc06fc1gb0b0g4ffdga030gfe5ecdbbfe2f" version="1">尝试推离一个目标，成功几率取决于你的运动属性。如果你处于隐藏或隐形状态，则几率增加。&lt;br&gt;推击距离取决于你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;以及目标的重量。</content>
     <content contentuid="h6ae8a09bg7750g41b1gaa7ege85ab323c667" version="1">斗转星移</content>
-    <content contentuid="hee24ba29ge538g4118gba17g4cb68f1d067c" version="1">获得一个额外&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;和一颗&lt;LSTag Type="ActionResource" Tooltip="SuperiorityDie"&gt;卓越骰子&lt;/LSTag&gt;。获得&lt;LSTag Tooltip="Shout_KFC_DeflectMissiles"&gt;斗转星移&lt;/LSTag&gt;</content>
+    <content contentuid="hee24ba29ge538g4118gba17g4cb68f1d067c" version="1">获得一个额外&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;和一颗&lt;LSTag Type="ActionResource" Tooltip="SuperiorityDie"&gt;卓越骰子&lt;/LSTag&gt;。获得&lt;LSTag Tooltip="Shout_KFC_DeflectMissiles"&gt;斗转星移&lt;/LSTag&gt;。</content>
     <content contentuid="h5b9ecc36gc9efg42aagbfd5g1598246af4d5" version="1">使用 &lt;LSTag Tooltip="Reaction"&gt;反应&lt;/LSTag&gt; 动作来减少从远程武器攻击那里受到的伤害，减少值为等级+敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;+武艺加值 [1]。&lt;br&gt;如果完全挡下此次攻击，则可以消耗一个&lt;LSTag Type="ActionResource" Tooltip="SuperiorityDie"&gt;卓越骰子&lt;/LSTag&gt;将其 &lt;LSTag Type="Spell" Tooltip="Projectile_KFC_Deflect_Missiles"&gt;斗转星移&lt;/LSTag&gt; 回去，造成 [2]。</content>
     <content contentuid="h9a5ca2b6g288bg4c88gb0d5g1009e127b40b" version="1">你只能减少攻击带来的伤害 —— 任何附加效果都无法消除。</content>
     <content contentuid="hf330a78bga831g4cc5g9e01g100d39828039" version="1">使用 &lt;LSTag Tooltip="Reaction"&gt;反应&lt;/LSTag&gt; 能力抓住远程武器攻击发出的一个投射物，并将其投射回攻击者，造成 [1]。</content>

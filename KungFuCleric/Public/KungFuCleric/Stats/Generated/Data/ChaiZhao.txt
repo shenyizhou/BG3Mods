@@ -3,8 +3,8 @@ new entry "Passive_KFC_TaiJiQuan"
 type "PassiveData"
 data "DisplayName" "hbf516c35gaed3g48dfgb6b0g5df4a1b9315c;1"
 data "Description" "h846722bag6b61g4b9fgac2agd4670d0f76eb;1"
-// 疾风连击：打击
-data "Icon" "Action_Monk_OpenHandTechnique_Knock"
+// 武艺：附赠徒手打击
+data "Icon" "PassiveFeature_MartialArts_BonusUnarmedStrike"
 data "Properties" "Highlighted"
 data "Boosts" "ActionResource(ReactionActionPoint,1,0);ActionResource(SuperiorityDie,2,0);UnlockInterrupt(Interrupt_KFC_Riposte);UnlockSpell(Target_KFC_Shove)"
 
@@ -74,7 +74,10 @@ data "InterruptPrototype" "Interrupt_KFC_Riposte"
 new entry "Target_KFC_Shove"
 type "SpellData"
 data "SpellType" "Target"
+using "Target_KFC_Riposte"
+data "DisplayName" "ha0112a84gdffdg4db7g8d21g5b9c88ac904e;1"
 data "Description" "h63e40bd7ge61dg429cgbc1fgcc223f1e0239;1"
+data "Icon" "Action_Monk_OpenHandTechnique_Knock"
 data "UseCosts" "ActionPoint:1"
 data "InterruptPrototype" ""
 
