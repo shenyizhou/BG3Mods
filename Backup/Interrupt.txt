@@ -1,18 +1,3 @@
-// 八荒六合唯我独尊功
-new entry "busikuangnu_1"
-type "InterruptData"
-data "DisplayName" "hee8528f7g8e4fg4d7egb9a1g2909c3210e4d;1"
-data "Description" "h31446535gb5e7g4d43g9c29gdbab01187a32;1"
-data "Icon" "TadpoleSuperPower_StageFright_2"
-data "InterruptContext" "OnCastHit"
-data "InterruptContextScope" "Self"
-data "Container" "YesNoDecision"
-data "Conditions" "HasFunctor(StatsFunctorType.DealDamage) and IsHit() and HasHPPercentageLessThan(40, context.Observer)"
-data "Properties" "UseSpell(OBSERVER_OBSERVER,busikuangnu_2,true,true,true)"
-data "InterruptDefaultValue" "Enabled"
-data "EnableCondition" "not HasStatus('SG_Blinded')"
-data "EnableContext" "OnStatusApplied;OnStatusRemoved"
-
 // 北冥神功
 new entry "WanXiangZiRan"
 type "InterruptData"

@@ -207,7 +207,7 @@ data "PrepareEffect" "2fa6b127-6f8a-4150-8be6-6f62b7a85911"
 data "CastEffect" "b4221f40-bcc3-4703-acc5-1afaee284839"
 data "PositionEffect" "2de1821f-02b9-454d-8436-382c9879becd"
 
-// 鬼影迷踪步
+// 鬼影迷踪
 new entry "Passive_KFC_GuiYingMiZongBu"
 type "PassiveData"
 data "DisplayName" "h112e3c6dgd9b3g4e6dg8838g440b2af60307;1"
@@ -221,7 +221,7 @@ data "Boosts" "UnlockSpell(Target_KFC_MistyStep);UnlockSpell(Shout_KFC_MirrorIma
 // 鬼影迷踪
 new entry "Interrupt_KFC_IllusorySelf"
 type "InterruptData"
-data "DisplayName" "hb94a2330g175cg4d74g831dgcd4bdcde53ca;1"
+data "DisplayName" "h112e3c6dgd9b3g4e6dg8838g440b2af60307;1"
 data "Description" "hc130da9ag9b81g4108gbda6g35abdfe0a510;1"
 // 隐形术
 data "Icon" "Spell_Illusion_Invisibility"
@@ -239,8 +239,7 @@ data "EnableContext" "OnActionResourcesChanged"
 new entry "KFC_INTERRUPT_ILLUSORY_SELF"
 type "StatusData"
 data "StatusType" "EFFECT"
-// 没找到对应的文案，先保持不变
-data "DisplayName" "h9270cc4eg2f0fg41a9g8332g6ea50e086ad7;3"
+data "DisplayName" "h112e3c6dgd9b3g4e6dg8838g440b2af60307;1"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 data "StatusEffect" "d45899d6-06c4-45a5-bc29-6610b1bdf83d"
 
