@@ -14,11 +14,11 @@ new entry "Passive_KFC_YiWeiDuJiang"
 type "PassiveData"
 data "DisplayName" "hc0decce3g35ecg4ef6gaeb1g69746c6100ba;1"
 data "Description" "h18c06e21gd830g46dfg8b98g36dc52717f77;1"
-data "DescriptionParams" "Distance(9)"
+data "DescriptionParams" "Distance(3);Distance(3)"
 // 大步奔行
 data "Icon" "Spell_Transmutation_Longstrider"
 data "Properties" "Highlighted"
-data "Boosts" "ActionResourcePreventReduction(Movement);StatusImmunity(SG_DifficultTerrain);StatusImmunity(SG_Surface);StatusImmunity(SG_Frightened);StatusImmunity(CRIPPLED);StatusImmunity(WET);ActionResource(Movement,9,0);IgnoreLeaveAttackRange;UnlockSpell(Shout_KFC_Dash)"
+data "Boosts" "ActionResourcePreventReduction(Movement);StatusImmunity(SG_DifficultTerrain);StatusImmunity(SG_Surface);StatusImmunity(SG_Restrained);StatusImmunity(SG_Frightened);StatusImmunity(CRIPPLED);StatusImmunity(WET);ActionResource(Movement,3,0);IF(InSurface('SurfaceAlcohol') or InSurface('SurfaceBlood') or InSurface('SurfaceDeepWater') or InSurface('SurfaceDeepWaterRunning') or InSurface('SurfaceGrease') or InSurface('SurfaceOil') or InSurface('SurfaceWater') or InSurface('SurfaceWaterFrozen') or InSurface('SurfaceBloodFrozen')"):Distance(3);IgnoreLeaveAttackRange;UnlockSpell(Shout_KFC_Dash)"
 
 // 踏雪无痕（疾走）
 new entry "Shout_KFC_Dash"

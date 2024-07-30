@@ -17,7 +17,6 @@ data "DescriptionParams" "max(1,Level*ConstitutionModifier);17"
 // 免疫缠绕
 data "Icon" "Spell_Conjuration_Web"
 data "Properties" "Highlighted"
-data "Boosts" "StatusImmunity(SG_Restrained)"
 data "StatsFunctorContext" "OnDamaged"
 data "StatsFunctors" "RegainHitPoints(SELF,max(1,Level*ConstitutionModifier));IF(not SavingThrow(Ability.Dexterity,17,false,false,context.Source)):ApplyStatus(SWAP,ENSNARED_VINES,100,1)"
 

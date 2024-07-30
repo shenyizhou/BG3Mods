@@ -3,10 +3,11 @@ new entry "Passive_KFC_MingMuGong"
 type "PassiveData"
 data "DisplayName" "h681edf83gb56cg4a83gac08gf735251f317d;1"
 data "Description" "h8efb89f9g5e4cg4014g86c4g9b00343ce7e8;1"
+data "DescriptionParams" "Distance(60)"
 // 暗夜之眼
 data "Icon" "PassiveFeature_Generic_WildAnimal"
 data "Properties" "Highlighted"
-data "Boosts" "StatusImmunity(SG_Blinded);StatusImmunity(SG_Charmed);StatusImmunity(SG_Poisoned)"
+data "Boosts" "DarkvisionRangeMin(60);StatusImmunity(SG_Blinded);StatusImmunity(SG_Charmed);StatusImmunity(SG_Poisoned)"
 
 // 左右手互搏术
 new entry "Passive_KFC_ZuoYouShouHuBoShu"

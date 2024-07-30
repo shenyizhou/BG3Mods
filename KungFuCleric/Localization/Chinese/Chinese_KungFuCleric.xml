@@ -27,7 +27,7 @@
     <content contentuid="hd73e6a09g5e3bg4e44g960egbe91f6675c1d" version="1">软功</content>
     <content contentuid="h97decd04g955cg49f4g9b3cg0a5dc50219a7" version="1">选择软功进行修习。</content>
     <content contentuid="h681edf83gb56cg4a83gac08gf735251f317d" version="1">明目功</content>
-    <content contentuid="h8efb89f9g5e4cg4014g86c4g9b00343ce7e8" version="1">免疫&lt;LSTag Type="Status" Tooltip="BLINDED"&gt;目盲&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="CHARMED"&gt;魅惑&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="POISONED"&gt;中毒&lt;/LSTag&gt;。</content>
+    <content contentuid="h8efb89f9g5e4cg4014g86c4g9b00343ce7e8" version="1">获得范围为[1]的&lt;LSTag Type="Passive" Tooltip="SuperiorDarkvision"&gt;黑暗视觉&lt;/LSTag&gt;。免疫&lt;LSTag Type="Status" Tooltip="BLINDED"&gt;目盲&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="CHARMED"&gt;魅惑&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="POISONED"&gt;中毒&lt;/LSTag&gt;。</content>
     <content contentuid="hcf746165g6699g4ae3ga1f6gb11027870777" version="1">左右手互搏术</content>
     <content contentuid="h38c8f50cg329dg440eg980dgc7fb37f8443c" version="1">熟练地掌握双武器战斗。&lt;br&gt;攻击后可以进行一次额外的免费攻击。</content>
     <content contentuid="hcfe443adg79efg4d38g9874g31381a17f8d8" version="1">神机百变</content>
@@ -38,7 +38,7 @@
     <content contentuid="h0735f7aag028fg4f50g91a3g2480891e7eea" version="1">梯云纵</content>
     <content contentuid="hf8bb6033g741cg4852g9b84g62e96b1fba44" version="1">如白鹤腾空，瞬息入云。&lt;br&gt;&lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;跳跃&lt;/LSTag&gt;距离增加 [1] 并翻三倍，且不消耗&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;。&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;坠落伤害。获得&lt;LSTag Tooltip="Athletics"&gt;运动&lt;/LSTag&gt;和&lt;LSTag Tooltip="Acrobatics"&gt;体操&lt;/LSTag&gt;&lt;LSTag Tooltip="Proficiency"&gt;熟练项&lt;/LSTag&gt;。</content>
     <content contentuid="hc0decce3g35ecg4ef6gaeb1g69746c6100ba" version="1">一苇渡江</content>
-    <content contentuid="h18c06e21gd830g46dfg8b98g36dc52717f77" version="1">鲸波万里，一苇可航。&lt;br&gt;&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;增加[1]，不会被劣势地形、法术或魔法效果降低，且不受地形影响，移动不会招致&lt;LSTag Tooltip="OpportunityAttack"&gt;借机攻击&lt;/LSTag&gt;。免疫&lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;恐慌&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="CRIPPLED"&gt;跛足&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="WET"&gt;濡湿&lt;/LSTag&gt;。获得&lt;LSTag Type="Spell" Tooltip="Shout_KFC_Dash"&gt;踏雪无痕&lt;/LSTag&gt;。</content>
+    <content contentuid="h18c06e21gd830g46dfg8b98g36dc52717f77" version="1">鲸波万里，一苇可航。&lt;br&gt;&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;增加[1]，在水性地表额外增加[2]。移动速度不会被劣势地形、法术或魔法效果降低，且不受地形影响。移动不会招致&lt;LSTag Tooltip="OpportunityAttack"&gt;借机攻击&lt;/LSTag&gt;。免疫&lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;束缚&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;恐慌&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="CRIPPLED"&gt;跛足&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="WET"&gt;濡湿&lt;/LSTag&gt;。获得&lt;LSTag Type="Spell" Tooltip="Shout_KFC_Dash"&gt;踏雪无痕&lt;/LSTag&gt;。</content>
     <content contentuid="h4cbfeb20gf142g4c3bga4e6gcf9c4acb88e6" version="1">踏雪无痕</content>
     <content contentuid="h9a8b72a0gf46dg433ag9a02gf0785a95b7bc" version="1">疾风快影，来去无迹。&lt;br&gt;本回合的活动距离变大，&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;加倍。</content>
     <content contentuid="he42f3386g62d7g4d28gbeefgc6a99e526e86" version="1">凌波微步</content>
@@ -76,7 +76,7 @@
     <content contentuid="h7d8c4363g3d93g4153g9efcg501e96688a28" version="1">太玄经</content>
     <content contentuid="ha3df34c0g92a9g484egbbc7g9ef0389d65f0" version="1">打出 &lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt; 或杀掉敌方生物时，&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt; 恢复到最大值。</content>
     <content contentuid="h4590d42cg7a63g48b2gaed2g8b457fcd8fe5" version="1">天蚕功</content>
-    <content contentuid="hdd847a96g0c2eg41e1ga736g00e7c38e1e5b" version="1">每次你受到伤害时，恢复 [1] 生命值。攻击者必须进行 &lt;LSTag Tooltip="DifficultyClass"&gt;难度等级&lt;/LSTag&gt; 为 [2] 的敏捷 &lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;，如果失败将陷入 &lt;LSTag Type="Status" Tooltip="ENSNARED_VINES"&gt;缠绕&lt;/LSTag&gt; 状态。免疫 &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;束缚&lt;/LSTag&gt;。</content>
+    <content contentuid="hdd847a96g0c2eg41e1ga736g00e7c38e1e5b" version="1">每次你受到伤害时，恢复 [1] 生命值。攻击者必须进行 &lt;LSTag Tooltip="DifficultyClass"&gt;难度等级&lt;/LSTag&gt; 为 [2] 的敏捷 &lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;，如果失败将陷入 &lt;LSTag Type="Status" Tooltip="ENSNARED_VINES"&gt;缠绕&lt;/LSTag&gt; 状态。</content>
     <content contentuid="heafd6140g8985g46e0g87a8g6c9e739a8523" version="1">不死印法</content>
     <content contentuid="hfe9f531bg760fg475dgab51g2a71f294c35d" version="1">你的死亡 &lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt; 更容易成功。当你成功通过一次死亡 &lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt; 时，恢复 [1] 点生命值。</content>
     <content contentuid="hfd0aa887g3748g4a84gb58dg5fb17d797a3e" version="1">神照经</content>
@@ -112,10 +112,10 @@
     <content contentuid="h308cec68gda29g40e5gae76g5f53aa842295" version="1">获得两个额外&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;。获得乾坤大挪移。</content>
     <content contentuid="he57bf83egac0cg46dfga37ag7474c1550ff2" version="1">如果 [1] 范围内的敌人用来攻击你的法术等级低于或等于你的 &lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练项加值&lt;/LSTag&gt;，你可以使用 &lt;LSTag Tooltip="Reaction"&gt;反应&lt;/LSTag&gt; 动作使法术无效。</content>
     <!-- 备用 -->
-    <content contentuid="hb6f52e08g9db0g4443g8ac6gb8cdede34446" version="1"></content>
-    <content contentuid="hcbbd6375g06b0g4059g83e3g4068a4f42597" version="1"></content>
-    <content contentuid="hcbbd6375g06b0g4059g83e3g4068a4f42597" version="1"></content>
-    <content contentuid="hac4e6518g6a0dg4ab5gb343g3ed689d67a61" version="1"></content>
+    <content contentuid="hb6f52e08g9db0g4443g8ac6gb8cdede34446" version="1">独孤九剑</content>
+    <content contentuid="hcbbd6375g06b0g4059g83e3g4068a4f42597" version="1">每升一级，获得一种以下伤害的抗性：劈砍、钝击、穿刺、力场、火焰、寒冷、闪电、雷鸣、心灵。</content>
+    <content contentuid="hcbbd6375g06b0g4059g83e3g4068a4f42597" version="1">五形拳</content>
+    <content contentuid="hac4e6518g6a0dg4ab5gb343g3ed689d67a61" version="1">可以在五种拟兽拳法中切换：虎、鳄、鹿、鹰、狼。获得&lt;LSTag Tooltip="AnimalHandling"&gt;驯兽&lt;/LSTag&gt;&lt;LSTag Tooltip="Proficiency"&gt;熟练项&lt;/LSTag&gt;。</content>
     <content contentuid="h51b64495g6d3ag432cga145g1f7781cfc8e0" version="1"></content>
     <content contentuid="h008c531cg2dffg472dg937cgcb7d281cc0d6" version="1"></content>
     <content contentuid="" version="1"></content>
