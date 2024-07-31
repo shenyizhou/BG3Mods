@@ -26,7 +26,7 @@ data "Icon" "Spell_Enchantment_DominateBeast"
 data "DisplayName" "hcbbd6375g06b0g4059g83e3g4068a4f42597;1"
 data "Description" "hac4e6518g6a0dg4ab5gb343g3ed689d67a61;1"
 data "Properties" "IsHidden"
-data "Passives" "Passive_KFC_WuXingQuan_Elk"
+data "Passives" "Passive_KFC_WuXingQuan_Bear;Passive_KFC_WuXingQuan_Crocodile;Passive_KFC_WuXingQuan_Elk;Passive_KFC_WuXingQuan_Tiger;Passive_KFC_WuXingQuan_Eagle"
 
 // 五形拳：熊
 new entry "Passive_KFC_WuXingQuan_Bear"
