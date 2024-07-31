@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
     <content contentuid="hf9ae34c1g23a1g4db9gb0dbg53aaf95eef82" version="1">武功领域</content>
-    <content contentuid="he84d54b6g3bd0g4693g9cb3g148897371853" version="1">起始你可以在七大类功法中各选择一种进行修习：&lt;br&gt;医药：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_HuangDiNeiJing"&gt;黄帝内经&lt;/LSTag&gt;。&lt;br&gt;硬功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_JinGangBuHuaiShenGong"&gt;金刚不坏神功&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_DaJinGangShenLi"&gt;大金刚神力&lt;/LSTag&gt;。&lt;br&gt;软功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_MingMuGong"&gt;明目功&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_ZuoYouShouHuBoShu"&gt;左右手互搏术&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_ShenJiBaiBian"&gt;神机百变&lt;/LSTag&gt;。&lt;br&gt;轻功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_TiYunZong"&gt;梯云纵&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_YiWeiDuJiang"&gt;一苇渡江&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_LingBoWeiBu"&gt;凌波微步&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_FeiXuQingYanGong"&gt;飞絮轻烟功&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_GuiYingMiZongBu"&gt;鬼影迷踪&lt;/LSTag&gt;。&lt;br&gt;内功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_TaiXuanJing"&gt;太玄经&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_TianCanGong"&gt;天蚕功&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_BuSiYinFa"&gt;不死印法&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_ShenZhaoJing"&gt;神照经&lt;/LSTag&gt;。&lt;br&gt;外功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_WuLeiTianXinJue"&gt;五雷天心诀&lt;/LSTag&gt;。&lt;br&gt;拆招：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_TaiJiQuan"&gt;太极拳&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_DouZhuanXingYi"&gt;斗转星移&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_QianKunDaNuoYi"&gt;乾坤大挪移&lt;/LSTag&gt;。&lt;br&gt;升级后可以在某一类功法中继续修习。</content>
+    <content contentuid="he84d54b6g3bd0g4693g9cb3g148897371853" version="1">起始你可以在七大类功法中各选择一种进行修习：&lt;br&gt;医药：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_HuangDiNeiJing"&gt;黄帝内经&lt;/LSTag&gt;。&lt;br&gt;硬功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_JinGangBuHuaiShenGong"&gt;金刚不坏神功&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_DaJinGangShenLi"&gt;大金刚神力&lt;/LSTag&gt;。&lt;br&gt;软功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_MingMuGong"&gt;明目功&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_ShenJiBaiBian"&gt;神机百变&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_ZuoYouShouHuBoShu"&gt;左右手互搏术&lt;/LSTag&gt;。&lt;br&gt;轻功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_TiYunZong"&gt;梯云纵&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_YiWeiDuJiang"&gt;一苇渡江&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_LingBoWeiBu"&gt;凌波微步&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_FeiXuQingYanGong"&gt;飞絮轻烟功&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_GuiYingMiZongBu"&gt;鬼影迷踪&lt;/LSTag&gt;。&lt;br&gt;内功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_YiJinJing"&gt;易筋经&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_XiSuiJing"&gt;洗髓经&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_TianCanGong"&gt;天蚕功&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_BuSiYinFa"&gt;不死印法&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_ShenZhaoJing"&gt;神照经&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_TaiXuanJing"&gt;太玄经&lt;/LSTag&gt;。&lt;br&gt;外功：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_DuGuJiuJian"&gt;独孤九剑&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_WuXingQuan"&gt;五形拳&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_WuLeiTianXinJue"&gt;五雷天心诀&lt;/LSTag&gt;。&lt;br&gt;拆招：&lt;LSTag Type="Passive" Tooltip="Passive_KFC_TaiJiQuan"&gt;太极拳&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_DouZhuanXingYi"&gt;斗转星移&lt;/LSTag&gt;,&lt;LSTag Type="Passive" Tooltip="Passive_KFC_QianKunDaNuoYi"&gt;乾坤大挪移&lt;/LSTag&gt;。&lt;br&gt;升级后可以在某一类功法中继续修习。</content>
     <content contentuid="hbd34047cg9f09g43c6g8c47g590bb07f9d17" version="1">武功</content>
     <!-- 医药 -->
     <content contentuid="he0b71fabg1e50g442ag9a50g8fdc88999678" version="1">黄帝内经</content>
-    <content contentuid="h186b341fg82dfg4c47gb17dg158fbc28e04b" version="1">获得&lt;LSTag Type="Spell" Tooltip="Shout_KFC_Healing"&gt;灵枢&lt;/LSTag&gt;、素问和&lt;LSTag Tooltip="Medicine"&gt;医药&lt;/LSTag&gt;&lt;LSTag Tooltip="Proficiency"&gt;熟练项&lt;/LSTag&gt;。</content>
+    <content contentuid="h186b341fg82dfg4c47gb17dg158fbc28e04b" version="1">获得&lt;LSTag Type="Spell" Tooltip="Shout_KFC_Healing"&gt;灵枢&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Target_KFC_Bless"&gt;素问&lt;/LSTag&gt;和&lt;LSTag Tooltip="Medicine"&gt;医药&lt;/LSTag&gt;&lt;LSTag Tooltip="Proficiency"&gt;熟练项&lt;/LSTag&gt;。</content>
     <content contentuid="hafb61a6ag52b7g4ebeg8974g1a6024c33bf6" version="1">灵枢</content>
     <content contentuid="h2bb626a5gda28g4083ga18dgfae2718be3e5" version="1">治疗附近的盟友 [1]。</content>
+    <content contentuid="h02249039g1734g47fagb4c5gba2b3182dc94" version="1">素问</content>
+    <content contentuid="h966e2eedg0bedg4ac4g8403g14a40f4affaf" version="1">祝福至多[2]个生物，使其在进行&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;和&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;时获得一个+[1]的加值。</content>
+    <content contentuid="hcb004f27g7f0fg4271g8f9cg0c9ec79f01de" version="1">&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;和&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;获得一个+[1]的加值。</content>
+    <content contentuid="h008c531cg2dffg472dg937cgcb7d281cc0d6" version="1">受影响个体得到&lt;LSTag Type="Status" Tooltip="BLESS"&gt;祝福&lt;/LSTag&gt;，同时获得10点&lt;LSTag Tooltip="TemporaryHitPoints"&gt;临时生命值&lt;/LSTag&gt;。</content>
     <!-- 硬功 -->
     <content contentuid="he86e97a0gf404g49e6g9d48g9df39c696dbd" version="1">硬功</content>
     <content contentuid="h5588c27agf95fg466bgb44egd88a73a689ee" version="1">选择硬功进行修习。</content>
@@ -28,10 +32,10 @@
     <content contentuid="h97decd04g955cg49f4g9b3cg0a5dc50219a7" version="1">选择软功进行修习。</content>
     <content contentuid="h681edf83gb56cg4a83gac08gf735251f317d" version="1">明目功</content>
     <content contentuid="h8efb89f9g5e4cg4014g86c4g9b00343ce7e8" version="1">获得范围为[1]的&lt;LSTag Type="Passive" Tooltip="SuperiorDarkvision"&gt;黑暗视觉&lt;/LSTag&gt;。免疫&lt;LSTag Type="Status" Tooltip="BLINDED"&gt;目盲&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="CHARMED"&gt;魅惑&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;恐慌&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;受惊&lt;/LSTag&gt;。</content>
-    <content contentuid="hcf746165g6699g4ae3ga1f6gb11027870777" version="1">左右手互搏术</content>
-    <content contentuid="h38c8f50cg329dg440eg980dgc7fb37f8443c" version="1">熟练地掌握双武器战斗。&lt;br&gt;攻击后可以进行一次额外的免费攻击。</content>
     <content contentuid="hcfe443adg79efg4d38g9874g31381a17f8d8" version="1">神机百变</content>
     <content contentuid="h4b255013gd765g4f09g8f7fg10da16e0f520" version="1">将你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练项加值&lt;/LSTag&gt;添加到你不具备&lt;LSTag Tooltip="Proficiency"&gt;熟练项&lt;/LSTag&gt;的&lt;LSTag Tooltip="AbilityCheck"&gt;属性检定&lt;/LSTag&gt;上。获得&lt;LSTag Tooltip="Deception"&gt;欺瞒&lt;/LSTag&gt;、&lt;LSTag Tooltip="Intimidation"&gt;威吓&lt;/LSTag&gt;、&lt;LSTag Tooltip="Performance"&gt;表演&lt;/LSTag&gt;、&lt;LSTag Tooltip="Persuasion"&gt;游说&lt;/LSTag&gt;、&lt;LSTag Tooltip="SleightOfHand"&gt;巧手&lt;/LSTag&gt;&lt;LSTag Tooltip="Proficiency"&gt;&lt;LSTag Tooltip="Proficiency"&gt;熟练项&lt;/LSTag&gt;。获得&lt;LSTag Type="Spell" Tooltip="Shout_DisguiseSelf"&gt;伪装术&lt;/LSTag&gt;。</content>
+    <content contentuid="hcf746165g6699g4ae3ga1f6gb11027870777" version="1">左右手互搏术</content>
+    <content contentuid="h38c8f50cg329dg440eg980dgc7fb37f8443c" version="1">熟练地掌握双武器战斗。&lt;br&gt;攻击后可以进行一次额外的免费攻击。</content>
     <!-- 轻功 -->
     <content contentuid="h6a27bd83gbff9g449bgbd0bg7ab357df5e21" version="1">轻功</content>
     <content contentuid="he94a2dbfg4862g4eb0ga2dbg066ba04130a3" version="1">选择轻功进行修习。</content>
@@ -73,8 +77,10 @@
     <!-- 内功 -->
     <content contentuid="h6c9d2010gadaeg4d69g9a3dg9f8444fc22ad" version="1">内功</content>
     <content contentuid="hf74ad82dg5348g4b04gaedfga9f21f55f4e1" version="1">选择内功进行修习。</content>
-    <content contentuid="h7d8c4363g3d93g4153g9efcg501e96688a28" version="1">太玄经</content>
-    <content contentuid="ha3df34c0g92a9g484egbbc7g9ef0389d65f0" version="1">打出 &lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt; 或杀掉敌方生物时，&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt; 恢复到最大值。</content>
+    <content contentuid="h504750b7g4eb0g4e37g8762g3cbdcbb49db9" version="1">易筋经</content>
+    <content contentuid="h51b64495g6d3ag432cga145g1f7781cfc8e0" version="1">免疫&lt;LSTag Type="Status" Tooltip="POISONED"&gt;中毒&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="DISEASED"&gt;疾病&lt;/LSTag&gt;。获得&lt;LSTag Tooltip="Survival"&gt;求生&lt;/LSTag&gt;&lt;LSTag Tooltip="Proficiency"&gt;熟练项&lt;/LSTag&gt;。如果同时习得&lt;LSTag Type="Passive" Tooltip="Passive_KFC_XiSuiJing"&gt;洗髓经&lt;/LSTag&gt;，获得一个额外的动作。</content>
+    <content contentuid="hda2ef061g597dg4037g82b3g2b71b77d7cf8" version="1">洗髓经</content>
+    <content contentuid="h5ccafcfegbee3g4d12g8e9dg2eddb1f8f703" version="1">全属性+1。如果同时习得&lt;LSTag Type="Passive" Tooltip="Passive_KFC_YiJinJing"&gt;易筋经&lt;/LSTag&gt;，获得两个额外的附赠动作。</content>
     <content contentuid="h4590d42cg7a63g48b2gaed2g8b457fcd8fe5" version="1">天蚕功</content>
     <content contentuid="hdd847a96g0c2eg41e1ga736g00e7c38e1e5b" version="1">每次你受到伤害时，恢复 [1] 生命值。攻击者必须进行 &lt;LSTag Tooltip="DifficultyClass"&gt;难度等级&lt;/LSTag&gt; 为 [2] 的敏捷 &lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;，如果失败将陷入 &lt;LSTag Type="Status" Tooltip="ENSNARED_VINES"&gt;缠绕&lt;/LSTag&gt; 状态。</content>
     <content contentuid="heafd6140g8985g46e0g87a8g6c9e739a8523" version="1">不死印法</content>
@@ -83,9 +89,15 @@
     <content contentuid="h5ebbeae0g8fafg44dcgbb9bg484a66a95cef" version="1">获得 &lt;LSTag Type="Spell" Tooltip="Teleportation_KFC_Resurrection"&gt;神照经&lt;/LSTag&gt;。</content>
     <content contentuid="hf40603abge5c8g4953gb33ag79391ed5ec21" version="1">神照经</content>
     <content contentuid="h18802e06g429eg4e49g86cdg5c6a70b899a4" version="1">让一名同伴重生并恢复一半&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;。</content>
+    <content contentuid="h7d8c4363g3d93g4153g9efcg501e96688a28" version="1">太玄经</content>
+    <content contentuid="ha3df34c0g92a9g484egbbc7g9ef0389d65f0" version="1">打出 &lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt; 或杀掉敌方生物时，&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt; 恢复到最大值。</content>
     <!-- 外功 -->
     <content contentuid="hd52899f5g8e89g4414gb2cdg3255c4fc8336" version="1">外功</content>
     <content contentuid="h7e010da3g9923g4e80g8b25g6a0bacf39ac1" version="1">选择外功进行修习。</content>
+    <content contentuid="hb6f52e08g9db0g4443g8ac6gb8cdede34446" version="1">独孤九剑</content>
+    <content contentuid="hcbbd6375g06b0g4059g83e3g4068a4f42597" version="1">每升一级，获得一种以下伤害的抗性：劈砍、钝击、穿刺、力场、火焰、寒冷、闪电、雷鸣、心灵。</content>
+    <content contentuid="hcbbd6375g06b0g4059g83e3g4068a4f42597" version="1">五形拳</content>
+    <content contentuid="hac4e6518g6a0dg4ab5gb343g3ed689d67a61" version="1">可以在五种拟兽拳法中切换：虎、鳄、鹿、鹰、狼。获得&lt;LSTag Tooltip="AnimalHandling"&gt;驯兽&lt;/LSTag&gt;&lt;LSTag Tooltip="Proficiency"&gt;熟练项&lt;/LSTag&gt;。</content>
     <content contentuid="h8222880eg02b6g4811gb8d0g05b39677e240" version="1">五雷天心诀</content>
     <content contentuid="h6565d090ga0dag46e9gaf3bg41274d714f3f" version="1">千重霄远乾坤近，倚石来补帝王衿。临风把酒萧然泪，化雷难抚断剑心。&lt;br&gt;你的雷鸣、闪电和光耀伤害无视&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;和&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;，并可以使用&lt;LSTag Type="ActionResource" Tooltip="ChannelDivinity"&gt;引导神力&lt;/LSTag&gt;来造成最大伤害。获得&lt;LSTag Type="Spell" Tooltip="Shout_KFC_StaticOverdrive"&gt;神霄雷&lt;/LSTag&gt;、绛宫雷、水脏雷。</content>
     <content contentuid="h52fd5e84g81c5g4f2fga375g6f85c8051c8c" version="1">神霄雷</content>
@@ -112,11 +124,5 @@
     <content contentuid="h308cec68gda29g40e5gae76g5f53aa842295" version="1">获得两个额外&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;。获得乾坤大挪移。</content>
     <content contentuid="he57bf83egac0cg46dfga37ag7474c1550ff2" version="1">如果 [1] 范围内的敌人用来攻击你的法术等级低于或等于你的 &lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练项加值&lt;/LSTag&gt;，你可以使用 &lt;LSTag Tooltip="Reaction"&gt;反应&lt;/LSTag&gt; 动作使法术无效。</content>
     <!-- 备用 -->
-    <content contentuid="hb6f52e08g9db0g4443g8ac6gb8cdede34446" version="1">独孤九剑</content>
-    <content contentuid="hcbbd6375g06b0g4059g83e3g4068a4f42597" version="1">每升一级，获得一种以下伤害的抗性：劈砍、钝击、穿刺、力场、火焰、寒冷、闪电、雷鸣、心灵。</content>
-    <content contentuid="hcbbd6375g06b0g4059g83e3g4068a4f42597" version="1">五形拳</content>
-    <content contentuid="hac4e6518g6a0dg4ab5gb343g3ed689d67a61" version="1">可以在五种拟兽拳法中切换：虎、鳄、鹿、鹰、狼。获得&lt;LSTag Tooltip="AnimalHandling"&gt;驯兽&lt;/LSTag&gt;&lt;LSTag Tooltip="Proficiency"&gt;熟练项&lt;/LSTag&gt;。</content>
-    <content contentuid="h51b64495g6d3ag432cga145g1f7781cfc8e0" version="1">&lt;LSTag Type="Status" Tooltip="POISONED"&gt;中毒&lt;/LSTag&gt;</content>
-    <content contentuid="h008c531cg2dffg472dg937cgcb7d281cc0d6" version="1"></content>
     <content contentuid="" version="1"></content>
 </contentList>

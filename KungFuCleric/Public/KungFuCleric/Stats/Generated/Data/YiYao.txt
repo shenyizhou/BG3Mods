@@ -5,7 +5,7 @@ type "PassiveData"
 data "Icon" "Spell_Evocation_MassHealingWord"
 data "DisplayName" "he0b71fabg1e50g442ag9a50g8fdc88999678;1"
 data "Description" "h186b341fg82dfg4c47gb17dg158fbc28e04b;1"
-data "Boosts" "ProficiencyBonus(Skill,Medicine);UnlockSpell(Shout_KFC_Healing)"
+data "Boosts" "ProficiencyBonus(Skill,Medicine);UnlockSpell(Shout_KFC_Healing);UnlockSpell(Target_KFC_Bless)"
 
 // 灵枢
 new entry "Shout_KFC_Healing"
@@ -37,11 +37,11 @@ data "TargetEffect" "3c7b783e-d2ee-4125-9f94-0d48d44fe3e8"
 new entry "Target_KFC_Bless"
 type "SpellData"
 data "SpellType" "Target"
-// todo: fix
+// 祝福术
 data "Icon" "Spell_Enchantment_Bless"
-data "DisplayName" "h5e4879efge133g47eaga38bg2a15c73284f4;1" // todo: fix
-data "Description" "h4facc745g1ad3g47e1gb044g4a111e5526d7;1" // todo: fix
-data "DescriptionParams" "1d4;4" // todo: fix
+data "DisplayName" "h02249039g1734g47fagb4c5gba2b3182dc94;1"
+data "Description" "h966e2eedg0bedg4ac4g8403g14a40f4affaf;1"
+data "DescriptionParams" "1d4;4"
 data "TooltipUpcastDescription" "04cc3403-f67a-4747-b49e-a1802cc7a6ad"
 data "SpellProperties" "ApplyStatus(KFC_BLESS,100,10)"
 data "TooltipStatusApply" "ApplyStatus(KFC_BLESS,100,10)"
@@ -72,10 +72,10 @@ new entry "KFC_BLESS"
 data "StackId" "KFC_BLESS"
 type "StatusData"
 data "StatusType" "BOOST"
-// todo: fix
 data "Icon" "Spell_Enchantment_Bless"
-data "DisplayName" "h36db802fg5a60g4685gb019g2f52eba4df93;1" // todo: fix
-data "Description" "h4db6b7cbg61bag4ea5gbde2gd4325d5f9877;1" // todo: fix
+data "DisplayName" "h02249039g1734g47fagb4c5gba2b3182dc94;1"
+data "Description" "hcb004f27g7f0fg4271g8f9cg0c9ec79f01de;1"
+data "DescriptionParams" "1d4"
 data "SoundLoop" "Spell_Status_Buff_MO"
 data "Boosts" "RollBonus(Attack,1d4);RollBonus(RangedSpellAttack,1d4);RollBonus(MeleeSpellAttack,1d4);RollBonus(SavingThrow,1d4);RollBonus(DeathSavingThrow,1d4);Advantage(Concentration)"
 data "OnApplyFunctors" "ApplyStatus(KFC_TEMPHP,100,-1)"
@@ -87,11 +87,10 @@ data "ManagedStatusEffectGroup" "6435c10a-c67d-4f79-8813-b84b0762f92b"
 new entry "KFC_TEMPHP"
 type "StatusData"
 data "StatusType" "BOOST"
-// todo: fix
-data "Icon" "Skill_Fighter_Rally"
-data "DisplayName" "he56c601ag7f55g41a5ga973g0df96cacd3de;1" // todo: fix
-data "Description" "h4277d54agb8f1g4b5cg88c3gd415fd809ede;1" // todo: fix
-data "DescriptionParams" "GainTemporaryHitPoints(10)" // todo: fix
+data "Icon" "Spell_Enchantment_Bless"
+data "DisplayName" "h02249039g1734g47fagb4c5gba2b3182dc94;1"
+data "Description" "h008c531cg2dffg472dg937cgcb7d281cc0d6;1"
+data "DescriptionParams" "GainTemporaryHitPoints(10)"
 data "StackPriority" "10"
 data "Boosts" "TemporaryHP(10)"
 data "RemoveConditions" "not HasTemporaryHP()"

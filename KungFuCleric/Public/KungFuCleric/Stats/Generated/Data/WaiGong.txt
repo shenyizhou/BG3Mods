@@ -1,3 +1,23 @@
+// 独孤九剑
+new entry "Passive_KFC_DuGuJiuJian"
+type "PassiveData"
+// 多面手
+data "Icon" "PassiveFeature_JackOfAllTrades"
+data "DisplayName" "hb6f52e08g9db0g4443g8ac6gb8cdede34446;1"
+data "Description" "hcbbd6375g06b0g4059g83e3g4068a4f42597;1"
+data "Properties" "Highlighted"
+data "Boosts" "IF(IsLevelHigherThen(1)):Resistance(Piercing,Resistant);IF(IsLevelHigherThen(2)):Resistance(Bludgeoning,Resistant);IF(IsLevelHigherThen(3)):Resistance(Slashing,Resistant);IF(IsLevelHigherThen(4)):Resistance(Force,Resistant);IF(IsLevelHigherThen(5)):Resistance(Fire,Resistant);IF(IsLevelHigherThen(6)):Resistance(Cold,Resistant);IF(IsLevelHigherThen(7)):Resistance(Lightning,Resistant);IF(IsLevelHigherThen(8)):Resistance(Thunder,Resistant);IF(IsLevelHigherThen(9)):Resistance(Psychic,Resistant)"
+
+// 五形拳
+new entry "Passive_KFC_WuXingQuan"
+type "PassiveData"
+// 支配野兽
+data "Icon" "Spell_Enchantment_DominateBeast"
+data "DisplayName" "hcbbd6375g06b0g4059g83e3g4068a4f42597;1"
+data "Description" "hac4e6518g6a0dg4ab5gb343g3ed689d67a61;1"
+data "Properties" "Highlighted"
+data "Boosts" "ProficiencyBonus(Skill,AnimalHandling)"
+
 // 五雷天心诀
 new entry "Passive_KFC_WuLeiTianXinJue"
 type "PassiveData"

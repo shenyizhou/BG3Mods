@@ -11,7 +11,7 @@
                 </node>
                 <!-- 软功 -->
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Passive_KFC_MingMuGong,Passive_KFC_ZuoYouShouHuBoShu,Passive_KFC_ShenJiBaiBian"/>
+                    <attribute id="Passives" type="LSString" value="Passive_KFC_MingMuGong,Passive_KFC_ShenJiBaiBian,Passive_KFC_ZuoYouShouHuBoShu"/>
                     <attribute id="UUID" type="guid" value="d1a02545-223f-4b66-b822-eec3168fb322"/>
                 </node>
                 <!-- 轻功 -->
@@ -21,12 +21,12 @@
                 </node>
                 <!-- 内功 -->
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Passive_KFC_TaiXuanJing,Passive_KFC_TianCanGong,Passive_KFC_BuSiYinFa,Passive_KFC_ShenZhaoJing"/>
+                    <attribute id="Passives" type="LSString" value="Passive_KFC_YiJinJing,Passive_KFC_XiSuiJing,Passive_KFC_TianCanGong,Passive_KFC_BuSiYinFa,Passive_KFC_ShenZhaoJing,Passive_KFC_TaiXuanJing"/>
                     <attribute id="UUID" type="guid" value="01bef723-3a92-4640-811d-4c57df429712"/>
                 </node>
                 <!-- 外功 -->
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Passive_KFC_WuLeiTianXinJue"/>
+                    <attribute id="Passives" type="LSString" value="Passive_KFC_DuGuJiuJian,Passive_KFC_WuXingQuan,Passive_KFC_WuLeiTianXinJue"/>
                     <attribute id="UUID" type="guid" value="556ab3de-5af7-4e11-9b08-48764ae60b46"/>
                 </node>
                 <!-- 拆招 -->

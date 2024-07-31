@@ -1,12 +1,22 @@
-// 太玄经
-new entry "Passive_KFC_TaiXuanJing"
+// 易筋经
+new entry "Passive_KFC_YiJinJing"
 type "PassiveData"
-// 魔法抗性
-data "Icon" "PassiveFeature_Generic_Magical"
-data "DisplayName" "h7d8c4363g3d93g4153g9efcg501e96688a28;1"
-data "Description" "ha3df34c0g92a9g484egbbc7g9ef0389d65f0;1"
-data "StatsFunctorContext" "OnDamage"
-data "StatsFunctors" "IF(IsCritical() or IsKillingBlow()):RestoreResource(SELF,Movement,100%,0)"
+// 健壮
+data "Icon" "PassiveFeature_Tough"
+data "DisplayName" "h504750b7g4eb0g4e37g8762g3cbdcbb49db9;1"
+data "Description" "h51b64495g6d3ag432cga145g1f7781cfc8e0;1"
+data "Properties" "Highlighted"
+data "Boosts" "StatusImmunity(SG_Poisoned);StatusImmunity(SG_Disease);ProficiencyBonus(Skill,Survival);IF(HasPassive('Passive_KFC_XiSuiJing',context.Source)):ActionResource(ActionPoint,1,0)"
+
+// 洗髓经
+new entry "Passive_KFC_XiSuiJing"
+type "PassiveData"
+// 自然防护
+data "Icon" "PassiveFeature_NaturesWard"
+data "DisplayName" "hda2ef061g597dg4037g82b3g2b71b77d7cf8;1"
+data "Description" "h5ccafcfegbee3g4d12g8e9dg2eddb1f8f703;1"
+data "Properties" "Highlighted"
+data "Boosts" "Ability(Strength,1,99);Ability(Dexterity,1,99);Ability(Constitution,1,99);Ability(Intelligence,1,99);Ability(Wisdom,1,99);Ability(Charisma,1,99);IF(HasPassive('Passive_KFC_YiJinJing',context.Source)):ActionResource(BonusActionPoint,2,0)"
 
 // 天蚕功
 new entry "Passive_KFC_TianCanGong"
@@ -78,12 +88,12 @@ data "DisappearEffect" "7d410cdd-7de8-49ae-b232-5ca6a04b5220"
 data "SpellSoundMagnitude" "Big"
 data "Sheathing" "Sheathed"
 
-// 易筋经
-new entry "Passive_KFC_YiJinJing"
+// 太玄经
+new entry "Passive_KFC_TaiXuanJing"
 type "PassiveData"
-// todo: fix
-data "Icon" ""
-data "DisplayName" ";1" // todo: fix
-data "Description" ";1" // todo: fix
-data "Properties" "Highlighted"
-data "Boosts" "StatusImmunity(SG_Poisoned)"
+// 魔法抗性
+data "Icon" "PassiveFeature_Generic_Magical"
+data "DisplayName" "h7d8c4363g3d93g4153g9efcg501e96688a28;1"
+data "Description" "ha3df34c0g92a9g484egbbc7g9ef0389d65f0;1"
+data "StatsFunctorContext" "OnDamage"
+data "StatsFunctors" "IF(IsCritical() or IsKillingBlow()):RestoreResource(SELF,Movement,100%,0)"
