@@ -11,11 +11,11 @@ data "StatsFunctors" "IF(IsCritical() or IsKillingBlow()):RestoreResource(SELF,M
 // 天蚕功
 new entry "Passive_KFC_TianCanGong"
 type "PassiveData"
+// 免疫缠绕
+data "Icon" "Spell_Conjuration_Web"
 data "DisplayName" "h4590d42cg7a63g48b2gaed2g8b457fcd8fe5;1"
 data "Description" "hdd847a96g0c2eg41e1ga736g00e7c38e1e5b;1"
 data "DescriptionParams" "max(1,Level*ConstitutionModifier);17"
-// 免疫缠绕
-data "Icon" "Spell_Conjuration_Web"
 data "Properties" "Highlighted"
 data "StatsFunctorContext" "OnDamaged"
 data "StatsFunctors" "RegainHitPoints(SELF,max(1,Level*ConstitutionModifier));IF(not SavingThrow(Ability.Dexterity,17,false,false,context.Source)):ApplyStatus(SWAP,ENSNARED_VINES,100,1)"
@@ -23,11 +23,11 @@ data "StatsFunctors" "RegainHitPoints(SELF,max(1,Level*ConstitutionModifier));IF
 // 不死印法
 new entry "Passive_KFC_BuSiYinFa"
 type "PassiveData"
+// 不死生物
+data "Icon" "GenericIcon_DamageType_Necrotic"
 data "DisplayName" "heafd6140g8985g46e0g87a8g6c9e739a8523;1"
 data "Description" "hfe9f531bg760fg475dgab51g2a71f294c35d;1"
 data "DescriptionParams" "1"
-// 不死生物
-data "Icon" "GenericIcon_DamageType_Necrotic"
 data "Properties" "Highlighted"
 data "Boosts" "IF(Player() and not Tagged('DOWNED_DISABLED')):DownedStatus(HAG_DOWNED,1)"
 data "StatsFunctorContext" "OnTurn"
@@ -37,16 +37,21 @@ data "StatsFunctors" "RegainHitPoints(1)"
 // 神照经
 new entry "Passive_KFC_ShenZhaoJing"
 type "PassiveData"
-data "DisplayName" "hfd0aa887g3748g4a84gb58dg5fb17d797a3e;1"
-data "Description" "h5ebbeae0g8fafg44dcgbb9bg484a66a95cef;1"
 // 回生术
 data "Icon" "Spell_Necromancy_Revivify"
+data "DisplayName" "hfd0aa887g3748g4a84gb58dg5fb17d797a3e;1"
+data "Description" "h5ebbeae0g8fafg44dcgbb9bg484a66a95cef;1"
 data "Properties" "Highlighted"
-data "Boosts" "UnlockSpell(KFC_Teleportation_Resurrection)"
+data "Boosts" "UnlockSpell(Teleportation_KFC_Resurrection)"
 
-new entry "KFC_Teleportation_Resurrection"
+new entry "Teleportation_KFC_Resurrection"
 type "SpellData"
 data "SpellType" "Teleportation"
+// 回生术
+data "Icon" "Spell_Necromancy_Revivify"
+data "DisplayName" "hf40603abge5c8g4953gb33ag79391ed5ec21;1"
+data "Description" "h18802e06g429eg4e49g86cdg5c6a70b899a4;1"
+data "TooltipUpcastDescription" "6ff1780a-855a-414c-a8bf-811251537206"
 data "TargetRadius" "18"
 data "AreaRadius" "18"
 data "LineOfSightFlags" "AddSourceHeight"
@@ -57,11 +62,6 @@ data "OriginSpellProperties" "RegainHitPoints(50);Resurrect(100,50);RestoreResou
 data "OriginTargetConditions" "not Tagged('BLOCK_RESURRECTION') and not Self() and not Item() and (Dead() or IsDowned() or HasStatus('PETRIFIED')) and Tagged('PLAYABLE')"
 data "TeleportSelf" "No"
 data "TeleportSurface" "No"
-// 回生术
-data "Icon" "Spell_Necromancy_Revivify"
-data "DisplayName" "hf40603abge5c8g4953gb33ag79391ed5ec21;1"
-data "Description" "h18802e06g429eg4e49g86cdg5c6a70b899a4;1"
-data "TooltipUpcastDescription" "6ff1780a-855a-414c-a8bf-811251537206"
 data "PreviewCursor" "Cast"
 data "CastTextEvent" "Cast"
 data "CycleConditions" "not Tagged('BLOCK_RESURRECTION') and not Self() and not Item() and Dead() and Player()"
@@ -77,3 +77,13 @@ data "CastEffect" "ab2e7fd5-7785-41ba-84b0-5d0c0b115757"
 data "DisappearEffect" "7d410cdd-7de8-49ae-b232-5ca6a04b5220"
 data "SpellSoundMagnitude" "Big"
 data "Sheathing" "Sheathed"
+
+// 易筋经
+new entry "Passive_KFC_YiJinJing"
+type "PassiveData"
+// todo: fix
+data "Icon" ""
+data "DisplayName" ";1" // todo: fix
+data "Description" ";1" // todo: fix
+data "Properties" "Highlighted"
+data "Boosts" "StatusImmunity(SG_Poisoned)"

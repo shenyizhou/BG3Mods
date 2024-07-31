@@ -16,7 +16,7 @@
 // StatusImmunity(SG_Frightened); // 包括魅影杀手
 // StatusImmunity(SG_Paralyzed); // 包括怪物定身术
 // StatusImmunity(SG_Charmed); // 包括奥图迷舞
-// StatusImmunity(SG_Incapacitated); // 包括怪物定身术
+// StatusImmunity(SG_Incapacitated); // 包括怪物定身术、石化
 // StatusImmunity(SG_Invisible);
 
 // 劣势地形相关：蛛网、淤泥、藤蔓、植物滋长、岩浆、深水
