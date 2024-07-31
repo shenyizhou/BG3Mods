@@ -51,7 +51,7 @@
 					<attribute id="Name" type="LSString" value="KungFuCleric" />
 					<attribute id="ProgressionType" type="uint8" value="1" />
 					<attribute id="PassivesAdded" type="LSString" value="Passive_KFC_HuangDiNeiJing" />
-					<attribute id="Selectors" type="LSString" value="SelectPassives(5457b361-7306-469d-9032-6f2760a629e3,2,YingGong);SelectPassives(d1a02545-223f-4b66-b822-eec3168fb322,3,RuanGong);SelectPassives(d9eff3c2-0fa4-4022-9ce3-d684c6d3fa29,5,QingGong);SelectPassives(01bef723-3a92-4640-811d-4c57df429712,6,NeiGong);SelectPassives(556ab3de-5af7-4e11-9b08-48764ae60b46,3,WaiGong);SelectPassives(20aff608-ecf9-422f-85ee-6be3e36d9d8c,3,ChaiZhao);AddSpells(bc60b1ba-b922-44c8-90b1-d8e918d6415b,KungFuClericSpells,,,AlwaysPrepared)" />
+					<attribute id="Selectors" type="LSString" value="SelectPassives(dca4dcd7-e577-49ba-851e-600c1fbae470,1,YiYao);;SelectPassives(5457b361-7306-469d-9032-6f2760a629e3,2,YingGong);SelectPassives(d1a02545-223f-4b66-b822-eec3168fb322,3,RuanGong);SelectPassives(d9eff3c2-0fa4-4022-9ce3-d684c6d3fa29,5,QingGong);SelectPassives(01bef723-3a92-4640-811d-4c57df429712,6,NeiGong);SelectPassives(556ab3de-5af7-4e11-9b08-48764ae60b46,3,WaiGong);SelectPassives(20aff608-ecf9-422f-85ee-6be3e36d9d8c,3,ChaiZhao);AddSpells(bc60b1ba-b922-44c8-90b1-d8e918d6415b,KungFuClericSpells,,,AlwaysPrepared)" />
 					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
 					<attribute id="UUID" type="guid" value="30cbcb19-25ff-488c-aa42-a81e519411a3" />
 				</node>

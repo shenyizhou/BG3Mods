@@ -4,6 +4,11 @@
     <region id="PassiveLists">
         <node id="root">
             <children>
+                <!-- 医药 -->
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="Passive_KFC_HuangDiNeiJing"/>
+                    <attribute id="UUID" type="guid" value="dca4dcd7-e577-49ba-851e-600c1fbae470"/>
+                </node>
                 <!-- 硬功 -->
                 <node id="PassiveList">
                     <attribute id="Passives" type="LSString" value="Passive_KFC_JinGangBuHuaiShenGong,Passive_KFC_DaJinGangShenLi"/>
