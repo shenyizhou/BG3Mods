@@ -31,13 +31,18 @@
                 </node>
                 <!-- 外功 -->
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Passive_KFC_DuGuJiuJian,Passive_KFC_WuXingQuan,Passive_KFC_WuLeiTianXinJue"/>
+                    <attribute id="Passives" type="LSString" value="Passive_KFC_WuLeiTianXinJue"/>
                     <attribute id="UUID" type="guid" value="556ab3de-5af7-4e11-9b08-48764ae60b46"/>
                 </node>
                 <!-- 拆招 -->
                 <node id="PassiveList">
                     <attribute id="Passives" type="LSString" value="Passive_KFC_TaiJiQuan,Passive_KFC_DouZhuanXingYi,Passive_KFC_QianKunDaNuoYi"/>
                     <attribute id="UUID" type="guid" value="20aff608-ecf9-422f-85ee-6be3e36d9d8c"/>
+                </node>
+                <!-- 独孤九剑 -->
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value=""/>
+                    <attribute id="UUID" type="guid" value="Passive_KFC_Immune_Force;Passive_KFC_Immune_Slashing;Passive_KFC_Immune_Fire;Passive_KFC_Immune_Cold;Passive_KFC_Immune_Lightning;Passive_KFC_Immune_Thunder;Passive_KFC_Immune_Bludgeoning;Passive_KFC_Immune_Piercing;Passive_KFC_Immune_Psychic"/>
                 </node>
             </children>
         </node>

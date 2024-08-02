@@ -61,7 +61,7 @@ data "Description" "hf635c638g7c69g4197gbe5cg6e9d011c993f;1"
 data "Properties" "Highlighted"
 data "Boosts" "StatusImmunity(SG_Prone);StatusImmunity(SG_Paralyzed);StatusImmunity(SG_Unconscious);StatusImmunity(SHOCKWAVE);StatusImmunity(SG_Stunned);StatusImmunity(SG_Incapacitated);Attribute(Grounded);CriticalHit(AttackTarget,Success,Never);Advantage(Ability,Dexterity);Advantage(SavingThrow,Dexterity);AreaDamageEvade()"
 data "StatsFunctorContext" "OnAttacked"
-data "Conditions" "not HasStatus('KFC_BLUR')"
+data "Conditions" "not HasStatus('KFC_BLUR',context.Target)"
 data "StatsFunctors" "ApplyStatus(SELF,KFC_BLUR,100,1)"
 
 new entry "KFC_BLUR"
