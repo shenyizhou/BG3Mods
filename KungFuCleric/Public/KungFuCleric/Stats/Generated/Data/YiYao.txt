@@ -5,7 +5,7 @@ type "PassiveData"
 data "Icon" "Spell_Evocation_MassHealingWord"
 data "DisplayName" "he0b71fabg1e50g442ag9a50g8fdc88999678;1"
 data "Description" "h186b341fg82dfg4c47gb17dg158fbc28e04b;1"
-data "Boosts" "ProficiencyBonus(Skill,Medicine);UnlockSpell(Shout_KFC_Healing);UnlockSpell(Target_KFC_Bless)"
+data "Boosts" "UnlockSpell(Shout_KFC_Healing);UnlockSpell(Target_KFC_Bless)"
 
 // 灵枢
 new entry "Shout_KFC_Healing"

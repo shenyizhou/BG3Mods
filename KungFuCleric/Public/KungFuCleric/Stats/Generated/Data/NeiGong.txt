@@ -6,7 +6,7 @@ data "Icon" "PassiveFeature_Tough"
 data "DisplayName" "h504750b7g4eb0g4e37g8762g3cbdcbb49db9;1"
 data "Description" "h51b64495g6d3ag432cga145g1f7781cfc8e0;1"
 data "Properties" "Highlighted"
-data "Boosts" "StatusImmunity(SG_Disease);StatusImmunity(SG_Poisoned);Resistance(Poison,Immune);ProficiencyBonus(Skill,Survival);IF(HasPassive('Passive_KFC_XiSuiJing',context.Source)):ActionResource(ActionPoint,1,0)"
+data "Boosts" "StatusImmunity(SG_Disease);StatusImmunity(SG_Cursed);StatusImmunity(ASTARION_WEAK);StatusImmunity(SG_Poisoned);Resistance(Poison,Immune);ProficiencyBonus(Skill,Survival);IF(HasPassive('Passive_KFC_XiSuiJing',context.Source)):ActionResource(ActionPoint,1,0)"
 
 // 洗髓经
 new entry "Passive_KFC_XiSuiJing"
