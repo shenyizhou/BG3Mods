@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="FeatDescriptions">
+        <node id="root">
+            <children>
+				<node id="FeatDescription">
+                    <attribute id="DisplayName" type="TranslatedString" handle="he442ad9ag0546g4b3bga8a0g569f0e5ae372" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="hd12381c9gab97g41aagbf5dg853ebc476087" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="CrushingKnowledge"/>
+                    <attribute id="FeatId" type="guid" value="6219603f-7110-42e6-97a0-3881212808ca"/>
+                    <attribute id="UUID" type="guid" value="5c0d583a-8c48-46e9-9351-3aaf653c7105"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0d2c37a3gb672g41f1gad62g039712cbfa17" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="h6c56346fg5c88g436dg986ag918b2a78f2c9" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ExpertEducation"/>
+                    <attribute id="FeatId" type="guid" value="2860e950-8c45-49fb-8845-e47bd966e731"/>
+                    <attribute id="UUID" type="guid" value="944335d5-b3b8-481e-bcae-8b7146f64192"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hfd896764ge9b3g4fb2g8753g5267d7214f66" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="h79132386gb220g42c4g8c13g30296100487c" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="LightArmorMaster"/>
+                    <attribute id="FeatId" type="guid" value="da681f34-8b09-440e-9738-cf5a5dee2ba5"/>
+                    <attribute id="UUID" type="guid" value="8acf25ec-a972-41a9-8c83-7118828fa09c"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h425c92dbg5ed0g4a22g8d6fg97bd8deb8e9d" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="hc81d8adfg7a8fg453agb03dg7e3f88627af4" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="MasterOfDisguise"/>
+                    <attribute id="FeatId" type="guid" value="42ad7a0b-22d0-48e8-95a6-06192b747ba7"/>
+                    <attribute id="UUID" type="guid" value="6fa36373-7060-4cc1-858e-5ab05707a9f6"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6fd95007g6911g4db8g89dfg546cf5076ca3" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="hccbae23cgee44g4db8gb63fged62c267ef1e" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="NakedFighting"/>
+                    <attribute id="FeatId" type="guid" value="bda26dd8-4518-4adc-86af-f7a9a03a2d87"/>
+                    <attribute id="UUID" type="guid" value="684225ed-c623-420c-87a8-069c3758f704"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4b9b867eg06a7g4a52g81c8ga64e092d7c7b" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="h35c87df5g5399g48a7ga908g52e78e95c3c3" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="PiercingPrescience"/>
+                    <attribute id="FeatId" type="guid" value="57c170a3-5945-4470-bd43-7675866586e9"/>
+                    <attribute id="UUID" type="guid" value="b57b70e6-d0f9-43cd-a847-76cd0f0be6ec"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1a9b6833gdc0eg4566g8ffdg5876736b0a40" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="he5e94a74g2f21g476bg88eeg31d963402a7d" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ShadowInfused"/>
+                    <attribute id="FeatId" type="guid" value="35dfaf48-34ce-4c58-81a2-87d1694186a1"/>
+                    <attribute id="UUID" type="guid" value="1b6b7458-1af9-409d-a934-b9ccc520a481"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h38f62fd0g4834g40fcgb74dg130eff39ccf7" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="h27dc34ceg54d0g42a0ga18fg8f7004318bd0" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="VerySharpShooter"/>
+                    <attribute id="FeatId" type="guid" value="117791ea-f590-419e-962d-1109c3ea536d"/>
+                    <attribute id="UUID" type="guid" value="150e4874-16fd-45a6-959d-8afc281c796f"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h84cfd3cbgfc44g44e3gb672g657a327ca0ed" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="h5da61552gd515g42fdgbd98g3ed130e6b564" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Stabber"/>
+                    <attribute id="FeatId" type="guid" value="d8db8a37-53c2-48fa-9e96-2a28726f6b7f"/>
+                    <attribute id="UUID" type="guid" value="a31c8e67-d0c0-4a1b-844b-2a7efe4974ad"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4934a2b4g75a6g4c12g809cg0ea3c7b6af96" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="h5ac25536gdec2g4046g8fd3g497e9e46fd9a" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="SlashingSuaveness"/>
+                    <attribute id="FeatId" type="guid" value="4ebe1fa6-9b86-4489-9a1e-d292f0a39abf"/>
+                    <attribute id="UUID" type="guid" value="31db7a82-a1de-4f82-a340-4a0716805b64"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha7700599g0ba9g4039g902dg9ada3a56ea37" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="hff67c4d7gd76fg4dd3g9eceg082db69edec8" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="SpellFocusMastery"/>
+                    <attribute id="FeatId" type="guid" value="9dd96863-3f48-4fdf-a309-6d4f587d2dd3"/>
+                    <attribute id="UUID" type="guid" value="817e5bdb-71e5-43f6-a1a0-7016f7ec4e56"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h307a9c80g8659g435egaa98g359f7aa668a8" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="h626d897egd8deg4d7agbb4eg5b9efd8afb36" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="SuperiorBlindsight"/>
+                    <attribute id="FeatId" type="guid" value="8c178d37-4850-4b39-ae8c-8625168a9939"/>
+                    <attribute id="UUID" type="guid" value="2cce523c-b42f-4f2c-8b27-ce97d20730cb"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hde8a049bgb1d7g4d56ga1a0g40ec101c7f5f" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="h87c99656ge9a0g4aceg9921g6998addc1597" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="WarMagicMastery"/>
+                    <attribute id="FeatId" type="guid" value="0a9fd213-1473-47e6-a9be-9d16c93f3386"/>
+                    <attribute id="UUID" type="guid" value="9e6658dc-7266-4ee1-bd85-9fafba8b9505"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="fe9592af-1b2a-4048-a8b5-204216a14a00" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="c74caa78-10bb-483b-b4e8-047060105a9a" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Sailor_Arcanist"/>
+                    <attribute id="FeatId" type="guid" value="e8b5c466-8109-45ca-b955-dc2969f62fa4"/>
+                    <attribute id="UUID" type="guid" value="150d9681-9f50-458e-8832-fce53aec78a2"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="5fea8060c9b54efda13e38216ce76655" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="5fea8060c9b54efda13e38216ce76654" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="DragonHide"/>
+                    <attribute id="FeatId" type="guid" value="ebf69e0c-9a32-4a16-9b7a-1f2b0036d15d"/>
+                    <attribute id="UUID" type="guid" value="81678696-7a0c-4992-afb5-1a712bdc9a0a"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hg65c268ag49b0g48cbgaf37g76cec2369e9e" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hg64c268ag49b0g48cbgaf37g76cec2369e9e" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="EldritchAdept"/>
+                    <attribute id="FeatId" type="guid" value="08a88b82-3e78-4189-8996-15dcaaa676e3"/>
+                    <attribute id="UUID" type="guid" value="6f94b81d-5e32-4580-9553-0b9a2760fa79"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hff81d1fdg0b49g4e93gb796g9f68623b7744" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hff81d1fdg0b49g4e93gb796g9f68623b7743" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ElvenAccuracy"/>
+                    <attribute id="FeatId" type="guid" value="daf81082-ce05-4835-b8a0-5e60b2f027e3"/>
+                    <attribute id="UUID" type="guid" value="6ef5f881-3ca4-4c61-8afc-6c9a040ebf18"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hff81d1fdg0b49g4e93gb796g9f68623b7754" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hff81d1fdg0b49g4e93gb796g9f68623b7753" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="InfernalConstitution"/>
+                    <attribute id="FeatId" type="guid" value="168923b1-75a0-46dd-b6a8-bf44736e3ec8"/>
+                    <attribute id="UUID" type="guid" value="47c9316c-88c7-46b4-9bb2-f3bb860d2b10"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hb7cdfa17g2c06g4149g958dg0a886658a3b9" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0111754eg8648g431fg89f4g78cf75db7e08" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="DwarvenFortitude"/>
+                    <attribute id="FeatId" type="guid" value="fa386a9d-962b-4d73-af04-660377fa0e0c"/>
+                    <attribute id="UUID" type="guid" value="a2a3986e-c2e3-4869-a22f-dc4bc176fb7b"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hff81d1fdg0b49g4e93gb796g9f68623b7765" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hff81d1fdg0b49g4e93gb796g9f68623b7764" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="SquatNimbleness"/>
+                    <attribute id="FeatId" type="guid" value="c3810995-3bb1-429e-9411-fa2bc9426518"/>
+                    <attribute id="UUID" type="guid" value="c3c92e78-924c-47ce-9ed1-f2cfebc1edc0"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hff81d1fdg0b49g4e93gb796g9f68623b7767" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hff81d1fdg0b49g4e93gb796g9f68623b7766" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="EverybodysFriend"/>
+                    <attribute id="FeatId" type="guid" value="5a726c22-5bc8-442f-b161-7f1b338879ff"/>
+                    <attribute id="UUID" type="guid" value="ebea7b8c-85f2-495e-8b2b-74eba66492a6"/>
+				</node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hff81d1fdg0b49g4e93gb796g9f68623b7763" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hff81d1fdg0b49g4e93gb796g9f68623b7762" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="FlamesOfPhlegethos"/>
+                    <attribute id="FeatId" type="guid" value="e0457947-44b7-4316-b700-d1a69a10ced7"/>
+                    <attribute id="UUID" type="guid" value="9a9d9e0a-c4db-4225-8a05-f4c9e0586fdf"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hg99e268ag49b0g48cbgaf37g76cec2369e9e" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hg99d268ag49b0g48cbgaf37g76cec2369e9e" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Observant"/>
+                    <attribute id="FeatId" type="guid" value="c097f2eb-53ba-422d-bf4a-de2b798f3662"/>
+                    <attribute id="UUID" type="guid" value="79f6400f-ad72-4e06-b548-6c61aa651c0a"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h66b60f34g99ebg476eg93f7g217b7ef0303a" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h65b60f34g99ebg476eg93f7g217b7ef0303a" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Piercer"/>
+                    <attribute id="FeatId" type="guid" value="a3b6cce9-c97d-41d1-bf02-8e31218bdfdd"/>
+                    <attribute id="UUID" type="guid" value="ebb10ec3-20b9-4408-9642-cc3cf3c923dd"/>
+                 </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hff81d1fdg0b49g4e93gb796g9f68623b7777" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hff81d1fdg0b49g4e93gb796g9f68623b7776" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Poisoner"/>
+                    <attribute id="FeatId" type="guid" value="c234d4e4-ec51-4f0a-a130-891434ca7be3"/>
+                    <attribute id="UUID" type="guid" value="af9c4a48-bee6-4f82-9391-d78809bd7201"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h3d607cc2g0131g477cgbd6bg89eb004a3641" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3d607cc2g0131g477cgbd6bg89eb004a3640" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="SkillExpert"/>
+                    <attribute id="FeatId" type="guid" value="d10c01e5-50f9-4ffa-b20d-ffbfb89ab554"/>
+                    <attribute id="UUID" type="guid" value="317e396f-4bfb-4b60-ab64-732939783d53"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hg69c268ag49b0g48cbgaf37g76cec2369e9e" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hg68c268ag49b0g48cbgaf37g76cec2369e9e" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Skulker"/>
+                    <attribute id="FeatId" type="guid" value="2a7931b5-670e-40f0-aad8-77a4655ac80b"/>
+                    <attribute id="UUID" type="guid" value="923a19a2-0b8d-4509-9f8a-5946a045a29b"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="5fea8060-c9b5-4efd-a13e-38216ce76657" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="5fea8060-c9b5-4efd-a13e-38216ce76656" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="WoodElfMagic"/>
+                    <attribute id="FeatId" type="guid" value="09859f63-ad8e-4950-9f07-ad8e81ed91b7"/>
+                    <attribute id="UUID" type="guid" value="a05b1f15-28b2-4cc6-8e76-8100f6587c90"/>
+                </node>
+				<node id="FeatDescription"><!-- MORE FEATS-->
+                    <attribute id="Description" type="TranslatedString" handle="111cf2a199684222be14deeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="067327b8eee9416199efdeeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Crusher"/>
+                    <attribute id="FeatId" type="guid" value="1df5999a-c79c-4a79-bd3b-deeeeeeeeeee"/>
+                    <attribute id="UUID" type="guid" value="067327b8-eee9-4161-99ef-deeeeeeeeeee"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="3033276959c341e59d57deeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="71c9b858606f459e8c9bdeeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="EldritchAdept"/>
+                    <attribute id="FeatId" type="guid" value="052697ea-fe90-471d-bb77-deeeeeeeeeee"/>
+                    <attribute id="UUID" type="guid" value="8f89c99a-bd21-4b26-972d-deeeeeeeeeee"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="36634b055190488cae71deeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="43c1b148bf6b46e7bc32deeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="FeyTouchedCharisma"/>
+                    <attribute id="FeatId" type="guid" value="238f34d2-1a64-4c6a-b1cd-deeeeeeeeeee"/>
+                    <attribute id="UUID" type="guid" value="2a75ec12-9dc9-4e3a-bb6a-deeeeeeeeeee"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="36634b055190488cae71deeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="4a1673a9b4bd410b9a36deeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="FeyTouchedIntelligence"/>
+                    <attribute id="FeatId" type="guid" value="d9eb113a-2fd9-43eb-bec1-deeeeeeeeeee"/>
+                    <attribute id="UUID" type="guid" value="6090d1cf-d761-4551-95a9-deeeeeeeeeee"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="36634b055190488cae71deeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="c40263500d4a45dc8a2bdeeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="FeyTouchedWisdom"/>
+                    <attribute id="FeatId" type="guid" value="39789464-3610-4bde-89de-deeeeeeeeeee"/>
+                    <attribute id="UUID" type="guid" value="f7e32db3-a748-4bcc-a3c3-deeeeeeeeeee"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="182ca10953964f4aa71edeeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="7db5288aa5f342c088cbdeeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="FightingInitiate"/>
+                    <attribute id="FeatId" type="guid" value="a8e9048b-16fe-4396-922a-deeeeeeeeeee"/>
+                    <attribute id="UUID" type="guid" value="7db5288a-a5f3-42c0-88cb-deeeeeeeeeee"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="FeatDescriptions_GiftoftheChromaticDragon_Description" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="FeatDescriptions_GiftoftheChromaticDragon_DisplayName" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="GiftoftheChromaticDragon"/>
+                    <attribute id="FeatId" type="guid" value="77ea5d97-ae79-47b3-bae4-deeeeeeeeeee"/>
+                    <attribute id="UUID" type="guid" value="fec7c805-dd77-49e1-8e9c-deeeeeeeeeee"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="cae0f47c0f5c49f68e91deeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="6f1f46a7df5a42e38bb4deeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Healer"/>
+                    <attribute id="FeatId" type="guid" value="378364ca-aa2c-4be0-ac26-deeeeeeeeeee"/>
+                    <attribute id="UUID" type="guid" value="6f1f46a7-df5a-42e3-8bb4-deeeeeeeeeee"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="df6e220690be428c8c9fdeeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ffe76208b5f14fac83c5deeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="InspiringLeader"/>
+                    <attribute id="FeatId" type="guid" value="d994e15a-5013-44e9-89e5-deeeeeeeeeee"/>
+                    <attribute id="UUID" type="guid" value="ffe76208-b5f1-4fac-83c5-deeeeeeeeeee"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="6ab66eb3364442bea764deeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="e0f4007618ac4548ba91deeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="MetamagicAdept"/>
+                    <attribute id="FeatId" type="guid" value="6a695d23-6f97-488e-aa3b-deeeeeeeeeee"/>
+                    <attribute id="UUID" type="guid" value="c2613a7d-a08b-4a89-943d-deeeeeeeeeee"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="d9a899c2f26a46afb78ddeeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="c2ec5b7dbdf84782b9e3deeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Resilient"/>
+                    <attribute id="FeatId" type="guid" value="5842e189-88e9-49cc-8996-deeeeeeeeeee"/>
+                    <attribute id="UUID" type="guid" value="c2ec5b7d-bdf8-4782-b9e3-deeeeeeeeeee"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="47768ac99c854d1f8085deeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="db701f08f8af44319470deeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="RitualCasterBard"/>
+                    <attribute id="FeatId" type="guid" value="9282e60a-912a-4fbc-b93a-deeeeeeeeeee"/>
+                    <attribute id="UUID" type="guid" value="c09a0778-cf6d-4126-96da-deeeeeeeeeee"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="47768ac99c854d1f8085deeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="eb6321dcd57c4253b0dedeeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="RitualCasterCleric"/>
+                    <attribute id="FeatId" type="guid" value="8f05fa83-a6b8-45b0-8ff5-deeeeeeeeeee"/>
+                    <attribute id="UUID" type="guid" value="19681957-adaa-4feb-b813-deeeeeeeeeee"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="47768ac99c854d1f8085deeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="518244de5c9f4cf78a8bdeeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="RitualCasterWizard"/>
+                    <attribute id="FeatId" type="guid" value="a9a3e47c-3921-4aae-ae3a-deeeeeeeeeee"/>
+                    <attribute id="UUID" type="guid" value="5670e7db-cbe0-4135-8802-deeeeeeeeeee"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="c5c2623271b5484dbf7edeeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="0934d878c3f846b1aa7fdeeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Sentinel"/>
+                    <attribute id="FeatId" type="guid" value="154c7481-fe51-4996-8004-deeeeeeeeeee"/>
+                    <attribute id="UUID" type="guid" value="e8da9b19-f431-46c1-ae53-deeeeeeeeeee"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="70d4ea406d9f4969a62fdeeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="3d8e0883bf6447b0b43edeeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ShadowTouchedCharisma"/>
+                    <attribute id="FeatId" type="guid" value="6b15b246-be6d-44bb-8fac-deeeeeeeeeee"/>
+                    <attribute id="UUID" type="guid" value="0696e969-bf2f-4bac-93c6-deeeeeeeeeee"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="70d4ea406d9f4969a62fdeeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ecb90f47ea794594b8d2deeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ShadowTouchedIntelligence"/>
+                    <attribute id="FeatId" type="guid" value="98b8e66d-6e16-4510-b17c-deeeeeeeeeee"/>
+                    <attribute id="UUID" type="guid" value="d22c3204-84a6-4d01-9ad5-deeeeeeeeeee"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="70d4ea406d9f4969a62fdeeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="06d7fd92ea144aa6aff2deeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ShadowTouchedWisdom"/>
+                    <attribute id="FeatId" type="guid" value="012c1fe6-0e07-4c6f-9146-deeeeeeeeeee"/>
+                    <attribute id="UUID" type="guid" value="e26534fe-2c6c-4df1-8a56-deeeeeeeeeee"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="c96404926f204f97869fdeeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="73f4c0a36dea4bed87d1deeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Slasher"/>
+                    <attribute id="FeatId" type="guid" value="c309d368-24d0-430b-a7a9-deeeeeeeeeee"/>
+                    <attribute id="UUID" type="guid" value="5c96f9e6-5d50-4091-aca9-deeeeeeeeeee"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="3e1ca57071e9485783d6deeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="68e2e4d0a7604becbe56deeeeeeeeeeeeeeee" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Telekinetic"/>
+                    <attribute id="FeatId" type="guid" value="b704311b-e3a6-4385-8c2b-deeeeeeeeeee"/>
+                    <attribute id="UUID" type="guid" value="68e2e4d0-a760-4bec-be56-deeeeeeeeeee"/>
+                </node>
+				<node id="FeatDescription"><!-- FEATS EXPANDED -->
+                    <attribute id="Description" type="TranslatedString" handle="h478965aegec78g4a09g9401g01bfa60c1f57" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h477965aegec78g4a09g9401g01bfa60c1f57" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="GiftOfTheChromaticDragon"/>
+                    <attribute id="FeatId" type="guid" value="d8c47f39-bb68-4d2e-b036-eb3156638149"/>
+                    <attribute id="UUID" type="guid" value="bc89e4dc-1ba8-46df-884e-425fe80f634c"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hfea422cageaceg4b1agbca4gda8b870ccdd6" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hfda422cageaceg4b1agbca4gda8b870ccdd6" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="GiftOfTheGemDragon"/>
+                    <attribute id="FeatId" type="guid" value="fb431bc0-27c6-4622-ac45-6bd811042540"/>
+                    <attribute id="UUID" type="guid" value="c4adda1e-58e9-466c-91c1-3749ecf7edc0"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hcffd460eg599cg4afbg8b0bg66e20997e71f" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hcefd460eg599cg4afbg8b0bg66e20997e71f" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="GiftOfTheMetallicDragon"/>
+                    <attribute id="FeatId" type="guid" value="c120b307-f237-4ae6-8551-600969872c51"/>
+                    <attribute id="UUID" type="guid" value="34973a95-825b-43ae-858f-cb163d0ee87a"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h17572ca9g4f5cg49aega9fag5b256e086246" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h16572ca9g4f5cg49aega9fag5b256e086246" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Observant"/>
+                    <attribute id="FeatId" type="guid" value="d4d76e38-cc43-4cb9-8d99-38bee21bbd0e"/>
+                    <attribute id="UUID" type="guid" value="181b5539-056e-4440-b7c7-406bb14b4cd3"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hc275e988g6f86g45f8g8aacgdc3c0cdbaa26" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc175e988g6f86g45f8g8aacgdc3c0cdbaa26" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="InspiringLeader"/>
+                    <attribute id="FeatId" type="guid" value="47f6f05c-1324-49cd-a2d7-ca10c0b5f513"/>
+                    <attribute id="UUID" type="guid" value="6350a352-52fc-4f06-91b5-fa429379c0ad"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="lz1016871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="lz1006871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="SecondChance"/>
+                    <attribute id="FeatId" type="guid" value="6c59e67a-76f9-4c9b-af59-dbe6bb2048f7"/>
+                    <attribute id="UUID" type="guid" value="5233edcc-b504-4862-a10d-2d80cfe21cfe"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="lz1036871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="lz1026871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="OrcishFury"/>
+                    <attribute id="FeatId" type="guid" value="38614cda-1b13-4583-8fa8-18a7dd3bb6b6"/>
+                    <attribute id="UUID" type="guid" value="7ab10a2e-9c4a-463f-a331-f95051696224"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="lz1076871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="lz1066871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="MagicInitiateArtificer"/>
+                    <attribute id="FeatId" type="guid" value="142ff0e1-6950-4fdf-affa-6a9000067b06"/>
+                    <attribute id="UUID" type="guid" value="5db801d1-9fd3-4c53-bad2-19e44250a64a"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="lz1106871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="lz1096871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="FadeAway"/>
+                    <attribute id="FeatId" type="guid" value="74a5d838-d72c-4205-a42e-9f4bf1e52b3c"/>
+                    <attribute id="UUID" type="guid" value="f12e0914-0101-437d-bfc4-4acb5116742a"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="lz1126871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="lz1116871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="RemarkableRecovery "/>
+                    <attribute id="FeatId" type="guid" value="1aad222f-37f6-487c-95e4-b5fd12a0c23c"/>
+                    <attribute id="UUID" type="guid" value="da807782-84e4-4089-8568-1af283efcedd"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="lz1146871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="lz1136871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="SvirfneblinMagic"/>
+                    <attribute id="FeatId" type="guid" value="8db4b515-2bed-48fc-a15b-2f357c68e91d"/>
+                    <attribute id="UUID" type="guid" value="e0678b18-d9dd-49ef-9350-60abedeac6ad"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="lz1166871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="lz1156871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Chef_featsextra"/>
+                    <attribute id="FeatId" type="guid" value="15b96521-f05d-49c1-9327-abdf26a5e3f1"/>
+                    <attribute id="UUID" type="guid" value="79bcb486-21a0-43d3-a730-ad2916255e77"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="lz1296871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="lz1336871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="BountifulLuck_featsextra"/>
+                    <attribute id="FeatId" type="guid" value="e65b2814-fc8e-4290-821b-4e243f64982b"/>
+                    <attribute id="UUID" type="guid" value="d8989bf0-d3b7-4a09-ac40-59fbd449e9ea"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="lz1356871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="lz1346871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Artificer_FirearmsProficiency_Gunner"/>
+                    <attribute id="FeatId" type="guid" value="a5f9cdb8-2b2a-4691-a2bf-0139bebec3e4"/>
+                    <attribute id="UUID" type="guid" value="8f08f549-3346-40bc-ad30-5aa4b5c918de"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="lz1406871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="lz1396871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Guile_of_the_Cloud_Giant"/>
+                    <attribute id="FeatId" type="guid" value="30dd01d8-3892-49f1-a153-44032719c6f9"/>
+                    <attribute id="UUID" type="guid" value="ad27098b-2852-48d8-ba30-cb2eac475b97"/>
+				</node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="lz1476871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="lz1466871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Strike_of_the_Giants"/>
+                    <attribute id="FeatId" type="guid" value="b8181984-9367-4305-8903-a3ce2db2f3bc"/>
+                    <attribute id="UUID" type="guid" value="7ca44f67-8bab-4e1e-bc84-b86c3af0aa8d"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="lz1676871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="lz1666871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Ember_of_the_Fire_Giant"/>
+                    <attribute id="FeatId" type="guid" value="e54fe7c6-a225-4228-b1cf-c2d54c4f380a"/>
+                    <attribute id="UUID" type="guid" value="8fd190ab-feb4-43e8-a621-f53463f1038e"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="lz1696871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="lz1686871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Fury_of_the_Frost_Giant"/>
+                    <attribute id="FeatId" type="guid" value="a3e48e32-f063-4a75-90c4-fe6bb30570dd"/>
+                    <attribute id="UUID" type="guid" value="72fd6085-1a96-4599-914d-a0c51eef4663"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="lz1716871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="lz1706871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Keenness_of_the_Stone_Giant"/>
+                    <attribute id="FeatId" type="guid" value="3cc66a3a-a0df-489b-9476-6a360de33cf9"/>
+                    <attribute id="UUID" type="guid" value="5f288a82-91b2-4460-990d-f480e3e183d9"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="lz1736871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="lz1726871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Rune_Shaper"/>
+                    <attribute id="FeatId" type="guid" value="3f8663ba-e445-4e3e-928f-92b2ea6b3997"/>
+                    <attribute id="UUID" type="guid" value="59c245f0-61e0-41e1-96bd-7c326863def9"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="lz1756871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="lz1746871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Soul_of_the_Storm_Giant"/>
+                    <attribute id="FeatId" type="guid" value="b5d1d234-e74e-4bc1-b32c-bc64f4ead34a"/>
+                    <attribute id="UUID" type="guid" value="75ee4420-9dc5-46b8-883e-ab564afd7035"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="lz1776871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="lz1766871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Vigor_of_the_Hill_Giant"/>
+                    <attribute id="FeatId" type="guid" value="1cac8c2a-f1e0-4e0e-aa1f-8691f14b8c12"/>
+                    <attribute id="UUID" type="guid" value="75211f1a-3f52-438d-a9ce-28b989ebe97a"/>
+                </node>
+                                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hgeeg8b0c2270b2a02g76f8c94612eba962ec" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha2cbc3efb83dc88ge47c9gd5f1b1a1e766e0" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="FightingInitiate"/>
+                    <attribute id="FeatId" type="guid" value="f3b4dc1d-11a0-4432-a55c-34f06403e8a4"/>
+                    <attribute id="UUID" type="guid" value="79ec938f-5040-480a-b053-4e67f7ab777d"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="cantripmasterdescript" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="cantripmaster" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="CantripMaster"/>
+                    <attribute id="FeatId" type="guid" value="d979a940-0096-49a7-8cd9-1cbd4b42f49b"/>
+                    <attribute id="UUID" type="guid" value="028c3880-2558-4bc9-834d-42c9198e8399"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f611" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f610" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="AssassinPath"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3600"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9626"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f613" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f612" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="MasterThief"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3601"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9627"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="haaa08dfbg7f2ag4b4fg9e97g12cb97f6b966" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h651ed8b8g46cdg43bcgaa5bgefe1d5513496" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="RogueImposter"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3602"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9628"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f617" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f616" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="UncivilizedIndividual"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3603"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9629"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f619" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f618" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="SerialKiller"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3604"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9630"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f621" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f620" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Deluded"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3605"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9631"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f623" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f622" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="DeafBard"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3606"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9632"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f625" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f624" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="NoviceCleric"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3607"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9633"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f627" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f626" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="NoviceFighter"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3608"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9634"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f629" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f628" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="VeteranFighter"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3609"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9635"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f631" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f630" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="GodlessPaladin"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3610"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9636"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f633" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f632" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="NoviceRanger"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3611"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9637"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f635" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f634" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="AdeptStalker"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3612"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9638"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f637" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f636" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="AdeptHunter"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3613"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9639"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f639" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f638" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ApexPredator"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3614"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9640"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f641" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f640" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="CompetentSpellcaster"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3615"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9641"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f643" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f642" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="WiseSage"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3616"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9642"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f645" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f644" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ElementalLord"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3617"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9643"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f647" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f646" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Insightfulcaster"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3618"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9644"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f649" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f648" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="EldritchMessenger"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3619"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9645"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f651" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f650" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Timewornpaladin"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3620"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9646"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f653" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f652" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Shapeshifting"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3621"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9647"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f655" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f654" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Impatientmonk"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3622"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9648"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f657" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f656" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="descendantofdragons"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3623"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9649"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f659" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f658" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="conjurerwiz"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3624"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9650"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f661" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f660" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="mindmastery"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3625"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9651"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f663" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f662" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="stormborne"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3626"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9652"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f665" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f664" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="taintedblood"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3627"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9653"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f667" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f666" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="eldritchworshipper"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3628"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9654"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f669" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f668" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="necromancyenthusiast"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3629"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9655"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f671" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f670" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="mortalinstrument"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3630"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9656"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f673" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f672" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="shaolinmonks"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3631"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9657"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f675" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f674" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="swordsinger"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3632"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9658"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f677" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f676" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="wordweaver"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3633"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9659"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f679" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f678" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="witnessofheroes"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3634"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9660"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f681" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f680" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="lunardruid"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3635"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9661"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f683" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f682" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="fungaldruid"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3636"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9662"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f685" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f684" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="unstablesorcerer"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3637"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9663"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f687" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f686" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="transmigrator"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3638"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9664"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f689" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f688" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="reincarnator"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3639"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9665"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f691" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f690" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="regressor"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3640"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9666"/>
+                </node>
+				<node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f693" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26e2fb52g5afeg461fgb998ge2ef6015f692" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="enigmaticharbinger"/>
+                    <attribute id="FeatId" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3641"/>
+                    <attribute id="UUID" type="guid" value="19090e21-6ffd-448e-b375-8f32d7ea9667"/>
+                </node>
+			    <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="7ab0765f-b1dc-4c7e-a4bc-c0aa2b5a89c6" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="4f7fb41e-a862-418b-a235-587bedb44261" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Fey_Touched_Wis"/>
+                    <attribute id="FeatId" type="guid" value="8485820c-db95-46ab-9ff3-881bf3604a16"/>
+                    <attribute id="UUID" type="guid" value="7ad9e6c5-f152-4656-b910-45cc1f76a440"/>
+                </node>
+		        <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="35385f55-0487-4fb1-8cc6-1f050cc8dd70" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="4a8baef4-27a1-4b3a-b39a-9204f1ff1fac" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Fey_Touched_Int"/>
+                    <attribute id="FeatId" type="guid" value="13ec7684-1c9f-4055-a4d7-9e420871345a"/>
+                    <attribute id="UUID" type="guid" value="d1d3a113-35cc-46e3-a26b-1697bfdce58b"/>
+                </node>
+		        <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="0446da7c-3c00-4a8a-a786-e10c0c2fe598" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ff10b8d8-b27f-4822-a2c4-d162a5e74dcc" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Fey_Touched_Cha"/>
+                    <attribute id="FeatId" type="guid" value="8db1b011-98fc-4152-856c-ab305edbd0b5"/>
+                    <attribute id="UUID" type="guid" value="e3ebfc21-5677-4f46-9cf1-0733e36b3215"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h66b60f34g99ebg476eg93f7g217b7ef0303a" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h65b60f34g99ebg476eg93f7g217b7ef0303a" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Piercer"/>
+                    <attribute id="FeatId" type="guid" value="a3b6cce9-c97d-41d1-bf02-8e31218bdfdd"/>
+                    <attribute id="UUID" type="guid" value="ebb10ec3-20b9-4408-9642-cc3cf3c923dd"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h478965aegec78g4a09g9401g01bfa60c1f57" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h477965aegec78g4a09g9401g01bfa60c1f57" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="GiftOfTheChromaticDragon"/>
+                    <attribute id="FeatId" type="guid" value="d8c47f39-bb68-4d2e-b036-eb3156638149"/>
+                    <attribute id="UUID" type="guid" value="bc89e4dc-1ba8-46df-884e-425fe80f634c"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hfea422cageaceg4b1agbca4gda8b870ccdd6" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hfda422cageaceg4b1agbca4gda8b870ccdd6" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="GiftOfTheGemDragon"/>
+                    <attribute id="FeatId" type="guid" value="fb431bc0-27c6-4622-ac45-6bd811042540"/>
+                    <attribute id="UUID" type="guid" value="c4adda1e-58e9-466c-91c1-3749ecf7edc0"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hcffd460eg599cg4afbg8b0bg66e20997e71f" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hcefd460eg599cg4afbg8b0bg66e20997e71f" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="GiftOfTheMetallicDragon"/>
+                    <attribute id="FeatId" type="guid" value="c120b307-f237-4ae6-8551-600969872c51"/>
+                    <attribute id="UUID" type="guid" value="34973a95-825b-43ae-858f-cb163d0ee87a"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="ih_desc_traStr" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ih_displayName_traStr" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="IdleHands"/>
+                    <attribute id="FeatId" type="guid" value="a69c4ea0-532d-4301-bc0a-68399f7a9cda"/>
+                    <attribute id="UUID" type="guid" value="02094547-a2c2-4ea9-acab-f728295d84ff"/>
+                </node>
+			</children>
+        </node>
+    </region>
+</save>

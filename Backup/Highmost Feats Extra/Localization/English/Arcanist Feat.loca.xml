@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="c74caa78-10bb-483b-b4e8-047060105a9a" version="1">Arcanist</content>
+	<content contentuid="fe9592af-1b2a-4048-a8b5-204216a14a00" version="1">You possess an indefatigable enthusiam for all things arcane.&lt;br&gt;&lt;br&gt;You gain &lt;LSTag Type="Tooltip" Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; in Arcana. You learn a Level 1 spell from any spell list, which you can cast once per Short Rest. Your &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Spellcasting Ability&lt;/LSTag&gt; for this spell is Intelligence.</content>
+</contentList>

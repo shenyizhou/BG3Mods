@@ -1,0 +1,60 @@
+<contentList date="08/17/2023 18:37">
+    <content contentuid="4f7fb41e-a862-418b-a235-587bedb44261" version="1">Fey Touched(Wis)</content>
+    <content contentuid="7ab0765f-b1dc-4c7e-a4bc-c0aa2b5a89c6" version="1">You learn the Misty Step spell and one 1st-level spell of your choice. The 1st-level spell must be from the Divination or Enchantment school of magic. You can cast each of these spells without expending a spell slot once per long rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Spellcasting Ability&lt;/LSTag&gt; is Wisdom.</content>
+    <content contentuid="4a8baef4-27a1-4b3a-b39a-9204f1ff1fac" version="1">Fey Touched(Int)</content>
+    <content contentuid="35385f55-0487-4fb1-8cc6-1f050cc8dd70" version="1">You learn the Misty Step spell and one 1st-level spell of your choice. The 1st-level spell must be from the Divination or Enchantment school of magic. You can cast each of these spells without expending a spell slot once per long rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Spellcasting Ability&lt;/LSTag&gt; is Intelligence.</content>
+    <content contentuid="ff10b8d8-b27f-4822-a2c4-d162a5e74dcc" version="1">Fey Touched(Cha)</content>
+    <content contentuid="0446da7c-3c00-4a8a-a786-e10c0c2fe598" version="1">You learn the Misty Step spell and one 1st-level spell of your choice. The 1st-level spell must be from the Divination or Enchantment school of magic. You can cast each of these spells without expending a spell slot once per long rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Spellcasting Ability&lt;/LSTag&gt; is Charisma.</content>
+
+    <content contentuid="3b5cd7ae-01a4-4a65-8b40-76a2d08dc619" version="1">Animal Friendship</content>
+    <content contentuid="508ef9e4-de9d-4c9a-b04a-bd417092c0fc" version="1">&lt;LSTag Type="Spell" Tooltip="Target_AnimalFriendship"&gt;Animal Friendship&lt;/LSTag&gt;</content>
+
+    <content contentuid="b656ce51-9db5-4fb2-9a62-163c44d5875c" version="1">Bane</content>
+    <content contentuid="c0aa09d0-380c-46c6-adec-d29d0415ddf7" version="1">&lt;LSTag Type="Spell" Tooltip="Target_Bane"&gt;Bane&lt;/LSTag&gt;</content>
+
+    <content contentuid="6a2d6017-8f6a-4c88-adfa-108453b4d254" version="1">Tasha's Hideous Laughter</content>
+    <content contentuid="d09ba16f-288e-4de6-9d75-512f0dc27b1a" version="1">&lt;LSTag Type="Spell" Tooltip="Target_HideousLaughter"&gt;Tasha's Hideous Laughter&lt;/LSTag&gt;</content>
+
+    <content contentuid="45620510-18f3-4fa1-a697-907f45895476" version="1">Speak With Animals</content>
+    <content contentuid="dc4f88b2-4d84-423e-a2f8-f93495f0a368" version="1">&lt;LSTag Type="Spell" Tooltip="Shout_SpeakWithAnimals"&gt;Speak With Animals&lt;/LSTag&gt;</content>
+
+    <content contentuid="ee08caf6-7e1d-48a8-a961-1b6a53629341" version="1">Sleep</content>
+    <content contentuid="fd234fb1-d76a-411a-ac13-a27b435dfe2d" version="1">&lt;LSTag Type="Spell" Tooltip="Target_Sleep"&gt;Sleep&lt;/LSTag&gt;</content>
+
+    <content contentuid="2df95743-0616-44f4-9750-b1d7e0823275" version="1">Hunter's Mark</content>
+    <content contentuid="7569271e-2305-4c35-872f-20df3b65711e" version="1">&lt;LSTag Type="Spell" Tooltip="Target_HuntersMark"&gt;Hunter's Mark&lt;/LSTag&gt;</content>
+
+    <content contentuid="48924cc4-cb13-4c04-8ce6-7821b8cd3264" version="1">Hex</content>
+    <content contentuid="38fbbfe7-108b-4dec-97f2-3584e3cad8c9" version="1">&lt;LSTag Type="Spell" Tooltip="Target_Hex"&gt;Hex&lt;/LSTag&gt;</content>
+
+    <content contentuid="7af52c0e-9d86-4c7d-a8b0-71e492ea08ba" version="1">Heroism</content>
+    <content contentuid="dd2264cb-9c4c-481a-a6d2-5b64828d1296" version="1">&lt;LSTag Type="Spell" Tooltip="Target_Heroism"&gt;Heroism&lt;/LSTag&gt;</content>
+
+    <content contentuid="c3eea319-1de7-42ca-ae20-bd77ed486a0e" version="1">Gift Of Alacrity</content>
+    <content contentuid="25b6783f-d8b0-4b66-a3fe-2c18d64bdc29" version="1">&lt;LSTag Type="Spell" Tooltip="Target_GiftOfAlacrity"&gt;Gift of Alacrity&lt;/LSTag&gt;</content>
+
+    <content contentuid="8ae4fc23-4d2e-489c-860c-590049c8d23d" version="1">Dissonant Whispers</content>
+    <content contentuid="eab0e685-ff14-4e1d-8e2b-c474425d01d3" version="1">&lt;LSTag Type="Spell" Tooltip="Target_DissonantWhispers"&gt;Dissonant Whispers&lt;/LSTag&gt;</content>
+
+    <content contentuid="36f831a5-b94d-4ac0-a224-c4f7abff837f" version="1">Detect Magic</content>
+    <content contentuid="e10b8cb3-cada-4020-a3a0-7d5e0ff199d8" version="1">&lt;LSTag Type="Spell" Tooltip="Shout_DetectMagic"&gt;Detect Magic&lt;/LSTag&gt;</content>
+
+    <content contentuid="25559388-8243-4cd4-a674-6aa5da4862ca" version="1">Detect Evil and Good</content>
+    <content contentuid="60980aee-b68f-4857-a662-78baa219e0e2" version="1">&lt;LSTag Type="Spell" Tooltip="Shout_DetectEvilAndGood"&gt;Detect Evil and Good&lt;/LSTag&gt;</content>
+
+    <content contentuid="c50c0c9e-c091-4afb-933e-6ba3878be280" version="1">Compelled Duel</content>
+    <content contentuid="4139eb14-7f0c-4b2f-a775-36b0ab9601c0" version="1">&lt;LSTag Type="Spell" Tooltip="Target_CompelledDuel"&gt;Compelled Duel&lt;/LSTag&gt;</content>
+
+    <content contentuid="c55cf5e1-246d-4856-8fee-dad738d4ffa7" version="1">Command</content>
+    <content contentuid="3e387f6d-89ff-48f6-9102-ecc03b218700" version="1">&lt;LSTag Type="Spell" Tooltip="Target_Command_Container"&gt;Command&lt;/LSTag&gt;</content>
+
+    <content contentuid="13453530-1fa7-40f8-a151-8f275514f486" version="1">Charm Person</content>
+    <content contentuid="16ed03a0-ef52-4ac4-a052-65cd15c8cefd" version="1">&lt;LSTag Type="Spell" Tooltip="Target_CharmPerson"&gt;Charm Person&lt;/LSTag&gt;</content>
+
+    <content contentuid="563a43be-f3ae-4e84-9b84-f6978f2ecda4" version="1">Bless</content>
+    <content contentuid="8d414b5c-9303-48ff-8e4c-78c69411af77" version="1">&lt;LSTag Type="Spell" Tooltip="Target_Bless"&gt;Bless&lt;/LSTag&gt;</content>
+
+    <content contentuid="4262bd37-1505-463a-b31a-7b24f32f0a95" version="1">Beast Bond</content>
+    <content contentuid="5759e5ea-41eb-4a80-8976-7db7827e7ada" version="1">&lt;LSTag Type="Spell" Tooltip="Target_BeastBond"&gt;Beast Bond&lt;/LSTag&gt;</content>
+
+</contentList>

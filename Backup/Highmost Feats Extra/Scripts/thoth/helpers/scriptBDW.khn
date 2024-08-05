@@ -1,0 +1,31 @@
+function IsSwordNBoard()
+    return IsMeleeAttack() & HasShieldEquipped(context.Source)
+end
+
+function IsModdedOffhandAttack()
+    return SpellId('Target_OffhandAttack') | SpellId('Projectile_OffhandAttack') | SpellId('Target_DualWielding_BonusAttack')
+end
+
+function AttackingWithTwoHanded()
+    return HasWeaponProperty(WeaponProperties.Twohanded, GetAttackWeapon(context.Source))
+end
+
+function HasTwoHandedMelee()
+    return HasWeaponProperty(WeaponProperties.Twohanded,GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand, context.Source))
+end
+
+function HasTwoHandedRanged()
+    return HasWeaponProperty(WeaponProperties.Twohanded,GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand, context.Source))
+end
+
+function BDWGiveFreeAtk()
+    return IsWeaponAttack() & ~IsModdedOffhandAttack() & ~AttackingWithTwoHanded() & ~IsSwordNBoard()
+end
+
+function BDWGiveFreeMeleeCond()
+    return ~HasTwoHandedMelee() & ~HasShieldEquipped(context.Source)
+end
+
+function BDWGiveFreeRangedCond()
+    return ~HasTwoHandedRanged()
+end

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h65b60f34g99ebg476eg93f7g217b7ef0303a" version="1">Piercer</content>
+	<content contentuid="h66b60f34g99ebg476eg93f7g217b7ef0303a" version="1">Increase your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; or &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; by 1, up to a maximum of 20.&lt;br&gt;&lt;br&gt;Once per turn, when you hit a creature with an attack that deals piercing damage, you roll your damage dice twice and use the highest result. When you score a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; that deals piercing damage to a creature, you roll one additional damage die when determining the extra piercing damage the target takes.</content>
+	<content contentuid="h67b60f34g99ebg476eg93f7g217b7ef0303a" version="1">Piercer: Reroll</content>
+	<content contentuid="h68b60f34g99ebg476eg93f7g217b7ef0303a" version="1">Once per turn, when you hit a creature with an attack that deals piercing damage, you roll your damage dice twice and use the highest result.</content>
+	<content contentuid="h69b60f34g99ebg476eg93f7g217b7ef0303a" version="1">Piercer: Critical</content>
+	<content contentuid="h71b60f34g99ebg476eg93f7g217b7ef0303a" version="1">When you score a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; that deals piercing damage to a creature, you roll one additional damage die when determining the extra piercing damage the target takes.</content>
+	<content contentuid="h477965aegec78g4a09g9401g01bfa60c1f57" version="1">Gift of the Chromatic Dragon</content>
+	<content contentuid="h478965aegec78g4a09g9401g01bfa60c1f57" version="1">When you take Acid, Cold, Fire, Lighting, or Poison damage, once per &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt; you can use your reaction to give yourself &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to that damage type until the start of your next turn.&lt;br&gt;&lt;br&gt;You also learn the &lt;LSTag Type="Spell" Tooltip="Target_GotCD_Infusion"&gt;Chromatic Infusion&lt;/LSTag&gt; action, and can use it once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="h479965aegec78g4a09g9401g01bfa60c1f57" version="1">Gift of the Chromatic Dragon: Chromatic Infusion</content>
+	<content contentuid="h480965aegec78g4a09g9401g01bfa60c1f57" version="1">You touch a weapon and infuse it with Acid, Cold, Fire, Lightning, or Poison. For the next minute, the weapon deals additional damage of the chosen type.</content>
+	<content contentuid="h483965aegec78g4a09g9401g01bfa60c1f57" version="1">Chromatic Infusion</content>
+	<content contentuid="h484965aegec78g4a09g9401g01bfa60c1f57" version="1">Chromatic Infusion: Acid</content>
+	<content contentuid="h485965aegec78g4a09g9401g01bfa60c1f57" version="1">Chromatic Infusion: Cold</content>
+	<content contentuid="h486965aegec78g4a09g9401g01bfa60c1f57" version="1">Chromatic Infusion: Fire</content>
+	<content contentuid="h487965aegec78g4a09g9401g01bfa60c1f57" version="1">Chromatic Infusion: Lightning</content>
+	<content contentuid="h488965aegec78g4a09g9401g01bfa60c1f57" version="1">Chromatic Infusion: Poison</content>
+	<content contentuid="h489965aegec78g4a09g9401g01bfa60c1f57" version="1">Deals an additional [1].</content>
+	<content contentuid="h481965aegec78g4a09g9401g01bfa60c1f57" version="1">Reactive Resistance</content>
+	<content contentuid="h482965aegec78g4a09g9401g01bfa60c1f57" version="1">When you take Acid, Cold, Fire, Lighting, or Poison damage, you can use your reaction to give yourself &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to that damage until the start of your next turn.</content>
+	<content contentuid="hfda422cageaceg4b1agbca4gda8b870ccdd6" version="1">Gift of the Gem Dragon</content>
+	<content contentuid="hfea422cageaceg4b1agbca4gda8b870ccdd6" version="1">Increase your &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; or &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; by 1, up to a maximum of 20.&lt;br&gt;&lt;br&gt;When you take damage from a creature within 3m of you, you can use your reaction to deal force damage and attempt to push the creature away.</content>
+	<content contentuid="hffa422cageaceg4b1agbca4gda8b870ccdd6" version="1">Gift of the Gem Dragon: Telekinetic Reprisal</content>
+	<content contentuid="hfga422cageaceg4b1agbca4gda8b870ccdd6" version="1">When you take damage from a creature within 3m of you, you can use your reaction to deal [1] force damage and attempt to push the creature away.</content>
+	<content contentuid="hcefd460eg599cg4afbg8b0bg66e20997e71f" version="1">Gift of the Metallic Dragon</content>
+	<content contentuid="hcffd460eg599cg4afbg8b0bg66e20997e71f" version="1">You learn the &lt;LSTag Type="Spell" Tooltip="Target_CureWounds"&gt;Cure Wounds&lt;/LSTag&gt; spell, and can cast it without expending a spell slot once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;When you are hit by an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, you can use your reaction to grant a bonus to your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;.</content>
+	<content contentuid="hcgfd460eg599cg4afbg8b0bg66e20997e71f" version="1">Gift of the Metallic Dragon: Draconic Healing</content>
+	<content contentuid="hchfd460eg599cg4afbg8b0bg66e20997e71f" version="1">You've learned the &lt;LSTag Type="Spell" Tooltip="Target_CureWounds"&gt;Cure Wounds&lt;/LSTag&gt; spell, and can cast it without expending a spell slot once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="hcifd460eg599cg4afbg8b0bg66e20997e71f" version="1">Gift of the Metallic Dragon: Protective Wings</content>
+	<content contentuid="hcjfd460eg599cg4afbg8b0bg66e20997e71f" version="1">When you are hit by an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, you can use your reaction to grant a bonus to your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;.</content>
+</contentList>

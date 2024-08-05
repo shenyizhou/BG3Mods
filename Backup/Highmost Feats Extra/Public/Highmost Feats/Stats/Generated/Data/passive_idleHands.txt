@@ -1,0 +1,7 @@
+new entry "IdleHands"
+type "PassiveData"
+data "DisplayName" "ih_displayName_traStr;1"
+data "Description" "ih_iconDesc_traStr;1"
+data "Icon" "PassiveFeature_FastHands"
+data "Properties" "Highlighted"
+data "Boosts" "ActionResource(BonusActionPoint,1,0)"

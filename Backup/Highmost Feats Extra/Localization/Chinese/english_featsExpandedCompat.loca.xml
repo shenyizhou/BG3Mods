@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h65b60f34g99ebg476eg93f7g217b7ef0303a" version="1">穿刺者</content>
+	<content contentuid="h66b60f34g99ebg476eg93f7g217b7ef0303a" version="1">你的力量或敏捷提升1，上限为20。&lt;br&gt;&lt;br&gt;每回合一次，当你用造成穿刺伤害的攻击命中一个生物时，你可以重投其中一个伤害骰，并使用最高的结果。当你用造成穿刺伤害的攻击命中一个生物并且造成重击时，你可以在计算穿刺伤害时投一个额外的伤害骰。</content>
+	<content contentuid="h67b60f34g99ebg476eg93f7g217b7ef0303a" version="1">穿刺者: 重骰</content>
+	<content contentuid="h68b60f34g99ebg476eg93f7g217b7ef0303a" version="1">每回合一次，当你用造成穿刺伤害的攻击命中一个生物时，你可以重投其中一个伤害骰，并使用最高的结果。</content>
+	<content contentuid="h69b60f34g99ebg476eg93f7g217b7ef0303a" version="1">穿刺者: 重击</content>
+	<content contentuid="h71b60f34g99ebg476eg93f7g217b7ef0303a" version="1">当你用造成穿刺伤害的攻击命中一个生物并且造成重击时，你可以在计算穿刺伤害时投一个额外的伤害骰。</content>
+	<content contentuid="h477965aegec78g4a09g9401g01bfa60c1f57" version="1">色彩龙赋礼</content>
+	<content contentuid="h478965aegec78g4a09g9401g01bfa60c1f57" version="1">每短休一次，当你受到强酸，寒冷，火焰，闪电或毒素伤害时，你可以使用你的反应，使自己在当此伤害中获得对应伤害类型的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;，该抗性持续到你下回合开始。&lt;br&gt;&lt;br&gt;你还可以在每次长休期间使用一次&lt;LSTag Type="Spell" Tooltip="Target_GotCD_Infusion"&gt;繁彩注魔&lt;/LSTag&gt;。</content>
+	<content contentuid="h479965aegec78g4a09g9401g01bfa60c1f57" version="1">色彩龙赋礼:繁彩注魔</content>
+	<content contentuid="h480965aegec78g4a09g9401g01bfa60c1f57" version="1">你可以触碰一把武器武器，向它注入以下能量之一：强酸，寒冷，火焰，闪电或毒素。在之后一分钟内，该武器在命中时额外造成你所选伤害类型的伤害。</content>
+	<content contentuid="h483965aegec78g4a09g9401g01bfa60c1f57" version="1">繁彩注魔</content>
+	<content contentuid="h484965aegec78g4a09g9401g01bfa60c1f57" version="1">繁彩注魔: 强酸</content>
+	<content contentuid="h485965aegec78g4a09g9401g01bfa60c1f57" version="1">繁彩注魔: 冷冻</content>
+	<content contentuid="h486965aegec78g4a09g9401g01bfa60c1f57" version="1">繁彩注魔: 火焰</content>
+	<content contentuid="h487965aegec78g4a09g9401g01bfa60c1f57" version="1">繁彩注魔: 闪电</content>
+	<content contentuid="h488965aegec78g4a09g9401g01bfa60c1f57" version="1">繁彩注魔: 毒素</content>
+	<content contentuid="h489965aegec78g4a09g9401g01bfa60c1f57" version="1">造成额外的 [1] 伤害。</content>
+	<content contentuid="h481965aegec78g4a09g9401g01bfa60c1f57" version="1">反应抗性</content>
+	<content contentuid="h482965aegec78g4a09g9401g01bfa60c1f57" version="1">当你受到强酸，寒冷，火焰，闪电或毒素伤害时，你可以使用你的反应，使自己在当此伤害中获得对应伤害类型的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;，直到你下一回合开始。</content>
+	<content contentuid="hfda422cageaceg4b1agbca4gda8b870ccdd6" version="1">宝石龙赋礼</content>
+	<content contentuid="hfea422cageaceg4b1agbca4gda8b870ccdd6" version="1">你的智力，感知或魅力提升1，上限为20。&lt;br&gt;&lt;br&gt;当你受到来自距离你10尺内的生物的伤害时，你可以用你的反应来驱使念动力，对该生物造成力场伤害并将其推离。</content>
+	<content contentuid="hffa422cageaceg4b1agbca4gda8b870ccdd6" version="1">宝石龙赋礼:念力报复</content>
+	<content contentuid="hfga422cageaceg4b1agbca4gda8b870ccdd6" version="1">当你受到来自距离你10尺内的生物的伤害时，你可以用你的反应来驱使念动力，对该生物造成[1]力场伤害并将其推离。</content>
+	<content contentuid="hcefd460eg599cg4afbg8b0bg66e20997e71f" version="1">金属龙赋礼</content>
+	<content contentuid="hcffd460eg599cg4afbg8b0bg66e20997e71f" version="1">你习得&lt;LSTag Type="Spell" Tooltip="Target_CureWounds"&gt;疗伤术&lt;/LSTag&gt;法术。你可以施展一次该法术而无需消耗法术位。当你以此法施展该法术后，你不能再这样做，直至你完成一次长休。&lt;br&gt;&lt;br&gt;在你被一次&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;命中时，你可以使用你的反应来在你背后暂时显现出虚幻的翅膀。你使目标对抗该次攻击的&lt;LSTag Tooltip="ArmourClass"&gt;AC&lt;/LSTag&gt;获得加值，数值等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;。</content>
+	<content contentuid="hcgfd460eg599cg4afbg8b0bg66e20997e71f" version="1">金属龙赋礼: 龙类治疗</content>
+	<content contentuid="hchfd460eg599cg4afbg8b0bg66e20997e71f" version="1">你习得&lt;LSTag Type="Spell" Tooltip="Target_CureWounds"&gt;疗伤术&lt;/LSTag&gt;法术。你可以施展一次该法术而无需消耗法术位。当你以此法施展该法术后，你不能再这样做，直至你完成一次长休。</content>
+	<content contentuid="hcifd460eg599cg4afbg8b0bg66e20997e71f" version="1">金属龙赋礼: 庇护之翼</content>
+	<content contentuid="hcjfd460eg599cg4afbg8b0bg66e20997e71f" version="1">在你被一次&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;命中时，你可以使用你的反应来在你背后暂时显现出虚幻的翅膀。你使目标对抗该次攻击的&lt;LSTag Tooltip="ArmourClass"&gt;AC&lt;/LSTag&gt;获得加值，数值等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;。</content>
+</contentList>

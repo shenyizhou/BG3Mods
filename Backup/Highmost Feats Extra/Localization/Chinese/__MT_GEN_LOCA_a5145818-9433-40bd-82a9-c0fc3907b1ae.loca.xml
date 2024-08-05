@@ -1,0 +1,915 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="lz2396871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+	<content contentuid="lz2406871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+	<content contentuid="lz2416871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+	<content contentuid="lz2426871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+	<content contentuid="lz2436871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+	<content contentuid="lz2446871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+	<content contentuid="lz2456871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+	<content contentuid="lz2466871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+	<content contentuid="lz2476871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+	<content contentuid="lz2486871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+	<content contentuid="lz2496871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+	<content contentuid="lz2506871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+	<content contentuid="lz2516871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+	<content contentuid="lz2526871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+	<content contentuid="lz2536871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+	<content contentuid="lz2546871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+	<content contentuid="lz2556871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+	<content contentuid="lz2566871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+	<content contentuid="lz2576871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+	<content contentuid="lz2586871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+	<content contentuid="lz2596871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+	<content contentuid="lz2606871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+	<content contentuid="lz2616871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+	<content contentuid="lz2626871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+	<content contentuid="lz2636871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+	<content contentuid="lz2646871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+	<content contentuid="lz2216871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">你知晓了一定数量的符文，其数量等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;的一半（向下取整），从下述的符文法术表中选择它。每当你完成&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;时，你都可以将每一个你知晓的符文召唤到您的库存中。你临时习得与刻印下的符文相关联的那些1环法术（如符文法术表所展示的那样），以此习得的这些法术会伴随着刻印的符文一起，在你完成下一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;时消失。你可以用任何你拥有的法术位去施展符文给予的这些法术。此外，当你携带或着装刻印符文的物品，你还可以不消耗法术位，无需材料成分的施展与符文相关联的法术一次。当你以此施展了任何一个法术后，直到你完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;为止你都不能再次使用这一项能力。此专长的施法属性为&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;、 &lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;或&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;（选择此专长时选择它）。</content>
+	<content contentuid="lz2216871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">你知晓了一定数量的符文，其数量等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;的一半（向下取整），从下述的符文法术表中选择它。每当你完成&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;时，你都可以将每一个你知晓的符文召唤到您的库存中。你临时习得与刻印下的符文相关联的那些1环法术（如符文法术表所展示的那样），以此习得的这些法术会伴随着刻印的符文一起，在你完成下一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;时消失。你可以用任何你拥有的法术位去施展符文给予的这些法术。此外，当你携带或着装刻印符文的物品，你还可以不消耗法术位，无需材料成分的施展与符文相关联的法术一次。当你以此施展了任何一个法术后，直到你完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;为止你都不能再次使用这一项能力。此专长的施法属性为&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;、 &lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;或&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;（选择此专长时选择它）。</content>
+	<content contentuid="kt1626871g90b2g4f18gab29g0a0a8f3fbdce" version="1">对这生物的攻击检定需劣势直至你下一回合开始。</content>
+	<content contentuid="kt1626871g90b2g4f18gab29g0a0a8f3fbdce" version="1">对这个生物的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;在你下一回合开始前都将享有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+	<content contentuid="kt1826871g90b2g4f18gab29g0a0a8f3fbdce" version="1">&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LsTag&gt;适用于所有&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;。</content>
+	<content contentuid="kt1826871g90b2g4f18gab29g0a0a8f3fbdce" version="1">&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LsTag&gt;适用于所有&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;。</content>
+	<content contentuid="hg89c268ag49b0g48cbgaf37g76cec2369e9e" version="1">一名魔法毒师的工具包包含了制作造成死灵伤害毒药所需的各种瓶罐、化学品和其他设备。</content>
+	<content contentuid="hg89c268ag49b0g48cbgaf37g76cec2369e9e" version="1">一位'魔法'毒师使用的工具包囊括了药瓶, 化学物质以及制造毒药所需的其他工具, 毒药造成黯蚀伤害</content>
+	<content contentuid="hg87c268ag49b0g48cbgaf37g76cec2369e9e" version="1">毒师套装包含制造毒药所需的小瓶、化学品和其他设备。</content>
+	<content contentuid="hg87c268ag49b0g48cbgaf37g76cec2369e9e" version="1">一位毒师使用的工具包囊括了药瓶, 化学物质以及制造毒药所需的其他工具</content>
+	<content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3643" version="1">毒师套装包含制造毒药所需的小瓶、化学品和其他设备。</content>
+	<content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3643" version="1">一位毒师使用的工具包囊括了药瓶, 化学物质以及制造毒药所需的其他工具。</content>
+	<content contentuid="lz1086871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">每场长休可以吸收一次元素伤害。下次受到该元素攻击时伤害减半，并在下次攻击中附加该元素[1]额外伤害。</content>
+	<content contentuid="lz1086871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">吸收元素伤害, 每次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;一次。受到一半下一次以你为目标的元素攻击伤害(x0.5), 并且你的下一次攻击造成额外与吸收元素同类的 [1] 伤害。</content>
+	<content contentuid="hg72c268ag49b0g48cbgaf37g76cec2369e9e" version="1">对抗毒素豁免</content>
+	<content contentuid="hg72c268ag49b0g48cbgaf37g76cec2369e9e" version="1">优势豁免·毒素</content>
+	<content contentuid="kt1356871g90b2g4f18gab29g0a0a8f3fbdce" version="1">你周围[1]范围内的所有生物（包括你自己）获得等于你当前等级加上你的魅力修正值的临时生命值。鼓舞效果再次生效前需要短休或长休。</content>
+	<content contentuid="kt1356871g90b2g4f18gab29g0a0a8f3fbdce" version="1">在你 [1] 范围内的所有生物(包括你自己)获得等于 你当前等级 + 你的&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; &lt;LSTag Tooltip="TemporaryHitPoints"&gt;临时生命值&lt;/LSTag&gt;。在进行一次短休或&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之前, 你不能再次进行激励。</content>
+	<content contentuid="lz1066871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">工匠学徒</content>
+	<content contentuid="lz1066871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">奇械学徒</content>
+	<content contentuid="lz1986871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">使用附赠动作，你可以拿起一块石头并用魔法攻击。这是一个射程60英尺的法术攻击，使用此专长的属性为施法属性。命中时，石头造成ldl0点力量伤害，目标需通过力量豁免(DC8+熟练加成+施法属性修正)否则获得倒伏状态。你可以以此附赠动作使用次数等于熟练加成，长休整回复所有次数。</content>
+	<content contentuid="lz1986871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">以一个&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;，你可以触碰一块石头并用其发动一次魔法性的攻击。此次攻击是一次远程法术攻击，具有60尺的射程，使用你以此专长提升的属性作为施法属性。命中时，石头造成1d10点力场伤害，若目标是生物，则其必须通过一次&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;力量豁免（DC为8+你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;+本专长提升属性的调整值），否则将陷 &lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒伏&lt;/LSTag&gt;状态。你可以使用这一&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;的次数等同于你的熟练加值次，在完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后你恢复所有已消耗的使用次数。</content>
+	<content contentuid="h6448faf5g7575g4027g91c8gb0672198341e" version="1">使用附赠动作，你可以心灵推动物体远离你。</content>
+	<content contentuid="h6448faf5g7575g4027g91c8gb0672198341e" version="1">作为&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;, 你可以用念动力将一个生物推离。</content>
+	<content contentuid="h6648faf5g7575g4027g91c8gb0672198341e" version="1">使用附赠动作，你可以心灵拉动物体靠近你。</content>
+	<content contentuid="h6648faf5g7575g4027g91c8gb0672198341e" version="1">作为&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;, 你可以用念动力将一个生物拉近。</content>
+	<content contentuid="kt1016871g90b2g4f18gab29g0a0a8f3fbdce" version="1">使用附赠动作，你能触摸简易或军用武器并附加一种伤害类型：酸、冷、火、闪电或毒。一分钟内，该武器命中额外造成1d4点选择的伤害。使用后需长休整才能再用。</content>
+	<content contentuid="kt1016871g90b2g4f18gab29g0a0a8f3fbdce" version="1">作为一个&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;, 你可以触碰一把简易武器或军用武器, 并注魔下述伤害类型之一: 强酸、冷冻、火焰、闪电或毒素。在接下来的一分钟内, 该武器在命中时额外造成 1d4 你所选伤害类型的伤害。&lt;br&gt;&lt;br&gt;使用此特性后, 你在完成一次长休前不能再次使用。</content>
+	<content contentuid="lz2086871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">使用附赠动作，你周围形成风雷电环绕，10尺但不穿透全遮蔽。光环持续到你下次行动或失去行动能力。期间，你抗雷电，攻击劣势，新入圈者需力量豁免(DC8+熟练+专长属性)否则速度减半。附赠动作为熟练次数使用，长休整回复。</content>
+	<content contentuid="lz2086871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">以一个&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;，你将自己笼罩在魔法性的狂风与雷电灵光之中，灵光以你为中心，向任意方向延展10尺（无法穿过全掩护）。灵光持续到你的下一个回合开始，除非你陷入失能状态。灵光激活期间，你获得闪电伤害与雷鸣伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。此外，任何以你为目标的攻击检定都将具有劣势，且每当一个生物在灵光下开始其回合，你都可以迫使其进行一次&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;（DC为8+你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;+本专长提升属性的调整值）。豁免失败时，该生物的速度将被减半直至它们的下一回合开始。你可以使用这一&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;的次数等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;，在完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后你恢复所有已消耗的使用次数。</content>
+	<content contentuid="lz1456871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">作为一个职业动作，结束云雾逃逸。</content>
+	<content contentuid="lz1456871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">作为一个自由(免费)动作终止迷云逃逸</content>
+	<content contentuid="kt1116871g90b2g4f18gab29g0a0a8f3fbdce" version="1">作为动作，治疗一生物。该生物在完成长休前无法再次以此方式回血。</content>
+	<content contentuid="kt1116871g90b2g4f18gab29g0a0a8f3fbdce" version="1">作为一个动作, 你可以&lt;LSTag Type="Spell" Tooltip="Target_Healer_Heal"&gt;治疗&lt;/LSTag&gt;其他生物。该生物在完成&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;之前无法通过这种方式再次获得生命值。</content>
+	<content contentuid="cae0f47c0f5c49f68e91deeeeeeeeeeeeeeee" version="1">作为动作，治疗一生物。该生物在完成短时间休息前无法再次如此回血。</content>
+	<content contentuid="cae0f47c0f5c49f68e91deeeeeeeeeeeeeeee" version="1">作为一个动作, 你可以&lt;LSTag Type="Spell" Tooltip="Target_Healer_Heal"&gt;治疗&lt;/LSTag&gt;其他生物。该生物在完成&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;之前无法通过这种方式再次获得生命值。</content>
+	<content contentuid="lz1186871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">短休期间，若备有食材和烹饪器具，可制作特食，数量等于4+熟练加值的生物份量。食用并用生命骰回血的生物额外恢复生命值。</content>
+	<content contentuid="lz1186871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">作为&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;的一部分, 你可以烹饪特制食物, 只要你手上有原料和厨具。你可以为特定数量的目标对象准备足够的这种食物, 数量等于 4 + 你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;。在本次&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;结束时, 任何吃了食物且消耗至少 1 个或以上生命骰(Hit Dice)来恢复HP的目标对象, 可恢复额外HP。</content>
+	<content contentuid="lz1786871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">生于烈焰，你获得火焰伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
+	<content contentuid="lz1786871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">生于烈焰，你获得火焰伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
+	<content contentuid="lz1866871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">生于冰霜</content>
+	<content contentuid="lz1866871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">生于冰霜</content>
+	<content contentuid="lz1876871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">生于冰霜， 你获得寒冷伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;.</content>
+	<content contentuid="lz1876871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">生于冰霜， 你获得寒冷伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;.</content>
+	<content contentuid="lz1336871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">慷慨吉运</content>
+	<content contentuid="lz1336871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">慷慨吉运</content>
+	<content contentuid="lz1306871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">慷慨吉运已使用</content>
+	<content contentuid="lz1306871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">慷慨吉运已使用</content>
+	<content contentuid="lz1286871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">慷慨吉运: 攻击检定</content>
+	<content contentuid="lz1286871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">慷慨吉运: 攻击检定</content>
+	<content contentuid="lz1326871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">慷慨吉运: 豁免检定</content>
+	<content contentuid="lz1326871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">慷慨吉运: 豁免检定</content>
+	<content contentuid="lz2036871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">不动如山</content>
+	<content contentuid="lz2036871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">不动如山</content>
+	<content contentuid="kt1786871g90b2g4f18gab29g0a0a8f3fbdce" version="1">直到你完成&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之前不能再使用。&lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;</content>
+	<content contentuid="kt1786871g90b2g4f18gab29g0a0a8f3fbdce" version="1">直到你完成&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之前不能再使用。&lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;</content>
+	<content contentuid="lz1956871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">洞穴视觉</content>
+	<content contentuid="lz1956871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">洞穴视觉</content>
+	<content contentuid="lz1156871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">大厨</content>
+	<content contentuid="lz1156871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">大厨</content>
+	<content contentuid="lz1236871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">大厨准备的特制食物</content>
+	<content contentuid="lz1236871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">大厨准备的特制食物</content>
+	<content contentuid="lz1256871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">大厨准备的特制零食</content>
+	<content contentuid="lz1256871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">大厨准备的特制零食</content>
+	<content contentuid="h483965aegec78g4a09g9401g01bfa60c1f57" version="1">繁彩注魔</content>
+	<content contentuid="kt1006871g90b2g4f18gab29g0a0a8f3fbdce" version="1">繁彩注魔</content>
+	<content contentuid="kt1366871g90b2g4f18gab29g0a0a8f3fbdce" version="1">繁彩注魔</content>
+	<content contentuid="h483965aegec78g4a09g9401g01bfa60c1f57" version="1">繁彩注魔</content>
+	<content contentuid="kt1006871g90b2g4f18gab29g0a0a8f3fbdce" version="1">繁彩注魔</content>
+	<content contentuid="kt1366871g90b2g4f18gab29g0a0a8f3fbdce" version="1">繁彩注魔</content>
+	<content contentuid="kt1386871g90b2g4f18gab29g0a0a8f3fbdce" version="1">繁彩注魔(强酸)</content>
+	<content contentuid="kt1516871g90b2g4f18gab29g0a0a8f3fbdce" version="1">繁彩注魔(强酸)</content>
+	<content contentuid="kt1386871g90b2g4f18gab29g0a0a8f3fbdce" version="1">繁彩注魔(强酸)</content>
+	<content contentuid="kt1516871g90b2g4f18gab29g0a0a8f3fbdce" version="1">繁彩注魔(强酸)</content>
+	<content contentuid="kt1396871g90b2g4f18gab29g0a0a8f3fbdce" version="1">繁彩注魔(冷冻)</content>
+	<content contentuid="kt1536871g90b2g4f18gab29g0a0a8f3fbdce" version="1">繁彩注魔(冷冻)</content>
+	<content contentuid="kt1396871g90b2g4f18gab29g0a0a8f3fbdce" version="1">繁彩注魔(冷冻)</content>
+	<content contentuid="kt1536871g90b2g4f18gab29g0a0a8f3fbdce" version="1">繁彩注魔(冷冻)</content>
+	<content contentuid="kt1406871g90b2g4f18gab29g0a0a8f3fbdce" version="1">繁彩注魔(火焰)</content>
+	<content contentuid="kt1556871g90b2g4f18gab29g0a0a8f3fbdce" version="1">繁彩注魔(火焰)</content>
+	<content contentuid="kt1406871g90b2g4f18gab29g0a0a8f3fbdce" version="1">繁彩注魔(火焰)</content>
+	<content contentuid="kt1556871g90b2g4f18gab29g0a0a8f3fbdce" version="1">繁彩注魔(火焰)</content>
+	<content contentuid="kt1416871g90b2g4f18gab29g0a0a8f3fbdce" version="1">繁彩注魔(闪电)</content>
+	<content contentuid="kt1576871g90b2g4f18gab29g0a0a8f3fbdce" version="1">繁彩注魔(闪电)</content>
+	<content contentuid="kt1416871g90b2g4f18gab29g0a0a8f3fbdce" version="1">繁彩注魔(闪电)</content>
+	<content contentuid="kt1576871g90b2g4f18gab29g0a0a8f3fbdce" version="1">繁彩注魔(闪电)</content>
+	<content contentuid="kt1426871g90b2g4f18gab29g0a0a8f3fbdce" version="1">繁彩注魔(毒素)</content>
+	<content contentuid="kt1596871g90b2g4f18gab29g0a0a8f3fbdce" version="1">繁彩注魔(毒素)</content>
+	<content contentuid="kt1426871g90b2g4f18gab29g0a0a8f3fbdce" version="1">繁彩注魔(毒素)</content>
+	<content contentuid="kt1596871g90b2g4f18gab29g0a0a8f3fbdce" version="1">繁彩注魔(毒素)</content>
+	<content contentuid="h484965aegec78g4a09g9401g01bfa60c1f57" version="1">繁彩注魔: 强酸</content>
+	<content contentuid="h484965aegec78g4a09g9401g01bfa60c1f57" version="1">繁彩注魔: 强酸</content>
+	<content contentuid="h485965aegec78g4a09g9401g01bfa60c1f57" version="1">繁彩注魔: 冷冻</content>
+	<content contentuid="h485965aegec78g4a09g9401g01bfa60c1f57" version="1">繁彩注魔: 冷冻</content>
+	<content contentuid="h486965aegec78g4a09g9401g01bfa60c1f57" version="1">繁彩注魔: 火焰</content>
+	<content contentuid="h486965aegec78g4a09g9401g01bfa60c1f57" version="1">繁彩注魔: 火焰</content>
+	<content contentuid="h487965aegec78g4a09g9401g01bfa60c1f57" version="1">繁彩注魔: 闪电</content>
+	<content contentuid="h487965aegec78g4a09g9401g01bfa60c1f57" version="1">繁彩注魔: 闪电</content>
+	<content contentuid="h488965aegec78g4a09g9401g01bfa60c1f57" version="1">繁彩注魔: 毒素</content>
+	<content contentuid="h488965aegec78g4a09g9401g01bfa60c1f57" version="1">繁彩注魔: 毒素</content>
+	<content contentuid="lz1486871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">云雾打击</content>
+	<content contentuid="lz1486871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">云雾打击</content>
+	<content contentuid="lz1606871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">云雾打击的攻击发起者</content>
+	<content contentuid="lz1606871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">云雾打击的攻击发起者</content>
+	<content contentuid="lz1626871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">被云雾打击的目标</content>
+	<content contentuid="lz1626871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">被云雾打击的目标</content>
+	<content contentuid="lz1416871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">迷云逃逸</content>
+	<content contentuid="lz1416871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">迷云逃逸</content>
+	<content contentuid="lz1176871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">烹饪特制食物</content>
+	<content contentuid="lz1176871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">烹饪特制食物</content>
+	<content contentuid="lz1196871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">烹饪特制零食</content>
+	<content contentuid="lz1196871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">烹饪特制零食</content>
+	<content contentuid="lz1376871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">强弩专家</content>
+	<content contentuid="lz1376871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">强弩专家</content>
+	<content contentuid="lz1646871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">强弩专家 - 额外攻击</content>
+	<content contentuid="lz1646871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">强弩专家 - 额外攻击</content>
+	<content contentuid="h793598d8gb51eg4028g8e47g57f23cd0268d" version="1">粉碎者</content>
+	<content contentuid="kt1616871g90b2g4f18gab29g0a0a8f3fbdce" version="1">粉碎者</content>
+	<content contentuid="h793598d8gb51eg4028g8e47g57f23cd0268d" version="1">粉碎者</content>
+	<content contentuid="kt1616871g90b2g4f18gab29g0a0a8f3fbdce" version="1">粉碎者</content>
+	<content contentuid="h723598d8gb51eg4028g8e47g57f23cd0268d" version="1">粉碎者</content>
+	<content contentuid="067327b8eee9416199efdeeeeeeeeeeeeeeee" version="1">粉碎者</content>
+	<content contentuid="h723598d8gb51eg4028g8e47g57f23cd0268d" version="1">粉碎者</content>
+	<content contentuid="067327b8eee9416199efdeeeeeeeeeeeeeeee" version="1">粉碎者</content>
+	<content contentuid="kt1046871g90b2g4f18gab29g0a0a8f3fbdce" version="1">粉碎者: 重击</content>
+	<content contentuid="kt1046871g90b2g4f18gab29g0a0a8f3fbdce" version="1">粉碎者: 重击</content>
+	<content contentuid="h763598d8gb51eg4028g8e47g57f23cd0268d" version="1">粉碎者: 重击</content>
+	<content contentuid="h763598d8gb51eg4028g8e47g57f23cd0268d" version="1">粉碎者: 重击</content>
+	<content contentuid="h743598d8gb51eg4028g8e47g57f23cd0268d" version="1">粉碎者: 击退</content>
+	<content contentuid="h743598d8gb51eg4028g8e47g57f23cd0268d" version="1">粉碎者: 击退</content>
+	<content contentuid="kt1026871g90b2g4f18gab29g0a0a8f3fbdce" version="1">粉碎者: 推离</content>
+	<content contentuid="kt1026871g90b2g4f18gab29g0a0a8f3fbdce" version="1">粉碎者: 推离</content>
+	<content contentuid="kt1836871g90b2g4f18gab29g0a0a8f3fbdce" version="1">粉碎者: 移动目标</content>
+	<content contentuid="kt1836871g90b2g4f18gab29g0a0a8f3fbdce" version="1">粉碎者: 移动目标</content>
+	<content contentuid="h489965aegec78g4a09g9401g01bfa60c1f57" version="1">造成额外的 [1] 伤害。</content>
+	<content contentuid="h489965aegec78g4a09g9401g01bfa60c1f57" version="1">造成额外 [1]。</content>
+	<content contentuid="hc10571e2g30e8g4c86gb988ga9a234b4c0b5" version="1">闪避</content>
+	<content contentuid="hc10571e2g30e8g4c86gb988ga9a234b4c0b5" version="1">闪避</content>
+	<content contentuid="hg94c268ag49b0g48cbgaf37g76cec2369e9e" version="1">闪避动作</content>
+	<content contentuid="hg94c268ag49b0g48cbgaf37g76cec2369e9e" version="1">闪避动作</content>
+	<content contentuid="hb93172abga0feg4f07g9995g95eb0d815054" version="1">闪避动作·矮人坚毅</content>
+	<content contentuid="hb93172abga0feg4f07g9995g95eb0d815054" version="1">闪避动作·矮人坚毅 |需要在战斗中|</content>
+	<content contentuid="5fea8060c9b54efda13e38216ce76654" version="1">龙爪</content>
+	<content contentuid="5fea8060c9b54efda13e38216ce76654" version="1">龙之鳞爪</content>
+	<content contentuid="5fea8060c9b54efda13e38216ce76658" version="1">龙鳞爪</content>
+	<content contentuid="5fea8060c9b54efda13e38216ce76658" version="1">龙鳞爪</content>
+	<content contentuid="hg5636871g90b2g4f18gab29g0a0a8f3fbdce" version="1">卓尔刺客毒药</content>
+	<content contentuid="hg5636871g90b2g4f18gab29g0a0a8f3fbdce" version="1">卓尔刺客毒药</content>
+	<content contentuid="h0111754eg8648g431fg89f4g78cf75db7e08" version="1">矮人坚毅</content>
+	<content contentuid="h0111754eg8648g431fg89f4g78cf75db7e08" version="1">矮人坚毅</content>
+	<content contentuid="kt1666871g90b2g4f18gab29g0a0a8f3fbdce" version="1">每个生物获得 5 点&lt;LSTag Tooltip="TemporaryHitPoints"&gt;临时生命值&lt;/LSTag&gt;。</content>
+	<content contentuid="kt1666871g90b2g4f18gab29g0a0a8f3fbdce" version="1">每个生物获得 5 点&lt;LSTag Tooltip="TemporaryHitPoints"&gt;临时生命值&lt;/LSTag&gt;。</content>
+	<content contentuid="hcb58dd94gcf75g443cgb23cg53a8bcca062d" version="1">魔能导师</content>
+	<content contentuid="hg64c268ag49b0g48cbgaf37g76cec2369e9e" version="1">魔能导师</content>
+	<content contentuid="71c9b858606f459e8c9bdeeeeeeeeeeeeeeee" version="1">魔能导师</content>
+	<content contentuid="hcb58dd94gcf75g443cgb23cg53a8bcca062d" version="1">魔能导师</content>
+	<content contentuid="hg64c268ag49b0g48cbgaf37g76cec2369e9e" version="1">魔能导师</content>
+	<content contentuid="71c9b858606f459e8c9bdeeeeeeeeeeeeeeee" version="1">魔能导师</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7743" version="1">精灵之准</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7743" version="1">精灵之准</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7751" version="1">精灵之准: 魅力</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7751" version="1">精灵之准: 魅力</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7745" version="1">精灵之准: 敏捷</content>
+	<content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3635" version="1">精灵之准: 敏捷</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7745" version="1">精灵之准: 敏捷</content>
+	<content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3635" version="1">精灵之准: 敏捷</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7747" version="1">精灵之准: 智力</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7747" version="1">精灵之准: 智力</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7749" version="1">精灵之准: 感知</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7749" version="1">精灵之准: 感知</content>
+	<content contentuid="lz1666871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">火巨人之余烬</content>
+	<content contentuid="lz1666871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">火巨人之余烬</content>
+	<content contentuid="lz1816871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">火巨人之余烬次数</content>
+	<content contentuid="lz1816871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">火巨人之余烬次数</content>
+	<content contentuid="lz1446871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">终止迷云逃逸</content>
+	<content contentuid="lz1446871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">终止迷云逃逸</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7766" version="1">众人之友</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7766" version="1">众人之友</content>
+	<content contentuid="lz1096871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">匿影无踪</content>
+	<content contentuid="lz1096871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">匿影无踪</content>
+	<content contentuid="h050b503bg4825g43fdg8978gb53162c7880d" version="1">妖精触碰</content>
+	<content contentuid="kt1066871g90b2g4f18gab29g0a0a8f3fbdce" version="1">妖精触碰</content>
+	<content contentuid="h050b503bg4825g43fdg8978gb53162c7880d" version="1">精类触碰</content>
+	<content contentuid="kt1066871g90b2g4f18gab29g0a0a8f3fbdce" version="1">精类触碰</content>
+	<content contentuid="h055b503bg4825g43fdg8978gb53162c7880d" version="1">妖精触碰: 魅力</content>
+	<content contentuid="h055b503bg4825g43fdg8978gb53162c7880d" version="1">精类触碰: 魅力</content>
+	<content contentuid="43c1b148bf6b46e7bc32deeeeeeeeeeeeeeee" version="1">妖精触碰: 魅力</content>
+	<content contentuid="43c1b148bf6b46e7bc32deeeeeeeeeeeeeeee" version="1">精类触碰: 魅力</content>
+	<content contentuid="h051b503bg4825g43fdg8978gb53162c7880d" version="1">妖精触碰: 智力</content>
+	<content contentuid="4a1673a9b4bd410b9a36deeeeeeeeeeeeeeee" version="1">妖精触碰: 智力</content>
+	<content contentuid="h051b503bg4825g43fdg8978gb53162c7880d" version="1">精类触碰: 智力</content>
+	<content contentuid="4a1673a9b4bd410b9a36deeeeeeeeeeeeeeee" version="1">精类触碰: 智力</content>
+	<content contentuid="h057b503bg4825g43fdg8978gb53162c7880d" version="1">妖精触碰: 迷踪步</content>
+	<content contentuid="h057b503bg4825g43fdg8978gb53162c7880d" version="1">精类触碰: 迷踪步</content>
+	<content contentuid="h053b503bg4825g43fdg8978gb53162c7880d" version="1">妖精触碰: 感知</content>
+	<content contentuid="c40263500d4a45dc8a2bdeeeeeeeeeeeeeeee" version="1">妖精触碰: 感知</content>
+	<content contentuid="h053b503bg4825g43fdg8978gb53162c7880d" version="1">精类触碰: 感知</content>
+	<content contentuid="c40263500d4a45dc8a2bdeeeeeeeeeeeeeeee" version="1">精类触碰: 感知</content>
+	<content contentuid="h413d1a5cg666cg46b8g9e6cg9548f518d606" version="1">战斗学徒</content>
+	<content contentuid="7db5288aa5f342c088cbdeeeeeeeeeeeeeeee" version="1">战斗学徒</content>
+	<content contentuid="h413d1a5cg666cg46b8g9e6cg9548f518d606" version="1">战斗学徒</content>
+	<content contentuid="7db5288aa5f342c088cbdeeeeeeeeeeeeeeee" version="1">战斗学徒</content>
+	<content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3637" version="1">火焰光环</content>
+	<content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3637" version="1">火焰光环</content>
+	<content contentuid="lz1506871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">火焰打击</content>
+	<content contentuid="lz1506871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">火焰打击</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7762" version="1">弗莱格索斯之焰</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7762" version="1">弗莱格索斯之焰</content>
+	<content contentuid="hg75c268ag49b0g48cbgaf37g76cec2369e9e" version="1">弗莱格索斯之焰: 魅力</content>
+	<content contentuid="hg75c268ag49b0g48cbgaf37g76cec2369e9e" version="1">弗莱格索斯之焰: 魅力</content>
+	<content contentuid="hg74c268ag49b0g48cbgaf37g76cec2369e9e" version="1">弗莱格索斯之焰: 智力</content>
+	<content contentuid="hg74c268ag49b0g48cbgaf37g76cec2369e9e" version="1">弗莱格索斯之焰: 智力</content>
+	<content contentuid="hc10671e2g30e8g4c86gb988ga9a234b4c0b5" version="1">专注于自身防御并避开随之而来的打击。直到你的下个回合开始, 针对你的攻击都具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LsTag&gt;。</content>
+	<content contentuid="hc10671e2g30e8g4c86gb988ga9a234b4c0b5" version="1">专注于自身防御并避开随之而来的打击。直到你的下个回合开始, 针对你的攻击都具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LsTag&gt;。</content>
+	<content contentuid="kt1546871g90b2g4f18gab29g0a0a8f3fbdce" version="1">在接下来的一分钟内, 该武器在命中时额外造成 [1]。</content>
+	<content contentuid="kt1566871g90b2g4f18gab29g0a0a8f3fbdce" version="1">在接下来的一分钟内, 该武器在命中时额外造成 [1]。</content>
+	<content contentuid="kt1586871g90b2g4f18gab29g0a0a8f3fbdce" version="1">在接下来的一分钟内, 该武器在命中时额外造成 [1]。</content>
+	<content contentuid="kt1606871g90b2g4f18gab29g0a0a8f3fbdce" version="1">在接下来的一分钟内, 该武器在命中时额外造成 [1]。</content>
+	<content contentuid="kt1546871g90b2g4f18gab29g0a0a8f3fbdce" version="1">在接下来的一分钟内, 该武器在命中时额外造成 [1]。</content>
+	<content contentuid="kt1566871g90b2g4f18gab29g0a0a8f3fbdce" version="1">在接下来的一分钟内, 该武器在命中时额外造成 [1]。</content>
+	<content contentuid="kt1586871g90b2g4f18gab29g0a0a8f3fbdce" version="1">在接下来的一分钟内, 该武器在命中时额外造成 [1]。</content>
+	<content contentuid="kt1606871g90b2g4f18gab29g0a0a8f3fbdce" version="1">在接下来的一分钟内, 该武器在命中时额外造成 [1]。</content>
+	<content contentuid="kt1526871g90b2g4f18gab29g0a0a8f3fbdce" version="1">在接下来的一分钟内, 该武器在命中时额外造成 [1]。</content>
+	<content contentuid="kt1526871g90b2g4f18gab29g0a0a8f3fbdce" version="1">在接下来的一分钟内, 该武器在命中时额外造成 [1]。</content>
+	<content contentuid="lz1936871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">霜寒回击</content>
+	<content contentuid="lz1936871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">霜寒回击</content>
+	<content contentuid="lz1896871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">霜寒回击 - 体质</content>
+	<content contentuid="lz1896871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">霜寒回击 - 体质</content>
+	<content contentuid="lz1886871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">霜寒回击 - 力量</content>
+	<content contentuid="lz1886871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">霜寒回击 - 力量</content>
+	<content contentuid="lz1906871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">霜寒回击 - 感知</content>
+	<content contentuid="lz1906871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">霜寒回击 - 感知</content>
+	<content contentuid="lz1916871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">霜寒回击。当一个30尺内你可见的生物以攻击检定命中你，并对你造成伤害后，你可以立即用你的反应来唤出碎裂的寒冰来予以还击。那个生物必须进行一次&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;（DC为8+你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;+本专长提升属性的修正值）。豁免失败时，该生物将受 1d8+你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;点冷冻伤害，并速度归0，直至其下一个回合结束。你可以使用这一反应的次数等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;，在完成一次 &lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后你恢复所有已消耗的使用次数。</content>
+	<content contentuid="lz1916871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">霜寒回击。当一个30尺内你可见的生物以攻击检定命中你，并对你造成伤害后，你可以立即用你的反应来唤出碎裂的寒冰来予以还击。那个生物必须进行一次&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;（DC为8+你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;+本专长提升属性的调整值）。豁免失败时，该生物将受 1d8+你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;点冷冻伤害，并速度归0，直至其下一个回合结束。你可以使用这一反应的次数等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;，在完成一次 &lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后你恢复所有已消耗的使用次数。</content>
+	<content contentuid="lz1526871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">寒霜打击</content>
+	<content contentuid="lz1526871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">寒霜打击</content>
+	<content contentuid="lz1686871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">霜巨人之狂怒</content>
+	<content contentuid="lz1686871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">霜巨人之狂怒</content>
+	<content contentuid="lz1926871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">霜巨人之狂怒次数</content>
+	<content contentuid="lz1926871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">霜巨人之狂怒次数</content>
+	<content contentuid="hc675e988g6f86g45f8g8aacgdc3c0cdbaa26" version="1">获得 [1]。</content>
+	<content contentuid="hc675e988g6f86g45f8g8aacgdc3c0cdbaa26" version="1">获得 [1]。</content>
+	<content contentuid="h477965aegec78g4a09g9401g01bfa60c1f57" version="1">色彩龙赋礼</content>
+	<content contentuid="ab474144fa5245d39112deeeeeeeeeeeeeeee" version="1">色彩龙赋礼</content>
+	<content contentuid="h477965aegec78g4a09g9401g01bfa60c1f57" version="1">色彩龙赋礼</content>
+	<content contentuid="ab474144fa5245d39112deeeeeeeeeeeeeeee" version="1">色彩龙赋礼</content>
+	<content contentuid="hfda422cageaceg4b1agbca4gda8b870ccdd6" version="1">宝石龙赋礼</content>
+	<content contentuid="hfda422cageaceg4b1agbca4gda8b870ccdd6" version="1">宝石龙赋礼</content>
+	<content contentuid="hcefd460eg599cg4afbg8b0bg66e20997e71f" version="1">金属龙赋礼</content>
+	<content contentuid="hcefd460eg599cg4afbg8b0bg66e20997e71f" version="1">金属龙赋礼</content>
+	<content contentuid="h479965aegec78g4a09g9401g01bfa60c1f57" version="1">色彩龙赋礼:繁彩注魔</content>
+	<content contentuid="h479965aegec78g4a09g9401g01bfa60c1f57" version="1">色彩龙赋礼: 繁彩注魔</content>
+	<content contentuid="h481965aegec78g4a09g9401g01bfa60c1f57" version="1">反应抗性</content>
+	<content contentuid="h481965aegec78g4a09g9401g01bfa60c1f57" version="1">色彩龙赋礼: 反应抗性</content>
+	<content contentuid="hffa422cageaceg4b1agbca4gda8b870ccdd6" version="1">宝石龙赋礼:念力报复</content>
+	<content contentuid="hffa422cageaceg4b1agbca4gda8b870ccdd6" version="1">宝石龙赋礼: 念力报复</content>
+	<content contentuid="hcgfd460eg599cg4afbg8b0bg66e20997e71f" version="1">金属龙赋礼: 龙类治疗</content>
+	<content contentuid="hcgfd460eg599cg4afbg8b0bg66e20997e71f" version="1">金属龙赋礼: 龙类治疗</content>
+	<content contentuid="hcifd460eg599cg4afbg8b0bg66e20997e71f" version="1">金属龙赋礼: 庇护之翼</content>
+	<content contentuid="hcifd460eg599cg4afbg8b0bg66e20997e71f" version="1">金属龙赋礼: 庇护之翼</content>
+	<content contentuid="h84ed42e6ge239g4717g85dbg1471234127d6" version="1">极其严重的伤口</content>
+	<content contentuid="h84ed42e6ge239g4717g85dbg1471234127d6" version="1">极其严重的伤口</content>
+	<content contentuid="lz1396871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">云巨人之诡诈</content>
+	<content contentuid="lz1396871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">云巨人之诡诈</content>
+	<content contentuid="lz1346871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">枪手</content>
+	<content contentuid="lz1346871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">枪手</content>
+	<content contentuid="6f1f46a7df5a42e38bb4deeeeeeeeeeeeeeee" version="1">医疗师</content>
+	<content contentuid="kt1636871g90b2g4f18gab29g0a0a8f3fbdce" version="1">医疗师</content>
+	<content contentuid="6f1f46a7df5a42e38bb4deeeeeeeeeeeeeeee" version="1">医疗师</content>
+	<content contentuid="kt1636871g90b2g4f18gab29g0a0a8f3fbdce" version="1">医疗师</content>
+	<content contentuid="kt1106871g90b2g4f18gab29g0a0a8f3fbdce" version="1">医疗师: 处理伤口</content>
+	<content contentuid="kt1436871g90b2g4f18gab29g0a0a8f3fbdce" version="1">医疗师: 处理伤口</content>
+	<content contentuid="kt1106871g90b2g4f18gab29g0a0a8f3fbdce" version="1">医疗师: 处理伤口</content>
+	<content contentuid="kt1436871g90b2g4f18gab29g0a0a8f3fbdce" version="1">医疗师: 处理伤口</content>
+	<content contentuid="lz1546871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">山丘打击</content>
+	<content contentuid="lz1546871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">山丘打击</content>
+	<content contentuid="hg85c268ag49b0g48cbgaf37g76cec2369e9e" version="1">在昏暗的光线下, 你的隐匿&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;具有优势。</content>
+	<content contentuid="hg85c268ag49b0g48cbgaf37g76cec2369e9e" version="1">在昏暗的光线下, 你的隐匿&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;具有优势。</content>
+	<content contentuid="eafd844a2e9a41eeb2a7deeeeeeeeeeeeeeee" version="1">一项&lt;LSTag Tooltip="AbilityScore"&gt;属性值&lt;/LSTag&gt; +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;选择一项你已经熟练的技能, 你获得该项技能&lt;LSTag Tooltip="Expertise"&gt;专精&lt;/LSTag&gt;。</content>
+	<content contentuid="eafd844a2e9a41eeb2a7deeeeeeeeeeeeeeee" version="1">一项&lt;LSTag Tooltip="AbilityScore"&gt;属性值&lt;/LSTag&gt; +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;选择一项你已经熟练的技能, 你获得该项技能&lt;LSTag Tooltip="Expertise"&gt;专精&lt;/LSTag&gt;。</content>
+	<content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3641" version="1">你选择你的一项&lt;LSTag Tooltip="AbilityScore"&gt;属性值&lt;/LSTag&gt; +1, 属性上限为 20。你选择获得一项&lt;LSTag Tooltip="Skill"&gt;技能&lt;/LSTag&gt;熟练。&lt;br&gt;&lt;br&gt;选择一项你已经熟练的技能, 你获得该项技能&lt;LSTag Tooltip="Expertise"&gt;专精&lt;/LSTag&gt;。选择的技能必须未受益于其他使&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;翻倍的特性, 例如专精特性。</content>
+	<content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3641" version="1">你选择你的一项&lt;LSTag Tooltip="AbilityScore"&gt;属性值&lt;/LSTag&gt; +1, 属性上限为 20。你选择获得一项&lt;LSTag Tooltip="Skill"&gt;技能&lt;/LSTag&gt;熟练。&lt;br&gt;&lt;br&gt;选择一项你已经熟练的技能, 你获得该项技能&lt;LSTag Tooltip="Expertise"&gt;专精&lt;/LSTag&gt;。选择的技能必须未受益于其他使&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;翻倍的特性, 例如专精特性。</content>
+	<content contentuid="h217b2a94g427eg4376gb4cfg2597f877d55b" version="1">你选择你的一项&lt;LSTag Tooltip="AbilityScore"&gt;属性値&lt;/LSTag&gt; +1, 属性上限为 20。你选择获得一项&lt;LSTag Tooltip="Skill"&gt;技能&lt;/LSTag&gt;熟练。&lt;br&gt;&lt;br&gt;选择一项你已经熟练的技能, 你获得该项技能&lt;LSTag Tooltip="Expertise"&gt;专精&lt;/LSTag&gt;。选择的技能必须未受益于其他使&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加値&lt;/LSTag&gt;翻倍的特性, 例如专精特性。</content>
+	<content contentuid="h217b2a94g427eg4376gb4cfg2597f877d55b" version="1">你选择你的一项&lt;LSTag Tooltip="AbilityScore"&gt;属性値&lt;/LSTag&gt; +1, 属性上限为 20。你选择获得一项&lt;LSTag Tooltip="Skill"&gt;技能&lt;/LSTag&gt;熟练。&lt;br&gt;&lt;br&gt;选择一项你已经熟练的技能, 你获得该项技能&lt;LSTag Tooltip="Expertise"&gt;专精&lt;/LSTag&gt;。选择的技能必须未受益于其他使&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加値&lt;/LSTag&gt;翻倍的特性, 例如专精特性。</content>
+	<content contentuid="kt1316871g90b2g4f18gab29g0a0a8f3fbdce" version="1">你的&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;属性 +1。你可以在不需要言语或姿势成分的情况下施展&lt;LSTag Type="Spell" Tooltip="Target_MageHand_Telekinetic"&gt;法师之手&lt;/LSTag&gt;。你还可以使用选定的能力值作为法术DC, 通过念动力来&lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Push"&gt;推离&lt;/LSTag&gt;和&lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Pull"&gt;拉近&lt;/LSTag&gt;一个生物。</content>
+	<content contentuid="kt1276871g90b2g4f18gab29g0a0a8f3fbdce" version="1">你的&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;属性 +1。你可以在不需要言语或姿势成分的情况下施展&lt;LSTag Type="Spell" Tooltip="Target_MageHand_Telekinetic"&gt;法师之手&lt;/LSTag&gt;。你还可以使用选定的能力值作为法术DC, 通过念动力来&lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Push"&gt;推离&lt;/LSTag&gt;和&lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Pull"&gt;拉近&lt;/LSTag&gt;一个生物。</content>
+	<content contentuid="kt1296871g90b2g4f18gab29g0a0a8f3fbdce" version="1">你的&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;属性 +1。你可以在不需要言语或姿势成分的情况下施展&lt;LSTag Type="Spell" Tooltip="Target_MageHand_Telekinetic"&gt;法师之手&lt;/LSTag&gt;。你还可以使用选定的能力值作为法术DC, 通过念动力来&lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Push"&gt;推离&lt;/LSTag&gt;和&lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Pull"&gt;拉近&lt;/LSTag&gt;一个生物。</content>
+	<content contentuid="kt1276871g90b2g4f18gab29g0a0a8f3fbdce" version="1">你的&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;属性 +1。你可以在不需要言语或姿势成分的情况下施展&lt;LSTag Type="Spell" Tooltip="Target_MageHand_Telekinetic"&gt;法师之手&lt;/LSTag&gt;。你还可以使用选定的能力值作为法术DC, 通过念动力来&lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Push"&gt;推离&lt;/LSTag&gt;和&lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Pull"&gt;拉近&lt;/LSTag&gt;一个生物。</content>
+	<content contentuid="kt1296871g90b2g4f18gab29g0a0a8f3fbdce" version="1">你的&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;属性 +1。你可以在不需要言语或姿势成分的情况下施展&lt;LSTag Type="Spell" Tooltip="Target_MageHand_Telekinetic"&gt;法师之手&lt;/LSTag&gt;。你还可以使用选定的能力值作为法术DC, 通过念动力来&lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Push"&gt;推离&lt;/LSTag&gt;和&lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Pull"&gt;拉近&lt;/LSTag&gt;一个生物。</content>
+	<content contentuid="kt1316871g90b2g4f18gab29g0a0a8f3fbdce" version="1">你的&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;属性 +1。你可以在不需要言语或姿势成分的情况下施展&lt;LSTag Type="Spell" Tooltip="Target_MageHand_Telekinetic"&gt;法师之手&lt;/LSTag&gt;。你还可以使用选定的能力值作为法术DC, 通过念动力来&lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Push"&gt;推离&lt;/LSTag&gt;和&lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Pull"&gt;拉近&lt;/LSTag&gt;一个生物。</content>
+	<content contentuid="hg99e268ag49b0g48cbgaf37g76cec2369e9e" version="1">你的&lt;LSTag Tooltip="IntelliPrerequisitegence"&gt;智力&lt;/LSTag&gt;或是&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;你获得察觉和调查 +5 加值。</content>
+	<content contentuid="hg99e268ag49b0g48cbgaf37g76cec2369e9e" version="1">你的&lt;LSTag Tooltip="IntelliPrerequisitegence"&gt;智力&lt;/LSTag&gt;或是&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;你获得察觉和调查 +5 加值。</content>
+	<content contentuid="hfea422cageaceg4b1agbca4gda8b870ccdd6" version="1">你的智力，感知或魅力提升1，上限为20。&lt;br&gt;&lt;br&gt;当你受到来自距离你10尺内的生物的伤害时，你可以用你的反应来驱使念动力，对该生物造成力场伤害并将其推离。</content>
+	<content contentuid="hfea422cageaceg4b1agbca4gda8b870ccdd6" version="1">你的&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;, &lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;或是&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;中的一项属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;当你受到在你 3m(5尺)范围内的目标造成的伤害, 你可以使用反应来造成力场伤害幷且尝试将目标推离。</content>
+	<content contentuid="h6048faf5g7575g4027g91c8gb0672198341e" version="1">你习得用你的意念移动物体的能力。选择&lt;LSTag Tooltip="AbilityScore"&gt;属性値&lt;/LSTag&gt;(智力, 感知, 魅力) +1, 最高不超过20。&lt;br&gt;&lt;br&gt;你可以在不需要言语或肢体动作的情况下施展&lt;LSTag Type="Spell" Tooltip="Target_MageHand_Telekinetic"&gt;法师之手&lt;/LSTag&gt;。你还可以使用选定的能力値作为&lt;LSTag Tooltip="DifficultyClass"&gt;法术DC&lt;/LSTag&gt;, 通过心灵感应来&lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Push"&gt;推离&lt;/LSTag&gt;和&lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Pull"&gt;拉近&lt;/LSTag&gt;一个生物。</content>
+	<content contentuid="h6048faf5g7575g4027g91c8gb0672198341e" version="1">你习得用你的意念移动物体的能力。选择&lt;LSTag Tooltip="AbilityScore"&gt;属性値&lt;/LSTag&gt;(智力, 感知, 魅力) +1, 最高不超过20。&lt;br&gt;&lt;br&gt;你可以在不需要言语或肢体动作的情况下施展&lt;LSTag Type="Spell" Tooltip="Target_MageHand_Telekinetic"&gt;法师之手&lt;/LSTag&gt;。你还可以使用选定的能力値作为&lt;LSTag Tooltip="DifficultyClass"&gt;法术DC&lt;/LSTag&gt;, 通过心灵感应来&lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Push"&gt;推离&lt;/LSTag&gt;和&lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Pull"&gt;拉近&lt;/LSTag&gt;一个生物。</content>
+	<content contentuid="111cf2a199684222be14deeeeeeeeeeeeeeee" version="1">你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;或是&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;属性 +1, 属性上限为 20。每回合一次, 当你用近战攻击命中一个目标并造成钝击伤害时, 你可将目标推离 2m, 前提是目标的体型不超过你一个体型等级。&lt;br&gt;&lt;br&gt;当你用近战攻击对一个目标造成钝击伤害, 并且达成&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时, 直到你的下一回合开始, 所有对该目标的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;都具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+	<content contentuid="111cf2a199684222be14deeeeeeeeeeeeeeee" version="1">你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;或是&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;属性 +1, 属性上限为 20。每回合一次, 当你用近战攻击命中一个目标并造成钝击伤害时, 你可将目标推离 2m, 前提是目标的体型不超过你一个体型等级。&lt;br&gt;&lt;br&gt;当你用近战攻击对一个目标造成钝击伤害, 并且达成&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时, 直到你的下一回合开始, 所有对该目标的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;都具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+	<content contentuid="h733598d8gb51eg4028g8e47g57f23cd0268d" version="1">你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;或是&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;属性 +1, 属性上限为 20。每回合一次, 当你用攻击命中一个目标幷造成钝击伤害时, 你可将目标推离 2m, 前提是目标的体型不超过你一个体型等级。&lt;br&gt;&lt;br&gt;当你用攻击对一个目标造成钝击伤害, 幷且达成&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时, 直到你的下一回合开始, 所有对该目标的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;都具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+	<content contentuid="h733598d8gb51eg4028g8e47g57f23cd0268d" version="1">你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;或是&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;属性 +1, 属性上限为 20。每回合一次, 当你用攻击命中一个目标幷造成钝击伤害时, 你可将目标推离 2m, 前提是目标的体型不超过你一个体型等级。&lt;br&gt;&lt;br&gt;当你用攻击对一个目标造成钝击伤害, 幷且达成&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时, 直到你的下一回合开始, 所有对该目标的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;都具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+	<content contentuid="c96404926f204f97869fdeeeeeeeeeeeeeeee" version="1">你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;或是&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;属性 +1, 属性上限为 20。每回合一次, 当你用近战攻击命中一个目标并造成挥砍伤害时, 你可降低目标的&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt; 3m(10尺), 直到你下一回合开始。&lt;br&gt;&lt;br&gt;当你用近战攻击对一个目标造成挥砍伤害, 并且达成&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时, 该目标所有&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;都具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LsTag&gt;, 直到你下一回合开始。</content>
+	<content contentuid="c96404926f204f97869fdeeeeeeeeeeeeeeee" version="1">你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;或是&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;属性 +1, 属性上限为 20。每回合一次, 当你用近战攻击命中一个目标并造成挥砍伤害时, 你可降低目标的&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt; 3m(10尺), 直到你下一回合开始。&lt;br&gt;&lt;br&gt;当你用近战攻击对一个目标造成挥砍伤害, 并且达成&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时, 该目标所有&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;都具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LsTag&gt;, 直到你下一回合开始。</content>
+	<content contentuid="h79ed42e6ge239g4717g85dbg1471234127d6" version="1">你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;或是&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;属性 +1, 属性上限为 20。每回合一次, 当你用攻击命中一个目标幷造成挥砍伤害时, 你可降低目标的&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt; 3m(10尺), 直到你下一回合开始。&lt;br&gt;&lt;br&gt;当你用攻击对一个目标造成挥砍伤害, 幷且达成&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时, 该目标所有&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;都具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LsTag&gt;, 直到你下一回合开始。</content>
+	<content contentuid="h79ed42e6ge239g4717g85dbg1471234127d6" version="1">你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;或是&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;属性 +1, 属性上限为 20。每回合一次, 当你用攻击命中一个目标幷造成挥砍伤害时, 你可降低目标的&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt; 3m(10尺), 直到你下一回合开始。&lt;br&gt;&lt;br&gt;当你用攻击对一个目标造成挥砍伤害, 幷且达成&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时, 该目标所有&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;都具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LsTag&gt;, 直到你下一回合开始。</content>
+	<content contentuid="h66b60f34g99ebg476eg93f7g217b7ef0303a" version="1">你的力量或敏捷提升1，上限为20。&lt;br&gt;&lt;br&gt;每回合一次，当你用造成穿刺伤害的攻击命中一个生物时，你可以重投其中一个伤害骰，并使用最高的结果。当你用造成穿刺伤害的攻击命中一个生物并且造成重击时，你可以在计算穿刺伤害时投一个额外的伤害骰。</content>
+	<content contentuid="h66b60f34g99ebg476eg93f7g217b7ef0303a" version="1">你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;或是&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;属性 +1, 属性上限为 20。每回合一次, 当你用攻击命中一个目标幷造成穿刺伤害时, 你投掷伤害骰两次取最高的结果。&lt;br&gt;&lt;br&gt;当你用攻击对一个目标造成穿刺伤害, 幷且达成&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时, 你可以在结算伤害时投一个额外的穿刺伤害骰。</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7753" version="1">炼狱体质</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7753" version="1">炼狱体质</content>
+	<content contentuid="hc475e988g6f86g45f8g8aacgdc3c0cdbaa26" version="1">激励你的同伴, 给予他们 [1]。</content>
+	<content contentuid="hc475e988g6f86g45f8g8aacgdc3c0cdbaa26" version="1">激励你的同伴, 给予他们 [1]。</content>
+	<content contentuid="hc575e988g6f86g45f8g8aacgdc3c0cdbaa26" version="1">被激励</content>
+	<content contentuid="kt1656871g90b2g4f18gab29g0a0a8f3fbdce" version="1">激励</content>
+	<content contentuid="hc575e988g6f86g45f8g8aacgdc3c0cdbaa26" version="1">被激励</content>
+	<content contentuid="kt1656871g90b2g4f18gab29g0a0a8f3fbdce" version="1">激励</content>
+	<content contentuid="hc175e988g6f86g45f8g8aacgdc3c0cdbaa26" version="1">领袖之证</content>
+	<content contentuid="ffe76208b5f14fac83c5deeeeeeeeeeeeeeee" version="1">领袖之证</content>
+	<content contentuid="kt1126871g90b2g4f18gab29g0a0a8f3fbdce" version="1">领袖之证</content>
+	<content contentuid="kt1346871g90b2g4f18gab29g0a0a8f3fbdce" version="1">领袖之证</content>
+	<content contentuid="hc175e988g6f86g45f8g8aacgdc3c0cdbaa26" version="1">领袖之证</content>
+	<content contentuid="ffe76208b5f14fac83c5deeeeeeeeeeeeeeee" version="1">领袖之证</content>
+	<content contentuid="kt1126871g90b2g4f18gab29g0a0a8f3fbdce" version="1">领袖之证</content>
+	<content contentuid="kt1346871g90b2g4f18gab29g0a0a8f3fbdce" version="1">领袖之证</content>
+	<content contentuid="lz20506871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">钢铁肠胃</content>
+	<content contentuid="lz20506871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">钢铁肠胃</content>
+	<content contentuid="lz1706871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">石巨人之敏锐</content>
+	<content contentuid="lz1706871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">石巨人之敏锐</content>
+	<content contentuid="lz1996871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">石巨人之敏锐次数</content>
+	<content contentuid="lz1996871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">石巨人之敏锐次数</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7770" version="1">幸运点</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7770" version="1">幸运点</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7768" version="1">幸运</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7768" version="1">幸运</content>
+	<content contentuid="lz2076871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">旋涡灵光</content>
+	<content contentuid="lz2076871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">旋涡灵光</content>
+	<content contentuid="lz2126871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">旋涡灵光 - 魅力</content>
+	<content contentuid="lz2126871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">旋涡灵光 - 魅力</content>
+	<content contentuid="lz2106871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">旋涡灵光 - 力量</content>
+	<content contentuid="lz2106871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">旋涡灵光 - 力量</content>
+	<content contentuid="lz2116871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">旋涡灵光 - 感知</content>
+	<content contentuid="lz2116871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">旋涡灵光 - 感知</content>
+	<content contentuid="hg59c268ag49b0g48cbgaf37g76cec2369e9e" version="1">'魔法'卓尔刺客毒药</content>
+	<content contentuid="hg59c268ag49b0g48cbgaf37g76cec2369e9e" version="1">'魔法'卓尔刺客毒药</content>
+	<content contentuid="hg5848970g49d4g4d9agb7bfg50ce6a8c581f" version="1">刺客的'魔法'制毒工具包</content>
+	<content contentuid="hg5848970g49d4g4d9agb7bfg50ce6a8c581f" version="1">刺客的'魔法'制毒工具包</content>
+	<content contentuid="hg4336871g90b2g4f18gab29g0a0a8f3fbdce" version="1">刺客的'魔法'制毒工具包</content>
+	<content contentuid="hg4336871g90b2g4f18gab29g0a0a8f3fbdce" version="1">刺客的'魔法'制毒工具包</content>
+	<content contentuid="hg61c268ag49b0g48cbgaf37g76cec2369e9e" version="1">'魔法'制毒工具包: 将物品结合以制造毒药和其他物品。&lt;br&gt;'魔法'制毒工具包 + 基础毒药 = '魔法'卓尔刺客毒药(黯蚀伤害); '魔法'制毒工具包 + 治疗药水 = 基础毒药(2), '魔法'制毒工具包 + 高级治疗药水 = 基础毒药(4)。</content>
+	<content contentuid="hg61c268ag49b0g48cbgaf37g76cec2369e9e" version="1">'魔法'制毒工具包: 将物品结合以制造毒药和其他物品。&lt;br&gt;'魔法'制毒工具包 + 基础毒药 = '魔法'卓尔刺客毒药(黯蚀伤害); '魔法'制毒工具包 + 治疗药水 = 基础毒药(2), '魔法'制毒工具包 + 高级治疗药水 = 基础毒药(4)。</content>
+	<content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3638" version="1">近战攻击你的人受到 [1]。</content>
+	<content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3638" version="1">近战攻击你的人受到 [1]。</content>
+	<content contentuid="h0b59fcf7g8d17g4f94g8cc1g5610f278fdfc" version="1">超魔法导师</content>
+	<content contentuid="e0f4007618ac4548ba91deeeeeeeeeeeeeeee" version="1">超魔法导师</content>
+	<content contentuid="kt1146871g90b2g4f18gab29g0a0a8f3fbdce" version="1">超魔法导师</content>
+	<content contentuid="h0b59fcf7g8d17g4f94g8cc1g5610f278fdfc" version="1">超魔法导师</content>
+	<content contentuid="e0f4007618ac4548ba91deeeeeeeeeeeeeeee" version="1">超魔法导师</content>
+	<content contentuid="kt1146871g90b2g4f18gab29g0a0a8f3fbdce" version="1">超魔法导师</content>
+	<content contentuid="kt1806871g90b2g4f18gab29g0a0a8f3fbdce" version="1">移动速度降低了 [3]</content>
+	<content contentuid="kt1806871g90b2g4f18gab29g0a0a8f3fbdce" version="1">移动速度降低了 [3]</content>
+	<content contentuid="lz1946871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">移动速度归0，直到下个回合结束。</content>
+	<content contentuid="lz1946871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">移动速度归0，直到下个回合结束。</content>
+	<content contentuid="hf58ce7ebgc709g4544gb9aeg782038d02b67" version="1">数值等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;。</content>
+	<content contentuid="hf58ce7ebgc709g4544gb9aeg782038d02b67" version="1">数值等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;。</content>
+	<content contentuid="h16572ca9g4f5cg49aega9fag5b256e086246" version="1">观察力</content>
+	<content contentuid="hg99d268ag49b0g48cbgaf37g76cec2369e9e" version="1">观察力</content>
+	<content contentuid="h16572ca9g4f5cg49aega9fag5b256e086246" version="1">观察力</content>
+	<content contentuid="hg99d268ag49b0g48cbgaf37g76cec2369e9e" version="1">观察力</content>
+	<content contentuid="lz1266871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">角色一旦食用获得等于你&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;的&lt;LSTag Tooltip="TemporaryHitPoints"&gt;临时生命值&lt;/LSTag&gt;</content>
+	<content contentuid="lz1266871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">角色一旦食用获得等于你&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;的&lt;LSTag Tooltip="TemporaryHitPoints"&gt;临时生命值&lt;/LSTag&gt;</content>
+	<content contentuid="lz1226871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">每次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;一次, 你可以做出零食, 这些零食可以保存到长休。角色一旦食用零食后, 获得等于你&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;的&lt;LSTag Tooltip="TemporaryHitPoints"&gt;临时生命值&lt;/LSTag&gt;</content>
+	<content contentuid="lz1226871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">每次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;一次, 你可以做出零食, 这些零食可以保存到长休。角色一旦食用零食后, 获得等于你&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;的&lt;LSTag Tooltip="TemporaryHitPoints"&gt;临时生命值&lt;/LSTag&gt;</content>
+	<content contentuid="lz1216871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">每次&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;一次, 你可以做出食物, 这些食物可以保存到长休。角色在进行短休并食用这些食物后, 他们获得额外 1d8 的HP。</content>
+	<content contentuid="lz1216871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">每次&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;一次, 你可以做出食物, 这些食物可以保存到长休。角色在进行短休并食用这些食物后, 他们获得额外 1d8 的HP。</content>
+	<content contentuid="h81ed42e6ge239g4717g85dbg1471234127d6" version="1">每回合一次, 当你用攻击命中一个目标幷造成挥砍伤害时, 你可降低目标的&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt; 3m(10尺), 直到你下一回合开始。</content>
+	<content contentuid="h81ed42e6ge239g4717g85dbg1471234127d6" version="1">每回合一次, 当你用攻击命中一个目标幷造成挥砍伤害时, 你可降低目标的&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt; 3m(10尺), 直到你下一回合开始。</content>
+	<content contentuid="kt1036871g90b2g4f18gab29g0a0a8f3fbdce" version="1">每回合一次, 当你用近战攻击命中一个目标并造成钝击伤害时, 你可将目标推离, 前提是目标的体型不超过你一个体型等级。</content>
+	<content contentuid="kt1036871g90b2g4f18gab29g0a0a8f3fbdce" version="1">每回合一次, 当你用近战攻击命中一个目标并造成钝击伤害时, 你可将目标推离, 前提是目标的体型不超过你一个体型等级。</content>
+	<content contentuid="kt1236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">回合一次, 当你用近战攻击命中一个目标并造成挥砍伤害时, 你可以降低目标的&lt;LSTag Tooltip="MovementSpeed"&gt;移速&lt;/LSTag&gt; 3m(10尺), 直到你下一个回合开始。</content>
+	<content contentuid="kt1236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">回合一次, 当你用近战攻击命中一个目标并造成挥砍伤害时, 你可以降低目标的&lt;LSTag Tooltip="MovementSpeed"&gt;移速&lt;/LSTag&gt; 3m(10尺), 直到你下一个回合开始。</content>
+	<content contentuid="kt1846871g90b2g4f18gab29g0a0a8f3fbdce" version="1">每回合一次, 当你用攻击命中一个目标并造成钝击伤害时, 你可迫使目标移动 1.5m(5尺), 前提是目标的体型不超过你一个体型等级。</content>
+	<content contentuid="kt1846871g90b2g4f18gab29g0a0a8f3fbdce" version="1">每回合一次, 当你用攻击命中一个目标并造成钝击伤害时, 你可迫使目标移动 1.5m(5尺), 前提是目标的体型不超过你一个体型等级 |大型或更小|。</content>
+	<content contentuid="h753598d8gb51eg4028g8e47g57f23cd0268d" version="1">每回合一次, 当你攻击命中一个目标幷造成钝击伤害时, 你可将目标推离 1.5m(5尺), 前提是目标的体型不超过你一个体型等级。</content>
+	<content contentuid="h753598d8gb51eg4028g8e47g57f23cd0268d" version="1">每回合一次, 当你攻击命中一个目标幷造成钝击伤害时, 你可将目标推离 1.5m(5尺), 前提是目标的体型不超过你一个体型等级。</content>
+	<content contentuid="h68b60f34g99ebg476eg93f7g217b7ef0303a" version="1">每回合一次，当你用造成穿刺伤害的攻击命中一个生物时，你可以重投其中一个伤害骰，并使用最高的结果。</content>
+	<content contentuid="h68b60f34g99ebg476eg93f7g217b7ef0303a" version="1">每回合一次, 当你用攻击命中一个目标幷造成穿刺伤害时, 你投掷伤害骰两次取最高的结果。</content>
+	<content contentuid="lz1026871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">兽人狂怒</content>
+	<content contentuid="lz1026871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">兽人狂怒</content>
+	<content contentuid="h65b60f34g99ebg476eg93f7g217b7ef0303a" version="1">穿刺者</content>
+	<content contentuid="h65b60f34g99ebg476eg93f7g217b7ef0303a" version="1">穿刺者</content>
+	<content contentuid="h69b60f34g99ebg476eg93f7g217b7ef0303a" version="1">穿刺者: 重击</content>
+	<content contentuid="h69b60f34g99ebg476eg93f7g217b7ef0303a" version="1">穿刺者: 重击</content>
+	<content contentuid="h67b60f34g99ebg476eg93f7g217b7ef0303a" version="1">穿刺者: 重骰</content>
+	<content contentuid="h67b60f34g99ebg476eg93f7g217b7ef0303a" version="1">穿刺者: 复伤</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7776" version="1">毒师</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7776" version="1">毒师</content>
+	<content contentuid="hg5548970g49d4g4d9agb7bfg50ce6a8c581f" version="1">刺客的制毒工具包</content>
+	<content contentuid="hg5548970g49d4g4d9agb7bfg50ce6a8c581f" version="1">刺客的制毒工具包</content>
+	<content contentuid="hg4236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">刺客的制毒工具包</content>
+	<content contentuid="hg4236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">刺客的制毒工具包</content>
+	<content contentuid="hg34c268ag49b0g48cbgaf37g76cec2369e9e" version="1">制毒工具包: 将物品结合以制造毒药和其他物品。&lt;br&gt;制毒工具包 + 基础毒药 = 飞龙毒药; 制毒工具包 + 飞龙毒药 = 黑暗精灵毒药; 制毒工具包 + 治疗药水 = 基础毒药(2), + 更强治疗药水 = 基础毒药(4)。</content>
+	<content contentuid="hg34c268ag49b0g48cbgaf37g76cec2369e9e" version="1">制毒工具包: 将物品结合以制造毒药和其他物品。&lt;br&gt;制毒工具包 + 基础毒药 = 飞龙毒药; 制毒工具包 + 飞龙毒药 = 黑暗精灵毒药; 制毒工具包 + 治疗药水 = 基础毒药(2), + 更强治疗药水 = 基础毒药(4)。</content>
+	<content contentuid="lz1676871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">先决条件: 第4级，巨人打击（火焰打击）专长&lt;br&gt;&lt;br&gt;你展现出象征着火巨人的炽烈战斗方式，使得你获得下列增益：&lt;br&gt;&lt;br&gt;属性值提升。 你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;, &lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;或&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;属性提升1，上限为20。&lt;br&gt;&lt;br&gt;生于烈焰。 你获得火焰伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;炽热灼烧。 当你在你的回合中执行攻击动作时，你可以将其中一次攻击替换为喷射出一阵魔法烈焰。以你为中心，15尺半径球状内所有由你选择的可见生物都必须进行一次&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;豁免（DC为8+你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;+本专长提升属性的修正值）。豁免失败时，生物将受到1d8+你的熟练加值 点火焰伤害，并陷入目盲状态，直至你下一个回合开始。豁免成功时只受一半伤害。你可使用炽热灼烧的次数等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;（每回合不能超过一次），在完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后你恢复所有已消耗的使用次数。</content>
+	<content contentuid="lz1676871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">先决条件: 第4级，巨人打击（火焰打击）专长&lt;br&gt;&lt;br&gt;你展现出象征着火巨人的炽烈战斗方式，使得你获得下列增益：&lt;br&gt;&lt;br&gt;属性值提升。 你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;, &lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;或&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;属性提升1，上限为20。&lt;br&gt;&lt;br&gt;生于烈焰。 你获得火焰伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;炽热灼烧。 当你在你的回合中执行攻击动作时，你可以将其中一次攻击替换为喷射出一阵魔法烈焰。以你为中心，15尺半径球状内所有由你选择的可见生物都必须进行一次&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;豁免（DC为8+你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;+本专长提升属性的调整值）。豁免失败时，生物将受到1d8+你的熟练加值 点火焰伤害，并陷入目盲状态，直至你下一个回合开始。豁免成功时只受一半伤害。你可使用炽热灼烧的次数等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;（每回合不能超过一次），在完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后你恢复所有已消耗的使用次数。</content>
+	<content contentuid="lz1696871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">先决条件: 第4级，巨人打击（寒霜打击）专长&lt;br&gt;&lt;br&gt;你展现出象征着霜巨人的冰冷力量，使得你获得下列增益：&lt;br&gt;&lt;br&gt;属性值提升。 你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;、&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;或&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;属性提升1，上限为20。&lt;br&gt;&lt;br&gt;生于冰霜。 你获得寒冷伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;霜寒回击。 当一个30尺内你可见的生物以攻击检定命中你，并对你造成伤害后，你可以立即用你的反应来唤出碎裂的寒冰来予以还击。那个生物必须进行一次体质豁免（DC为8+你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;+本专长提升属性的修正值）。豁免失败时，该生物将受到 1d8+你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt; 点冷冻伤害，并速度减半，直至其下一个回合结束。你可以使用这一反应的次数等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;，在完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后你恢复所有已消耗的使用次数。</content>
+	<content contentuid="lz1696871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">先决条件: 第4级，巨人打击（寒霜打击）专长&lt;br&gt;&lt;br&gt;你展现出象征着霜巨人的冰冷力量，使得你获得下列增益：&lt;br&gt;&lt;br&gt;属性值提升。 你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;、&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;或&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;属性提升1，上限为20。&lt;br&gt;&lt;br&gt;生于冰霜。 你获得寒冷伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;霜寒回击。 当一个30尺内你可见的生物以攻击检定命中你，并对你造成伤害后，你可以立即用你的反应来唤出碎裂的寒冰来予以还击。那个生物必须进行一次体质豁免（DC为8+你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;+本专长提升属性的调整值）。豁免失败时，该生物将受到 1d8+你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt; 点冷冻伤害，并速度减半，直至其下一个回合结束。你可以使用这一反应的次数等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;，在完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后你恢复所有已消耗的使用次数。</content>
+	<content contentuid="lz1776871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">先决条件: 第4级，巨人打击（山丘打击）专长&lt;br&gt;&lt;br&gt;你展现出象征着山丘巨人的强韧性，使得你获得下列增益：&lt;br&gt;&lt;br&gt;属性值提升。 你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;、&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;或&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;属性提升1，上限为20。&lt;br&gt;&lt;br&gt;不动如山。当你受到一次让你移动至少5尺、或给予你&lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒伏&lt;/LSTag&gt;状态的效应时，你可以用你的反应来稳定自身，此时，你既不会被因此移动，也不会因此陷&lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;钢铁肠胃。 当你在&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;时进食，并且使用了一粒或更多生命骰恢复生命时，你额外恢复等同于你的&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;修正值+你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;点的生命值。</content>
+	<content contentuid="lz1776871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">先决条件: 第4级，巨人打击（山丘打击）专长&lt;br&gt;&lt;br&gt;你展现出象征着山丘巨人的强韧性，使得你获得下列增益：&lt;br&gt;&lt;br&gt;属性值提升。 你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;、&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;或&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;属性提升1，上限为20。&lt;br&gt;&lt;br&gt;不动如山。当你受到一次让你移动至少5尺、或给予你&lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒伏&lt;/LSTag&gt;状态的效应时，你可以用你的反应来稳定自身，此时，你既不会被因此移动，也不会因此陷&lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;钢铁肠胃。 当你在&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;时进食，并且使用了一粒或更多生命骰恢复生命时，你额外恢复等同于你的&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;调整值+你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;点的生命值。</content>
+	<content contentuid="lz1756871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">先决条件: 第4级，巨人打击（风暴打击）专长&lt;br&gt;&lt;br&gt;你展现出象征着风暴巨人的预言能力和风暴魔法，使得你获得下列增益：&lt;br&gt;&lt;br&gt;属性值提升。 你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;、&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;或&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;属性提升1，上限为20。&lt;br&gt;&lt;br&gt;旋涡灵光。 以一个&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;，你将自己笼罩在魔法性的狂风与雷电灵光之中，灵光以你为中心，向任意方向延展10尺（无法穿过全掩护）。灵光持续到你的下一个回合开始，若你陷入失能它会提前结束。&lt;br&gt;&lt;br&gt;灵光激活期间，你获得闪电伤害与雷鸣伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。此外，任何以你为目标的攻击检定都将具有劣势，且每当一个生物在灵光下开始其回合，你都可以迫使其进行一次&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;（DC为8+你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;+本专长提升属性的修正值）。&lt;br&gt;&lt;br&gt;豁免失败时，该生物的速度将被减半直至它们的下一回合开始。你可以使用这一附赠动作的次数等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;，在完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后你恢复所有已消耗的使用次数。</content>
+	<content contentuid="lz1756871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">先决条件: 第4级，巨人打击（风暴打击）专长&lt;br&gt;&lt;br&gt;你展现出象征着风暴巨人的预言能力和风暴魔法，使得你获得下列增益：&lt;br&gt;&lt;br&gt;属性值提升。 你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;、&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;或&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;属性提升1，上限为20。&lt;br&gt;&lt;br&gt;旋涡灵光。 以一个&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;，你将自己笼罩在魔法性的狂风与雷电灵光之中，灵光以你为中心，向任意方向延展10尺（无法穿过全掩护）。灵光持续到你的下一个回合开始，若你陷入失能它会提前结束。&lt;br&gt;&lt;br&gt;灵光激活期间，你获得闪电伤害与雷鸣伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。此外，任何以你为目标的攻击检定都将具有劣势，且每当一个生物在灵光下开始其回合，你都可以迫使其进行一次&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;（DC为8+你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;+本专长提升属性的调整值）。&lt;br&gt;&lt;br&gt;豁免失败时，该生物的速度将被减半直至它们的下一回合开始。你可以使用这一附赠动作的次数等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;，在完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后你恢复所有已消耗的使用次数。</content>
+	<content contentuid="hg69c268ag49b0g48cbgaf37g76cec2369e9e" version="1">先决条件: 敏捷 13 或更高&lt;br&gt;&lt;br&gt;当仅处于&lt;LSTag Type="Status" Tooltip="SNEAKING_LIGHTLY_OBSCURED"&gt;轻度遮蔽&lt;/LSTag&gt;环境中, 你可以尝试隐匿。&lt;br&gt;&lt;br&gt;当你对某个生物隐匿并且用&lt;LSTag Tooltip="RangedWeaponAttack"&gt;远程武器进行攻击&lt;/LSTag&gt;失手, 你的攻击不会暴露你的位置。&lt;br&gt;&lt;br&gt;昏暗的光线不会导致用视觉进行的察觉&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LsTag&gt;。</content>
+	<content contentuid="hg69c268ag49b0g48cbgaf37g76cec2369e9e" version="1">先决条件: 敏捷 13 或更高&lt;br&gt;&lt;br&gt;当仅处于&lt;LSTag Type="Status" Tooltip="SNEAKING_LIGHTLY_OBSCURED"&gt;轻度遮蔽&lt;/LSTag&gt;环境中, 你可以尝试隐匿。&lt;br&gt;&lt;br&gt;当你对某个生物隐匿并且用&lt;LSTag Tooltip="RangedWeaponAttack"&gt;远程武器进行攻击&lt;/LSTag&gt;失手, 你的攻击不会暴露你的位置。&lt;br&gt;&lt;br&gt;昏暗的光线不会导致用视觉进行的察觉&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LsTag&gt;。</content>
+	<content contentuid="hb7cdfa17g2c06g4149g958dg0a886658a3b9" version="1">先决条件: 矮人&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;每当你在战斗中进行&lt;LSTag Type="Spell" Tooltip="Shout_Dodge"&gt;闪避&lt;/LSTag&gt;动作时, 你可以恢复一定量的HP等于: 你的生命骰 + 体质&lt;LSTag Tooltip="AbilityModifier"&gt;修正值&lt;/LSTag&gt; (至少 1)。</content>
+	<content contentuid="hb7cdfa17g2c06g4149g958dg0a886658a3b9" version="1">先决条件: 矮人&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;每当你在战斗中进行&lt;LSTag Type="Spell" Tooltip="Shout_Dodge"&gt;闪避&lt;/LSTag&gt;动作时, 你可以恢复一定量的HP等于: 你的生命骰 + 体质&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; (至少 1)。</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7765" version="1">先决条件: 矮人或是小体型种族&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;或&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;增加 1.5m(5尺)。你获得&lt;LSTag Tooltip="Acrobatics"&gt;特技&lt;/LSTag&gt;或是&lt;LSTag Tooltip="Athletics"&gt;运动&lt;/LSTag&gt;技能&lt;LSTag Tooltip="Proficiency"&gt;熟练&lt;/LSTag&gt;。你为了挣脱&lt;LSTag Type="Status" Tooltip="GRAPPLED"&gt;擒抱&lt;,/LSTag&gt;做的任何运动或是特技检定具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;。</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7765" version="1">先决条件: 矮人或是小体型种族&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;或&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;增加 1.5m(5尺)。你获得&lt;LSTag Tooltip="Acrobatics"&gt;特技&lt;/LSTag&gt;或是&lt;LSTag Tooltip="Athletics"&gt;运动&lt;/LSTag&gt;技能&lt;LSTag Tooltip="Proficiency"&gt;熟练&lt;/LSTag&gt;。你为了挣脱&lt;LSTag Type="Status" Tooltip="GRAPPLED"&gt;擒抱&lt;,/LSTag&gt;做的任何运动或是特技检定具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;。</content>
+	<content contentuid="5fea8060-c9b5-4efd-a13e-38216ce76657" version="1">先决条件: 精灵(木精灵)&lt;br&gt;&lt;br&gt;你习得自选的德鲁伊&lt;LSTag Tooltip="Cantrip"&gt;戏法&lt;/LSTag&gt;。你同时习得&lt;LSTag Type="Spell" Tooltip="Target_Longstrider"&gt;大步奔行&lt;/LSTag&gt;和&lt;LSTag Type="Spell" Tooltip="Shout_PassWithoutTrace"&gt;行动无踪&lt;/LSTag&gt;, 每项法术在每次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;前可免费施展一次而不消耗&lt;LSTag Tooltip="SpellSlot"&gt;法术位&lt;/LSTag&gt;。对你而言这三项法术的&lt;LSTag Tooltip="SpellcastingAbility"&gt;施法属性&lt;/LSTag&gt;是感知。</content>
+	<content contentuid="5fea8060-c9b5-4efd-a13e-38216ce76657" version="1">先决条件: 精灵(木精灵)&lt;br&gt;&lt;br&gt;你习得自选的德鲁伊&lt;LSTag Tooltip="Cantrip"&gt;戏法&lt;/LSTag&gt;。你同时习得&lt;LSTag Type="Spell" Tooltip="Target_Longstrider"&gt;大步奔行&lt;/LSTag&gt;和&lt;LSTag Type="Spell" Tooltip="Shout_PassWithoutTrace"&gt;行动无踪&lt;/LSTag&gt;, 每项法术在每次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;前可免费施展一次而不消耗&lt;LSTag Tooltip="SpellSlot"&gt;法术位&lt;/LSTag&gt;。对你而言这三项法术的&lt;LSTag Tooltip="SpellcastingAbility"&gt;施法属性&lt;/LSTag&gt;是感知。</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7744" version="1">先决条件: 精灵或是半精灵&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;, &lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;, &lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;或是&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;中的一项属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;当你在所选&lt;LSTag Tooltip="AbilityScore"&gt;属性值&lt;/LSTag&gt;上具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;时, 你可以重掷其中一个骰子。</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7744" version="1">先决条件: 精灵或是半精灵&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;, &lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;, &lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;或是&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;中的一项属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;当你在所选&lt;LSTag Tooltip="AbilityScore"&gt;属性值&lt;/LSTag&gt;上具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;时, 你可以重掷其中一个骰子。</content>
+	<content contentuid="lz1106871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">先决条件: 侏儒&lt;br&gt;&lt;br&gt;你的族人非常聪明, 在幻术系魔法上具有天分。你曾习得一种能在遭受伤害时迅速隐匿的魔法花招。你获得下述增益:&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;或是&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;中的一项属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;当你受到伤害之后, 你可以立刻用&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;进入魔法&lt;LSTag Type="Spell" Tooltip="Target_Invisibility"&gt;隐身&lt;/LSTag&gt;状态, 直到你的下一回合结束或是你攻击, 造成伤害, 或是迫使某人进行豁免检定。一但你使用了此能力, 你完成一次&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;或是&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之前都无法再次使用。</content>
+	<content contentuid="lz1106871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">先决条件: 侏儒&lt;br&gt;&lt;br&gt;你的族人非常聪明, 在幻术系魔法上具有天分。你曾习得一种能在遭受伤害时迅速隐匿的魔法花招。你获得下述增益:&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;或是&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;中的一项属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;当你受到伤害之后, 你可以立刻用&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;进入魔法&lt;LSTag Type="Spell" Tooltip="Target_Invisibility"&gt;隐身&lt;/LSTag&gt;状态, 直到你的下一回合结束或是你攻击, 造成伤害, 或是迫使某人进行豁免检定。一但你使用了此能力, 你完成一次&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;或是&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之前都无法再次使用。</content>
+	<content contentuid="lz1146871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">先决条件: 侏儒(地底侏儒)&lt;br&gt;&lt;br&gt;你继承了你祖先与生俱来的施法能力。这项能力允许你对自己随意施放&lt;LSTag Type="Spell" Tooltip="Target_Nondetection"&gt;回避侦测&lt;/LSTag&gt;, 不需要花费任何材料成分。&lt;br&gt;&lt;br&gt;你也可以通过这个能力施放下列法术每个一次: &lt;LSTag Type="Spell" Tooltip="Target_Blindness"&gt;目盲/耳聋术&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_Blur"&gt;朦胧术&lt;/LSTag&gt;, 以及&lt;LSTag Type="Spell" Tooltip="Shout_DisguiseSelf"&gt;易容术&lt;/LSTag&gt;。在完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后, 你重新恢复此能力施放这些法术。&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;是你的这些法术的&lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;施法属性&lt;/LSTag&gt;。</content>
+	<content contentuid="lz1146871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">先决条件: 侏儒(地底侏儒)&lt;br&gt;&lt;br&gt;你继承了你祖先与生俱来的施法能力。这项能力允许你对自己随意施放&lt;LSTag Type="Spell" Tooltip="Target_Nondetection"&gt;回避侦测&lt;/LSTag&gt;, 不需要花费任何材料成分。&lt;br&gt;&lt;br&gt;你也可以通过这个能力施放下列法术每个一次: &lt;LSTag Type="Spell" Tooltip="Target_Blindness"&gt;目盲/耳聋术&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_Blur"&gt;朦胧术&lt;/LSTag&gt;, 以及&lt;LSTag Type="Spell" Tooltip="Shout_DisguiseSelf"&gt;易容术&lt;/LSTag&gt;。在完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后, 你重新恢复此能力施放这些法术。&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;是你的这些法术的&lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;施法属性&lt;/LSTag&gt;。</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7767" version="1">先决条件: 半精灵&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;你获得&lt;LSTag Tooltip="Deception"&gt;欺瞒&lt;/LSTag&gt;和&lt;LSTag Tooltip="Persuasion"&gt;游说&lt;/LSTag&gt;技能&lt;LSTag Tooltip="Proficiency"&gt;熟练&lt;/LSTag&gt;。如果你已经熟练其中任一技能, 你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;翻倍(×2), 在使用这些技能做任何检定时。</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7767" version="1">先决条件: 半精灵&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;你获得&lt;LSTag Tooltip="Deception"&gt;欺瞒&lt;/LSTag&gt;和&lt;LSTag Tooltip="Persuasion"&gt;游说&lt;/LSTag&gt;技能&lt;LSTag Tooltip="Proficiency"&gt;熟练&lt;/LSTag&gt;。如果你已经熟练其中任一技能, 你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;翻倍(×2), 在使用这些技能做任何检定时。</content>
+	<content contentuid="lz1036871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">先决条件: 半兽人&lt;br&gt;&lt;br&gt;你内心的怒火不停地燃烧。你获得下述增益:&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;或是&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;中的一项属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;当你使用&lt;LSTag Tooltip="MeleeWeaponAttack"&gt;近战武器攻击&lt;/LSTag&gt;或是&lt;LSTag Tooltip="RangedWeaponAttack"&gt;远程武器攻击&lt;/LSTag&gt;命中时, 你可以额外掷一枚武器的伤害骰并将其作为额外伤害加入到本次攻击的伤害中, 伤害类型与武器本身的伤害类型相同。一但你使用了此能力, 你完成一次&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;或是&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之前都无法再次使用。&lt;br&gt;Immediately 在你使用&lt;LSTag Type="Passive" Tooltip="RelentlessEndurance"&gt;坚韧不屈&lt;/LSTag&gt;之后, 你可以立刻使用&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;进行一次武器攻击。</content>
+	<content contentuid="lz1036871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">先决条件: 半兽人&lt;br&gt;&lt;br&gt;你内心的怒火不停地燃烧。你获得下述增益:&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;或是&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;中的一项属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;当你使用&lt;LSTag Tooltip="MeleeWeaponAttack"&gt;近战武器攻击&lt;/LSTag&gt;或是&lt;LSTag Tooltip="RangedWeaponAttack"&gt;远程武器攻击&lt;/LSTag&gt;命中时, 你可以额外掷一枚武器的伤害骰并将其作为额外伤害加入到本次攻击的伤害中, 伤害类型与武器本身的伤害类型相同。一但你使用了此能力, 你完成一次&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;或是&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之前都无法再次使用。&lt;br&gt;Immediately 在你使用&lt;LSTag Type="Passive" Tooltip="RelentlessEndurance"&gt;坚韧不屈&lt;/LSTag&gt;之后, 你可以立刻使用&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;进行一次武器攻击。</content>
+	<content contentuid="lz1296871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">先决条件: 半身人&lt;br&gt;&lt;br&gt;你的族人有非同寻常的好运, 并且你学过如何在看到同伴难堪之时将好运秘密地借给他们。你也不确定你是如何做到的, 你只是想想, 这事儿就成了。无疑是命运眷顾的征兆! &lt;br&gt;&lt;br&gt;如果你周围 9m(30尺) 范围内你可见的盟友&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;属性检定&lt;/LSTag&gt;, 或是&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;掷d20骰掷出了 1, 你可以用反应让此盟友重掷一次骰子。盟友必须使用新的检定结果。&lt;br&gt;当你使用此技能时, 你在下一个回合结束前不能使用你的'幸运'种族特质。</content>
+	<content contentuid="lz1296871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">先决条件: 半身人&lt;br&gt;&lt;br&gt;你的族人有非同寻常的好运, 并且你学过如何在看到同伴难堪之时将好运秘密地借给他们。你也不确定你是如何做到的, 你只是想想, 这事儿就成了。无疑是命运眷顾的征兆! &lt;br&gt;&lt;br&gt;如果你周围 9m(30尺) 范围内你可见的盟友&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;属性检定&lt;/LSTag&gt;, 或是&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;掷d20骰掷出了 1, 你可以用反应让此盟友重掷一次骰子。盟友必须使用新的掷骰结果。&lt;br&gt;当你使用此技能时, 你在下一个回合结束前不能使用你的'幸运'种族特质。</content>
+	<content contentuid="lz1016871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">先决条件: 半身人&lt;br&gt;&lt;br&gt;命运总在有人想要伤害你时眷顾你, 你获得下述增益:&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;, &lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;, 或是&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;中的一项属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;当一个你可见的生物发起&lt;LSTag Tooltip="AttackRoll"&gt;攻击&lt;/LSTag&gt;并且命中你时, 你可以使用&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;迫使目标生物重新检定。一但你使用了此能力, 直到你下次在战斗开始时先攻检定、你完成一次&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;或是&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之前都无法再次使用。</content>
+	<content contentuid="lz1016871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">先决条件: 半身人&lt;br&gt;&lt;br&gt;命运总在有人想要伤害你时眷顾你, 你获得下述增益:&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;, &lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;, 或是&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;中的一项属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;当一个你可见的生物发起&lt;LSTag Tooltip="AttackRoll"&gt;攻击&lt;/LSTag&gt;并且命中你时, 你可以使用&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;迫使目标生物重新掷骰。一但你使用了此能力, 直到你下次在战斗开始时先攻掷骰、你完成一次&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;或是&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之前都无法再次使用。</content>
+	<content contentuid="182ca10953964f4aa71edeeeeeeeeeeeeeeee" version="1">先决条件: 军用武器熟练&lt;br&gt;&lt;br&gt;你的军事训练帮助你养成了一种特定的战术风格。因此, 你可以从战士职业中选择并习得一项战斗风格。如果你已经有一项战斗风格, 你不能选择相同的战斗风格。</content>
+	<content contentuid="182ca10953964f4aa71edeeeeeeeeeeeeeeee" version="1">先决条件: 军用武器熟练&lt;br&gt;&lt;br&gt;你的军事训练帮助你养成了一种特定的战术风格。因此, 你可以从战士职业中选择并习得一项战斗风格。如果你已经有一项战斗风格, 你不能选择相同的战斗风格。</content>
+	<content contentuid="lz1736871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">先决条件: 施法特性或符文雕刻者背景 &lt;br&gt;&lt;br&gt;你已习得了巨人符文之魔法，这为你带来了如下增益：&lt;br&gt;&lt;br&gt;通晓语言。 你习得法术通晓语言。你可以无需法术位的施展这个法术一次，之后你必须完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;才能再次以此施展它。你同样可以用任何你拥有的法术位去施展这个法术。&lt;br&gt;&lt;br&gt;符文魔法。 你知晓了一定数量的符文，其数量等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;的一半（向下取整），从下述的符文法术表中选择它。每当你完成长休时，你都可以将每一个你知晓的符文刻印在非魔法的武器、护甲、一套衣物、或别的什么你触碰的物件。你临时习得与刻印下的符文相关联的那些1环法术（如符文法术表所展示的那样），以此习得的这些法术会伴随着刻印的符文一起，在你完成下一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;时消失。你可以用任何你拥有的法术位去施展符文给予的这些法术。&lt;br&gt;&lt;br&gt;此外，当你携带或着装刻印符文的物品，你还可以不消耗法术位，无需材料成分的施展与符文相关联的法术一次。当你以此施展了任何一个法术后，直到你完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;为止你都不能再次使用这一项能力。此专长的施法属性为&lt;LSTag Tooltip="Intelligence"智力&lt;/LSTag&gt;、&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;或&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;（选择此专长时选择它）。每当你等级提升时，你都可以从符文法术表中选择一个不同的符文来替换一个你已知的符文。</content>
+	<content contentuid="lz1736871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">先决条件: 施法特性或符文雕刻者背景 &lt;br&gt;&lt;br&gt;你已习得了巨人符文之魔法，这为你带来了如下增益：&lt;br&gt;&lt;br&gt;通晓语言。 你习得法术通晓语言。你可以无需法术位的施展这个法术一次，之后你必须完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;才能再次以此施展它。你同样可以用任何你拥有的法术位去施展这个法术。&lt;br&gt;&lt;br&gt;符文魔法。 你知晓了一定数量的符文，其数量等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;的一半（向下取整），从下述的符文法术表中选择它。每当你完成长休时，你都可以将每一个你知晓的符文刻印在非魔法的武器、护甲、一套衣物、或别的什么你触碰的物件。你临时习得与刻印下的符文相关联的那些1环法术（如符文法术表所展示的那样），以此习得的这些法术会伴随着刻印的符文一起，在你完成下一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;时消失。你可以用任何你拥有的法术位去施展符文给予的这些法术。&lt;br&gt;&lt;br&gt;此外，当你携带或着装刻印符文的物品，你还可以不消耗法术位，无需材料成分的施展与符文相关联的法术一次。当你以此施展了任何一个法术后，直到你完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;为止你都不能再次使用这一项能力。此专长的施法属性为&lt;LSTag Tooltip="Intelligence"智力&lt;/LSTag&gt;、&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;或&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;（选择此专长时选择它）。每当你等级提升时，你都可以从符文法术表中选择一个不同的符文来替换一个你已知的符文。</content>
+	<content contentuid="hg65c268ag49b0g48cbgaf37g76cec2369e9e" version="1">先决条件: 施法或是契约魔法特性&lt;br&gt;&lt;br&gt;你从邪术师职业中选择学习一项魔能祈唤。</content>
+	<content contentuid="hg65c268ag49b0g48cbgaf37g76cec2369e9e" version="1">先决条件: 施法或是契约魔法特性&lt;br&gt;&lt;br&gt;你从邪术师职业中选择学习一项魔能祈唤。</content>
+	<content contentuid="6ab66eb3364442bea764deeeeeeeeeeeeeeee" version="1">先决条件: 契约魔法特性&lt;br&gt;&lt;br&gt;你可以从术士职业中选择并习得两项超魔法选项。当你施放一个法术时, 除非该选项另有说明, 否则你只能使用一个超魔法选项。你同时获得 2 点&lt;LSTag Type="ActionResource" Tooltip="SorceryPoint"&gt;术法点&lt;/LSTag&gt;用于施展超魔法。当你完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后, 你会恢复所有已消耗的术法点。</content>
+	<content contentuid="6ab66eb3364442bea764deeeeeeeeeeeeeeee" version="1">先决条件: 契约魔法特性&lt;br&gt;&lt;br&gt;你可以从术士职业中选择并习得两项超魔法选项。当你施放一个法术时, 除非该选项另有说明, 否则你只能使用一个超魔法选项。你同时获得 2 点&lt;LSTag Type="ActionResource" Tooltip="SorceryPoint"&gt;术法点&lt;/LSTag&gt;用于施展超魔法。当你完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后, 你会恢复所有已消耗的术法点。</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7754" version="1">先决条件: 提夫林&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;你获得冷冻和毒素伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。你对抗&lt;LSTag Type="Status" Tooltip="POISONED"&gt;中毒&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;。</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7754" version="1">先决条件: 提夫林&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;你获得冷冻和毒素伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。你对抗&lt;LSTag Type="Status" Tooltip="POISONED"&gt;中毒&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;。</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7763" version="1">先决条件: 提夫林&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;或是&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;当你&lt;LSTag Tooltip="AttackRoll"&gt;施展&lt;/LSTag&gt;火焰伤害的法术时, 你可以重掷你的火焰伤害骰, 但是你必须使用新的检定结果。&lt;br&gt;&lt;br&gt;每当你施展造成火焰伤害的法术时, 你可以让火焰环绕在你身旁形成&lt;LSTag Type="Passive" Tooltip="Fire_Aura"&gt;火焰光环&lt;/LSTag&gt;。</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7763" version="1">先决条件: 提夫林&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;或是&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;当你&lt;LSTag Tooltip="AttackRoll"&gt;施展&lt;/LSTag&gt;火焰伤害的法术时, 你可以重掷你的火焰伤害骰, 但是你必须使用新的掷骰结果。&lt;br&gt;&lt;br&gt;每当你施展造成火焰伤害的法术时, 你可以让火焰环绕在你身旁形成&lt;LSTag Type="Passive" Tooltip="Fire_Aura"&gt;火焰光环&lt;/LSTag&gt;。</content>
+	<content contentuid="5fea8060c9b54efda13e38216ce76655" version="1">你能显现出龙人祖先的鳞片和利爪。获得以下加成：力量、体质或魅力值增加 1，最多 20。你的 AC 值增加 1。你可以使用盾牌时仍可获得本加成。你可以从指尖长出可伸缩的爪子。伸出或收回爪子无需任何动作。爪子是天然武器。伸出时，如果进行徒手攻击，你会造成相当于 1d4 + 徒手战斗修正值的额外砍伤。</content>
+	<content contentuid="5fea8060c9b54efda13e38216ce76655" version="1">先决条件: 龙裔&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;, &lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;, 或是&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;中的一项属性 +1, 属性上限为 20。如果你不穿任何护甲, 你的&lt;LSTag Tooltip="ArmourClass"&gt;AC&lt;/LSTag&gt;等于 13 + 你的&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;调整值。&lt;br&gt;&lt;br&gt;你的指尖长出可伸缩的利爪。爪子是天生武器, 可以用来发动&lt;LSTag Type="Spell" Tooltip="Target_DragonHide_Melee"&gt;徒手打击&lt;/LSTag&gt;。</content>
+	<content contentuid="he6cde322g7a20g43edgb577geb91e9118b11" version="1">庇护之翼</content>
+	<content contentuid="he6cde322g7a20g43edgb577geb91e9118b11" version="1">庇护之翼</content>
+	<content contentuid="h490965aegec78g4a09g9401g01bfa60c1f57" version="1">反应抗性</content>
+	<content contentuid="kt1166871g90b2g4f18gab29g0a0a8f3fbdce" version="1">反应抗性</content>
+	<content contentuid="kt1326871g90b2g4f18gab29g0a0a8f3fbdce" version="1">反应抗性</content>
+	<content contentuid="h490965aegec78g4a09g9401g01bfa60c1f57" version="1">反应抗性</content>
+	<content contentuid="kt1166871g90b2g4f18gab29g0a0a8f3fbdce" version="1">反应抗性</content>
+	<content contentuid="kt1326871g90b2g4f18gab29g0a0a8f3fbdce" version="1">反应抗性</content>
+	<content contentuid="kt1676871g90b2g4f18gab29g0a0a8f3fbdce" version="1">反应抗性(强酸)</content>
+	<content contentuid="kt1676871g90b2g4f18gab29g0a0a8f3fbdce" version="1">反应抗性(强酸)</content>
+	<content contentuid="kt1696871g90b2g4f18gab29g0a0a8f3fbdce" version="1">反应抗性(冷冻)</content>
+	<content contentuid="kt1696871g90b2g4f18gab29g0a0a8f3fbdce" version="1">反应抗性(冷冻)</content>
+	<content contentuid="kt1716871g90b2g4f18gab29g0a0a8f3fbdce" version="1">反应抗性(火焰)</content>
+	<content contentuid="kt1716871g90b2g4f18gab29g0a0a8f3fbdce" version="1">反应抗性(火焰)</content>
+	<content contentuid="kt1736871g90b2g4f18gab29g0a0a8f3fbdce" version="1">反应抗性(闪电)</content>
+	<content contentuid="kt1736871g90b2g4f18gab29g0a0a8f3fbdce" version="1">反应抗性(闪电)</content>
+	<content contentuid="kt1756871g90b2g4f18gab29g0a0a8f3fbdce" version="1">反应抗性(毒素)</content>
+	<content contentuid="kt1756871g90b2g4f18gab29g0a0a8f3fbdce" version="1">反应抗性(毒素)</content>
+	<content contentuid="kt1776871g90b2g4f18gab29g0a0a8f3fbdce" version="1">「反应抗性」的次数已耗尽。</content>
+	<content contentuid="kt1776871g90b2g4f18gab29g0a0a8f3fbdce" version="1">「反应抗性」的次数已耗尽。</content>
+	<content contentuid="lz1116871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">非凡的恢复力</content>
+	<content contentuid="lz1116871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">非凡的恢复力</content>
+	<content contentuid="lz1386871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">移除制毒工具</content>
+	<content contentuid="lz1386871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">移除制毒工具</content>
+	<content contentuid="c2ec5b7dbdf84782b9e3deeeeeeeeeeeeeeee" version="1">强健身心</content>
+	<content contentuid="c2ec5b7dbdf84782b9e3deeeeeeeeeeeeeeee" version="1">强健身心</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7757" version="1">抗性: 冷冻</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7757" version="1">抗性: 冷冻</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7755" version="1">抗性: 毒素</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7755" version="1">抗性: 毒素</content>
+	<content contentuid="kt1686871g90b2g4f18gab29g0a0a8f3fbdce" version="1">强酸伤害抗性。</content>
+	<content contentuid="kt1686871g90b2g4f18gab29g0a0a8f3fbdce" version="1">强酸伤害抗性。</content>
+	<content contentuid="kt1706871g90b2g4f18gab29g0a0a8f3fbdce" version="1">冷冻伤害抗性。</content>
+	<content contentuid="kt1706871g90b2g4f18gab29g0a0a8f3fbdce" version="1">冷冻伤害抗性。</content>
+	<content contentuid="kt1726871g90b2g4f18gab29g0a0a8f3fbdce" version="1">火焰伤害抗性。</content>
+	<content contentuid="kt1726871g90b2g4f18gab29g0a0a8f3fbdce" version="1">火焰伤害抗性。</content>
+	<content contentuid="kt1746871g90b2g4f18gab29g0a0a8f3fbdce" version="1">闪电伤害抗性。</content>
+	<content contentuid="kt1746871g90b2g4f18gab29g0a0a8f3fbdce" version="1">闪电伤害抗性。</content>
+	<content contentuid="kt1766871g90b2g4f18gab29g0a0a8f3fbdce" version="1">毒素伤害抗性。</content>
+	<content contentuid="kt1766871g90b2g4f18gab29g0a0a8f3fbdce" version="1">毒素伤害抗性。</content>
+	<content contentuid="lz2206871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术</content>
+	<content contentuid="lz2206871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术</content>
+	<content contentuid="lz2196871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 魅力</content>
+	<content contentuid="lz2196871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 魅力</content>
+	<content contentuid="lz2236871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 云雾（云雾术）</content>
+	<content contentuid="lz2236871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 云雾（云雾术）</content>
+	<content contentuid="lz2246871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 死亡（致伤术）</content>
+	<content contentuid="lz2246871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 死亡（致伤术）</content>
+	<content contentuid="lz2256871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 飞龙（繁彩球）</content>
+	<content contentuid="lz2256871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 飞龙（繁彩球）</content>
+	<content contentuid="lz2266871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 仇敌（自我伪装）</content>
+	<content contentuid="lz2266871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 仇敌（自我伪装）</content>
+	<content contentuid="lz2276871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 火焰（燃烧之手）</content>
+	<content contentuid="lz2276871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 火焰（燃烧之手）</content>
+	<content contentuid="lz2286871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 友谊（动物交谈）</content>
+	<content contentuid="lz2286871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 友谊（动物交谈）</content>
+	<content contentuid="lz2296871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 冰霜（艾嘉西斯之铠）</content>
+	<content contentuid="lz2296871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 冰霜（艾嘉西斯之铠）</content>
+	<content contentuid="lz2306871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 山丘（神莓术）</content>
+	<content contentuid="lz2306871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 山丘（神莓术）</content>
+	<content contentuid="lz2176871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 智力</content>
+	<content contentuid="lz2176871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 智力</content>
+	<content contentuid="lz2316871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 旅途（大步奔行）</content>
+	<content contentuid="lz2316871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 旅途（大步奔行）</content>
+	<content contentuid="lz2326871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 君王（命令术）</content>
+	<content contentuid="lz2326871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 君王（命令术）</content>
+	<content contentuid="lz2336871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 -山脉（纠缠术）</content>
+	<content contentuid="lz2336871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 -山脉（纠缠术）</content>
+	<content contentuid="lz2346871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 岩石（庇护术）</content>
+	<content contentuid="lz2346871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 岩石（庇护术）</content>
+	<content contentuid="lz2356871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 风暴 （雷鸣波）</content>
+	<content contentuid="lz2356871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 风暴 （雷鸣波）</content>
+	<content contentuid="lz2186871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 感知</content>
+	<content contentuid="lz2186871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术 - 感知</content>
+	<content contentuid="lz2166871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术次数</content>
+	<content contentuid="lz2166871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文法术次数</content>
+	<content contentuid="lz1726871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文塑形者</content>
+	<content contentuid="lz1726871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">符文塑形者</content>
+	<content contentuid="lz1796871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">炽热灼烧</content>
+	<content contentuid="lz1796871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">炽热灼烧</content>
+	<content contentuid="lz1846871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">炽热灼烧 - 体质</content>
+	<content contentuid="lz1846871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">炽热灼烧 - 体质</content>
+	<content contentuid="lz1836871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">炽热灼烧 - 力量</content>
+	<content contentuid="lz1836871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">炽热灼烧 - 力量</content>
+	<content contentuid="lz1856871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">炽热灼烧 - 感知</content>
+	<content contentuid="lz1856871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">炽热灼烧 - 感知</content>
+	<content contentuid="lz1806871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">炽热灼烧  当你在你的回合中执行攻击动作时，你可以将其中一次攻击替换为喷射出一阵魔法烈焰。以你为中心，15尺半径球状内所有由你选择的可见生物都必须进行一次&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt; 豁免（DC为8+你的熟练加值+本专长提升属性的修正值）。豁免失败时，生物将受到1d8+你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;点火焰伤害，并陷入目盲状态，直至你下一个回合开始。豁免成功时只受一半伤害。你可使用炽热灼烧的次数等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;，在完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后你恢复所有已消耗的使用次数。</content>
+	<content contentuid="lz1806871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">炽热灼烧  当你在你的回合中执行攻击动作时，你可以将其中一次攻击替换为喷射出一阵魔法烈焰。以你为中心，15尺半径球状内所有由你选择的可见生物都必须进行一次&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt; 豁免（DC为8+你的熟练加值+本专长提升属性的调整值）。豁免失败时，生物将受到1d8+你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;点火焰伤害，并陷入目盲状态，直至你下一个回合开始。豁免成功时只受一半伤害。你可使用炽热灼烧的次数等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;，在完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后你恢复所有已消耗的使用次数。</content>
+	<content contentuid="lz1006871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">梅开二度</content>
+	<content contentuid="lz1006871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">梅开二度</content>
+	<content contentuid="h52e9fc19g1e4bg4e7cgb417gf5b9dd4940dc" version="1">影界触碰</content>
+	<content contentuid="kt1186871g90b2g4f18gab29g0a0a8f3fbdce" version="1">影界触碰</content>
+	<content contentuid="h52e9fc19g1e4bg4e7cgb417gf5b9dd4940dc" version="1">影界触碰</content>
+	<content contentuid="kt1186871g90b2g4f18gab29g0a0a8f3fbdce" version="1">影界触碰</content>
+	<content contentuid="h57e9fc19g1e4bg4e7cgb417gf5b9dd4940dc" version="1">影界触碰: 魅力</content>
+	<content contentuid="3d8e0883bf6447b0b43edeeeeeeeeeeeeeeee" version="1">影界触碰: 魅力</content>
+	<content contentuid="h57e9fc19g1e4bg4e7cgb417gf5b9dd4940dc" version="1">影界触碰: 魅力</content>
+	<content contentuid="3d8e0883bf6447b0b43edeeeeeeeeeeeeeeee" version="1">影界触碰: 魅力</content>
+	<content contentuid="ecb90f47ea794594b8d2deeeeeeeeeeeeeeee" version="1">影界触碰: 智力</content>
+	<content contentuid="ecb90f47ea794594b8d2deeeeeeeeeeeeeeee" version="1">影界触碰: 智力</content>
+	<content contentuid="h53e9fc19g1e4bg4e7cgb417gf5b9dd4940dc" version="1">影界触碰: 智力</content>
+	<content contentuid="h53e9fc19g1e4bg4e7cgb417gf5b9dd4940dc" version="1">影界触碰: 智力</content>
+	<content contentuid="h59e9fc19g1e4bg4e7cgb417gf5b9dd4940dc" version="1">影界触碰: 隐形</content>
+	<content contentuid="h59e9fc19g1e4bg4e7cgb417gf5b9dd4940dc" version="1">影界触碰: 隐形</content>
+	<content contentuid="h55e9fc19g1e4bg4e7cgb417gf5b9dd4940dc" version="1">影界触碰: 感知</content>
+	<content contentuid="06d7fd92ea144aa6aff2deeeeeeeeeeeeeeee" version="1">影界触碰: 感知</content>
+	<content contentuid="h55e9fc19g1e4bg4e7cgb417gf5b9dd4940dc" version="1">影界触碰: 感知</content>
+	<content contentuid="06d7fd92ea144aa6aff2deeeeeeeeeeeeeeee" version="1">影界触碰: 感知</content>
+	<content contentuid="h197b2a94g427eg4376gb4cfg2597f877d55b" version="1">技艺专家</content>
+	<content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3640" version="1">技艺专家</content>
+	<content contentuid="fb9faddd99314a8fa271deeeeeeeeeeeeeeee" version="1">技艺专家</content>
+	<content contentuid="h197b2a94g427eg4376gb4cfg2597f877d55b" version="1">技艺专家</content>
+	<content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3640" version="1">技艺专家</content>
+	<content contentuid="fb9faddd99314a8fa271deeeeeeeeeeeeeeee" version="1">技艺专家</content>
+	<content contentuid="hg68c268ag49b0g48cbgaf37g76cec2369e9e" version="1">隐伏者</content>
+	<content contentuid="hg80c268ag49b0g48cbgaf37g76cec2369e9e" version="1">隐伏者</content>
+	<content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3644" version="1">隐伏者</content>
+	<content contentuid="hg68c268ag49b0g48cbgaf37g76cec2369e9e" version="1">隐伏者</content>
+	<content contentuid="hg80c268ag49b0g48cbgaf37g76cec2369e9e" version="1">隐伏者</content>
+	<content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3644" version="1">隐伏者</content>
+	<content contentuid="hg84c268ag49b0g48cbgaf37g76cec2369e9e" version="1">隐伏者: 隐匿</content>
+	<content contentuid="hg84c268ag49b0g48cbgaf37g76cec2369e9e" version="1">隐伏者: 隐匿</content>
+	<content contentuid="hg82c268ag49b0g48cbgaf37g76cec2369e9e" version="1">隐伏者: 远程</content>
+	<content contentuid="hg82c268ag49b0g48cbgaf37g76cec2369e9e" version="1">隐伏者: 远程</content>
+	<content contentuid="hg82c268ag49b0g48cbgaf37g76cec2369e9e" version="1">隐伏者: 视觉</content>
+	<content contentuid="h85ed42e6ge239g4717g85dbg1471234127d6" version="1">挥砍伤</content>
+	<content contentuid="h85ed42e6ge239g4717g85dbg1471234127d6" version="1">挥砍伤</content>
+	<content contentuid="h78ed42e6ge239g4717g85dbg1471234127d6" version="1">劈砍者</content>
+	<content contentuid="73f4c0a36dea4bed87d1deeeeeeeeeeeeeeee" version="1">劈砍者</content>
+	<content contentuid="h78ed42e6ge239g4717g85dbg1471234127d6" version="1">劈砍者</content>
+	<content contentuid="73f4c0a36dea4bed87d1deeeeeeeeeeeeeeee" version="1">劈砍者</content>
+	<content contentuid="kt1246871g90b2g4f18gab29g0a0a8f3fbdce" version="1">劈砍者: 重击</content>
+	<content contentuid="kt1246871g90b2g4f18gab29g0a0a8f3fbdce" version="1">劈砍者: 重击</content>
+	<content contentuid="h82ed42e6ge239g4717g85dbg1471234127d6" version="1">劈砍者: 重击</content>
+	<content contentuid="h82ed42e6ge239g4717g85dbg1471234127d6" version="1">劈砍者: 重击</content>
+	<content contentuid="kt1816871g90b2g4f18gab29g0a0a8f3fbdce" version="1">劈砍者: 劣势</content>
+	<content contentuid="kt1816871g90b2g4f18gab29g0a0a8f3fbdce" version="1">劈砍者: 劣势</content>
+	<content contentuid="kt1226871g90b2g4f18gab29g0a0a8f3fbdce" version="1">劈砍者: 降速</content>
+	<content contentuid="kt1226871g90b2g4f18gab29g0a0a8f3fbdce" version="1">劈砍者: 降速</content>
+	<content contentuid="kt1796871g90b2g4f18gab29g0a0a8f3fbdce" version="1">劈砍者: 降速</content>
+	<content contentuid="kt1796871g90b2g4f18gab29g0a0a8f3fbdce" version="1">劈砍者: 降速</content>
+	<content contentuid="h80ed42e6ge239g4717g85dbg1471234127d6" version="1">劈砍者: 降速</content>
+	<content contentuid="h80ed42e6ge239g4717g85dbg1471234127d6" version="1">劈砍者: 降速</content>
+	<content contentuid="lz1746871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">风暴巨人之灵魂</content>
+	<content contentuid="lz1746871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">风暴巨人之灵魂</content>
+	<content contentuid="lz2096871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">风暴巨人之灵魂次数</content>
+	<content contentuid="lz2096871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">风暴巨人之灵魂次数</content>
+	<content contentuid="lz1406871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">来源: 毕格比巨献: 巨人之荣耀&lt;br&gt;&lt;br&gt;先决条件: 等级 4, 巨人打击(云雾打击)专长&lt;br&gt;&lt;br&gt;你展现出象征着云巨人的轻浮言语以及魔法, 使得你获得下列增益: &lt;br&gt;&lt;br&gt;属性值提升。选择&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;, &lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;, 或是&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;属性 +1, 最高到 20。&lt;br&gt;&lt;br&gt;迷云逃逸。当一个你可见的生物&lt;LSTag Tooltip="AttackRoll"&gt;攻击&lt;/LSTag&gt;命中你时, 你可以使用&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;来使自身获得此次伤害的抗性。然后你可以传送到你可见的 9m(30尺) 范围内且未被占据的空间。你可以使用此&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;的次数等于你的熟练加值, 并且在完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之后恢复所有已消耗的次数。</content>
+	<content contentuid="lz1406871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">来源: 毕格比巨献: 巨人之荣耀&lt;br&gt;&lt;br&gt;先决条件: 等级 4, 巨人打击(云雾打击)专长&lt;br&gt;&lt;br&gt;你展现出象征着云巨人的轻浮言语以及魔法, 使得你获得下列增益: &lt;br&gt;&lt;br&gt;属性值提升。选择&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;, &lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;, 或是&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;属性 +1, 最高到 20。&lt;br&gt;&lt;br&gt;迷云逃逸。当一个你可见的生物&lt;LSTag Tooltip="AttackRoll"&gt;攻击&lt;/LSTag&gt;命中你时, 你可以使用&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;来使自身获得此次伤害的抗性。然后你可以传送到你可见的 9m(30尺) 范围内且未被占据的空间。你可以使用此&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;的次数等于你的熟练加值, 并且在完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之后恢复所有已消耗的次数。</content>
+	<content contentuid="lz1476871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">来源: 毕格比巨献: 巨人之荣耀&lt;br&gt;&lt;br&gt;先决条件: 军用武器熟练或居然样子背景&lt;br&gt;&lt;br&gt;你吸收了回荡在你体内巨人之力的原初魔法。当你选择此专长时, 选择下列列出的增益之一。每回合一次, 当你用&lt;LSTag Tooltip="MeleeWeaponAttack"&gt;近战武器攻击&lt;/LSTag&gt;或使用&lt;LSTag Tooltip="Thrown"&gt;投掷武器&lt;/LSTag&gt;的&lt;LSTag Tooltip="RangedWeaponAttack"&gt;远程武器攻击&lt;/LSTag&gt;击中一个目标时, 你可以为攻击注入一种额外效应, 其具体内容取决于你选择的增益类型: &lt;br&gt;&lt;br&gt;云雾打击, 火焰打击, 寒霜打击, 山丘打击, 岩石打击, 风暴打击。&lt;br&gt;&lt;br&gt;这些效果豁免检定的 DC 等于 8 + 熟练修正值 + &lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;或是&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;修正值。&lt;br&gt;&lt;br&gt;你可使用此专长的次数等同于你的熟练加值次，在完成一次&lt;LSTag Tooltip="LongRest"&gt;长休lt;/LSTag&gt;后你恢复所有已消耗的使用次数。</content>
+	<content contentuid="lz1476871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">来源: 毕格比巨献: 巨人之荣耀&lt;br&gt;&lt;br&gt;先决条件: 军用武器熟练或居然样子背景&lt;br&gt;&lt;br&gt;你吸收了回荡在你体内巨人之力的原初魔法。当你选择此专长时, 选择下列列出的增益之一。每回合一次, 当你用&lt;LSTag Tooltip="MeleeWeaponAttack"&gt;近战武器攻击&lt;/LSTag&gt;或使用&lt;LSTag Tooltip="Thrown"&gt;投掷武器&lt;/LSTag&gt;的&lt;LSTag Tooltip="RangedWeaponAttack"&gt;远程武器攻击&lt;/LSTag&gt;击中一个目标时, 你可以为攻击注入一种额外效应, 其具体内容取决于你选择的增益类型: &lt;br&gt;&lt;br&gt;云雾打击, 火焰打击, 寒霜打击, 山丘打击, 岩石打击, 风暴打击。&lt;br&gt;&lt;br&gt;这些效果豁免检定的 DC 等于 8 + 熟练调整值 + &lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;或是&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;调整值。&lt;br&gt;&lt;br&gt;你可使用此专长的次数等同于你的熟练加值次，在完成一次&lt;LSTag Tooltip="LongRest"&gt;长休lt;/LSTag&gt;后你恢复所有已消耗的使用次数。</content>
+	<content contentuid="lz1356871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">来源: 塔莎的万事坩埚(Tasha's Cauldron of Everything)&lt;br&gt;&lt;br&gt;你持枪时眼明手快, 给予你以下增益: &lt;br&gt;&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;属性 +1, 最高到 20。&lt;br&gt;你获得枪械&lt;LSTag Tooltip="Proficiency"&gt;熟练&lt;/LSTag&gt;。&lt;br&gt;你无视枪械的装填属性。&lt;br&gt;在敌对生物 1.5m(5尺)范围发动远程&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;不会强制具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content>
+	<content contentuid="lz1356871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">来源: 塔莎的万事坩埚(Tasha's Cauldron of Everything)&lt;br&gt;&lt;br&gt;你持枪时眼明手快, 给予你以下增益: &lt;br&gt;&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;属性 +1, 最高到 20。&lt;br&gt;你获得枪械&lt;LSTag Tooltip="Proficiency"&gt;熟练&lt;/LSTag&gt;。&lt;br&gt;你无视枪械的装填属性。&lt;br&gt;在敌对生物 1.5m(5尺)范围发动远程&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;不会强制具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7764" version="1">矮身灵活</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7764" version="1">矮身灵活</content>
+	<content contentuid="hg92c268ag49b0g48cbgaf37g76cec2369e9e" version="1">矮身灵活: +1 力量 + 运动熟练</content>
+	<content contentuid="hg92c268ag49b0g48cbgaf37g76cec2369e9e" version="1">矮身灵活: +1 力量 + 运动熟练</content>
+	<content contentuid="hg90c268ag49b0g48cbgaf37g76cec2369e9e" version="1">矮身灵活: +1 力量 + 特技熟练</content>
+	<content contentuid="hg90c268ag49b0g48cbgaf37g76cec2369e9e" version="1">矮身灵活: +1 力量 + 特技熟练</content>
+	<content contentuid="hg76c268ag49b0g48cbgaf37g76cec2369e9e" version="1">矮身灵活: 特技</content>
+	<content contentuid="hg76c268ag49b0g48cbgaf37g76cec2369e9e" version="1">矮身灵活: 特技</content>
+	<content contentuid="hg78c268ag49b0g48cbgaf37g76cec2369e9e" version="1">矮身灵活: 运动</content>
+	<content contentuid="hg78c268ag49b0g48cbgaf37g76cec2369e9e" version="1">矮身灵活: 运动</content>
+	<content contentuid="lz1566871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">岩石打击</content>
+	<content contentuid="lz1566871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">岩石打击</content>
+	<content contentuid="lz1976871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">投掷石块</content>
+	<content contentuid="lz1976871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">投掷石块</content>
+	<content contentuid="lz2016871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">投掷石块 - 体质</content>
+	<content contentuid="lz2016871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">投掷石块 - 体质</content>
+	<content contentuid="lz2006871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">投掷石块 - 力量</content>
+	<content contentuid="lz2006871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">投掷石块 - 力量</content>
+	<content contentuid="lz2026871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">投掷石块 - 感知</content>
+	<content contentuid="lz2026871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">投掷石块 - 感知</content>
+	<content contentuid="lz1586871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">风暴打击</content>
+	<content contentuid="lz1586871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">风暴打击</content>
+	<content contentuid="lz1466871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">巨人打击</content>
+	<content contentuid="lz1466871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">巨人打击</content>
+	<content contentuid="3033276959c341e59d57deeeeeeeeeeeeeeee" version="1">研究神秘学知识, 你已在自己体内解锁了魔能力量: 你从邪术师职业中选择学习一项魔能祈唤。如果已经有了一个祈唤, 你必须选择不同的。</content>
+	<content contentuid="3033276959c341e59d57deeeeeeeeeeeeeeee" version="1">研究神秘学知识, 你已在自己体内解锁了魔能力量: 你从邪术师职业中选择学习一项魔能祈唤。如果已经有了一个祈唤, 你必须选择不同的。</content>
+	<content contentuid="hcb38dd94gcf75g443cgb23cg53a8bcca062d" version="1">通过学习神秘学, 你已经释放出体内的魔能力量。</content>
+	<content contentuid="hcb38dd94gcf75g443cgb23cg53a8bcca062d" version="1">通过学习神秘学, 你已经释放出体内的魔能力量。</content>
+	<content contentuid="hg88c268ag49b0g48cbgaf37g76cec2369e9e" version="1">召唤'魔法'制毒工具包</content>
+	<content contentuid="hg88c268ag49b0g48cbgaf37g76cec2369e9e" version="1">召唤'魔法'制毒工具包</content>
+	<content contentuid="hg86c268ag49b0g48cbgaf37g76cec2369e9e" version="1">召唤制毒工具包</content>
+	<content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3642" version="1">召唤制毒工具包</content>
+	<content contentuid="hg86c268ag49b0g48cbgaf37g76cec2369e9e" version="1">召唤制毒工具包</content>
+	<content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3642" version="1">召唤制毒工具包</content>
+	<content contentuid="lz1136871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">斯涅布力的魔法</content>
+	<content contentuid="lz1136871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">斯涅布力的魔法</content>
+	<content contentuid="h5948faf5g7575g4027g91c8gb0672198341e" version="1">念动力</content>
+	<content contentuid="68e2e4d0a7604becbe56deeeeeeeeeeeeeeee" version="1">念动力</content>
+	<content contentuid="h5948faf5g7575g4027g91c8gb0672198341e" version="1">念动力</content>
+	<content contentuid="68e2e4d0a7604becbe56deeeeeeeeeeeeeeee" version="1">念动力</content>
+	<content contentuid="kt1456871g90b2g4f18gab29g0a0a8f3fbdce" version="1">念动力: 法师之手</content>
+	<content contentuid="kt1456871g90b2g4f18gab29g0a0a8f3fbdce" version="1">念动力: 法师之手</content>
+	<content contentuid="kt1496871g90b2g4f18gab29g0a0a8f3fbdce" version="1">念动力·拉近</content>
+	<content contentuid="kt1496871g90b2g4f18gab29g0a0a8f3fbdce" version="1">念动力·拉近</content>
+	<content contentuid="kt1476871g90b2g4f18gab29g0a0a8f3fbdce" version="1">念动力·推离</content>
+	<content contentuid="kt1476871g90b2g4f18gab29g0a0a8f3fbdce" version="1">念动力·推离</content>
+	<content contentuid="hbcdcc3dcg93e2g4033gb5f4g519616183ab8" version="1">念力报复</content>
+	<content contentuid="hbcdcc3dcg93e2g4033gb5f4g519616183ab8" version="1">念力报复</content>
+	<content contentuid="kt1306871g90b2g4f18gab29g0a0a8f3fbdce" version="1">念动力: 魅力</content>
+	<content contentuid="kt1306871g90b2g4f18gab29g0a0a8f3fbdce" version="1">念动力: 魅力</content>
+	<content contentuid="kt1266871g90b2g4f18gab29g0a0a8f3fbdce" version="1">念动力: 智力</content>
+	<content contentuid="kt1266871g90b2g4f18gab29g0a0a8f3fbdce" version="1">念动力: 智力</content>
+	<content contentuid="h6148faf5g7575g4027g91c8gb0672198341e" version="1">念动力: 法师之手</content>
+	<content contentuid="h6148faf5g7575g4027g91c8gb0672198341e" version="1">念动力: 法师之手</content>
+	<content contentuid="h6548faf5g7575g4027g91c8gb0672198341e" version="1">念动力: 拉近</content>
+	<content contentuid="h6548faf5g7575g4027g91c8gb0672198341e" version="1">念动力: 拉近</content>
+	<content contentuid="h6348faf5g7575g4027g91c8gb0672198341e" version="1">念动力: 推离</content>
+	<content contentuid="h6348faf5g7575g4027g91c8gb0672198341e" version="1">念动力: 推离</content>
+	<content contentuid="kt1286871g90b2g4f18gab29g0a0a8f3fbdce" version="1">念动力: 感知</content>
+	<content contentuid="kt1286871g90b2g4f18gab29g0a0a8f3fbdce" version="1">念动力: 感知</content>
+	<content contentuid="lz1616871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">被云雾打击的目标对此攻击发起者具有攻击检定劣势, 直到攻击发起者的下一个回合开始或是在其又一次进行攻击检定和施放法术。</content>
+	<content contentuid="lz1616871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">被云雾打击的目标对此攻击发起者具有攻击检定劣势, 直到攻击发起者的下一个回合开始或是在其又一次进行攻击检定和施放法术。</content>
+	<content contentuid="lz2156871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">生物移动速度减半，直至下个回合开始。</content>
+	<content contentuid="lz2156871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">生物移动速度减半，直至下个回合开始。</content>
+	<content contentuid="lz1516871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">目标受到额外 1d10 火焰伤害。</content>
+	<content contentuid="lz1516871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">目标受到额外 1d10 火焰伤害。</content>
+	<content contentuid="lz1496871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">目标受到额外 1d4 雷鸣伤害。如果目标是生物, 则必须成功通过一次&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免&lt;/LSTag&gt;,否则直到你的下一回合开始, 你对其而言视为'隐形'状态。你发动攻击或是施展法术后, 隐形会立刻结束。</content>
+	<content contentuid="lz1496871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">目标受到额外 1d4 雷鸣伤害。如果目标是生物, 则必须成功通过一次&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免&lt;/LSTag&gt;,否则直到你的下一回合开始, 你对其而言视为'隐形'状态。你发动攻击或是施展法术后, 隐形会立刻结束。</content>
+	<content contentuid="lz1536871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">目标受到额外 1d6 冷冻伤害。如果目标是生物, 则必须成功通过一次&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免&lt;/LSTag&gt;, 否则直到你的下一回合开始, 移动速度降至 0。</content>
+	<content contentuid="lz1536871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">目标受到额外 1d6 冷冻伤害。如果目标是生物, 则必须成功通过一次&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免&lt;/LSTag&gt;, 否则直到你的下一回合开始, 移动速度降至 0。</content>
+	<content contentuid="lz1556871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">目标受到额外 1d6 与武器同类型的伤害。如果目标是生物, 则必须成功通过一次&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;检定&lt;/LSTag&gt;否则会倒伏在地。</content>
+	<content contentuid="lz1556871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">目标受到额外 1d6 与武器同类型的伤害。如果目标是生物, 则必须成功通过一次&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;检定&lt;/LSTag&gt;否则会倒伏在地。</content>
+	<content contentuid="lz1576871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">目标受到额外 1d6 力场伤害。如果目标是生物, 则必须成功通过一次&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;检定&lt;/LSTag&gt;否则会沿着直线方向被击退 3m(10尺)。</content>
+	<content contentuid="lz1576871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">目标受到额外 1d6 力场伤害。如果目标是生物, 则必须成功通过一次&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;检定&lt;/LSTag&gt;否则会沿着直线方向被击退 3m(10尺)。</content>
+	<content contentuid="lz1596871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">目标受到额外 1d6 闪电伤害。如果目标是生物, 则必须成功通过一次&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免&lt;/LSTag&gt;,否则直到你的下一个回合开始, 会具有攻击检定劣势。</content>
+	<content contentuid="lz1596871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">目标受到额外 1d6 闪电伤害。如果目标是生物, 则必须成功通过一次&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免&lt;/LSTag&gt;,否则直到你的下一个回合开始, 会具有攻击检定劣势。</content>
+	<content contentuid="lz1636871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">此目标对抗云雾打击攻击发起者的攻击检定具有劣势</content>
+	<content contentuid="lz1636871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">此目标对抗云雾打击攻击发起者的攻击检定具有劣势</content>
+	<content contentuid="kt1646871g90b2g4f18gab29g0a0a8f3fbdce" version="1">这个生物在完成&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之前不能通过医疗师专长再次恢复生命值。</content>
+	<content contentuid="kt1646871g90b2g4f18gab29g0a0a8f3fbdce" version="1">这个生物在完成&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之前不能通过医疗师专长再次恢复生命值。</content>
+	<content contentuid="lz2376871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">该符文与你的库存绑定</content>
+	<content contentuid="lz2376871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">该符文与你的库存绑定</content>
+	<content contentuid="lz1166871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">花费在专研厨艺上的工夫已然有了回报。你获得下述增益:&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;或是&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;中的一项 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;你获得厨师用具&lt;LSTag Tooltip="Proficiency"&gt;熟练&lt;/LSTag&gt;如果你还没有的话。&lt;br&gt;&lt;br&gt;作为一次&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;的一部分, 你可以烹饪特制食物, 只要你手上有原料和厨具。你可以为特定数量的目标对象准备足够的这种食物, 数量等于 4 + 你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;。在本次&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;结束时, 任何吃了食物且消耗至少 1 个或以上生命骰(Hit Dice)来恢复HP的目标对象, 可恢复额外 1d8 的HP。&lt;br&gt;&lt;br&gt;在一个小时的精心烹饪或是在完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之后, 你可以做出等于你&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;份数的特制零食(食物补给品)。这些特制零食可保存 8 小时。目标对象可使用&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;食用一份来获得等于你&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;的&lt;LSTag Tooltip="TemporaryHitPoints"&gt;临时生命值&lt;/LSTag&gt;。</content>
+	<content contentuid="lz1166871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">花费在专研厨艺上的工夫已然有了回报。你获得下述增益:&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;或是&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;中的一项 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;你获得厨师用具&lt;LSTag Tooltip="Proficiency"&gt;熟练&lt;/LSTag&gt;如果你还没有的话。&lt;br&gt;&lt;br&gt;作为一次&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;的一部分, 你可以烹饪特制食物, 只要你手上有原料和厨具。你可以为特定数量的目标对象准备足够的这种食物, 数量等于 4 + 你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;。在本次&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;结束时, 任何吃了食物且消耗至少 1 个或以上生命骰(Hit Dice)来恢复HP的目标对象, 可恢复额外 1d8 的HP。&lt;br&gt;&lt;br&gt;在一个小时的精心烹饪或是在完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之后, 你可以做出等于你&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;份数的特制零食(食物补给品)。这些特制零食可保存 8 小时。目标对象可使用&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;食用一份来获得等于你&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;的&lt;LSTag Tooltip="TemporaryHitPoints"&gt;临时生命值&lt;/LSTag&gt;。</content>
+	<content contentuid="lz1366871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">切换为'开启'：移除近战中进行远程法术攻击具有的劣势；切换为'开启'：使用近战法术攻击检定替代远程法术攻击检定</content>
+	<content contentuid="lz1366871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">切换为'开启'移除近战中进行远程法术攻击具有的&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt; | 切换为'开启'使用&lt;LSTag Tooltip="MeleeSpellAttack"&gt;近战法术攻击&lt;/LSTag&gt;掷骰替代&lt;LSTag Tooltip="RangedSpellAttack"&gt;远程法术攻击&lt;/LSTag&gt;掷骰 | </content>
+	<content contentuid="kt1136871g90b2g4f18gab29g0a0a8f3fbdce" version="1">解锁&lt;LSTag Type="Spell" Tooltip="Target_InspiringLeader"&gt;激励&lt;/LSTag&gt;法术, 该法术可以让所有在你周围 9m(30尺) 范围内的友方生物(包括你自己)获得 5 点&lt;LSTag Tooltip="TemporaryHitPoints"&gt;临时生命值&lt;/LSTag&gt;。</content>
+	<content contentuid="kt1136871g90b2g4f18gab29g0a0a8f3fbdce" version="1">解锁&lt;LSTag Type="Spell" Tooltip="Target_InspiringLeader"&gt;激励&lt;/LSTag&gt;法术, 该法术可以让所有在你周围 9m(30尺) 范围内的友方生物(包括你自己)获得 5 点&lt;LSTag Tooltip="TemporaryHitPoints"&gt;临时生命值&lt;/LSTag&gt;。</content>
+	<content contentuid="hg95c268ag49b0g48cbgaf37g76cec2369e9e" version="1">直到你的下一个回合开始, 任何对你的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;如果你能看见攻击者, 并且你进行敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+	<content contentuid="hg95c268ag49b0g48cbgaf37g76cec2369e9e" version="1">直到你的下一个回合开始, 任何对你的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;如果你能看见攻击者, 并且你进行敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7771" version="1">直到你的下一个回合, 你的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;属性检定&lt;/LSTag&gt;, 或是&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;。你的敌人对你的攻击检定具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LsTag&gt;。你重新获得消耗的幸运点, 当你完成&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之后。</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7771" version="1">直到你的下一个回合, 你的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;属性检定&lt;/LSTag&gt;, 或是&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;。你的敌人对你的攻击检定具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LsTag&gt;。你重新获得消耗的幸运点, 当你完成&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之后。</content>
+	<content contentuid="lz1276871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">使用这个版本的&lt;LSTag Type="Spell" Tooltip="Shout_DisguiseSelf"&gt;易容术&lt;/LSTag&gt;而解除之后将解锁这个法术的完整版本。</content>
+	<content contentuid="lz1276871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">使用这个版本的&lt;LSTag Type="Spell" Tooltip="Shout_DisguiseSelf"&gt;易容术&lt;/LSTag&gt;而解除之后将解锁这个法术的完整版本。</content>
+	<content contentuid="lz1766871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">山丘巨人之健强</content>
+	<content contentuid="lz1766871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">山丘巨人之健强</content>
+	<content contentuid="hg57c268ag49b0g48cbgaf37g76cec2369e9e" version="1">涂有卓尔刺客毒药的武器能造成额外 1d6 的毒素伤害。</content>
+	<content contentuid="hg57c268ag49b0g48cbgaf37g76cec2369e9e" version="1">涂有卓尔刺客毒药的武器能造成额外 1d6 的毒素伤害。</content>
+	<content contentuid="hg60c268ag49b0g48cbgaf37g76cec2369e9e" version="1">涂有'魔法'卓尔刺客毒药的武器能造成额外 1d6 的黯蚀毒性伤害。</content>
+	<content contentuid="hg60c268ag49b0g48cbgaf37g76cec2369e9e" version="1">涂有'魔法'卓尔刺客毒药的武器能造成额外 1d6 的黯蚀毒性伤害。</content>
+	<content contentuid="lz1436871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">当你被一个你可见的生物攻击命中后, 你可以使用反应让你自身获得此次攻击伤害相同的抗性。你之后可以传送到 9m(30尺) 范围内你能看到且未被占据的空间。</content>
+	<content contentuid="lz1436871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">当你被一个你可见的生物攻击命中后, 你可以使用反应让你自身获得此次攻击伤害相同的抗性。你之后可以传送到 9m(30尺) 范围内你能看到且未被占据的空间。</content>
+	<content contentuid="lz1246871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">角色食用后进行短休free恢复额外 1d8 HP。</content>
+	<content contentuid="lz1246871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">角色食用后进行短休free恢复额外 1d8 HP。</content>
+	<content contentuid="hg83c268ag49b0g48cbgaf37g76cec2369e9e" version="1">当你对某个生物隐匿并且用&lt;LSTag Tooltip="RangedWeaponAttack"&gt;远程武器进行攻击&lt;/LSTag&gt;失手, 你的攻击不会暴露你的位置。</content>
+	<content contentuid="hg83c268ag49b0g48cbgaf37g76cec2369e9e" version="1">当你对某个生物隐匿并且用&lt;LSTag Tooltip="RangedWeaponAttack"&gt;远程武器进行攻击&lt;/LSTag&gt;失手, 你的攻击不会暴露你的位置。</content>
+	<content contentuid="hg83c268ag49b0g48cbgaf37g76cec2369e9e" version="1">在昏暗的光线下, 你的察觉&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;具有优势。</content>
+	<content contentuid="hcjfd460eg599cg4afbg8b0bg66e20997e71f" version="1">在你被一次&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;命中时，你可以使用你的反应来在你背后暂时显现出虚幻的翅膀。你使目标对抗该次攻击的&lt;LSTag Tooltip="ArmourClass"&gt;AC&lt;/LSTag&gt;获得加值，数值等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;。</content>
+	<content contentuid="hcjfd460eg599cg4afbg8b0bg66e20997e71f" version="1">在你被一次&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;命中时, 你可以使用你的反应来在你背后暂时显现出虚幻的翅膀。你使目标对抗该次攻击的&lt;LSTag Tooltip="ArmourClass"&gt;AC&lt;/LSTag&gt;获得加値, 数値等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加値&lt;/LSTag&gt;。</content>
+	<content contentuid="lz2046871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">当你受到一次让你移动至少5尺、或给予你&lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒伏&lt;/LSTag&gt;状态的效应时，你可以用你的反应来稳定自身，此时，你既不会被因此移动，也不会因此陷入&lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒伏&lt;/LSTag&gt;。</content>
+	<content contentuid="lz2046871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">当你受到一次让你移动至少5尺、或给予你&lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒伏&lt;/LSTag&gt;状态的效应时，你可以用你的反应来稳定自身，此时，你既不会被因此移动，也不会因此陷入&lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒伏&lt;/LSTag&gt;。</content>
+	<content contentuid="lz1046871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">当你使用&lt;LSTag Tooltip="MeleeWeaponAttack"&gt;近战武器攻击&lt;/LSTag&gt;命中时, 造成额外 [1]</content>
+	<content contentuid="lz1046871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">当你使用&lt;LSTag Tooltip="MeleeWeaponAttack"&gt;近战武器攻击&lt;/LSTag&gt;命中时, 造成额外 [1]</content>
+	<content contentuid="lz1056871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">当你使用&lt;LSTag Tooltip="RangedWeaponAttack"&gt;远程武器攻击&lt;/LSTag&gt;命中时, 造成额外 [1]</content>
+	<content contentuid="lz1056871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">当你使用&lt;LSTag Tooltip="RangedWeaponAttack"&gt;远程武器攻击&lt;/LSTag&gt;命中时, 造成额外 [1]</content>
+	<content contentuid="h773598d8gb51eg4028g8e47g57f23cd0268d" version="1">当你用攻击对一个目标造成钝击伤害, 幷达成&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时, 直到你的下一回合开始, 所有对该目标的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;都具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+	<content contentuid="h773598d8gb51eg4028g8e47g57f23cd0268d" version="1">当你用攻击对一个目标造成钝击伤害, 幷达成&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时, 直到你的下一回合开始, 所有对该目标的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;都具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+	<content contentuid="h71b60f34g99ebg476eg93f7g217b7ef0303a" version="1">当你用造成穿刺伤害的攻击命中一个生物并且造成重击时，你可以在计算穿刺伤害时投一个额外的伤害骰。</content>
+	<content contentuid="h71b60f34g99ebg476eg93f7g217b7ef0303a" version="1">当你用攻击对一个目标造成穿刺伤害, 幷且达成&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时, 你可以在结算伤害时投一个额外的穿刺伤害骰。</content>
+	<content contentuid="h83ed42e6ge239g4717g85dbg1471234127d6" version="1">当你用攻击对一个目标造成挥砍伤害, 幷且达成&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时, 该目标所有&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;都具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LsTag&gt;, 直到你下一回合开始。</content>
+	<content contentuid="h83ed42e6ge239g4717g85dbg1471234127d6" version="1">当你用攻击对一个目标造成挥砍伤害, 幷且达成&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时, 该目标所有&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;都具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LsTag&gt;, 直到你下一回合开始。</content>
+	<content contentuid="kt1056871g90b2g4f18gab29g0a0a8f3fbdce" version="1">当你用近战攻击对一个目标造成钝击伤害, 并达成&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时, 直到你的下一回合开始, 所有对该目标的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;都具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+	<content contentuid="kt1056871g90b2g4f18gab29g0a0a8f3fbdce" version="1">当你用近战攻击对一个目标造成钝击伤害, 并达成&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时, 直到你的下一回合开始, 所有对该目标的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;都具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+	<content contentuid="kt1256871g90b2g4f18gab29g0a0a8f3fbdce" version="1">当你用近战攻击命中一个目标并造成挥砍伤害时, 并达成&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时, 你会对目标造成严重的伤害。直到你的下一回合开始, 该目标所有&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;都具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LsTag&gt;。</content>
+	<content contentuid="kt1256871g90b2g4f18gab29g0a0a8f3fbdce" version="1">当你用近战攻击命中一个目标并造成挥砍伤害时, 并达成&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时, 你会对目标造成严重的伤害。直到你的下一回合开始, 该目标所有&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;都具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LsTag&gt;。</content>
+	<content contentuid="h478965aegec78g4a09g9401g01bfa60c1f57" version="1">每短休一次，当你受到强酸，寒冷，火焰，闪电或毒素伤害时，你可以使用你的反应，使自己在当此伤害中获得对应伤害类型的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;，该抗性持续到你下回合开始。&lt;br&gt;&lt;br&gt;你还可以在每长休期间使用一次&lt;LSTag Type="Spell" Tooltip="Target_GotCD_Infusion"&gt;繁彩注魔&lt;/LSTag&gt;。</content>
+	<content contentuid="h478965aegec78g4a09g9401g01bfa60c1f57" version="1">当你受到强酸、冷冻、火焰、闪电或毒素伤害时, 每次&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;一次, 你可以使用的反应来赋予自身对此伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;直到你的下一回合开始。&lt;br&gt;&lt;br&gt;你同时也习得&lt;LSTag Type="Spell" Tooltip="Target_GotCD_Infusion"&gt;繁彩注魔&lt;/LSTag&gt;动作, 幷且可以每次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;使用一次。</content>
+	<content contentuid="h482965aegec78g4a09g9401g01bfa60c1f57" version="1">当你受到强酸，寒冷，火焰，闪电或毒素伤害时，你可以使用你的反应，使自己在当此伤害中获得对应伤害类型的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;，直到你下一回合开始。</content>
+	<content contentuid="h482965aegec78g4a09g9401g01bfa60c1f57" version="1">当你受到强酸、冷冻、火焰、闪电或毒素伤害时, 你可以使用你的&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;来赋予自身对此次伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。你可以使用这个反应次数等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加値&lt;/LSTag&gt;, 幷且当你完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后, 你会恢复所有已消耗的次数。</content>
+	<content contentuid="kt1176871g90b2g4f18gab29g0a0a8f3fbdce" version="1">当你受到强酸、冷冻、火焰、闪电或毒素伤害时, 你可以使用你的&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;来赋予自身对此次伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。你可以使用这个反应次数等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;, 并且当你完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后, 你会恢复所有已消耗的次数。</content>
+	<content contentuid="kt1336871g90b2g4f18gab29g0a0a8f3fbdce" version="1">当你受到强酸、冷冻、火焰、闪电或毒素伤害时, 你可以使用你的&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;来赋予自身对此次伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。你可以使用这个反应次数等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;, 并且当你完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后, 你会恢复所有已消耗的次数。</content>
+	<content contentuid="kt1176871g90b2g4f18gab29g0a0a8f3fbdce" version="1">当你受到强酸、冷冻、火焰、闪电或毒素伤害时, 你可以使用你的&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;来赋予自身对此次伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。你可以使用这个反应次数等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;, 并且当你完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后, 你会恢复所有已消耗的次数。</content>
+	<content contentuid="kt1336871g90b2g4f18gab29g0a0a8f3fbdce" version="1">当你受到强酸、冷冻、火焰、闪电或毒素伤害时, 你可以使用你的&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;来赋予自身对此次伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。你可以使用这个反应次数等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;, 并且当你完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后, 你会恢复所有已消耗的次数。</content>
+	<content contentuid="hfga422cageaceg4b1agbca4gda8b870ccdd6" version="1">当你受到来自距离你10尺内的生物的伤害时，你可以用你的反应来驱使念动力，对该生物造成[1]力场伤害并将其推离。</content>
+	<content contentuid="hfga422cageaceg4b1agbca4gda8b870ccdd6" version="1">当你受到在你 3m(5尺)范围内的目标造成的伤害, 你可以使用反应来造成 [1] 力场伤害幷且尝试将目标推离。</content>
+	<content contentuid="hb93172abga0feg4f07g9995g95eb0d815055" version="1">当你执行闪避动作时, 你同时恢复 [1]。</content>
+	<content contentuid="hb93172abga0feg4f07g9995g95eb0d815055" version="1">当你执行闪避动作时, 你同时恢复 [1]。</content>
+	<content contentuid="lz1656871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">你执行攻击动作以单手武器攻击后，可以用&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;使用一把正持握的手弩发动攻击。</content>
+	<content contentuid="lz1656871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">你执行攻击动作以单手武器攻击后，可以用&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;使用一把正持握的手弩发动攻击。</content>
+	<content contentuid="lz1316871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">当你使用此技能时, 你在下一个回合结束前不能使用你的'幸运'种族特质。</content>
+	<content contentuid="lz1316871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">当你使用此技能时, 你在下一个回合结束前不能使用你的'幸运'种族特质。</content>
+	<content contentuid="lz2146871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">当其他生物在灵光范围内开始回合时，你可以强迫该生物通过一次&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt; (DC为8+你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;+本专长提升属性的修正值)。豁免失败，则该生物的移动速度减半，直至下个回合开始。你可以使用该&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;的次数等于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;，在完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后你恢复所有已消耗的使用次数。</content>
+	<content contentuid="lz2146871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">当其他生物在灵光范围内开始回合时，你可以强迫该生物通过一次&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt; (DC为8+你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;+本专长提升属性的调整值)。豁免失败，则该生物的移动速度减半，直至下个回合开始。你可以使用该&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;的次数等于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;，在完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后你恢复所有已消耗的使用次数。</content>
+	<content contentuid="lz2066871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">当你在&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;时进食，并且使用了一粒或更多生命骰恢复生命时，你额外恢复等同于你的&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;修正值+你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;点的生命值。</content>
+	<content contentuid="lz2066871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">当你在&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;时进食，并且使用了一粒或更多生命骰恢复生命时，你额外恢复等同于你的&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;调整值+你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;点的生命值。</content>
+	<content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3639" version="1">当你在使用&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;, &lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;, &lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;, 或是&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;进行的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;时, 你可以重掷其中一个骰子。</content>
+	<content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3639" version="1">当你在使用&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;, &lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;, &lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;, 或是&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;进行的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;时, 你可以重掷其中一个骰子。</content>
+	<content contentuid="lz2136871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">灵光激活时，你获得闪电和雷鸣伤害&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。此外，任何以你为目标的攻击检定都将具有劣势，且每当一个生物在灵光下开始其回合，你都可以迫使其进行一次&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;（DC为8+你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;+本专长提升属性的修正值）。豁免失败时，该生物的速度将被减半直至它们的下一回合开始。你可以使用这一&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;的次数等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;，在完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后你恢复所有已消耗的使用次数。</content>
+	<content contentuid="lz2136871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">灵光激活时，你获得闪电和雷鸣伤害&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。此外，任何以你为目标的攻击检定都将具有劣势，且每当一个生物在灵光下开始其回合，你都可以迫使其进行一次&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;（DC为8+你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;+本专长提升属性的调整值）。豁免失败时，该生物的速度将被减半直至它们的下一回合开始。你可以使用这一&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;的次数等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;，在完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后你恢复所有已消耗的使用次数。</content>
+	<content contentuid="h5da4df8dg24e0g4373g8530g3ab91cc7abb5" version="1">如果你不穿任何护甲, 你的&lt;LSTag Tooltip="ArmourClass"&gt;AC&lt;/LSTag&gt;等于 13 + 你的&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;修正值。</content>
+	<content contentuid="h5da4df8dg24e0g4373g8530g3ab91cc7abb5" version="1">如果你不穿任何护甲, 你的&lt;LSTag Tooltip="ArmourClass"&gt;AC&lt;/LSTag&gt;等于 13 + 你的&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;调整值。</content>
+	<content contentuid="lz2386871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">当符文在你的库存中时，你可以无需法术位的施展这个法术一次，之后你必须完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;才能再次以此施展它。你同样可以用任何你拥有的法术位去施展这个法术。符文在你完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后消失</content>
+	<content contentuid="lz2386871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">当符文在你的库存中时，你可以无需法术位的施展这个法术一次，之后你必须完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;才能再次以此施展它。你同样可以用任何你拥有的法术位去施展这个法术。符文在你完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后消失</content>
+	<content contentuid="lz1206871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">在一个小时的精心烹饪或是在完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之后, 你可以做出等于你&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;份数的特制零食(食物补给品)。这些特制零食可保存 8 小时。目标对象可使用&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;食用一份来获得等于你&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;的&lt;LSTag Tooltip="TemporaryHitPoints"&gt;临时生命值&lt;/LSTag&gt;。</content>
+	<content contentuid="lz1206871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">在一个小时的精心烹饪或是在完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之后, 你可以做出等于你&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;份数的特制零食(食物补给品)。这些特制零食可保存 8 小时。目标对象可使用&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;食用一份来获得等于你&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;的&lt;LSTag Tooltip="TemporaryHitPoints"&gt;临时生命值&lt;/LSTag&gt;。</content>
+	<content contentuid="5fea8060-c9b5-4efd-a13e-38216ce76656" version="1">木精灵魔法</content>
+	<content contentuid="5fea8060-c9b5-4efd-a13e-38216ce76656" version="1">木精灵魔法</content>
+	<content contentuid="5fea8060c9b54efda13e38216ce76659" version="1">你的指尖长出可伸缩的利爪。爪子是天生武器, 可以用来发动&lt;LSTag Type="Spell" Tooltip="Target_DragonHide_Melee"&gt;徒手打击&lt;/LSTag&gt;。</content>
+	<content contentuid="5fea8060c9b54efda13e38216ce76659" version="1">你的指尖长出可伸缩的利爪。爪子是天生武器, 可以用来发动&lt;LSTag Type="Spell" Tooltip="Target_DragonHide_Melee"&gt;徒手打击&lt;/LSTag&gt;。</content>
+	<content contentuid="df6e220690be428c8c9fdeeeeeeeeeeeeeeee" version="1">你可以花费10分钟来&lt;LSTag Type="Spell" Tooltip="Target_InspiringLeader"&gt;激励&lt;/LSTag&gt;你的同伴, 鼓舞他们战斗的信心。</content>
+	<content contentuid="df6e220690be428c8c9fdeeeeeeeeeeeeeeee" version="1">你可以花费10分钟来&lt;LSTag Type="Spell" Tooltip="Target_InspiringLeader"&gt;激励&lt;/LSTag&gt;你的同伴, 鼓舞他们战斗的信心。</content>
+	<content contentuid="lz1426871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">你可以传送到 9m 范围内你能看到且未被占据的空间。</content>
+	<content contentuid="lz1426871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">你可以传送到 9m 范围内你能看到且未被占据的空间。</content>
+	<content contentuid="kt1446871g90b2g4f18gab29g0a0a8f3fbdce" version="1">你可以处理一个生物的伤口。你恢复它 [1] 点生命值。在该生物完成&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;之前, 它无法再以这种方式恢复生命值。</content>
+	<content contentuid="kt1446871g90b2g4f18gab29g0a0a8f3fbdce" version="1">你可以处理一个生物的伤口。你恢复它 [1] 点生命值。在该生物完成&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;之前, 它无法再以这种方式恢复生命值。</content>
+	<content contentuid="h057718b6gb4e1g4e69g8ee4gc02ff95b825a" version="1">你可以触碰一把简易武器或军用武器, 并注魔强酸能量。在接下来的一分钟内, 该武器在命中时额外造成 [1] 点强酸伤害。</content>
+	<content contentuid="h057718b6gb4e1g4e69g8ee4gc02ff95b825a" version="1">你可以触碰一把简易武器或军用武器, 并注魔强酸能量。在接下来的一分钟内, 该武器在命中时额外造成 [1] 点强酸伤害。</content>
+	<content contentuid="h4c7b04beg361bg4f77ga7b5gf16d77993b8f" version="1">你可以触碰一把简易武器或军用武器, 并注魔冷冻能量。在接下来的一分钟内, 该武器在命中时额外造成 [1] 点冷冻伤害。</content>
+	<content contentuid="h4c7b04beg361bg4f77ga7b5gf16d77993b8f" version="1">你可以触碰一把简易武器或军用武器, 并注魔冷冻能量。在接下来的一分钟内, 该武器在命中时额外造成 [1] 点冷冻伤害。</content>
+	<content contentuid="hba7a5ba3g8282g4d7bg87b2g7d88945dc789" version="1">你可以触碰一把简易武器或军用武器, 并注魔火焰能量。在接下来的一分钟内, 该武器在命中时额外造成 [1] 点火焰伤害。</content>
+	<content contentuid="hba7a5ba3g8282g4d7bg87b2g7d88945dc789" version="1">你可以触碰一把简易武器或军用武器, 并注魔火焰能量。在接下来的一分钟内, 该武器在命中时额外造成 [1] 点火焰伤害。</content>
+	<content contentuid="h96792cedg4f3eg4e40gba9fg55b2db0a829c" version="1">你可以触碰一把简易武器或军用武器, 并注魔闪电能量。在接下来的一分钟内, 该武器在命中时额外造成 [1] 点闪电伤害。</content>
+	<content contentuid="h96792cedg4f3eg4e40gba9fg55b2db0a829c" version="1">你可以触碰一把简易武器或军用武器, 并注魔闪电能量。在接下来的一分钟内, 该武器在命中时额外造成 [1] 点闪电伤害。</content>
+	<content contentuid="kt1376871g90b2g4f18gab29g0a0a8f3fbdce" version="1">你可以触碰一把简易武器或军用武器, 并注魔下述伤害类型之一: 强酸、冷冻、火焰、闪电或毒素。在接下来的一分钟内, 该武器在命中时额外造成 [1] 你所选伤害类型的伤害。</content>
+	<content contentuid="kt1376871g90b2g4f18gab29g0a0a8f3fbdce" version="1">你可以触碰一把简易武器或军用武器, 并注魔下述伤害类型之一: 强酸、冷冻、火焰、闪电或毒素。在接下来的一分钟内, 该武器在命中时额外造成 [1] 你所选伤害类型的伤害。</content>
+	<content contentuid="hd5609c5eg4b78g4389gb373gd7219022e6b2" version="1">你可以触碰一把简易武器或军用武器, 并注魔毒素能量。在接下来的一分钟内, 该武器在命中时额外造成 [1] 点毒素伤害。</content>
+	<content contentuid="hd5609c5eg4b78g4389gb373gd7219022e6b2" version="1">你可以触碰一把简易武器或军用武器, 并注魔毒素能量。在接下来的一分钟内, 该武器在命中时额外造成 [1] 点毒素伤害。</content>
+	<content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3645" version="1">当仅处于&lt;LSTag Type="Status" Tooltip="SNEAKING_LIGHTLY_OBSCURED"&gt;轻度遮蔽&lt;/LSTag&gt;环境中, 你可以尝试隐匿。&lt;br&gt;&lt;br&gt;当你对某个生物隐匿并且用&lt;LSTag Tooltip="RangedWeaponAttack"&gt;远程武器进行攻击&lt;/LSTag&gt;失手, 你的攻击不会暴露你的位置。&lt;br&gt;&lt;br&gt;昏暗的光线不会导致用视觉进行的察觉&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LsTag&gt;。&lt;br&gt;实现: 如果你远程攻击失手你尝试隐匿。当你处于遮蔽, 你在察觉和隐匿检定具有优势。如果你通过攻击开始战斗, 你在战斗开始时拥有所有行动。</content>
+	<content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3645" version="1">当仅处于&lt;LSTag Type="Status" Tooltip="SNEAKING_LIGHTLY_OBSCURED"&gt;轻度遮蔽&lt;/LSTag&gt;环境中, 你可以尝试隐匿。&lt;br&gt;&lt;br&gt;当你对某个生物隐匿并且用&lt;LSTag Tooltip="RangedWeaponAttack"&gt;远程武器进行攻击&lt;/LSTag&gt;失手, 你的攻击不会暴露你的位置。&lt;br&gt;&lt;br&gt;昏暗的光线不会导致用视觉进行的察觉&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LsTag&gt;。&lt;br&gt;实现: 如果你远程攻击失手你尝试隐匿。当你处于遮蔽, 你在察觉和隐匿检定具有优势。如果你通过攻击开始战斗, 你在战斗开始时拥有所有行动。</content>
+	<content contentuid="hg81c268ag49b0g48cbgaf37g76cec2369e9e" version="1">你能够尝试隐匿当你仅是处于&lt;LSTag Type="Status" Tooltip="SNEAKING_LIGHTLY_OBSCURED"&gt;轻度遮蔽&lt;/LSTag&gt;环境中。&lt;br&gt;&lt;br&gt;当你对某个生物隐匿并且用&lt;LSTag Tooltip="RangedWeaponAttack"&gt;远程武器进行攻击&lt;/LSTag&gt;失手, 你的攻击不会暴露你的位置。&lt;br&gt;&lt;br&gt;昏暗的光线不会导致用视觉进行的察觉&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LsTag&gt;。</content>
+	<content contentuid="hg81c268ag49b0g48cbgaf37g76cec2369e9e" version="1">你能够尝试隐匿当你仅是处于&lt;LSTag Type="Status" Tooltip="SNEAKING_LIGHTLY_OBSCURED"&gt;轻度遮蔽&lt;/LSTag&gt;环境中。&lt;br&gt;&lt;br&gt;当你对某个生物隐匿并且用&lt;LSTag Tooltip="RangedWeaponAttack"&gt;远程武器进行攻击&lt;/LSTag&gt;失手, 你的攻击不会暴露你的位置。&lt;br&gt;&lt;br&gt;昏暗的光线不会导致用视觉进行的察觉&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LsTag&gt;。</content>
+	<content contentuid="hg77c268ag49b0g48cbgaf37g76cec2369e9e" version="1">你获得特技技能&lt;LSTag Tooltip="Proficiency"&gt;熟练&lt;/LSTag&gt;。当试图挣脱对抗&lt;LSTag Type="Status" Tooltip="GRAPPLED"&gt;擒抱&lt;/LSTag&gt;时, 你获得运动或是特技&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;。</content>
+	<content contentuid="hg77c268ag49b0g48cbgaf37g76cec2369e9e" version="1">你获得特技技能&lt;LSTag Tooltip="Proficiency"&gt;熟练&lt;/LSTag&gt;。当试图挣脱对抗&lt;LSTag Type="Status" Tooltip="GRAPPLED"&gt;擒抱&lt;/LSTag&gt;时, 你获得运动或是特技&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;。</content>
+	<content contentuid="hg79c268ag49b0g48cbgaf37g76cec2369e9e" version="1">你获得运动技能&lt;LSTag Tooltip="Proficiency"&gt;熟练&lt;/LSTag&gt;。当试图挣脱对抗&lt;LSTag Type="Status" Tooltip="GRAPPLED"&gt;擒抱&lt;/LSTag&gt;时, 你获得运动或是特技&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;。</content>
+	<content contentuid="hg79c268ag49b0g48cbgaf37g76cec2369e9e" version="1">你获得运动技能&lt;LSTag Tooltip="Proficiency"&gt;熟练&lt;/LSTag&gt;。当试图挣脱对抗&lt;LSTag Type="Status" Tooltip="GRAPPLED"&gt;擒抱&lt;/LSTag&gt;时, 你获得运动或是特技&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;。</content>
+	<content contentuid="kt1156871g90b2g4f18gab29g0a0a8f3fbdce" version="1">你同时获得 2 点&lt;LSTag Type="ActionResource" Tooltip="SorceryPoint"&gt;术法点&lt;/LSTag&gt;并习得两项超魔法选项。当你完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后, 你会恢复所有已消耗的术法点。</content>
+	<content contentuid="kt1156871g90b2g4f18gab29g0a0a8f3fbdce" version="1">你同时获得 2 点&lt;LSTag Type="ActionResource" Tooltip="SorceryPoint"&gt;术法点&lt;/LSTag&gt;并习得两项超魔法选项。当你完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后, 你会恢复所有已消耗的术法点。</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7769" version="1">你获得 3 点&lt;LSTag Type="ActionResource" Tooltip="LuckPoint"&gt;幸运&lt;/LSTag&gt;。每当你要进行&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;属性检定&lt;/LSTag&gt;, 或者&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;, 你可以消耗一个幸运点投掷一次额外的 d20。你也可以消耗一个幸运点当有人对你进行&lt;LSTag Tooltip="AttackRoll"&gt;攻击&lt;/LSTag&gt;。在战斗中, 你激活你的幸运。直到你的下一个回合, 你的攻击检定、属性检定、豁免检定都具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;。&lt;br&gt;&lt;br&gt;你的敌人在对你的的攻击检定具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LsTag&gt;。若不止一个生物决定花费幸运点影响同一个骰值, 则幸运点互相抵消;不在会有额外检定。你重新获得消耗的幸运点, 当你完成&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之后。</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7769" version="1">你获得 3 点&lt;LSTag Type="ActionResource" Tooltip="LuckPoint"&gt;幸运&lt;/LSTag&gt;。每当你要进行&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;属性检定&lt;/LSTag&gt;, 或者&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;, 你可以消耗一个幸运点投掷一次额外的 d20。你也可以消耗一个幸运点当有人对你进行&lt;LSTag Tooltip="AttackRoll"&gt;攻击&lt;/LSTag&gt;。在战斗中, 你激活你的幸运。直到你的下一个回合, 你的攻击检定、属性检定、豁免检定都具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;。&lt;br&gt;&lt;br&gt;你的敌人在对你的的攻击检定具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LsTag&gt;。若不止一个生物决定花费幸运点影响同一个骰值, 则幸运点互相抵消;不在会有额外掷骰。你重新获得消耗的幸运点, 当你完成&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之后。</content>
+	<content contentuid="lz1966871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">你获得60尺黑暗视觉。若你已经从其他来源处获得了黑暗视觉，其距离增加60尺。</content>
+	<content contentuid="lz1966871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"> 你获得60尺黑暗视觉。若你已经从其他来源处获得了黑暗视觉，其距离增加60尺。</content>
+	<content contentuid="hc275e988g6f86g45f8g8aacgdc3c0cdbaa26" version="1">你获得动作&lt;LSTag Type="Spell" Tooltip="Shout_InspiringLeader"&gt;领袖之证&lt;/LSTag&gt;。</content>
+	<content contentuid="hc275e988g6f86g45f8g8aacgdc3c0cdbaa26" version="1">你获得动作&lt;LSTag Type="Spell" Tooltip="Shout_InspiringLeader"&gt;领袖之证&lt;/LSTag&gt;。</content>
+	<content contentuid="hg91c268ag49b0g48cbgaf37g76cec2369e9e" version="1">你获得下述增益:&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;属性 +1, 属性上限为 20。你的&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;增加 1.5m(5尺)。&lt;br&gt;&lt;br&gt;你获得特技技能&lt;LSTag Tooltip="Proficiency"&gt;熟练&lt;/LSTag&gt;。当试图挣脱对抗&lt;LSTag Type="Status" Tooltip="GRAPPLED"&gt;擒抱&lt;/LSTag&gt;时, 你获得运动或是特技&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;。</content>
+	<content contentuid="hg91c268ag49b0g48cbgaf37g76cec2369e9e" version="1">你获得下述增益:&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;属性 +1, 属性上限为 20。你的&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;增加 1.5m(5尺)。&lt;br&gt;&lt;br&gt;你获得特技技能&lt;LSTag Tooltip="Proficiency"&gt;熟练&lt;/LSTag&gt;。当试图挣脱对抗&lt;LSTag Type="Status" Tooltip="GRAPPLED"&gt;擒抱&lt;/LSTag&gt;时, 你获得运动或是特技&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;。</content>
+	<content contentuid="hg93c268ag49b0g48cbgaf37g76cec2369e9e" version="1">你获得下述增益:&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;属性 +1, 属性上限为 20。你的&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;增加 1.5m(5尺)。&lt;br&gt;&lt;br&gt;你获得运动技能&lt;LSTag Tooltip="Proficiency"&gt;熟练&lt;/LSTag&gt;。当试图挣脱对抗&lt;LSTag Type="Status" Tooltip="GRAPPLED"&gt;擒抱&lt;/LSTag&gt;时, 你获得运动或是特技&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;。</content>
+	<content contentuid="hg93c268ag49b0g48cbgaf37g76cec2369e9e" version="1">你获得下述增益:&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;属性 +1, 属性上限为 20。你的&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;增加 1.5m(5尺)。&lt;br&gt;&lt;br&gt;你获得运动技能&lt;LSTag Tooltip="Proficiency"&gt;熟练&lt;/LSTag&gt;。当试图挣脱对抗&lt;LSTag Type="Status" Tooltip="GRAPPLED"&gt;擒抱&lt;/LSTag&gt;时, 你获得运动或是特技&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;。</content>
+	<content contentuid="hg73c268ag49b0g48cbgaf37g76cec2369e9e" version="1">你对抗&lt;LSTag Type="Status" Tooltip="POISONED"&gt;中毒&lt;/LSTag&gt;的&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;。</content>
+	<content contentuid="hg73c268ag49b0g48cbgaf37g76cec2369e9e" version="1">你对抗&lt;LSTag Type="Status" Tooltip="POISONED"&gt;中毒&lt;/LSTag&gt;的&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;。</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7758" version="1">你获得冷冻伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7758" version="1">你获得冷冻伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7756" version="1">你获得毒素伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7756" version="1">你获得毒素伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;</content>
+	<content contentuid="h6248faf5g7575g4027g91c8gb0672198341e" version="1">你习得&lt;LSTag Type="Spell" Tooltip="Target_MageHand_Telekinetic"&gt;法师之手&lt;/LSTag&gt;。可以在不需要言语或姿势成分的情况下施放它。</content>
+	<content contentuid="h6248faf5g7575g4027g91c8gb0672198341e" version="1">你习得&lt;LSTag Type="Spell" Tooltip="Target_MageHand_Telekinetic"&gt;法师之手&lt;/LSTag&gt;。可以在不需要言语或姿势成分的情况下施放它。</content>
+	<content contentuid="hc375e988g6f86g45f8g8aacgdc3c0cdbaa26" version="1">你习得激励你的同伴, 鼓舞他们战斗的信心。</content>
+	<content contentuid="hc375e988g6f86g45f8g8aacgdc3c0cdbaa26" version="1">你习得激励你的同伴, 鼓舞他们战斗的信心。</content>
+	<content contentuid="h58e9fc19g1e4bg4e7cgb417gf5b9dd4940dc" version="1">你习得&lt;LSTag Type="Spell" Tooltip="Target_Invisibility"&gt;隐形术&lt;/LSTag&gt;和一个由你选择的Ⅰ环法术。该Ⅰ环法术必须是幻术繫或死灵繫法术。你每次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后, 可以在不消耗法术位的情况施放这两个法术 1 次。而且你的&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;这两个法术的施法者属性是魅力。</content>
+	<content contentuid="h58e9fc19g1e4bg4e7cgb417gf5b9dd4940dc" version="1">你习得&lt;LSTag Type="Spell" Tooltip="Target_Invisibility"&gt;隐形术&lt;/LSTag&gt;和一个由你选择的Ⅰ环法术。该Ⅰ环法术必须是幻术繫或死灵繫法术。你每次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后, 可以在不消耗法术位的情况施放这两个法术 1 次。而且你的&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;这两个法术的施法者属性是魅力。</content>
+	<content contentuid="h54e9fc19g1e4bg4e7cgb417gf5b9dd4940dc" version="1">你习得&lt;LSTag Type="Spell" Tooltip="Target_Invisibility"&gt;隐形术&lt;/LSTag&gt;和一个由你选择的Ⅰ环法术。该Ⅰ环法术必须是幻术繫或死灵繫法术。你每次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后, 可以在不消耗法术位的情况施放这两个法术 1 次。而且你的&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;这两个法术的施法者属性是智力。</content>
+	<content contentuid="h54e9fc19g1e4bg4e7cgb417gf5b9dd4940dc" version="1">你习得&lt;LSTag Type="Spell" Tooltip="Target_Invisibility"&gt;隐形术&lt;/LSTag&gt;和一个由你选择的Ⅰ环法术。该Ⅰ环法术必须是幻术繫或死灵繫法术。你每次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后, 可以在不消耗法术位的情况施放这两个法术 1 次。而且你的&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;这两个法术的施法者属性是智力。</content>
+	<content contentuid="h56e9fc19g1e4bg4e7cgb417gf5b9dd4940dc" version="1">你习得&lt;LSTag Type="Spell" Tooltip="Target_Invisibility"&gt;隐形术&lt;/LSTag&gt;和一个由你选择的Ⅰ环法术。该Ⅰ环法术必须是幻术繫或死灵繫法术。你每次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后, 可以在不消耗法术位的情况施放这两个法术 1 次。而且你的&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;这两个法术的施法者属性是感知。</content>
+	<content contentuid="h56e9fc19g1e4bg4e7cgb417gf5b9dd4940dc" version="1">你习得&lt;LSTag Type="Spell" Tooltip="Target_Invisibility"&gt;隐形术&lt;/LSTag&gt;和一个由你选择的Ⅰ环法术。该Ⅰ环法术必须是幻术繫或死灵繫法术。你每次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后, 可以在不消耗法术位的情况施放这两个法术 1 次。而且你的&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;这两个法术的施法者属性是感知。</content>
+	<content contentuid="h056b503bg4825g43fdg8978gb53162c7880d" version="1">你习得&lt;LSTag Type="Spell" Tooltip="Target_MistyStep"&gt;迷踪步&lt;/LSTag&gt;和一个由你选择的Ⅰ环法术。该Ⅰ环法术必须是预言繫或者附魔繫法术。你每次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后, 可以在不消耗法术位的情况施放这两个法术 1 次。而且你的&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;这两个法术的施法者属性是魅力。</content>
+	<content contentuid="h056b503bg4825g43fdg8978gb53162c7880d" version="1">你习得&lt;LSTag Type="Spell" Tooltip="Target_MistyStep"&gt;迷踪步&lt;/LSTag&gt;和一个由你选择的Ⅰ环法术。该Ⅰ环法术必须是预言繫或者附魔繫法术。你每次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后, 可以在不消耗法术位的情况施放这两个法术 1 次。而且你的&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;这两个法术的施法者属性是魅力。</content>
+	<content contentuid="h052b503bg4825g43fdg8978gb53162c7880d" version="1">你习得&lt;LSTag Type="Spell" Tooltip="Target_MistyStep"&gt;迷踪步&lt;/LSTag&gt;和一个由你选择的Ⅰ环法术。该Ⅰ环法术必须是预言繫或者附魔繫法术。你每次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后, 可以在不消耗法术位的情况施放这两个法术 1 次。而且你的&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;这两个法术的施法者属性是智力。</content>
+	<content contentuid="h052b503bg4825g43fdg8978gb53162c7880d" version="1">你习得&lt;LSTag Type="Spell" Tooltip="Target_MistyStep"&gt;迷踪步&lt;/LSTag&gt;和一个由你选择的Ⅰ环法术。该Ⅰ环法术必须是预言繫或者附魔繫法术。你每次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后, 可以在不消耗法术位的情况施放这两个法术 1 次。而且你的&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;这两个法术的施法者属性是智力。</content>
+	<content contentuid="h054b503bg4825g43fdg8978gb53162c7880d" version="1">你习得&lt;LSTag Type="Spell" Tooltip="Target_MistyStep"&gt;迷踪步&lt;/LSTag&gt;和一个由你选择的Ⅰ环法术。该Ⅰ环法术必须是预言繫或者附魔繫法术。你每次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后, 可以在不消耗法术位的情况施放这两个法术 1 次。而且你的&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;这两个法术的施法者属性是感知。</content>
+	<content contentuid="h054b503bg4825g43fdg8978gb53162c7880d" version="1">你习得&lt;LSTag Type="Spell" Tooltip="Target_MistyStep"&gt;迷踪步&lt;/LSTag&gt;和一个由你选择的Ⅰ环法术。该Ⅰ环法术必须是预言繫或者附魔繫法术。你每次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后, 可以在不消耗法术位的情况施放这两个法术 1 次。而且你的&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;这两个法术的施法者属性是感知。</content>
+	<content contentuid="hcb48dd94gcf75g443cgb23cg53a8bcca062d" version="1">你从邪术师职业中选择学习一项魔能祈唤。</content>
+	<content contentuid="hcb48dd94gcf75g443cgb23cg53a8bcca062d" version="1">你从邪术师职业中选择学习一项魔能祈唤。</content>
+	<content contentuid="h433d1a5cg666cg46b8g9e6cg9548f518d606" version="1">你的军事训练帮助你养成了一种特定的战术风格。因此, 你可以从战士职业中选择幷习得一项战斗风格。</content>
+	<content contentuid="h433d1a5cg666cg46b8g9e6cg9548f518d606" version="1">你的军事训练帮助你养成了一种特定的战术风格。因此, 你可以从战士职业中选择幷习得一项战斗风格。</content>
+	<content contentuid="hcffd460eg599cg4afbg8b0bg66e20997e71f" version="1">你习得&lt;LSTag Type="Spell" Tooltip="Target_CureWounds"&gt;疗伤术&lt;/LSTag&gt;法术。你可以施展一次该法术而无需消耗法术位。当你以此法施展该法术后，你不能再这样做，直至你完成一次长休。&lt;br&gt;&lt;br&gt;在你被一次&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;命中时，你可以使用你的反应来在你背后暂时显现出虚幻的翅膀。你使目标对抗该次攻击的&lt;LSTag Tooltip="ArmourClass"&gt;AC&lt;/LSTag&gt;获得加值，数值等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;。</content>
+	<content contentuid="hcffd460eg599cg4afbg8b0bg66e20997e71f" version="1">你习得&lt;LSTag Type="Spell" Tooltip="Target_CureWounds"&gt;疗伤术&lt;/LSTag&gt;法术。你可以施展一次该法术而无需消耗法术位。当你以此法施展该法术后, 你不能再这样做, 直至你完成一次长休。&lt;br&gt;&lt;br&gt;在你被一次&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;命中时, 你可以使用你的反应来在你背后暂时显现出虚幻的翅膀。你使目标对抗该次攻击的&lt;LSTag Tooltip="ArmourClass"&gt;AC&lt;/LSTag&gt;获得加値, 数値等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加値&lt;/LSTag&gt;。</content>
+	<content contentuid="kt1466871g90b2g4f18gab29g0a0a8f3fbdce" version="1">你习得&lt;LSTag Type="Spell" Tooltip="Target_MageHand_Telekinetic"&gt;法师之手&lt;/LSTag&gt;。可以在不需要言语或姿势成分的情况下施放它。</content>
+	<content contentuid="kt1466871g90b2g4f18gab29g0a0a8f3fbdce" version="1">你习得&lt;LSTag Type="Spell" Tooltip="Target_MageHand_Telekinetic"&gt;法师之手&lt;/LSTag&gt;。可以在不需要言语或姿势成分的情况下施放它。</content>
+	<content contentuid="3e1ca57071e9485783d6deeeeeeeeeeeeeeee" version="1">你习得用你的意念移动物体的能力。选择&lt;LSTag Tooltip="AbilityScore"&gt;属性值&lt;/LSTag&gt;(智力, 感知, 魅力) +1, 最高不超过20。&lt;br&gt;&lt;br&gt;你可以在不需要言语或肢体动作的情况下施展&lt;LSTag Type="Spell" Tooltip="Target_MageHand_Telekinetic"&gt;法师之手&lt;/LSTag&gt;。你还可以使用选定的能力值作为&lt;LSTag Tooltip="DifficultyClass"&gt;法术DC&lt;/LSTag&gt;, 通过心灵感应来&lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Push"&gt;推离&lt;/LSTag&gt;和&lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Pull"&gt;拉近&lt;/LSTag&gt;一个生物。</content>
+	<content contentuid="3e1ca57071e9485783d6deeeeeeeeeeeeeeee" version="1">你习得用你的意念移动物体的能力。选择&lt;LSTag Tooltip="AbilityScore"&gt;属性值&lt;/LSTag&gt;(智力, 感知, 魅力) +1, 最高不超过20。&lt;br&gt;&lt;br&gt;你可以在不需要言语或肢体动作的情况下施展&lt;LSTag Type="Spell" Tooltip="Target_MageHand_Telekinetic"&gt;法师之手&lt;/LSTag&gt;。你还可以使用选定的能力值作为&lt;LSTag Tooltip="DifficultyClass"&gt;法术DC&lt;/LSTag&gt;, 通过心灵感应来&lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Push"&gt;推离&lt;/LSTag&gt;和&lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Pull"&gt;拉近&lt;/LSTag&gt;一个生物。</content>
+	<content contentuid="h2b59fcf7g8d17g4f94g8cc1g5610f278fdfc" version="1">你可以从术士职业中选择幷习得两项超魔法选项。当你施放一个法术时, 除非该选项另有説明, 否则你只能使用一个超魔法选项。你同时获得 2 点&lt;LSTag Type="ActionResource" Tooltip="SorceryPoint"&gt;术法点&lt;/LSTag&gt;用于施展超魔法。当你完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后, 你会恢复所有已消耗的术法点。</content>
+	<content contentuid="h2b59fcf7g8d17g4f94g8cc1g5610f278fdfc" version="1">你可以从术士职业中选择幷习得两项超魔法选项。当你施放一个法术时, 除非该选项另有説明, 否则你只能使用一个超魔法选项。你同时获得 2 点&lt;LSTag Type="ActionResource" Tooltip="SorceryPoint"&gt;术法点&lt;/LSTag&gt;用于施展超魔法。当你完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后, 你会恢复所有已消耗的术法点。</content>
+	<content contentuid="lz1826871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">完成长休后，你回复所有扩展的使用次数。</content>
+	<content contentuid="lz1826871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">完成长休后，你回复所有扩展的使用次数。</content>
+	<content contentuid="lz2366871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">你知晓了与你铭刻的符文相对应的1环法术（召唤并绑定在你的库存中），你可以从下述的符文法术表中选择它。以此习得的这些法术会伴随着刻印的符文一起，在你完成下一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;时消失。你可以用任何你拥有的法术位去施展符文给予的这些法术。&lt;br&gt;&lt;br&gt;此外，当你携带或着装刻印符文的物品，你还可以不消耗法术位，无需材料成分的施展与符文相关联的法术一次。当你以此施展了任何一个法术后，直到你完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;为止你都不能再次使用这一项能力。&lt;br&gt;&lt;br&gt;此专长的施法属性为&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;、&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;或&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;（选择此专长时选择它）。</content>
+	<content contentuid="lz2366871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">你知晓了与你铭刻的符文相对应的1环法术（召唤并绑定在你的库存中），你可以从下述的符文法术表中选择它。以此习得的这些法术会伴随着刻印的符文一起，在你完成下一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;时消失。你可以用任何你拥有的法术位去施展符文给予的这些法术。&lt;br&gt;&lt;br&gt;此外，当你携带或着装刻印符文的物品，你还可以不消耗法术位，无需材料成分的施展与符文相关联的法术一次。当你以此施展了任何一个法术后，直到你完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;为止你都不能再次使用这一项能力。&lt;br&gt;&lt;br&gt;此专长的施法属性为&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;、&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;或&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;（选择此专长时选择它）。</content>
+	<content contentuid="h480965aegec78g4a09g9401g01bfa60c1f57" version="1">你可以触碰一把武器武器，向它注入以下能量之一：强酸，寒冷，火焰，闪电或毒素。在之后一分钟内，该武器在命中时额外造成你所选伤害类型的伤害。</content>
+	<content contentuid="h480965aegec78g4a09g9401g01bfa60c1f57" version="1">你可以触碰一把武器幷注魔强酸、冷冻、火焰、闪电或毒素。 下个 1 分钟, 这把武器造成额外选定注魔类型的伤害。</content>
+	<content contentuid="kt1506871g90b2g4f18gab29g0a0a8f3fbdce" version="1">你尝试用念动力猛拉你视线范围内 [1] 的一个生物。它必须成功通过一次力量&lt;LSTag Tooltip="SavingThrow"&gt;豁免&lt;/LSTag&gt;, 否则会被拉近 [2] 的距离。</content>
+	<content contentuid="kt1506871g90b2g4f18gab29g0a0a8f3fbdce" version="1">你尝试用念动力猛拉你视线范围内 [1] 的一个生物。它必须成功通过一次力量&lt;LSTag Tooltip="SavingThrow"&gt;豁免&lt;/LSTag&gt;, 否则会被拉近 [2] 的距离。</content>
+	<content contentuid="kt1486871g90b2g4f18gab29g0a0a8f3fbdce" version="1">你尝试用念动力猛推你视线范围内 [1] 的一个生物。它必须成功通过一次力量&lt;LSTag Tooltip="SavingThrow"&gt;豁免&lt;/LSTag&gt;, 否则会被推离 [2] 的距离。</content>
+	<content contentuid="kt1486871g90b2g4f18gab29g0a0a8f3fbdce" version="1">你尝试用念动力猛推你视线范围内 [1] 的一个生物。它必须成功通过一次力量&lt;LSTag Tooltip="SavingThrow"&gt;豁免&lt;/LSTag&gt;, 否则会被推离 [2] 的距离。</content>
+	<content contentuid="h18572ca9g4f5cg49aega9fag5b256e086246" version="1">你迅速察觉环境细节，调查与观察的熟练加值亦加倍。</content>
+	<content contentuid="h18572ca9g4f5cg49aega9fag5b256e086246" version="1">你能够迅速把握周遭环境的要点。你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加値&lt;/LSTag&gt;会翻倍(x2)当进行'调查'和'察觉'&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;的时候。</content>
+	<content contentuid="hchfd460eg599cg4afbg8b0bg66e20997e71f" version="1">你习得&lt;LSTag Type="Spell" Tooltip="Target_CureWounds"&gt;疗伤术&lt;/LSTag&gt;法术。你可以施展一次该法术而无需消耗法术位。当你以此法施展该法术后，你不能再这样做，直至你完成一次长休。</content>
+	<content contentuid="hchfd460eg599cg4afbg8b0bg66e20997e71f" version="1">你习得&lt;LSTag Type="Spell" Tooltip="Target_CureWounds"&gt;疗伤术&lt;/LSTag&gt;法术。你可以施展一次该法术而无需消耗法术位。当你以此法施展该法术后, 你不能再这样做, 直至你完成一次长休。</content>
+	<content contentuid="lz1716871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">你显现了石巨人般的体魄，获以下加成：属性提升：力量、体质或智慧提升1点，上限20。洞穴视觉：获得60尺黑暗视觉，原有则增至120尺。投石术：使用附赠动作，可施法投掷石块攻击60尺内目标，使用提升的属性为施法属性。命中造成伤害，并令目标力量豁免（DC为8+熟练加值+属性调整）否则倒伏。每休息回复所有使用次数。</content>
+	<content contentuid="lz1716871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">你展现出象征着石巨人的肉体天赋，使得你获得下列增益：&lt;br&gt;&lt;br&gt;属性值提升。 你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;、&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;或&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;属性提升1，上限为20。&lt;br&gt;&lt;br&gt;洞穴视觉。 你获得60尺黑暗视觉。若你已经从其他来源处获得了黑暗视觉，其距离增加60尺。&lt;br&gt;&lt;br&gt;投掷石块。 以一个&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;，你可以触碰一块石头并用其发动一次魔法性的攻击。此次攻击是一次远程法术攻击，具有60尺的射程，使用你以此专长提升的属性作为施法属性。命中时，石头造成1d10点力场伤害，若目标是生物，则其必须通过一次&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;（DC为8+你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;+本专长提升属性的调整值），否则将陷入&lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒伏&lt;/LSTag&gt;状态。你可以使用这一&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;的次数等同于你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;，在完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后你恢复所有已消耗的使用次数。</content>
+	<content contentuid="lz1076871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">你已习得某位奇械的发明创造力:&lt;br&gt;&lt;br&gt;你从奇械师法术列表中选择并习得一个戏法, 同时你从该法术列表中选择并习得一个Ⅰ环法术。这些法术以你的&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;作为&lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;施法属性&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;你可以在不消耗&lt;LSTag Tooltip="SpellSlot"&gt;法术位&lt;/LSTag&gt;的情况下施放一次由此专长获得的Ⅰ环法术, 并且你必须在完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之后才能再次这样做。你也可以正常消耗&lt;LSTag Tooltip="SpellSlot"&gt;法术位&lt;/LSTag&gt;来施放法术。&lt;br&gt;&lt;br&gt;你获得你所选的工匠工具&lt;LSTag Tooltip="Proficiency"&gt;熟练&lt;/LSTag&gt;, 同时你可以将此工具作为任何以&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;为施法属性的法术法器</content>
+	<content contentuid="lz1076871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">你已习得某位奇械的发明创造力:&lt;br&gt;&lt;br&gt;你从奇械师法术列表中选择并习得一个戏法, 同时你从该法术列表中选择并习得一个Ⅰ环法术。这些法术以你的&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;作为&lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;施法属性&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;你可以在不消耗&lt;LSTag Tooltip="SpellSlot"&gt;法术位&lt;/LSTag&gt;的情况下施放一次由此专长获得的Ⅰ环法术, 并且你必须在完成一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之后才能再次这样做。你也可以正常消耗&lt;LSTag Tooltip="SpellSlot"&gt;法术位&lt;/LSTag&gt;来施放法术。&lt;br&gt;&lt;br&gt;你获得你所选的工匠工具&lt;LSTag Tooltip="Proficiency"&gt;熟练&lt;/LSTag&gt;, 同时你可以将此工具作为任何以&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;为施法属性的法术法器</content>
+	<content contentuid="d7213c671ff64e589ba7deeeeeeeeeeeeeeee" version="1">你已经显现出了部分色彩龙的力量, 赋予你以下增益:</content>
+	<content contentuid="d7213c671ff64e589ba7deeeeeeeeeeeeeeee" version="1">你已经显现出了部分色彩龙的力量, 赋予你以下增益: </content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7752" version="1">你的&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;属性 +1, 属性上限为 20。当你使用&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;属性的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;时, 你可以重掷其中一个骰子。</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7752" version="1">你的&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;属性 +1, 属性上限为 20。当你使用&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;属性的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;时, 你可以重掷其中一个骰子。</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7746" version="1">你的&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;属性 +1, 属性上限为 20。当你使用&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;属性的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;时, 你可以重掷其中一个骰子。</content>
+	<content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3636" version="1">你的&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;属性 +1, 属性上限为 20。当你使用&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;属性的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;时, 你可以重掷其中一个骰子。</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7746" version="1">你的&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;属性 +1, 属性上限为 20。当你使用&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;属性的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;时, 你可以重掷其中一个骰子。</content>
+	<content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3636" version="1">你的&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;属性 +1, 属性上限为 20。当你使用&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;属性的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;时, 你可以重掷其中一个骰子。</content>
+	<content contentuid="h17572ca9g4f5cg49aega9fag5b256e086246" version="1">你的智力或智慧提升1点，上限20。调查与观察的熟练加值亦翻倍。</content>
+	<content contentuid="h17572ca9g4f5cg49aega9fag5b256e086246" version="1">你的&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;或是&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加値&lt;/LSTag&gt;会翻倍(x2)当进行'调查'和'察觉'&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;的时候。</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7748" version="1">你的智力提升1点，上限20。有优势时，攻击检定可重掷一骰。</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7748" version="1">你的&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;属性 +1, 属性上限为 20。当你使用&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;属性的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;时, 你可以重掷其中一个骰子。</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7750" version="1">你的智慧提升1点，最多至20点。当你有优势时，攻击检定可重掷一个骰子。</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7750" version="1">你的&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;属性 +1, 属性上限为 20。当你使用&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;属性的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LsTag&gt;时, 你可以重掷其中一个骰子。</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7777" version="1">你的攻击和魔法无视目标毒素伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。你可以用&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;给一把武器涂毒。&lt;br&gt;&lt;br&gt;你可以熟练使用&lt;LSTag Type="Spell" Tooltip="Shout_Summon_PoisonersKit"&gt;制毒工具包&lt;/LSTag&gt;。</content>
+	<content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7777" version="1">你的攻击和魔法无视目标毒素伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。你可以用&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;给一把武器涂毒。&lt;br&gt;&lt;br&gt;你可以熟练使用&lt;LSTag Type="Spell" Tooltip="Shout_Summon_PoisonersKit"&gt;制毒工具包&lt;/LSTag&gt;。</content>
+	<content contentuid="lz1126871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">你的身体具有从可怕伤势中迅速恢复的能力, 而且通常还易于接受治疗法术。你获得下述增益:&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;当你在濒死状态下被成功稳定伤势后, 你恢复&lt;LSTag Tooltip="HitPoints"&gt;HP&lt;/LSTag&gt;等于你的&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;修正值(至少为 1)。&lt;br&gt;&lt;br&gt;当你通过法术, 药水或是职业特性(但不包括本专长)恢复&lt;LSTag Tooltip="HitPoints"&gt;HP&lt;/LSTag&gt;, 你恢复额外 HP 等于你的&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;修正值(至少为 1)。</content>
+	<content contentuid="lz1126871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">你的身体具有从可怕伤势中迅速恢复的能力, 而且通常还易于接受治疗法术。你获得下述增益:&lt;br&gt;&lt;br&gt;你的&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;属性 +1, 属性上限为 20。&lt;br&gt;&lt;br&gt;当你在濒死状态下被成功稳定伤势后, 你恢复&lt;LSTag Tooltip="HitPoints"&gt;HP&lt;/LSTag&gt;等于你的&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;调整值(至少为 1)。&lt;br&gt;&lt;br&gt;当你通过法术, 药水或是职业特性(但不包括本专长)恢复&lt;LSTag Tooltip="HitPoints"&gt;HP&lt;/LSTag&gt;, 你恢复额外 HP 等于你的&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;调整值(至少为 1)。</content>
+	<content contentuid="36634b055190488cae71deeeeeeeeeeeeeeee" version="1">暴露在妖精荒野的魔法之下的经历已经改变了你, 你的一项&lt;LSTag Tooltip="AbilityScore"&gt;属性值&lt;/LSTag&gt; +1。&lt;br&gt;&lt;br&gt;你同时习得&lt;LSTag Type="Spell" Tooltip="Target_MistyStep_FeyTouched"&gt;迷踪步&lt;/LSTag&gt;和一个由你选择的Ⅰ环法术。该Ⅰ环法术必须是预言系或者附魔系法术。你的&lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;施法属性&lt;/LSTag&gt;是你由此专长提升的属性。</content>
+	<content contentuid="36634b055190488cae71deeeeeeeeeeeeeeee" version="1">暴露在妖精荒野的魔法之下的经历已经改变了你, 你的一项&lt;LSTag Tooltip="AbilityScore"&gt;属性值&lt;/LSTag&gt; +1。&lt;br&gt;&lt;br&gt;你同时习得&lt;LSTag Type="Spell" Tooltip="Target_MistyStep_FeyTouched"&gt;迷踪步&lt;/LSTag&gt;和一个由你选择的Ⅰ环法术。该Ⅰ环法术必须是预言系或者附魔系法术。你的&lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;施法属性&lt;/LSTag&gt;是你由此专长提升的属性。</content>
+	<content contentuid="kt1076871g90b2g4f18gab29g0a0a8f3fbdce" version="1">你接触到了妖精荒野的魔法，使你的魅力值提高了1点。</content>
+	<content contentuid="kt1076871g90b2g4f18gab29g0a0a8f3fbdce" version="1">暴露在妖精荒野的魔法之下的经历已经改变了你, 你的&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;属性 +1。</content>
+	<content contentuid="kt1086871g90b2g4f18gab29g0a0a8f3fbdce" version="1">你接触到了妖精荒野的魔法，使你的智力值提高了1点。</content>
+	<content contentuid="kt1086871g90b2g4f18gab29g0a0a8f3fbdce" version="1">暴露在妖精荒野的魔法之下的经历已经改变了你, 你的&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;属性 +1。</content>
+	<content contentuid="kt1096871g90b2g4f18gab29g0a0a8f3fbdce" version="1">你接触到了妖精荒野的魔法，使你的智慧值提高了1点。</content>
+	<content contentuid="kt1096871g90b2g4f18gab29g0a0a8f3fbdce" version="1">暴露在妖精荒野的魔法之下的经历已经改变了你, 你的&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;属性 +1。</content>
+	<content contentuid="h059b503bg4825g43fdg8978gb53162c7880d" version="1">你接触到了妖精荒野的魔法，使你发生了变化。</content>
+	<content contentuid="h059b503bg4825g43fdg8978gb53162c7880d" version="1">暴露在妖精荒野的魔法之下的经历已经改变了你。</content>
+	<content contentuid="kt1196871g90b2g4f18gab29g0a0a8f3fbdce" version="1">你接触到了暗影地狱的魔法，使你的魅力值提高了1点。</content>
+	<content contentuid="kt1196871g90b2g4f18gab29g0a0a8f3fbdce" version="1">暴露在堕影冥界的魔法之下的经历已经改变了你, 你的&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;属性 +1。</content>
+	<content contentuid="kt1206871g90b2g4f18gab29g0a0a8f3fbdce" version="1">你接触到了暗影地狱的魔法，使你的智力值提高了1点。</content>
+	<content contentuid="kt1206871g90b2g4f18gab29g0a0a8f3fbdce" version="1">暴露在堕影冥界的魔法之下的经历已经改变了你, 你的&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;属性 +1。</content>
+	<content contentuid="kt1216871g90b2g4f18gab29g0a0a8f3fbdce" version="1">你接触到了暗影地狱的魔法，使你的智慧值提高了1点。</content>
+	<content contentuid="kt1216871g90b2g4f18gab29g0a0a8f3fbdce" version="1">暴露在堕影冥界的魔法之下的经历已经改变了你, 你的&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;属性 +1。</content>
+	<content contentuid="70d4ea406d9f4969a62fdeeeeeeeeeeeeeeee" version="1">你接触到了暗影地狱的魔法，使你选择的能力值提高了1点。你还学会了“隐形术”和另一个自选的1级法术。这个1级法术必须来自幻术或死灵学派。你的法术施放能力修正值是你通过这个特性提高的能力值。</content>
+	<content contentuid="70d4ea406d9f4969a62fdeeeeeeeeeeeeeeee" version="1">暴露在堕影冥界的魔法之下的经历已经改变了你, 使你选择的&lt;LSTag Tooltip="AbilityScore"&gt;属性值&lt;/LSTag&gt; +1。&lt;br&gt;&lt;br&gt;你同时习得&lt;LSTag Type="Spell" Tooltip="Target_Invisibility"&gt;隐形术&lt;/LSTag&gt;和一个由你选择的Ⅰ环法术。该Ⅰ环法术必须是幻术系或死灵系法术。你的&lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;施法属性&lt;/LSTag&gt;是你由此专长提升的属性。</content>
+	<content contentuid="h60e9fc19g1e4bg4e7cgb417gf5b9dd4940dc" version="1">你接触到了暗影地狱的魔法，使你发生了变化。</content>
+	<content contentuid="h60e9fc19g1e4bg4e7cgb417gf5b9dd4940dc" version="1">暴露在堕影冥界的魔法之下的经历已经改变了你。</content>
+	<content contentuid="h443d1a5cg666cg46b8g9e6cg9548f518d606" version="1">武术训练使你形成了独特的战斗风格。</content>
+	<content contentuid="h443d1a5cg666cg46b8g9e6cg9548f518d606" version="1">你的武艺训练帮助你阳春了一种特殊的战斗风格。</content>
+</contentList>

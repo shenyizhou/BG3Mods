@@ -1,0 +1,8 @@
+<contentList>
+  <content contentuid="h78d312beg85a2g46f0g940dg2836de5b75be" version="1">双持客：疾风打击</content>
+  <content contentuid="hc0cdf2d3gba0ag4cd2g8472ge13e6a026c93" version="1">双持武器发动攻击时，可使用主手和副手武器同时发动攻击，且无需消耗&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;，但&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;承受-3减值。
+(你可以自由开关此选项。)</content>
+  <content contentuid="h26e23aebgead1g43feg84c1g328d9147bb12" version="1">双持武器发动攻击时，可使用主手和副手武器同时发动攻击，且无需消耗&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;，但&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;承受-3减值。</content>
+  <content contentuid="h5fe6ae4cga4f8g41f2gbd8bg6ecdbd8bb163" version="1">疾风打击</content>
+  <content contentuid="h946bf7e5ga079g4d69gbb9bg418ad468719d" version="1">你可以发动一次不消耗&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;的副手攻击。</content>
+</contentList>

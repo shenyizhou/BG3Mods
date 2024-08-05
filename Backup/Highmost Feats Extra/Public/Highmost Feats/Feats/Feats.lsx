@@ -1,0 +1,1027 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="322"/>
+    <region id="Feats">
+        <node id="root">
+            <children>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="CrushingKnowledge"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Crushing_Knowledge"/>
+                    <attribute id="Requirements" type="LSString" value="FeatRequirementAbilityGreaterEqual(&apos;Intelligence&apos;,14)"/>
+                    <attribute id="UUID" type="guid" value="6219603f-7110-42e6-97a0-3881212808ca"/>
+                </node>
+				        <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="ExpertEducation"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSkillsExpertise(f974ebd6-3725-4b90-bb5c-2b647d41615d,2)"/>
+                    <attribute id="UUID" type="guid" value="2860e950-8c45-49fb-8845-e47bd966e731"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="LightArmorMaster"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Light_Armor_Master"/>
+                    <attribute id="Requirements" type="LSString" value="FeatRequirementProficiency(&apos;LightArmor&apos;)"/>
+                    <attribute id="UUID" type="guid" value="da681f34-8b09-440e-9738-cf5a5dee2ba5"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="MasterOfDisguise"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Master_Of_Disguise"/>
+                    <attribute id="UUID" type="guid" value="42ad7a0b-22d0-48e8-95a6-06192b747ba7"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="NakedFighting"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Naked_Fighting"/>
+                    <attribute id="UUID" type="guid" value="bda26dd8-4518-4adc-86af-f7a9a03a2d87"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="ShadowInfused"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Shadow_Infused"/>
+                    <attribute id="UUID" type="guid" value="35dfaf48-34ce-4c58-81a2-87d1694186a1"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="PiercingPrescience"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Piercing_Prescience"/>
+                    <attribute id="Requirements" type="LSString" value="FeatRequirementAbilityGreaterEqual(&apos;Wisdom&apos;,14)"/>
+                    <attribute id="UUID" type="guid" value="57c170a3-5945-4470-bd43-7675866586e9"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="VerySharpShooter"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Very_Sharp_Shooter"/>
+                    <attribute id="UUID" type="guid" value="117791ea-f590-419e-962d-1109c3ea536d"/>
+                </node>
+				        <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="Stabber"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Stabbing_Well;Stabbed_Well"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(499230af-5946-4680-a7ee-4d76d421f2ef,1,1)"/>
+                    <attribute id="UUID" type="guid" value="d8db8a37-53c2-48fa-9e96-2a28726f6b7f"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="SlashingSuaveness"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Slashing_Suaveness"/>
+                    <attribute id="Requirements" type="LSString" value="FeatRequirementAbilityGreaterEqual(&apos;Charisma&apos;,14)"/>
+                    <attribute id="UUID" type="guid" value="4ebe1fa6-9b86-4489-9a1e-d292f0a39abf"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="SpellFocusMastery"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Spell_Focus_Mastery;Spell_Focus_Weapon_Dual"/>
+                    <attribute id="UUID" type="guid" value="9dd96863-3f48-4fdf-a309-6d4f587d2dd3"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="SuperiorBlindsight"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Superior_Blindsight"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(e6329b36-87cd-4b2e-8134-3527b1d5b13d,1,1,SuperiorBlindsight)"/>
+                    <attribute id="UUID" type="guid" value="8c178d37-4850-4b39-ae8c-8625168a9939"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="WarMagicMastery"/>
+                    <attribute id="PassivesAdded" type="LSString" value="War_Magic_Mastery"/>
+                    <attribute id="UUID" type="guid" value="0a9fd213-1473-47e6-a9be-9d16c93f3386"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Sailor_Arcanist"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Sailor_Arcanist"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Requirements" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(f3bd7ce3-ca2d-410b-aa0a-f0faf48e15ae,1,0,,Intelligence,None,AlwaysPrepared,UntilShortRest)"/>
+                    <attribute id="UUID" type="guid" value="e8b5c466-8109-45ca-b955-dc2969f62fa4"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="AbilityScoreIncrease"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,2,2,FeatASI)"/>
+                    <attribute id="UUID" type="guid" value="d215b9ad-9753-4d74-8ff9-24bf1dce53d6"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="Actor"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Actor"/>
+                    <attribute id="UUID" type="guid" value="cdcbc538-883b-401c-a8ed-1373fb6d1720"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="Alert"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Alert"/>
+                    <attribute id="UUID" type="guid" value="f57bd72c-be64-4855-9e3a-bb7d7665e656"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="Athlete"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Athlete_StandUp"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(499230af-5946-4680-a7ee-4d76d421f2ef,1,1,LightlyArmoredASI)"/>
+                    <attribute id="UUID" type="guid" value="d674aa33-8633-4b67-8623-b6788f0d5fc4"/>
+                </node>
+		        <node id="Feat">          
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="BountifulLuck_featsextra"/>
+                    <attribute id="PassivesAdded" type="LSString" value="BountifulLuck_featsextra"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="UUID" type="guid" value="e65b2814-fc8e-4290-821b-4e243f64982b"/>  
+                </node>
+		        <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="Charger"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Charger"/>
+                    <attribute id="UUID" type="guid" value="eab25714-15d6-4e26-b809-3fad832d0484"/>
+                </node>
+		        <node id="Feat">          
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Chef_featsextra"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Chef_featsextra"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(0e04ff06-04ee-4717-a5a7-fb4a8cffbee3,1,1)"/>
+                    <attribute id="UUID" type="guid" value="15b96521-f05d-49c1-9327-abdf26a5e3f1"/>
+                </node>
+		        <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="CrossbowExpert"/>
+                    <attribute id="PassivesAdded" type="LSString" value="CrossbowExpert_PointBlank;CrossbowExpert_Wounding;CrossbowExpert_PointBlankSpells;CrossbowExpert_ExtraAttack"/>
+                    <attribute id="UUID" type="guid" value="94a78b4c-a8f2-404f-8cdc-2d454c13cb97"/>
+                </node>
+		        <node id="Feat">          <!-- More Feats -->
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Crusher"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Crusher_Move;Crusher_Crit"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(c0a71836-d988-4b69-a754-deeeeeeeeeee,1,1)"/>
+                    <attribute id="UUID" type="guid" value="1df5999a-c79c-4a79-bd3b-deeeeeeeeeee"/>
+                </node>
+		        <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="DefensiveDuelist"/>
+                    <attribute id="PassivesAdded" type="LSString" value="DefensiveDuelist"/>
+                    <attribute id="Requirements" type="LSString" value="FeatRequirementAbilityGreaterEqual(&apos;Dexterity&apos;,13)"/>
+                    <attribute id="UUID" type="guid" value="661eee63-ff91-4f29-9f21-3a974c9d6fe5"/>
+                </node>
+		        <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="DragonHide"/>
+                    <attribute id="PassivesAdded" type="LSString" value="DragonHide_AC;DragonHide_Strike"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Requirements" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(78b72aeb-f30e-458a-a5b1-4d9749f3e39c,1,1,DragonHide)"/>
+                    <attribute id="UUID" type="guid" value="ebf69e0c-9a32-4a16-9b7a-1f2b0036d15d"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="DualWielder"/>
+                    <attribute id="PassivesAdded" type="LSString" value="DualWielder_BonusAC;DualWielder_PassiveBonuses"/>
+                    <attribute id="UUID" type="guid" value="f692f7b5-ffd5-4942-91a1-a71ebb2f5e7c"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="DungeonDelver"/>
+                    <attribute id="PassivesAdded" type="LSString" value="DungeonDelver_Perception;DungeonDelver_ResistTraps"/>
+                    <attribute id="UUID" type="guid" value="71b65667-0eac-4e62-b878-fa862e88ebbf"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="Durable"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Durable"/>
+                    <attribute id="UUID" type="guid" value="56c3c247-35cf-4ffd-86dd-7d249cc1808f"/>
+                </node>
+		        <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="DwarvenFortitude"/>
+                    <attribute id="PassivesAdded" type="LSString" value="DwarvenFortitude;DwarvenFortitude_PatientDefense"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Requirements" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(e55d917a-46bb-44a4-b2a6-8776e15ae797,1,0,,,,AlwaysPrepared)"/>
+                    <attribute id="UUID" type="guid" value="fa386a9d-962b-4d73-af04-660377fa0e0c"/>
+                </node>
+                <node id="Feat">          
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Ember_of_the_Fire_Giant"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Ember_of_the_Fire_Giant_Resistance"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(a1ab433b-1b7d-4aa8-88f2-685179334cfd,1,1);SelectPassives(bd59d518-95e2-4e1e-9593-233f13b08201,1)"/>
+                    <attribute id="UUID" type="guid" value="e54fe7c6-a225-4228-b1cf-c2d54c4f380a"/>
+                </node>
+		        <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="EldritchAdept"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Eldritch_Adept"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Requirements" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(333fb1b0-9398-4ca8-953e-6c0f9a59bbed,1,WarlockInvocations)"/>
+                    <attribute id="UUID" type="guid" value="08a88b82-3e78-4189-8996-15dcaaa676e3"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="ElementalAdept"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(f6b6e71f-79b1-4ba3-8fd8-ee38a44d3d39,1)"/>
+                    <attribute id="UUID" type="guid" value="cec2d95b-451c-40f8-8e17-9e547d363e8e"/>
+                </node>
+		        <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="ElvenAccuracy"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Elven_Accuracy"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Requirements" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(34553a36-641d-4ca0-b835-21ab43035114,1,1,ElvenAccuracy);SelectPassives(1cbbf001-8add-4796-8aff-cb9161b587d3,1)"/>
+                    <attribute id="UUID" type="guid" value="daf81082-ce05-4835-b8a0-5e60b2f027e3"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="EverybodysFriend"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Everybodys_Friend"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Requirements" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="UUID" type="guid" value="5a726c22-5bc8-442f-b161-7f1b338879ff"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="FadeAway"/>
+                    <attribute id="PassivesAdded" type="LSString" value="FadeAway"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Requirements" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(df5eab79-12ac-4a36-9516-1431ea22c8ce,1,1,FadeAwayASI)"/>
+                    <attribute id="UUID" type="guid" value="74a5d838-d72c-4205-a42e-9f4bf1e52b3c"/>
+                </node>
+		        <node id="Feat"><!-- More Feats -->
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="FeyTouchedCharisma"/>
+                    <attribute id="PassivesAdded" type="LSString" value="FeyTouched_Charisma"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(64cf43e1-04db-47cb-88a1-1b2f6546c938,1,1,FeyTouchedCharisma);SelectSpells(6810159f-6483-46cd-a5d5-deeeeeeeeeee,1,0,,Charisma,None,AlwaysPrepared,UntilRest)"/>
+                    <attribute id="UUID" type="guid" value="238f34d2-1a64-4c6a-b1cd-deeeeeeeeeee"/>
+                </node>
+                <node id="Feat"> <!-- More Feats -->
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="FeyTouchedIntelligence"/>
+                    <attribute id="PassivesAdded" type="LSString" value="FeyTouched_Intelligence"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(49cbc5da-1ab0-4694-80cf-6434ee3c18a9,1,1,FeyTouchedIntelligence);SelectSpells(f25bfae2-46bb-46ee-9cf4-6dceb2aa8bc6,1,0,,Intelligence,None,AlwaysPrepared,UntilRest)"/>
+                    <attribute id="UUID" type="guid" value="d9eb113a-2fd9-43eb-bec1-deeeeeeeeeee"/>
+                </node>
+                <node id="Feat"> <!-- More Feats -->
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="FeyTouchedWisdom"/>
+                    <attribute id="PassivesAdded" type="LSString" value="FeyTouched_Wisdom"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(3b436efa-2fb9-4465-ba47-b6a3fb33a3f5,1,1,FeyTouchedWisdom);SelectSpells(79d7684d-b362-414e-9f69-ce1a302db09b,1,0,,Wisdom,None,AlwaysPrepared,UntilRest)"/>
+                    <attribute id="UUID" type="guid" value="39789464-3610-4bde-89de-deeeeeeeeeee"/>
+                </node>
+                <node id="Feat"> <!-- More Feats -->
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="FightingInitiate"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(da3203d8-750a-4de1-b8eb-1eccfccddf46,1)"/>
+                    <attribute id="UUID" type="guid" value="a8e9048b-16fe-4396-922a-deeeeeeeeeee"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="FlamesOfPhlegethos"/>
+                    <attribute id="PassivesAdded" type="LSString" value="FlamesOfPhlegethos_Aura;FlamesOfPhlegethos_Reroll;FlamesOfPhlegethos_Cantrip_Reroll"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Requirements" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(58af2996-5c9e-4749-b70a-cb44e2c6c59c,1,1,FlamesOfPhlegethos)"/>
+                    <attribute id="UUID" type="guid" value="e0457947-44b7-4316-b700-d1a69a10ced7"/>
+                </node>
+                <node id="Feat">          
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Fury_of_the_Frost_Giant"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Fury_of_the_Frost_Giant_BornofIce"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(a1ab433b-1b7d-4aa8-88f2-685179334cfd,1,1);SelectPassives(8e04957f-13e8-4500-95da-826696843ce2,1)"/>
+                    <attribute id="UUID" type="guid" value="a3e48e32-f063-4a75-90c4-fe6bb30570dd"/>
+                </node>
+		        <node id="Feat"><!-- FEATS EXPANDED-->
+                    <attribute id="Name" type="FixedString" value="GiftOfTheChromaticDragon"/>
+                    <attribute id="PassivesAdded" type="LSString" value="GotCD_Infusion;GotCD_Resistance"/>
+                    <attribute id="UUID" type="guid" value="d8c47f39-bb68-4d2e-b036-eb3156638149"/>
+                  </node>
+                <node id="Feat"><!-- FEATS EXPANDED-->
+                    <attribute id="Name" type="FixedString" value="GiftOfTheGemDragon"/>
+                    <attribute id="PassivesAdded" type="LSString" value="GotGD_Reprisal"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(00d58fbc-e471-4c9f-b410-f5421d1508b7,1,1,FeyTouchedASI)"/>
+                    <attribute id="UUID" type="guid" value="fb431bc0-27c6-4622-ac45-6bd811042540"/>
+                  </node>
+                <node id="Feat"><!-- FEATS EXPANDED-->
+                    <attribute id="Name" type="FixedString" value="GiftOfTheMetallicDragon"/>
+                    <attribute id="PassivesAdded" type="LSString" value="GotMD_Healing;GotMD_Wings"/>
+                    <attribute id="UUID" type="guid" value="c120b307-f237-4ae6-8551-600969872c51"/>
+                  </node>
+		        <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="GreatWeaponMaster"/>
+                    <attribute id="PassivesAdded" type="LSString" value="GreatWeaponMaster_BonusAttack;GreatWeaponMaster_BonusDamage"/>
+                    <attribute id="UUID" type="guid" value="c09815f7-282b-4ccf-bd89-a51caa1b550f"/>
+                </node>
+		        <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Guile_of_the_Cloud_Giant"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Guile_of_the_Cloud_Giant"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Requirements" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(cbd24b3c-e81b-4ec8-8816-58e949781565,1,1,Guile_of_the_Cloud_Giant)"/>
+                    <attribute id="UUID" type="guid" value="30dd01d8-3892-49f1-a153-44032719c6f9"/>
+                </node>
+		        <node id="Feat"> <!-- Thanks Lykon - from Artificer-->
+                     <attribute id="Name" type="FixedString" value="Artificer_FirearmsProficiency_Gunner"/>
+                     <attribute id="PassivesAdded" type="LSString" value="Artificer_Firearms_DexBonus;Artificer_FirearmsProficiency_Gunner;Artificer_Firearms_PointBlank;Gunner_PointBlankSpells"/>
+                     <attribute id="UUID" type="guid" value="a5f9cdb8-2b2a-4691-a2bf-0139bebec3e4"/>
+                  </node>
+		        <node id="Feat"> <!-- More Feats -->
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Healer"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Healer_HealersProcedure"/>
+                    <attribute id="UUID" type="guid" value="378364ca-aa2c-4be0-ac26-deeeeeeeeeee"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="HeavilyArmored"/>
+                    <attribute id="PassivesAdded" type="LSString" value="HeavilyArmored"/>
+                    <attribute id="Requirements" type="LSString" value="FeatRequirementProficiency(&apos;MediumArmor&apos;)"/>
+                    <attribute id="UUID" type="guid" value="7bc235ac-7eeb-49d3-8249-c3313d87af75"/>
+                </node>
+		        <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="HeavyArmorMaster"/>
+                    <attribute id="PassivesAdded" type="LSString" value="HeavyArmorMaster"/>
+                    <attribute id="Requirements" type="LSString" value="FeatRequirementProficiency(&apos;HeavyArmor&apos;)"/>
+                    <attribute id="UUID" type="guid" value="0de08fff-ab18-442f-a0b1-f53e7be04c03"/>
+                </node>
+		        <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="InfernalConstitution"/>
+                    <attribute id="PassivesAdded" type="LSString" value="InfernalConstitution;ResistanceCold;ResistancePoison;Advantage_Savingthrow_Poison"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Requirements" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="UUID" type="guid" value="168923b1-75a0-46dd-b6a8-bf44736e3ec8"/>
+                </node>
+                <node id="Feat"> <!-- More Feats -->
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="InspiringLeader"/>
+                    <attribute id="Requirements" type="LSString" value="FeatRequirementAbilityGreaterEqual(&apos;Charisma&apos;,13)"/>
+                    <attribute id="PassivesAdded" type="LSString" value="InspiringLeader"/>
+                    <attribute id="UUID" type="guid" value="d994e15a-5013-44e9-89e5-deeeeeeeeeee"/>
+                </node>
+		        <node id="Feat">          
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Keenness_of_the_Stone_Giant"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Keenness_of_the_Stone_Giant;KOTSG_CavernousSight"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(a1ab433b-1b7d-4aa8-88f2-685179334cfd,1,1);SelectPassives(c3234575-a943-4eb6-863c-3c12f3c6bc36,1,KOTSG_StoneThrow)"/>
+                    <attribute id="UUID" type="guid" value="3cc66a3a-a0df-489b-9476-6a360de33cf9"/>
+                </node>
+		        <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="LightlyArmored"/>
+                    <attribute id="PassivesAdded" type="LSString" value="LightlyArmored"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(499230af-5946-4680-a7ee-4d76d421f2ef,1,1,LightlyArmoredASI)"/>
+                    <attribute id="UUID" type="guid" value="b441c722-e4d4-4702-861a-039bfd77c124"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="Lucky"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Lucky;Lucky_Unlock"/>
+                    <attribute id="UUID" type="guid" value="d84c7f36-8c5b-4b17-b95a-e1da725f9004"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="MageSlayer"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MageSlayer_Advantage;MageSlayer_AttackCaster;MageSlayer_BreakConcentration"/>
+                    <attribute id="UUID" type="guid" value="a533fde7-ee0a-46ce-92e2-9763201a54d2"/>
+                </node>
+		        <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="MagicInitiateArtificer"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MagicInitiate_Artificer"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(517cca1f-771f-42af-be2f-5f4ce160c07e,1,0,MIArtificerCantrips,Intelligence,,AlwaysPrepared,,a865965f-501b-46e9-9eaa-7748e8c04d09);SelectSpells(ae8a00d3-a0a1-4a13-862b-24e201b3bf10,1,0,MIArtificerSpells,Intelligence,None,AlwaysPrepared,UntilRest,a865965f-501b-46e9-9eaa-7748e8c04d09)"/>
+                    <attribute id="UUID" type="guid" value="142ff0e1-6950-4fdf-affa-6a9000067b06"/>
+                </node>
+		        <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="MagicInitiateBard"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MagicInitiate_Bard"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(61f79a30-2cac-4a7a-b5fe-50c89d307dd6,2,0,MIBardCantrips,Charisma,,AlwaysPrepared,,92cd50b6-eb1b-4824-8adb-853e90c34c90);SelectSpells(dcb45167-86bd-4297-9b9d-c295be51af5b,1,0,MIBardSpells,Charisma,None,AlwaysPrepared,UntilRest,92cd50b6-eb1b-4824-8adb-853e90c34c90)"/>
+                    <attribute id="UUID" type="guid" value="4f744a6e-8589-4a46-89ab-a95415a73245"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="MagicInitiateCleric"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MagicInitiate_Cleric"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(2f43a103-5bf1-4534-b14f-663decc0c525,2,0,MIClericCantrips,Wisdom,,AlwaysPrepared,,114e7aee-d1d4-4371-8d90-8a2080592faf);SelectSpells(269d1a3b-eed8-4131-8901-a562238f5289,1,0,MIClericSpells,Wisdom,None,AlwaysPrepared,UntilRest,114e7aee-d1d4-4371-8d90-8a2080592faf)"/>
+                    <attribute id="UUID" type="guid" value="28e5fed3-bd41-4b74-ab48-b8e824ad3443"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="MagicInitiateDruid"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MagicInitiate_Druid"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(b8faf12f-ca42-45c0-84f8-6951b526182a,2,0,MIDruidCantrips,Wisdom,,AlwaysPrepared,,457d0a6e-9da8-4f95-a225-18382f0e94b5);SelectSpells(2cd54137-2fe5-4100-aad3-df64735a8145,1,0,MIDruidSpells,Wisdom,None,AlwaysPrepared,UntilRest,457d0a6e-9da8-4f95-a225-18382f0e94b5)"/>
+                    <attribute id="UUID" type="guid" value="1e1a9a4d-38f4-4a05-b080-d32c2b872250"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="MagicInitiateSorcerer"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MagicInitiate_Sorcerer"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(485a68b4-c678-4888-be63-4a702efbe391,2,0,MISorcererCantrips,Charisma,,AlwaysPrepared,,784001e2-c96d-4153-beb6-2adbef5abc92);SelectSpells(92c4751f-6255-4f67-822c-a75d53830b27,1,0,MISorcererSpells,Charisma,None,AlwaysPrepared,UntilRest,784001e2-c96d-4153-beb6-2adbef5abc92)"/>
+                    <attribute id="UUID" type="guid" value="93d41226-d7af-495c-b023-08a6af077962"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="MagicInitiateWarlock"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MagicInitiate_Warlock"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(f5c4af9c-5d8d-4526-9057-94a4b243cd40,2,0,MIWarlockCantrips,Charisma,,AlwaysPrepared,,b4225a4b-4bbe-4d97-9e3c-4719dbd1487c);SelectSpells(21e1e2b9-81f7-47d2-ab69-90ba67c0c74c,1,0,MIWarlockSpells,Charisma,None,AlwaysPrepared,UntilRest,b4225a4b-4bbe-4d97-9e3c-4719dbd1487c)"/>
+                    <attribute id="UUID" type="guid" value="1e0ac3c4-5bb5-42d7-941c-9de58d919732"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="MagicInitiateWizard"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MagicInitiate_Wizard"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(3cae2e56-9871-4cef-bba6-96845ea765fa,2,0,MIWizardCantrips,Intelligence,,AlwaysPrepared,,a865965f-501b-46e9-9eaa-7748e8c04d09);SelectSpells(11f331b0-e8b7-473b-9d1f-19e8e4178d7d,1,0,MIWizardSpells,Intelligence,None,AlwaysPrepared,UntilRest,a865965f-501b-46e9-9eaa-7748e8c04d09)"/>
+                    <attribute id="UUID" type="guid" value="26c6990b-d9f0-41a2-8108-209789fafc18"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="MartialAdept"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MartialAdept"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(e51a2ef5-3663-43f9-8e74-5e28520323f1,2,MAManeuvers)"/>
+                    <attribute id="UUID" type="guid" value="455fc2d5-1c77-40e7-a010-0b51044ae74b"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="MediumArmorMaster"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MediumArmorMaster"/>
+                    <attribute id="Requirements" type="LSString" value="FeatRequirementProficiency(&apos;MediumArmor&apos;)"/>
+                    <attribute id="UUID" type="guid" value="17ac3605-9a8a-41f3-9504-ffc17fffa03e"/>
+                </node>
+		        <node id="Feat"> <!-- More Feats -->
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="MetamagicAdept"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MetamagicAdept"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(c3506532-36eb-4d18-823e-497a537a9619,2,Metamagic)"/>
+                    <attribute id="UUID" type="guid" value="6a695d23-6f97-488e-aa3b-deeeeeeeeeee"/>
+                </node>
+		        <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="Mobile"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Mobile_PassiveBonuses;Mobile_CounterAttackOfOpportunity;Mobile_DashAcrossDifficultTerrain"/>
+                    <attribute id="UUID" type="guid" value="0a3b07bf-a806-4c77-9c8f-6e7c0965f9dd"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="ModeratelyArmored"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ModeratelyArmored"/>
+                    <attribute id="Requirements" type="LSString" value="FeatRequirementProficiency(&apos;LightArmor&apos;)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(499230af-5946-4680-a7ee-4d76d421f2ef,1,1,LightlyArmoredASI)"/>
+                    <attribute id="UUID" type="guid" value="681d5307-f0ed-4c94-8cf0-db0c51116f56"/>
+                </node>
+		        <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Observant"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Observant_Feat"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Requirements" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(c208a2e7-f716-4ebe-9444-4730432ec79f,1,1,Observant)"/>
+                    <attribute id="UUID" type="guid" value="c097f2eb-53ba-422d-bf4a-de2b798f3662"/>
+                </node>
+                <node id="Feat">          
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="OrcishFury"/>
+                    <attribute id="PassivesAdded" type="LSString" value="OrcishFury_MeleeAttack_D4;OrcishFury_MeleeAttack_D6;OrcishFury_MeleeAttack_D8;OrcishFury_MeleeAttack_D10;OrcishFury_MeleeAttack_D12;OrcishFury_RangedAttack_D4;OrcishFury_RangedAttack_D6;OrcishFury_RangedAttack_D8;OrcishFury_RangedAttack_D10;OrcishFury_RelentlessEndurance"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(609d4ac6-eb7f-4094-9d4f-40c96ce12701,1,1)"/>
+                    <attribute id="UUID" type="guid" value="38614cda-1b13-4583-8fa8-18a7dd3bb6b6"/>
+                </node>
+		        <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="Performer"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Performer"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(98acdfcb-3c74-4e1a-8707-5d6da747d430,1,1,PerformerASI)"/>
+                    <attribute id="UUID" type="guid" value="60dfd716-3ba8-4611-90ee-018b59775b1d"/>
+                </node>
+		        <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="Piercer"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Piercer_Reroll;Piercer_Reroll_Ranged;Piercer_Critical;Piercer_Critical_Ranged;Piercer_Reroll_Spells;Piercer_Damage_Thrown;Piercer_Damage_Thrown_Critical;Piercer_Reroll_Block;Piercer_Critical_OffhandMelee;Piercer_Critical_OffhandRanged"/><!-- Piercer_Reroll_Interrupt-->
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(499230af-5946-4680-a7ee-4d76d421f2ef,1,1,PiercerASI)"/>
+                    <attribute id="UUID" type="guid" value="a3b6cce9-c97d-41d1-bf02-8e31218bdfdd"/>
+                </node>
+		        <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Poisoner"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Poisoner_Feat;PoisonersKit"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Requirements" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="UUID" type="guid" value="c234d4e4-ec51-4f0a-a130-891434ca7be3"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="PolearmMaster"/>
+                    <attribute id="PassivesAdded" type="LSString" value="PolearmMaster_AttackOfOpportunity;PolearmMaster_BonusAttack"/>
+                    <attribute id="UUID" type="guid" value="fdf0be80-cc1e-4501-bd2e-7a1ea737362c"/>
+                </node>
+		        <node id="Feat"> 
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="RemarkableRecovery "/>
+                    <attribute id="PassivesAdded" type="LSString" value="RemarkableRecovery_featsextra_Heal;RemarkableRecovery_featsextra_Desc;PeriaptofWoundClosure_Feat_Passive"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(84c8c981-99c6-42aa-ac6c-9300ce4167fe,1,1,RemarkableRecoveryASI)"/>
+                    <attribute id="UUID" type="guid" value="1aad222f-37f6-487c-95e4-b5fd12a0c23c"/>
+                </node>
+		        <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="Resilient"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(d4b799b4-30e2-412b-b2c9-abb144df8e7d,1)"/>
+                    <attribute id="UUID" type="guid" value="b13c4744-1d45-42da-b92c-e09f598ab1c3"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="RitualCaster"/>
+                    <attribute id="PassivesAdded" type="LSString" value="RitualCaster_FreeSpells"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(8c32c900-a8ea-4f2f-9f6f-eccd0d361a9d,2,0,,,,AlwaysPrepared)"/>
+                    <attribute id="UUID" type="guid" value="f3370916-6b35-4c5b-af36-19ca888cb43e"/>
+                </node>
+                  <node id="Feat">          
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Rune_Shaper"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Rune_Shaper"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(888ad2f5-d0c6-471a-b1e7-43d09ab473fc,1)"/>
+                    <attribute id="UUID" type="guid" value="3f8663ba-e445-4e3e-928f-92b2ea6b3997"/>
+                </node>
+		                  <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="SavageAttacker"/>
+                    <attribute id="PassivesAdded" type="LSString" value="SavageAttacker"/>
+                    <attribute id="UUID" type="guid" value="e061a323-3430-4cff-88d3-5eae7a1779a4"/>
+                </node>
+		        <node id="Feat"> 
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="SecondChance"/>
+                    <attribute id="PassivesAdded" type="LSString" value="SecondChance_featsextra"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(dfd3e1f6-67c2-468f-bcd3-d5d7a67032ff,1,1)"/>
+                    <attribute id="UUID" type="guid" value="6c59e67a-76f9-4c9b-af59-dbe6bb2048f7"/>
+                </node>
+		        <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="Sentinel"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Sentinel_Attack;Sentinel_ZeroSpeed;Sentinel_OpportunityAdvantage"/>
+                    <attribute id="UUID" type="guid" value="816b1554-9384-49e9-aaa0-05dd622e60f7"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="Sharpshooter"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Sharpshooter_AllIn;Sharpshooter_Bonuses"/>
+                    <attribute id="UUID" type="guid" value="010f717e-c6e2-45cf-bbf9-298a72db4cad"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="ShieldMaster"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ShieldMaster_PassiveBonuses;ShieldMaster_Block"/>
+                    <attribute id="UUID" type="guid" value="3fe71254-d1b2-44c7-886c-927552fe5f2e"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="Skilled"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Skilled"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(f974ebd6-3725-4b90-bb5c-2b647d41615d,3,SkilledSkills)"/>
+                    <attribute id="UUID" type="guid" value="019564a0-f136-4139-94ea-040f94bbaf19"/>
+                </node>
+		        <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="SkillExpert"/>
+                    <attribute id="PassivesAdded" type="LSString" value="SkillExpert"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Requirements" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(372c1167-b9ed-46ef-be41-f345d45a7e13,1,1,SkillExpert);SelectSkills(f974ebd6-3725-4b90-bb5c-2b647d41615d,1);SelectSkillsExpertise(ed664663-93b9-4070-a54b-3c7b19c0e7b4,1)"/>
+                    <attribute id="UUID" type="guid" value="d10c01e5-50f9-4ffa-b20d-ffbfb89ab554"/>
+                </node>
+                <node id="Feat"> <!-- More Feats -->
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="ShadowTouchedCharisma"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ShadowTouched_Charisma"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(64cf43e1-04db-47cb-88a1-1b2f6546c938,1,1,ShadowTouchedCharisma);SelectSpells(45e1e579-d687-45d2-b2c3-deeeeeeeeeee,1,0,,Charisma,None,AlwaysPrepared,UntilRest)"/>
+                    <attribute id="UUID" type="guid" value="6b15b246-be6d-44bb-8fac-deeeeeeeeeee"/>
+                </node>
+                <node id="Feat"> <!-- More Feats -->
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="ShadowTouchedIntelligence"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ShadowTouched_Intelligence"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(49cbc5da-1ab0-4694-80cf-6434ee3c18a9,1,1,ShadowTouchedIntelligence);SelectSpells(204d78ae-1374-455f-91ee-f23dcbfb93d7,1,0,,Intelligence,None,AlwaysPrepared,UntilRest)"/>
+                    <attribute id="UUID" type="guid" value="98b8e66d-6e16-4510-b17c-deeeeeeeeeee"/>
+                </node>
+                <node id="Feat"> <!-- More Feats -->
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="ShadowTouchedWisdom"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ShadowTouched_Wisdom"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(3b436efa-2fb9-4465-ba47-b6a3fb33a3f5,1,1,ShadowTouchedWisdom);SelectSpells(b72a7e45-bbd2-4662-8529-72f05b7f7c61,1,0,,Wisdom,None,AlwaysPrepared,UntilRest)"/>
+                    <attribute id="UUID" type="guid" value="012c1fe6-0e07-4c6f-9146-deeeeeeeeeee"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Skulker"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Skulker;Skulker_Feat_Ranged;Skulker_Feat_Vision;Skulker_Feat_Hide;Assassinate_Resource"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Requirements" type="LSString" value="FeatRequirementAbilityGreaterEqual(&apos;Dexterity&apos;,13)"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="UUID" type="guid" value="2a7931b5-670e-40f0-aad8-77a4655ac80b"/>
+                </node>
+                <node id="Feat"> <!-- More Feats -->
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Slasher"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Slasher_Reduce_Speed;Slasher_Crit"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(499230af-5946-4680-a7ee-4d76d421f2ef,1,1)"/>
+                    <attribute id="UUID" type="guid" value="c309d368-24d0-430b-a7a9-deeeeeeeeeee"/>
+                </node>
+		        <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="SpellSniper"/>
+                    <attribute id="PassivesAdded" type="LSString" value="SpellSniper_Critical"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(64784e08-e31e-4850-a743-ecfb3fd434d7,1,0,,,,AlwaysPrepared)"/>
+                    <attribute id="UUID" type="guid" value="c02f22c9-9a06-4001-b917-4d5cf09be399"/>
+                </node>
+		        <node id="Feat">          
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Soul_of_the_Storm_Giant"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Soul_of_the_Storm_Giant"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(9c8284f6-6cb8-486a-bc3f-e910e4dc4af5,1,1);SelectPassives(b14ad9a8-f7c1-4844-a772-68abb05978ee,1)"/>
+                    <attribute id="UUID" type="guid" value="b5d1d234-e74e-4bc1-b32c-bc64f4ead34a"/>
+                </node>
+		        <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="SquatNimbleness"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Squat_Nimbleness"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Requirements" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(499230af-5946-4680-a7ee-4d76d421f2ef,1,1,SquatNimbleness);SelectPassives(c1c9f98e-5ca5-4f45-82fa-0921ab95d18f,1)"/>
+                    <attribute id="UUID" type="guid" value="c3810995-3bb1-429e-9411-fa2bc9426518"/>
+                </node>
+		        <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Strike_of_the_Giants"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Strike_of_the_Giants"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Requirements" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(f8bb3a89-b858-4cf2-94be-fd87eb45e667,1)"/>
+                    <attribute id="UUID" type="guid" value="b8181984-9367-4305-8903-a3ce2db2f3bc"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="SvirfneblinMagic"/>
+                    <attribute id="PassivesAdded" type="LSString" value="SvirfneblinMagic"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Requirements" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(8bd05287-f44e-4ea8-803a-14b12f7e21ee,,Intelligence,,AlwaysPrepared,UntilRest)"/>
+                    <attribute id="UUID" type="guid" value="8db4b515-2bed-48fc-a15b-2f357c68e91d"/>
+                </node>
+		        <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="TavernBrawler"/>
+                    <attribute id="PassivesAdded" type="LSString" value="TavernBrawler"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(859878b3-9c3a-450d-a190-bc90707c9671,1,1,LightlyArmoredASI)"/>
+                    <attribute id="UUID" type="guid" value="be0889d2-f9aa-472d-b942-592bff0f1ef3"/>
+                </node>
+		        <node id="Feat"> <!-- More Feats -->
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Telekinetic"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(39c90bfb-547f-43c5-96e3-deeeeeeeeeee,1)"/>
+                    <attribute id="UUID" type="guid" value="b704311b-e3a6-4385-8c2b-deeeeeeeeeee"/>
+                </node>
+		        <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="Tough"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Tough"/>
+                    <attribute id="UUID" type="guid" value="e8d1e7f6-d841-48ff-a83c-f1aaa16597ff"/>
+                </node>
+		        <node id="Feat">          
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Vigor_of_the_Hill_Giant"/>
+                    <attribute id="PassivesAdded" type="LSString" value="VOTHG_Bulwark;VOTGH_IronStomach"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(a1ab433b-1b7d-4aa8-88f2-685179334cfd,1,1)"/>
+                    <attribute id="UUID" type="guid" value="1cac8c2a-f1e0-4e0e-aa1f-8691f14b8c12"/>
+                </node>
+		        <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="WarCaster"/>
+                    <attribute id="PassivesAdded" type="LSString" value="WarCaster_Bonuses;WarCaster_OpportunitySpell"/>
+                    <attribute id="UUID" type="guid" value="ed4e367d-d136-4285-abac-077147e84cf2"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="WeaponMaster"/>
+                    <attribute id="PassivesAdded" type="LSString" value="WeaponMaster"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(499230af-5946-4680-a7ee-4d76d421f2ef,1,1,LightlyArmoredASI);SelectPassives(f21e6b94-44e8-4ae0-a6f1-0c81abac03a2,4,WeaponMasterProficiencies)"/>
+                    <attribute id="UUID" type="guid" value="b153e75c-27a2-4412-95cd-60b477121679"/>
+                </node>
+		        <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="WoodElfMagic"/>
+                    <attribute id="PassivesAdded" type="LSString" value="WoodElfMagic_Desc"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Requirements" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(b8faf12f-ca42-45c0-84f8-6951b526182a,1,0,,Wisdom,,AlwaysPrepared);AddSpells(ef115644-1086-4de7-97e4-19be49321a75,,Wisdom,,AlwaysPrepared,UntilRest)"/>
+                    <attribute id="UUID" type="guid" value="09859f63-ad8e-4950-9f07-ad8e81ed91b7"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="GiftOfTheChromaticDragon"/>
+                    <attribute id="PassivesAdded" type="LSString" value="GotCD_Infusion;GotCD_Resistance"/>
+                    <attribute id="UUID" type="guid" value="d8c47f39-bb68-4d2e-b036-eb3156638149"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="GiftOfTheGemDragon"/>
+                    <attribute id="PassivesAdded" type="LSString" value="GotGD_Reprisal"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(00d58fbc-e471-4c9f-b410-f5421d1508b7,1,1,FeyTouchedASI)"/>
+                    <attribute id="UUID" type="guid" value="fb431bc0-27c6-4622-ac45-6bd811042540"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="GiftOfTheMetallicDragon"/>
+                    <attribute id="PassivesAdded" type="LSString" value="GotMD_Healing;GotMD_Wings"/>
+                    <attribute id="UUID" type="guid" value="c120b307-f237-4ae6-8551-600969872c51"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="Piercer"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Piercer_Reroll;Piercer_Critical"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(499230af-5946-4680-a7ee-4d76d421f2ef,1,1,PiercerASI)"/>
+                    <attribute id="UUID" type="guid" value="a3b6cce9-c97d-41d1-bf02-8e31218bdfdd"/>
+                </node>
+                <node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="IdleHands"/>
+                    <attribute id="PassivesAdded" type="LSString" value="IdleHands"/>
+                    <attribute id="UUID" type="guid" value="a69c4ea0-532d-4301-bc0a-68399f7a9cda"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="FightingInitiate"/>
+                    <attribute id="PassivesAdded" type="LSString" value="FightingInitiate"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(499230af-5946-4680-a7ee-4d76d421f2ef,1,1,FightingInitiateASI);SelectPassives(da3203d8-750a-4de1-b8eb-1eccfccddf46,1,FightingStyle)"/>
+                    <attribute id="UUID" type="guid" value="f3b4dc1d-11a0-4432-a55c-34f06403e8a4"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="DualWielder"/>
+                    <attribute id="PassivesAdded" type="LSString" value="DualWielder_BonusAC;DualWielder_PassiveBonuses;DualWielder_Focus_Attack"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(499230af-5946-4680-a7ee-4d76d421f2ef,1,1,LightlyArmoredASI)"/>
+                    <attribute id="UUID" type="guid" value="f692f7b5-ffd5-4942-91a1-a71ebb2f5e7c"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="AssassinPath"/>
+					<attribute id="PassivesAdded" type="LSString" value="Assassinate_Initiative;Assassinate_Ambush;Assassinate_Resource"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(fab9f457-4570-472e-95be-ffe5b5aa863d)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3600"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="MasterThief"/>
+					<attribute id="PassivesAdded" type="LSString" value="FastHands;SecondStoryWork"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(7cf87f47-e2f7-4ac5-a0b2-88a3e963d29d)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3601"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="RogueImposter"/>
+					<attribute id="PassivesAdded" type="LSString" value="UncannyDodge;Evasion;ReliableTalent;Rogue_Imposter"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(2dc120ff-903b-494b-8dc8-38721098ce38)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3602"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="UncivilizedIndividual"/>
+					<attribute id="PassivesAdded" type="LSString" value="Uncivilized;DangerSense;RecklessAttack;RageUnlock;UnarmouredDefence_Barbarian;Rage_Armour_Message;Rage_NoHeavyArmour_VFX;FastMovement;FeralInstinct;BrutalCritical"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3603"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="SerialKiller"/>
+					<attribute id="PassivesAdded" type="LSString" value="Serial_Killer;RageFrenzyUnlock;MindlessRage"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(38191b4b-743a-4d82-800b-c0903baece24);AddSpells(17803035-4762-4143-8f2f-1143d47e4f40)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3604"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="Deluded"/>
+					<attribute id="PassivesAdded" type="LSString" value="Delusional;LandsStride_DifficultTerrain;LandsStride_Surfaces;LandsStride_Advantage"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(4acd9ef6-719d-4248-90ae-0cb66da87c6a);SelectPassives(7f7340a0-faf3-4122-bd3f-37a5434dd6cf,1,TotemWarriorPassive);SelectPassives(fb9ea4a2-a1ce-4242-a893-84a088ac1145,2,AspectOfTheBeast)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3605"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="DeafBard"/>
+					<attribute id="PassivesAdded" type="LSString" value="BardicInspiration;Tone-deaf_Bard;JackOfAllTrades"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(d84fc8ab-293e-437f-9825-e3e313f78060);SelectPassives(11f3b209-eb13-42d2-9fec-46dfc68fe619,1,FightingStyle)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3606"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="NoviceCleric"/>
+					<attribute id="PassivesAdded" type="LSString" value="DestroyUndead;Novice_Cleric;DiscipleOfLife;WardingFlare;WrathOfTheStorm;DestructiveWrath"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(239cc7cc-f642-4ddc-b091-498d81612c51,,,,AlwaysPrepared)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3607"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="NoviceFighter"/>
+					<attribute id="PassivesAdded" type="LSString" value="Novice_Fighter;Indomitable;ImprovedCritical"/>
+					<attribute id="Selectors" type="LSString" value="SelectPassives(e51a2ef5-3663-43f9-8e74-5e28520323f1,2,Maneuvers);SelectPassives(da3203d8-750a-4de1-b8eb-1eccfccddf46,1,FightingStyle);AddSpells(9e32fc2b-ce4f-47aa-b113-25cbdc025123);AddSpells(964e765d-5881-463e-b1b0-4fc6b8035aa8)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3608"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="VeteranFighter"/>
+					<attribute id="PassivesAdded" type="LSString" value="Veteran_Fighter;Indomitable;ImprovedCombatSuperiority;ImprovedCritical;RemarkableAthlete_Proficiency;RemarkableAthlete_Jump"/>
+					<attribute id="Selectors" type="LSString" value="SelectPassives(e51a2ef5-3663-43f9-8e74-5e28520323f1,5,Maneuvers);SelectPassives(da3203d8-750a-4de1-b8eb-1eccfccddf46,2,FightingStyle);AddSpells(9e32fc2b-ce4f-47aa-b113-25cbdc025123);AddSpells(964e765d-5881-463e-b1b0-4fc6b8035aa8)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3609"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="GodlessPaladin"/>
+					<attribute id="PassivesAdded" type="LSString" value="Godless_Paladin"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(94db914d-95d0-484e-8a02-c0faa9d575a7,,,,AlwaysPrepared);AddSpells(da27c6ae-15cf-4441-9115-82dcc282f8cc,,,,AlwaysPrepared);AddSpells(20c3ac99-a937-464c-810d-d2f50ba44e6e,,,,AlwaysPrepared)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3610"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="NoviceRanger"/>
+					<attribute id="PassivesAdded" type="LSString" value="Novice_Ranger;LandsStride_DifficultTerrain;LandsStride_Surfaces"/>
+					<attribute id="Selectors" type="LSString" value="SelectPassives(d0f13dda-eb37-41f5-aea5-2683f0229e2e,1,FavoredEnemy);SelectPassives(72c63024-60af-486e-a180-c7aeee5d77c1,1,NaturalExplorer)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3611"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="AdeptStalker"/>
+					<attribute id="PassivesAdded" type="LSString" value="DreadAmbusher;SuperiorDarkvision;IronMind;StalkersFlurry"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(5ea6abd7-3e02-4e8d-9220-8a400e0019a4,,,,AlwaysPrepared)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3612"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="AdeptHunter"/>
+					<attribute id="PassivesAdded" type="LSString" value="Adept_Hunter"/>
+					<attribute id="Selectors" type="LSString" value="SelectPassives(657f1f36-cd2e-4acb-817c-60ec3cac3671,1,DefensiveTactics);SelectPassives(26b53d40-13eb-4db6-80f4-bde7bd09c52d,1,HuntersPrey);AddSpells(49cfa35d-94c9-4092-a5c6-337b7f16fd3a)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3613"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="ApexPredator"/>
+					<attribute id="PassivesAdded" type="LSString" value="Apex_Predator;DreadAmbusher;SuperiorDarkvision;IronMind;StalkersFlurry"/>
+					<attribute id="Selectors" type="LSString" value="SelectPassives(657f1f36-cd2e-4acb-817c-60ec3cac3671,2,DefensiveTactics);SelectPassives(26b53d40-13eb-4db6-80f4-bde7bd09c52d,2,HuntersPrey);AddSpells(49cfa35d-94c9-4092-a5c6-337b7f16fd3a);AddSpells(5ea6abd7-3e02-4e8d-9220-8a400e0019a4,,,,AlwaysPrepared)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3614"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="CompetentSpellcaster"/>
+					<attribute id="PassivesAdded" type="LSString" value="PotentCantrip;SculptSpells"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3615"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="WiseSage"/>
+					<attribute id="PassivesAdded" type="LSString" value="Portent;DangerSense;UncannyDodge;Evasion"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(dceec54d-fb54-4492-b466-b7a0b8b551f3,,,,AlwaysPrepared)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3616"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="ElementalLord"/>
+					<attribute id="PassivesAdded" type="LSString" value="Elemental_Lord"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(dceec54d-fb54-4492-b466-b7a0b8b551f3,,,,AlwaysPrepared)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3617"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="Insightfulcaster"/>
+					<attribute id="Selectors" type="LSString" value="SelectPassives(c3506532-36eb-4d18-823e-497a537a9619,4,Metamagic)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3618"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="EldritchMessenger"/>
+					<attribute id="PassivesAdded" type="LSString" value="Eldritch_Messenger;GrimHarvest"/>
+					<attribute id="Selectors" type="LSString" value="SelectPassives(39efef92-9987-46e2-8c43-54052c1be535,2,WarlockInvocations);SelectPassives(8d8ac513-c7c8-4f8b-b67f-5a9a14741aae,1,PactBoon)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3619"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="Timewornpaladin"/>
+					<attribute id="PassivesAdded" type="LSString" value="Timeworn_Paladin;RelentlessAvenger"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(f6e69adb-d2d3-4d38-aca1-639fb38cf0fd,,,,AlwaysPrepared);AddSpells(7112a6f2-8100-40e8-a411-75cde8847b36,,,,AlwaysPrepared)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3620"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="Shapeshifting"/>
+					<attribute id="PassivesAdded" type="LSString" value="Shapeshifter;WildStrike;MaskOfManyFaces"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(0f094e35-9675-464d-8cae-8e58c28de955,,,,AlwaysPrepared);AddSpells(ef953742-69fa-4730-a289-bf9ce9629b1a,,,,AlwaysPrepared);AddSpells(c15f9224-a600-4a10-a5e7-642eed9c4222,,,,AlwaysPrepared)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3621"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="Impatientmonk"/>
+					<attribute id="PassivesAdded" type="LSString" value="Impatient_Monk;UnarmoredDefense_Monk;UnarmoredMovement_1;Manifestation_of_Body;Manifestation_of_Mind;Manifestation_of_Soul"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(cbb43ac1-afae-40f0-a2f7-0116e8bf53f8,,,,AlwaysPrepared);AddSpells(e1f0e927-0711-4644-8745-af2b02434cfd,,,,AlwaysPrepared);AddSpells(e050fe59-a8f0-4c03-a7f4-569ac747c80e,,,,AlwaysPrepared)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3622"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="descendantofdragons"/>
+					<attribute id="PassivesAdded" type="LSString" value="Descendant_of_Dragons;ElementalAffinity_Damage;ElementalAffinity_Resistance_Check;DraconicResilience"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(12150e11-267a-4ecc-a3cc-292c9e2a198d,,,,AlwaysPrepared);SelectPassives(c69c33a2-671c-46e1-a92c-656fe64ed447,1,DraconicAncestry)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3623"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="conjurerwiz"/>
+					<attribute id="PassivesAdded" type="LSString" value="Conjurer;FocusedConjuration"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(13622b91-fb6d-4921-afb0-dc42da978511,,,,AlwaysPrepared);AddSpells(804e3405-7758-4496-8d30-7e61794baae8,,,,AlwaysPrepared)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3624"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="mindmastery"/>
+					<attribute id="PassivesAdded" type="LSString" value="Mind_Master;SteelWill;IronMind;Tranquility"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(90d61529-d390-4d39-a84a-58dfc94c90aa,,,,AlwaysPrepared)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3625"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="stormborne"/>
+					<attribute id="PassivesAdded" type="LSString" value="Stormborn;TempestuousMagic;HeartOfTheStorm;HeartOfTheStorm_Resistance;StormsFury;WrathOfTheStorm;ThunderboltStrike"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3626"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="taintedblood"/>
+					<attribute id="PassivesAdded" type="LSString" value="MistyEscape;BeguilingDefenses"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(489ff3dd-b93e-4a96-b553-b59c07d5cd6f,,,,AlwaysPrepared)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3627"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="eldritchworshipper"/>
+					<attribute id="PassivesAdded" type="LSString" value="ClarifiedMortality;EntropicWard;Thought_Shield_Psychic_Resistance;Thought_Shield_Psychic_Reflection;Eldritch_Worshipper"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3628"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="necromancyenthusiast"/>
+					<attribute id="PassivesAdded" type="LSString" value="GrimHarvest;UndeadThrall_FreeSpell;UndeadThrall_ExtraSummon;UndeadThrall_BetterSummon;Student_of_Undeath"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3629"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="mortalinstrument"/>
+					<attribute id="PassivesAdded" type="LSString" value="DarkOnesBlessing;DarkOnesOwnLuck;FiendishResilience;Mortal_Instrument"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3630"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="shaolinmonks"/>
+					<attribute id="PassivesAdded" type="LSString" value="FlurryOfBlowsUnlock;Manifestation_of_Body;Manifestation_of_Mind;Manifestation_of_Soul;Tranquility"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(6566d841-ef96-4e13-ac40-c40f44c5e08b);AddSpells(9487f3bd-1763-4c7f-913d-8cb7eb9052c5);AddSpells(0ffe7be9-d826-42d7-b59e-d1924ad28ffc)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3631"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="swordsinger"/>
+					<attribute id="PassivesAdded" type="LSString" value="Swordsinger;ExtraAttack"/>
+					<attribute id="Selectors" type="LSString" value="SelectPassives(11f3b209-eb13-42d2-9fec-46dfc68fe619,1,FightingStyle);AddSpells(246ad664-1a53-4d42-8a5e-0ed5cda6af62)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3632"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="wordweaver"/>
+					<attribute id="PassivesAdded" type="LSString" value="CuttingWords;Wordweaver"/>
+					<attribute id="Selectors" type="LSString" value="SelectSpells(175ceed7-5a53-4f48-823c-41c4f72d18ae,2,0,BardMagicalSecrets);SelectSkills(f974ebd6-3725-4b90-bb5c-2b647d41615d,3,SkilledSkills)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3633"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="witnessofheroes"/>
+					<attribute id="PassivesAdded" type="LSString" value="Witness_of_Heroes;CombatInspiration;ExtraAttack"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3634"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="lunardruid"/>
+					<attribute id="PassivesAdded" type="LSString" value="Lunar_Druid;WildShape_Combat;PrimalStrike"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(2df1a00f-a66a-4240-a505-6a7835f2f1fa,,,,AlwaysPrepared);AddSpells(db963d3f-e0ba-4aba-a8e2-cf404dc54429,,,,AlwaysPrepared);AddSpells(94081296-f79b-4294-973e-111dabea22ca,,,,AlwaysPrepared);AddSpells(c3221a24-3bf7-4475-a675-1b5d87f650f0)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3635"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="fungaldruid"/>
+					<attribute id="PassivesAdded" type="LSString" value="SpreadingSpores;Fungal_Druid"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(e568eca4-b5e1-4b67-83d6-d831adf05e23,,,,AlwaysPrepared);AddSpells(729670a8-da85-4fd2-9764-4dec636a275b,DruidCircleOfTheSporesSpells,,,AlwaysPrepared);AddSpells(4895c409-1850-42b1-a1d5-e9faf59296a9,DruidCircleOfTheSporesSpells,,,AlwaysPrepared);AddSpells(4a63f35c-69ec-45b9-a960-6c4f3b16e8ea,DruidCircleOfTheSporesSpells,,,AlwaysPrepared);AddSpells(469bd836-191a-4b92-8220-4796e2f4dc77,,,,AlwaysPrepared)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3636"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="unstablesorcerer"/>
+					<attribute id="PassivesAdded" type="LSString" value="Unstable_Sorcerer;TidesOfChaos;TidesOfChaos_Unlock;WildMagic;BendLuck;ControlledChaos"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3637"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="transmigrator"/>
+					<attribute id="Selectors" type="LSString" value="SelectSkills(f974ebd6-3725-4b90-bb5c-2b647d41615d,3,SkilledSkills);SelectPassives(657f1f36-cd2e-4acb-817c-60ec3cac3671,1,DefensiveTactics);SelectPassives(72c63024-60af-486e-a180-c7aeee5d77c1,1,NaturalExplorer);SelectPassives(da3203d8-750a-4de1-b8eb-1eccfccddf46,1,FightingStyle)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3638"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="reincarnator"/>
+					<attribute id="PassivesAdded" type="LSString" value="ReliableTalent;JackOfAllTrades;UncannyDodge"/>
+					<attribute id="Selectors" type="LSString" value="SelectSkillsExpertise(f974ebd6-3725-4b90-bb5c-2b647d41615d,1)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3639"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="regressor"/>
+					<attribute id="PassivesAdded" type="LSString" value="RemarkableAthlete_Proficiency;RemarkableAthlete_Jump"/>
+					<attribute id="Selectors" type="LSString" value="SelectSkillsExpertise(f974ebd6-3725-4b90-bb5c-2b647d41615d,1);SelectPassives(26b53d40-13eb-4db6-80f4-bde7bd09c52d,1,HuntersPrey);AddSpells(da27c6ae-15cf-4441-9115-82dcc282f8cc,,,,AlwaysPrepared)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3640"/>
+                </node>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="enigmaticharbinger"/>
+					<attribute id="PassivesAdded" type="LSString" value="DivineHealth;Smite_Divine;UnlockedSpellSlotLevel3"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(58aef51d-a46c-44c8-8bed-df90870eb55f,,,,AlwaysPrepared);AddSpells(c6288ac5-c68b-40ed-bbdd-2ff388575831,,,AlwaysPrepared);AddSpells(94db914d-95d0-484e-8a02-c0faa9d575a7,,,,AlwaysPrepared)"/>
+                    <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3641"/>
+                </node>
+				  <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="DualWielder"/>
+                    <attribute id="PassivesAdded" type="LSString" value="DualWielder_BonusAC;DualWielder_PassiveBonuses;DualWielder_Focus_Attack"/>
+                    <attribute id="UUID" type="guid" value="f692f7b5-ffd5-4942-91a1-a71ebb2f5e7c"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Fey_Touched_Wis"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Fey_Touched_Wis"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(287c18e9-bca6-4384-bdff-5f6dd7d79ab3,1)"/>
+                    <attribute id="UUID" type="guid" value="8485820c-db95-46ab-9ff3-881bf3604a16"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Fey_Touched_Int"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Fey_Touched_Int"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(0f52c5f4-e154-4eb5-bbcf-87d74ec1aee6,1)"/>
+                    <attribute id="UUID" type="guid" value="13ec7684-1c9f-4055-a4d7-9e420871345a"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Fey_Touched_Cha"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Fey_Touched_Cha"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(8c8e70c6-2a4c-4e30-851d-aae1934c2aeb,1)"/>
+                    <attribute id="UUID" type="guid" value="8db1b011-98fc-4152-856c-ab305edbd0b5"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="CantripMaster"/>
+                    <attribute id="PassivesAdded" type="LSString" value="CantripMaster"/>
+                    <attribute id="UUID" type="guid" value="d979a940-0096-49a7-8cd9-1cbd4b42f49b"/>
+                </node>
+			</children>
+        </node>
+    </region>
+</save>

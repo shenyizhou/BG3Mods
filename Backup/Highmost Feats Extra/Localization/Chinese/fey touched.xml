@@ -1,0 +1,60 @@
+<contentList date="08/17/2023 18:37">
+    <content contentuid="4f7fb41e-a862-418b-a235-587bedb44261" version="1">精类触碰(感知)</content>
+    <content contentuid="7ab0765f-b1dc-4c7e-a4bc-c0aa2b5a89c6" version="1">暴露在妖精荒野的魔法之下的经历已经改变了你，使你获得了以下增益：·你的感知提升1，上限为20。·你习得迷踪步以及一个由你选择的一环法术。该一环法术必须是预言系或者附魔系法术。你可以在不消耗法术位的情况下施展这些法术各一次。当你以此法施展某个法术后，你不能再次以此法施展该法术，直至你完成一次长休。你也可以消耗合适的法术位来施展这些法术。这些法术的施法关键属性是感知。</content>
+    <content contentuid="4a8baef4-27a1-4b3a-b39a-9204f1ff1fac" version="1">精类触碰(智力)</content>
+    <content contentuid="35385f55-0487-4fb1-8cc6-1f050cc8dd70" version="1">暴露在妖精荒野的魔法之下的经历已经改变了你，使你获得了以下增益：·你的智力提升1，上限为20。·你习得迷踪步以及一个由你选择的一环法术。该一环法术必须是预言系或者附魔系法术。你可以在不消耗法术位的情况下施展这些法术各一次。当你以此法施展某个法术后，你不能再次以此法施展该法术，直至你完成一次长休。你也可以消耗合适的法术位来施展这些法术。这些法术的施法关键属性是智力。</content>
+    <content contentuid="ff10b8d8-b27f-4822-a2c4-d162a5e74dcc" version="1">精类触碰(魅力)</content>
+    <content contentuid="0446da7c-3c00-4a8a-a786-e10c0c2fe598" version="1">暴露在妖精荒野的魔法之下的经历已经改变了你，使你获得了以下增益：·你的魅力提升1，上限为20。·你习得迷踪步以及一个由你选择的一环法术。该一环法术必须是预言系或者附魔系法术。你可以在不消耗法术位的情况下施展这些法术各一次。当你以此法施展某个法术后，你不能再次以此法施展该法术，直至你完成一次长休。你也可以消耗合适的法术位来施展这些法术。这些法术的施法关键属性是魅力。</content>
+
+    <content contentuid="3b5cd7ae-01a4-4a65-8b40-76a2d08dc619" version="1">化兽为友</content>
+    <content contentuid="508ef9e4-de9d-4c9a-b04a-bd417092c0fc" version="1">&lt;LSTag Type="Spell" Tooltip="Target_AnimalFriendship"&gt;化兽为友&lt;/LSTag&gt;</content>
+
+    <content contentuid="b656ce51-9db5-4fb2-9a62-163c44d5875c" version="1">灾祸术</content>
+    <content contentuid="c0aa09d0-380c-46c6-adec-d29d0415ddf7" version="1">&lt;LSTag Type="Spell" Tooltip="Target_Bane"&gt;灾祸术&lt;/LSTag&gt;</content>
+
+    <content contentuid="6a2d6017-8f6a-4c88-adfa-108453b4d254" version="1">塔莎狂笑术</content>
+    <content contentuid="d09ba16f-288e-4de6-9d75-512f0dc27b1a" version="1">&lt;LSTag Type="Spell" Tooltip="Target_HideousLaughter"&gt;塔莎狂笑术&lt;/LSTag&gt;</content>
+
+    <content contentuid="45620510-18f3-4fa1-a697-907f45895476" version="1">动物交谈</content>
+    <content contentuid="dc4f88b2-4d84-423e-a2f8-f93495f0a368" version="1">&lt;LSTag Type="Spell" Tooltip="Shout_SpeakWithAnimals"&gt;物交谈&lt;/LSTag&gt;</content>
+
+    <content contentuid="ee08caf6-7e1d-48a8-a961-1b6a53629341" version="1">睡眠术</content>
+    <content contentuid="fd234fb1-d76a-411a-ac13-a27b435dfe2d" version="1">&lt;LSTag Type="Spell" Tooltip="Target_Sleep"&gt;睡眠术&lt;/LSTag&gt;</content>
+
+    <content contentuid="2df95743-0616-44f4-9750-b1d7e0823275" version="1">猎人印记</content>
+    <content contentuid="7569271e-2305-4c35-872f-20df3b65711e" version="1">&lt;LSTag Type="Spell" Tooltip="Target_HuntersMark"&gt;猎人印记&lt;/LSTag&gt;</content>
+
+    <content contentuid="48924cc4-cb13-4c04-8ce6-7821b8cd3264" version="1">脆弱诅咒</content>
+    <content contentuid="38fbbfe7-108b-4dec-97f2-3584e3cad8c9" version="1">&lt;LSTag Type="Spell" Tooltip="Target_Hex"&gt;脆弱诅咒&lt;/LSTag&gt;</content>
+
+    <content contentuid="7af52c0e-9d86-4c7d-a8b0-71e492ea08ba" version="1">英雄气概</content>
+    <content contentuid="dd2264cb-9c4c-481a-a6d2-5b64828d1296" version="1">&lt;LSTag Type="Spell" Tooltip="Target_Heroism"&gt;英雄气概&lt;/LSTag&gt;</content>
+
+    <content contentuid="c3eea319-1de7-42ca-ae20-bd77ed486a0e" version="1">灵敏之赐</content>
+    <content contentuid="25b6783f-d8b0-4b66-a3fe-2c18d64bdc29" version="1">&lt;LSTag Type="Spell" Tooltip="Target_GiftOfAlacrity"&gt;灵敏之赐&lt;/LSTag&gt;</content>
+
+    <content contentuid="8ae4fc23-4d2e-489c-860c-590049c8d23d" version="1">不谐低语</content>
+    <content contentuid="eab0e685-ff14-4e1d-8e2b-c474425d01d3" version="1">&lt;LSTag Type="Spell" Tooltip="Target_DissonantWhispers"&gt;不谐低语&lt;/LSTag&gt;</content>
+
+    <content contentuid="36f831a5-b94d-4ac0-a224-c4f7abff837f" version="1">侦测魔法</content>
+    <content contentuid="e10b8cb3-cada-4020-a3a0-7d5e0ff199d8" version="1">&lt;LSTag Type="Spell" Tooltip="Shout_DetectMagic"&gt;侦测魔法&lt;/LSTag&gt;</content>
+
+    <content contentuid="25559388-8243-4cd4-a674-6aa5da4862ca" version="1">侦测善恶</content>
+    <content contentuid="60980aee-b68f-4857-a662-78baa219e0e2" version="1">&lt;LSTag Type="Spell" Tooltip="Shout_DetectEvilAndGood"&gt;侦测善恶&lt;/LSTag&gt;</content>
+
+    <content contentuid="c50c0c9e-c091-4afb-933e-6ba3878be280" version="1">强令对决</content>
+    <content contentuid="4139eb14-7f0c-4b2f-a775-36b0ab9601c0" version="1">&lt;LSTag Type="Spell" Tooltip="Target_CompelledDuel"&gt;强令对决&lt;/LSTag&gt;</content>
+
+    <content contentuid="c55cf5e1-246d-4856-8fee-dad738d4ffa7" version="1">命令术</content>
+    <content contentuid="3e387f6d-89ff-48f6-9102-ecc03b218700" version="1">&lt;LSTag Type="Spell" Tooltip="Target_Command_Container"&gt;命令术&lt;/LSTag&gt;</content>
+
+    <content contentuid="13453530-1fa7-40f8-a151-8f275514f486" version="1">魅惑人类</content>
+    <content contentuid="16ed03a0-ef52-4ac4-a052-65cd15c8cefd" version="1">&lt;LSTag Type="Spell" Tooltip="Target_CharmPerson"&gt;魅惑人类&lt;/LSTag&gt;</content>
+
+    <content contentuid="563a43be-f3ae-4e84-9b84-f6978f2ecda4" version="1">祝福术</content>
+    <content contentuid="8d414b5c-9303-48ff-8e4c-78c69411af77" version="1">&lt;LSTag Type="Spell" Tooltip="Target_Bless"&gt;祝福术&lt;/LSTag&gt;</content>
+
+    <content contentuid="4262bd37-1505-463a-b31a-7b24f32f0a95" version="1">兽之联结</content>
+    <content contentuid="5759e5ea-41eb-4a80-8976-7db7827e7ada" version="1">&lt;LSTag Type="Spell" Tooltip="Target_BeastBond"&gt;兽之联结&lt;/LSTag&gt;</content>
+
+</contentList>

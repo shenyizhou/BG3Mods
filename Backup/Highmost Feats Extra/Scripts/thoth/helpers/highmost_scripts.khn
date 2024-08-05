@@ -1,0 +1,70 @@
+function IsNaked(entity)
+    local entity = entity or context.Source
+	
+    if (GetItemInEquipmentSlot(EquipmentSlot.Breast, entity).IsValid or GetItemInEquipmentSlot(EquipmentSlot.VanityBody, entity).IsValid or GetItemInEquipmentSlot(EquipmentSlot.Underwear, entity).IsValid) then
+		return ConditionResult(false)
+	else
+		return ConditionResult(true)
+    end
+	
+end
+
+function HighmostFeatsMentalWeaponPassiveCount(countToCheck,entity)
+	local entity = entity or context.Source
+	local temp = 0
+	
+	if (HasPassive('Crushing_Knowledge', entity).result) then
+		temp = temp + 1
+	end	
+	if (HasPassive('Piercing_Prescience', entity).result) then
+		temp = temp + 1
+	end	
+	if (HasPassive('Slashing_Suaveness', entity).result) then
+		temp = temp + 1
+	end
+	return ConditionResult(countToCheck == temp)
+end
+
+function IsTailed(entity)
+	local entity = entity or context.Source
+	return ConditionResult(Tagged('DRAGONBORN',entity) or Tagged('TIEFLING',entity) or Tagged('CHANGELING',entity) or Tagged('KOBOLD',entity) or Tagged('LOCATHAH',entity) or Tagged('YUANTI',entity) or Tagged('YUANTIPUREBLOOD',entity))
+end
+
+function CharacterLevelInRange(value_1, value_2, entity)
+    entity = entity or context.Source
+	value_1 = value_1 or 1
+	value_2 = value_2 or 999
+    return ConditionResult(entity.Level >= value_1 and entity.Level <= value_2)
+end
+
+function AbilityInRange(ability, low_value, high_value, entity)
+    local entity = entity or context.Source
+	local low_value = low_value or 1
+	local high_value = high_value or 999
+	
+	
+	if ability == "Strength" then
+		return ConditionResult(context.Source.Strength >= low_value and context.Source.Strength <= high_value)
+	elseif ability == "Dexterity" then
+		return ConditionResult(context.Source.Dexterity >= low_value and context.Source.Dexterity <= high_value)
+	elseif ability == "Constitution" then
+		return ConditionResult(context.Source.Constitution >= low_value and context.Source.Constitution <= high_value)
+	elseif ability == "Intelligence" then
+		return ConditionResult(context.Source.Intelligence >= low_value and context.Source.Intelligence <= high_value)
+	elseif ability == "Wisdom" then
+		return ConditionResult(context.Source.Wisdom >= low_value and context.Source.Wisdom <= high_value)
+	elseif ability == "Charisma" then
+		return ConditionResult(context.Source.Charisma >= low_value and context.Source.Charisma <= high_value)
+	else
+		return ConditionResult(false)
+	end
+
+end
+
+function ExtraSpellAttackCheck()
+    return (IsSpell() & HasUseCosts('ActionPoint'))
+end
+
+function ExtraAnyAttackCheck()
+    return ((IsSpell() | HasStringInSpellRoll('Attack') | SpellId('Target_CommandersStrike') | SpellId('Projectile_ArrowOfSmokepowder')) & HasUseCosts('ActionPoint'))
+end

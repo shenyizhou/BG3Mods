@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="55"/>
+  <region id="PassiveLists">
+    <node id="root">
+      <children>
+        <node id="PassiveList">
+          <attribute id="Passives" type="LSString" value="Elven_Accuracy_Dexterity,Elven_Accuracy_Intelligence,Elven_Accuracy_Wisdom,Elven_Accuracy_Charisma"/>
+          <attribute id="UUID" type="guid" value="1cbbf001-8add-4796-8aff-cb9161b587d3"/>
+        </node>
+        <node id="PassiveList">
+          <attribute id="Passives" type="LSString" value="FlamesOfPhlegethos_Intelligence,FlamesOfPhlegethos_Charisma"/>
+          <attribute id="UUID" type="guid" value="58af2996-5c9e-4749-b70a-cb44e2c6c59c"/>
+        </node>
+        <node id="PassiveList">
+          <attribute id="Passives" type="LSString" value="Squat_Nimbleness_Acrobatics,Squat_Nimbleness_Athletics"/>
+          <attribute id="UUID" type="guid" value="c1c9f98e-5ca5-4f45-82fa-0921ab95d18f"/>
+        </node>
+        <node id="PassiveList">          <!-- MORE FEATS -->
+          <attribute id="Passives" type="LSString" value="Resilient_Strength,Resilient_Dexterity,Resilient_Constitution,Resilient_Intelligence,Resilient_Wisdom,Resilient_Charisma"/>
+          <attribute id="UUID" type="guid" value="7e86e711-4232-4886-bbb1-deeeeeeeeeee"/>
+        </node>
+        <node id="PassiveList">
+          <attribute id="Passives" type="LSString" value="Telekinetic_Intelligence,Telekinetic_Wisdom,Telekinetic_Charisma"/>
+          <attribute id="UUID" type="guid" value="39c90bfb-547f-43c5-96e3-deeeeeeeeeee"/>
+        </node>
+		<node id="PassiveList"><!-- Strike_of_the_Giants -->
+          <attribute id="Passives" type="LSString" value="SOTG_CloudStrike,SOTG_FireStrike,SOTG_FrostStrike,SOTG_HillStrike,SOTG_StoneStrike,SOTG_StormStrike"/>
+          <attribute id="UUID" type="guid" value="f8bb3a89-b858-4cf2-94be-fd87eb45e667"/>
+        </node>
+		<node id="PassiveList"><!-- Ember of Fire Giant -->
+          <attribute id="Passives" type="LSString" value="Searing_Ignition_STR,Searing_Ignition_CON,Searing_Ignition_WIS"/>
+          <attribute id="UUID" type="guid" value="bd59d518-95e2-4e1e-9593-233f13b08201"/>
+        </node>
+		<node id="PassiveList"><!-- Fury of the Frost Giant -->
+          <attribute id="Passives" type="LSString" value="Frigid_Retaliation_STR,Frigid_Retaliation_CON,Frigid_Retaliation_WIS"/>
+          <attribute id="UUID" type="guid" value="8e04957f-13e8-4500-95da-826696843ce2"/>
+        </node>
+		<node id="PassiveList"><!-- Keenness Of the Stone Giant Thrown Stone -->
+          <attribute id="Passives" type="LSString" value="KOTSG_StoneThrow_STR,KOTSG_StoneThrow_CON,KOTSG_StoneThrow_WIS"/>
+          <attribute id="UUID" type="guid" value="c3234575-a943-4eb6-863c-3c12f3c6bc36"/>
+        </node>
+		<node id="PassiveList"><!-- Keenness Of the Stone Giant Thrown Stone -->
+          <attribute id="Passives" type="LSString" value="SOTSG_MaelstromAura_STR,SOTSG_MaelstromAura_WIS,SOTSG_MaelstromAura_CHA"/>
+          <attribute id="UUID" type="guid" value="b14ad9a8-f7c1-4844-a772-68abb05978ee"/>
+        </node>
+		<node id="PassiveList"><!-- Rune Shaper -->
+          <attribute id="Passives" type="LSString" value="Rune_Shaper_RuneMagic_INT,Rune_Shaper_RuneMagic_WIS,Rune_Shaper_RuneMagic_CHA"/>
+          <attribute id="UUID" type="guid" value="888ad2f5-d0c6-471a-b1e7-43d09ab473fc"/>
+        </node>
+    <node id="PassiveList">
+          <attribute id="Passives" type="LSString" value="Sailor_Arcanist;Sailor_Arcanist_Prof"/>
+          <attribute id="UUID" type="guid" value="112160ba-a985-4013-99ed-a39b681e71b7"/>
+        </node>
+    <node id="PassiveList"> Fighter Fighting Styles
+          <attribute id="Passives" type="LSString" value="FightingStyle_Archery,FightingStyle_BlindFighting,FightingStyle_CloseQuartersShooter,FightingStyle_Defense,FightingStyle_Dueling,FightingStyle_GreatWeaponFighting,FightingStyle_Interception,FightingStyle_Mariner,FightingStyle_Protection,FightingStyle_SuperiorTechnique,FightingStyle_ThrownWeaponFighting,FightingStyle_TunnelFighter,FightingStyle_TwoWeaponFighting,FightingStyle_UnarmedFighting"/>
+          <attribute id="UUID" type="guid" value="da3203d8-750a-4de1-b8eb-1eccfccddf46"/>
+        </node>
+    <node id="PassiveList"> Ranger Fighting Styles
+          <attribute id="Passives" type="LSString" value="FightingStyle_Archery,FightingStyle_BlindFighting,FightingStyle_CloseQuartersShooter,FightingStyle_Defense,FightingStyle_DruidicWarrior,FightingStyle_Dueling,FightingStyle_Interception,FightingStyle_Mariner,FightingStyle_ThrownWeaponFighting,FightingStyle_TunnelFighter,FightingStyle_TwoWeaponFighting,FightingStyle_UnarmedFighting"/>
+          <attribute id="UUID" type="guid" value="a0bdb113-1cce-45ac-94fb-72d4c3f207e9"/>
+         </node>
+     <node id="PassiveList"> Paladin Fighting Styles
+          <attribute id="Passives" type="LSString" value="FightingStyle_BlessedWarrior,FightingStyle_BlindFighting,FightingStyle_CloseQuartersShooter,FightingStyle_Defense,FightingStyle_Dueling,FightingStyle_GreatWeaponFighting,FightingStyle_Interception,FightingStyle_Mariner,FightingStyle_Protection,FightingStyle_ThrownWeaponFighting,FightingStyle_TunnelFighter,FightingStyle_UnarmedFighting"/>
+          <attribute id="UUID" type="guid" value="f8ebba38-932a-4c64-ae55-3df23e2f60fa"/>
+         </node>
+      <node id="PassiveList">
+          <attribute id="Passives" type="LSString" value="FeyTouched_AnimalFriendship_Wis,FeyTouched_Bane_Wis,FeyTouched_BeastBond_Wis,FeyTouched_Bless_Wis,FeyTouched_CharmPerson_Wis,FeyTouched_Command_Container_Wis,FeyTouched_CompelledDuel_Wis,FeyTouched_DetectEvilAndGood_Wis,FeyTouched_DetectMagic_Wis,FeyTouched_DissonantWhispers_Wis,FeyTouched_GiftOfAlacrity_Wis,FeyTouched_Heroism_Wis,FeyTouched_Hex_Wis,FeyTouched_HuntersMark_Wis,FeyTouched_Sleep_Wis,FeyTouched_SpeakWithAnimals_Wis,FeyTouched_HideousLaughter_Wis"/>
+          <attribute id="UUID" type="guid" value="287c18e9-bca6-4384-bdff-5f6dd7d79ab3"/>
+         </node>
+      <node id="PassiveList">
+          <attribute id="Passives" type="LSString" value="FeyTouched_AnimalFriendship_Int,FeyTouched_Bane_Int,FeyTouched_BeastBond_Int,FeyTouched_Bless_Int,FeyTouched_CharmPerson_Int,FeyTouched_Command_Container_Int,FeyTouched_CompelledDuel_Int,FeyTouched_DetectEvilAndGood_Int,FeyTouched_DetectMagic_Int,FeyTouched_DissonantWhispers_Int,FeyTouched_GiftOfAlacrity_Int,FeyTouched_Heroism_Int,FeyTouched_Hex_Int,FeyTouched_HuntersMark_Int,FeyTouched_Sleep_Int,FeyTouched_SpeakWithAnimals_Int,FeyTouched_HideousLaughter_Int"/>
+          <attribute id="UUID" type="guid" value="0f52c5f4-e154-4eb5-bbcf-87d74ec1aee6"/>
+          </node>
+       <node id="PassiveList">
+          <attribute id="Passives" type="LSString" value="FeyTouched_AnimalFriendship_Cha,FeyTouched_Bane_Cha,FeyTouched_BeastBond_Cha,FeyTouched_Bless_Cha,FeyTouched_CharmPerson_Cha,FeyTouched_Command_Container_Cha,FeyTouched_CompelledDuel_Cha,FeyTouched_DetectEvilAndGood_Cha,FeyTouched_DetectMagic_Cha,FeyTouched_DissonantWhispers_Cha,FeyTouched_GiftOfAlacrity_Cha,FeyTouched_Heroism_Cha,FeyTouched_Hex_Cha,FeyTouched_HuntersMark_Cha,FeyTouched_Sleep_Cha,FeyTouched_SpeakWithAnimals_Cha,FeyTouched_HideousLaughter_Cha"/>
+          <attribute id="UUID" type="guid" value="8c8e70c6-2a4c-4e30-851d-aae1934c2aeb"/>
+          </node>
+      </children>
+    </node>
+  </region>
+</save>

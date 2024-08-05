@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="cantripmaster" version="1">Cantrip Master</content>
+	<content contentuid="cantripmasterdescript" version="1">Makes all cantrips cost only bonus action.</content>
+</contentList>

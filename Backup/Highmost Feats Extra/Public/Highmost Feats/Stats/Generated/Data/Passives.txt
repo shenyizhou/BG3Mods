@@ -1,0 +1,8 @@
+new entry "CantripMaster"
+type "PassiveData"
+data "DisplayName" "cantripmaster;1"
+data "Description" "cantripmasterdescript;1"
+data "Icon" "PassiveFeature_Sharpshooter_AllIn"
+data "PriorityOrder" "1"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockSpellVariant(IsCantrip(),ModifyUseCosts(Replace,BonusActionPoint,1,0,ActionPoint))"

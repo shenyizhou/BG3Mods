@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hf3039b1612egb5aea1822a40bg619c03g8g7" version="1">Interception</content>
+	<content contentuid="h43091541gbbfd0g01ab7049afdbcb9157f61" version="1">When an enemy hits an ally within [1], reduce the damage by 1d10 + Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;. You must be able to see the attacker.</content>
+	<content contentuid="h04f43af1c7fgb09943ggcd572g15g2c95ff9" version="1">Blind Fighting</content>
+	<content contentuid="h0f5d4ggb806g1fee5bgf6g189c5bc2g89bdd" version="1">You can see normally through magical darkness.</content>
+	<content contentuid="hddd67ggcaaab2397cgd5f2ba50e28a3dd02c" version="1">Close Quarters Shooter</content>
+	<content contentuid="hgee19700c654b2eb55c874d3e8374dbd8395" version="1">You ignore disadvantage from attacking with a ranged weapon within [1]. You also gain a +1 bonus to &lt;LSTag Tooltip="RangedWeaponAttack"&gt;ranged weapon attacks&lt;/LSTag&gt;.</content>
+	<content contentuid="h9e0g1g205d51d79ab2849e11ffdd7563g527" version="1">Superior Technique</content>
+	<content contentuid="hcf05190g842c5de353c6f89f1925g53406e6" version="1">You gain one superiority dice and learn the Riposte maneuver from the Battle Master subclass.</content>
+	<content contentuid="h5242194g7ge5ce04388f3e751d44a0bg1150" version="1">Blessed Warrior</content>
+	<content contentuid="h87678942e6d17gb8def3e31e2344f578f979" version="1">You learn the Sacred Flame and Guidance cantrips. Charisma is your spellcasting modifier for them.</content>
+	<content contentuid="hg4e08547319e7ee5b5ced9deb6d841b1b0b6" version="1">Druidic Warrior</content>
+	<content contentuid="h25eb89b4b1a7cg4c4f59971bf906dfed137f" version="1">You learn the Shillelagh and Thorn Whip cantrips. Wisdom is your spellcasting modifier for them.</content>
+	<content contentuid="hd5eb6d875e904ab7a2493f1fed9b9d0bd5e9" version="1">Mariner</content>
+	<content contentuid="hf28d26f83a11804gf498b3ce4eb7018e795b" version="1">While you are not wearing heavy armor or wielding a shield, your &lt;LSTag Tooltip="ArmourClass"&gt;Armor Class&lt;/LSTag&gt; increases by 1, your movement speed increases by [1], and your jump distance increases by 50%.</content>
+	<content contentuid="h95910egf65495a9c78289acb4a37706ac764" version="1">Unarmed Fighting</content>
+	<content contentuid="h3969ef15033ba0b1b994f6ae90b25faa3426" version="1">Your unarmed strikes deal [1].</content>
+	<content contentuid="h123879f7cc5c3f9a5a837afbeca6f53073db" version="1">Tunnel Fighter</content>
+	<content contentuid="h8f8b89abge6a6c402a6d15f5g143d6g5gae7" version="1">As a bonus action, you can enter a Defensive Stance until your next turn. While in this stance, your &lt;LSTag Tooltip="ArmourClass"&gt;Armor Class&lt;/LSTag&gt; increases by 1 and you gain an extra Reaction.</content>
+	<content contentuid="hcaag1272dec6gef2ddcc27g7765g85b63b17" version="1">Tunnel Fighter: Defensive Stance</content>
+	<content contentuid="hd401bd4fa60119973376eea3c46c87g22d58" version="1">Enter a Defensive Stance. While in this stance, your &lt;LSTag Tooltip="ArmourClass"&gt;Armor Class&lt;/LSTag&gt; increases by 1 and you gain an extra Reaction.</content>
+	<content contentuid="h5b7g6ee71783c63efa6fd039a3fc55a7fcfe" version="1">Thrown Weapon Fighting</content>
+	<content contentuid="hag66bb3612b9108dg7gg6gb2gc9a4e96g40g" version="1">Deal an additional 2 damage with thrown weapons.</content>
+</contentList>

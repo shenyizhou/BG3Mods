@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hf3039b1612egb5aea1822a40bg619c03g8g7" version="1">拦截</content>
+	<content contentuid="h43091541gbbfd0g01ab7049afdbcb9157f61" version="1">当一个你可见的生物攻击距离你[1] 范围内你以外的目标时，伤害会减少1d10+你&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;（最多减到0伤害）。</content>
+	<content contentuid="h04f43af1c7fgb09943ggcd572g15g2c95ff9" version="1">盲斗</content>
+	<content contentuid="h0f5d4ggb806g1fee5bgf6g189c5bc2g89bdd" version="1">你可以透过魔法黑暗正常视物。</content>
+	<content contentuid="hddd67ggcaaab2397cgd5f2ba50e28a3dd02c" version="1">抵近射击</content>
+	<content contentuid="hgee19700c654b2eb55c874d3e8374dbd8395" version="1">你无视 [1] 范围内使用远程武器攻击时的劣势。你还会获得&lt;LSTag Tooltip="RangedWeaponAttack"&gt;远程武器攻击&lt;/LSTag&gt;+1的加成。</content>
+	<content contentuid="h9e0g1g205d51d79ab2849e11ffdd7563g527" version="1">卓越技巧</content>
+	<content contentuid="hcf05190g842c5de353c6f89f1925g53406e6" version="1">你将获得一个卓越骰，并从战斗大师武术范型的战技列表中习得战技：反击。</content>
+	<content contentuid="h5242194g7ge5ce04388f3e751d44a0bg1150" version="1">受祝福的勇士</content>
+	<content contentuid="h87678942e6d17gb8def3e31e2344f578f979" version="1">你习得戏法圣火术和神导术。魅力是你施展这些法术的关键属性。</content>
+	<content contentuid="hg4e08547319e7ee5b5ced9deb6d841b1b0b6" version="1">德鲁伊教战士</content>
+	<content contentuid="h25eb89b4b1a7cg4c4f59971bf906dfed137f" version="1">你习得戏法橡棍术和荆棘之鞭。感知是你施展这些法术的关键属性。</content>
+	<content contentuid="hd5eb6d875e904ab7a2493f1fed9b9d0bd5e9" version="1">水手</content>
+	<content contentuid="hf28d26f83a11804gf498b3ce4eb7018e795b" version="1">只要你未穿戴重甲或使用盾牌，你的&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;获得+1加值，移动速度增加 [1]，跳跃距离增加 50%。</content>
+	<content contentuid="h95910egf65495a9c78289acb4a37706ac764" version="1">徒手战斗</content>
+	<content contentuid="h3969ef15033ba0b1b994f6ae90b25faa3426" version="1">你的徒手攻击会造成 [1]。</content>
+	<content contentuid="h123879f7cc5c3f9a5a837afbeca6f53073db" version="1">坑道斗士</content>
+	<content contentuid="h8f8b89abge6a6c402a6d15f5g143d6g5gae7" version="1">以一个附赠动作，你可以进入一种防御姿态，直到你下个回合的开始。当处于防御姿态时，你的&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;增加 1 ，并获得额外的反应。</content>
+	<content contentuid="hcaag1272dec6gef2ddcc27g7765g85b63b17" version="1">坑道斗士: 防御姿态</content>
+	<content contentuid="hd401bd4fa60119973376eea3c46c87g22d58" version="1">进入一种防御姿态。当处于防御姿态时，你的&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;增加 1 ，并获得额外的反应。</content>
+	<content contentuid="h5b7g6ee71783c63efa6fd039a3fc55a7fcfe" version="1">投掷武器战斗</content>
+	<content contentuid="hag66bb3612b9108dg7gg6gb2gc9a4e96g40g" version="1">投掷武器额外造成 2 点伤害。</content>
+</contentList>
