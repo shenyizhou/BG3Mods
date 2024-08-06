@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="322"/>
+    <region id="Feats">
+        <node id="root">
+            <children>
+				<node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="thefrostbornfeat"/>
+					<attribute id="PassivesAdded" type="LSString" value="FrontFaceFrostedFeat;MAGxColdFEAT;MAGCOLDSpellDamageFeatpassive;MAGChillingCounterfeatPassive;MAGFrostGenerateFrostOnDamagefeat;MAGfrostbornApplyHatPassive"/>
+					<attribute id="Selectors" type="LSString" value="SelectAbilities(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,1,1,FeatASI)"/>
+                    <attribute id="UUID" type="guid" value="456c9ecc-4f57-4d75-95fa-9cdbba50d4bf"/>
+                </node>
+                <node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="LivingConduitFeat"/>
+					<attribute id="PassivesAdded" type="LSString" value="Electric_Veins_Passive;TheLivingConduitFeat;LightningAttacksPassive;LightningStepsPassive;ThunderousFistsPassive;PassiveCountershockhidden"/>
+					<attribute id="Selectors" type="LSString" value="SelectAbilities(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,1,1,FeatASI)"/>
+                    <attribute id="UUID" type="guid" value="c52c224a-20d6-4411-b5c2-46df9462ab49"/>
+                </node>
+                <node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="True"/>
+                    <attribute id="Name" type="FixedString" value="GregariousCasterFeat"/>
+					<attribute id="PassivesAdded" type="LSString" value=""/>
+					<attribute id="Selectors" type="LSString" value="SelectPassives(2694b211-6737-40d5-bd33-883f08bbf519,1)"/>
+                    <attribute id="UUID" type="guid" value="6e96ee04-027b-400a-bd8a-8a82794f5d82"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="True" />
+                    <attribute id="Name" type="FixedString" value="thegemmaphilefeat" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(94967440-c6e4-4c4a-8997-d1f44128a630,3)" />
+                    <attribute id="UUID" type="guid" value="ba92a32d-3087-421b-90f4-fa1f5cc217e1" />
+                </node>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="thearcanescholarfeat"/>
+                    <attribute id="PassivesAdded" type="LSString" value="FrontFaceArcaneFeat;MAGElementalArcaneAcuityFeatPassive;MAGArcaneFeatglovePassive;MAGfireFeatACPassive;MAGThunderArcaneAcFeat;MAGArcaneSynergyRingFEATPassive;MAGrcaneSynergyCircletfeat;FeatpsychicDamageBonusWhileConcentratings"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,1,1,FeatASI)"/>
+                    <attribute id="UUID" type="guid" value="e5601aa3-f828-47a6-9797-e475ee4d779c"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="thepsychicmindfeat"/>
+                    <attribute id="PassivesAdded" type="LSString" value="FrontFacePsychicFeat;PsychichFeat_One;Unlocker_Psychicfeat"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,1,1,FeatASI)"/>
+                    <attribute id="UUID" type="guid" value="dab95e4d-1fc7-4f0a-8361-02e1a58c898b"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="thesithbornfeat"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Sithborn_FrontFacing_Feat;Sithborn_Hidden_Passive_two;Sithborn_Hidden_Passive_three;Sithborn_Hidden_Passive_four;Sithborn_Hidden_Passive_five;Sithborn_weapon;Sithborn_reaction;Sithborn_Hidden_Passive_weapon;SithWeaponry"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,1,1,FeatASI)"/>
+                    <attribute id="UUID" type="guid" value="a6390c8f-33d0-47bd-b524-0ded28f7c1cc"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="thestormwhisperfeat"/>
+                    <attribute id="PassivesAdded" type="LSString" value="FrontFacingThunderFeat;ThunderReverberationFeatPassive;FeatinflictDazeOnThunderDamagespite;SfeatReverberationOnStatusApplyboot;CounterDazeOnReverberatedCreaturefeat;Storm_Whisper"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,1,1,FeatASI)"/>
+                    <attribute id="UUID" type="guid" value="ea5b25ec-b92b-416d-80b6-7c1a69749559"/>
+                </node>
+			</children>
+        </node>
+    </region>
+</save>

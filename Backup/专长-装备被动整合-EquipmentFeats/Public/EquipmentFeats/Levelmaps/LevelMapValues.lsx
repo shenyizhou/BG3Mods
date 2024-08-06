@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="2" revision="0" build="100"/>
+    <region id="LevelMapValues">
+        <node id="root">
+            <children>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="1d6"/>
+                    <attribute id="Level10" type="LSString" value="1d12"/>
+                    <attribute id="Level5" type="LSString" value="1d8"/>
+                    <attribute id="Level8" type="LSString" value="1d10"/>
+                    <attribute id="Name" type="FixedString" value="LightningFeat"/>
+                    <attribute id="UUID" type="guid" value="ce5cb90b-5fdc-4001-8a76-f7f27de48613"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

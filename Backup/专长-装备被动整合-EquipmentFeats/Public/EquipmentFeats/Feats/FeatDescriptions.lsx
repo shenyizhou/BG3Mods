@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="FeatDescriptions">
+        <node id="root">
+            <children>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="he4475de0g443bg4d0dg861fg9a7dbdb74d53" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="he4475de0g443bg4d0dg861fg9a7dbdb74d52" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="thefrostbornfeat"/>
+                    <attribute id="FeatId" type="guid" value="456c9ecc-4f57-4d75-95fa-9cdbba50d4bf"/>
+                    <attribute id="UUID" type="guid" value="ee5c912b-0369-45be-9a8a-2003173f6809"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h58ace3a6g3ccbg4488gabadgd4009d256e86" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h58ace3a6g3ccbg4488gabadgd4009d256e85" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="LivingConduitFeat"/>
+                    <attribute id="FeatId" type="guid" value="c52c224a-20d6-4411-b5c2-46df9462ab49"/>
+                    <attribute id="UUID" type="guid" value="ac646404-9c38-45e1-aff6-72a6e7515e67"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hb45f35afg5527g4501g898eg9f6296bf46b9" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb45f35afg5527g4501g898eg9f6296bf46b8" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="GregariousCasterFeat"/>
+                    <attribute id="FeatId" type="guid" value="6e96ee04-027b-400a-bd8a-8a82794f5d82"/>
+                    <attribute id="UUID" type="guid" value="c0d089d0-dc06-499d-8520-8f9db7f024d3"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hf6ee8189g7bfag490fg8f3cg8c877d8a8e01" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf6ee8189g7bfag490fg8f3cg8c877d8a8e00" version="1" />
+                    <attribute id="ExactMatch" type="FixedString" value="thegemmaphilefeat" />
+                    <attribute id="FeatId" type="guid" value="ba92a32d-3087-421b-90f4-fa1f5cc217e1" />
+                    <attribute id="UUID" type="guid" value="1f4b2779-711d-4d52-b7ac-ea894335cbd3" />
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h3b83ef40g05acg4d92ga477g9883497c6d91" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3b83ef40g05acg4d92ga477g9883497c6d90" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="thearcanescholarfeat"/>
+                    <attribute id="FeatId" type="guid" value="e5601aa3-f828-47a6-9797-e475ee4d779c"/>
+                    <attribute id="UUID" type="guid" value="54a821d4-0db5-460d-8637-00c28ec2fd66"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h09d20374g238fg4fb4gbf8bg21c3e4470fa1" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h09d20374g238fg4fb4gbf8bg21c3e4470fa0" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="thepsychicmindfeat"/>
+                    <attribute id="FeatId" type="guid" value="dab95e4d-1fc7-4f0a-8361-02e1a58c898b"/>
+                    <attribute id="UUID" type="guid" value="78bf0d7d-e0db-411c-9ad5-24868dfc55b5"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h05c0bb39ga548g4e13g8dc7g58ad521a4801" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h05c0bb39ga548g4e13g8dc7g58ad521a4800" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="thesithbornfeat"/>
+                    <attribute id="FeatId" type="guid" value="a6390c8f-33d0-47bd-b524-0ded28f7c1cc"/>
+                    <attribute id="UUID" type="guid" value="8b650a69-5442-4da0-8152-0e470eadb1a7"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h67b56052gc8f3g408ag9a45ga62ee5d47ff4" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h67b56052gc8f3g408ag9a45ga62ee5d47ff3" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="thestormwhisperfeat"/>
+                    <attribute id="FeatId" type="guid" value="ea5b25ec-b92b-416d-80b6-7c1a69749559"/>
+                    <attribute id="UUID" type="guid" value="6aa63a4c-a41b-41f6-9e49-0bbc9fbdbd02"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

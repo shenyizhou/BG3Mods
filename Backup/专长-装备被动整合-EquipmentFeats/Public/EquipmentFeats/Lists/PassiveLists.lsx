@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="PassiveLists">
+    <node id="root">
+      <children>
+        <node id="PassiveList">
+          <attribute id="Passives" type="LSString" value="GregariousFeat_Strength,GregariousFeat_Dexterity,GregariousFeat_Constitution,GregariousFeat_Intelligence,GregariousFeat_Wisdom,GregariousFeat_Charisma" />
+          <attribute id="UUID" type="guid" value="2694b211-6737-40d5-bd33-883f08bbf519" />
+        </node>
+        <node id="PassiveList">
+          <attribute id="Passives" type="LSString" value="MAG_Shove_ACboost_feat,MAG_Radiant_DamageBonusOnIlluminatedTarget_Ring_feat,MAG_Acid_AcidDamageOnWeaponAttack_Ring_feat,MAG_ElementalGish_ElementalInfusion_Ring_feat,MAG_Harpers_RingOfProjection_Passive_feat,MAG_Psychic_MentalFatigue_Ring_Passive_feat,MAG_ShapeshiftersBurgeon_Passive_feat,MAG_Frost_GenerateSurfaceOnColdDamage_Ring_feat,UNI_MassHealRing_Passive_feat,MAG_DeathDo_Shadow_Passive_feat,MAG_ArcaneTrickster_Ring_Passive_feat,UNI_UND_RingOfMindShielding_Passive_feat,MAG_WYRM_OfTruthTelling_Ring_Passive_feat,MAG_RiskyAttack_Passive_feat,MAG_Critical_CriticalExecution_Passive_feat,UNI_MartyrAmulet_Passive_feat,MAG_LowHP_IgnoreAttackOfOpportunity_Passive_feat,MAG_ElementalGish_CantripBooster_Amulet_Passive_feat,MAG_PHB_PeriaptofWoundClosure_Amulet_Passive_feat,MAG_TWN_Surgeon_ParalyzingCritical_feat,LOW_BhaalAmulet_Passive_feat,MAG_SpellSaveDC_Enchantment_Passive_feat,MAG_StrengthBonusToWeaponDamage_Passive_feat,MAG_Healer_HealSelfPoisonWeapon_Passive_feat,MAG_Vicious_Weapon_Passive_feat,MAG_TheCrimson_Vicious_Passive_feat" />
+          <attribute id="UUID" type="guid" value="94967440-c6e4-4c4a-8997-d1f44128a630" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

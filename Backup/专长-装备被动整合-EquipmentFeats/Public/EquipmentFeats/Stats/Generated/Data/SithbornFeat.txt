@@ -1,0 +1,89 @@
+new entry "Sithborn_FrontFacing_Feat"
+type "PassiveData"
+data "DisplayName" "h05c0bb39ga548g4e13g8dc7g58ad521a4802;1"
+data "Description" "h05c0bb39ga548g4e13g8dc7g58ad521a4803;1"
+data "DescriptionParams" "DealDamage(1d6, Force);DealDamage(1d4, Force);DealDamage(2d4, Force);DealDamage(1, Force);1"
+data "Icon" "Action_Monster_NetherBrain_ObliterationOrb"
+data "Properties" "Highlighted"
+
+
+
+new entry "Sithborn_Hidden_Passive_two"
+type "PassiveData"
+data "DisplayName" "h05c0bb39ga548g4e13g8dc7g58ad521a4804;1"
+data "Description" "h05c0bb39ga548g4e13g8dc7g58ad521a4805;1"
+data "DescriptionParams" "DealDamage(1d6, Force)"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnDamage"
+data "StatsFunctors" "IF(IsCritical()):DealDamage(1d6, Force,Magical)"
+
+new entry "Sithborn_Hidden_Passive_three"
+type "PassiveData"
+data "DisplayName" "h05c0bb39ga548g4e13g8dc7g58ad521a4806;1"
+data "Description" "h05c0bb39ga548g4e13g8dc7g58ad521a4807;1"
+data "DescriptionParams" "DealDamage(1d4, Force)"
+data "Properties" "IsHidden"
+data "Boosts" "CharacterUnarmedDamage(1d4, Force)"
+
+
+new entry "Sithborn_Hidden_Passive_weapon"
+type "PassiveData"
+data "DisplayName" "he764384egf074g41f2ga29agffa9896c7a06;1"
+data "Properties" "IsHidden"
+data "Boosts" "CharacterWeaponDamage(1, Force)"
+
+new entry "SithWeaponry"
+type "PassiveData"
+data "DisplayName" "hdc2b2733g3e31g4231gbcecg97dedd186c7c;1"
+data "Description" "h3f3a72f1g14b9g4a67gbc12g429e57f20f66;2"
+data "Icon" "Skill_Warlock_PactOfTheBlade_BoundWeapon"
+data "Properties" "IsHidden"
+data "Boosts" "CannotBeDisarmed()"
+
+
+
+new entry "Sithborn_Hidden_Passive_four"
+type "PassiveData"
+data "DisplayName" "h05c0bb39ga548g4e13g8dc7g58ad521a4808;1"
+data "Description" "h05c0bb39ga548g4e13g8dc7g58ad521a4809;1"
+data "DescriptionParams" "DealDamage(1d4,Force)"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "HasSpellFlag(SpellFlags.Spell) and not IsCantrip() and HasHPPercentageWithoutTemporaryHPEqualOrLessThan(50, context.Source)"
+data "StatsFunctors" "DealDamage(1d4,Force,Magical)"
+
+
+
+new entry "MAG_WEAPON_ACTION_TELEKINETIC_BOLT2"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h05c0bb39ga548g4e13g8dc7g58ad521a4816;1"
+data "Description" "h05c0bb39ga548g4e13g8dc7g58ad521a4817;1"
+data "DescriptionParams" "DealDamage(1d4, Force)"
+data "Icon" "Action_MagicItem_TelekineticBolt"
+data "SoundLoop" "MAG_Status_Boost_Action_TelekineticBolt_MO"
+data "SoundStop" "MAG_Status_Boost_Action_TelekineticBolt_MO_Stop"
+data "StackId" "CRE_MAG_TELEKINETIC_BOLT"
+data "Boosts" "WeaponDamage(1d4, Force)"
+data "StatusPropertyFlags" "DisableOverhead"
+data "ApplyEffect" "273008ca-28ac-4fa4-abff-9a029579def2"
+
+
+
+
+new entry "Sithborn_weapon"
+type "PassiveData"
+using "MAG_PHB_Sentinel_Shield_Passive"
+data "DisplayName" "h8fae86e1gcebbg4f71gb941g2a73745b4d0f;1"
+data "Description" "h693dda09gf43bg480cgb33bg9af351f5aada;1"
+data "DescriptionParams" "1"
+data "Properties" "IsHidden"
+data "Boosts" "Initiative(1);Advantage(Skill, Perception)"
+
+new entry "Sithborn_reaction"
+type "PassiveData"
+data "DisplayName" "h43df371eg8454g496bg8d57gebf1c9fe4c27;1"
+data "Description" "ha6c83893g25feg4cfagaafdgdcf03b80030b;1"
+data "Properties" "IsHidden"
+data "Boosts" "IF(IsReactionAttack()):Advantage(AttackRoll)"
+

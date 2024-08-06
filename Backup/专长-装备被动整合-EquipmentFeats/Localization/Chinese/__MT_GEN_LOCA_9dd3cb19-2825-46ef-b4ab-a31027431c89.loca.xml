@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="he4475de0g443bg4d0dg861fg9a7dbdb74d52" version="1">霜裔</content>
+	<content contentuid="he4475de0g443bg4d0dg861fg9a7dbdb74d53" version="1">当你来到这个世界时，世界似乎因你的降生而更为寒冷</content>
+	<content contentuid="h0aa9413dgf6a2g422cgb305gceaea3dab815" version="1">霜裔</content>
+	<content contentuid="hf9c5b788g63d9g4723g90aeg96755e388a0f" version="1">当造成伤害时，额外造成[1]&lt;br&gt;&lt;br&gt;使用法术造成寒冷伤害可能会 &lt;LSTag Type="Status" Tooltip="CHILLED"&gt;冻僵&lt;/LSTag&gt; 目标。&lt;br&gt;&lt;br&gt;当生物的攻击未命中你时，它必须成功通过 &lt;LSTag Tooltip="DifficultyClass"&gt;DC&lt;/LSTag&gt;13体质&lt;； LSTag Tooltip="SavingThrow"&gt;豁免掷骰&lt;/LSTag&gt;或被&lt;LSTag Type="Status "Tooltip="CHILLED"&gt;冻僵&lt;/LSTag&gt;[2]回合。 &lt;br&gt;&lt;br&gt;当你造成寒冷伤害时，对目标造成 [3] 个回合的&lt;LSTag Type="Status" Tooltip="MAG_FROST"&gt;覆霜&lt;/LSTag&gt;。 &lt;br&gt;&lt;br&gt;每回合一次，对目标造成的任何状态也会对其施加 [4] 回合的&lt;LSTag Type="Status" Tooltip="MAG_FROST"&gt;覆霜&lt;/LSTag&gt;。</content>
+	<content contentuid="hd5de1373g121fg4ea7g894bg5226bb66a8d7" version="2">霜裔</content>
+	<content contentuid="hd5de1373g121fg4ea7g894bg5226bb66a8d8" version="2">当造成伤害时，额外造成[1]</content>
+	<content contentuid="h3d95f7f8ga6c5g4e5ega2e6gd804f7fd9310" version="1">霜裔</content>
+	<content contentuid="h3d95f7f8ga6c5g4e5ega2e6gd804f7fd9311" version="3">使用法术造成寒冷伤害可能会 &lt;LSTag Type="Status" Tooltip="CHILLED"&gt;冻僵&lt;/LSTag&gt; 目标。</content>
+	<content contentuid="h8fd54c3fg1788g4ae8g8987g319898e01ffb" version="2">霜裔 计数</content>
+	<content contentuid="h8fd54c3fg1788g4ae8g8987g319898e01ffc" version="3">当生物的攻击未命中你时，它必须成功通过 &lt;LSTag Tooltip="DifficultyClass"&gt;DC&lt;/LSTag&gt;13体质&lt;； LSTag Tooltip="SavingThrow"&gt;豁免掷骰&lt;/LSTag&gt;或被&lt;LSTag Type="Status "Tooltip="CHILLED"&gt;冻僵&lt;/LSTag&gt;[1]回合。</content>
+	<content contentuid="h2e91b5abg733cg4ae5g99ddga5c69d976a24" version="2">霜裔</content>
+	<content contentuid="h2e91b5abg733cg4ae5g99ddga5c69d976a25" version="4">当你造成寒冷伤害时，对目标造成 [1] 回合的&lt;LSTag Type="Status" Tooltip="MAG_FROST"&gt;覆霜&lt;/LSTag&gt;。</content>
+	<content contentuid="h0a560082g2b59g45a3g9122ged26fbba4a8b" version="2">霜裔</content>
+	<content contentuid="h0a560082g2b59g45a3g9122ged26fbba4a8c" version="6">每回合一次，对目标造成的任何状态，也会在 [1] 回合内施加&lt;LSTag Type="Status" Tooltip="MAG_FROST"&gt;覆霜&lt;/LSTag&gt;。</content>
+	<content contentuid="h58ace3a6g3ccbg4488gabadgd4009d256e85" version="1">闪电之血</content>
+	<content contentuid="h58ace3a6g3ccbg4488gabadgd4009d256e86" version="1">火花追击者伊尔是个傻瓜，他在黑暗中摸索闪电，将闪电注入他所能得到的一切。他的作品遍布费伦，但它们的价值充其量只是个疑问。真正的天才会将闪电的原始力量融入自己的肉身，与闪电融为一体。</content>
+	<content contentuid="h54fe43eag2febg4791ga54bg571bd328c47c" version="1">闪电之血</content>
+	<content contentuid="ha06e16abg8cfbg4d6bg88e1g47f6872808e0" version="1">当你造成伤害时，你会获得 [1]层 &lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;闪电充能&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;注入 &lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;闪电充能&lt;/LSTag&gt;时，对金属构造物的攻击会获得 &lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;当你在&lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;闪电充能&lt;/LSTag&gt;状态下受到伤害时，攻击者必须通过一个敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免掷骰&lt;/LSTag&gt;否则陷入&lt;LSTag Type="Status" Tooltip="SHOCKED"&gt;感电&lt;/LSTag&gt;状态。</content>
+	<content contentuid="hbc344642gadcdg44f8g81a6gfea3890be9e9" version="1">闪电火花</content>
+	<content contentuid="hdd9b8ea0gb313g44fbgb0dbg4d2d9b22b8b3" version="1">当你使用法术或 &lt;LSTag Tooltip="Cantrip"&gt;戏法&lt;/LSTag&gt;造成伤害时，你会获得 [1]层 &lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;闪电充能&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;您不会陷入&lt;LSTag Type="Status" Tooltip="SHOCKED_SURFACE"&gt;感电&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;你对闪电伤害具有抗性</content>
+	<content contentuid="h36cdbec0g31b2g4a5egac05g2b39e723f7e9" version="1">风暴登阶</content>
+	<content contentuid="haaaaac59g527bg43acg9182g5a045d72d818" version="1">当你在战斗中 &lt;LSTag Type="Spell" Tooltip="Shout_Dash"&gt; 疾跑&lt;/LSTag&gt; 或采取类似行动时，你会获得 [1]层 &lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt; 闪电充能&lt;/LSTag&gt;。</content>
+	<content contentuid="ha4aa48b3g28a2g4c2agbb88g8cf489d959c0" version="1">闪电惊袭</content>
+	<content contentuid="h04a1171fg15a8g4fd8gafe5g85002fdf981e" version="1">当你造成 [1] 伤害时，对目标造成 [2] 回合的 &lt;LSTag Type="Status" Tooltip="SHOCKED"&gt;感电&lt;/LSTag&gt; 效果。</content>
+	<content contentuid="h528bb5a8g00c9g4a2ag8fb0g64d5b78fbeb5" version="1"> 如果目标有 &lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt; 闪电充能&lt;/LSTag&gt;。你必须通过一次敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免掷骰&lt;/LSTag&gt;，否则就会陷入&lt;LSTag Type="Status" Tooltip="SHOCKED"&gt;感电&lt;/LSTag&gt;。</content>
+	<content contentuid="hce7f11cbg2a9cg48cdg9af9g17c828aa5e00" version="1">力量</content>
+	<content contentuid="hce7f11cbg2a9cg48cdg9af9g17c828aa5e01" version="1">你的&lt;LSTag Tooltip="Cantrip"&gt;戏法&lt;/LSTag&gt;额外造成等同于你的力量&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;的伤害。</content>
+	<content contentuid="hce7f11cbg2a9cg48cdg9af9g17c828aa5e02" version="1">敏捷</content>
+	<content contentuid="hce7f11cbg2a9cg48cdg9af9g17c828aa5e03" version="1">你的&lt;LSTag Tooltip="Cantrip"&gt;戏法&lt;/LSTag&gt;额外造成等同于你的敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;的伤害。</content>
+	<content contentuid="hce7f11cbg2a9cg48cdg9af9g17c828aa5e04" version="1">体质</content>
+	<content contentuid="hce7f11cbg2a9cg48cdg9af9g17c828aa5e05" version="1">你的&lt;LSTag Tooltip="Cantrip"&gt;戏法&lt;/LSTag&gt;额外造成等同于你的体质&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;的伤害。</content>
+	<content contentuid="hce7f11cbg2a9cg48cdg9af9g17c828aa5e06" version="1">智力</content>
+	<content contentuid="hce7f11cbg2a9cg48cdg9af9g17c828aa5e07" version="1">你的&lt;LSTag Tooltip="Cantrip"&gt;戏法&lt;/LSTag&gt;额外造成等同于你的智力&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;的伤害。</content>
+	<content contentuid="hce7f11cbg2a9cg48cdg9af9g17c828aa5e08" version="1">感知</content>
+	<content contentuid="hce7f11cbg2a9cg48cdg9af9g17c828aa5e09" version="1">你的&lt;LSTag Tooltip="Cantrip"&gt;戏法&lt;/LSTag&gt;额外造成等同于你的感知&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;的伤害。</content>
+	<content contentuid="hce7f11cbg2a9cg48cdg9af9g17c828aa5e10" version="1">魅力</content>
+	<content contentuid="hce7f11cbg2a9cg48cdg9af9g17c828aa5e11" version="1">你的&lt;LSTag Tooltip="Cantrip"&gt;戏法&lt;/LSTag&gt;额外造成等同于你的魅力&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;的伤害。</content>
+	<content contentuid="hb45f35afg5527g4501g898eg9f6296bf46b8" version="1">合群施法者</content>
+	<content contentuid="hb45f35afg5527g4501g898eg9f6296bf46b9" version="1">你的&lt;LSTag Tooltip="Cantrip"&gt;戏法&lt;/LSTag&gt;额外造成等同于你选择的属性&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;的伤害。</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e00" version="1">宝石狂热</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e01" version="1">你对施法宝石和珠宝的热爱已经超越了仅仅拥有它们。仅仅触摸它们已不再足够；你需要将它们嵌入你的肉体并吸收它们的力量。这样，它们就永远与你同在了。</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e02" version="1">个人空间</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e03" version="1">在推开一个敌人后，直到你的下一个回合，你的&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;获得+1的加值。</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e04" version="1">无情光芒</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e05" version="1">你对被照亮的生物造成额外的[1]。</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e06" version="1">恶毒分泌物</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e07" version="1">你的武器攻击还造成[1]。</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e08" version="1">元素注入</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e09" version="1">当你使用法术或&lt;LSTag Tooltip="Cantrip"&gt;戏法&lt;/LSTag&gt;造成强酸、寒冷、火焰、闪电或雷鸣伤害时，该元素会注入你的武器。直到你的下一个回合结束，你的第一次成功的武器攻击将对该元素造成额外的1d4伤害。</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e10" version="1">投掷增益</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e11" version="1">你的投掷伤害获得[1]点加值。</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e12" version="1">精神抑制</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e13" version="1">当一个敌人未能通过对你的法术或行动的&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;时，它们获得持续2回合的&lt;LSTag Type="Status" Tooltip="MAG_PSYCHIC_MENTAL_FATIGUE"&gt;精神疲劳&lt;/LSTag&gt;。</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e14" version="1">变形者恩惠</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e15" version="1">在变形或伪装自己时，你在所有&lt;LSTag Tooltip="AbilityCheck"&gt;能力检定&lt;/LSTag&gt;中获得+[1]的加值。</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e16" version="1">雪爆</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e17" version="1">当你造成寒冷伤害时，你还在目标周围创造出一个[1]的冰圈。</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e18" version="1">祝福的仁慈</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e19" version="1">当你治疗一个生物时，它在[2]回合内的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;和&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;获得+[1]的加值。</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e20" version="1">死后我们分离</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e21" version="1">当你处于&lt;LSTag Tooltip="Downed"&gt;倒地&lt;/LSTag&gt;状态时，你将再次站起，恢复一半的&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;，但会被&lt;LSTag Type="Status" Tooltip="MAG_DEATH_DO_SHADOW_POSSESSION"&gt;影子附身&lt;/LSTag&gt;。</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e22" version="1">幻觉加速</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e23" version="1">在使用武器攻击击中生物后，你可以作为&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;施放幻觉或魅惑法术。</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e24" version="1">庇护</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e25" version="1">你在对抗&lt;LSTag Type="Status" Tooltip="CHARMED"&gt;魅惑&lt;/LSTag&gt;的&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;中拥有优势。</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e26" version="1">真实</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e27" version="1">你在洞察&lt;LSTag Tooltip="AbilityCheck"&gt;能力检定&lt;/LSTag&gt;中拥有优势。</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e28" version="1">冒险攻击</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e29" version="1">你在&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;中拥有优势，并且在&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;中处于劣势。</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e30" version="1">刽子手</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e31" version="1">当你杀死一个生物时，你的下一次&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;将是一个&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;。一旦使用，这个效果在一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后刷新。</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e32" version="1">自然的复仇</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e33" version="1">当你站在某些表面（比如火焰）上并施放造成伤害的法术时，目标也会受到该表面的效果。</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e34" version="1">扭动之舞</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e35" version="1">当你的生命值降至50%或更少时，你不会引发&lt;LSTag Tooltip="OpportunityAttack"&gt;机会攻击&lt;/LSTag&gt;。</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e36" version="1">元素增强</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e37" version="1">当你的&lt;LSTag Tooltip="Cantrip"&gt;戏法&lt;/LSTag&gt;造成强酸、寒冷、火焰、闪电或雷鸣伤害时，将你的&lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;施法能力调整值&lt;/LSTag&gt;加到造成的伤害上。</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e38" version="1">伤口闭合</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e39" version="1">当&lt;LSTag Type="Status" Tooltip="DOWNED"&gt;倒地&lt;/LSTag&gt;时，自动在回合开始时稳定。</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e40" version="1">瘫痪重击</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e41" version="1">每&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;一次，当你在类人生物上获得&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时，你可以使目标在[1]回合内&lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;瘫痪&lt;/LSTag&gt;。</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e42" version="1">第一滴血</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e43" version="1">在命中时，对拥有最大&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;的目标施加&lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;流血&lt;/LSTag&gt;。</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e44" version="1">高阶施法</content>
+	<content contentuid="hf6ee8189g7bfag490fg8f3cg8c877d8a8e45" version="1">你的法术豁免难度等级（DC）获得+[1]的加值。</content>
+	<content contentuid="h3b83ef40g05acg4d92ga477g9883497c6d90" version="1">奥法学者</content>
+	<content contentuid="h3b83ef40g05acg4d92ga477g9883497c6d91" version="1">你一直对魔法充满兴趣，寻求利用这些知识并增强自己力量的方法。</content>
+	<content contentuid="h0c14b713g5d34g4ec6gb081g89f9391bf692" version="1">奥法知识</content>
+	<content contentuid="h7300ad3dg4ab4g424dga5cbg3b5b6530a384" version="1">每当你用武器攻击造成伤害时，你获得&lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_ACUITY"&gt;奥术敏锐&lt;/LSTag&gt;持续2回合。&lt;br&gt;&lt;br&gt;当武器&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;造成状态时，你获得&lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_ACUITY"&gt;奥术敏锐&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;每当你造成火焰或雷鸣伤害时，你获得&lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_ACUITY"&gt;奥术敏锐&lt;/LSTag&gt;持续2回合。&lt;br&gt;&lt;br&gt;当你用&lt;LSTag Tooltip="Cantrip"&gt;戏法&lt;/LSTag&gt;造成伤害时，你获得&lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_SYNERGY"&gt;奥术协同&lt;/LSTag&gt;持续2回合。&lt;br&gt;&lt;br&gt;当你造成状态时，获得&lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_SYNERGY"&gt;奥术协同&lt;/LSTag&gt;持续2轮。&lt;br&gt;&lt;br&gt;在&lt;LSTag Tooltip="Concentration"&gt;专注&lt;/LSTag&gt;于某个法术时，你的武器攻击额外造成[1]。</content>
+	<content contentuid="h1a896548gcb58g4f90g9931g01cf81b26c2d" version="3">战斗敏锐</content>
+	<content contentuid="h9072183egb4f7g457eg9380g5a5b10f00507" version="4">每当你用武器攻击造成伤害时，你获得&lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_ACUITY"&gt;奥术敏锐&lt;/LSTag&gt;持续2回合。</content>
+	<content contentuid="hb3a1c54ag831ag4acfg998bg6bc06d1c5752" version="3">奥术力量</content>
+	<content contentuid="h1dbac1e0g8bdeg475bg8b58g018da37515ba" version="6">当武器&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;造成状态时，你获得&lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_ACUITY"&gt;奥术敏锐&lt;/LSTag&gt;。</content>
+	<content contentuid="h3b33aa31g8991g4d67g99b5gab99ea0402e1" version="2">火焰奥术敏锐</content>
+	<content contentuid="hf5cca0d8g3b92g40c3gb1d8ge44630486459" version="4">每当你造成火焰伤害时，你获得&lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_ACUITY"&gt;奥术敏锐&lt;/LSTag&gt;持续2回合。</content>
+	<content contentuid="h40331f44g3e7dg4298g8b87gc6b80f15d8fe" version="2">雷鸣奥术敏锐</content>
+	<content contentuid="h40331f44g3e7dg4298g8b87gc6b80f15d8f2" version="4">每当你造成雷鸣伤害时，你获得&lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_ACUITY"&gt;奥术敏锐&lt;/LSTag&gt;持续2回合。</content>
+	<content contentuid="h67af89e2gde06g4411gbe08g4999eb537056" version="3">奥术协同</content>
+	<content contentuid="h67af89e2gde06g4411gbe08g4999eb537057" version="5">当你用&lt;LSTag Tooltip="Cantrip"&gt;戏法&lt;/LSTag&gt;造成伤害时，你获得&lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_SYNERGY"&gt;奥术协同&lt;/LSTag&gt;持续2回合。</content>
+	<content contentuid="h0045f665gfc9fg46c7gba64g25daae747ae0" version="4">奥术时刻</content>
+	<content contentuid="h0045f665gfc9fg46c7gba64g25daae747ae2" version="6">当你造成状态时，获得&lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_SYNERGY"&gt;奥术协同&lt;/LSTag&gt;持续2轮。</content>
+	<content contentuid="h385c4af7gb0dbg4a59gba5fgced85de4a07b" version="2">奥术通道</content>
+	<content contentuid="h385c4af7gb0dbg4a59gba5fgced85de4a074" version="4">在&lt;LSTag Tooltip="Concentration"&gt;专注&lt;/LSTag&gt;于某个法术时，你的武器攻击额外造成[1]。</content>
+	<content contentuid="h09d20374g238fg4fb4gbf8bg21c3e4470fa0" version="1">心灵猎手</content>
+	<content contentuid="h09d20374g238fg4fb4gbf8bg21c3e4470fa1" version="1">只有野蛮人专注于撕裂肉体来摧毁敌人；既然可以针对心灵，何必攻击身体呢？</content>
+	<content contentuid="h09d20374g238fg4fb4gbf8bg21c3e4470fa2" version="1">心灵猎手</content>
+	<content contentuid="h09d20374g238fg4fb4gbf8bg21c3e4470fa5" version="1">当你成功通过一次&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;，造成该检定的敌人受到[2]。&lt;br&gt;&lt;br&gt;你在智力、感知和魅力&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;中获得+[1]的加值。</content>
+	<content contentuid="h09d20374g238fg4fb4gbf8bg21c3e4470fa4" version="1">心灵猎手</content>
+	<content contentuid="h09d20374g238fg4fb4gbf8bg21c3e4470fa3" version="1">你对心灵伤害具有&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;所有攻击额外造成[3]。&lt;br&gt;&lt;br&gt;当你成功通过一次&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;，造成该检定的敌人受到[2]。&lt;br&gt;&lt;br&gt;你在智力、感知和魅力&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;中获得+[1]的加值。</content>
+	<content contentuid="h93896a3cga6d3g4c01gbd57g97b04c6b2c21" version="1">心胜于物</content>
+	<content contentuid="h93896a3cga6d3g4c01gbd57g97b04c6b2c22" version="1">心胜于物</content>
+	<content contentuid="h05c0bb39ga548g4e13g8dc7g58ad521a4800" version="1">西斯之子</content>
+	<content contentuid="h05c0bb39ga548g4e13g8dc7g58ad521a4801" version="1">你对家族的历史不太熟悉，因为他们很早就离开了你，但你记得祖先的信条：“和平是谎言，唯有激情。通过激情，我获得力量。通过力量，我获得权力。通过权力，我获得胜利。通过胜利，我的枷锁被打破。原力将解放我。”这些话，你知道，你永远不会忘记；你只处理至上真神的绝对真理。</content>
+	<content contentuid="h05c0bb39ga548g4e13g8dc7g58ad521a4802" version="1">西斯之子</content>
+	<content contentuid="h05c0bb39ga548g4e13g8dc7g58ad521a4803" version="1">你的武器攻击额外造成[4]。&lt;br&gt;&lt;br&gt;每当你取得一次&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;，额外造成[1]。&lt;br&gt;&lt;br&gt;你的徒手攻击额外造成[2]。&lt;br&gt;&lt;br&gt;当你的生命值降至一半或更低时，你的非&lt;LSTag Tooltip="Cantrip"&gt;戏法&lt;/LSTag&gt;法术额外造成[2]。&lt;br&gt;&lt;br&gt;在主动性检定中获得+[5]的加值，并且在感知&lt;LSTag Tooltip="AbilityCheck"&gt;能力检定&lt;/LSTag&gt;中拥有优势。&lt;br&gt;&lt;br&gt;当你作为&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;进行一次&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;时，你以优势进行。&lt;br&gt;&lt;br&gt;你不能被缴械。</content>
+	<content contentuid="h05c0bb39ga548g4e13g8dc7g58ad521a4804" version="1">西斯之子</content>
+	<content contentuid="h05c0bb39ga548g4e13g8dc7g58ad521a4805" version="1">每当你取得一次&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;，额外造成[1]。</content>
+	<content contentuid="h05c0bb39ga548g4e13g8dc7g58ad521a4806" version="1">西斯之子</content>
+	<content contentuid="h05c0bb39ga548g4e13g8dc7g58ad521a4807" version="1">你的徒手攻击额外造成[1]。</content>
+	<content contentuid="h05c0bb39ga548g4e13g8dc7g58ad521a4808" version="1">西斯之子</content>
+	<content contentuid="h05c0bb39ga548g4e13g8dc7g58ad521a4809" version="1">当你的生命值降至一半或更低时，你的非&lt;LSTag Tooltip="Cantrip"&gt;戏法&lt;/LSTag&gt;法术额外造成[1]。</content>
+	<content contentuid="h05c0bb39ga548g4e13g8dc7g58ad521a4810" version="1">西斯之子斥责</content>
+	<content contentuid="h05c0bb39ga548g4e13g8dc7g58ad521a4811" version="1">当一个敌人用近战攻击击中你时，你可以使用你的反应，对其造成[1]，并将其击倒&lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒地&lt;/LSTag&gt;，除非他们成功通过一次敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;。</content>
+	<content contentuid="h05c0bb39ga548g4e13g8dc7g58ad521a4812" version="1">原力斥责</content>
+	<content contentuid="h05c0bb39ga548g4e13g8dc7g58ad521a4813" version="1">当一个生物伤害你时，对其造成[1]，并可能将其击倒&lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒地&lt;/LSTag&gt;。</content>
+	<content contentuid="h190cbbdbga147g41a5gb9dcg511194a1e75b" version="1"></content>
+	<content contentuid="h4592d9bag9d33g4f6ag8227gf9a014756b3b" version="1">无需消耗&lt;LSTag Tooltip="SpellSlot"&gt;法术位&lt;/LSTag&gt;，将一个生物或物体投掷到最多[1]的距离。</content>
+	<content contentuid="h05c0bb39ga548g4e13g8dc7g58ad521a4816" version="1">原力注入</content>
+	<content contentuid="h05c0bb39ga548g4e13g8dc7g58ad521a489a" version="1">原力注入</content>
+	<content contentuid="h05c0bb39ga548g4e13g8dc7g58ad521a4817" version="1">你的远程武器攻击额外造成[1]。</content>
+	<content contentuid="h2539a1c8g6bafg4154g829dgaca4328cd688" version="1">你的远程武器攻击额外造成[1]。</content>
+	<content contentuid="h18326845g60e9g4602gbec6gac8281046147" version="1">使用原力将一个生物或物体投掷。在你的每个回合中，当你在&lt;LSTag Tooltip="Concentration"&gt;专注&lt;/LSTag&gt;状态下，你可以再次使用心灵感应，而无需消耗法术位。</content>
+	<content contentuid="h332b9dc6g4952g4b7agaeb4g8908ee339588" version="1">原力推击</content>
+	<content contentuid="ha7e96738gf8dcg4912gad24gc578c80767a2" version="1">在你的每个回合中，受影响的实体可以再次使用原力移动一个生物或物体，而无需消耗法术位。</content>
+	<content contentuid="hd11e7e42g0649g4264ga5c9gb48ceb51cbae" version="1">你的武器攻击额外造成[1]。</content>
+	<content contentuid="h05c0bb39ga548g4e13g8dc7g58ad521a4816" version="1">原力注入</content>
+	<content contentuid="h693dda09gf43bg480cgb33bg9af351f5aada" version="1">在主动性检定中获得+[5]的加值，并且在感知&lt;LSTag Tooltip="AbilityCheck"&gt;能力检定&lt;/LSTag&gt;中拥有优势。</content>
+	<content contentuid="ha6c83893g25feg4cfagaafdgdcf03b80030b" version="1">当你作为&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;进行一次&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;时，你以优势进行。</content>
+	<content contentuid="h8fae86e1gcebbg4f71gb941g2a73745b4d0f" version="1">西斯之子</content>
+	<content contentuid="h43df371eg8454g496bg8d57gebf1c9fe4c27" version="1">西斯反射</content>
+	<content contentuid="h1afe6995gd5bag43cega588ga6cdb5a4903b" version="1">至上真神之力</content>
+	<content contentuid="h0be8880bg6c33g4fc9ga3efge7264e779ebe" version="1">原力能量伴随着你的挥击，可能将目标推开[1]。</content>
+	<content contentuid="hac580f42g63aeg45begad80g11b47c822147" version="1">你不能被缴械。</content>
+	<content contentuid="hdc2b2733g3e31g4231gbcecg97dedd186c7c" version="1">西斯之子</content>
+	<content contentuid="he764384egf074g41f2ga29agffa9896c7a06" version="1">西斯之子</content>
+	<content contentuid="hadc1fb52g95d8g4f78g8329g7d62b01445b7" version="1">原力突袭</content>
+	<content contentuid="h02811f95g64ddg4750g9a8ag6408c1166813" version="1">引导你的原力能量，并对一条线上的所有生物进行攻击。</content>
+	<content contentuid="h67b56052gc8f3g408ag9a45ga62ee5d47ff3" version="1">风暴低语</content>
+	<content contentuid="h67b56052gc8f3g408ag9a45ga62ee5d47ff4" version="1">你的轻声细语，天空为你代言。你与天空有着契约，你是它的使者，它是你的声音。咆哮或低语，对你而言，它们并无二致。</content>
+	<content contentuid="hc9d34fb8g6127g4ba8g85c4ged929effeb5d" version="1">风暴低语</content>
+	<content contentuid="hc9d34fb8g6127g4ba8g85c4ged929effeb51" version="1">当你造成伤害时，额外造成[7]。&lt;br&gt;&lt;br&gt;当你造成[1]、[2]、[3]或远程法术攻击伤害时，对目标施加[4]回合的&lt;LSTag Type="Status" Tooltip="MAG_THUNDER_REVERBERATION"&gt;残响&lt;/LSTag&gt;状态。&lt;br&gt;&lt;br&gt;当你对一个敌对生物施加状态时，也对其施加[4]回合的残响状态。&lt;br&gt;&lt;br&gt;当你对一个处于残响状态的生物造成雷鸣伤害时，它将变得&lt;LSTag Type="Status" Tooltip="DAZED"&gt;眩晕&lt;/LSTag&gt;，除非它成功通过一次体质豁免检定。&lt;br&gt;&lt;br&gt;当一个处于残响状态的生物对你造成伤害时，该生物需要进行一次体质豁免检定，否则将变得眩晕。</content>
+	<content contentuid="h7b3a2799g4b22g44edga9f0gb1d2a23acd47" version="3">风暴低语</content>
+	<content contentuid="h7b3a2799g4b22g44edga9f0gb1d2a23acd48" version="5">当你造成[1]、[2]或[3]时，对目标施加[4]回合的&lt;LSTag Type="Status" Tooltip="MAG_THUNDER_REVERBERATION"&gt;残响&lt;/LSTag&gt;状态。</content>
+	<content contentuid="hbb4508e9g38eag4243g91afg2e2686183963" version="2">风暴低语</content>
+	<content contentuid="hbb4508e9g38eag4243g91afg2e2686183964" version="7">当你对一个处于残响状态的生物造成雷鸣伤害时，它将变得眩晕，除非它成功通过一次体质豁免检定。</content>
+	<content contentuid="hb67c2d05g4e58g4eeegafd8gd724384b41e7" version="2">风暴低语</content>
+	<content contentuid="hb67c2d05g4e58g4eeegafd8gd724384b41e8" version="4">当你对一个敌对生物施加状态时，也对其施加[1]回合的&lt;LSTag Type="Status" Tooltip="MAG_THUNDER_REVERBERATION"&gt;残响&lt;/LSTag&gt;状态。</content>
+	<content contentuid="hfa178bd9gc431g48c5gabdfgab9c07e7d365" version="2">风暴低语</content>
+	<content contentuid="hfa178bd9gc431g48c5gabdfgab9c07e7d366" version="5">当一个处于残响状态的生物对你造成伤害时，该生物需要进行一次体质豁免检定，否则将变得眩晕。</content>
+	<content contentuid="h349e546dgedddg472cga825g93b261561cfd" version="2">风暴低语</content>
+	<content contentuid="h349e546dgedddg472cga825g93b261561cf1" version="4">当你使用远程法术攻击造成伤害时，对目标施加[1]回合的&lt;LSTag Type="Status" Tooltip="MAG_THUNDER_REVERBERATION"&gt;残响&lt;/LSTag&gt;状态。</content>
+</contentList>
