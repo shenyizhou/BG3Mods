@@ -6,7 +6,7 @@
             <children>
                 <!-- 医药 -->
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Passive_KFC_HuangDiNeiJing"/>
+                    <attribute id="Passives" type="LSString" value="Passive_KFC_HuangDiNeiJing,Passive_KFC_ShenZhaoJing"/>
                     <attribute id="UUID" type="guid" value="dca4dcd7-e577-49ba-851e-600c1fbae470"/>
                 </node>
                 <!-- 硬功 -->
@@ -26,7 +26,7 @@
                 </node>
                 <!-- 内功 -->
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Passive_KFC_YiJinJing,Passive_KFC_XiSuiJing,Passive_KFC_TianCanGong,Passive_KFC_BuSiYinFa,Passive_KFC_ShenZhaoJing,Passive_KFC_TaiXuanJing"/>
+                    <attribute id="Passives" type="LSString" value="Passive_KFC_YiJinJing,Passive_KFC_XiSuiJing,Passive_KFC_TianCanGong,Passive_KFC_BuSiYinFa,Passive_KFC_TaiXuanJing"/>
                     <attribute id="UUID" type="guid" value="01bef723-3a92-4640-811d-4c57df429712"/>
                 </node>
                 <!-- 外功 -->

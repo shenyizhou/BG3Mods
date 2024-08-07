@@ -31,7 +31,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Cleric KungFu Domain Level 11 Spells"/>
-                    <attribute id="Spells" type="LSString" value="Projectile_ChainLightning;Target_IrresistibleDance"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_SuperNova_Dragon_Skeletal;Projectile_ChainLightning"/>
                     <attribute id="UUID" type="guid" value="a0f375e0-8e6d-4b41-bccd-791414d9675b"/>
                 </node>
             </children>
