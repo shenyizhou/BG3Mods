@@ -1,0 +1,13 @@
+new entry "Bugbear_Barbarian"
+type "Character"
+using "Bugbear"
+data "Passives" "Brute_Bugbear;AttackOfOpportunity;Darkvision;DarknessRules"
+data "DifficultyStatuses" "STATUS_EASY: HEALTHREDUCTION_EASYMODE; STATUS_EASY: DISABLE_CRITICALHITS; STATUS_MEDIUM: DISABLE_CRITICALHITS; STATUS_HARD: HEALTHBOOST_HARDCORE; STATUS_MEDIUM: ENABLE_AOO; STATUS_HARD: ENABLE_AOO"
+data "Progressions" "56db8107-e04c-4fe3-94f3-fd4acd44cd4a"
+
+new entry "Ogre_Barbarian"
+type "Character"
+using "Ogre"
+data "Strength" "20"
+data "Passives" "OgreCurse;Darkvision;DarknessRules;MOD_Buff_Level4_Ogre;Resilient_Strength;Unlock_Jump;Proficiency_Greatclub"
+data "Progressions" "56db8107-e04c-4fe3-94f3-fd4acd44cd4a"

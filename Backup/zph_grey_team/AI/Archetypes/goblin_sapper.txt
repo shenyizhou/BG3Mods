@@ -1,0 +1,44 @@
+USING goblin_melee
+
+// Bomber really loves killing and damaging others 
+MULTIPLIER_KILL_ENEMY 								6.00
+MULTIPLIER_DAMAGE_ENEMY_POS							3.0
+
+// Bomber doesn't care about flanking
+MULTIPLIER_ENDPOS_FLANKED							0.00
+
+// Bomber doesn't care if an enemy is already being targeted, and cares less if it's so by > 2 enemies
+MULTIPLIER_TARGET_HOSTILE_COUNT_ONE					1.00
+MULTIPLIER_TARGET_HOSTILE_COUNT_TWO_OR_MORE			1.00
+
+// A general multiplier for all reflected damage
+MULTIPLIER_REFLECT_DAMAGE							0.0
+
+//Boost multiplier for the targeted item
+MULTIPLIER_DESTROY_INTERESTING_ITEM					18.00
+
+//Dont care about dangerous surfaces
+MULTIPLIER_MOVEMENT_SURFACE							0.00
+MULTIPLIER_ENDPOS_NOT_IN_DANGEROUS_SURFACE			0.00
+
+MULTIPLIER_RESISTANCE_STUPIDITY					0.05
+MULTIPLIER_IMMUNITY_STUPIDITY					0.05
+MODIFIER_HIT_CHANCE_STUPIDITY 						0.05
+
+//Does not pick up weapons
+WEAPON_PICKUP_MODIFIER 								0.0
+
+//Does not reason about breaking concentration on targets
+MODIFIER_CONCENTRATION_REMOVE_TARGET 				0.0
+
+//Reduced bias to use chasms
+INSTAKILL_BASE_SCORE								1.0
+
+// Multiplier for how much the Shield Block has influence over the entire AI calculation
+// Normal ranges are between 0 and 1 inclusive:
+// - 0 being the AI doesn't care if a character has shield block
+// - 1 being the AI cares a normalised amount about a character with shield block
+MULTIPLIER_SHIELD_BLOCK							0.6
+
+// 0.0 here means AI will not avoid AoO
+ENABLE_MOVEMENT_AVOID_AOO						1.40

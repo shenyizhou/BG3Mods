@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="8" build="602" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="6bca09a1-c649-4483-a10a-45b82af87d69" />
+					<attribute id="Name" type="LSString" value="WorgCompanion_Summon" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="d011a942-cb4c-4e25-b829-31c460631525" />
+					<attribute id="DevComment" type="LSString" value="|For NPC summon use only|" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hd02ee347g4500g4c7bgbd8dg1525d446e4df" version="1" />
+					<attribute id="Icon" type="FixedString" value="69823d16-f010-0b04-1587-8bf91db1d988-EQP_Unarmed_(Icon_Worg_Male)" />
+					<attribute id="Stats" type="FixedString" value="Companion_Worg" />
+					<attribute id="Equipment" type="FixedString" value="EQP_Unarmed" />
+					<attribute id="CanClimbLadders" type="bool" value="False" />
+					<attribute id="DeathEffect" type="guid" value="f56585cd-1df0-47c2-95a2-74ba2fd46662" />
+					<attribute id="LightID" type="FixedString" value="4a2b554e-69c1-4137-b6a8-f8065bf2b5cc" />
+					<attribute id="VocalAttackResourceID" type="FixedString" value="4c25f6d0-c0d2-04d3-9941-732cf9affb0b" />
+					<attribute id="VocalDeathResourceID" type="FixedString" value="ceef0e27-118a-e7fd-8e8b-666cc213259f" />
+					<attribute id="VocalDodgeResourceID" type="FixedString" value="1eb9d70d-02d6-3184-5132-198abd6861c9" />
+					<attribute id="VocalPainResourceID" type="FixedString" value="b4f83a54-ad89-d8fb-b7e2-942ce1c43184" />
+					<attribute id="VocalAnticipationResourceID" type="FixedString" value="0906dafe-b178-b305-b9f1-6457045ea051" />
+					<attribute id="VocalAlertResourceID" type="FixedString" value="17e1b59a-40e6-e4cf-cb53-6fa649499e17" />
+					<attribute id="VocalAngryResourceID" type="FixedString" value="3d2d8eb4-5f54-b96c-2ddd-e5c36ba19a24" />
+					<attribute id="VocalAwakeResourceID" type="FixedString" value="c4e54868-bc44-5ff8-0f81-048e288715e4" />
+					<attribute id="VocalBoredResourceID" type="FixedString" value="6a887a2f-8546-0dba-f75d-9ff688182b4a" />
+					<attribute id="VocalExhaustedResourceID" type="FixedString" value="3d2d8eb4-5f54-b96c-2ddd-e5c36ba19a24" />
+					<attribute id="VocalWeakResourceID" type="FixedString" value="59104d59-b6d5-70b9-a9c0-505aa7b562c3" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="69823d16-f010-0b04-1587-8bf91db1d988" />
+					<attribute id="DisableEquipping" type="bool" value="True" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Worg_Male" />
+					<attribute id="Archetype" type="FixedString" value="beast" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="0" />
+									<attribute id="Shape" type="uint8" value="2" />
+									<attribute id="Min" type="fvec3" value="-0.449835 -0.004476786 -1.265159" />
+									<attribute id="Max" type="fvec3" value="0.4498328 1.694443 1.001391" />
+									<attribute id="Radius" type="float" value="0.4" />
+									<attribute id="Height" type="float" value="1.5" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="1" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.4339191 0.03863251 -1.750873" />
+									<attribute id="Max" type="fvec3" value="0.433916 2.052119 0.8853974" />
+									<attribute id="Radius" type="float" value="1.586585" />
+									<attribute id="Height" type="float" value="2.378487" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="2" />
+									<attribute id="Shape" type="uint8" value="2" />
+									<attribute id="Min" type="fvec3" value="-0.449835 -0.004476786 -1.265159" />
+									<attribute id="Max" type="fvec3" value="0.4498328 1.694443 1.001391" />
+									<attribute id="Radius" type="float" value="0.8" />
+									<attribute id="Height" type="float" value="1.5" />
+								</node>
+							</children>
+						</node>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+							</children>
+						</node>
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_Bite_Wolf_Den_Worg" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="CasualExplorer" type="bool" value="True" />
+									<attribute id="Classic" type="bool" value="True" />
+									<attribute id="TacticianHardcore" type="bool" value="True" />
+									<attribute id="HonorHardcore" type="bool" value="True" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Treasures">
+							<children>
+								<node id="TreasureItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="TradeTreasures">
+							<children>
+								<node id="TreasureItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams">
+							<attribute id="MovementSpeedSprint" type="float" value="8" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

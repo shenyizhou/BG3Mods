@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="322" lslib_meta="v1,bswap_guids" />
+	<region id="root">
+		<node id="root">
+			<children>
+				<node id="Feat">
+					<attribute id="Name" type="FixedString" value="DualWielder" />
+					<attribute id="PassivesAdded" type="LSString" value="DualWielder_BonusAC;DualWielder_PassiveBonuses;DualWielder_Focus_Attack" />
+					<attribute id="UUID" type="guid" value="f692f7b5-ffd5-4942-a191-1ea72fbb7c5e" />
+				</node>
+				<node id="Feat">
+					<attribute id="Name" type="FixedString" value="TavernBrawler" />
+					<attribute id="PassivesAdded" type="LSString" value="TavernBrawler;TavernBrawler_BonusThrow" />
+					<attribute id="Selectors" type="LSString" value="SelectAbilities(859878b3-9c3a-450d-a190-bc90707c9671,1,1,LightlyArmoredASI)" />
+					<attribute id="UUID" type="guid" value="be0889d2-f9aa-472d-42b9-2b590ffff31e" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

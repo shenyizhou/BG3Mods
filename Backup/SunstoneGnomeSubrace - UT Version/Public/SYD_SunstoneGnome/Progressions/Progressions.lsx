@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="Progressions">
+    <node id="root">
+      <children>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="1" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="SunstoneGnome" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="ProficiencyBonus(Skill,Insight)" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="Passive_SilverFumes;Passive_SilverBlooded" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="AddSpells(621d4612-52a6-4df6-a420-f23415d2e0bc)" />
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="35267cc8-a1e5-4343-8af1-ebb19801b2c3" /> Always use this one for races.lsx, says this progression node is for Main Race
+                  <attribute id="UUID" type="guid" value="3d7c0866-0357-43e1-ace0-b9c7f8bd90be" />  this one must be unique
+          </node>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="3" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="SunstoneGnome_03" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="AddSpells(2bd5832e-168e-41e1-9450-9dc0a8b14786)" />
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="35267cc8-a1e5-4343-8af1-ebb19801b2c3" /> Always use this one for races.lsx, says this progression node is for Main Race
+                  <attribute id="UUID" type="guid" value="6119699b-9f39-4afc-8710-e92f6be57094" />  this one must be unique
+          </node>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="5" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="SunstoneGnome_05" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="AddSpells(5071f2b7-b44d-46d4-9049-4f888cfc6e07)" />
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="35267cc8-a1e5-4343-8af1-ebb19801b2c3" /> Always use this one for races.lsx, says this progression node is for Main Race
+                  <attribute id="UUID" type="guid" value="f921e8d7-d089-4dd6-ae22-bab6fbaa61ab" />  this one must be unique
+          </node>
+      </children>
+    </node>
+  </region>
+</save>

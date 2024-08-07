@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList">
+                    <attribute id="Spells" type="LSString" value="Target_SilverMist" /> the spells within the selector
+                    <attribute id="UUID" type="guid" value="621d4612-52a6-4df6-a420-f23415d2e0bc" /> the UUID, needs to be unique
+                </node>
+        <node id="SpellList"> 
+                    <attribute id="Spells" type="LSString" value="Shout_VolcanicGlassShield" /> the spells within the selector
+                    <attribute id="UUID" type="guid" value="2bd5832e-168e-41e1-9450-9dc0a8b14786" /> the UUID, needs to be unique
+                </node>
+        <node id="SpellList">
+                    <attribute id="Spells" type="LSString" value="Target_FleshToSilver" /> the spells within the selector
+                    <attribute id="UUID" type="guid" value="5071f2b7-b44d-46d4-9049-4f888cfc6e07" /> the UUID, needs to be unique
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

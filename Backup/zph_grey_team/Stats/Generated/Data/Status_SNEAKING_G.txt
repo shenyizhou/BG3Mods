@@ -1,0 +1,6 @@
+new entry "SNEAKING_NPC"
+type "StatusData"
+data "StatusType" "SNEAKING"
+using "SNEAKING"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "RemoveConditions" "HasStatus('DASH')"

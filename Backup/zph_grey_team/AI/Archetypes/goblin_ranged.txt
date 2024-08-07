@@ -1,0 +1,63 @@
+USING ranged
+
+//Goblins get disengage as a BA
+MULTIPLIER_BOOST_IGNORE_AOO 					0.08
+
+
+MULTIPLIER_TARGET_SUMMON						0.90
++ MODIFIER_HIT_CHANCE_STUPIDITY 				0.05
+
+// Combos are taking into account when positioning as well
+MULTIPLIER_COMBO_SCORE_INTERACTION				0.90
+MULTIPLIER_COMBO_SCORE_POSITIONING				0.50
+
+// More agressive on CC enemies
+MULTIPLIER_CONTROL_ENEMY_POS					1.5
+MULTIPLIER_CONTROL_ENEMY_NEG					1.5
+
+ENABLE_ACTIVE_DEFENSE_OFFENSIVE_USE				1
+
+// Less interested in attacking a character that could block
+MULTIPLIER_SHIELD_BLOCK							1.5
+
+// Less prone to disregard targets that are already attacked by 1 or more characters
+MULTIPLIER_TARGET_HOSTILE_COUNT_ONE				0.90
+MULTIPLIER_TARGET_HOSTILE_COUNT_TWO_OR_MORE		0.60
+
+// More interested in dealing the killing blow
+MULTIPLIER_KILL_ENEMY							1.50
+
+// A general multiplier for all reflected damage
+MULTIPLIER_REFLECT_DAMAGE						0.25
+
+//Higher Hit/Miss reasoning, will target low AC targets much more frequently
+MULTIPLIER_RESISTANCE_STUPIDITY					0.05
+MULTIPLIER_IMMUNITY_STUPIDITY					0.05
+
+//AI will reason about relative player power when using control spells
+MODIFIER_CONTROL_STUPIDITY						0.75
+
+//Slightly more likely to attack downed targets
+MULTIPLIER_TARGET_ENEMY_DOWNED					0.3
+
+//More biased to use fall damage against targets (shoving from high places, etc)
+MULTIPLIER_FALL_DAMAGE_ENEMY					0.50
+
+//Less likely to attack summons instead of players
+MULTIPLIER_TARGET_SUMMON						0.40
+
+//Has some bias towards attacking concentrating targets
+MODIFIER_CONCENTRATION_REMOVE_TARGET 			0.1
+
+//More biased to use instakills (chasms etc)
+INSTAKILL_BASE_SCORE							2.0
+
+// Multiplier for how much the Shield Block has influence over the entire AI calculation
+// Normal ranges are between 0 and 1 inclusive:
+// - 0 being the AI doesn't care if a character has shield block
+// - 1 being the AI cares a normalised amount about a character with shield block
+MULTIPLIER_SHIELD_BLOCK							0.6
+
+// 0.0 here means AI will not avoid AoO
+ENABLE_MOVEMENT_AVOID_AOO						1.30
+

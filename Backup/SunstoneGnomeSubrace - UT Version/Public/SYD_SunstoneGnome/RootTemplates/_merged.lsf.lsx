@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="AiPathColor" type="fvec3" value="0 1 1" />
+					<attribute id="CameraOffset" type="fvec3" value="0 0 0" />
+					<attribute id="DecalMaterial" type="FixedString" value="d7a057a6-c0c4-373c-5a61-13aa6e87defb" />
+					<attribute id="Description" type="TranslatedString" handle="h8db8ad47gdfe8g4d24g9d10ge99eb82a5d26" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h35be1c49gba9ag4458gb8cfg208fa23e4e40" version="1" />
+					<attribute id="FadeOutSpeed" type="float" value="5" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="GroupID" type="uint32" value="0" />
+					<attribute id="HasGameplayValue" type="bool" value="False" />
+					<attribute id="Icon" type="FixedString" value="Surface_BloodSilver" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="b6fb2261-27b0-4587-b986-6193e83a7c37" />
+					<attribute id="MaterialType" type="uint8" value="16" />
+					<attribute id="Name" type="LSString" value="SurfaceBloodSilver" />
+					<attribute id="NormalBlendingFactor" type="float" value="0.1" />
+					<attribute id="ParentTemplateId" type="FixedString" value="" />
+					<attribute id="PhysicsOpenTemplate" type="FixedString" value="" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="" />
+					<attribute id="Summon" type="FixedString" value="8921ef15-d694-49c2-9721-95ddf0c6652e" />
+					<attribute id="SurfaceCategory" type="uint8" value="5" />
+					<attribute id="SurfaceGrowTimer" type="float" value="0" />
+					<attribute id="Type" type="FixedString" value="surface" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209020" />
+					<children>
+						<node id="FX" />
+						<node id="InstanceVisual" />
+						<node id="IntroFX" />
+						<node id="StatusData" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hfa9a9f62g8447g41a6g9352g44924ca214cc" version="2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h6ca731bfgacf4g4b2fgb40dg893cea44bce7" version="2" />
+					<attribute id="Icon" type="FixedString" value="Spell_SilverFumes" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="433b869b-2655-4d2e-afff-ff25fcb2ccf9" />
+					<attribute id="Name" type="LSString" value="SurfaceFogCloud" />
+					<attribute id="ParentTemplateId" type="FixedString" value="c3e18f79-7f9a-40a8-abb7-89529302de3f" />
+					<attribute id="Type" type="FixedString" value="surface" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="FX" />
+						<node id="InstanceVisual">
+							<children>
+								<node id="InstanceVisual">
+									<attribute id="GridSize" type="float" value="2" />
+									<attribute id="Height" type="fvec2" value="0.1 0.3" />
+									<attribute id="RandomPlacement" type="float" value="10" />
+									<attribute id="Rotation" type="ivec2" value="0 0" />
+									<attribute id="Scale" type="fvec2" value="2 2.5" />
+									<attribute id="SpawnCell" type="int32" value="75" />
+									<attribute id="SurfaceNeeded" type="float" value="0" />
+									<attribute id="SurfaceRadiusMax" type="float" value="0" />
+									<attribute id="Visual" type="FixedString" value="714d71c4-7228-28b9-a8f1-8c50c19ee03f" />
+								</node>
+								<node id="InstanceVisual">
+									<attribute id="GridSize" type="float" value="2" />
+									<attribute id="Height" type="fvec2" value="0.2 0.5" />
+									<attribute id="RandomPlacement" type="float" value="10" />
+									<attribute id="Rotation" type="ivec2" value="0 0" />
+									<attribute id="Scale" type="fvec2" value="0.7 1.7" />
+									<attribute id="SpawnCell" type="int32" value="75" />
+									<attribute id="SurfaceNeeded" type="float" value="0" />
+									<attribute id="SurfaceRadiusMax" type="float" value="0" />
+									<attribute id="Visual" type="FixedString" value="e15cfef3-0dfb-4ce6-cc26-bef92944d599" />
+								</node>
+							</children>
+						</node>
+						<node id="IntroFX" />
+						<node id="StatusData">
+							<children>
+								<node id="StatusData">
+									<attribute id="AffectedByRoll" type="bool" value="False" />
+									<attribute id="ApplyToCharacters" type="bool" value="True" />
+									<attribute id="ApplyToItems" type="bool" value="False" />
+									<attribute id="ApplyTypes" type="uint8" value="7" />
+									<attribute id="Chance" type="float" value="1" />
+									<attribute id="DontTickWhileOnSurface" type="bool" value="False" />
+									<attribute id="Duration" type="float" value="10" />
+									<attribute id="Force" type="bool" value="False" />
+									<attribute id="KeepAlive" type="bool" value="False" />
+									<attribute id="OnlyOncePerTurn" type="bool" value="False" />
+									<attribute id="Remove" type="bool" value="False" />
+									<attribute id="StatusId" type="FixedString" value="INTOXICATED" />
+									<attribute id="VanishOnApply" type="bool" value="False" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBloodSilver" />
+					<attribute id="BloodType" type="FixedString" value="Silver" />
+					<attribute id="MapKey" type="FixedString" value="4dfa237b-1812-4432-aeaa-39f7739de96e" />
+					<attribute id="Name" type="LSString" value="Gnomes_Female_Sunstone_Player" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="72bef2f4-5a7d-47c5-87a5-31adc8aba1b9" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="2a1aaf1e-683f-9af2-c8d1-2354634bbc45-_(Icon_Gnomes_Female)" />
+					<attribute id="Stats" type="FixedString" value="HeroGnomeFemale" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="9ac466b8-ebf3-4504-ae82-ac8f94391803" />
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="80232477-0852-54ea-532a-f216bdf4be61" />
+					<attribute id="Race" type="guid" value="f1b3f884-4029-4f0f-b158-1f9fe0ae5a0d" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="OnDeathActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="10" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="ApplyDeathTypeBloodCheck" type="bool" value="True" />
+											<attribute id="CellAtGrow" type="int32" value="2" />
+											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="ExternalCauseAsSurfaceOwner" type="bool" value="True" />
+											<attribute id="GrowTimer" type="float" value="0.4" />
+											<attribute id="LifeTime" type="float" value="-1" />
+											<attribute id="SurfaceType" type="FixedString" value="SurfaceBloodSilver" />
+											<attribute id="Timeout" type="float" value="0" />
+											<attribute id="TotalCells" type="int32" value="10" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="f109c34e-8f1b-409b-8386-144b8d54bf3a" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="9d0fd44c-2495-44db-a184-4ca824832f3e" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="69ff0d22-f698-4b2f-85bb-46227a8ce95f" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBloodSilver" />
+					<attribute id="BloodType" type="FixedString" value="Silver" />
+					<attribute id="MapKey" type="FixedString" value="47b22ebd-ea7a-4a63-a034-281e2ac2b869" />
+					<attribute id="Name" type="LSString" value="Gnomes_Male_Sunstone_Player" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="6edcf809-8039-4b1e-8d4a-2bc76a672967" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="6bec6b31-b86b-2c6b-68e1-fea2a943fec5-_(Icon_Gnomes_Male)" />
+					<attribute id="Stats" type="FixedString" value="HeroGnomeMale" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="deceaf58-6c46-4303-9783-f0bd328d112a" />
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="2190c1fe-8bf0-cf21-24f7-482defce3814" />
+					<attribute id="Race" type="guid" value="f1b3f884-4029-4f0f-b158-1f9fe0ae5a0d" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="OnDeathActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="10" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="ApplyDeathTypeBloodCheck" type="bool" value="True" />
+											<attribute id="CellAtGrow" type="int32" value="2" />
+											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="ExternalCauseAsSurfaceOwner" type="bool" value="True" />
+											<attribute id="GrowTimer" type="float" value="0.4" />
+											<attribute id="LifeTime" type="float" value="-1" />
+											<attribute id="SurfaceType" type="FixedString" value="SurfaceBloodSilver" />
+											<attribute id="Timeout" type="float" value="0" />
+											<attribute id="TotalCells" type="int32" value="10" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="f109c34e-8f1b-409b-8386-144b8d54bf3a" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="9d0fd44c-2495-44db-a184-4ca824832f3e" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="9d0fd44c-2495-44db-a184-4ca824832f3e" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

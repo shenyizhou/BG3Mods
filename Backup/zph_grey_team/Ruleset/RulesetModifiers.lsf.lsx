@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="319" lslib_meta="v1,bswap_guids" />
+	<region id="root">
+		<node id="root">
+			<children>
+				<node id="RulesetModifier">
+					<attribute id="Default" type="LSString" value="true" />
+					<attribute id="Name" type="LSString" value="HARD_MODE" />
+					<attribute id="RulesetModifierType" type="uint8" value="4" />
+					<attribute id="UUID" type="guid" value="0bf382a5-e32a-4310-7c80-e86de49db271" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

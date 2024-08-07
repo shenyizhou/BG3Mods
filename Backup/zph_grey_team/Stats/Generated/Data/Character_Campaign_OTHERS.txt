@@ -1,0 +1,13 @@
+new entry "Companion_Worg"
+type "Character"
+using "Worg"
+data "XPReward" ""
+data "Passives" "Darkvision;DarknessRules;Worg_Sensitive;Unlock_Jump;AttackOfOpportunity"
+
+new entry "Harpy_Leader"
+type "Character"
+using "Harpy"
+data "Charisma" "18"
+data "Armor" "12"
+data "Vitality" "32"
+data "Passives" "Multiattack_Harpy;AttackOfOpportunity;DarknessRules;Lightning_Blood_Harpy;Create_Warding_Wind_Aura_Harpy;Harpy_Sensitive;MOD_Buff_Level4_Harpy"

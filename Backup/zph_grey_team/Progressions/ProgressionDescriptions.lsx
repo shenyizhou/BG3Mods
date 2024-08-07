@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="322"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h5c30d245gda1fg4dabg9afaga2c9aacc4dca" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h4202f15cg3761g4bd5gb401g2d0466ff6f0e" version="1" />
+					<attribute id="SelectorId" type="FixedString" value="RogueTactics" />
+					<attribute id="UUID" type="guid" value="2c7510ee-2a00-41e1-b62c-7c9689adb059" />
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

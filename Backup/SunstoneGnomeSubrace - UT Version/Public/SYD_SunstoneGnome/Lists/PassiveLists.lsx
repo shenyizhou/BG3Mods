@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="PassiveLists">
+    <node id="root">
+      <children>
+        <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="Passive_SilverFumes;Passive_SilverBlooded" />
+                    <attribute id="UUID" type="guid" value="403b9c04-4985-4dfe-9c46-d4f9a2f8a46d" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

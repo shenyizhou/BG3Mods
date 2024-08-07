@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="330"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Illusion Wizard 4"/>
+                    <attribute id="Spells" type="LSString" value="Target_ImprovedPhantasmalForce"/>
+                    <attribute id="UUID" type="guid" value="51eed0bb-3652-445c-89f0-008467f35ea6"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Illusion Wizard 8"/>
+                    <attribute id="Spells" type="LSString" value="Target_Silence_Illusion"/>
+                    <attribute id="UUID" type="guid" value="cb1bf2b6-d9e3-42b0-ba8e-964873dfc3d6"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Illusion Wizard 12"/>
+                    <attribute id="Spells" type="LSString" value="Shout_LongBlur"/>
+                    <attribute id="UUID" type="guid" value="95acd500-737a-49ec-ac15-380e92e9ff91"/>
+                </node>				
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Conjuration Wizard 2"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_ImprovedPoisonSpray"/>
+                    <attribute id="UUID" type="guid" value="13622b91-fb6d-4921-afb0-dc42da978511"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Conjuration Wizard 8"/>
+                    <attribute id="Spells" type="LSString" value="Target_MultiverseSummoning_Container"/>
+                    <attribute id="UUID" type="guid" value="45dbb3a3-7f23-4fc9-990e-22c5526720ab"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Transmutation Wizard 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_CreateWater_MinorConjuration"/>
+                    <attribute id="UUID" type="guid" value="7b169e5a-a645-49f0-8595-6e77e76507ff"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Transmutation Wizard 4"/>
+                    <attribute id="Spells" type="LSString" value="Target_Slow_Single"/>
+                    <attribute id="UUID" type="guid" value="fc3d3037-ffc8-43a7-a173-ef9ef91d0437"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Transmutation Wizard 6"/>
+                    <attribute id="Spells" type="LSString" value="Target_ImprovedControlFlames;Target_ImprovedGust;Target_ImprovedMoldEarth;Target_ImprovedShapeWater"/>
+                    <attribute id="UUID" type="guid" value="0fdeb1d6-5294-48ff-9a71-f71ee40ba903"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Transmutation Wizard 10"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Inorganic_Conversion"/>
+                    <attribute id="UUID" type="guid" value="10bd06ac-cdde-4c0e-98c8-0a7622177bc2"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Transmutation Wizard 12"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Reshape_Transmutation"/>
+                    <attribute id="UUID" type="guid" value="428cb6c8-1f01-4f3a-84c0-51e06620db32"/>
+                </node>
+				
+				
+				
+
+            </children>
+        </node>
+    </region>
+</save>

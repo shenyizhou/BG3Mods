@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="307"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="Rogue_Aiming,Rogue_Preparation,Rogue_NightWalk,Rogue_FastStep,Rogue_Graving,Rogue_LeapAttack" />
+					<attribute id="UUID" type="guid" value="843966e8-a5ff-4eda-a65d-3380a4e4084e" />
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

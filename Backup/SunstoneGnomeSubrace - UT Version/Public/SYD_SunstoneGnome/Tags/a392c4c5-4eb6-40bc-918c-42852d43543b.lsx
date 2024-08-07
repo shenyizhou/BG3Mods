@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="58" lslib_meta="v1,bswap_guids" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="|Sunstone Gnome|" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h2f768f9cgd2a1g47dbg9ffbg2f9cae24f83e" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h82d23e77gae6cg4c5cg8baagae67b1c7a24f" version="1" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="ReallySunstoneGnome" />
+			<attribute id="UUID" type="guid" value="a392c4c5-4eb6-40bc-918c-42852d43543b" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Race" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="PlayerRace" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

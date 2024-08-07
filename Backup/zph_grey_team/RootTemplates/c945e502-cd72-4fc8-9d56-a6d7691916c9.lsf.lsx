@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="319" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="c945e502-cd72-4fc8-9d56-a6d7691916c9" />
+					<attribute id="Name" type="LSString" value="CONS_Potion_Resistance_DONOTUSE" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="eef254dd-b983-4e59-bf49-5ed76a536220" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="VisualTemplate" type="FixedString" value="6746c67b-8dd3-c193-f402-cf12d2fc87a7" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="46401964-bf1c-e6c0-1580-feae2b2beac0" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hb0e97c49g9d8ag437dgbfc8g7a007c251ccb" version="2" />
+					<attribute id="Icon" type="FixedString" value="Item_CONS_Potion_Resistance_2" />
+					<attribute id="Stats" type="FixedString" value="OBJ_GenericPotionItem" />
+					<attribute id="TreasureOnDestroy" type="bool" value="True" />
+					<attribute id="OnUseDescription" type="TranslatedString" handle="h1ae449f4g89fcg4ed5gb97dg592de353762a" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h14ed55d5g17e3g4801gbd1ag0856c3c85238" version="2" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="hdbe17f5dgde63g402eg8242g323ce470fb42" version="3" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="1" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.1337897 0.000810504 -0.1337897" />
+									<attribute id="Max" type="fvec3" value="0.1337897 0.5024791 0.1337897" />
+									<attribute id="Radius" type="float" value="0.114147" />
+									<attribute id="Height" type="float" value="0.418184" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="2" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.1337897 0.000810504 -0.1337897" />
+									<attribute id="Max" type="fvec3" value="0.1337897 0.5024791 0.1337897" />
+									<attribute id="Radius" type="float" value="0.114147" />
+									<attribute id="Height" type="float" value="0.418184" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="0" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.1337897 0.000810504 -0.1337897" />
+									<attribute id="Max" type="fvec3" value="0.1337897 0.5024791 0.1337897" />
+									<attribute id="Radius" type="float" value="0.114147" />
+									<attribute id="Height" type="float" value="0.418184" />
+								</node>
+							</children>
+						</node>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="7" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="StatsId" type="FixedString" value="POTION_OF_RESISTANCE" />
+											<attribute id="StatusDuration" type="int32" value="10" />
+											<attribute id="Consume" type="bool" value="True" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

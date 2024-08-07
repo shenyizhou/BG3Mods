@@ -1,0 +1,83 @@
+USING melee
+
+SPELL_JUMP_MINIMUM_DISTANCE						6.50
+
+//Beasts don't care about weakened characters
+MULTIPLIER_KILL_ENEMY							1.50
+MULTIPLIER_KILL_ENEMY_SUMMON					1.00
+MULTIPLIER_KILL_ALLY							1.00
+MULTIPLIER_KILL_ALLY_SUMMON						1.00
+
+FALLBACK_ENEMIES_NEARBY_MIN_DISTANCE			3.50
+FALLBACK_ENEMIES_NEARBY_MAX_DISTANCE			7.00
+
+MULTIPLIER_ENDPOS_FLANKED						0.00
+
+//Beasts reason less about Aura effects
+MULTIPLIER_POS_IN_AURA 							0.05
+MODIFIER_OWN_AURA 								0.05
+
+//Does not pick up weapons
+WEAPON_PICKUP_MODIFIER 							0.0
+
+//Does not attack things like exploding barrels
+MULTIPLIER_USABLE_ITEM							0.0
+
+//Does not reason about removing control from allies
+MULTIPLIER_CONTROL_ALLY_POS		 				-1.0
+
+//Beasts reason less about dangerous surfaces
+MULTIPLIER_MOVEMENT_SURFACE						0.50
+MULTIPLIER_ENDPOS_NOT_IN_DANGEROUS_SURFACE		0.50
+
+// Combos are taking into account when positioning as well
+MULTIPLIER_COMBO_SCORE_INTERACTION				0.90
+MULTIPLIER_COMBO_SCORE_POSITIONING				0.50
+
+// More agressive on CC enemies
+MULTIPLIER_CONTROL_ENEMY_POS					1.5
+MULTIPLIER_CONTROL_ENEMY_NEG					1.5
+
+ENABLE_ACTIVE_DEFENSE_OFFENSIVE_USE				1
+
+// Less interested in attacking a character that could block
+MULTIPLIER_SHIELD_BLOCK							1.5
+
+// Less prone to disregard targets that are already attacked by 1 or more characters
+MULTIPLIER_TARGET_HOSTILE_COUNT_ONE				0.90
+MULTIPLIER_TARGET_HOSTILE_COUNT_TWO_OR_MORE		0.60
+
+// A general multiplier for all reflected damage
+MULTIPLIER_REFLECT_DAMAGE						0.25
+
+//Higher Hit/Miss reasoning, will target low AC targets much more frequently
+MODIFIER_HIT_CHANCE_STUPIDITY 					0.05
+MULTIPLIER_RESISTANCE_STUPIDITY					0.05
+MULTIPLIER_IMMUNITY_STUPIDITY					0.05
+
+//AI will reason about relative player power when using control spells
+MODIFIER_CONTROL_STUPIDITY						0.75
+
+//Slightly more likely to attack downed targets
+MULTIPLIER_TARGET_ENEMY_DOWNED					0.3
+
+//More biased to use fall damage against targets (shoving from high places, etc)
+MULTIPLIER_FALL_DAMAGE_ENEMY					0.50
+
+//Less likely to attack summons instead of players
+MULTIPLIER_TARGET_SUMMON						0.40
+
+//Has some bias towards attacking concentrating targets
+MODIFIER_CONCENTRATION_REMOVE_TARGET 			0.1
+
+//More biased to use instakills (chasms etc)
+INSTAKILL_BASE_SCORE							2.0
+
+// Multiplier for how much the Shield Block has influence over the entire AI calculation
+// Normal ranges are between 0 and 1 inclusive:
+// - 0 being the AI doesn't care if a character has shield block
+// - 1 being the AI cares a normalised amount about a character with shield block
+MULTIPLIER_SHIELD_BLOCK							0.6
+
+// 0.0 here means AI will not avoid AoO
+ENABLE_MOVEMENT_AVOID_AOO						1.50

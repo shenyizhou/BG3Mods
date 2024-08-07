@@ -1,0 +1,428 @@
+new entry "Unlock_SpeakWithAnimals_Race"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctors" "ApplyStatus(SELF,PETPAL,100,-1)"
+
+new entry "Unlock_FireBolt_Race"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "Boosts" "UnlockSpell(Projectile_FireBolt)"
+
+new entry "Unlock_Shout_SecondWind_Fighter"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "Boosts" "UnlockSpell(Shout_SecondWind)"
+
+new entry "Unlock_Target_SneakAttack_Rogue"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "Boosts" "UnlockSpell(Target_SneakAttack)"
+
+new entry "Unlock_Projectile_SneakAttack_Rogue"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "Boosts" "UnlockSpell(Projectile_SneakAttack)"
+
+new entry "Unlock_Hide_BonusAction_Rogue"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "Boosts" "UnlockSpell(Shout_Hide_BonusAction)"
+
+new entry "Unlock_Dash_CunningAction_Rogue"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "Boosts" "UnlockSpell(Shout_Dash_CunningAction)"
+
+new entry "Unlock_Disengage_CunningAction_Rogue"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "Boosts" "UnlockSpell(Shout_Disengage_CunningAction)"
+
+new entry "Unlock_ActionSurge_Fighter"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "Boosts" "UnlockSpell(Shout_ActionSurge)"
+
+
+
+
+
+
+new entry "Passive_Transmuters_Stone_Fire"
+type "PassiveData"
+data "DisplayName" "h85fad553ga20ag40bbga118gad00ba8c941d;2"
+data "Description" "h9e7c9f8bgfce9g4cd3ga7e7gde9f862ba0d3;2"
+data "Icon" "Action_TransmuterStone_Resistance"
+data "Properties" "Highlighted"
+data "StatsFunctors" "ApplyStatus(SELF,TRANSMUTERS_STONE_FIRE,100,-1)"
+
+new entry "Passive_Transmuters_Stone_MovementSpeed"
+type "PassiveData"
+data "DisplayName" "h7e4ddcb4gc501g49a3gb370g62e4abc7d842;2"
+data "Description" "hb0a9b6a1ga821g4ab4ga072gebb06b59453c;2"
+data "Icon" "Action_TransmuterStone_Resistance"
+data "Properties" "Highlighted"
+data "StatsFunctors" "ApplyStatus(SELF,TRANSMUTERS_STONE_MOVEMENTSPEED,100,-1)"
+
+
+
+
+
+
+new entry "Passive_Alch_Elixir_Concentration"
+type "PassiveData"
+data "Properties" "Hidden"
+data "StatsFunctors" "ApplyStatus(SELF,ALCH_ELIXIR_CONCENTRATION,100,-1)"
+
+
+
+
+
+new entry "Unlock_Skeleton_Caster_Spells"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "Boosts" "UnlockSpell(Target_Grease);UnlockSpell(Zone_BurningHands);UnlockSpell(Shout_Shield_Wizard)"
+
+new entry "Dodge_Arrows_Skeleten"
+type "PassiveData"
+data "DisplayName" "h17349d1eg7dd9g4af4g908ag7dc074c7df86;1"
+data "Description" "h44990e4ag143fg448fgb619g09f778bc9b8a;1"
+data "Icon" "Skill_Fighter_ActionSurge"
+data "Properties" "Highlighted"
+data "Boosts" "RollBonus(Attack,4);IF(IsAttackType(AttackType.RangedWeaponAttack)):Disadvantage(AttackTarget);IF(IsSpell()):Advantage(SavingThrow, Dexterity)"
+
+new entry "Tag_WoodWoad"
+type "PassiveData"
+data "DisplayName" "h967463ebgcd46g4834g9988ge6b17d3eb93c;1"
+data "Icon" "Action_Monster_Dryad_FallenLover"
+data "Properties" "IsHidden"
+
+new entry "Tag_Branded"
+type "PassiveData"
+data "DisplayName" "h60e7d197g3261g4175ga6d7gf641c19389f5;1"
+data "Description" "hfc108516g0f64g4495gb446g692a18b48049;1"
+data "Icon" "unknown"
+data "Properties" "Highlighted"
+
+new entry "Create_Mage_Armor"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnCreate"
+data "StatsFunctors" "ApplyStatus(SELF,MAGE_ARMOR_NPC,100,-1)"
+
+new entry "Create_False_Life"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnCreate"
+data "StatsFunctors" "ApplyStatus(SELF,FALSE_LIFE,100,-1)"
+
+new entry "Create_Feather_Fall"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnCreate"
+data "StatsFunctors" "ApplyStatus(SELF,FEATHER_FALL,100,-1)"
+
+new entry "Create_Devine_Favor"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnCreate"
+data "StatsFunctors" "ApplyStatus(SELF,DIVINE_FAVOR,100,-1)"
+
+new entry "Unlock_ShieldBlow"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "Boosts" "UnlockInterrupt(Interrupt_ShieldBlow)"
+
+new entry "Unlock_TripAttack_Aradin"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "Boosts" "UnlockSpell(Target_TripAttack_Aradin);UnlockSpell(Projectile_TripAttack_Aradin)"
+
+new entry "GrimHarvest_NPC"
+type "PassiveData"
+data "DisplayName" "h2f479431gb8d1g41e5g890dg59ddd0becf9c;2"
+data "Description" "hca1aff5fgd70ag4a99ga7b8g8bfe6cd0cfec;2"
+data "Icon" "PassiveFeature_GrimHarvest"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "(IsKillingBlow() or IsDowned()) and not Item() and not HasStatus('GRIM_HARVEST_SPENT', context.Source)"
+data "StatsFunctors" "IF(IsSpell() and not IsSpellSchool(SpellSchool.Necromancy) and not IsCantrip()):RegainHitPoints(SELF,2*SpellPowerLevel);IF(IsSpellSchool(SpellSchool.Necromancy) and not IsCantrip()):RegainHitPoints(SELF,3*SpellPowerLevel);IF(IsSpell() and not IsCantrip()):ApplyStatus(SELF,GRIM_HARVEST_SPENT,100,1)"
+
+new entry "Worg_Sensitive"
+type "PassiveData"
+data "DisplayName" "h6f5690a9g57ddg4580ga157g96d3ec30e9b9;1"
+data "Description" "h2e7c4848ge499g4c37gb178ge057a51d14a1;1"
+data "Icon" "GenericIcon_DamageType_Physical"
+data "Boosts" "RollBonus(Attack,5)"
+
+new entry "Harpy_Sensitive"
+type "PassiveData"
+data "DisplayName" "h43cae0fdg0ba3g433bgaadbge9bfe814bc34;1"
+data "Description" "h2e7c4848ge499g4c37gb178ge057a51d14a1;1"
+data "Icon" "GenericIcon_DamageType_Physical"
+data "Boosts" "RollBonus(Attack,3)"
+
+new entry "Hide_NPC_TurnStart"
+type "PassiveData"
+data "DisplayName" "hbd956193g1a35g4d50ga0f5g7d7566aa4731;1"
+data "Description" "hbe9a8d23gbd63g41eag9394g3110caa7cb05;1"
+data "Icon" "Action_Hide_Regular"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnTurn"
+data "Properties" "OncePerTurn;Highlighted"
+data "StatsFunctors" "ApplyStatus(SNEAKING_NPC,100,1)"
+
+new entry "Unlock_Jump"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "Boosts" "UnlockSpell(Projectile_Jump)"
+
+new entry "Unlock_Basic_Actions"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "Boosts" "UnlockSpell(Projectile_Jump);UnlockSpell(Target_Dip_NPC);UnlockSpell(Target_Shove);UnlockSpell(Throw_Throw);UnlockSpell(Throw_ImprovisedWeapon);UnlockSpell(Target_Help);UnlockSpell(Shout_Disengage)"
+
+new entry "Unlock_Basic_Actions_Goblin"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "Boosts" "UnlockSpell(Target_Dip_NPC);UnlockSpell(Throw_ImprovisedWeapon);UnlockSpell(Target_Help);UnlockSpell(Shout_Disengage_Goblin)"
+
+new entry "Unlock_Basic_Actions_Humanoid"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "Boosts" "UnlockSpell(Target_Dip_NPC);UnlockSpell(Throw_ImprovisedWeapon);UnlockSpell(Target_Help);UnlockSpell(Shout_Disengage)"
+
+new entry "Create_Warding_Wind_Aura_Harpy"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnCreate"
+data "StatsFunctors" "ApplyStatus(SELF,WARDING_WIND_AURA,100,-1)"
+data "Boosts" "StatusImmunity(SG_Paralyzed);StatusImmunity(SG_Restrained);StatusImmunity(SG_DifficultTerrain);ActionResourcePreventReduction(Movement)"
+
+new entry "Lightning_Blood_Harpy"
+type "PassiveData"
+data "DisplayName" "hefe38517g8993g4b98g94ccgb6a7d7274d76;2"
+data "Description" "h5b9eaf34g37eeg41b0gbfecg35f54c2bc418;1"
+data "DescriptionParams" "2"
+data "Properties" "OncePerAttack"
+data "StatsFunctorContext" "OnDamage"
+data "StatsFunctors" "IF(not HasStatus('MAG_CHARGED_LIGHTNING', context.Source)):ApplyStatus(SELF, MAG_CHARGED_LIGHTNING_LIGHTNING_DAMAGE_ONCE_TECHNICAL,100, 0);IF(Character()):ApplyStatus(SELF, MAG_CHARGED_LIGHTNING_GENERATE_CHARGE_FX, 100, 0);IF(Character() and not IsDischargingLightning(context.Source)):ApplyStatus(SELF, MAG_CHARGED_LIGHTNING,100, 2);ApplyStatus(SELF, MAG_CHARGED_LIGHTNING_DURATION_TECHNICAL, 100, 1)"
+
+new entry "Sudden_Death_NPC"
+type "PassiveData"
+data "DisplayName" "h80763d98gc0cdg4b36ga7f4gc1bdfe2e4d1b;1"
+data "Description" "hb1c11ef4gf7d8g4802g8a62gedc064610c38;1"
+data "DescriptionParams" "2"
+data "Icon" "PassiveFeature_Generic_Magical"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "(IsKillingBlow() or IsDowned()) and not Item()"
+data "StatsFunctors" "IF(IsSpell() and not IsSpellSchool(SpellSchool.Necromancy) and not IsCantrip()):ApplyStatus(SELF,SUDDEN_DEATH_BUFF,100,2);IF(IsSpellSchool(SpellSchool.Necromancy) and not IsCantrip()):ApplyStatus(SELF,SUDDEN_DEATH_BUFF,100,4)"
+
+new entry "Death_Approaching_NPC"
+type "PassiveData"
+data "DisplayName" "h9312e420g2f84g46bfg8542g6fb31a39e3fe;1"
+data "Description" "hea18ec9fg931fg4a33ga263g0256f9a7c902;1"
+data "Icon" "PassiveFeature_Generic_Magical"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "(IsKillingBlow() or IsDowned()) and not Item()"
+data "StatsFunctors" "IF(IsSpell() and not IsSpellSchool(SpellSchool.Necromancy) and not IsCantrip()):ApplyStatus(SELF,DEATH_APPROACHING_STATUS,100,2);IF(IsSpellSchool(SpellSchool.Necromancy) and not IsCantrip()):ApplyStatus(SELF,DEATH_APPROACHING_STATUS,100,4)"
+
+new entry "Unlock_HypnoticGaze"
+type "PassiveData"
+data "DisplayName" "h14abb9dege1b6g4e03ga90agf6641b2d4453;1"
+data "Description" "ha60396f6g2a87g426dgb57dg15cfd7b5abb1;3"
+data "Properties" "IsHidden"
+data "Boosts" "UnlockSpell(Target_HypnoticGaze)"
+
+new entry "WarCaster_OpportunitySpell_Ogre"
+type "PassiveData"
+data "DisplayName" "hd7ac736fg6e54g4383gb286g3a7b3014617a;2"
+data "Description" "h85846355g2916g44b3g9067g1e089037591f;3"
+data "Icon" "PassiveFeature_WarCaster_OpportunitySpell"
+data "Boosts" "UnlockInterrupt(Interrupt_WarCaster_Ogre)"
+
+new entry "MartialArts_BonusUnarmedStrike_Ogre"
+type "PassiveData"
+data "DisplayName" "hfcdc92c3g5dbdg4b16gbf4cg245385dc6bf3;3"
+data "Description" "h1a953609ga861g4e08ga260gd3341f5a963e;5"
+data "DescriptionParams" "DealDamage(LevelMapValue(MartialArts), Bludgeoning)"
+data "Icon" "PassiveFeature_MartialArts_BonusUnarmedStrike"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnAttack;OnCast"
+data "Conditions" "IsMeleeAttack() and IsMonkWeaponAttack() and not SpellId('Target_UnarmedStrike_Monk_Ogre')"
+data "StatsFunctors" "ApplyStatus(SELF,MARTIAL_ARTS_BONUS_UNARMED_STRIKE_OGRE,100,1)"
+
+new entry "DeathTemptation"
+type "PassiveData"
+data "DisplayName" "h1fcaa954gf30fg49eegba55g37f0dcc63253;1"
+data "Description" "ha4f82e18gdf01g48e1gb146g1dae9f8668c9;1"
+data "DescriptionParams" "DealDamage(3d10, Necrotic)"
+data "Icon" "GenericIcon_Intent_Buff"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "TargetSizeEqualOrSmaller(Size.Medium) and "
+data "StatsFunctors" "IF(not SavingThrow(Ability.Wisdom,2)):DealDamage(3d10, Necrotic)"
+
+new entry "FightingStyle_Archery_DamagePlus"
+type "PassiveData"
+data "DisplayName" "h07c17a35ge2f5g4ae2g9fffg20dbc20c57de;1"
+data "Description" "h74f4785cg6b0bg4064g8426gc966187f5fc1;1"
+data "Icon" "PassiveFeature_FightingStyle_Archery"
+data "Properties" "Highlighted"
+data "Boosts" "IF(AttackingWithRangedWeapon(context.Source)):CharacterWeaponDamage(2)"
+
+new entry "Triple_Shot"
+type "PassiveData"
+data "DisplayName" "hb301eb23g9252g492dga864g0cf022525154;1"
+data "Description" "h1be94717ga88ag4109gace4g22d8cc5ec68d;1"
+data "Icon" "Projectile_MainHandAttack"
+data "Boosts" "UnlockSpellVariant(TripleShotCheck(),ModifyNumberOfTargets(AdditiveBase,2,false))"
+
+new entry "Unlock_Rogue_Skills"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "Boosts" "UnlockSpell(Target_SneakAttack_NPC);UnlockSpell(Projectile_SneakAttack_NPC);UnlockSpell(Shout_Dash_CunningAction);UnlockSpell(Shout_Hide_BonusAction);UnlockSpell(Shout_Disengage_BonusAction);UnlockInterrupt(Interrupt_SneakAttack_NPC);UnlockInterrupt(Interrupt_SneakAttack_Critical)"
+
+new entry "Unlock_Rogue_Skills_Goblin"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "Boosts" "UnlockSpell(Target_SneakAttack_NPC);UnlockSpell(Projectile_SneakAttack_NPC);UnlockSpell(Shout_Dash_CunningAction);UnlockSpell(Shout_Hide_BonusAction)"
+
+new entry "Goblin_Serrated_Bone_Arrow"
+type "PassiveData"
+data "DisplayName" "h705229c6g6fb1g45e8gb5bag70942ff5521b;1"
+data "Description" "hbd9d6e91g27ecg4bfdga2e8g9bd7563110a0;1"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "IsRangedUnarmedAttack() and HasDamageEffectFlag(DamageFlags.Hit)"
+data "StatsFunctors" "ApplyStatus(BLEEDING, 100, 2)"
+
+new entry "Goblin_Crucial_Attack"
+type "PassiveData"
+data "DisplayName" "h85e2b54ag336eg48ccgb212ga72fce968a6d;1"
+data "Description" "h7d10bda5g1e79g47cega0b2ge1b8fa9a5079;1"
+data "Icon" "PassiveFeature_ImprovedCritical"
+data "Properties" "Highlighted"
+data "Boosts" "ReduceCriticalAttackThreshold(1)"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "IsRangedUnarmedAttack() and HasDamageEffectFlag(DamageFlags.Hit) and HasStatus('BLEEDING', context.Target)"
+data "StatsFunctors" "ApplyStatus(DIFFICULT_TO_MOVE, 100, 2)"
+
+new entry "Goblin_Freedom_Movement"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "hf00fe54bg5aeeg4afdgafcegb134ff589bf5;1"
+data "Description" "hede92e77ge773g4090g8213gc10032c4d115;1"
+data "Icon" "Spell_Abjuration_FreedomOfMovement"
+data "Boosts" "StatusImmunity(SG_DifficultTerrain)"
+
+new entry "Goblin_GiantKiller"
+type "PassiveData"
+data "DisplayName" "h5f327ef4g68d5g4996g8965g21220150ea12;1"
+data "Description" "h336b4b56g31eag414bga6d4g8033ec230425;1"
+data "ExtraDescription" "h6beb14d3g4ce8g4605g9d67g7e0f45d091d2;2"
+data "ExtraDescriptionParams" "Distance(1.5)"
+data "TooltipUseCosts" "ReactionActionPoint:1"
+data "Icon" "PassiveFeature_GiantKiller"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockInterrupt(Interrupt_Goblin_GiantKiller)"
+
+new entry "MartialArts_BonusStoneThrow"
+type "PassiveData"
+data "DisplayName" "h2a08e6f1g207dg406agaeddg4f1f3bdd8134;1"
+data "Description" "h14826ba1ga59cg49b3g9a2eg4f0bcccae157;1"
+data "DescriptionParams" "DealDamage(1d4+StrengthModifier, Bludgeoning)"
+data "Icon" "GenericIcon_Intent_Damage"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnAttack;OnCast"
+data "Conditions" "IsMeleeAttack() and IsMonkWeaponAttack() and not SpellId('Target_UnarmedStrike_Monk')"
+data "StatsFunctors" "ApplyStatus(SELF,MARTIAL_ARTS_BONUS_STONE_THROW,100,1)"
+
+new entry "DarkDruid_DefileGround"
+type "PassiveData"
+data "DisplayName" "h1cda4e1fg7f56g4470g86b2gc5ddbc04147a;1"
+data "Description" "h439aa386g97afg4ecagb864g866615d6ebb1;1"
+data "Icon" "GenericIcon_Intent_Summon"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockSpell(Target_SpikeGrowth_Goblin_Druid)"
+
+new entry "DarkDruid_BlightedShape"
+type "PassiveData"
+data "DisplayName" "h32426a23g5555g447dg9deag58243802796e;1"
+data "Description" "h2a0b23d0gdb94g4b93g8a15g428b2a28e349;1"
+data "Icon" "GenericIcon_Intent_Summon"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockSpell(Target_SpikeGrowth_Goblin_Druid)"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+new entry "MOD_Buff_Level4"
+type "PassiveData"
+data "Properties" "Highlighted"
+data "Icon" "GenericIcon_Intent_Buff"
+data "Boosts" "Initiative(2);RollBonus(Attack,2);SpellSaveDC(1);DamageReduction(All, Flat, 1)"
+
+new entry "MOD_Buff_Level4_Harpy"
+type "PassiveData"
+using "MOD_Buff_Level4"
+data "DisplayName" "h5d3b3a49gb8ecg40a6g89f1ga0d6c26fa84a;1"
+data "Description" "h6d58ffbeg5e5eg4444gbf2cg0d11f1928a8c;1"
+data "DescriptionParams" "2;2;1"
+
+new entry "MOD_Buff_Level4_Refugee_Leader"
+type "PassiveData"
+using "MOD_Buff_Level4"
+data "DisplayName" "h9a84fb38g99aeg4403g830ag5bad8427ef8c;1"
+data "Description" "hba3f9871g1cfeg4ef5g84dcg30805312c88c;1"
+data "DescriptionParams" "2;2;1"
+
+new entry "MOD_Buff_Level4_Mercenary"
+type "PassiveData"
+using "MOD_Buff_Level4"
+data "DisplayName" "h9a84fb38g99aeg4403g830ag5bad8427ef8c;1"
+data "Description" "hba3f9871g1cfeg4ef5g84dcg30805312c88c;1"
+data "DescriptionParams" "2;2;1"
+
+new entry "MOD_Buff_Level4_Ogre"
+type "PassiveData"
+using "MOD_Buff_Level4"
+data "DisplayName" "h109b5134g7d6cg4d65gb007g77cd5af0d006;1"
+data "Description" "he09536ccg04b0g45ccgb23bga231f9d6674e;1"
+data "DescriptionParams" "2;2;1"
+
+new entry "MOD_Buff_Level4_Goblin_Captain"
+type "PassiveData"
+using "MOD_Buff_Level4"
+data "DisplayName" "ha1b6852eg13e5g439aga504g547d3331197e;1"
+data "Description" "he12d8b6dg9042g4849gb1a3gf1bed6468119;1"
+data "DescriptionParams" "2;2;1"
+
+
+
+
+
+new entry "MOD_Buff_Aure_Level4_Captain"
+type "PassiveData"
+data "DisplayName" "h4e03d425gffe3g48cagba9ege0000a41f0d7;1"
+data "Description" "h3337d028g1cd2g4fe0g9655gbd4b531f985e;1"
+data "Properties" "Highlighted"
+data "Icon" "GenericIcon_Intent_Buff"
+data "DescriptionParams" "1"
+data "StatsFunctorContext" "OnCreate"
+data "StatsFunctors" "ApplyStatus(SELF,BUFF_AURA_LEVEL4_CAPTAIN, 100, -1)"
+
+
+

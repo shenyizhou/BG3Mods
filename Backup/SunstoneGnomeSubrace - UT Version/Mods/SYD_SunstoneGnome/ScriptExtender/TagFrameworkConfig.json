@@ -1,0 +1,12 @@
+{
+  "FileVersion": 1,
+  "Tags": [
+    {
+      "modGuids": ["7c7407ec-e2a8-4deb-a6dc-6cbc7bea2894"],
+      "Tag": "SunstoneGnome_f109c34e-8f1b-409b-8386-144b8d54bf3a",
+      "ReallyTag": "ReallySunstoneGnome_a392c4c5-4eb6-40bc-918c-42852d43543b",
+      "TagsToExclude": ["Baldurian"],
+      "RaceMetaTags": ["Rare", "ReallyRare"]       
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="312" lslib_meta="v1,bswap_guids" />
+	<region id="root">
+		<node id="root">
+			<children>
+				<node id="ActionResourceDefinition">
+					<attribute id="Name" type="FixedString" value="XCL_BreathWeaponCharge" />
+					<attribute id="Description" type="TranslatedString" handle="hd6af71b3gdeebg4af4g9490gc95fcb3476af" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h9dcfb8d1g2ee7g4ea0g9e5bg58ab4f80f026" version="1" />
+					<attribute id="Error" type="TranslatedString" handle="h1d24f528g4f41g4082g91c8gd334dc34c3c1" version="1" />
+					<attribute id="MaxLevel" type="uint32" value="0" />
+					<attribute id="ReplenishType" type="FixedString" value="Rest" />
+					<attribute id="ShowOnActionResourcePanel" type="bool" value="True" />
+					<attribute id="UUID" type="guid" value="934fbbf4-d9f8-4224-37a5-91836f5d91b9" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

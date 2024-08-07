@@ -1,0 +1,67 @@
+new entry "Harpy_Summoned"
+type "Character"
+using "_Monstrosity"
+data "Strength" "12"
+data "Dexterity" "14"
+data "Constitution" "12"
+data "Intelligence" "7"
+data "Wisdom" "12"
+data "Charisma" "13"
+data "Armor" "11"
+data "Vitality" "38"
+data "Sight" "2200"
+data "StepsType" "Clawed"
+data "Flags" "FloatingWhileMoving"
+data "PersonalStatusImmunities" "PRONE_FALLEN;LURING_SONG;CRIPPLED"
+data "SpellCastingAbility" "Charisma"
+data "ActionResources" "ActionPoint:1;BonusActionPoint:1;Movement:32;ReactionActionPoint:1"
+data "Passives" "Multiattack_Harpy;AttackOfOpportunity;DarknessRules;Lightning_Blood_Harpy;Create_Warding_Wind_Aura_Harpy;Harpy_Sensitive"
+data "ArmorType" "None"
+
+new entry "Worg_Summoned"
+type "Character"
+using "_Monstrosity"
+data "Strength" "16"
+data "Dexterity" "13"
+data "Constitution" "13"
+data "Intelligence" "7"
+data "Wisdom" "11"
+data "Charisma" "8"
+data "Armor" "13"
+data "Vitality" "26"
+data "Weight" "140"
+data "StepsType" "Clawed"
+data "Passives" "Darkvision;DarknessRules;Worg_Sensitive;Unlock_Jump;AttackOfOpportunity""
+data "DefaultBoosts" "Skill(Perception, 4); BlockRegainHP(Undead;Construct)"
+data "ActionResources" "ActionPoint:1;BonusActionPoint:1;Movement:12;ReactionActionPoint:1"
+
+new entry "Meenlock_Summoned"
+type "Character"
+using "_Fey"
+data "Strength" "7"
+data "Dexterity" "17"
+data "Constitution" "14"
+data "Intelligence" "11"
+data "Wisdom" "12"
+data "Charisma" "8"
+data "Armor" "13"
+data "Vitality" "49"
+data "GameSize" "Small"
+data "PersonalStatusImmunities" "FRIGHTENED"
+data "SpellCastingAbility" "Constitution"
+data "UnarmedAttackAbility" "Dexterity"
+data "UnarmedRangedAttackAbility" "Dexterity"
+data "Passives" "LightSensitivity;AttackOfOpportunity;DarknessRules;Darkvision;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check;Unlock_Jump"
+
+
+
+
+
+
+
+
+
+
+
+
+BLD_WallVines

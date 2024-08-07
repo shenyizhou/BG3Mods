@@ -1,0 +1,81 @@
+USING melee
+
+//Healers care a bit less about going for kills
+MULTIPLIER_KILL_ENEMY 							1.1
+
+// Healer will prefer to heal allies over themselves 
+MULTIPLIER_HEAL_SELF_POS						1.00 
+MULTIPLIER_HEAL_ALLY_POS						1.05
+MAX_HEAL_MULTIPLIER								0.65
+MAX_HEAL_SELF_MULTIPLIER						0.6
+
+MULTIPLIER_BOOST_ALLY_POS		 				1.35
+MULTIPLIER_BOOST_SELF_POS		 				1.30
+
+// Healer tries to debuff enemies
+MULTIPLIER_BOOST_ENEMY_POS		 				1.15
+
+// Healer doesn't try to damage as enemies as much
+MULTIPLIER_DAMAGE_ENEMY_POS						0.95
+
+// Boosts for spells that force a ST on enemy
+MODIFIER_BOOST_ROLLBONUS_SAVINGTHROW            0.040
+
+MODIFIER_BOOST_ROLLBONUS_ATTACK                 0.06
+
+//Healers will try to stabilize downed players
+MULTIPLIER_TARGET_ALLY_DOWNED 					1.25
+
+//Cares less about picking up weapons
+WEAPON_PICKUP_MODIFIER 							0.20
+
+MULTIPLIER_RESURRECT							5.00
+
+// Combos are taking into account when positioning as well
+MULTIPLIER_COMBO_SCORE_INTERACTION				0.90
+MULTIPLIER_COMBO_SCORE_POSITIONING				0.50
+
+// More agressive on CC enemies
+MULTIPLIER_CONTROL_ENEMY_POS					1.5
+MULTIPLIER_CONTROL_ENEMY_NEG					1.5
+
+ENABLE_ACTIVE_DEFENSE_OFFENSIVE_USE				1
+
+//multiplier used if the source is the enemy of the target, e.g. because target attacked source before
+MULTIPLIER_TARGET_MY_HOSTILE					1.50
+
+// Less interested in attacking a character that could block
+MULTIPLIER_SHIELD_BLOCK							1.7
+
+// Less prone to disregard targets that are already attacked by 1 or more characters
+MULTIPLIER_TARGET_HOSTILE_COUNT_ONE				0.90
+MULTIPLIER_TARGET_HOSTILE_COUNT_TWO_OR_MORE		0.60
+
+// A general multiplier for all reflected damage
+MULTIPLIER_REFLECT_DAMAGE						0.25
+
+//Reason better about hit/miss
+MULTIPLIER_RESISTANCE_STUPIDITY					0.05
+MULTIPLIER_IMMUNITY_STUPIDITY					0.05
+MODIFIER_HIT_CHANCE_STUPIDITY 					0.05
+
+//AI will reason about relative player power when using control spells
+MODIFIER_CONTROL_STUPIDITY						0.75
+
+//Slightly more likely to attack downed targets
+MULTIPLIER_TARGET_ENEMY_DOWNED					0.5
+
+//More biased to use fall damage against targets (shoving from high places, etc)
+MULTIPLIER_FALL_DAMAGE_ENEMY					0.50
+
+//Less likely to attack summons instead of players
+MULTIPLIER_TARGET_SUMMON						0.40
+
+//Has some bias towards attacking concentrating targets
+MODIFIER_CONCENTRATION_REMOVE_TARGET 			1.6
+
+//More biased to use instakills (chasms etc)
+INSTAKILL_BASE_SCORE							2.0
+
+// 0.0 here means AI will not avoid AoO
+ENABLE_MOVEMENT_AVOID_AOO						1.60

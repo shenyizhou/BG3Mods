@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="323" lslib_meta="v1,bswap_guids" />
+	<region id="root">
+		<node id="root">
+			<children>
+				<node id="LevelMapSeries">
+					<attribute id="Level1" type="LSString" value="1d10" />
+					<attribute id="Level2" type="LSString" value="1d10" />
+					<attribute id="Level3" type="LSString" value="1d10" />
+					<attribute id="Level4" type="LSString" value="1d10" />
+					<attribute id="Level5" type="LSString" value="2d10" />
+					<attribute id="Level6" type="LSString" value="2d10" />
+					<attribute id="Level7" type="LSString" value="2d10" />
+					<attribute id="Level8" type="LSString" value="2d10" />
+					<attribute id="Level9" type="LSString" value="2d10" />
+					<attribute id="Level10" type="LSString" value="2d10" />
+					<attribute id="Level11" type="LSString" value="3d10" />
+					<attribute id="Level12" type="LSString" value="3d10" />
+					<attribute id="Name" type="FixedString" value="XCL_Dragonbreath" />
+					<attribute id="UUID" type="guid" value="18324f31-7053-4098-3298-b757a2e4e039" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

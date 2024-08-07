@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="330" lslib_meta="v1,bswap_guids" />
+	<region id="root">
+		<node id="root">
+			<children>
+				<node id="Progression">
+					<attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Strength);ProficiencyBonus(SavingThrow,Dexterity);Proficiency(SimpleWeapons);Proficiency(Shortswords)" />
+					<attribute id="Level" type="uint8" value="1" />
+					<attribute id="Name" type="LSString" value="NPC_Monk" />
+					<attribute id="PassivesAdded" type="LSString" value="UnarmoredDefense_Monk;MartialArts_DextrousUnarmedAttacks;MartialArts_UnarmedDamage" />
+					<attribute id="ProgressionType" type="uint8" value="0" />
+					<attribute id="TableUUID" type="guid" value="878630d0-136a-4dc9-2aaa-a1a0d32307a1" />
+					<attribute id="UUID" type="guid" value="44a6c6b2-25f1-4248-e382-7636e9bfa092" />
+				</node>
+				<node id="Progression">
+					<attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Wisdom);ProficiencyBonus(SavingThrow,Charisma);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(HeavyArmor);Proficiency(Shields);Proficiency(SimpleWeapons);Proficiency(MartialWeapons);ActionResource(LayOnHandsCharge,3,0);ActionResource(ChannelOath,1,0)" />
+					<attribute id="Level" type="uint8" value="1" />
+					<attribute id="Name" type="LSString" value="NPC_Paladin_Oathbreaker" />
+					<attribute id="ProgressionType" type="uint8" value="0" />
+					<attribute id="TableUUID" type="guid" value="8ab7d523-f0cc-4fe5-e599-53a8a0c4cdb8" />
+					<attribute id="UUID" type="guid" value="fb146ec9-b4f8-4cae-51a6-b187f442e5af" />
+				</node>
+				<node id="Progression">
+					<attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1);" />
+					<attribute id="Level" type="uint8" value="2" />
+					<attribute id="Name" type="LSString" value="NPC_Paladin_Oathbreaker" />
+					<attribute id="ProgressionType" type="uint8" value="0" />
+					<attribute id="TableUUID" type="guid" value="8ab7d523-f0cc-4fe5-e599-53a8a0c4cdb8" />
+					<attribute id="UUID" type="guid" value="f7895bab-93a3-4aab-bb93-76720667c1ec" />
+				</node>
+				<node id="Progression">
+					<attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);" />
+					<attribute id="Level" type="uint8" value="3" />
+					<attribute id="Name" type="LSString" value="NPC_Paladin_Oathbreaker" />
+					<attribute id="ProgressionType" type="uint8" value="0" />
+					<attribute id="TableUUID" type="guid" value="8ab7d523-f0cc-4fe5-e599-53a8a0c4cdb8" />
+					<attribute id="UUID" type="guid" value="60e09921-110f-4523-8992-5ba2d7dfbb00" />
+				</node>
+				<node id="Progression">
+					<attribute id="Boosts" type="LSString" value="ActionResource(LayOnHandsCharge,1,0)" />
+					<attribute id="Level" type="uint8" value="4" />
+					<attribute id="Name" type="LSString" value="NPC_Paladin_Oathbreaker" />
+					<attribute id="ProgressionType" type="uint8" value="0" />
+					<attribute id="TableUUID" type="guid" value="8ab7d523-f0cc-4fe5-e599-53a8a0c4cdb8" />
+					<attribute id="UUID" type="guid" value="6c57c56a-2bde-42a3-d783-b573214a6715" />
+				</node>
+				<node id="Progression">
+					<attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ActionResource(SpellSlot,2,2);" />
+					<attribute id="Level" type="uint8" value="5" />
+					<attribute id="Name" type="LSString" value="NPC_Paladin_Oathbreaker" />
+					<attribute id="PassivesAdded" type="LSString" value="ExtraAttack" />
+					<attribute id="ProgressionType" type="uint8" value="0" />
+					<attribute id="TableUUID" type="guid" value="8ab7d523-f0cc-4fe5-e599-53a8a0c4cdb8" />
+					<attribute id="UUID" type="guid" value="6a82dd2f-10ec-4659-e281-bf79e47edec3" />
+				</node>
+				<node id="Progression">
+					<attribute id="Level" type="uint8" value="6" />
+					<attribute id="Name" type="LSString" value="NPC_Paladin_Oathbreaker" />
+					<attribute id="ProgressionType" type="uint8" value="0" />
+					<attribute id="TableUUID" type="guid" value="8ab7d523-f0cc-4fe5-e599-53a8a0c4cdb8" />
+					<attribute id="UUID" type="guid" value="91e824f5-5661-4447-50b8-1c2ef435ee60" />
+				</node>
+				<node id="Progression">
+					<attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2);" />
+					<attribute id="Level" type="uint8" value="7" />
+					<attribute id="Name" type="LSString" value="NPC_Paladin_Oathbreaker" />
+					<attribute id="ProgressionType" type="uint8" value="0" />
+					<attribute id="TableUUID" type="guid" value="8ab7d523-f0cc-4fe5-e599-53a8a0c4cdb8" />
+					<attribute id="UUID" type="guid" value="68709fa7-073e-48f9-7793-385510e32a7e" />
+				</node>
+				<node id="Progression">
+					<attribute id="Level" type="uint8" value="8" />
+					<attribute id="Name" type="LSString" value="NPC_Paladin_Oathbreaker" />
+					<attribute id="ProgressionType" type="uint8" value="0" />
+					<attribute id="TableUUID" type="guid" value="8ab7d523-f0cc-4fe5-e599-53a8a0c4cdb8" />
+					<attribute id="UUID" type="guid" value="ef684e2a-8529-40bf-36a5-c860ef55209c" />
+				</node>
+				<node id="Progression">
+					<attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,3);" />
+					<attribute id="Level" type="uint8" value="9" />
+					<attribute id="Name" type="LSString" value="NPC_Paladin_Oathbreaker" />
+					<attribute id="ProgressionType" type="uint8" value="0" />
+					<attribute id="TableUUID" type="guid" value="8ab7d523-f0cc-4fe5-e599-53a8a0c4cdb8" />
+					<attribute id="UUID" type="guid" value="0c3308cb-e341-4d6b-d68d-f92fd1158b5f" />
+				</node>
+				<node id="Progression">
+					<attribute id="Boosts" type="LSString" value="ActionResource(LayOnHandsCharge,1,0)" />
+					<attribute id="Level" type="uint8" value="10" />
+					<attribute id="Name" type="LSString" value="NPC_Paladin_Oathbreaker" />
+					<attribute id="ProgressionType" type="uint8" value="0" />
+					<attribute id="TableUUID" type="guid" value="8ab7d523-f0cc-4fe5-e599-53a8a0c4cdb8" />
+					<attribute id="UUID" type="guid" value="9634101a-e9c2-479f-8d85-99414828ca7a" />
+				</node>
+				<node id="Progression">
+					<attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,3);" />
+					<attribute id="Level" type="uint8" value="11" />
+					<attribute id="Name" type="LSString" value="NPC_Paladin_Oathbreaker" />
+					<attribute id="ProgressionType" type="uint8" value="0" />
+					<attribute id="TableUUID" type="guid" value="8ab7d523-f0cc-4fe5-e599-53a8a0c4cdb8" />
+					<attribute id="UUID" type="guid" value="deaa90e0-eacd-44d5-68bb-7e2629a67215" />
+				</node>
+				<node id="Progression">
+					<attribute id="Level" type="uint8" value="12" />
+					<attribute id="Name" type="LSString" value="NPC_Paladin_Oathbreaker" />
+					<attribute id="ProgressionType" type="uint8" value="0" />
+					<attribute id="TableUUID" type="guid" value="8ab7d523-f0cc-4fe5-e599-53a8a0c4cdb8" />
+					<attribute id="UUID" type="guid" value="c8cab2cd-e18b-423d-96b9-8556f4f37ec2" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
