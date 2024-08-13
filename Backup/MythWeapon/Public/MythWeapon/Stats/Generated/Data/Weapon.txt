@@ -1,0 +1,162 @@
+new entry "SanJian"
+<!-- 物品ID -->
+
+type "Weapon"
+<!-- 物品:类型 -->
+
+using "_BaseWeapon"
+<!-- 引用：物品ID -->
+
+data "RootTemplate" "abcf0c30-e222-456a-b452-17c5d2d507cf"
+<!-- 物品识别码 -->
+
+data "Damage Type" "Slashing"
+<!-- 伤害类型 -->
+
+data "Damage" "3d8"
+<!-- 伤害 -->
+
+data "WeaponRange" "200"
+
+data "WeaponFunctors" ""
+<!-- 攻击附带效果 -->
+
+data "ValueOverride" "6480"
+<!-- 物品价格 -->
+
+data "Weight" "18"
+<!-- 物品重量 -->
+
+data "BoostsOnEquipMainHand" "UnlockSpell(Rush_SpringAttack);UnlockSpell(Target_Slash_New)"
+<!-- 装备在主手时增强 -->
+
+data "Weapon Group" "MartialMeleeWeapon"
+<!-- 武器组 -->
+
+data "Weapon Properties" "Heavy;Twohanded;Melee;Dippable"
+<!-- 武器性质 -->
+
+data "Proficiency Group" "Glaives;MartialWeapons"
+<!-- 要求的专精 -->
+
+data "Rarity" "Legendary"
+<!-- 品质等级 -->
+
+data "PassivesOnEquip" "MAG_SanJian_IncreaseDamage_Passive;UnlockSpell(Shout_Steady);ImmuneToDisarm"
+<!-- 装备时获得被动 -->
+
+data "DefaultBoosts" "WeaponEnchantment(4);WeaponProperty(Magical)"
+<!-- 固有增强,针对武器 -->
+
+data "Boosts" "UnlockSpell(Target_MAG_ElementalWeapon);UnlockSpell(Target_SanJian)"
+<!-- 对装备者的增强 -->
+
+
+//金箍棒
+new entry "JinGu"
+type "Weapon"
+using "WPN_Quarterstaff"
+data "RootTemplate" "356815ab-e094-43d1-96a8-145d3567c03a"
+data "Damage Type" "Bludgeoning"
+data "Damage" "2d12"
+data "WeaponFunctors" ""
+data "ValueOverride" "6480"
+data "Weight" "18"
+data "BoostsOnEquipMainHand" "UnlockSpell(Target_Topple);UnlockSpell(Shout_Huge_Legendry);UnlockSpell(Zone_Attack_JinGu)"
+data "Weapon Group" "SimpleMeleeWeapon"
+data "Weapon Properties" "Melee;Dippable;Twohanded"
+data "Proficiency Group" "Quarterstaffs;SimpleWeapons"
+data "Rarity" "Legendary"
+data "PassivesOnEquip" "ImmuneToDisarm;Legendary_Heat"
+data "DefaultBoosts" "WeaponEnchantment(4);WeaponProperty(Magical)"
+
+//干将
+new entry "GANJIANG"
+type "Weapon"
+using "WPN_Shortsword_1"
+data "RootTemplate" "d1cf3273-ea19-4c59-9611-c590c7fa2a0d"
+data "Damage Type" "Slashing"
+data "Damage" "1d10"
+data "WeaponFunctors" ""
+data "ValueOverride" "1980"
+data "Weight" "1.8"
+data "StatusOnEquip" "HAND_GANJIANG"
+data "BoostsOnEquipMainHand" "UnlockSpell(Target_Slash_New);Ability(Strength,+2);Ability(Dexterity,-2);UnlockSpell(GANJIANG_MOYE_ATTACK)"
+data "Weapon Group" "MartialWeapons"
+data "Weapon Properties" "Melee;Dippable"
+data "Proficiency Group" "Longswords;MartialWeapons"
+data "Rarity" "Legendary"
+data "PassivesOnEquip" "GANJIANG_MOYE"
+data "DefaultBoosts" "WeaponEnchantment(3);UnlockSpell(Target_PommelStrike);WeaponDamage(1d8,Slashing)"
+
+//莫邪
+new entry "MOYE"
+type "Weapon"
+using "WPN_Shortsword_1"
+data "RootTemplate" "99cba6dd-189c-4b10-aa90-0eefd7397d49"
+data "Damage Type" "Slashing"
+data "Damage" "1d8"
+data "WeaponFunctors" ""
+data "ValueOverride" "1980"
+data "Weight" "1.8"
+data "StatusOnEquip" "HAND_MOYE"
+data "BoostsOnEquipMainHand" "UnlockSpell(Target_Slash_New);Ability(Strength,-2);Ability(Dexterity,+2);UnlockSpell(GANJIANG_MOYE_ATTACK);"
+data "Weapon Group" "MartialWeapons"
+data "Weapon Properties" "Melee;Dippable"
+data "Proficiency Group" "Longswords;MartialWeapons"
+data "Rarity" "Legendary"
+data "PassivesOnEquip" "GANJIANG_MOYE;MOYE_PASSIVE"
+data "DefaultBoosts" "WeaponEnchantment(3);UnlockSpell(Target_PommelStrike)"
+
+//金刚圈
+new entry "JINGANGQUAN"
+type "Armor"
+using "_Amulet"
+data "Level" "1"
+data "Slot" "Amulet"
+data "RootTemplate" "96a722e4-390a-41a6-a343-2e72994dc079"
+data "ValueUUID" "12dbd881-5b36-4679-930e-c1ce5be5bb48"
+data "Rarity" "Legendary"
+data "Weight" "0.18"
+data "InventoryTab" "Equipment"
+data "Armor Class Ability" "None"
+data "Boosts" "UnlockInterrupt(Interrupt_JINGANGQUAN_IMPORT_1);UnlockInterrupt(Interrupt_JINGANGQUAN_IMPORT_2);UnlockSpell(JINGANGQUAN_IMPORT);UnlockSpell(JINGANGQUAN_OUTPORT);UnlockSpell(JINGANGQUAN_IMPORT_ITEM)"
+
+//长虹剑
+new entry "CHANG_HONG"
+type "Weapon"
+using "WPN_Shortsword_1"
+data "RootTemplate" "2626326b-17c7-492e-87a6-51eb84a80129"
+data "Damage Type" "Slashing"
+data "Damage" "1d8"
+data "WeaponFunctors" ""
+data "ValueOverride" "1980"
+data "Weight" "1.8"
+data "StatusOnEquip" "HAND_MOYE"
+data "BoostsOnEquipMainHand" "UnlockSpell(Target_Slash_New);Ability(Strength,-2);Ability(Dexterity,+2);UnlockSpell(GANJIANG_MOYE_ATTACK);"
+data "Weapon Group" "MartialWeapons"
+data "Weapon Properties" "Melee;Dippable"
+data "Proficiency Group" "Longswords;MartialWeapons"
+data "Rarity" "Legendary"
+data "PassivesOnEquip" "GANJIANG_MOYE;MOYE_PASSIVE"
+data "DefaultBoosts" "WeaponEnchantment(3);UnlockSpell(Target_PommelStrike)"
+
+
+//大宝剑
+new entry "GAILUN"
+type "Weapon"
+using "WPN_Shortsword_1"
+data "RootTemplate" "1345bf36-dd48-4664-97a9-e559c7189af0"
+data "Damage Type" "Slashing"
+data "Damage" "1d8"
+data "WeaponFunctors" ""
+data "ValueOverride" "1980"
+data "Weight" "1.8"
+data "StatusOnEquip" "HAND_MOYE"
+data "BoostsOnEquipMainHand" "UnlockSpell(Target_Slash_New);Ability(Strength,-2);Ability(Dexterity,+2);UnlockSpell(GANJIANG_MOYE_ATTACK);"
+data "Weapon Group" "MartialWeapons"
+data "Weapon Properties" "Melee;Dippable"
+data "Proficiency Group" "Longswords;MartialWeapons"
+data "Rarity" "Legendary"
+data "PassivesOnEquip" "GANJIANG_MOYE;MOYE_PASSIVE"
+data "DefaultBoosts" "WeaponEnchantment(3);UnlockSpell(Target_PommelStrike)"

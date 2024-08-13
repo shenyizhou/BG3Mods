@@ -1,0 +1,60 @@
+//三尖两刃刀
+
+new entry "MAG_SanJian_IncreaseDamage_Passive"
+type "PassiveData"
+data "DisplayName" "heabd61bfgb0e5g40fbg9674g8b504dfbd3a0;1"
+data "Description" "h518fbdafgc23cg4a72g976bg8b0c85560e1f;1"
+data "DescriptionParams" "DealDamage(1d4,Lightning);DealDamage(1d4,Fire);ApplyStatus(SHOCKED,100,3)"
+data "TooltipConditionalDamage" "DealDamage(1d4,Lightning);DealDamage(1d4,Fire);ApplyStatus(SHOCKED,100,3)"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "AttackedWithPassiveSourceWeapon() and HasStatus('SanJian_WEAPON', GetAttackWeapon(context.Source))"
+data "StatsFunctors" "DealDamage(1d4,Lightning,Magical);DealDamage(1d4,Fire,Magical);ApplyStatus(SHOCKED,100,1)"
+
+
+//金箍棒
+new entry "Legendary_Heat"
+type "PassiveData"
+data "DisplayName" "ha3a39adeg63beg48c4gad41g221dfbb291fe;1"
+data "Description" "hc34ea1abgcfd6g44dcga2e0g3478373922fc;1"
+data "Icon" "PassiveFeature_ClarifiedMortality"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamage"
+data "StatsFunctors" "IF(IsCritical() or IsKillingBlow()):ApplyStatus(SELF, Legendary_Heat_Status,100,2)"
+
+//干将莫邪
+new entry "GANJIANG_PASSIVE"
+type "PassiveData"
+data "DisplayName" "h42ffa233g17a7g48ddgb5bfg1dce0aacb6f8;1"
+data "Description" "hdbdb6648g8ec2g4f3fgba57g55fb94fd848b;1"
+data "DescriptionParams" "DealDamage(1d8,Slashing)"
+data "TooltipConditionalDamage" "DealDamage(1d8,Slashing)"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "AttackedWithPassiveSourceWeapon() and HasStatus('MAIN_HAND_GANJAING')"
+data "StatsFunctors" "DealDamage(1d8,Slashing)"
+
+new entry "MOYE_PASSIVE"
+type "PassiveData"
+data "DisplayName" "h0dd73fe0g7cf8g4b85g83d1g25744b855e03;1"
+data "Description" "h1c64cb52g83f7g462fgaceagd192f78684a5;1"
+data "DescriptionParams" "RegainHitPoints(1d4)"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "AttackedWithPassiveSourceWeapon() and Character() and not Self()"
+data "StatsFunctors" "RegainHitPoints(SELF,1d4)"
+
+new entry "GANJIANG_MOYE"
+type "PassiveData"
+data "DisplayName" "h989b4196g138dg4eb8g96fegfe0c8e3c65c2;1"
+data "Description" "h79aeb185g4459g4a05gad92g057850c82dde;1"
+data "DescriptionParams" "RegainHitPoints(1d4)"
+data "Icon" "PassiveFeature_ClarifiedMortality"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamage"
+data "StatsFunctors" "IF (IsKillingBlow()):ApplyStatus(SELF,GANJIANG_MOYE_BA,100,1)"
+
+//长虹剑
+
+
+
+//大宝剑
+
+

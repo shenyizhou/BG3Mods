@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hea9575efgdba9g4305g84f7g2c49233fb28b" version="1">这把兵器重量非凡，仔细看刀刃上还上面还刻着不知是哪个地区的文字“英烈昭惠清源妙道显仁敷泽兴济通佑二郎显圣真君”，产地未知，似乎不属于这个位面</content>
+	<content contentuid="hfcd6ba93g9805g4150gb462gbbaba81a6d9d" version="1">三尖两刃刀</content>
+	<content contentuid="haa0b7bbegdf09g44b0ga387gd16c93efffec" version="1">共鸣武器内神兽的力量，每次攻击额外造成1d12寒冷伤害，并对目标施加一回合潮湿。</content>
+	<content contentuid="h5b250ee6gad38g4fa0gb2b7gb45424163467" version="1">三首蛟</content>
+	<content contentuid="heabd61bfgb0e5g40fbg9674g8b504dfbd3a0" version="1">武器共鸣</content>
+	<content contentuid="h518fbdafgc23cg4a72g976bg8b0c85560e1f" version="1">武器共鸣状态下生效，攻击额外造成1d4火焰伤害和1d4雷电伤害</content>
+	<content contentuid="hecf6f6d3g9b0eg4df6g9d98ga28d01c20bda" version="1">法天象地</content>
+	<content contentuid="h8dc1a887g06f9g42dcg9901g1dd1637ef4ac" version="1">体型增大</content>
+	<content contentuid="h266abd14g9027g4aafg92bfgbaa71c118dc6" version="1">力量、体质增至30，敏捷增至14，AC增至18，使用力量的&lt;LSTag Tooltip="AbilityCheck"&gt;属性检定&lt;/LSTag&gt;以及&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;获得&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，武器攻击造成一个额外的1d0伤害。</content>
+	<content contentuid="hb06a81b4g053eg466eg82d2g511b89727229" version="1">金箍棒</content>
+	<content contentuid="h4e9c5249g601fg4e2bg94a5g8e01f050257a" version="1">这把兵器重量非凡，仔细看上还上面还刻着不知是哪个地区的文字：“如意金箍棒”，产地未知，似乎不属于这个位面</content>
+	<content contentuid="ha3a39adeg63beg48c4gad41g221dfbb291fe" version="1">激昂</content>
+	<content contentuid="h8dc1a887g06f9g42dcg9901g1dd1637ef4ac" version="1">随着战斗的白热化而发挥身体潜能驱动这把武器</content>
+	<content contentuid="hc34ea1abgcfd6g44dcga2e0g3478373922fc" version="1">每次造成重击或者击杀时，获得2回合激昂</content>
+	<content contentuid="h21b4c407gf090g4326ga62dg9225624cfef4" version="1">武器共鸣：战斗本能</content>
+	<content contentuid="h161608d1gd7bag4d44g90bfg1a6e840467b1" version="1">对范围内敌人造成伤害，额外造成1d6立场伤害，并可能造成击退</content>
+	<content contentuid="h42ffa233g17a7g48ddgb5bfg1dce0aacb6f8" version="1">干将</content>
+	<content contentuid="h3a66b089g2351g4ee4gbec3g3280c53c4187" version="1">一把来自东方的传说中的宝剑</content>
+	<content contentuid="h0dd73fe0g7cf8g4b85g83d1g25744b855e03" version="1">莫邪</content>
+	<content contentuid="hcbd4423bgbc75g456fg9cdeg79677a4d6a92" version="1">一把来自东方的传说中的宝剑,好像和另一把是一对儿的</content>
+	<content contentuid="h989b4196g138dg4eb8g96fegfe0c8e3c65c2" version="1">双剑合璧</content>
+	<content contentuid="h79aeb185g4459g4a05gad92g057850c82dde" version="1">同时装备干将和莫邪时，解锁招式【剑来！】，每次击杀敌人时额外获得一个附赠动作。</content>
+	<content contentuid="h43ff24efgd2bcg4095g8cd6g6095b72c0b3e" version="1">剑来！</content>
+	<content contentuid="hd810ed67g9442g4c53g9d4bg1d6c98d2d4de" version="1">使用双剑在短时间内连续攻击7次</content>
+	<content contentuid="hdbdb6648g8ec2g4f3fgba57g55fb94fd848b" version="1">装备在主手时，力量+2，敏捷-2，主手攻击额外造成1d8挥砍伤害</content>
+	<content contentuid="h1c64cb52g83f7g462fgaceagd192f78684a5" version="1">攻击回复1d4生命值</content>
+	<content contentuid="h1db2228cg671dg4bc6g90e5g222bcf0f3157" version="1">金刚圈</content>
+	<content contentuid="h91583d2eg8c15g437cgb55fgf445010bf8a5" version="1">一件来自其他位面的手镯，品相非凡</content>
+	<content contentuid="hd7a21d3fge614g4d56g999cg498798cf0dfb" version="1">金刚圈：收</content>
+	<content contentuid="h7391197dg3807g420dg9227g3b6cc72205ba" version="1">施展金刚圈的威能，是范围内敌人丢掉武器，并将武器收入指定位置</content>
+	<content contentuid="h982a82aag4e8fg46edgad9fg7dbacc1a469f" version="1">金刚圈：放</content>
+	<content contentuid="h00ed9f5fg0ac0g46a6gb385ga6a19283126e" version="1">施展金刚圈的威能，将一个目标定住，使其无法动弹</content>
+	<content contentuid="h0cd0e872g8333g403fg8a09g3cf70b3d34e2" version="1">当敌人施展法术时，使用法反应施展法宝威能，将敌人的法术吸收掉，同时获得一点法力充能</content>
+	<content contentuid="h9e5d9045gda09g4646g9159gafcaa2b8555f" version="1">当敌人用武器朝你发动攻击时，使用反应施展一次【金刚圈：收】</content>
+	<content contentuid="h141ae90dgff2bg4d5ag8d83gcffef3efd652" version="1">消耗一个附赠动作将范围内的物体吸到指定位置</content>
+	<content contentuid="ha5cd26c3ge3d3g4e30gbfbfg6b5524ed047a" version="1">金刚圈：定身</content>
+</contentList>
