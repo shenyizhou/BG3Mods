@@ -71,21 +71,21 @@ end
 function GetKungFuTypeCount()
 	local count = 0
 	local kungfuTypes = {
-		"Passive_KFC_HuangDiNeiJing", "Passive_KFC_ShenZhaoJing", -- 医药
-		"Passive_KFC_JinGangBuHuaiShenGong", "Passive_KFC_DaJinGangShenLi", -- 硬功
-		"Passive_KFC_MingMuGong", "Passive_KFC_ShenJiBaiBian", "Passive_KFC_ZuoYouShouHuBoShu", -- 软功
-		"Passive_KFC_TiYunZong", "Passive_KFC_YiWeiDuJiang", "Passive_KFC_LingBoWeiBu", "Passive_KFC_FeiXuQingYanGong", -- 轻功
-		"Passive_KFC_YiJinJing", "Passive_KFC_XiSuiJing", "Passive_KFC_TianCanGong", "Passive_KFC_BuSiYinFa", "Passive_KFC_TaiXuanJing", -- 内功
-		"Passive_KFC_WuLeiTianXinJue", -- 外功
-		"Passive_KFC_TaiJiQuan", "Passive_KFC_DouZhuanXingYi", "Passive_KFC_QianKunDaNuoYi" -- 拆招
+		"Passive_KungFuMonk_HuangDiNeiJing", "Passive_KungFuMonk_ShenZhaoJing", -- 医药
+		"Passive_KungFuMonk_JinGangBuHuaiShenGong", "Passive_KungFuMonk_DaJinGangShenLi", -- 硬功
+		"Passive_KungFuMonk_MingMuGong", "Passive_KungFuMonk_ShenJiBaiBian", "Passive_KungFuMonk_ZuoYouShouHuBoShu", -- 软功
+		"Passive_KungFuMonk_TiYunZong", "Passive_KungFuMonk_YiWeiDuJiang", "Passive_KungFuMonk_LingBoWeiBu", "Passive_KungFuMonk_FeiXuQingYanGong", -- 轻功
+		"Passive_KungFuMonk_YiJinJing", "Passive_KungFuMonk_XiSuiJing", "Passive_KungFuMonk_TianCanGong", "Passive_KungFuMonk_BuSiYinFa", "Passive_KungFuMonk_TaiXuanJing", -- 内功
+		"Passive_KungFuMonk_WuLeiTianXinJue", -- 外功
+		"Passive_KungFuMonk_TaiJiQuan", "Passive_KungFuMonk_DouZhuanXingYi", "Passive_KungFuMonk_QianKunDaNuoYi" -- 拆招
 	}
-	
+
 	for _, passive in ipairs(kungfuTypes) do
 		if HasPassive(context.Source, passive) then
 			count = count + 1
 		end
 	end
-	
+
 	return count
 end
 

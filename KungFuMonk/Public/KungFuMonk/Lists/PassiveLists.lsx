@@ -1,43 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- 武功僧侣被动技能列表配置文件 -->
+<!-- 定义七大武功门类的被动技能选择列表 -->
 <save>
     <version major="4" minor="0" revision="9" build="307"/>
     <region id="PassiveLists">
         <node id="root">
             <children>
-                <!-- 医药 -->
+                <!-- 医药门类 - YiYao -->
+                <!-- 包含医学和药理相关的武功技能 -->
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Passive_KFC_HuangDiNeiJing,Passive_KFC_ShenZhaoJing"/>
+                    <!-- 被动技能：神照经 -->
+                    <attribute id="Passives" type="LSString" value="Passive_KungFuMonk_ShenZhaoJing"/>
+                    <!-- 医药门类的唯一标识符 -->
                     <attribute id="UUID" type="guid" value="dca4dcd7-e577-49ba-851e-600c1fbae470"/>
                 </node>
-                <!-- 硬功 -->
+                <!-- 硬功门类 - YingGong -->
+                <!-- 包含防御和抗击打相关的武功技能 -->
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Passive_KFC_JinGangBuHuaiShenGong,Passive_KFC_DaJinGangShenLi"/>
+                    <!-- 被动技能：金刚不坏神功、大金刚神力 -->
+                    <attribute id="Passives" type="LSString" value="Passive_KungFuMonk_JinGangBuHuaiShenGong,Passive_KungFuMonk_DaJinGangShenLi"/>
+                    <!-- 硬功门类的唯一标识符 -->
                     <attribute id="UUID" type="guid" value="5457b361-7306-469d-9032-6f2760a629e3"/>
                 </node>
-                <!-- 软功 -->
+
+                <!-- 轻功门类 - QingGong -->
+                <!-- 包含移动和敏捷相关的武功技能 -->
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Passive_KFC_MingMuGong,Passive_KFC_ShenJiBaiBian,Passive_KFC_ZuoYouShouHuBoShu"/>
-                    <attribute id="UUID" type="guid" value="d1a02545-223f-4b66-b822-eec3168fb322"/>
-                </node>
-                <!-- 轻功 -->
-                <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Passive_KFC_TiYunZong,Passive_KFC_YiWeiDuJiang,Passive_KFC_LingBoWeiBu,Passive_KFC_FeiXuQingYanGong,Passive_KFC_FeiYanHuiFeng"/>
+                    <!-- 被动技能：梯云纵、移位渡江、凌波微步、飞絮轻烟功、飞燕回风、神行百变、百步穿杨 -->
+                    <attribute id="Passives" type="LSString" value="Passive_KungFuMonk_TiYunZong,Passive_KungFuMonk_YiWeiDuJiang,Passive_KungFuMonk_LingBoWeiBu,Passive_KungFuMonk_FeiXuQingYanGong,Passive_KungFuMonk_FeiYanHuiFeng,Passive_KungFuMonk_ShenXingBaiBian,Passive_KungFuMonk_BaiBuChuanYang"
+                    <!-- 轻功门类的唯一标识符 -->
                     <attribute id="UUID" type="guid" value="d9eff3c2-0fa4-4022-9ce3-d684c6d3fa29"/>
                 </node>
-                <!-- 内功 -->
+                <!-- 内功门类 - NeiGong -->
+                <!-- 包含内在力量修炼相关的武功技能，整合原软功技能 -->
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Passive_KFC_YiJinJing,Passive_KFC_XiSuiJing,Passive_KFC_TianCanGong,Passive_KFC_BuSiYinFa,Passive_KFC_TaiXuanJing"/>
+                    <!-- 被动技能：易筋经、洗髓经、冰心诀、天蚕功、不死印法、明目功、左右手互搏术 -->
+                    <attribute id="Passives" type="LSString" value="Passive_KungFuMonk_YiJinJing,Passive_KungFuMonk_XiSuiJing,Passive_KungFuMonk_BingXinJue,Passive_KungFuMonk_TianCanGong,Passive_KungFuMonk_BuSiYinFa,Passive_KungFuMonk_MingMuGong,Passive_KungFuMonk_ZuoYouShouHuBoShu"
+                    <!-- 内功门类的唯一标识符 -->
                     <attribute id="UUID" type="guid" value="01bef723-3a92-4640-811d-4c57df429712"/>
                 </node>
-                <!-- 外功 -->
+                <!-- 外功门类 - WaiGong -->
+                <!-- 包含外在力量展现相关的武功技能 -->
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Passive_KFC_WuLeiTianXinJue,Passive_KFC_TaiJiHuaJin,Passive_KFC_LianHuanDuoMing"/>
+                    <!-- 被动技能：五雷天心诀、太极拳、连环夺命 -->
+                    <attribute id="Passives" type="LSString" value="Passive_KungFuMonk_WuLeiTianXinJue,Passive_KungFuMonk_TaiJiQuan,Passive_KungFuMonk_LianHuanDuoMing"/>
+                    <!-- 外功门类的唯一标识符 -->
                     <attribute id="UUID" type="guid" value="556ab3de-5af7-4e11-9b08-48764ae60b46"/>
-                </node>
-                <!-- 拆招 -->
-                <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Passive_KFC_TaiJiQuan,Passive_KFC_DouZhuanXingYi,Passive_KFC_QianKunDaNuoYi"/>
-                    <attribute id="UUID" type="guid" value="20aff608-ecf9-422f-85ee-6be3e36d9d8c"/>
                 </node>
 
 
