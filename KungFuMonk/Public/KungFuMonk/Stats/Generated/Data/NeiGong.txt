@@ -1,0 +1,69 @@
+// 易筋经
+new entry "Passive_KFC_YiJinJing"
+type "PassiveData"
+// 健壮
+data "Icon" "PassiveFeature_Tough"
+data "DisplayName" "h504750b7g4eb0g4e37g8762g3cbdcbb49db9;1"
+data "Description" "h51b64495g6d3ag432cga145g1f7781cfc8e0;1"
+data "Properties" "Highlighted"
+data "Boosts" "Resistance(Poison,Half);ProficiencyBonus(Skill,Survival);IF(HasPassive('Passive_KFC_XiSuiJing',context.Source)):ActionResource(ActionPoint,1,0)"
+
+// 洗髓经
+new entry "Passive_KFC_XiSuiJing"
+type "PassiveData"
+// 自然防护
+data "Icon" "PassiveFeature_NaturesWard"
+data "DisplayName" "hda2ef061g597dg4037g82b3g2b71b77d7cf8;1"
+data "Description" "h5ccafcfegbee3g4d12g8e9dg2eddb1f8f703;1"
+data "Properties" "Highlighted"
+data "Boosts" "Ability(Strength,1,20);Ability(Dexterity,1,20);Ability(Constitution,1,20);Ability(Intelligence,1,20);Ability(Wisdom,1,20);Ability(Charisma,1,20);IF(HasPassive('Passive_KFC_YiJinJing',context.Source)):ActionResource(BonusActionPoint,1,0)"
+
+// 冰心诀
+new entry "Passive_KFC_BingXinJue"
+type "PassiveData"
+data "Icon" ""
+data "DisplayName" ";1"
+data "Description" ";1"
+data "Properties" "Highlighted"
+data "Boosts" "Advantage(SavingThrow,Wisdom)"
+
+// 天蚕功
+new entry "Passive_KFC_TianCanGong"
+type "PassiveData"
+// 免疫缠绕
+data "Icon" "Spell_Conjuration_Web"
+data "DisplayName" "h4590d42cg7a63g48b2gaed2g8b457fcd8fe5;1"
+data "Description" "hdd847a96g0c2eg41e1ga736g00e7c38e1e5b;1"
+data "Properties" "Highlighted"
+data "Boosts" "StatusImmunity(ENSNARED);StatusImmunity(ENTANGLED);StatusImmunity(RESTRAINED)"
+
+// 不死印法（含凤凰涅槃）
+new entry "Passive_KFC_BuSiYinFa"
+type "PassiveData"
+// 不死生物
+data "Icon" "GenericIcon_DamageType_Necrotic"
+data "DisplayName" "heafd6140g8985g46e0g87a8g6c9e739a8523;1"
+data "Description" "hfe9f531bg760fg475dgab51g2a71f294c35d;1"
+data "Properties" "Highlighted"
+data "Boosts" "DeathSavingThrow(Advantage);Resistance(Necrotic,Half)"
+
+
+
+// 神照经 - 内功修炼精髓
+new entry "Passive_KFC_ShenZhaoJing"
+type "PassiveData"
+data "Icon" "PassiveFeature_Generic_Magical"
+data "DisplayName" "hfd0aa887g3748g4a84gb58dg5fb17d797a3e;1"
+data "Description" "h5ebbeae0g8fafg44dcgbb9bg484a66a95cef;1"
+data "Properties" "Highlighted"
+data "Boosts" "ActionResource(KiPoint,1,0);IF(not HasArmor()):AC(1)"
+
+// 太玄经
+new entry "Passive_KFC_TaiXuanJing"
+type "PassiveData"
+// 魔法抗性
+data "Icon" "PassiveFeature_Generic_Magical"
+data "DisplayName" "h7d8c4363g3d93g4153g9efcg501e96688a28;1"
+data "Description" "ha3df34c0g92a9g484egbbc7g9ef0389d65f0;1"
+data "StatsFunctorContext" "OnDamage"
+data "StatsFunctors" "IF(IsCritical() or IsKillingBlow()):RestoreResource(SELF,Movement,100%,0)"

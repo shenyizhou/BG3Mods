@@ -41,13 +41,13 @@
                 </node>
                 <!-- 独孤九剑 -->
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value=""/>
-                    <attribute id="UUID" type="guid" value="Passive_KFC_Immune_Force;Passive_KFC_Immune_Slashing;Passive_KFC_Immune_Fire;Passive_KFC_Immune_Cold;Passive_KFC_Immune_Lightning;Passive_KFC_Immune_Thunder;Passive_KFC_Immune_Bludgeoning;Passive_KFC_Immune_Piercing;Passive_KFC_Immune_Psychic"/>
+                    <attribute id="Passives" type="LSString" value="Passive_KFC_DuGuJianFa,Passive_KFC_PoJianShi,Passive_KFC_PoQiangShi,Passive_KFC_PoZhangShi,Passive_KFC_PoGongShi,Passive_KFC_PoQiShi,Passive_KFC_PoYinShi,Passive_KFC_ZongJueShi"/>
+                    <attribute id="UUID" type="guid" value="8f2e3d4c-5b6a-7890-1234-567890abcdef"/>
                 </node>
                 <!-- 五形拳 -->
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value=""/>
-                    <attribute id="UUID" type="guid" value="Passive_KFC_WuXingQuan_Bear,Passive_KFC_WuXingQuan_Crocodile,Passive_KFC_WuXingQuan_Elk,Passive_KFC_WuXingQuan_Tiger,Passive_KFC_WuXingQuan_Eagle"/>
+                    <attribute id="Passives" type="LSString" value="Passive_KFC_HuXing,Passive_KFC_HeXing,Passive_KFC_LongXing,Passive_KFC_SheXing,Passive_KFC_YingXing,Passive_KFC_WuXingHeYi,Passive_KFC_XingYiZhuanHuan"/>
+                    <attribute id="UUID" type="guid" value="9a3b4c5d-6e7f-8901-2345-6789abcdef01"/>
                 </node>
             </children>
         </node>

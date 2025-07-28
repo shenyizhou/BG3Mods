@@ -10,7 +10,7 @@
                     <attribute id="DisplayName" type="TranslatedString" handle="hf9ae34c1g23a1g4db9gb0dbg53aaf95eef82" version="1"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
-                    <attribute id="Name" type="FixedString" value="KungFuCleric"/>
+                    <attribute id="Name" type="FixedString" value="KungFuMonk"/>
                     <attribute id="ParentGuid" type="guid" value="114e7aee-d1d4-4371-8d90-8a2080592faf"/>
                     <attribute id="PrimaryAbility" type="uint8" value="2"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a"/>

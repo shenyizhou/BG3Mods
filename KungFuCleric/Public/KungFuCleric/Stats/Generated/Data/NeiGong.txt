@@ -18,6 +18,15 @@ data "Description" "h5ccafcfegbee3g4d12g8e9dg2eddb1f8f703;1"
 data "Properties" "Highlighted"
 data "Boosts" "Ability(Strength,1,99);Ability(Dexterity,1,99);Ability(Constitution,1,99);Ability(Intelligence,1,99);Ability(Wisdom,1,99);Ability(Charisma,1,99);IF(HasPassive('Passive_KFC_YiJinJing',context.Source)):ActionResource(BonusActionPoint,2,0)"
 
+// 冰心诀
+new entry "Passive_KFC_BingXinJue"
+type "PassiveData"
+data "Icon" ""
+data "DisplayName" ";1"
+data "Description" ";1"
+data "Properties" "Highlighted"
+data "Boosts" "StatusImmunity(SG_Stunned)"
+
 // 天蚕功
 new entry "Passive_KFC_TianCanGong"
 type "PassiveData"

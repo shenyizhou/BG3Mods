@@ -1,0 +1,117 @@
+// 梯云纵
+new entry "Passive_KFC_TiYunZong"
+type "PassiveData"
+// 跳跃术
+data "Icon" "Spell_Transmutation_LongJump"
+data "DisplayName" "h0735f7aag028fg4f50g91a3g2480891e7eea;1"
+data "Description" "hf8bb6033g741cg4852g9b84g62e96b1fba44;1"
+data "DescriptionParams" "Distance(3)"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockSpellVariant(SpellId('Projectile_Jump'),ModifyUseCosts(Replace,BonusActionPoint,0,0,BonusActionPoint));JumpMaxDistanceBonus(3);JumpMaxDistanceMultiplier(3)"
+
+// 一苇渡江
+new entry "Passive_KFC_YiWeiDuJiang"
+type "PassiveData"
+// 大步奔行
+data "Icon" "Spell_Transmutation_Longstrider"
+data "DisplayName" "hc0decce3g35ecg4ef6gaeb1g69746c6100ba;1"
+data "Description" "h18c06e21gd830g46dfg8b98g36dc52717f77;1"
+data "DescriptionParams" "Distance(3);Distance(6)"
+data "Properties" "Highlighted"
+data "Boosts" "StatusImmunity(SG_DifficultTerrain);ActionResource(Movement,3,0);UnlockSpell(Shout_KFC_Dash)"
+
+// 踏雪无痕（疾走）
+new entry "Shout_KFC_Dash"
+type "SpellData"
+data "SpellType" "Shout"
+// 疾走：附赠动作
+data "Icon" "Action_Dash_Bonus"
+data "DisplayName" "h4cbfeb20gf142g4c3bga4e6gcf9c4acb88e6;1"
+data "Description" "h9a8b72a0gf46dg433ag9a02gf0785a95b7bc;1"
+data "TooltipStatusApply" "ApplyStatus(DASH,100,1)"
+data "AIFlags" "GrantsResources;UseAsSupportingActionOnly"
+data "SpellProperties" "IF(HasStatus('DASH_STACKED')):ApplyStatus(DASH_STACKED_2,100,1);IF(not HasStatus('DASH_STACKED_2') and HasStatus('DASH')):ApplyStatus(DASH_STACKED,100,1);IF(not HasStatus('DASH_STACKED_2') and not HasStatus('DASH_STACKED') and not HasStatus('DASH')):ApplyStatus(DASH,100,1)"
+data "TargetConditions" "Self()"
+data "PrepareSound" "Generic_GeneralAction_Start"
+data "PrepareLoopSound" "Generic_GeneralAction_Loop"
+data "CastSound" "Action_Cast_Dash"
+data "TargetSound" "Action_Impact_Dash"
+data "PreviewCursor" "Cast"
+data "CastTextEvent" "Cast"
+data "UseCosts" "ActionPoint:1"
+data "SpellAnimation" "5e57443f-284e-47b2-915e-5b6417db269c,,;925779e7-8bf6-4d56-8c4d-42c3bc01c60c,,;50398f4e-dd82-4d6a-ad43-aedd578543d9,,;1c343e00-7e6c-4f53-b588-074a3cdb9c7d,,;5bcdefbb-2194-46c2-ac77-0b2d8472a5f7,,;,,;5fdb66be-7506-411a-a7ea-c4783288aac8,,;,,;,,"
+data "VerbalIntent" "Utility"
+data "SpellFlags" "IgnoreSilence;Stealth;Invisible;NoCameraMove"
+data "SpellActionType" "Dash"
+data "SpellCategory" "SC_Dash"
+data "SpellAnimationIntentType" "Aggressive"
+data "PrepareEffect" "ae569a16-41db-43ee-94cf-770e101841cd"
+data "CastEffect" "806a170b-c567-4481-bb56-56871d8aaf5f"
+data "CinematicArenaFlags" "Ignore"
+data "SpellSoundMagnitude" "Small"
+data "Sheathing" "DontChange"
+
+// 凌波微步 - 武侠轻功绝学
+new entry "Passive_KFC_LingBoWeiBu"
+type "PassiveData"
+data "Icon" "Action_Monk_ShadowStep"
+data "DisplayName" "he42f3386g62d7g4d28gbeefgc6a99e526e86;1"
+data "Description" "hf635c638g7c69g4197gbe5cg6e9d011c993f;1"
+data "Properties" "Highlighted"
+data "Boosts" "StatusImmunity(SG_Prone);AreaDamageEvade();MovementSpeedBonus(3);IF(IsMoving()):AC(1)"
+data "StatsFunctorContext" "OnAttacked;OnMove"
+data "Conditions" "(context.HasContextFlag(StatsFunctorContext.OnAttacked) and not HasStatus('KFC_LINGBO',context.Target)) or (context.HasContextFlag(StatsFunctorContext.OnMove) and IsMoving())"
+data "StatsFunctors" "IF(context.HasContextFlag(StatsFunctorContext.OnAttacked)):ApplyStatus(SELF,KFC_LINGBO,100,2);IF(context.HasContextFlag(StatsFunctorContext.OnMove)):ApplyStatus(SELF,KFC_MOVING_GRACE,100,1)"
+
+new entry "KFC_LINGBO"
+data "StackId" "KFC_LINGBO"
+type "StatusData"
+data "StatusType" "BOOST"
+data "Icon" "Action_Monk_ShadowStep"
+data "DisplayName" "he42f3386g62d7g4d28gbeefgc6a99e526e86;1"
+data "Description" "hf635c638g7c69g4197gbe5cg6e9d011c993f;1"
+data "Boosts" "IF(not Tagged('BLINDSIGHT', context.Source)):Disadvantage(AttackTarget);MovementSpeedBonus(6)"
+data "StatusGroups" "SG_RemoveOnRespec"
+
+new entry "KFC_MOVING_GRACE"
+data "StackId" "KFC_MOVING_GRACE"
+type "StatusData"
+data "StatusType" "BOOST"
+data "Icon" "Action_Monk_ShadowStep"
+data "DisplayName" "he42f3386g62d7g4d28gbeefgc6a99e526e86;1"
+data "Description" "hf635c638g7c69g4197gbe5cg6e9d011c993f;1"
+data "Boosts" "AC(2)"
+data "StatusGroups" "SG_RemoveOnRespec"
+
+// 飞絮轻烟功 - 武侠特色轻功
+new entry "Passive_KFC_FeiXuQingYanGong"
+type "PassiveData"
+data "Icon" "Action_Monk_ShadowStep"
+data "DisplayName" "h8e41fc32g21edg4917g9ef9g64b444f148d4;1"
+data "Description" "h5c9d56feg8979g4b89gbab1g8f4398eac6c0;1"
+data "Properties" "Highlighted"
+data "Boosts" "StatusImmunity(SG_Difficult_Terrain);MovementSpeedBonus(3);JumpMaxDistanceBonus(6)"
+
+
+
+
+
+
+
+
+
+
+
+
+
+// 飞燕回风 - 武侠轻功剑法
+new entry "Passive_KFC_FeiYanHuiFeng"
+type "PassiveData"
+data "DisplayName" "hf9a0b1c2g6d7eg8f9ag0b1cg3d4e5f6a7b8;1"
+data "Description" "h0a1b2c3dg7e8fg9a0bg1c2dg4e5f6a7b8c9;1"
+data "Icon" "Action_Monk_FlurryOfBlows"
+data "Properties" "Highlighted"
+data "Boosts" "IF(HasGreaterAbilityScore(Ability.Dexterity,Ability.Strength)):CriticalHit(AttackTarget,Success,Always,1);IF(IsUnarmedAttack() and HasGreaterAbilityScore(Ability.Dexterity,Ability.Strength)):DamageBonus(DexterityModifier)"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "IsCritical() and HasGreaterAbilityScore(Ability.Dexterity,Ability.Strength)"
+data "StatsFunctors" "DealDamage(1d6,Slashing,Magical);Force(2,OriginToEntity,Aggressive)"

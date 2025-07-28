@@ -8,7 +8,7 @@
                 <node id="ProgressionDescription">
                     <attribute id="Description" type="TranslatedString" handle="he84d54b6g3bd0g4693g9cb3g148897371853" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hf9ae34c1g23a1g4db9gb0dbg53aaf95eef82" version="1"/>
-                    <attribute id="Type" type="FixedString" value="KungFuCleric"/>
+                    <attribute id="Type" type="FixedString" value="KungFuMonk"/>
                     <attribute id="ProgressionTableId" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a"/>
                     <attribute id="UUID" type="guid" value="28d84fd0-fe62-488a-ab59-e430e9c83190"/>
                 </node>
@@ -54,6 +54,34 @@
                     <attribute id="DisplayName" type="TranslatedString" handle="hff181426gdc9dg49cfgb8d6gf60704e8163c" version="1"/>
                     <attribute id="SelectorId" type="FixedString" value="ChaiZhao"/>
                     <attribute id="UUID" type="guid" value="a04a67bf-9f27-40d4-b759-bd68ec0c4557"/>
+                </node>
+                <!-- 增强反应技能 -->
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h1a2b3c4dg5e6fg7a8bg9c0dg1e2f3a4b5c6" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2b3c4d5eg6f7ag8b9cg0d1eg2f3a4b5c6d7" version="1"/>
+                    <attribute id="SelectorId" type="FixedString" value="EnhancedReaction"/>
+                    <attribute id="UUID" type="guid" value="b2c3d4e5-f6a7-8b9c-0d1e-2f3a4b5c6d7e"/>
+                </node>
+                <!-- 增强状态技能 -->
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h3c4d5e6fg7a8bg9c0dg1e2fg3a4b5c6d7e8" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4d5e6f7ag8b9cg0d1eg2f3ag4b5c6d7e8f9" version="1"/>
+                    <attribute id="SelectorId" type="FixedString" value="EnhancedStatus"/>
+                    <attribute id="UUID" type="guid" value="c3d4e5f6-a7b8-9c0d-1e2f-3a4b5c6d7e8f"/>
+                </node>
+                <!-- 增强战斗技能 -->
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h5e6f7a8bg9c0dg1e2fg3a4bg5c6d7e8f9a0" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6f7a8b9cg0d1eg2f3ag4b5cg6d7e8f9a0b1" version="1"/>
+                    <attribute id="SelectorId" type="FixedString" value="EnhancedCombat"/>
+                    <attribute id="UUID" type="guid" value="a3b4c5d6-e7f8-9a0b-1c2d-3e4f5a6b7c8d"/>
+                </node>
+                <!-- 增强辅助技能 -->
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h7a8b9c0dg1e2fg3a4bg5c6dg7e8f9a0b1c2" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8b9c0d1eg2f3ag4b5cg6d7eg8f9a0b1c2d3" version="1"/>
+                    <attribute id="SelectorId" type="FixedString" value="EnhancedSupport"/>
+                    <attribute id="UUID" type="guid" value="d4e5f6a7-b8c9-0d1e-2f3a-4b5c6d7e8f9a"/>
                 </node>
             </children>
         </node>

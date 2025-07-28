@@ -21,7 +21,7 @@
                 </node>
                 <!-- 轻功 -->
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Passive_KFC_TiYunZong,Passive_KFC_YiWeiDuJiang,Passive_KFC_LingBoWeiBu,Passive_KFC_FeiXuQingYanGong"/>
+                    <attribute id="Passives" type="LSString" value="Passive_KFC_TiYunZong,Passive_KFC_YiWeiDuJiang,Passive_KFC_LingBoWeiBu,Passive_KFC_FeiXuQingYanGong,Passive_KFC_FeiYanHuiFeng"/>
                     <attribute id="UUID" type="guid" value="d9eff3c2-0fa4-4022-9ce3-d684c6d3fa29"/>
                 </node>
                 <!-- 内功 -->
@@ -31,7 +31,7 @@
                 </node>
                 <!-- 外功 -->
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Passive_KFC_WuLeiTianXinJue"/>
+                    <attribute id="Passives" type="LSString" value="Passive_KFC_WuLeiTianXinJue,Passive_KFC_TaiJiHuaJin,Passive_KFC_LianHuanDuoMing"/>
                     <attribute id="UUID" type="guid" value="556ab3de-5af7-4e11-9b08-48764ae60b46"/>
                 </node>
                 <!-- 拆招 -->
@@ -39,16 +39,9 @@
                     <attribute id="Passives" type="LSString" value="Passive_KFC_TaiJiQuan,Passive_KFC_DouZhuanXingYi,Passive_KFC_QianKunDaNuoYi"/>
                     <attribute id="UUID" type="guid" value="20aff608-ecf9-422f-85ee-6be3e36d9d8c"/>
                 </node>
-                <!-- 独孤九剑 -->
-                <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Passive_KFC_DuGuJianFa,Passive_KFC_PoJianShi,Passive_KFC_PoQiangShi,Passive_KFC_PoZhangShi,Passive_KFC_PoGongShi,Passive_KFC_PoQiShi,Passive_KFC_PoYinShi,Passive_KFC_ZongJueShi"/>
-                    <attribute id="UUID" type="guid" value="8f2e3d4c-5b6a-7890-1234-567890abcdef"/>
-                </node>
-                <!-- 五形拳 -->
-                <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Passive_KFC_HuXing,Passive_KFC_HeXing,Passive_KFC_LongXing,Passive_KFC_SheXing,Passive_KFC_YingXing,Passive_KFC_WuXingHeYi,Passive_KFC_XingYiZhuanHuan"/>
-                    <attribute id="UUID" type="guid" value="9a3b4c5d-6e7f-8901-2345-6789abcdef01"/>
-                </node>
+
+
+
             </children>
         </node>
     </region>
