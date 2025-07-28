@@ -1,0 +1,98 @@
+// 独孤九剑：总决式
+new entry "Passive_KFC_Immune_Force"
+type "PassiveData"
+// todo: fix
+data "Icon" "PassiveFeature_JackOfAllTrades"
+data "DisplayName" "hb6f52e08g9db0g4443g8ac6gb8cdede34446;1" // todo: fix
+data "Description" "hcbbd6375g06b0g4059g83e3g4068a4f42597;1" // todo: fix
+data "Properties" "IsToggled;Highlighted;ToggledDefaultAddToHotbar"
+data "Boosts" "Resistance(Force,Immune)"
+data "ToggleGroup" "KFC_DuGuJiuJian"
+
+// 独孤九剑：破剑式
+new entry "Passive_KFC_Immune_Slashing"
+type "PassiveData"
+// todo: fix
+data "Icon" "PassiveFeature_JackOfAllTrades"
+data "DisplayName" "hb6f52e08g9db0g4443g8ac6gb8cdede34446;1" // todo: fix
+data "Description" "hcbbd6375g06b0g4059g83e3g4068a4f42597;1" // todo: fix
+data "Properties" "IsToggled;Highlighted;ToggledDefaultAddToHotbar"
+data "Boosts" "Resistance(Slashing,Immune)"
+data "ToggleGroup" "KFC_DuGuJiuJian"
+
+// 独孤九剑：破刀式
+new entry "Passive_KFC_Immune_Fire"
+type "PassiveData"
+// todo: fix
+data "Icon" "PassiveFeature_JackOfAllTrades"
+data "DisplayName" "hb6f52e08g9db0g4443g8ac6gb8cdede34446;1" // todo: fix
+data "Description" "hcbbd6375g06b0g4059g83e3g4068a4f42597;1" // todo: fix
+data "Properties" "IsToggled;Highlighted;ToggledDefaultAddToHotbar"
+data "Boosts" "Resistance(Fire,Immune)"
+data "ToggleGroup" "KFC_DuGuJiuJian"
+
+// 独孤九剑：破枪式
+new entry "Passive_KFC_Immune_Cold"
+type "PassiveData"
+// todo: fix
+data "Icon" "PassiveFeature_JackOfAllTrades"
+data "DisplayName" "hb6f52e08g9db0g4443g8ac6gb8cdede34446;1" // todo: fix
+data "Description" "hcbbd6375g06b0g4059g83e3g4068a4f42597;1" // todo: fix
+data "Properties" "IsToggled;Highlighted;ToggledDefaultAddToHotbar"
+data "Boosts" "Resistance(Cold,Immune)"
+data "ToggleGroup" "KFC_DuGuJiuJian"
+
+// 独孤九剑：破鞭式
+new entry "Passive_KFC_Immune_Lightning"
+type "PassiveData"
+// todo: fix
+data "Icon" "PassiveFeature_JackOfAllTrades"
+data "DisplayName" "hb6f52e08g9db0g4443g8ac6gb8cdede34446;1" // todo: fix
+data "Description" "hcbbd6375g06b0g4059g83e3g4068a4f42597;1" // todo: fix
+data "Properties" "IsToggled;Highlighted;ToggledDefaultAddToHotbar"
+data "Boosts" "Resistance(Lightning,Immune)"
+data "ToggleGroup" "KFC_DuGuJiuJian"
+
+// 独孤九剑：破索式
+new entry "Passive_KFC_Immune_Thunder"
+type "PassiveData"
+// todo: fix
+data "Icon" "PassiveFeature_JackOfAllTrades"
+data "DisplayName" "hb6f52e08g9db0g4443g8ac6gb8cdede34446;1" // todo: fix
+data "Description" "hcbbd6375g06b0g4059g83e3g4068a4f42597;1" // todo: fix
+data "Properties" "IsToggled;Highlighted;ToggledDefaultAddToHotbar"
+data "Boosts" "Resistance(Thunder,Immune)"
+data "ToggleGroup" "KFC_DuGuJiuJian"
+
+// 独孤九剑：破掌式
+new entry "Passive_KFC_Immune_Bludgeoning"
+type "PassiveData"
+// todo: fix
+data "Icon" "PassiveFeature_JackOfAllTrades"
+data "DisplayName" "hb6f52e08g9db0g4443g8ac6gb8cdede34446;1" // todo: fix
+data "Description" "hcbbd6375g06b0g4059g83e3g4068a4f42597;1" // todo: fix
+data "Properties" "IsToggled;Highlighted;ToggledDefaultAddToHotbar"
+data "Boosts" "Resistance(Bludgeoning,Immune)"
+data "ToggleGroup" "KFC_DuGuJiuJian"
+
+// 独孤九剑：破箭式
+new entry "Passive_KFC_Immune_Piercing"
+type "PassiveData"
+// todo: fix
+data "Icon" "PassiveFeature_JackOfAllTrades"
+data "DisplayName" "hb6f52e08g9db0g4443g8ac6gb8cdede34446;1" // todo: fix
+data "Description" "hcbbd6375g06b0g4059g83e3g4068a4f42597;1" // todo: fix
+data "Properties" "IsToggled;Highlighted;ToggledDefaultAddToHotbar"
+data "Boosts" "Resistance(Piercing,Immune)"
+data "ToggleGroup" "KFC_DuGuJiuJian"
+
+// 独孤九剑：破气式
+new entry "Passive_KFC_Immune_Psychic"
+type "PassiveData"
+// todo: fix
+data "Icon" "PassiveFeature_JackOfAllTrades"
+data "DisplayName" "hb6f52e08g9db0g4443g8ac6gb8cdede34446;1" // todo: fix
+data "Description" "hcbbd6375g06b0g4059g83e3g4068a4f42597;1" // todo: fix
+data "Properties" "IsToggled;Highlighted;ToggledDefaultAddToHotbar"
+data "Boosts" "Resistance(Psychic,Immune)"
+data "ToggleGroup" "KFC_DuGuJiuJian"

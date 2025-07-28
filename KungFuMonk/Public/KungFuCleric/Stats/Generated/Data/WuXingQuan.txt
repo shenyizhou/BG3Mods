@@ -1,0 +1,60 @@
+// 五形拳
+new entry "Passive_KFC_WuXingQuan"
+type "PassiveData"
+// 支配野兽
+data "Icon" "Spell_Enchantment_DominateBeast"
+data "DisplayName" "hcbbd6375g06b0g4059g83e3g4068a4f42597;1"
+data "Description" "hac4e6518g6a0dg4ab5gb343g3ed689d67a61;1"
+data "Properties" "Highlighted"
+data "Boosts" "ProficiencyBonus(Skill,AnimalHandling)"
+
+// 五形拳：熊
+new entry "Passive_KFC_WuXingQuan_Bear"
+type "PassiveData"
+// 野兽面貌：熊，下同
+data "Icon" "PassiveFeature_AspectOfTheBeast_Bear"
+data "DisplayName" "h5eb74ba6g9cf6g43d3gbad3gf4073df704f5;1"
+data "Description" "h2d2e84c4g5d26g4ad5gb19cgfae7b3197607;1"
+data "Properties" "IsToggled;Highlighted;ToggledDefaultAddToHotbar"
+data "Boosts" ""
+data "ToggleGroup" "KFC_WuXingQuan"
+
+// 五形拳：鳄
+new entry "Passive_KFC_WuXingQuan_Crocodile"
+type "PassiveData"
+data "Icon" "PassiveFeature_AspectOfTheBeast_Crocodile"
+data "DisplayName" "h0471fe0cgbafcg4fd2g99a9g4fd09514df0f;1"
+data "Description" "he3f0dc64g1567g4c2dgba15g062b69d9b04f;1"
+data "Properties" "IsToggled;Highlighted;ToggledDefaultAddToHotbar"
+data "Boosts" ""
+data "ToggleGroup" "KFC_WuXingQuan"
+
+// 五形拳：鹿
+new entry "Passive_KFC_WuXingQuan_Elk"
+type "PassiveData"
+data "Icon" "PassiveFeature_AspectOfTheBeast_Elk"
+data "DisplayName" "ha606acd2g5bbeg4fbcg9cd7g6b181d790028;1"
+data "Description" "h93668559g3c84g4356gb2a2g08686c99c88f;1"
+data "Properties" "IsToggled;Highlighted;ToggledDefaultAddToHotbar"
+data "Boosts" "ActionResource(Movement,3,0)"
+data "ToggleGroup" "KFC_WuXingQuan"
+
+// 五形拳：虎
+new entry "Passive_KFC_WuXingQuan_Tiger"
+type "PassiveData"
+data "Icon" "PassiveFeature_AspectOfTheBeast_Tiger"
+data "DisplayName" "h1b4dccc1gb96ag4bb6g99eeg1459f30a0f6a;1"
+data "Description" "hbd778deeg280dg4624g9126g1fe3a7def516;1"
+data "Properties" "IsToggled;Highlighted;ToggledDefaultAddToHotbar"
+data "Boosts" ""
+data "ToggleGroup" "KFC_WuXingQuan"
+
+// 五形拳：鹰
+new entry "Passive_KFC_WuXingQuan_Eagle"
+type "PassiveData"
+data "Icon" "PassiveFeature_AspectOfTheBeast_Eagle"
+data "DisplayName" "h6e6ce275geb36g4891g87c5g63ab431fa198;1"
+data "Description" "h02d34d69gd9e4g414bga863g7fca697a86bc;1"
+data "Properties" "IsToggled;Highlighted;ToggledDefaultAddToHotbar"
+data "Boosts" ""
+data "ToggleGroup" "KFC_WuXingQuan"
