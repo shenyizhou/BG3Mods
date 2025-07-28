@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="marksman" version="1">Marksman</content>
+	<content contentuid="marksmandescript" version="1">Marksmen are trained fighters who excel in delivering heavy ranged damage.
+	Level 3 - &lt;LSTag Type="Passive" Tooltip="Marksman_Pointblank"&gt;Marksman Training&lt;/LSTag&gt;, &lt;LSTag Type="Passive" Tooltip="Marksman_BonusDamage"&gt;Steady Aim&lt;/LSTag&gt;
+	Level 7 - &lt;LSTag Type="Passive" Tooltip="TremendousStrength"&gt;Tremendous Strength&lt;/LSTag&gt;
+	Level 9 - &lt;LSTag Type="Passive" Tooltip="HeavyShot"&gt;Heavy Shot&lt;/LSTag&gt;</content>
+	<content contentuid="heavyshot" version="1">Heavy Shot</content>
+	<content contentuid="heavyshotdescript" version="1">Ranged attacks can push target back for 3 meters</content>
+	<content contentuid="marksmanbonus" version="1">Steady Aim</content>
+	<content contentuid="marksmanbonusdescript" version="1">Increases damage roll and attack roll with ranged weapons by 1.</content>
+	<content contentuid="tremendousstrength" version="1">Tremendous Strength</content>
+	<content contentuid="tremendousstrengthdescript" version="1">Ranged attacks have chance to inflict &lt;LSTag Type="Status" Tooltip="OFF_BALANCED"&gt;Off Balance&lt;/LSTag&gt;.</content>
+	<content contentuid="marksmanpointblank" version="1">Marksman Training</content>
+	<content contentuid="marksmanpointblankdescript" version="1">When you make ranged attacks within melee range, the &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; do not have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+	
+</contentList>

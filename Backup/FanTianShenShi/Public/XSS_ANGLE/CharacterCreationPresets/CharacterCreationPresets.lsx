@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="47"/>
+  <region id="CharacterCreationPresets">
+    <node id="root">
+      <children>
+		<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="0" /> 0 means smol, 1 means stronk
+          <attribute id="BodyType" type="uint8" value="0" /> 1 means wimmin, 0 means man
+                    <attribute id="CloseUpA" type="LSString" value="ELF_M_Camera_Closeup_A"/>
+                    <attribute id="CloseUpB" type="LSString" value="ELF_M_Camera_Closeup_B"/>
+                    <attribute id="Overview" type="LSString" value="ELF_M_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="380159a0-602e-4d89-bc61-11fd7174c5b8" />
+          <attribute id="SubRaceUUID" type="guid" value="973abb98-6f72-43db-b2b2-3881224df7a4"/> base Custom Main race
+          <attribute id="RootTemplate" type="guid" value="fc336331-18e5-423e-b933-70e051b221b4"/> roottemplates 
+          <attribute id="UUID" type="guid" value="02bbaf2e-334d-46f1-b050-cbdfcf340e32"/> must be unique!!
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> do not touch
+        </node>
+		<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="0"/>
+          <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="CloseUpA" type="LSString" value="ELF_F_Camera_Closeup_A"/>
+                    <attribute id="CloseUpB" type="LSString" value="ELF_F_Camera_Closeup_B"/>
+                    <attribute id="Overview" type="LSString" value="ELF_F_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="380159a0-602e-4d89-bc61-11fd7174c5b8" />
+          <attribute id="SubRaceUUID" type="guid" value="973abb98-6f72-43db-b2b2-3881224df7a4"/> base Custom Main race
+          <attribute id="RootTemplate" type="guid" value="95f97428-cdbd-4642-a752-4695bcdc24f7"/> roottemplates 
+          <attribute id="UUID" type="guid" value="ddf6c86b-a910-40f1-b8f8-04a2cab77aa6"/> must be unique
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
+      </children>
+	</node>
+   </region>
+</save>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList date="25/05/2024 12:47">
+  <content contentuid="stringsofmodmadebyxss20240524dv001001" version="1">天使</content>
+  <content contentuid="stringsofmodmadebyxss20240524dv001002" version="1">天生护甲</content>
+  <content contentuid="stringsofmodmadebyxss20240524dv001003" version="1">梵天神侍</content>
+  <content contentuid="stringsofmodmadebyxss20240524dv001004" version="1">传说中，天使化为凡身数年，将希望、勇气与援助带给善良之人的故事说的正是梵天神侍。它们可以化身为任何形态，并且喜欢在凡人面前以无害的类人生物或动物形态出现。</content>
+  <content contentuid="stringsofmodmadebyxss20240524dv001201" version="1">治愈之触</content>
+  <content contentuid="stringsofmodmadebyxss20240524dv001202" version="1">梵天神侍触碰另一生物，被触碰目标将回复[1]生命值，并移除其身上所有诅咒、疾病、中毒、目盲及耳聋效应。</content>
+  <content contentuid="stringsofmodmadebyxss20240524dv001203" version="1">变形</content>
+  <content contentuid="stringsofmodmadebyxss20240524dv001204" version="1">梵天神侍可以用魔法变形为挑战等级等于或低于其自身的类人生物或野兽，也可以同样用该动作恢复其真实形态。</content>
+  <content contentuid="stringsofmodmadebyxss20240524dv001205" version="1">解除变形</content>
+  <content contentuid="stringsofmodmadebyxss20240524dv001206" version="1">解除变形</content>
+
+  <content contentuid="stringsofmodmadebyxss20240524dv001101" version="1">天生护甲</content>
+  <content contentuid="stringsofmodmadebyxss20240524dv001102" version="1">不穿带任何护甲时，护甲等级为17</content>
+  <content contentuid="stringsofmodmadebyxss20240524dv001103" version="1">天使武器</content>
+  <content contentuid="stringsofmodmadebyxss20240524dv001104" version="1">武器额外造成[1]。</content>
+  <content contentuid="stringsofmodmadebyxss20240524dv001105" version="1">天生施法</content>
+  <content contentuid="stringsofmodmadebyxss20240524dv001106" version="1">关键施法属性为魅力，法术豁免难度17。</content>
+  
+  <content contentuid="stringsofmodmadebyxss20240528dv001001" version="1">登神长阶</content>
+  <content contentuid="stringsofmodmadebyxss20240528dv001002" version="1">你的能力会随着提升等级而进阶。</content>
+  <content contentuid="stringsofmodmadebyxss20240528dv001003" version="1">昂扬</content>
+  <content contentuid="stringsofmodmadebyxss20240528dv001004" version="1">达到5层时，进入昂扬姿态。</content>
+  <content contentuid="stringsofmodmadebyxss20240528dv001005" version="1">羽翼芒芒 希冀朗朗 利刃在手 制裁八方</content>
+  <content contentuid="stringsofmodmadebyxss20240528dv001006" version="1">移动速度+[1],额外获得一个动作;主手攻击范围增加，额外增加一个耀焰冲击的目标；12级后，昂扬姿态不会因战斗结束而取消。</content>
+  <content contentuid="stringsofmodmadebyxss20240528dv001007" version="1">昂扬姿态</content>
+  <content contentuid="stringsofmodmadebyxss20240528dv001008" version="1">昂扬姿态下，移动速度、攻击速度大幅增加；6级后，攻击范围大幅提升，每提升1级增加1个耀焰冲击的目标。</content>
+  <content contentuid="stringsofmodmadebyxss20240528dv001011" version="1">耀焰冲击</content>
+  <content contentuid="stringsofmodmadebyxss20240528dv001012" version="1">发射圣光微粒，发生碰撞后在[1]半径范围内爆发出汹涌的神圣火焰。</content>
+  <content contentuid="stringsofmodmadebyxss20240528dv001013" version="1">圣裁之刻</content>
+  <content contentuid="stringsofmodmadebyxss20240528dv001014" version="1">庇护[4]半径范围内友方不不会受到伤害，对触碰到的敌人施加月华之光效果,造成[1]。结束时对[2]半径范围内敌人降下制裁，造成[3]。</content>
+  <content contentuid="stringsofmodmadebyxss20240528dv001015" version="1">昂扬姿态·主手攻击</content>
+  <content contentuid="stringsofmodmadebyxss20240528dv001016" version="1">昂扬姿态·主手攻击</content>
+</contentList>

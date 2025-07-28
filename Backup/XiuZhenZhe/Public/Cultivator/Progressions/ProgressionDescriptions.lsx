@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="319"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+         <children>
+			    <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h6bdfd618g15b3g45c9g8a0egd02cecb1fe7a" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h73464215gc631g480fg97c4g0e3dbfcfc656" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Cultivator"/>
+                    <attribute id="ProgressionTableId" type="guid" value="947e5b71-076e-4f24-a465-5b21a517e81a"/>
+                    <attribute id="UUID" type="guid" value="f597056e-d987-44b3-9256-61af581184ad"/>
+                </node>
+				 <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h6bdfd618g15b3g45c9g8a0egd02cecb1fe7a" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hee5a6826g7afdg4ef2g8213gc2f51311e7f7" version="1"/>
+                    <attribute id="SelectorId" type="FixedString" value="benminglingfu"/>
+                    <attribute id="ProgressionTableId" type="guid" value="947e5b71-076e-4f24-a465-5b21a517e81a"/>
+                    <attribute id="UUID" type="guid" value="a7d05237-4bac-407c-a369-9aa9d1a4b5a4"/>
+                </node>
+		  </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generated with ShinyHobo's BG3 Modder's Multitool-->
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <node id="Progression"> Mainclass Level 1
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="Yiren" />
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Strength);ProficiencyBonus(SavingThrow,Dexterity);ProficiencyBonus(SavingThrow,Constitution);ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(SavingThrow,Wisdom);ProficiencyBonus(SavingThrow,Charisma);Proficiency(SimpleWeapons);Proficiency(MartialWeapons);ActionResource(KiPoint,9,0)" />
+                    <attribute id="PassivesAdded" type="LSString" value="shenmingling;shenyingneilian;laononggong;UnarmoredDefense_Monk" />
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(5f1c7177-6e28-4a42-a7a5-cfaf4c31519c,2);AddSpells(6a82e8d2-aded-42f8-9750-e830cca6dad8,,,,AlwaysPrepared)" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="99636a80-29ec-4a19-a905-e0d30825c3e0" />
+                    <attribute id="UUID" type="guid" value="dbeaeb35-7262-4d76-a421-25f51a4de752" />
+                    </node>
+                <node id="Progression">Main Class level 2
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="2" />
+                    <attribute id="Name" type="LSString" value="Yiren" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0)" />
+                    <attribute id="PassivesAdded" type="LSString" value="shuangquanshou" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(d32d6cd7-7162-4c51-9adb-b5ad677c6a6b,,,,AlwaysPrepared)" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="99636a80-29ec-4a19-a905-e0d30825c3e0" />
+                    <attribute id="UUID" type="guid" value="829561f8-43bb-4d87-be1b-f496d04871e5" />
+                    </node>
+                <node id="Progression">Main Class level 3
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="3" />
+                    <attribute id="Name" type="LSString" value="Yiren" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0)" />
+                    <attribute id="PassivesAdded" type="LSString" value="tongtianlu" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(f2c5db6f-f64e-4534-9aa3-507a6c2aecc9,,,,AlwaysPrepared)" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="99636a80-29ec-4a19-a905-e0d30825c3e0" />
+                    <attribute id="UUID" type="guid" value="cb4796b9-69c3-41ad-bd0a-e4a90c175f11" />
+                    </node>
+                <node id="Progression">Main Class level 4
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Level" type="uint8" value="4" />
+                    <attribute id="Name" type="LSString" value="Yiren" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0)" />
+                    <attribute id="PassivesAdded" type="LSString" value="julingqianjiang;sisheng" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(96b8c470-0c9f-4bfe-a5c2-0733ddfaa527,,,,AlwaysPrepared)" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="99636a80-29ec-4a19-a905-e0d30825c3e0" />
+                    <attribute id="UUID" type="guid" value="fe0fb152-22f0-45f5-99b8-b4ebf3e3249c" />
+                    </node>
+                <node id="Progression">Main Class level 5
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="5" />
+                    <attribute id="Name" type="LSString" value="Yiren" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0);ActionResource(DeflectMissiles_Charge,1,0)" />
+                    <attribute id="PassivesAdded" type="LSString" value="shenjibailian;yuwu;wudoukai;sanbaozhu" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(213dd9fe-c6b2-4699-89d4-6b5ae72e17aa,,,,AlwaysPrepared)" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="99636a80-29ec-4a19-a905-e0d30825c3e0" />
+                    <attribute id="UUID" type="guid" value="be0de5bf-a099-4a70-8847-aa13c550cdd8" />
+                    </node>
+                <node id="Progression">Main Class level 6
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="6" />
+                    <attribute id="Name" type="LSString" value="Yiren" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0)" />
+                    <attribute id="PassivesAdded" type="LSString" value="liukuxianzei;busikuangnu" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(b5cb22b2-cca8-49b7-a2dc-00708819f271,,,,AlwaysPrepared)" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="99636a80-29ec-4a19-a905-e0d30825c3e0" />
+                    <attribute id="UUID" type="guid" value="68070e62-f6d2-4a3c-a8d7-75b377af02ec" />
+                    </node>
+                <node id="Progression">Main Class level 7
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="7" />
+                    <attribute id="Name" type="LSString" value="Yiren" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0)" />
+                    <attribute id="PassivesAdded" type="LSString" value="daluodongguan;dongguanqiangu" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(a3f38349-f761-49a9-9407-ae097595cc9d,,,,AlwaysPrepared)" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="99636a80-29ec-4a19-a905-e0d30825c3e0" />
+                    <attribute id="UUID" type="guid" value="a9d3b680-f745-40d3-8c6d-81f8db4b71f1" />
+                    </node>
+                <node id="Progression">Main Class level 8
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Level" type="uint8" value="8" />
+                    <attribute id="Name" type="LSString" value="Yiren" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0)" />
+                    <attribute id="PassivesAdded" type="LSString" value="fenghouqimen" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(a987216c-70ed-4636-9211-762b68b2be92,,,,AlwaysPrepared)" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="99636a80-29ec-4a19-a905-e0d30825c3e0" />
+                    <attribute id="UUID" type="guid" value="296c39d9-a93c-4b56-bcfb-a1eeb41d468e" />
+                    </node>
+                <node id="Progression">Main Class level 9
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="9" />
+                    <attribute id="Name" type="LSString" value="Yiren" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0)" />
+                    <attribute id="PassivesAdded" type="LSString" value="qitiyuanliu;zhangxinlei" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(98e2a876-2302-4625-8ef5-e892270dcd12,,,,AlwaysPrepared)" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="99636a80-29ec-4a19-a905-e0d30825c3e0" />
+                    <attribute id="UUID" type="guid" value="69dcac30-7852-45fa-bbe6-ee054135618d" />
+                    </node>
+                <node id="Progression">Main Class level 10
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="10" />
+                    <attribute id="Name" type="LSString" value="Yiren" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0)" />
+                    <attribute id="PassivesAdded" type="LSString" value="tianshidao" />
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(cce57d69-a6d2-49ee-a545-8f70c6f94149,2,Wulei)" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="99636a80-29ec-4a19-a905-e0d30825c3e0" />
+                    <attribute id="UUID" type="guid" value="cbffc038-6bc9-4b86-95e8-11be7fc90e85" />
+                    </node>
+                <node id="Progression">Main Class level 11
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="11" />
+                    <attribute id="Name" type="LSString" value="Yiren" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0)" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="99636a80-29ec-4a19-a905-e0d30825c3e0" />
+                    <attribute id="UUID" type="guid" value="45046a03-2588-49f5-ac10-223cc41009ad" />
+                    </node>
+                <node id="Progression">Main Class level 12
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Level" type="uint8" value="12" />
+                    <attribute id="Name" type="LSString" value="Yiren" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0)" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="99636a80-29ec-4a19-a905-e0d30825c3e0" />
+                    <attribute id="UUID" type="guid" value="fab31371-4c35-405c-9731-1cfcaa85081e" />
+                    </node>
+                <node id="Progression">Main Class level 13
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="13" />
+                    <attribute id="Name" type="LSString" value="Yiren" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0)" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="99636a80-29ec-4a19-a905-e0d30825c3e0" />
+                    <attribute id="UUID" type="guid" value="7774efde-602b-42f8-a6e9-d0b5580ac871" />
+                    </node>
+                <node id="Progression">Main Class level 14
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="14" />
+                    <attribute id="Name" type="LSString" value="Yiren" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0)" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="99636a80-29ec-4a19-a905-e0d30825c3e0" />
+                    <attribute id="UUID" type="guid" value="e39b716f-82a3-4aa1-b179-7d333e675673" />
+                    </node>
+                <node id="Progression">Main Class level 15
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="15" />
+                    <attribute id="Name" type="LSString" value="Yiren" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0)" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="99636a80-29ec-4a19-a905-e0d30825c3e0" />
+                    <attribute id="UUID" type="guid" value="fc8083ab-d0e3-400a-816e-c61308d5596d" />
+                    </node>
+                <node id="Progression">Main Class level 16
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Level" type="uint8" value="16" />
+                    <attribute id="Name" type="LSString" value="Yiren" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0)" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="99636a80-29ec-4a19-a905-e0d30825c3e0" />
+                    <attribute id="UUID" type="guid" value="cd743f7e-3a02-46af-a5a1-fbb747c4adfa" />
+                    </node>
+                <node id="Progression">Main Class level 17
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="17" />
+                    <attribute id="Name" type="LSString" value="Yiren" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0)" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="99636a80-29ec-4a19-a905-e0d30825c3e0" />
+                    <attribute id="UUID" type="guid" value="3be8027f-fa4a-4e99-ac9d-09dd24619d32" />
+                    </node>
+                <node id="Progression">Main Class level 18
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="18" />
+                    <attribute id="Name" type="LSString" value="Yiren" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0)" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="99636a80-29ec-4a19-a905-e0d30825c3e0" />
+                    <attribute id="UUID" type="guid" value="b1913064-9cfb-4cfd-8e87-ca12d67f0fef" />
+                    </node>
+                <node id="Progression">Main Class level 19
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="19" />
+                    <attribute id="Name" type="LSString" value="Yiren" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0)" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="99636a80-29ec-4a19-a905-e0d30825c3e0" />
+                    <attribute id="UUID" type="guid" value="f43c84ad-a3f4-4f2d-bff7-193924482338" />
+                    </node>
+                <node id="Progression">Main Class level 20
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Level" type="uint8" value="20" />
+                    <attribute id="Name" type="LSString" value="Yiren" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0)" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="99636a80-29ec-4a19-a905-e0d30825c3e0" />
+                    <attribute id="UUID" type="guid" value="f4d979c3-82ee-4ca9-adc1-7b904ccaa6e5" />
+                </node>
+             </children>
+        </node>
+    </region>
+</save>

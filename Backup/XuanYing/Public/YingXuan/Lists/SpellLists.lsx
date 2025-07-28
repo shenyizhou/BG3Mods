@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="5" build="610"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+		<node id="SpellList"> YingXuan Level 3
+                    <attribute id="Spells" type="LSString" value="YingXuan_ArrowDBG;YingXuan_Whirlwind;YingXuan_Jump_Vampire_Bats;YingXuan_SpeakWithAnimals;YingXuan_DetectThoughts;"/>    
+                    <attribute id="UUID" type="guid" value="fda15695-7808-4fdb-8f1e-f24bf4c9240a"/>
+		</node>			
+		<node id="SpellList"> YingXuan Level 5
+                    <attribute id="Spells" type="LSString" value="YingXuan_Volley;YingXuan_Rush_Primal_Stampede;YingXuan_Repulsor"/>  
+                    <attribute id="UUID" type="guid" value="3e70c7cb-c34e-4417-9626-f99520a8f70c"/>
+		</node>
+		<node id="SpellList"> YingXuan Level 7
+                    <attribute id="Spells" type="LSString" value="YingXuan_GlobeOfInvulnerability;YingXuan_Shotgun_Gortash"/>  
+                    <attribute id="UUID" type="guid" value="063ce472-dffe-4098-8643-557f31af2f94"/>
+		</node>
+      	<node id="SpellList"> YingXuan Level 9
+                    <attribute id="Spells" type="LSString" value="YingXuan_Bear_Summon;"/>  
+                    <attribute id="UUID" type="guid" value="8edcde07-cd54-429f-9450-c4af7138761a"/>
+        </node>
+		<node id="SpellList"> YingXuan Level  11
+                    <attribute id="Spells" type="LSString" value="YingXuan_RetrievingShot"/>  
+                    <attribute id="UUID" type="guid" value="3f82dd05-3c5a-4cc2-8650-9a8463bb0f8c"/>
+		</node>
+       	    </children>
+	</node>
+    </region>
+</save>

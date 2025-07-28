@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h3af19bd4g5cb3g4fb1ga2e8gb83709942126" version="1">Ki Warrior</content>
+	<content contentuid="hbfa4a26eg6d74g41ccg8842gc0206679663a" version="1">Ki Warriors Warriors have mastered the use of Ki to a degree most fighters or even monks could only wish. Able to easily concentrate their ki in and around their body, Ki Warriors can fire blasts land strikes at blinding speeds and even learn to fly using nothing but the power of their Ki.</content>
+	<content contentuid="h358d810bgb377g4029gb48bgcb2b08bdcfe1" version="1">Saiyan Heritage</content>
+	<content contentuid="h873a7587g6b7eg4e9ag8466g70ea1930d394" version="1">You have the blood of an ancient alien race coursing through your veins. Thanks to it, you are stronger, faster, but far more prideful than any lesser race. You are a saiyan, and you will show them who is the true strongest warrior in the land.</content>
+	<content contentuid="hfab742a5gfc31g4d6cgbe87g65c189320247" version="1">Turtle Hermit Prodigy</content>
+	<content contentuid="hbb57e676ga62bg488egb0c7ga7cc01413f99" version="1">Through blood, sweat and tears you have pushed past your limits time and time before. Shaping yourself to be a ki warrior often deemed supernatural in sheer might and power. Through nothing but dedication and training, you will surpass every challenge that comes your way.</content>
+	<content contentuid="he33a5279g34f5g4b7fg8833g93741742f532" version="1">Warrior's Ki</content>
+	<content contentuid="h68336fd3g5a0fg4cc8g95cfga458ecdb87a5" version="1">A measure of your energy and capacity to fight. You normally recover 10% of your maximum Ki at the start of each of your turns. You automatically regain all Ki after combat ends.</content>
+	<content contentuid="h52139476g0955g4fc4ga701g74eb4c481510" version="1">Zenkai</content>
+	<content contentuid="h887a03f1g6d9ag4377g9c77gb38df54b2e09" version="1">Your capacity to bounce back from death as a Saiyan.&lt;br&gt;Whenever you would become &lt;LSTag Type="Status" Tooltip="DOWNED"&gt;Downed&lt;/LSTag&gt; in combat, you can choose to instead instantly regain 25% of your Hit Points and gain &lt;LSTag Type="Status" Tooltip="KW_Zenkai_Boost"&gt;Zenkai Boost&lt;/LSTag&gt; for the rest of the combat encounter.</content>
+	<content contentuid="h55ae5c92gca8eg455cgace2g4caa8738b90b" version="1">Senzu Bean</content>
+	<content contentuid="h43122943g5885g4e8cg8230g27a700d09dbc" version="1">A miraculous seed that fully restores the body of all wounds and ailments. They grow quickly, but have a low yield.</content>
+	<content contentuid="hdaff559cgddbfg4e60gac47gdde903f0abed" version="1">You're not meant to see this headass.</content>
+	<content contentuid="hb97da898g9402g4726gae1bg253ca27ef052" version="1">Martial Arts: Rapid Blows</content>
+	<content contentuid="h83aa44cbg202bg42aag849cgcd6fd6922c29" version="4">After making an attack with a &lt;LSTag Tooltip="MonkWeapon"&gt;Monk Weapon&lt;/LSTag&gt; or while unarmed, you can make another unarmed attack as a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt;.</content>
+	<content contentuid="h82a9aa4cg700bg4fe2gb0d4g99b33287a184" version="1">Martial Arts: Agile Blows</content>
+	<content contentuid="h229b6649g937fg4d50g8dd2g2f7213f53db8" version="1">Attacks with &lt;LSTag Tooltip="MonkWeapon"&gt;Monk Weapons&lt;/LSTag&gt; and unarmed attacks deal [1], unless their normal damage is higher and scale with your &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; instead of your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; if your Dexterity is higher.</content>
+	<content contentuid="h2e1371f1g8bdeg4763g8d41g3a8379d900d0" version="1">Ki Blast</content>
+	<content contentuid="h6bf37996g73cdg4b8cg8cf7g724b9efecf19" version="1">Charge and fire a ball of concentrated Ki. A Ki Warrior's most reliable attack.</content>
+	<content contentuid="h54cc3446g26e0g496dgb4d4g68ca7f3c75f0" version="1">Unarmed Strike</content>
+	<content contentuid="h0584a933g3f85g431bg9258gb0fa4d445a0b" version="1">Strong Strike</content>
+	<content contentuid="h29e4ae37g55cag47a9ga37cgd7b548e955c5" version="1">Deliver two devastating kicks, dealing [1] each.</content>
+	<content contentuid="h0f41bf3bgf9e0g4473g88b0g3c6e6148b293" version="1">This technique can also be used as a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; as part of Martial Arts: Rapid Blows.</content>
+	<content contentuid="he15cf7dfg01e2g4338ga9a8g4ac33808f495" version="1">Strong Follow-Up Strike</content>
+	<content contentuid="h1c121983g578eg4926ga99cg481c79fdc23a" version="1">Deliver two devastating kicks, dealing [1] each.</content>
+	<content contentuid="h854e9855g2117g4d04g9f15gb5aa96fa8248" version="1">Gather Power</content>
+	<content contentuid="hb9586347g034ag467egb051g751bdffdd4b6" version="1">Fleeting Gather Power</content>
+	<content contentuid="h2b728996g4052g416eg977eg64b545d1516e" version="1">Intense Gather Power</content>
+	<content contentuid="hbb22cf96gff73g4810g904fg6d5d7d5529d8" version="1">Concentrate and gather your power, replenishing your Ki.</content>
+	<content contentuid="h2b489fa0gc6feg45ebg93cdg5287d039dad9" version="1">Concentrate and gather your power, replenishing [1]% of your Ki.</content>
+	<content contentuid="h532766ffg2e59g4203ga8c3g333cb714e4eb" version="1">Challenge</content>
+	<content contentuid="heba2e819g9122g4d42ga22bg336f16a65ec3" version="1">Throw out a challenge to a foe, inviting them to come at you directly as you focus on them.</content>
+	<content contentuid="hddbdc14fga6ddg412ag827bg98eacf2cc46d" version="1">You are currently challening specific combatants. You have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; On Attack Rolls against anyone other than those you challenged.</content>
+	<content contentuid="hf4ad77ffg4461g44c3g8866geb0e89799402" version="1">Bukūjutsu</content>
+	<content contentuid="h56e526acgc8feg471ag90d0g7d01e859a42b" version="1">You fly through the use of ki. At your current level of training, you can only spare short bursts of movement.</content>
+	<content contentuid="hb5ad0beag1a4fg4d8ag9536ge467708e92ef" version="1">You fly through the use of ki. Hardly any further than you can run, but you can reach further places thanks to your training.</content>
+	<content contentuid="h1212e35bg8095g4e5dg83f6ge15ed1c588d6" version="1">Afterimage Techique</content>
+	<content contentuid="hc7a502eeg6cecg4566g83d6g4d462edf7cde" version="1">By utilizing Ki at the very last second, you can potentially avoid damage. You gain the &lt;LSTag Type="Spell" Tooltip="KW_Counterattack_A"&gt;Counterattack&lt;/LSTag&gt; reaction.</content>
+	<content contentuid="he509c1dag9bd9g45eegbc53gfb9729d6b061" version="1">When attacked, you can spend a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to gain a bonus to your &lt;LSTag Tooltip="ArmorClass"&gt;Armour Class&lt;/LSTag&gt; equal to your Proficiency Bonus.</content>
+	<content contentuid="hfcddfec2g9e90g4884gafd9g353f223676b4" version="1">You fly through the use of ki. Your body has grow used to the feeling of flight and thus can reach further in a single burst.</content>
+	<content contentuid="h8e1a78c8g2d53g4c26gbb11g0ed6e7902620" version="1">Improved Ki Control</content>
+	<content contentuid="hac134085g8c07g442dg9552gde55550084c5" version="1">Your control over ki allows you to regain and additional 5% of your ki each turn.</content>
+	<content contentuid="h1a9ce02cg624eg4161ga651g63c3c90a7dd8" version="1">You fly through the use of ki with extreme ease, requiring little energy or movement.</content>
+	<content contentuid="h03754ae6g5907g4c8bg8ccbg97638fbf8016" version="1">Skill Expertise: Intimidation</content>
+	<content contentuid="hfdb4f40eg147cg4a84g8797g1860f2c0fcd3" version="1">Your defiant and imposing Saiyan nature makes you terrifying to those weaker than you. You gain &lt;LSTag Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; in the Intimidation Skill.</content>
+	<content contentuid="h1a9dacf4gdcc0g4cccgb9e5g2201bed18ddf" version="1">Zenkai (1/Day)</content>
+	<content contentuid="h09efa34dg2b25g47b5g98eegbf71f69b49b4" version="1">As a saiyan, death is but a chance to grow stronger. Whenever you would become &lt;LSTag Type="Status" Tooltip="DOWNED"&gt;Downed&lt;/LSTag&gt; in combat, you can choose to instead instantly regain 25% of your Hit Points and gain &lt;LSTag Type="Status" Tooltip="KW_Zenkai_Boost"&gt;Zenkai Boost&lt;/LSTag&gt; for the rest of the combat encounter.</content>
+	<content contentuid="h5b75d8e4g1f00g473bgb722gb66c2f4a117a" version="1">Zenkai Boost</content>
+	<content contentuid="h10239303g0c87g4bd7g87bdg241e3ab6b905" version="1">Being brought to the brink only makes you stronger. Your &lt;LSTag Tooltip="ArmorClass"&gt;Armour Class&lt;/LSTag&gt; increases by [1] and you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;on all &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+	<content contentuid="hfc4beb4eg2bf6g4524gb868gc40a5a76108f" version="1">Indominable</content>
+	<content contentuid="h1e1615dag76dbg417agad70gd1bf45b7564c" version="1">Your saiyan spirit cannot be stopped. Each time you spend an action to regain Ki, you gain Temporary Hit Points.</content>
+	<content contentuid="h8879cd24ge7a2g4f55gb743gee303046fd8f" version="1">Counterattack</content>
+	<content contentuid="h1cb9a718g3409g4ddegb1f1g882618360924" version="1">Your defiant saiyan nature allows you to remain at the offensive even while others are attempting to attack you. You gain the &lt;LSTag Type="Spell" Tooltip="KW_Counterattack_A"&gt;Counterattack&lt;/LSTag&gt; reaction.</content>
+	<content contentuid="hb2c9171cgb213g4220gb8f1gc2de73a6c103" version="1">When attacked by by a melee strike, you can spend a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to make an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; against your attacker.</content>
+	<content contentuid="hf23e7016g6d52g40b1gb06cg88485a6897ff" version="1">Zenkai (2/Day)</content>
+	<content contentuid="haba6dc38g0f63g44e9gacc6g52357d3b9a7a" version="1">Zenkai (3/Day)</content>
+	<content contentuid="h5ab02fe0g02c8g40a9g9484gc6024bf2b2c9" version="1">Skill Expertise: Persuasion</content>
+	<content contentuid="ha7acf533g96c8g4d94g9594g1501af51f8e6" version="1">You know that the path to growth is not a solitary one. You gain &lt;LSTag Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; in Persuasion.</content>
+	<content contentuid="h53d5b928g1c81g49c1gb266gf22af259157c" version="1">Lend Energy</content>
+	<content contentuid="h6482489bg2042g4bf3g87a6g6d747c89bf86" version="1">Lend some of your Ki to an ally, granting them an additional &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; for a turn.</content>
+	<content contentuid="h69361c6eg4166g4bacgade4ge742cfa716fc" version="1">Energy Surge</content>
+	<content contentuid="h8326d89fg162ag485cgb59aga111cc2ad8f5" version="1">You've been lent a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; from an ally.</content>
+	<content contentuid="hade046cag149fg424eg84dbgc14909711292" version="1">Turtle School Training</content>
+	<content contentuid="hd5ecdd85g20dfg42e2gb8eag2ad88affd95c" version="1">You've mastered the techniques form the Turtle School. You regain 10 Ki each time you land a critical blow.</content>
+	<content contentuid="h214d5982gacb5g4257g8033g6b300e67297d" version="1">Grand Lend Energy</content>
+	<content contentuid="hde36fe30gf93cg42aagbfdfgc7b0854be270" version="1">Lend a substantial amount of your Ki to an ally, granting them an additional &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;action&lt;/LSTag&gt; for a turn.</content>
+	<content contentuid="h88d0764cg6cfeg4cf7ga76fgf14ebb240b8e" version="1">You've been lent an &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;action&lt;/LSTag&gt; from an ally.</content>
+	<content contentuid="he14298a2g7b25g4ab8g87fagbcfbcd21ca33" version="1">Kaio-Ken Mastery</content>
+	<content contentuid="hdb999ddcg044cg4f93ga925g860c969c6ef1" version="1">You've truly mastered the art of Kaio-Ken technique. During Kaio-Ken, all Ki Techniques and attacks with a &lt;LSTag Tooltip="MonkWeapon"&gt;Monk Weapon&lt;/LSTag&gt; or while unarmed inflict &lt;LSTag Type="Status" Tooltip="MAG_THUNDER_REVERBERATION"&gt;Reverberation&lt;/LSTag&gt;.&lt;br&gt;You can withstand up to 10 Stacks of &lt;LSTag Type="Status" Tooltip="KW_KaiokenStrain"&gt;Kaio-Ken Strain&lt;/LSTag&gt; before your body gives out.&lt;br&gt;You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; from &lt;LSTag Type="Status" Tooltip="KW_KaiokenStrain"&gt;Kaio-Ken Strain&lt;/LSTag&gt;.&lt;br&gt;You no longer generate &lt;LSTag Type="Status" Tooltip="KW_KaiokenStrain"&gt;Kaio-Ken Strain&lt;/LSTag&gt; or take damage from your basic &lt;LSTag Type="Spell" Tooltip="KW_Kaioken1"&gt;Kaio-Ken x1&lt;/LSTag&gt; technique.</content>
+	<content contentuid="hf6533ec4g176dg40cfg92cdg8952bedfb671" version="1">Auto Kaio-Ken</content>
+	<content contentuid="h5a202cb7g1ef1g4760gae57gba688af5c063" version="1">Automatically enter &lt;LSTag Type="Status" Tooltip="KW_Kaiokenx1"&gt;Kaioken x1&lt;/LSTag&gt; at the start of combat without spending any actions.</content>
+	<content contentuid="h9e7f76ebg8d70g4b0ag9646g099f1ea6a23a" version="1">Senzu Beans</content>
+	<content contentuid="hdb553ef9gbad0g43d4gbb99gd8be003ec41f" version="1">You are able to harvest a single &lt;LSTag Type="ActionResource" Tooltip="KW_SenzuBeanCharge"&gt;Senzu Bean&lt;/LSTag&gt; after a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;. Any beans you did not use the previous day wither away.</content>
+	<content contentuid="hd04f3f34gfb79g4ccdga5b0g26b2b338ff48" version="1">Senzu Bean</content>
+	<content contentuid="h944c13c2gccd9g4f45gb0eeg9408dd1d5820" version="1">Fully restore the target's Hit Points and remove most conditions.</content>
+	<content contentuid="h8d4e412fg5a86g49fega2bcgcf8d31556a9f" version="1">You are able to harvest two &lt;LSTag Type="ActionResource" Tooltip="KW_SenzuBeanCharge"&gt;Senzu Beans&lt;/LSTag&gt; after a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;. Any beans you did not use the previous day wither away.</content>
+	<content contentuid="h033ffc06g3333g4e24g8ee1gd53cf312dbda" version="1">Improved Kaio-Ken Mastery</content>
+	<content contentuid="h4ab93e01g8c3cg42e6g984cg9e866ef3db28" version="1">Your mastery of Kaio-Ken extends to &lt;LSTag Type="Status" Tooltip="KW_Kaiokenx2"&gt;Kaioken x2&lt;/LSTag&gt;.</content>
+	<content contentuid="h243030d8g14abg4565gabfeg2b344fb8ba1f" version="1">Kaio-Ken: Power Down</content>
+	<content contentuid="h1687e7degea8cg4fefga631g560d4b4a37a5" version="1">End your Kaio-Ken technique.</content>
+	<content contentuid="h7224489bgb912g4f89g9f3cgad178c5f2a4f" version="1">Kaio-Ken</content>
+	<content contentuid="h3f39f193g6a3eg4aa5g81e1g2aa78a300fc5" version="1">Kaio-Ken x2</content>
+	<content contentuid="hcbf2b626g4557g486ag94c7g3f4cde54fd1b" version="1">Kaio-Ken x3</content>
+	<content contentuid="h44485039g50d1g4cfeg8e67g18273e944050" version="1">Kaio-Ken x4</content>
+	<content contentuid="h6fe15ea9g1fafg4c5agb65ag6555dc27bcc5" version="1">Kaio-Ken x5</content>
+	<content contentuid="h4b44f15bg7c48g4d3bga582ge25b06ef36d6" version="1">Kaio-Ken x10</content>
+	<content contentuid="h8edad656g897fg4ae4ga32cg715aa3284781" version="1">Kaio-ken Strain</content>
+	<content contentuid="h03eeb7bcg9f6ag426eg8e8bgd34a3d2a0f1d" version="1">Your body is being pushed past its limits. Gaining more than 5 stacks of Kaio-ken Strain causes your body to give out, dealing [2] and &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;stunning&lt;/LSTag&gt; you.</content>
+	<content contentuid="h7c9d7a14ga45cg4aa1g894eg70de8e7033e9" version="1">Change your Kaio-Ken multiplier. You can only do this once per turn.</content>
+	<content contentuid="heb8f034egff26g484dgba43gd2b3ba5b8535" version="1">Through masterful Ki Control, you can push your body past its limits for a short burst. But at the expense of potentially destroying you from the inside out.</content>
+	<content contentuid="h7326527dg7022g4b8bgae6bgd9a793dbe745" version="1">Through masterful Ki Control, you can push your body past its limits for a short burst. But at the expense of potentially destroying you from the inside out.&lt;br&gt;All Ki Techniques and attacks with a &lt;LSTag Tooltip="MonkWeapon"&gt;Monk Weapon&lt;/LSTag&gt; or while unarmed have Advantage, deal an additional [1]. Your critical hit threshold is lowered by [2]. You regain [3] Ki every turn. &lt;br&gt;Each turn you take [1] and gain [4] Stack(s) of &lt;LSTag Type="Status" Tooltip="KW_KaiokenStrain"&gt;Kaio-Ken Strain&lt;/LSTag&gt;.</content>
+	<content contentuid="hcdd8f9b3g64a3g47cbgb39ag8c9b70ecae91" version="1">Super Saiyan: Power Down</content>
+	<content contentuid="hf450d2c6gd689g4663g9d92ge3250cecc790" version="1">End your Super Saiyan transformation.</content>
+	<content contentuid="h30d7d64cgb1d2g4493g9342gba4871b03ce6" version="1">Super Saiyan</content>
+	<content contentuid="hbb59e5e9g2957g4418g97e8gb53f7ed59918" version="1">Super Saiyan 2</content>
+	<content contentuid="h26beae89g9706g4ddbgb089gca2f39a42f72" version="1">Super Saiyan 3</content>
+	<content contentuid="h66d6e45dg9be8g4f7fg9b01g6b45a569136e" version="1">Step up or down the Super Saiyan transformation line.</content>
+	<content contentuid="h4a751a9agd728g45bdg9520g3e3370794b84" version="1">By tapping into your heritage, you can reach a new frontier of power and endurance. Using nothing but Ki to empower yourself to heights unseen.</content>
+	<content contentuid="hfd9e4d38gfcb9g4b64g9280g1c60e418dacc" version="1">By tapping into your heritage, you can reach a new frontier of power and endurance. Using nothing but Ki to empower yourself to heights unseen.&lt;br&gt;All Ki Techniques and attacks with a &lt;LSTag Tooltip="MonkWeapon"&gt;Monk Weapon&lt;/LSTag&gt; or while unarmed have Advantage, deal an additional [1]. You gain a bonus to your &lt;LSTag Tooltip="ArmorClass"&gt;Armour Class&lt;/LSTag&gt; equal to your Charisma Modifier (Minimum +1) and recoverr [2] at the start of each turn.&lt;br&gt;You no longer recover Ki passively at the start of your turn, even while using techniques like Kaio-Ken. Instead, you lose [3] Ki at the start of every turn. If you cannot pay this cost, your Super Saiyan state ends.</content>
+	<content contentuid="h219d7e2dg4901g45a3ga509gb70435f5ceaf" version="1">You can only use this action once every [1] rounds.</content>
+	<content contentuid="ha129c823gf188g4c51ga1a7g23ee8f3cd242" version="1">Brace</content>
+	<content contentuid="h62cbe70fg1f6dg4616g8db3gb4fc52b96833" version="1">Protect yourself from non-critical incoming damage, gaining &lt;LSTag Tooltip="Resistance"&gt;Resistance&lt;/LSTag&gt; to Bludgeoning, Piercing and Slashing damage. But you become &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;unable to move&lt;/LSTag&gt; for a turn.</content>
+	<content contentuid="h48024a1cga9cfg4a4agad77g570ed447f9ff" version="1">Brace Cooldown</content>
+	<content contentuid="h9520631agceb2g4b3eg9926g0b17030f983e" version="1">You cannot use the &lt;LSTag Type="Spell" Tooltip="KW_Brace"&gt;Brace&lt;/LSTag&gt; action.</content>
+	<content contentuid="h57e33af1g23e0g4dbdg99d7g7d469b477050" version="1">Destructo Disk</content>
+	<content contentuid="h725d769dg18edg4a1fga1f8ga5227cf1d7fb" version="1">Transform a sphere of ki into a thin rotating disk that can cut through flesh, dealing Slashing and Radiant damage as well as inflicting deep &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;Bleeding&lt;/LSTag&gt; wounds.</content>
+	<content contentuid="hb9bb688eg581ag471egb895ga9755322f9d7" version="1">Double Sunday</content>
+	<content contentuid="hb1964529g23acg4048g8196g604730d5093d" version="1">Fire two quick ki beams which leave the target off-balance.</content>
+	<content contentuid="h1ba23b8bg0675g4dc6gb6c4g7e11afb86cc9" version="1">Kamehameha</content>
+	<content contentuid="h14df2ae6gf83ag40a2ga8e9g71c2ee1aeaf5" version="1">The signature technique of the turtle school. Fires off a beam of concentrated ki that inflicts serius damage.</content>
+	<content contentuid="hc5e6c1dbg14f0g4e22gaa69g2933c0ba41b3" version="1">Kamehameha Cooldown</content>
+	<content contentuid="h7a7e17abg3e4dg4accga954g48b73e80f210" version="1">You cannot use the &lt;LSTag Type="Spell" Tooltip="KW_Kamehameha"&gt;Kamehameha&lt;/LSTag&gt; action.</content>
+	<content contentuid="hfb302d8fge57fg43c0ga60dg1493ff6a2cc4" version="1">Ki Rejuvenation</content>
+	<content contentuid="hf9a89b80gf1f9g45efg9091g7f3cbe95fc48" version="1">A namekian technique that uses Ki to mend physical harm. Restores the target's Hit Points.</content>
+	<content contentuid="hfc8c9374g9e5fg4f1cgbb78g9282e95acfd5" version="1">A creature can only be healed by this action once per &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="h2eee2b5fg4134g432bgabcagb6d54b928557" version="1">Portable Capsule Corp Animal Translator</content>
+	<content contentuid="h0d16e020g6d49g4062g91f3g25cb95aa167d" version="1">A wondrous device that is powered by your Ki and helps you understand animals.</content>
+	<content contentuid="h1f809d03g8e1ag49c4g8c24ge50654777b9f" version="1">Solar Flare</content>
+	<content contentuid="h5f331a01g790ag4de4ga872ga27d3c579b5b" version="1">Channel ki into your forehead and have it explode in a burst of light so bright it &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinds&lt;/LSTag&gt; enemies for 3 turns.</content>
+	<content contentuid="hc1d25a9dg3a4dg4576g9e27g0736b000e745" version="1">The target is only &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt; for 1 round.</content>
+	<content contentuid="h0f2d5cf4gd41bg4bbeg84c5g4faa10b6cf9f" version="1">Solar Flare Cooldown</content>
+	<content contentuid="hbc01c86dg94acg4d11gb57eg750ea4a4b231" version="1">You cannot use the &lt;LSTag Type="Spell" Tooltip="KW_SolarFlare"&gt;Solar Flare&lt;/LSTag&gt; action.</content>
+	<content contentuid="h33d8418fgdd39g4e05gacbcg2bfbd26da056" version="1">Special Beam Cannon</content>
+	<content contentuid="" version="1">Concentrate your Ki into your finger tips and unleash a piercing beam of energy that deals high damage. Enemies who fail their Save are left with a &lt;LSTag Type="Status" Tooltip="GAPING_WOUND"&gt;Gaping Wounds&lt;/LSTag&gt; for 2 rounds. This technique bypasses Piercing resistance and immunity.</content>
+	<content contentuid="h7b18ac0cgce0eg4647gb6d0g170d4fa4083c" version="1">Concentrate your Ki into your finger tips and unleash a piercing beam of energy that deals high damage. Enemies who fail their Save are left with a Gaping Wound for 2 rounds. This technique bypasses Piercing resistance and immunity.</content>
+	<content contentuid="hb5d3ff85gf22cg4173gb5fdg18fdeff10dd1" version="1">Special Beam Cannon Cooldown</content>
+	<content contentuid="hd50fc409g9c47g46cdgab60g2ed8f5bc196a" version="1">You cannot use the &lt;LSTag Type="Spell" Tooltip="KW_SpecialBeamCannon"&gt;Special Beam Cannon&lt;/LSTag&gt; action.</content>
+	<content contentuid="h36647850geb19g4c8dg9121g9d22f4c41e9a" version="1">Targets still take half damage and no status conditions.</content>
+	<content contentuid="hc34f2931g547fg46e2gad55g9196c39ed653" version="1">Spirit Ball</content>
+	<content contentuid="hb8adb5d4g3d48g4840ga898gfd53c3d3eeb5" version="1">A weak but highly maneuverable ball of ki that can maneuver around obstacles. It never misses.</content>
+	<content contentuid="h7c20d615gcce5g4cf8g9254g878303af1860" version="1">Tornado Kick</content>
+	<content contentuid="hfb9c3660g8079g4d87g8c22g44cf0a598627" version="1">Deliver wild kicking sweep around you, dealing [1] and potentially knocking opponents &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; even if kick misses.</content>
+	<content contentuid="h20b9ffa2g5d74g4fc5g960dg53b2870f27e3" version="1">Uppercut</content>
+	<content contentuid="h7d8830f8gef0dg48cdg856agf899b50c6751" version="1">Deliver a decisive blow to the enemy's chin. Dealing [1] and &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; them.</content>
+	<content contentuid="hfa3a2918g1973g4b3dg8a0dgd525f8716a31" version="1">Uppercut Cooldown</content>
+	<content contentuid="h5933ae44g940eg47b3g97c8g2a0aea473a9d" version="1">You cannot use the &lt;LSTag Type="Spell" Tooltip="KW_Uppercut"&gt;Uppercut&lt;/LSTag&gt; action.</content>
+	<content contentuid="h53dafe18gf32cg4a74g8019gcbed355c7f62" version="1">Wolf Fang Fist</content>
+	<content contentuid="h9d0f077bgf605g41f0ga3fag929e8b709e52" version="1">Strike, dealing [1] and shoving your foes back in an attempt to &lt;LSTag Type="Status" Tooltip="DISARM"&gt;Disarm&lt;/LSTag&gt; them.</content>
+	<content contentuid="hc63441c9g865bg4afcg952eg3eadb9936e4b" version="1">Disarm attempt occurrs even on a failed melee attack.</content>
+	<content contentuid="h2b78f00fgb55fg436cg9522g563ee4e23921" version="1">Sense Ki</content>
+	<content contentuid="h7b39215fgc4dbg46e7ga2b8g0afc3be96d16" version="1">Attempt to pierce through the veils of &lt;LSTag Type="Status" Tooltip="SG_Invisible"&gt;Invisibility&lt;/LSTag&gt; by sensing the Ki of all creatures in an area.</content>
+	<content contentuid="he09b0e03g77f6g4d0dg848bg739c3e246e94" version="1">The creature remains Invisible.</content>
+	<content contentuid="h577bede2gb862g4458g9cd2g636712993066" version="1">Multiform</content>
+	<content contentuid="h67191c24g88d0g4711gbbe5gc34fe298ac18" version="1">Through careful projection of your Ki, you can create illusory copies which can confuse foes. But only once.</content>
+	<content contentuid="h839331f1g6b69g4481g83a3g76e721022859" version="1">Big Bang Attack</content>
+	<content contentuid="h005aaf15g66e0g4869g823cgf30e445c5eba" version="1">Concentrate Ki into a powerful explosive ball before launching it forward. The blast is so intense it pushes enemies back.</content>
+	<content contentuid="h16d6c89eg5926g4e73g8506g948e9e28a248" version="1">The target takes half damage and is not pushed back.</content>
+	<content contentuid="hc9f727acg0045g4f0ag9b88gee69e01c56eb" version="1">Big Bang Attack Cooldown</content>
+	<content contentuid="h8fbd6b73g7e36g472dgbdf2g3b82b330eac4" version="1">You cannot use the &lt;LSTag Type="Spell" Tooltip="KW_BigBangAttack"&gt;Big Bang Attack&lt;/LSTag&gt; action.</content>
+	<content contentuid="hf22899d5g8487g448egb83cgba744babc166" version="1">Galick Gun</content>
+	<content contentuid="h259c2a98g2877g42e5g97aeg464363faf768" version="1">A furiously devastating beam of energy that ignores Thunder Resistance and Immunity. The beam has a chance of pushing back foes and knocking them Prone.</content>
+	<content contentuid="h42ae1057g9102g491fg857cg6caf4326c906" version="1">Deals half damage and does not push the creature or knock them prone.</content>
+	<content contentuid="hbd26cbcfg8e92g4c61gb788gf27d558fa341" version="1">Galick Gun Cooldown</content>
+	<content contentuid="hd768b267g3803g4f78ga54egb863c136fc22" version="1">You cannot use the &lt;LSTag Type="Spell" Tooltip="KW_GalickGun"&gt;Galick Gun&lt;/LSTag&gt; action.</content>
+	<content contentuid="h01fbd2c5g2126g4c54gab56gf51b236fef88" version="1">Heat Phalanx</content>
+	<content contentuid="heac11b95g1917g4273gb242gce55991bf2a9" version="1">Transform your ki into pure thermal energy, delivering a searing punch that deals [1] plus [2] and &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burns&lt;/LSTag&gt; foes.</content>
+	<content contentuid="hcabb0fecg600bg4bc1gba7dg30ff09d98ba2" version="1">Limit Breaker</content>
+	<content contentuid="h3916d561g2c5cg46dfg9ecegeadb4012bc5d" version="1">Temporarily surpass your limits and achieve greater power, causing all of your attacks do deal maximum damage. But you become &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;stunned&lt;/LSTag&gt; from the recoil afterwards.</content>
+	<content contentuid="h39dbadfbg8514g4fafg893dg6268aca768c8" version="1">All damage is maximized.</content>
+	<content contentuid="h8dcee554g7c12g4158g8115g2aeb3bd380cf" version="1">Guided Masenko</content>
+	<content contentuid="ha3620470g8476g4b32ga547gf7efaf6b6317" version="1">A beam of concentrated ki so swift it can only be resisted, not dodged. A failed save cause the foe to be Dazed.</content>
+	<content contentuid="hd2935cf3g8ce1g4f49gb122gde50f73593be" version="1">Target takes half damage and no Status effects.</content>
+	<content contentuid="hbe28d9bfg8023g4f1fg9f04g55736eaae995" version="1">Mask Ki</content>
+	<content contentuid="h24f50164gdd9eg4878g9b8egd270404a6acd" version="1">Lower your Ki enough to make yourself invisible to the naked eye.</content>
+	<content contentuid="h2e0ec547g3c87g441fgadb0g94e84dc859e6" version="1">Meteor Combo</content>
+	<content contentuid="hf53933f5g6df8g41bfgac67ged4e9eb1fe2e" version="1">Rush forward, delivering a single strike dealing [1] and opening up the target for 3 more attacks.</content>
+	<content contentuid="h2fbb0fe1g65d6g42bdg9a01g6607ed3f1026" version="1">Finish the combo, doing 3 attacks which deal [1] each.</content>
+	<content contentuid="h868ebeb6g1172g42cagaf9eg164fb565f3d8" version="1">Meteor Combo Cooldown</content>
+	<content contentuid="h2a94de87ga737g4772gb50eg1203d8cdf706" version="1">You cannot use the &lt;LSTag Type="Spell" Tooltip="KW_MeteorCombo"&gt;Meteor Combo&lt;/LSTag&gt; action.</content>
+	<content contentuid="h01307485g037bg465dgb59dga945a226332e" version="1">Rapid Fire Ki Wave</content>
+	<content contentuid="h050f7f42g9f98g4f20g94a0g491a585564f8" version="1">Unleash a barrage of rapid, but weak ki blasts.</content>
+	<content contentuid="hed7af5ffgdaf7g4182g9d2fgd27e5461ed11" version="1">Rapid Fire Ki Wave Cooldown</content>
+	<content contentuid="h2154fa10g1e03g4409gb2e7gafb28b1604d0" version="1">You cannot use the &lt;LSTag Type="Spell" Tooltip="KW_RapidFireKiWave"&gt;Rapid Fire Ki Wave&lt;/LSTag&gt; action.</content>
+	<content contentuid="h4d45cfedg9696g4b5ag8620ge660d07ba5b2" version="1">Relentless Pursuit</content>
+	<content contentuid="h73682aaegada9g4b8cg8d46g85109bc59760" version="1">When successfully landing a non-killing unarmed attack, you can spend a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to attack the same target again.</content>
+	<content contentuid="h6f884dcbg9b58g4273ga7a9gc2558cca9611" version="1">Relentless Pursuit Cooldown</content>
+	<content contentuid="hd411d3d7g1990g4b24g8bbbg1faeba835ca5" version="1">You cannot use the &lt;LSTag Type="Spell" Tooltip="KW_RelentlessPursuit"&gt;Relentless Pursuit&lt;/LSTag&gt; reaction.</content>
+	<content contentuid="h31236679g1a90g49c8ga29bg0555056beca7" version="1">Sucker Punch</content>
+	<content contentuid="hed6113d7gd940g4c00gaccfg665e76898ed1" version="1">Hit your opponent in the stomach, dealing [1] and dazing them. Disrupts Concentration on a critical hit.</content>
+	<content contentuid="h6c90a4bbg2b01g4e65gbcdcg94ac061c74c9" version="1">Spirit Bomb</content>
+	<content contentuid="h99ba5c62g2a44g4994gba47g8e2b41c239be" version="1">Raising your arms, you begin to slowly channel both your energy and the energy of every living being into a powerful sphere. It is not very strong on its own, but you can spend additional actions to add [1] to the attack. If you do not spend an action charging or throwing the Spirit Bomb, the technique fails.</content>
+	<content contentuid="hb1a8fc53gbdafg4974g896cg6711e6e361f9" version="1">Targets still take half damage from the explosion.</content>
+	<content contentuid="h84aa722cg5ee0g47ccga692gc58810e08feb" version="1">Channel Spirit Bomb</content>
+	<content contentuid="h436539d6ge396g4c33gbf8bg8221d21973f4" version="1">Pour additional energy into your Spirit Bomb, increasing its damage by [1].</content>
+	<content contentuid="h97b3c796g0943g46dagb553gd7b0bdfbb47f" version="1">Throw Spirit Bomb</content>
+	<content contentuid="h368e3d17g9881g4380ga24eg1cfff8ca2f07" version="1">Launch the Spirit Bomb, dealing [1] damage to only your enemies.</content>
+	<content contentuid="h1074c77egc549g4e77g89c3g782117bea01a" version="1">You are charging a spirit bomb.</content>
+	<content contentuid="h91985a09ged8eg441dga842g5d595305feb8" version="1">Instant Transmission</content>
+	<content contentuid="hdfaaa640g5e0cg44f5ga376gd1eb06fe970f" version="1">Use a large amount of ki to instantly teleport to another person's location.</content>
+	<content contentuid="heaaa34d9gb045g4487g97a9gb901d8ba7b26" version="1">Dragon Fist</content>
+	<content contentuid="he8d2ba6aga1f1g4358gb0bfg115dc958c25e" version="1">Rush forward with the power of a dragon, dealing [1] plus [2]. This attack is always a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; and ignores &lt;LSTag Tooltip="Resistance"&gt;Resistances&lt;/LSTag&gt; and &lt;LSTag Tooltip="Immune"&gt;Immunities&lt;/LSTag&gt;.</content>
+	<content contentuid="h68e37609g85f9g4660gbaa6g3e0a2d938305" version="1">Dragon Fist Cooldown</content>
+	<content contentuid="hc41ac5b6g133dg4b9fgaffag884bc2991a29" version="1">You cannot use the &lt;LSTag Type="Spell" Tooltip="KW_DragonFist"&gt;Dragon Fist&lt;/LSTag&gt; action.</content>
+	<content contentuid="h4e03ebb6gca78g4deegb386g9a4e338bcbf0" version="1">Evil Containment Wave</content>
+	<content contentuid="he4f3fdd8g56d5g47b2ga31dg9eb4855dbd8d" version="1">You attempt to use the ultimate sealing sealing technique, trapping the soul of your opponent before letting it fizzle away, instantly killing them. This technique can only be attempted once per target and fails level is lower than the target's. You can only attempt this technique on someone once.</content>
+	<content contentuid="h0b7239fdgcc8bg4fe1g8332g6defb24072fe" version="1">Explosive Wave</content>
+	<content contentuid="hd07741fbg8afeg4ea5ga043g612c65623757" version="1">Bottle up all your ki inside yourself and unleash it as an explosion around yourself. Demolishing your foes while also Pushing, knocking Prone and dazing all who fail their Saving Throw.</content>
+	<content contentuid="h891786fbg7b4eg4c01g9e0cgfa876686e48b" version="1">Targets only take half damage and are not pushed back, knocked prone or dazed.</content>
+	<content contentuid="hf49af956g481cg4ac4g96ebg8e74da18e803" version="1">Explosive Wave Cooldown</content>
+	<content contentuid="h6ba9ce53g8df4g43f0gbaf7g1076a5b7a886" version="1">You cannot use the &lt;LSTag Type="Spell" Tooltip="KW_ExplosiveWave"&gt;Explosive Wave&lt;/LSTag&gt; action.</content>
+	<content contentuid="h2973648egf1c2g4b4bg89cfg4b090ec6b0bd" version="1">Project Ki</content>
+	<content contentuid="h77b96cafg5428g471ag94b5g7f47bf93e944" version="1">Throw out your Ki, causing those of weak heart to shiver in fear.</content>
+	<content contentuid="hd5d6f041g3613g4ed9gba84g094da544e35b" version="1">Project Ki Cooldown</content>
+	<content contentuid="he7b94d2dg7cf4g4adcg83e8gec123497e55d" version="1">You cannot use the &lt;LSTag Type="Spell" Tooltip="KW_ProjectKi"&gt;Project Ki&lt;/LSTag&gt; action.</content>
+	<content contentuid="h4cfbc0fbgd8feg4cddgbfb5gc33821193c09" version="1">Final Flash</content>
+	<content contentuid="hc1b64df4gd445g44cbga389g58bd060d51a9" version="1">Unleash a flash of crackling Ki that shocks all who fail their saving throw.</content>
+	<content contentuid="ha4cb17f7g6021g43cdg878dgfce7594d3eed" version="1">Targets take half damage and are not shocked.</content>
+	<content contentuid="he0ce8413gd71dg4c24gb714g19a6fef3097d" version="1">Final Flash Cooldown</content>
+	<content contentuid="hedfc1065g680fg4edfga158gfd8f2e6c176d" version="1">You cannot use the &lt;LSTag Type="Spell" Tooltip="KW_FinalFlash"&gt;Final Flash&lt;/LSTag&gt; action.</content>
+</contentList>

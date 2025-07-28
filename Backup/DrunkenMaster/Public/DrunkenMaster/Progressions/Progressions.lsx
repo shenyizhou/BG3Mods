@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="330"/>
+    <region id="Progressions">
+        <node id="root">
+			<children>
+               <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0);ActionResource(DeflectMissiles_Charge,1,0)"/>
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="Monk"/>
+                    <attribute id="PassivesAdded" type="LSString" value="DeflectMissiles"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="fe1319a2-86be-469c-aab5-e3b0bd714e0e"/>
+                    <attribute id="UUID" type="guid" value="296468cb-3640-4460-9f44-b30ee820a9ed"/>
+                    <children>
+                        <node id="SubClasses">
+                            <children>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="22894c32-54cf-49ea-b366-44bfcf01bb2a"/>
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="2a5e3097-384c-4d29-8d6e-054fdfd26b80"/>
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="bf46d73f-d406-4cb8-9a1d-e6e758ca02c7"/>
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="bbd5e265-82f5-403f-8141-887480d41bba"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+				<node id="Progression">
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="DrunkenMaster"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Drunken_Performance; Drunken_Technique; Drunk_Master"/>
+                    <attribute id="TableUUID" type="guid" value="3396788c-185b-4b43-afe6-19f4c0656598"/>
+                    <attribute id="UUID" type="guid" value="f3ad0f6b-2bd4-4ed1-9ba3-fc59801757c1"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="Name" type="LSString" value="DrunkenMaster"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Tipsy_Sway; Tipsy_Sway_Leap; Athlete_StandUp"/>
+                    <attribute id="TableUUID" type="guid" value="3396788c-185b-4b43-afe6-19f4c0656598"/>
+                    <attribute id="UUID" type="guid" value="c8b82ea2-b803-4918-8e2d-984567916885"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Name" type="LSString" value="DrunkenMaster"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Drunkards_Luck; Drunkards_Luck_Interrupt"/>
+                    <attribute id="TableUUID" type="guid" value="3396788c-185b-4b43-afe6-19f4c0656598"/>
+                    <attribute id="UUID" type="guid" value="a69c0333-fd9b-446b-8859-e4bd09298933"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="DrunkenMaster"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Intoxicated_Frenzy"/>
+                    <attribute id="TableUUID" type="guid" value="3396788c-185b-4b43-afe6-19f4c0656598"/>
+                    <attribute id="UUID" type="guid" value="44ceb509-2312-422c-809d-300bcd155053"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

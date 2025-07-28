@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="326"/>
+    <region id="TooltipExtraTexts">
+        <node id="root">
+            <children>
+                <node id="TooltipExtraTexts"> Solar Flare
+                    <attribute id="Text" type="TranslatedString" handle="hc1d25a9dg3a4dg4576g9e27g0736b000e745" version="1"/>
+                    <attribute id="UUID" type="guid" value="ec718900-de5f-4250-953a-73a0babd5926"/>
+                </node>
+                <node id="TooltipExtraTexts"> Special Beam Cannon
+                    <attribute id="Text" type="TranslatedString" handle="h36647850geb19g4c8dg9121g9d22f4c41e9a" version="1"/>
+                    <attribute id="UUID" type="guid" value="7b9518a7-b7f0-469c-980e-9181ba7b0100"/>
+                </node>
+                <node id="TooltipExtraTexts"> Sense Ki
+                    <attribute id="Text" type="TranslatedString" handle="he09b0e03g77f6g4d0dg848bg739c3e246e94" version="1"/>
+                    <attribute id="UUID" type="guid" value="3c563f2d-0803-44f5-99c3-ab3723d4706b"/>
+                </node>
+                <node id="TooltipExtraTexts"> Big Bang Attack
+                    <attribute id="Text" type="TranslatedString" handle="h16d6c89eg5926g4e73g8506g948e9e28a248" version="1"/>
+                    <attribute id="UUID" type="guid" value="b75be3dd-09ed-4eef-a224-44e648a192ed"/>
+                </node>
+                <node id="TooltipExtraTexts"> Galick Gun
+                    <attribute id="Text" type="TranslatedString" handle="h42ae1057g9102g491fg857cg6caf4326c906" version="1"/>
+                    <attribute id="UUID" type="guid" value="06c77551-2302-4661-8209-1ed23f67b43d"/>
+                </node>
+                <node id="TooltipExtraTexts"> Masekno
+                    <attribute id="Text" type="TranslatedString" handle="hd2935cf3g8ce1g4f49gb122gde50f73593be" version="1"/>
+                    <attribute id="UUID" type="guid" value="b316a2bf-117b-4d96-b09b-b45b103c9270"/>
+                </node>
+                <node id="TooltipExtraTexts"> Spirit Bomb
+                    <attribute id="Text" type="TranslatedString" handle="hb1a8fc53gbdafg4974g896cg6711e6e361f9" version="1"/>
+                    <attribute id="UUID" type="guid" value="78d8b61f-faa4-45e4-8e94-f62bcbaca610"/>
+                </node>
+                <node id="TooltipExtraTexts"> Explosive Wave
+                    <attribute id="Text" type="TranslatedString" handle="h891786fbg7b4eg4c01g9e0cgfa876686e48b" version="1"/>
+                    <attribute id="UUID" type="guid" value="98fc7562-44ee-48fd-b020-c001bc7be38c"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

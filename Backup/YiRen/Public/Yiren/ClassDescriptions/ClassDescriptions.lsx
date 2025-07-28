@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generated with ShinyHobo's BG3 Modder's Multitool-->
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ClassDescriptions">
+    <node id="root">
+      <children>
+        <node id="ClassDescription">
+                    <attribute id="BaseHp" type="int32" value="8" />
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Yiren" />
+                    <attribute id="Description" type="TranslatedString" handle="hec85e16cgb05bg4751g8a01g5f455adaedc7" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf58b60e9gd45ag42deg9a2cg53e64ecf7e7f" version="1" />
+                    <attribute id="HpPerLevel" type="int32" value="5" />
+                    <attribute id="LearningStrategy" type="uint8" value="1" />
+                    <attribute id="MulticlassSpellcasterModifier" type="double" value="0.5" />
+                    <attribute id="MustPrepareSpells" type="bool" value="true" />
+                    <attribute id="Name" type="FixedString" value="Yiren" />
+                    <attribute id="PrimaryAbility" type="uint8" value="5" />
+                    <attribute id="ProgressionTableUUID" type="guid" value="99636a80-29ec-4a19-a905-e0d30825c3e0" />
+                    <attribute id="SoundClassType" type="FixedString" value="Monk" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="5" />
+                    <attribute id="UUID" type="guid" value="08c6cfe1-8928-47bb-b7d7-7291dc27577a" />
+                    <children>
+                    <node id="Tags">
+                    <attribute id="Object" type="guid" value="e1e460bb-d0ae-4452-8529-c9e176558731"/>
+                    </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,21 @@
+new equipment "EQP_Deva_Player"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Mace_Deva"
+add equipmentgroup
+add equipment entry "ARM_Vanity_ElegantRobe"
+
+//MAG_PHB_ElvenChain_Armor 
+//ARM_Boots_Metal 
+//ARM_Gloves_Metal 
+//UNI_ARM_OfTeleportation_Helm 
+
+//MAG_Lesser_Infernal_Metal_Helmet
+//UNI_Daisy_Plate
+//UNI_Daisy_Boots
+//MAG_Paladin_LayOnHandsSupport_Gloves
+
+//ARM_Cloak
+
+//ARM_Vanity_ElegantRobe 
+//ARM_Vanity_Body_Deva

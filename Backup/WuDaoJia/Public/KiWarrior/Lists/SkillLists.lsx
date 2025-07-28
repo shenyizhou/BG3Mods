@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SkillLists">
+    <node id="root">
+      <children>
+        <node id="SkillList"> Class Skills
+                    <attribute id="Skills" type="LSString" value="Athletics, Acrobatics, Stealth, History, Investigation, Perception, Persuasion, Insight, Intimidation, Survival" /> List of skills to choose at CC
+                    <attribute id="UUID" type="guid" value="1c52fd71-2453-4db2-8ffc-34ad1e023336" /> same as passiveList, make a new UUID and refer to it when selecting skills
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

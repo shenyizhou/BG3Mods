@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="5" build="0"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+				<node id="SpellList">
+                    <attribute id="Spells" type="LSString" value="Target_Intoxicated_Frenzy"/>
+                    <attribute id="UUID" type="guid" value="0a27b7b7-20e9-4bcf-b39c-bb61e394d7e4"/>
+                </node>
+			</children>
+        </node>
+    </region>
+</save>

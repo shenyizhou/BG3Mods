@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="TianWu"/>
+                    <attribute id="Spells" type="LSString" value="TianWuZhiDao;TianwuDuZun"/>
+                    <attribute id="UUID" type="guid" value="f48c049d-e020-456f-8c6e-39e216c87339"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

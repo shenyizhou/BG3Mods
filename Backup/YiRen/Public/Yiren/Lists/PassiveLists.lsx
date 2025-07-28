@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with ShinyHobo's BG3 Modder's Multitool-->
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="PassiveLists">
+    <node id="root">
+      <children>
+                <node id="PassiveList">10
+                    <attribute id="Passives" type="LSString" value="xunlei,xiaobaichong,beijingcangtan,youyinlei"/>
+                    <attribute id="UUID" type="guid" value="cce57d69-a6d2-49ee-a545-8f70c6f94149"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

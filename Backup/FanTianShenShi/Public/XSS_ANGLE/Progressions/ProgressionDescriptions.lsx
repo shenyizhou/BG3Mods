@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ProgressionDescriptions">
+    <node id="root">
+      <children>
+        <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="stringsofmodmadebyxss20240524dv001004" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="stringsofmodmadebyxss20240524dv001003" version="1" />
+                    <attribute id="ProgressionTableId" type="guid" value="3119b88f-f3d6-4ca1-bb46-ca545f50d88e" />
+                    <attribute id="Type" type="FixedString" value="DevaPlayer" />
+                    <attribute id="UUID" type="guid" value="c8ff297f-64ec-4a3c-a9e9-64529eb9c47b" />
+                </node>
+        <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="haaaf8c6agde47g4fefg885aga3abdcf12352" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h25ee190fg950eg4b51ga29fgdf0255ef76fc" version="1" />
+                    <attribute id="ProgressionTableId" type="guid" value="a43498f5-d72f-4a05-b721-1feea9acb3ad" />
+                    <attribute id="Type" type="FixedString" value="Drow" />
+                    <attribute id="UUID" type="guid" value="95703e19-959a-43b5-9592-6f68458a0bd8" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

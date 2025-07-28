@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="319"/>
+    <region id="ItemWallTemplates">
+        <node id="root">
+            <children>
+                <node id="ItemWallTemplates">
+                    <attribute id="Animation" type="FixedString" value="OddEven"/>
+                    <attribute id="HighLeft" type="LSString" value="VFX_Static_Wall_Spell_Blade_A_HighLeft_A_90a169d6-c84f-4df7-8d10-a58553f2d8e8"/>
+                    <attribute id="HighMiddle" type="LSString" value="VFX_Static_Wall_Spell_Blade_A_HighMiddle_A_4e8161b9-6483-4600-9c40-2c3e246fd6fb"/>
+                    <attribute id="HighRight" type="LSString" value="VFX_Static_Wall_Spell_Blade_A_HighRight_A_dbdb72e8-46fb-46bd-804a-2930b73a524e"/>
+                    <attribute id="LowLeft" type="LSString" value="VFX_Static_Wall_Spell_Blade_A_LowLeft_A_6ed10f20-5719-4acb-b73d-6b78c9673f4b"/>
+                    <attribute id="LowMiddle" type="LSString" value="VFX_Static_Wall_Spell_Blade_A_LowMiddle_A_09d90551-8045-4c85-a520-226564558030"/>
+                    <attribute id="LowRight" type="LSString" value="VFX_Static_Wall_Spell_Blade_A_LowRight_A_eebcfde7-34c3-4932-a4f7-3cc868b1628e"/>
+                    <attribute id="Name" type="LSString" value="beidoujianjie"/>
+                    <attribute id="Padding" type="float" value="-0.30000001"/>
+                    <attribute id="RandomRotation" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="4a93ad7d-0ddb-45d9-bd12-06fa1f80c3dc"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

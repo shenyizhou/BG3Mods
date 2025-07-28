@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList"> 
+                    <attribute id="Spells" type="LSString" value="KW_Brace;KW_DestructoDisc;KW_DoubleSunday;KW_Kamehameha;KW_KiRejuvenation;KW_PetPal;KW_SenseKi;KW_SolarFlare;KW_SpecialBeamCannon;KW_SpiritBall;KW_TornadoKick;KW_Uppercut;KW_WolfFangFist" /> 
+                    <attribute id="UUID" type="guid" value="f1053b95-fffa-4ebd-b527-abb325c69547" /> 
+                </node>
+        <node id="SpellList"> 
+                    <attribute id="Spells" type="LSString" value="KW_Multiform;KW_BigBangAttack;KW_GalickGun;KW_HeatPhalanx;KW_LimitBreaker;KW_Masenko;KW_MaskKi;KW_MeteorCombo;KW_RapidFireKiWave;KW_RelentlessPursuit;KW_SpiritBomb;KW_SuckerPunch" /> 
+                    <attribute id="UUID" type="guid" value="8f748076-e47b-4a0c-bd6c-f4041f34678f" /> 
+                </node>
+        <node id="SpellList"> 
+                    <attribute id="Spells" type="LSString" value="KW_DragonFist;KW_EvilContainmentWave;KW_ExplosiveWave;KW_FinalFlash;KW_InstantTransmission;KW_ProjectKi" /> 
+                    <attribute id="UUID" type="guid" value="d7a48769-ceb2-41cc-b9cf-ec8d2b75120f" /> 
+                </node>
+        <node id="SpellList"> 
+                    <attribute id="Spells" type="LSString" value="KW_EnergyRechargeContainer" /> 
+                    <attribute id="UUID" type="guid" value="6d9fa1f7-a5c0-488c-9220-d4c8138256f1" /> 
+                </node>
+        <node id="SpellList"> 
+                    <attribute id="Spells" type="LSString" value="KW_KiBlast;KW_StrongAttack" /> 
+                    <attribute id="UUID" type="guid" value="e16adbf8-a371-427b-8d1d-261ac70b1249" /> 
+                </node>
+        <node id="SpellList"> 
+                    <attribute id="Spells" type="LSString" value="KW_Challenge;KW_Kaioken1_D" /> 
+                    <attribute id="UUID" type="guid" value="fd4d6914-1996-4479-aad4-9455e85accff" /> 
+                </node>
+        <node id="SpellList"> 
+                    <attribute id="Spells" type="LSString" value="KW_Kaioken2_D" /> 
+                    <attribute id="UUID" type="guid" value="294dc832-ac20-4721-bad0-f8f5479c7fa7" /> 
+                </node>
+        <node id="SpellList"> 
+                    <attribute id="Spells" type="LSString" value="KW_Kaioken3_D" /> 
+                    <attribute id="UUID" type="guid" value="68eeaecb-8c64-4ef4-abc5-f20a2de41f95" /> 
+                </node>
+        <node id="SpellList"> 
+                    <attribute id="Spells" type="LSString" value="KW_SSJContainer;KW_Shout_SSJ1" /> 
+                    <attribute id="UUID" type="guid" value="4f113d26-c62e-4267-9abb-a21889e84268" /> 
+                </node>
+        <node id="SpellList"> 
+                    <attribute id="Spells" type="LSString" value="KW_Shout_SSJ2" /> 
+                    <attribute id="UUID" type="guid" value="87690a81-caaa-4d63-8d0a-659deaa9a657" /> 
+                </node>
+        <node id="SpellList"> 
+                    <attribute id="Spells" type="LSString" value="KW_Shout_SSJ3" /> 
+                    <attribute id="UUID" type="guid" value="150fa5b1-2091-423c-8a69-c3e276bd22ec" /> 
+                </node>
+        <node id="SpellList"> 
+                    <attribute id="Spells" type="LSString" value="KW_LendEnergy_B" /> 
+                    <attribute id="UUID" type="guid" value="74719d66-8cc3-419d-9a8e-877ebf0e8ff5" /> 
+                </node>
+        <node id="SpellList"> 
+                    <attribute id="Spells" type="LSString" value="KW_LendEnergy_A" /> 
+                    <attribute id="UUID" type="guid" value="bd776453-3e66-4729-9375-078c78fcc518" /> 
+                </node>
+        <node id="SpellList"> 
+                    <attribute id="Spells" type="LSString" value="KW_Kaioken1;KW_Kaioken2;KW_Kaioken3" /> 
+                    <attribute id="UUID" type="guid" value="00224163-8bec-4ae4-883f-57f69f613e9b" /> 
+                </node>
+        <node id="SpellList"> 
+                    <attribute id="Spells" type="LSString" value="KW_SenzuBean" /> 
+                    <attribute id="UUID" type="guid" value="85a1134c-aa2f-410a-9416-e1a32bf23ffa" /> 
+                </node>
+        <node id="SpellList"> 
+                    <attribute id="Spells" type="LSString" value="KW_Kaioken4" /> 
+                    <attribute id="UUID" type="guid" value="dcb37a9e-069d-4176-86ad-0accc6c77e43" /> 
+                </node>
+        <node id="SpellList"> 
+                    <attribute id="Spells" type="LSString" value="KW_Kaioken5" /> 
+                    <attribute id="UUID" type="guid" value="e97a1f50-4203-426d-b694-729d343d6800" /> 
+                </node>
+        <node id="SpellList"> 
+                    <attribute id="Spells" type="LSString" value="KW_Kaioken6" /> 
+                    <attribute id="UUID" type="guid" value="af93cdb6-e8f6-4788-8400-2db3a2a50552" /> 
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

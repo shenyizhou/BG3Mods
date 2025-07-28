@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="613"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="Drunken_Performance; Drunken_Technique; Tipsy_Sway; Tipsy_Sway_Leap; Drunkards_Luck_Interrupt; Drunkards_Luck; Intoxicated_Frenzy"/>
+                    <attribute id="UUID" type="guid" value="c17f1c37-ba87-4d15-8adc-507f225347b5"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

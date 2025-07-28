@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with ShinyHobo's BG3 Modder's Multitool-->
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ClassDescriptions">
+    <node id="root">
+      <children>
+        <node id="ClassDescription"> YingXuan
+                	<attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+                  	<attribute id="Description" type="TranslatedString" handle="h1dc217dagffe7g4be4g9564g67d68048f6b8" version="1" />
+                 	<attribute id="DisplayName" type="TranslatedString" handle="hb7ffd02eg4f3eg4bf3g84fdgd611fedda06b" version="1" />
+                   	<attribute id="LearningStrategy" type="uint8" value="1" />
+                   	<attribute id="Name" type="FixedString" value="YingXuan" />
+                	<attribute id="ParentGuid" type="guid" value="721dfac3-92d4-41f5-b773-b7072a86232f" />
+                	<attribute id="PrimaryAbility" type="uint8" value="1" />
+                	<attribute id="ProgressionTableUUID" type="guid" value="daf38a23a-a74e-4975-8f5b-e27f879e73b0" />
+                	<attribute id="SoundClassType" type="FixedString" value="Fighter" />
+                	<attribute id="SpellCastingAbility" type="uint8" value="4" />
+                	<attribute id="UUID" type="guid" value="e34c82a1-8582-4738-b656-fceec49e4fbe" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

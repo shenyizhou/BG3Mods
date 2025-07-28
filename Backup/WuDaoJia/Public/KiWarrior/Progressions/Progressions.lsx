@@ -1,0 +1,610 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="Progressions">
+    <node id="root">
+      <children>
+        <node id="Progression"> 
+                    <attribute id="AllowImprovement" type="bool" value="false" /> Whether your class get a feat at his level. Does not work for level 1.
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KW_Energy,12,0);ProficiencyBonus(SavingThrow,Strength);ProficiencyBonus(SavingThrow,Dexterity);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(SimpleWeapons);Proficiency(MartialWeapons)" /> Adds resource, proficiency, etc.
+                    <attribute id="Level" type="uint8" value="1" /> Class Level for this entry
+                    <attribute id="Name" type="LSString" value="KiWarrior" /> Name of the class, keep it consistent with class description
+                    <attribute id="PassivesAdded" type="LSString" value="KW_PIERCING_BYPASS_TECHNICAL;KW_FORCE_BYPASS_TECHNICAL;Monk_SoundSwitch;KW_MartialExpert_DexOverride;KW_MartialExpert;KW_MartialExpert_BonusStrike;KW_KI_REGEN_TURN;KW_KI_REGEN_END_COMBAT" /> most class features usually can be done with passives
+                    <attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="0" /> 0 means main class, 1 means subclass, 2 means race
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(1c52fd71-2453-4db2-8ffc-34ad1e023336,2);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);AddSpells(6d9fa1f7-a5c0-488c-9220-d4c8138256f1,KW_MartialExpert,,,AlwaysPrepared);AddSpells(f1053b95-fffa-4ebd-b527-abb325c69547);AddSpells(e16adbf8-a371-427b-8d1d-261ac70b1249,,,,AlwaysPrepared)" /> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
+					<attribute id="TableUUID" type="guid" value="cbc5c4f1-7f41-42c7-9778-6c19b0c1bf28" /> Same UUID as the one in ClassDescriptions.lsx this refers to the entire table
+                    <attribute id="UUID" type="guid" value="caa46d0b-d171-4840-9225-4fd42ea83750" /> a Unique UUID specificaly for this entry within the table
+                </node>
+        <node id="Progression"> 
+                    <attribute id="AllowImprovement" type="bool" value="false" /> Whether your class get a feat at his level. Does not work for level 1.
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KW_Energy,12,0);ProficiencyBonus(SavingThrow,Strength);ProficiencyBonus(SavingThrow,Dexterity);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(SimpleWeapons);Proficiency(MartialWeapons)" /> Adds resource, proficiency, etc.
+                    <attribute id="IsMulticlass" type="bool" value="true" />
+                    <attribute id="Level" type="uint8" value="1" /> Class Level for this entry
+                    <attribute id="Name" type="LSString" value="KiWarrior" /> Name of the class, keep it consistent with class description
+                    <attribute id="PassivesAdded" type="LSString" value="KW_PIERCING_BYPASS_TECHNICAL;KW_FORCE_BYPASS_TECHNICAL;Monk_SoundSwitch;KW_MartialExpert_DexOverride;KW_MartialExpert;KW_MartialExpert_BonusStrike;KW_KI_REGEN_TURN;KW_KI_REGEN_END_COMBAT" /> most class features usually can be done with passives
+                    <attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="0" /> 0 means main class, 1 means subclass, 2 means race
+                    <attribute id="Selectors" type="LSString" value="AddSpells(6d9fa1f7-a5c0-488c-9220-d4c8138256f1,KW_MartialExpert,,,AlwaysPrepared);AddSpells(f1053b95-fffa-4ebd-b527-abb325c69547);AddSpells(e16adbf8-a371-427b-8d1d-261ac70b1249,,,,AlwaysPrepared)" /> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
+					<attribute id="TableUUID" type="guid" value="cbc5c4f1-7f41-42c7-9778-6c19b0c1bf28" /> Same UUID as the one in ClassDescriptions.lsx this refers to the entire table
+                    <attribute id="UUID" type="guid" value="c095447d-01e2-4114-8b62-490146de1889" /> a Unique UUID specificaly for this entry within the table
+                </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KW_Energy,8,0)" />
+                    <attribute id="Level" type="uint8" value="2" />
+                    <attribute id="Name" type="LSString" value="KiWarrior" />
+                    <attribute id="PassivesAdded" type="LSString" value="KW_KAIOKEN_PANEL_1;KW_KAIOKEN_UNLOCK1" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(fd4d6914-1996-4479-aad4-9455e85accff,,,,AlwaysPrepared)" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="cbc5c4f1-7f41-42c7-9778-6c19b0c1bf28" />
+                    <attribute id="UUID" type="guid" value="cf3e343d-2595-4afd-ab90-e72917d9e284" />
+                </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KW_Energy,8,0)" />
+                    <attribute id="Level" type="uint8" value="3" />
+                    <attribute id="Name" type="LSString" value="KiWarrior" />
+                    <attribute id="PassivesAdded" type="LSString" value="KW_KiFlightUnlock_1" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="cbc5c4f1-7f41-42c7-9778-6c19b0c1bf28" />
+                    <attribute id="UUID" type="guid" value="bc4cdf9f-1c08-4fc6-8843-1d50ffe78d84" />
+                    <children>
+                        <node id="SubClasses">
+                            <children>
+                                <node id="SubClass"> 
+                                    <attribute id="Object" type="guid" value="a6b4f147-e8e4-4af0-a7ad-85c0dedd84ca" />
+                                </node>
+                                <node id="SubClass"> 
+                                    <attribute id="Object" type="guid" value="64af75d2-c10e-4870-9ea6-4da999d34347" />
+                                </node>
+							</children>
+                        </node>
+                    </children>
+                </node>
+        <node id="Progression"> 
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KW_Energy,8,0)" />
+                    <attribute id="Level" type="uint8" value="4" />
+                    <attribute id="Name" type="LSString" value="KiWarrior" />
+                    <attribute id="PassivesAdded" type="LSString" value="KW_KAIOKEN_CON_D" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(294dc832-ac20-4721-bad0-f8f5479c7fa7,,,,AlwaysPrepared)" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="cbc5c4f1-7f41-42c7-9778-6c19b0c1bf28" />
+                    <attribute id="UUID" type="guid" value="bc5600de-8eac-4f80-a1b2-dd46137ca704" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KW_Energy,8,0)" />
+                    <attribute id="Level" type="uint8" value="5" />
+                    <attribute id="Name" type="LSString" value="KiWarrior" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(8f748076-e47b-4a0c-bd6c-f4041f34678f)" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="cbc5c4f1-7f41-42c7-9778-6c19b0c1bf28" />
+                    <attribute id="UUID" type="guid" value="4560401b-c8de-4f59-8796-1ab368c56456" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KW_Energy,8,0)" />
+                    <attribute id="Level" type="uint8" value="6" />
+                    <attribute id="Name" type="LSString" value="KiWarrior" />
+                    <attribute id="PassivesAdded" type="LSString" value="KW_KiFlightUnlock_2;KiEmpoweredStrikes" />
+                    <attribute id="PassivesRemoved" type="LSString" value="KW_KiFlightUnlock_1" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(68eeaecb-8c64-4ef4-abc5-f20a2de41f95,,,,AlwaysPrepared)" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="cbc5c4f1-7f41-42c7-9778-6c19b0c1bf28" />
+                    <attribute id="UUID" type="guid" value="58e4f675-25e5-49fd-8809-2f492090eea9" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KW_Energy,8,0)" />
+                    <attribute id="Level" type="uint8" value="7" />
+                    <attribute id="Name" type="LSString" value="KiWarrior" />
+                    <attribute id="PassivesAdded" type="LSString" value="KW_AfterimageTechniqueUnlock" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="cbc5c4f1-7f41-42c7-9778-6c19b0c1bf28" />
+                    <attribute id="UUID" type="guid" value="f637e233-7f4b-4b14-9b94-2aff674e56dd" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KW_Energy,8,0)" />
+                    <attribute id="Level" type="uint8" value="8" />
+                    <attribute id="Name" type="LSString" value="KiWarrior" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="cbc5c4f1-7f41-42c7-9778-6c19b0c1bf28" />
+                    <attribute id="UUID" type="guid" value="266e4684-497b-4007-bf69-d987715f9fd1" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KW_Energy,8,0)" />
+                    <attribute id="Level" type="uint8" value="9" />
+                    <attribute id="Name" type="LSString" value="KiWarrior" />
+                    <attribute id="PassivesAdded" type="LSString" value="KW_DRAGONFISTHIDDEN;KW_KiFlightUnlock_3" />
+                    <attribute id="PassivesRemoved" type="LSString" value="KW_KiFlightUnlock_2" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(d7a48769-ceb2-41cc-b9cf-ec8d2b75120f)" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="cbc5c4f1-7f41-42c7-9778-6c19b0c1bf28" />
+                    <attribute id="UUID" type="guid" value="726712c6-6ac2-468e-b45b-a92c3045a766" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KW_Energy,8,0)" />
+                    <attribute id="Level" type="uint8" value="10" />
+                    <attribute id="Name" type="LSString" value="KiWarrior" />
+                    <attribute id="PassivesAdded" type="LSString" value="KW_Improved_Passive_Ki" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="cbc5c4f1-7f41-42c7-9778-6c19b0c1bf28" />
+                    <attribute id="UUID" type="guid" value="60f74203-fdc8-45b8-99c9-6f2908034eed" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KW_Energy,8,0)" />
+                    <attribute id="Level" type="uint8" value="11" />
+                    <attribute id="Name" type="LSString" value="KiWarrior" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="cbc5c4f1-7f41-42c7-9778-6c19b0c1bf28" />
+                    <attribute id="UUID" type="guid" value="e82477ce-94e9-462e-9d52-1f87d53c8e55" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KW_Energy,8,0)" />
+                    <attribute id="Level" type="uint8" value="12" />
+                    <attribute id="Name" type="LSString" value="KiWarrior" />
+                    <attribute id="PassivesAdded" type="LSString" value="KW_KiFlightUnlock_4" />
+                    <attribute id="PassivesRemoved" type="LSString" value="KW_KiFlightUnlock_3" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="cbc5c4f1-7f41-42c7-9778-6c19b0c1bf28" />
+                    <attribute id="UUID" type="guid" value="1cb8a701-26ed-4b6a-99d8-0240e6bcaeb9" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KW_Energy,8,0)" />
+                    <attribute id="Level" type="uint8" value="13" />
+                    <attribute id="Name" type="LSString" value="KiWarrior" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="cbc5c4f1-7f41-42c7-9778-6c19b0c1bf28" />
+                    <attribute id="UUID" type="guid" value="90815d55-dcc1-4994-8f4b-1716a8e99243" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KW_Energy,8,0)" />
+                    <attribute id="Level" type="uint8" value="14" />
+                    <attribute id="Name" type="LSString" value="KiWarrior" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="cbc5c4f1-7f41-42c7-9778-6c19b0c1bf28" />
+                    <attribute id="UUID" type="guid" value="f2394380-ca35-44a6-85ef-4640dbd1ff18" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KW_Energy,8,0)" />
+                    <attribute id="Level" type="uint8" value="15" />
+                    <attribute id="Name" type="LSString" value="KiWarrior" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="cbc5c4f1-7f41-42c7-9778-6c19b0c1bf28" />
+                    <attribute id="UUID" type="guid" value="86817db9-dd57-49f4-a573-59d95eb8c227" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KW_Energy,8,0)" />
+                    <attribute id="Level" type="uint8" value="16" />
+                    <attribute id="Name" type="LSString" value="KiWarrior" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="cbc5c4f1-7f41-42c7-9778-6c19b0c1bf28" />
+                    <attribute id="UUID" type="guid" value="f59e9a33-93d9-4261-9740-f51fe548dbf4" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KW_Energy,8,0)" />
+                    <attribute id="Level" type="uint8" value="17" />
+                    <attribute id="Name" type="LSString" value="KiWarrior" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="cbc5c4f1-7f41-42c7-9778-6c19b0c1bf28" />
+                    <attribute id="UUID" type="guid" value="e4ab4ef5-c1bd-488b-af27-6068685b7276" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KW_Energy,8,0)" />
+                    <attribute id="Level" type="uint8" value="18" />
+                    <attribute id="Name" type="LSString" value="KiWarrior" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="cbc5c4f1-7f41-42c7-9778-6c19b0c1bf28" />
+                    <attribute id="UUID" type="guid" value="c7fd6223-25db-480b-aae1-3f9f7c3c5574" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KW_Energy,8,0)" />
+                    <attribute id="Level" type="uint8" value="19" />
+                    <attribute id="Name" type="LSString" value="KiWarrior" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="cbc5c4f1-7f41-42c7-9778-6c19b0c1bf28" />
+                    <attribute id="UUID" type="guid" value="f1915cbf-faa2-409e-a5eb-13e9a310957b" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KW_Energy,8,0)" />
+                    <attribute id="Level" type="uint8" value="20" />
+                    <attribute id="Name" type="LSString" value="KiWarrior" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="cbc5c4f1-7f41-42c7-9778-6c19b0c1bf28" />
+                    <attribute id="UUID" type="guid" value="85c1d5ac-17bf-4423-bed0-456f3b547a3b" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="3" />
+                    <attribute id="Name" type="LSString" value="Saiyan_Heritage" />
+                    <attribute id="PassivesAdded" type="LSString" value="KW_Zenkai_1;KW_ZENKAI_TRIGGER;KW_SE_Intimidation" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="b4383854-c8a9-49ca-a400-198060a4b4af" />
+                    <attribute id="UUID" type="guid" value="0a652f36-e2a7-414e-a141-e3a997ded77c" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="4" />
+                    <attribute id="Name" type="LSString" value="Saiyan_Heritage" />
+                    <attribute id="PassivesAdded" type="LSString" value="KW_Indominable" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="b4383854-c8a9-49ca-a400-198060a4b4af" />
+                    <attribute id="UUID" type="guid" value="c8973d54-98e2-4b92-82e0-0635811aef54" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="5" />
+                    <attribute id="Name" type="LSString" value="Saiyan_Heritage" />
+                    <attribute id="PassivesAdded" type="LSString" value="KW_Counterattack_Interrupt" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="b4383854-c8a9-49ca-a400-198060a4b4af" />
+                    <attribute id="UUID" type="guid" value="7bab0456-40a9-4892-a05d-085be859128c" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="6" />
+                    <attribute id="Name" type="LSString" value="Saiyan_Heritage" />
+                    <attribute id="PassivesAdded" type="LSString" value="KW_SuperSaiyan" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(4f113d26-c62e-4267-9abb-a21889e84268,,,,AlwaysPrepared)" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="b4383854-c8a9-49ca-a400-198060a4b4af" />
+                    <attribute id="UUID" type="guid" value="71f55cb8-49b0-4fba-9f2c-4a78cfb8b576" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="7" />
+                    <attribute id="Name" type="LSString" value="Saiyan_Heritage" />
+                    <attribute id="PassivesAdded" type="LSString" value="KW_Zenkai_2" />
+                    <attribute id="PassivesRemoved" type="LSString" value="KW_Zenkai_1" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="b4383854-c8a9-49ca-a400-198060a4b4af" />
+                    <attribute id="UUID" type="guid" value="a32eb65d-2b2b-4941-b6d3-94715384ee7c" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="8" />
+                    <attribute id="Name" type="LSString" value="Saiyan_Heritage" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="b4383854-c8a9-49ca-a400-198060a4b4af" />
+                    <attribute id="UUID" type="guid" value="9ba10b76-572c-410c-84dd-872df06b635b" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="9" />
+                    <attribute id="Name" type="LSString" value="Saiyan_Heritage" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(87690a81-caaa-4d63-8d0a-659deaa9a657,,,,AlwaysPrepared)" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="b4383854-c8a9-49ca-a400-198060a4b4af" />
+                    <attribute id="UUID" type="guid" value="f54f092d-cac2-4139-82d2-85473b9d27ca" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="10" />
+                    <attribute id="Name" type="LSString" value="Saiyan_Heritage" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="b4383854-c8a9-49ca-a400-198060a4b4af" />
+                    <attribute id="UUID" type="guid" value="c66b621a-b4ea-4aa6-b5ce-6395fb206585" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="11" />
+                    <attribute id="Name" type="LSString" value="Saiyan_Heritage" />
+                    <attribute id="PassivesAdded" type="LSString" value="KW_Zenkai_3" />
+                    <attribute id="PassivesRemoved" type="LSString" value="KW_Zenkai_2" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="b4383854-c8a9-49ca-a400-198060a4b4af" />
+                    <attribute id="UUID" type="guid" value="a1731f9d-09e1-4764-a256-6bea6872cf50" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="12" />
+                    <attribute id="Name" type="LSString" value="Saiyan_Heritage" />
+                    <attribute id="PassivesAdded" type="LSString" value="KW_SuperSaiyan_CON" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(150fa5b1-2091-423c-8a69-c3e276bd22ec,,,,AlwaysPrepared)" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="b4383854-c8a9-49ca-a400-198060a4b4af" />
+                    <attribute id="UUID" type="guid" value="a896bd8a-9ad4-4648-907b-c9bbfa47f89e" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="13" />
+                    <attribute id="Name" type="LSString" value="Saiyan_Heritage" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="b4383854-c8a9-49ca-a400-198060a4b4af" />
+                    <attribute id="UUID" type="guid" value="7b4b940f-4118-4c68-8567-8f31bd681ad4" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="14" />
+                    <attribute id="Name" type="LSString" value="Saiyan_Heritage" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="b4383854-c8a9-49ca-a400-198060a4b4af" />
+                    <attribute id="UUID" type="guid" value="68bc569e-9c85-4526-bdb9-a36742d05584" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="15" />
+                    <attribute id="Name" type="LSString" value="Saiyan_Heritage" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="b4383854-c8a9-49ca-a400-198060a4b4af" />
+                    <attribute id="UUID" type="guid" value="9c9b343c-143f-4fa3-a034-48010171b769" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="16" />
+                    <attribute id="Name" type="LSString" value="Saiyan_Heritage" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="b4383854-c8a9-49ca-a400-198060a4b4af" />
+                    <attribute id="UUID" type="guid" value="a14ffcac-40a6-4e77-8dbc-d3a3a70e8083" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="17" />
+                    <attribute id="Name" type="LSString" value="Saiyan_Heritage" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="b4383854-c8a9-49ca-a400-198060a4b4af" />
+                    <attribute id="UUID" type="guid" value="400d68ec-1f5e-427b-877b-6a67c927863d" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="18" />
+                    <attribute id="Name" type="LSString" value="Saiyan_Heritage" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="b4383854-c8a9-49ca-a400-198060a4b4af" />
+                    <attribute id="UUID" type="guid" value="f0a5e81d-02a2-4c14-b429-327dae0febd0" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="19" />
+                    <attribute id="Name" type="LSString" value="Saiyan_Heritage" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="b4383854-c8a9-49ca-a400-198060a4b4af" />
+                    <attribute id="UUID" type="guid" value="70a32871-51a9-4dac-b06c-5f0093c59fce" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="20" />
+                    <attribute id="Name" type="LSString" value="Saiyan_Heritage" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="b4383854-c8a9-49ca-a400-198060a4b4af" />
+                    <attribute id="UUID" type="guid" value="07f61c69-8036-4d4d-a37a-3e6613eadf4b" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="3" />
+                    <attribute id="Name" type="LSString" value="Z_Fighter" />
+                    <attribute id="PassivesAdded" type="LSString" value="KW_SE_Persuasion" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(74719d66-8cc3-419d-9a8e-877ebf0e8ff5,,,,AlwaysPrepared)" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="e4fd369f-c188-4d64-95cb-44bd46002492" />
+                    <attribute id="UUID" type="guid" value="2bce75b9-6ac9-4cb9-a4e6-88b43d377747" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="4" />
+                    <attribute id="Name" type="LSString" value="Z_Fighter" />
+                    <attribute id="PassivesAdded" type="LSString" value="KW_TurtleSchoolTraining" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="e4fd369f-c188-4d64-95cb-44bd46002492" />
+                    <attribute id="UUID" type="guid" value="01b41455-68c1-4cc2-8b2f-4855af986600" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="5" />
+                    <attribute id="Name" type="LSString" value="Z_Fighter" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(bd776453-3e66-4729-9375-078c78fcc518,,,,AlwaysPrepared)" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="e4fd369f-c188-4d64-95cb-44bd46002492" />
+                    <attribute id="UUID" type="guid" value="10bdb827-afbc-460a-ac40-28afcb801607" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="6" />
+                    <attribute id="Name" type="LSString" value="Z_Fighter" />
+                    <attribute id="PassivesAdded" type="LSString" value="KW_KAIOKEN_PANEL_2;KW_KAIOKEN_UNLOCK2;KW_KaiokenMastery;KW_AutoKaiokenToggle" />
+                    <attribute id="PassivesRemoved" type="LSString" value="KW_KAIOKEN_PANEL_1;KW_KAIOKEN_UNLOCK1" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(00224163-8bec-4ae4-883f-57f69f613e9b,,,,AlwaysPrepared)" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="e4fd369f-c188-4d64-95cb-44bd46002492" />
+                    <attribute id="UUID" type="guid" value="f4af9a2e-30f7-4f31-ab22-12581899e1c7" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="7" />
+                    <attribute id="Name" type="LSString" value="Z_Fighter" />
+                    <attribute id="PassivesAdded" type="LSString" value="KW_SenzuBean_1" />
+                    <attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(85a1134c-aa2f-410a-9416-e1a32bf23ffa,,,,AlwaysPrepared)" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="e4fd369f-c188-4d64-95cb-44bd46002492" />
+                    <attribute id="UUID" type="guid" value="0351f3fe-7f3d-4c68-9b01-9af1b8a52b3b" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="8" />
+                    <attribute id="Name" type="LSString" value="Z_Fighter" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(dcb37a9e-069d-4176-86ad-0accc6c77e43,,,,AlwaysPrepared)" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="e4fd369f-c188-4d64-95cb-44bd46002492" />
+                    <attribute id="UUID" type="guid" value="5ade4722-3849-4969-8881-d1d5a142dbb9" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="9" />
+                    <attribute id="Name" type="LSString" value="Z_Fighter" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="e4fd369f-c188-4d64-95cb-44bd46002492" />
+                    <attribute id="UUID" type="guid" value="6b0b42e9-ed08-4c95-a2a0-2e55b2ec6ea2" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="10" />
+                    <attribute id="Name" type="LSString" value="Z_Fighter" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(e97a1f50-4203-426d-b694-729d343d6800,,,,AlwaysPrepared)" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="e4fd369f-c188-4d64-95cb-44bd46002492" />
+                    <attribute id="UUID" type="guid" value="b28b9fdc-9fcf-45a7-80cf-4775b7d2a61a" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="11" />
+                    <attribute id="Name" type="LSString" value="Z_Fighter" />
+                    <attribute id="PassivesAdded" type="LSString" value="KW_SenzuBean_2" />
+                    <attribute id="PassivesRemoved" type="LSString" value="KW_SenzuBean_1" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="e4fd369f-c188-4d64-95cb-44bd46002492" />
+                    <attribute id="UUID" type="guid" value="4308a429-e7e7-4e88-8f2b-a4fc3da76f64" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="12" />
+                    <attribute id="Name" type="LSString" value="Z_Fighter" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(af93cdb6-e8f6-4788-8400-2db3a2a50552,,,,AlwaysPrepared)" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="e4fd369f-c188-4d64-95cb-44bd46002492" />
+                    <attribute id="UUID" type="guid" value="502bdc92-6987-4279-ad3a-b06403d4cfdb" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="13" />
+                    <attribute id="Name" type="LSString" value="Z_Fighter" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="e4fd369f-c188-4d64-95cb-44bd46002492" />
+                    <attribute id="UUID" type="guid" value="31c304a3-be74-46c7-9cd5-8517eff02a52" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="14" />
+                    <attribute id="Name" type="LSString" value="Z_Fighter" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="e4fd369f-c188-4d64-95cb-44bd46002492" />
+                    <attribute id="UUID" type="guid" value="91da75df-1c58-4dac-b9ae-e004e382686e" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="15" />
+                    <attribute id="Name" type="LSString" value="Z_Fighter" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="e4fd369f-c188-4d64-95cb-44bd46002492" />
+                    <attribute id="UUID" type="guid" value="2e72ed2d-69a9-47d4-986b-346d6dcf6f46" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="16" />
+                    <attribute id="Name" type="LSString" value="Z_Fighter" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="e4fd369f-c188-4d64-95cb-44bd46002492" />
+                    <attribute id="UUID" type="guid" value="b018a92a-c041-4fb9-b2f6-c717a7479275" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="17" />
+                    <attribute id="Name" type="LSString" value="Z_Fighter" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="e4fd369f-c188-4d64-95cb-44bd46002492" />
+                    <attribute id="UUID" type="guid" value="96dee0a9-4636-4ad5-b9fc-1bc7ae79b8ad" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="18" />
+                    <attribute id="Name" type="LSString" value="Z_Fighter" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="e4fd369f-c188-4d64-95cb-44bd46002492" />
+                    <attribute id="UUID" type="guid" value="5611e876-4d78-46c9-bc88-0b16252246dc" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="19" />
+                    <attribute id="Name" type="LSString" value="Z_Fighter" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="e4fd369f-c188-4d64-95cb-44bd46002492" />
+                    <attribute id="UUID" type="guid" value="3a926195-af15-4bc8-999f-4f8188939cef" />
+                    </node>
+        <node id="Progression"> 
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="20" />
+                    <attribute id="Name" type="LSString" value="Z_Fighter" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="e4fd369f-c188-4d64-95cb-44bd46002492" />
+                    <attribute id="UUID" type="guid" value="0eaf70fc-58d0-4dae-b001-9abc768b5470" />
+                    </node>
+      </children>
+    </node>
+  </region>
+</save>

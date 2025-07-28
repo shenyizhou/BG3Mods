@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="312"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0);ActionResource(DeflectMissiles_Charge,1,0)"/>
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="Monk"/>
+                    <attribute id="PassivesAdded" type="LSString" value="DeflectMissiles"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="fe1319a2-86be-469c-aab5-e3b0bd714e0e"/>
+                    <attribute id="UUID" type="guid" value="296468cb-3640-4460-9f44-b30ee820a9ed"/>
+                    <children>
+                        <node id="SubClasses">
+                            <children>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="22894c32-54cf-49ea-b366-44bfcf01bb2a"/>
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="2a5e3097-384c-4d29-8d6e-054fdfd26b80"/>
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="bf46d73f-d406-4cb8-9a1d-e6e758ca02c7"/>
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="43dee3a5-08c4-4243-9009-ebfe417a9ff5"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,2,0)"/>
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="TianWu"/>
+					<attribute id="PassivesAdded" type="LSString" value="WuJiZhiLu;BaiHu;ZhuQue;XuanWu;QingLong"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(d6c6109e-a8ab-4e59-9a4f-9d85ac73d9ac,2,NeiGOng);SelectPassives(841f6c82-bee9-48a1-9132-4e72322db436,2,WaiGong)"/>
+                    <attribute id="TableUUID" type="guid" value="f259c576-a660-4d85-a9ce-6eed5b9c0afd"/>
+                    <attribute id="UUID" type="guid" value="269c2c77-6e4c-48e6-a28a-3792cf299399"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="Name" type="LSString" value="TianWu"/>
+					<attribute id="PassivesAdded" type="LSString" value="JingGangBuHuai_1;ShiJiaZhiXiang_1"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(7867a9ac-63e2-41af-961b-069d719d76ad,2,NeiGong);SelectPassives(ce5dde00-26c5-48c7-9bd5-b0a28db8daad,2,WaiGong)"/>
+                    <attribute id="TableUUID" type="guid" value="f259c576-a660-4d85-a9ce-6eed5b9c0afd"/>
+                    <attribute id="UUID" type="guid" value="9603ce59-ad32-4fb9-b82d-2eb5028f421a"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="Name" type="LSString" value="TianWu"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(6c518bba-4740-4b04-9608-e40d82d74b91,2,WaiGong)"/>
+                    <attribute id="TableUUID" type="guid" value="f259c576-a660-4d85-a9ce-6eed5b9c0afd"/>
+                    <attribute id="UUID" type="guid" value="9b00f92a-3672-4fe9-b906-b5890406d64f"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,2,0)"/>
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="Name" type="LSString" value="TianWu"/>
+					<attribute id="PassivesAdded" type="LSString" value="TianYanTong"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(4772ca82-0c8e-4d98-abe3-128a0714c0dd,2,NeiGong);SelectPassives(722e8348-3b16-4d92-80ad-8d6b377c6745,2,WaiGong)"/>
+                    <attribute id="TableUUID" type="guid" value="f259c576-a660-4d85-a9ce-6eed5b9c0afd"/>
+                    <attribute id="UUID" type="guid" value="a22d2056-489e-4622-8e76-d42cb3ee703c"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="TianWu"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(09c370b7-d88e-49a9-881f-60d245a4adcb,1,NeiGong)"/>
+                    <attribute id="TableUUID" type="guid" value="f259c576-a660-4d85-a9ce-6eed5b9c0afd"/>
+                    <attribute id="UUID" type="guid" value="b974b4a8-b4fe-424d-a034-c4f03110c061"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,2,0)"/>
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="Name" type="LSString" value="TianWu"/>
+					<attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(7a50f677-6c0b-4c21-9489-b9d2341d638e,2,NeiGong);SelectPassives(2ca408fd-005c-42af-a0bd-5da53624b1e4,2,WaiGong)"/>
+                    <attribute id="TableUUID" type="guid" value="f259c576-a660-4d85-a9ce-6eed5b9c0afd"/>
+                    <attribute id="UUID" type="guid" value="c111544f-5a69-414e-af18-67be82344eec"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Name" type="LSString" value="TianWu"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(da7a561b-12ed-4c82-896d-3b99312eb00b,1,WaiGong)"/>
+                    <attribute id="TableUUID" type="guid" value="f259c576-a660-4d85-a9ce-6eed5b9c0afd"/>
+                    <attribute id="UUID" type="guid" value="ced1087b-325d-48a3-96f2-aba27a9b8587"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0)"/>
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="Name" type="LSString" value="TianWu"/>
+					<attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(dee48d78-e3c6-4ab0-a586-6c91ca1b1f79,1,NeiGong)"/>
+                    <attribute id="TableUUID" type="guid" value="f259c576-a660-4d85-a9ce-6eed5b9c0afd"/>
+                    <attribute id="UUID" type="guid" value="adae86e4-f123-45e5-b702-281bf724489f"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="TianWu"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(f48c049d-e020-456f-8c6e-39e216c87339)"/>
+                    <attribute id="TableUUID" type="guid" value="f259c576-a660-4d85-a9ce-6eed5b9c0afd"/>
+                    <attribute id="UUID" type="guid" value="509622c5-d90f-47f0-ab35-8a8f98d2dfac"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,2,0)"/>
+                    <attribute id="Level" type="uint8" value="12"/>
+                    <attribute id="Name" type="LSString" value="TianWu"/>
+					<attribute id="PassivesAdded" type="LSString" value="ZhiDao;DuZun"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="f259c576-a660-4d85-a9ce-6eed5b9c0afd"/>
+                    <attribute id="UUID" type="guid" value="230a1050-7f10-4b5e-aadd-7b0ae39ce420"/>
+                </node>
+             </children>
+        </node>
+    </region>
+</save>

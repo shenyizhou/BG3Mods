@@ -1,0 +1,28 @@
+new equipment "EQP_CC_Yiren"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Scimitar_FlameBlade"
+add equipmentgroup
+add equipment entry "WPN_Scimitar_FlameBlade"
+add equipmentgroup
+add equipment entry "MAG_Drunken_Cloth"
+add equipmentgroup
+add equipment entry "MAG_Evasive_Shoes"
+add equipmentgroup
+add equipment entry "MAG_EGW_OfTheDrunkard_Amulet"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Vanity_ElegantRobe"
+add equipmentgroup
+add equipment entry "ARM_Underwear_Dragonborn_Bronze"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"

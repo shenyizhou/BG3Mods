@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="8" build="612"/>
+    <region id="ClassDescriptions">
+        <node id="root">
+            <children>
+                <node id="ClassDescription">
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="Description" type="TranslatedString" handle="h73464215gc631g480fg97c4g0e3dbfcfc656" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3d717702g1f80g450fgb7a5gd61770032667" version="1"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="Name" type="FixedString" value="Cultivator"/>
+                    <attribute id="ParentGuid" type="guid" value="721dfac3-92d4-41f5-b773-b7072a86232f"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="1"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="947e5b71-076e-4f24-a465-5b21a517e81a"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Fighter"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="1"/>
+                    <attribute id="UUID" type="guid" value="52c3319b-8b38-4283-8e22-12a3cab458b0"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

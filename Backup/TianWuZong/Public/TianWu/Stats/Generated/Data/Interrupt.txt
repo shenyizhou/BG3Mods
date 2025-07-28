@@ -1,0 +1,36 @@
+new entry "WanXiangZiRan"
+type "InterruptData"
+using "Interrupt_DampenElements"
+data "DisplayName" "he28bbfbageba6g4004ga271g6d531fc8821b;1"
+data "Description" "hecf92689gb3cfg4a80g9c22gf3b6b0f64a4f;1"
+data "DescriptionParams" "1d10"
+data "Icon" "PassiveFeature_AbsorbElements"
+data "InterruptContextScope" "Self"
+data "Conditions" "IsAbleToReact(context.Observer) and Self(context.Target,context.Observer) and (SpellDamageTypeIs(DamageType.Acid) or SpellDamageTypeIs(DamageType.Cold) or SpellDamageTypeIs(DamageType.Fire) or SpellDamageTypeIs(DamageType.Lightning) or SpellDamageTypeIs(DamageType.Thunder)) and not AnyEntityIsItem()"
+data "Properties" "SetDamageResistance(Acid);SetDamageResistance(Cold);SetDamageResistance(Fire);SetDamageResistance(Lightning);SetDamageResistance(Thunder);ApplyStatus(OBSERVER_TARGET, ABSORB_ELEMENTS_ACTIVE,100,1)"
+data "Cost" "ReactionActionPoint:1"
+data "Cooldown" "OncePerTurn"
+data "EnableCondition" "not HasStatus('SG_Polymorph') and HasActionResource('Interrupt_AbsorbElements', 1, 0, false, false, context.Source)"
+data "EnableContext" "OnActionResourcesChanged"
+
+new entry "TaiJiQuan_1"
+type "InterruptData"
+data "DisplayName" "h5c7ceaeag7b34g46b1g9dfcg40b86c131b16;1"
+data "Description" "h4c74868ag3bfcg4a1cga605gb8987164d201;1"
+data "Icon" "PassiveFeature_PurityOfBody"
+data "InterruptContext" "OnCastHit"
+data "InterruptContextScope" "Self"
+data "Container" "YesNoDecision"
+data "Conditions" "IsAbleToReact(context.Observer)
+and Enemy(context.Source,context.Observer)
+and IsMeleeAttack()
+and IsMiss()
+and not HasStatus('INVISIBILITY')
+and not AnyEntityIsItem()
+and not DistanceToEntityGreaterThan(2, context.ObserverPosition, context.Source)
+and HasLastAttackTriggered()"
+data "Properties" "UseSpell(SWAP,Target_Riposte,true,true,true);ApplyStatus(OBSERVER_OBSERVER,INTERRUPT_RIPOSTE,100,0)"
+data "Cost" "ReactionActionPoint:1"
+data "InterruptDefaultValue" "Enabled"
+data "EnableCondition" "not HasAnyStatus({'SG_Polymorph','SG_Blinded'}) or Tagged('MINDFLAYER')"
+data "EnableContext" "OnStatusApplied;OnStatusRemoved"
