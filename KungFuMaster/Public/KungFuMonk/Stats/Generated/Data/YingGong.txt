@@ -1,0 +1,265 @@
+/*
+ * 硬功技能系统 - YingGong.txt
+ * 定义刚猛外功修炼的各种被动技能和主动技能
+ * 包括金刚不坏神功、金钟罩、铁布衫、不灭金身等硬功绝学
+ */
+
+// 金刚不坏神功：终极防御被动技能
+new entry "Passive_KungFuMaster_JinGangBuHuaiShenGong"
+type "PassiveData"
+// 图标：使用野蛮人无甲防御图标
+data "Icon" "PassiveFeature_UnarmoredDefense_Barbarian"
+// 显示名称：金刚不坏神功
+data "DisplayName" "hb5884a09g33c0g4908ga7d1g1c277630bfd5;1"
+// 技能描述：基于体质调整值的伤害减免
+data "Description" "h58031c2dgb037g493fgab67g50139ff50c99;1"
+// 描述参数：体质调整值（最小为1）
+data "DescriptionParams" "max(1,ConstitutionModifier)"
+// 属性：高亮显示
+data "Properties" "Highlighted"
+// 效果加成：各种伤害类型减免 + 解锁三个技能（金钟罩、铁布衫、不灭金身）
+data "Boosts" "DamageReduction(Piercing,Flat,max(1,ConstitutionModifier));DamageReduction(Bludgeoning,Flat,max(1,ConstitutionModifier));DamageReduction(Slashing,Flat,max(1,ConstitutionModifier));DamageReduction(Force,Flat,max(1,ConstitutionModifier));UnlockSpell(Shout_KungFuMaster_AuraOf_Protection);UnlockPassive(Passive_KungFuMaster_TieBuShan);UnlockSpell(Shout_KungFuMaster_ResilientSphere)"
+
+// 金钟罩：伤害吸收护盾技能
+// 佛门护体神功，凝聚内力形成金色护盾，能够吸收一定数量的伤害
+new entry "Shout_KungFuMaster_AuraOf_Protection"
+type "SpellData"
+// 法术类型：呐喊类
+data "SpellType" "Shout"
+// 图标：使用临时生命值图标
+data "Icon" "Action_Spell_TemporaryHP"
+// 显示名称：金钟罩
+data "DisplayName" "hcebcd611gaa70g4854gaeafg191511ecd8d5;1"
+// 技能描述：基于体质调整值的伤害吸收护盾
+data "Description" "hf695d1a4g3cfcg4353gaacdg9080f7d81d38;1"
+// 描述参数：吸收伤害值 = 体质调整值 × 5
+data "DescriptionParams" "max(1,ConstitutionModifier)*5"
+// 额外描述：每回合自动恢复护盾值
+data "ExtraDescription" "h8a9b2c3dg4e5fg6789g0123g456789abcdef;1"
+// 法术效果：施加金钟罩护盾状态
+data "SpellProperties" "ApplyStatus(KungFuMaster_AURA_OF_PROTECTION,100,10);"
+// 工具提示状态：显示金钟罩护盾状态效果
+data "TooltipStatusApply" "ApplyStatus(KungFuMaster_AURA_OF_PROTECTION,100,10);"
+// 目标条件：只能对自己施放
+data "TargetConditions" "Self()"
+// 施法音效：临时生命值施法音效
+data "CastSound" "Spell_Cast_Utility_TemporaryHP_L1to3"
+// 目标音效：临时生命值命中音效
+data "TargetSound" "Spell_Impact_Utility_TemporaryHP_L1to3"
+// 预览光标：施法光标
+data "PreviewCursor" "Cast"
+// 施法文本事件
+data "CastTextEvent" "Cast"
+// 使用消耗：1行动点
+data "UseCosts" "ActionPoint:1"
+// 法术动画序列：金钟罩施法动画
+data "SpellAnimation" "83fb0115-57dd-4cce-ac40-87182b2865e2,,;,,;62e74220-ba87-4fe7-aa99-9d12cab9d654,,;b1f3f86a-a1fc-43f6-8a2b-0110a9f99ead,,;42014429-21fb-412d-bba6-0f8216f5e502,,;,,;43fa5e31-ad7e-47a9-9ca2-f6d40ba8e1cf,,;,,;,,"
+// 语言意图：增益类
+data "VerbalIntent" "Buff"
+// 法术风格组：职业技能
+data "SpellStyleGroup" "Class"
+// 需求条件：未拥有金钟罩状态时才能施放
+data "RequirementConditions" "not HasStatus('KungFuMaster_AURA_OF_PROTECTION')"
+// 准备效果：金色光芒汇聚
+data "PrepareEffect" "c218f05b-1e12-4298-beff-e4d33a5fa5a5"
+// 施法效果：金钟罩护盾生成
+data "CastEffect" "8265c6d6-662a-40fe-888b-024af0e2b1b9"
+
+// 金钟罩护盾状态 - 伤害吸收护盾
+// 金钟罩是佛门护体神功，凝聚内力形成金色护盾，能够吸收伤害并每回合自动恢复
+new entry "KungFuMaster_AURA_OF_PROTECTION"
+// 状态堆叠ID：确保同类状态不重复
+data "StackId" "KungFuMaster_AURA_OF_PROTECTION"
+type "StatusData"
+// 状态类型：增益状态
+data "StatusType" "BOOST"
+// 图标：使用临时生命值图标
+data "Icon" "Action_Spell_TemporaryHP"
+// 显示名称：金钟罩
+data "DisplayName" "hcebcd611gaa70g4854gaeafg191511ecd8d5;1"
+// 技能描述：伤害吸收护盾，每回合恢复
+data "Description" "hf695d1a4g3cfcg4353gaacdg9080f7d81d38;1"
+// 描述参数：护盾值 = 体质调整值 × 5，每回合恢复
+data "DescriptionParams" "max(1,Cause.ConstitutionModifier)*5;max(1,Cause.ConstitutionModifier)*5"
+// 堆叠优先级：10（较高优先级）
+data "StackPriority" "10"
+// 效果加成：临时生命值 = 体质调整值 × 5
+data "Boosts" "TemporaryHP(max(1,Cause.ConstitutionModifier)*5)"
+// 回合开始时函数：恢复护盾值到最大值
+data "OnTurnStartFunctors" "RestoreResource(OBSERVER_OBSERVER,TemporaryHitPoints,max(1,Cause.ConstitutionModifier)*5,0)"
+// 移除条件：当角色失能时移除此状态
+data "RemoveConditions" "HasStatus('SG_Incapacitated')"
+// 移除事件：状态施加时触发移除检查
+data "RemoveEvents" "OnStatusApplied"
+// 状态属性标志：忽略休息时的状态清理
+data "StatusPropertyFlags" "IgnoreResting"
+// 状态组：重新分配天赋时移除
+data "StatusGroups" "SG_RemoveOnRespec"
+// 施加效果：金色护盾生成视觉效果
+data "ApplyEffect" "d21494e5-5c30-4a69-85ef-75a785e71105"
+// 状态效果：持续的金色护盾光环
+data "StatusEffect" "2419c2ea-a3b6-45e7-8b57-dd6cecf0ec2d"
+// 结束效果：护盾消散视觉效果
+data "EndEffect" "a5c11e94-efa3-4998-a76b-fc12502ea565"
+
+
+
+// 铁布衫被动技能 - 伤害反弹机制
+// 铁布衫是外门硬功，修炼者皮肤如铁石般坚硬，受到近战攻击时能反弹部分伤害给攻击者
+new entry "Passive_KungFuMaster_TieBuShan"
+type "PassiveData"
+// 图标：使用反击图标
+data "Icon" "PassiveFeature_Retaliation"
+// 显示名称：铁布衫
+data "DisplayName" "hd2aa6de7g6596g45c4gbcdbg8307d584920f;1"
+// 技能描述：受到近战攻击时反弹伤害
+data "Description" "h59dfaff5gfd53g4de4gba58ge5fd85887972;1"
+// 描述参数：反弹伤害值 = 体质调整值
+data "DescriptionParams" "max(1,ConstitutionModifier)"
+// 属性：高亮显示
+data "Properties" "Highlighted"
+// 效果加成：受到近战攻击时反弹伤害
+data "Boosts" "IF(IsMeleeAttack() and not IsMeleeUnarmedAttack()):CharacterWeaponDamage(max(1,ConstitutionModifier),Piercing,true,true,true)"
+
+
+
+// 不灭金身：大幅减伤防护技能
+// 武学至高境界，修炼者身体如金刚般坚韧，能够大幅减少所有伤害，但移动速度会受到影响
+new entry "Shout_KungFuMaster_ResilientSphere"
+type "SpellData"
+// 法术类型：呐喊类
+data "SpellType" "Shout"
+// 图标：使用石肤术图标
+data "Icon" "Spell_Transmutation_Stoneskin"
+// 显示名称：不灭金身
+data "DisplayName" "h174714ebgc630g445dga4d1g0550a18efbec;1"
+// 技能描述：80%伤害减免但移动速度减半
+data "Description" "h1876724fg1229g41e9g9f20g850e5967bf45;1"
+// 描述参数：伤害减免80%，移动速度减半
+data "DescriptionParams" "80;50"
+// 额外描述：持续2回合
+data "ExtraDescription" "h9c8d7e6fg5a4bg3c2dg1e0fg987654321abc;1"
+// 法术效果：对自己施加不灭金身状态，持续2回合
+data "SpellProperties" "ApplyStatus(SELF,KungFuMaster_RESILIENT_SPHERE,100,2)"
+// 工具提示状态：显示不灭金身状态效果
+data "TooltipStatusApply" "ApplyStatus(KungFuMaster_RESILIENT_SPHERE,100,2)"
+// 目标条件：只能对自己施放
+data "TargetConditions" "Self()"
+// 施法音效：石肤术施法音效
+data "CastSound" "Spell_Cast_Transmutation_Stoneskin_L4to5"
+// 目标音效：石肤术命中音效
+data "TargetSound" "Spell_Impact_Transmutation_Stoneskin_L4to5"
+// 预览光标：施法光标
+data "PreviewCursor" "Cast"
+// 施法文本事件
+data "CastTextEvent" "Cast"
+// 使用消耗：1行动点
+data "UseCosts" "ActionPoint:1"
+// 法术动画序列：不灭金身施法动画
+data "SpellAnimation" "03114753-8d91-4c52-8207-728a67cdd59b,,;,,;2bac2431-3048-44e9-ad4a-ca4db0a63104,,;352ab1cc-249f-4d9e-9a42-58148d3658fe,,;8fcb1f19-a84b-486d-81fa-098aaf7cc9be,,;,,;c5bd6ce6-281c-4314-9f74-9f7bb2f4cf03,,;,,;,,"
+// 语言意图：增益类
+data "VerbalIntent" "Buff"
+// 法术标志：有躯体成分
+data "SpellFlags" "HasSomaticComponent"
+// 需求条件：未拥有不灭金身状态时才能施放
+data "RequirementConditions" "not HasStatus('KungFuMaster_RESILIENT_SPHERE')"
+// 准备效果：金色内力汇聚
+data "PrepareEffect" "af787096-8656-4495-a6ce-cbd376578069"
+// 施法效果：不灭金身激活
+data "CastEffect" "c32a08dc-ebfa-4d8c-bd4b-e21cd1f5f256"
+// 目标效果：金身护体光芒
+data "TargetEffect" "4075547d-197f-4cb3-94ff-b40a7fd113d4"
+
+// 不灭金身状态 - 大幅减伤防护状态
+// 不灭金身是武学至高境界，修炼者身体如金刚般坚韧，能够大幅减少所有伤害，但移动速度会受到影响
+new entry "KungFuMaster_RESILIENT_SPHERE"
+// 状态堆叠ID：确保同类状态不重复
+data "StackId" "KungFuMaster_RESILIENT_SPHERE"
+type "StatusData"
+// 状态类型：增益状态
+data "StatusType" "BOOST"
+// 图标：使用石肤术图标
+data "Icon" "Spell_Transmutation_Stoneskin"
+// 显示名称：不灭金身
+data "DisplayName" "h174714ebgc630g445dga4d1g0550a18efbec;1"
+// 技能描述：80%伤害减免但移动速度减半
+data "Description" "h1876724fg1229g41e9g9f20g850e5967bf45;1"
+// 描述参数：伤害减免80%，移动速度减半
+data "DescriptionParams" "80;50"
+// 效果加成：所有伤害类型减免80%，移动速度减半
+data "Boosts" "DamageReduction(All,Percentage,80);ActionResourceMultiplier(Movement,50,0)"
+// 状态属性标志：无特殊标志
+data "StatusPropertyFlags" ""
+// 状态组：重新分配天赋时移除
+data "StatusGroups" "SG_RemoveOnRespec"
+// 施加效果：金身护体光芒生成
+data "ApplyEffect" "d21494e5-5c30-4a69-85ef-75a785e71105"
+// 状态效果：不灭金身的金色护体光芒
+data "StatusEffect" "2419c2ea-a3b6-45e7-8b57-dd6cecf0ec2d"
+// 结束效果：金身护体光芒消散
+data "EndEffect" "a5c11e94-efa3-4998-a76b-fc12502ea565"
+
+// 大金刚神力 - 终极力量被动技能（专精化调整）
+// 修炼至极致的刚猛内力，专精于徒手战斗和内力运用，力量如金刚般坚不可摧
+new entry "Passive_KungFuMaster_DaJinGangShenLi"
+type "PassiveData"
+// 图标：使用野蛮人狂暴图标
+data "Icon" "Action_Barbarian_Rage"
+// 显示名称：大金刚神力
+data "DisplayName" "h5007e0ebg5a58g4da0gbe36g93017b27d17c;1"
+// 技能描述：基于力量调整值的徒手攻击和力场伤害加成
+data "Description" "ha627cd63g0326g496fg8e26gf87b4593a1e9;1"
+// 描述参数：力量调整值（最小为1）
+data "DescriptionParams" "max(1,StrengthModifier)"
+// 额外描述：专精于徒手战斗，击杀敌人时获得额外效果
+data "ExtraDescription" "hd7c5f3a6ge2a4g4d0cgb46bg5fd49d003347;1"
+// 属性：高亮显示
+data "Properties" "Highlighted"
+// 效果加成：仅影响徒手攻击和力场伤害，移除武器攻击和远程徒手攻击，移除攻击骰加成
+data "Boosts" "IF(IsMeleeUnarmedAttack()):CharacterUnarmedDamage(max(1,StrengthModifier));IF(IsDamageTypeForce()):DamageBonus(max(1,StrengthModifier));UnlockPassive(Passive_KungFuMaster_DaJinGangShenLi_KillBonus)"
+
+// 大金刚神力击杀加成 - 徒手攻击击杀敌人时的特殊效果
+// 击杀敌人后，下次徒手攻击伤害翻倍，体现刚猛内力的爆发特性
+new entry "Passive_KungFuMaster_DaJinGangShenLi_KillBonus"
+type "PassiveData"
+// 图标：使用暴击图标
+data "Icon" "PassiveFeature_CriticalHit"
+// 显示名称：金刚爆发
+data "DisplayName" "h1a2b3c4dg5e6fg7890gabcdgef1234567890;1"
+// 技能描述：徒手攻击击杀敌人时下次徒手攻击伤害翻倍
+data "Description" "h2b3c4d5eg6f7ag8901gbcdegf2345678901a;1"
+// 属性：隐藏（不在角色面板显示）
+data "Properties" "IsHidden"
+// 击杀时函数：徒手攻击击杀敌人时施加金刚爆发状态
+data "OnCharacterKillFunctors" "IF(IsMeleeUnarmedAttack()):ApplyStatus(SELF,KungFuMaster_JINGANG_BURST,100,2)"
+
+// 金刚爆发状态 - 下次徒手攻击伤害翻倍
+// 大金刚神力的特殊效果，击杀敌人后内力爆发，下次徒手攻击威力倍增
+new entry "KungFuMaster_JINGANG_BURST"
+// 状态堆叠ID：确保同类状态不重复
+data "StackId" "KungFuMaster_JINGANG_BURST"
+type "StatusData"
+// 状态类型：增益状态
+data "StatusType" "BOOST"
+// 图标：使用暴击图标
+data "Icon" "PassiveFeature_CriticalHit"
+// 显示名称：金刚爆发
+data "DisplayName" "h1a2b3c4dg5e6fg7890gabcdgef1234567890;1"
+// 技能描述：下次徒手攻击伤害翻倍
+data "Description" "h3c4d5e6fg7a8bg9012gcdegf3456789012b;1"
+// 效果加成：徒手攻击伤害翻倍
+data "Boosts" "IF(IsMeleeUnarmedAttack()):CharacterUnarmedDamage(100,Percentage)"
+// 移除条件：进行徒手攻击后移除此状态
+data "RemoveConditions" "IsMeleeUnarmedAttack()"
+// 移除事件：攻击时触发移除检查
+data "RemoveEvents" "OnAttack"
+// 状态属性标志：忽略休息时的状态清理
+data "StatusPropertyFlags" "IgnoreResting"
+// 状态组：重新分配天赋时移除
+data "StatusGroups" "SG_RemoveOnRespec"
+// 施加效果：金色内力爆发光芒
+data "ApplyEffect" "d21494e5-5c30-4a69-85ef-75a785e71105"
+// 状态效果：持续的金色爆发光芒
+data "StatusEffect" "2419c2ea-a3b6-45e7-8b57-dd6cecf0ec2d"
+// 结束效果：爆发光芒消散
+data "EndEffect" "a5c11e94-efa3-4998-a76b-fc12502ea565"

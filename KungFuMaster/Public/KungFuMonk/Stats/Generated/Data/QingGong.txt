@@ -1,0 +1,224 @@
+// ==================== 轻功身法系统 ====================
+// 轻功身法专注于身法敏捷和移动能力的提升，包含各种轻身术和身法技巧
+
+// 梯云纵 - 基础轻功身法
+// 如履平地般的跳跃能力，大幅提升跳跃距离和灵活性
+new entry "Passive_KungFuMaster_TiYunZong"
+type "PassiveData"
+// 图标：使用跳跃动作图标
+data "Icon" "Action_Jump"
+// 显示名称：梯云纵
+data "DisplayName" "h0735f7aag028fg4f50g91a3g2480891e7eea;1"
+// 描述：梯云纵的功效说明
+data "Description" "hf8bb6033g741cg4852g9b84g62e96b1fba44;1"
+// 描述参数：跳跃距离加成3米
+data "DescriptionParams" "Distance(3)"
+// 属性：高亮显示
+data "Properties" "Highlighted"
+// 效果：解锁跳跃法术变体（附赠行动），跳跃距离+3米，跳跃距离倍数x3
+data "Boosts" "UnlockSpellVariant(SpellId('Projectile_Jump'),ModifyUseCosts(Replace,BonusActionPoint,0,0,BonusActionPoint));JumpMaxDistanceBonus(3);JumpMaxDistanceMultiplier(3)"
+
+// 一苇渡江 - 高级轻功身法
+// 如一苇渡江般的轻身功夫，无视地形阻碍，移动如风
+new entry "Passive_KungFuMaster_YiWeiDuJiang"
+type "PassiveData"
+// 图标：使用冲刺动作图标
+data "Icon" "Action_Dash"
+// 显示名称：一苇渡江
+data "DisplayName" "hc0decce3g35ecg4ef6gaeb1g69746c6100ba;1"
+// 描述：一苇渡江的功效说明
+data "Description" "h18c06e21gd830g46dfg8b98g36dc52717f77;1"
+// 描述参数：移动力+3米，冲刺+6米
+data "DescriptionParams" "Distance(3);Distance(6)"
+// 属性：高亮显示
+data "Properties" "Highlighted"
+// 效果：免疫困难地形，移动力+3米，解锁踏雪无痕技能
+data "Boosts" "StatusImmunity(SG_DifficultTerrain);ActionResource(Movement,3,0);UnlockSpell(Shout_KungFuMaster_Dash)"
+
+// 踏雪无痕（疾走）- 一苇渡江解锁的主动技能
+// 踏雪无痕的轻功身法，可叠加冲刺效果
+new entry "Shout_KungFuMaster_Dash"
+type "SpellData"
+// 法术类型：呐喊类
+data "SpellType" "Shout"
+// 图标：使用附赠冲刺动作图标
+data "Icon" "Action_Dash_Bonus"
+// 显示名称：踏雪无痕
+data "DisplayName" "h4cbfeb20gf142g4c3bga4e6gcf9c4acb88e6;1"
+// 描述：踏雪无痕的效果说明
+data "Description" "h9a8b72a0gf46dg433ag9a02gf0785a95b7bc;1"
+// 工具提示状态：显示冲刺状态
+data "TooltipStatusApply" "ApplyStatus(DASH,100,1)"
+// AI标志：提供资源，仅作为支援动作使用
+data "AIFlags" "GrantsResources;UseAsSupportingActionOnly"
+// 法术效果：根据现有冲刺状态叠加不同等级的冲刺效果
+data "SpellProperties" "IF(HasStatus('DASH_STACKED')):ApplyStatus(DASH_STACKED_2,100,1);IF(not HasStatus('DASH_STACKED_2') and HasStatus('DASH')):ApplyStatus(DASH_STACKED,100,1);IF(not HasStatus('DASH_STACKED_2') and not HasStatus('DASH_STACKED') and not HasStatus('DASH')):ApplyStatus(DASH,100,1)"
+// 目标条件：只能对自己使用
+data "TargetConditions" "Self()"
+// 准备音效：通用动作开始音效
+data "PrepareSound" "Generic_GeneralAction_Start"
+// 准备循环音效：通用动作循环音效
+data "PrepareLoopSound" "Generic_GeneralAction_Loop"
+// 施法音效：冲刺施法音效
+data "CastSound" "Action_Cast_Dash"
+// 目标音效：冲刺命中音效
+data "TargetSound" "Action_Impact_Dash"
+// 预览光标：施法光标
+data "PreviewCursor" "Cast"
+// 施法文本事件
+data "CastTextEvent" "Cast"
+// 使用消耗：1行动点
+data "UseCosts" "ActionPoint:1"
+// 法术动画：复杂的动画序列
+data "SpellAnimation" "5e57443f-284e-47b2-915e-5b6417db269c,,;925779e7-8bf6-4d56-8c4d-42c3bc01c60c,,;50398f4e-dd82-4d6a-ad43-aedd578543d9,,;1c343e00-7e6c-4f53-b588-074a3cdb9c7d,,;5bcdefbb-2194-46c2-ac77-0b2d8472a5f7,,;,,;5fdb66be-7506-411a-a7ea-c4783288aac8,,;,,;,,"
+// 语言意图：实用类
+data "VerbalIntent" "Utility"
+// 法术标志：忽略沉默、潜行、隐身、不移动镜头
+data "SpellFlags" "IgnoreSilence;Stealth;Invisible;NoCameraMove"
+// 法术动作类型：冲刺
+data "SpellActionType" "Dash"
+// 法术分类：冲刺类
+data "SpellCategory" "SC_Dash"
+// 法术动画意图：攻击性
+data "SpellAnimationIntentType" "Aggressive"
+// 准备效果
+data "PrepareEffect" "ae569a16-41db-43ee-94cf-770e101841cd"
+// 施法效果
+data "CastEffect" "806a170b-c567-4481-bb56-56871d8aaf5f"
+// 电影竞技场标志：忽略
+data "CinematicArenaFlags" "Ignore"
+// 法术音效强度：小
+data "SpellSoundMagnitude" "Small"
+// 武器收纳：不改变
+data "Sheathing" "DontChange"
+
+// 凌波微步 - 武侠轻功绝学
+// 如凌波仙子般的步法，移动时如履薄冰，攻击难以命中
+new entry "Passive_KungFuMaster_LingBoWeiBu"
+type "PassiveData"
+// 图标：使用武僧影步图标
+data "Icon" "Action_Monk_ShadowStep"
+// 显示名称：凌波微步
+data "DisplayName" "he42f3386g62d7g4d28gbeefgc6a99e526e86;1"
+// 描述：凌波微步的功效说明
+data "Description" "hf635c638g7c69g4197gbe5cg6e9d011c993f;1"
+// 属性：高亮显示
+data "Properties" "Highlighted"
+// 效果：免疫倒地，区域伤害闪避，移动速度+3，移动时AC+1
+data "Boosts" "StatusImmunity(SG_Prone);AreaDamageEvade();MovementSpeedBonus(3);IF(IsMoving()):AC(1)"
+// 统计函数触发条件：受到攻击时和移动时
+data "StatsFunctorContext" "OnAttacked;OnMove"
+// 触发条件：受到攻击且未有凌波状态，或正在移动
+data "Conditions" "(context.HasContextFlag(StatsFunctorContext.OnAttacked) and not HasStatus('KungFuMaster_LINGBO',context.Target)) or (context.HasContextFlag(StatsFunctorContext.OnMove) and IsMoving())"
+// 统计函数：受攻击时施加凌波状态，移动时施加移动优雅状态
+data "StatsFunctors" "IF(context.HasContextFlag(StatsFunctorContext.OnAttacked)):ApplyStatus(SELF,KungFuMaster_LINGBO,100,2);IF(context.HasContextFlag(StatsFunctorContext.OnMove)):ApplyStatus(SELF,KungFuMaster_MOVING_GRACE,100,1)"
+
+// 凌波微步状态 - 受攻击后触发的闪避状态
+new entry "KungFuMaster_LINGBO"
+data "StackId" "KungFuMaster_LINGBO"
+type "StatusData"
+data "StatusType" "BOOST"
+// 图标：使用武僧影步图标
+data "Icon" "Action_Monk_ShadowStep"
+// 显示名称：凌波微步
+data "DisplayName" "he42f3386g62d7g4d28gbeefgc6a99e526e86;1"
+// 描述：凌波微步状态效果
+data "Description" "hf635c638g7c69g4197gbe5cg6e9d011c993f;1"
+// 效果：非盲视敌人攻击劣势，移动速度+6
+data "Boosts" "IF(not Tagged('BLINDSIGHT', context.Source)):Disadvantage(AttackTarget);MovementSpeedBonus(6)"
+// 状态组：重置时移除
+data "StatusGroups" "SG_RemoveOnRespec"
+
+// 移动优雅状态 - 移动时触发的防护状态
+new entry "KungFuMaster_MOVING_GRACE"
+data "StackId" "KungFuMaster_MOVING_GRACE"
+type "StatusData"
+data "StatusType" "BOOST"
+// 图标：使用武僧影步图标
+data "Icon" "Action_Monk_ShadowStep"
+// 显示名称：凌波微步
+data "DisplayName" "he42f3386g62d7g4d28gbeefgc6a99e526e86;1"
+// 描述：移动优雅状态效果
+data "Description" "hf635c638g7c69g4197gbe5cg6e9d011c993f;1"
+// 效果：AC+2
+data "Boosts" "AC(2)"
+// 状态组：重置时移除
+data "StatusGroups" "SG_RemoveOnRespec"
+
+// 飞絮轻烟功 - 武侠特色轻功
+// 如飞絮般轻盈的身法，无视地形阻碍，跳跃如燕
+new entry "Passive_KungFuMaster_FeiXuQingYanGong"
+type "PassiveData"
+// 图标：使用武僧影步图标
+data "Icon" "Action_Monk_ShadowStep"
+// 显示名称：飞絮轻烟功
+data "DisplayName" "h8e41fc32g21edg4917g9ef9g64b444f148d4;1"
+// 描述：飞絮轻烟功的功效说明
+data "Description" "h5c9d56feg8979g4b89gbab1g8f4398eac6c0;1"
+// 属性：高亮显示
+data "Properties" "Highlighted"
+// 效果：免疫困难地形，移动速度+3，跳跃距离+6
+data "Boosts" "StatusImmunity(SG_Difficult_Terrain);MovementSpeedBonus(3);JumpMaxDistanceBonus(6)"
+
+// 飞燕回风 - 武侠轻功剑法
+// 如飞燕回风般的敏捷攻击，敏捷超越力量时威力倍增
+new entry "Passive_KungFuMaster_FeiYanHuiFeng"
+type "PassiveData"
+// 显示名称：飞燕回风
+data "DisplayName" "hf9a0b1c2g6d7eg8f9ag0b1cg3d4e5f6a7b8;1"
+// 描述：飞燕回风的功效说明
+data "Description" "h0a1b2c3dg7e8fg9a0bg1c2dg4e5f6a7b8c9;1"
+// 图标：使用武僧连击图标
+data "Icon" "Action_Monk_FlurryOfBlows"
+// 属性：高亮显示
+data "Properties" "Highlighted"
+// 效果：敏捷>力量时暴击率+1，徒手攻击时伤害+敏捷调整值
+data "Boosts" "IF(HasGreaterAbilityScore(Ability.Dexterity,Ability.Strength)):CriticalHit(AttackTarget,Success,Always,1);IF(IsUnarmedAttack() and HasGreaterAbilityScore(Ability.Dexterity,Ability.Strength)):DamageBonus(DexterityModifier)"
+// 统计函数触发条件：造成伤害时
+data "StatsFunctorContext" "OnDamage"
+// 触发条件：暴击且敏捷>力量
+data "Conditions" "IsCritical() and HasGreaterAbilityScore(Ability.Dexterity,Ability.Strength)"
+// 统计函数：造成1d6挥砍伤害并击退2米
+data "StatsFunctors" "DealDamage(1d6,Slashing,Magical);Force(2,OriginToEntity,Aggressive)"
+
+// 神行百变 - 武侠轻功绝学
+// 身法变化万千，暴击或击杀敌人时身形如电，瞬间恢复移动力
+new entry "Passive_KungFuMaster_ShenXingBaiBian"
+type "PassiveData"
+// 图标：使用通用魔法特性图标
+data "Icon" "PassiveFeature_Generic_Magical"
+// 显示名称：神行百变
+data "DisplayName" "h9f8e7d6cg5b4ag3928g1e0fg4c5d6e7f8a9b;1"
+// 描述：神行百变的功效说明
+data "Description" "h1a2b3c4dg8e9fg0a1bg2c3dg5e6f7a8b9c0d;1"
+// 属性：高亮显示
+data "Properties" "Highlighted"
+// 统计函数触发条件：造成伤害时
+data "StatsFunctorContext" "OnDamage"
+// 触发条件：暴击或致命一击
+data "Conditions" "IsCritical() or IsKillingBlow()"
+// 统计函数：暴击或致命一击时恢复100%移动力
+data "StatsFunctors" "RestoreResource(SELF,Movement,100,1)"
+
+// 百步穿杨 - 武侠神射绝技
+// 传说中的神射手绝技，能够百步之外射穿杨柳叶，远程攻击威力大增
+new entry "Passive_KungFuMaster_BaiBuChuanYang"
+type "PassiveData"
+// 图标：使用神射手图标
+data "Icon" "PassiveFeature_Sharpshooter"
+// 显示名称：百步穿杨
+data "DisplayName" "h2c3d4e5fg9a0bg1c2dg3e4fg6a7b8c9d0e1f;1"
+// 描述：百步穿杨的功效说明
+data "Description" "h3d4e5f6ag0b1cg2d3eg4f5ag7b8c9d0e1f2a;1"
+// 描述参数：敏捷调整值伤害加成，射程增加50%，暴击率+1
+data "DescriptionParams" "max(1,DexterityModifier);50;1"
+// 属性：高亮显示
+data "Properties" "Highlighted"
+// 效果：远程武器攻击伤害+敏捷调整值，射程+50%，暴击率+1，无视掩体
+data "Boosts" "IF(IsRangedWeaponAttack()):DamageBonus(max(1,DexterityModifier));IF(IsRangedWeaponAttack()):WeaponAttackRollBonus(1);IF(IsRangedWeaponAttack()):CriticalHit(AttackTarget,Success,Always,1);IF(IsRangedWeaponAttack()):WeaponProperty(Range,50)"
+// 统计函数触发条件：击杀敌人时
+data "StatsFunctorContext" "OnDamage"
+// 触发条件：远程武器攻击且致命一击
+data "Conditions" "IsRangedWeaponAttack() and IsKillingBlow()"
+// 统计函数：击杀敌人时恢复1点反应点
+data "StatsFunctors" "RestoreResource(OBSERVER_OBSERVER,ReactionActionPoint,1,0)"

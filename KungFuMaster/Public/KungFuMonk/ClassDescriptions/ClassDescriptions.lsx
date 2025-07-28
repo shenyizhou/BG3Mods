@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 武侠职业描述配置文件 -->
+<!-- 定义KungFuMaster职业的基本属性和特征 -->
+<save>
+    <version major="4" minor="0" revision="9" build="314"/>
+    <region id="ClassDescriptions">
+        <node id="root">
+            <children>
+                <!-- 武侠职业定义 -->
+                <node id="ClassDescription">
+                    <!-- 基础生命值：8点（武僧标准） -->
+                    <attribute id="BaseHp" type="int32" value="8"/>
+                    <!-- 角色创建时的姿势GUID -->
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <!-- 职业描述文本的本地化句柄 -->
+                    <attribute id="Description" type="TranslatedString" handle="he84d54b6g3bd0g4693g9cb3g148897371853" version="1"/>
+                    <!-- 职业显示名称的本地化句柄 -->
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf9ae34c1g23a1g4db9gb0dbg53aaf95eef82" version="1"/>
+                    <!-- 每级生命值：5点（武僧标准） -->
+                    <attribute id="HpPerLevel" type="int32" value="5"/>
+                    <!-- 学习策略：1表示已知法术 -->
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <!-- 职业名称标识符 -->
+                    <attribute id="Name" type="FixedString" value="KungFuMaster"/>
+                    <!-- 职业包名称 -->
+                    <attribute id="PackageName" type="FixedString" value="KungFuMaster"/>
+                    <!-- 父类GUID：武僧职业的标准GUID -->
+                    <attribute id="ParentGuid" type="guid" value="c4598bdb-fc07-40dd-a62c-90cc138bd76f"/>
+                    <!-- 主要属性：感知 -->
+                    <attribute id="PrimaryAbility" type="uint8" value="5"/>
+                    <!-- 进展表UUID，关联到Progressions.lsx -->
+                    <attribute id="ProgressionTableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a"/>
+                    <!-- 豁免检定熟练度：力量和敏捷（武僧标准） -->
+                    <attribute id="SavingThrowProficiencies" type="uint8" value="3"/>
+                    <!-- 技能列表UUID -->
+                    <attribute id="SkillList" type="guid" value="6cb9d731-a518-46f0-b20e-9e2bf18e6acd"/>
+                    <!-- 声音职业类型：武僧 -->
+                    <attribute id="SoundClassType" type="FixedString" value="Monk"/>
+                    <!-- 法术施放能力：感知 -->
+                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
+                    <!-- 子职业类型：1表示独立职业 -->
+                    <attribute id="SubclassType" type="uint8" value="1"/>
+                    <!-- 职业唯一标识符 -->
+                    <attribute id="UUID" type="guid" value="b8b5b8a2-0f3b-4b3b-8b3b-8b3b8b3b8b3b"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
