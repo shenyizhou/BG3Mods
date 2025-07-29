@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="LevelMapValues">
+        <node id="root">
+            <children>
+
+                <node id="LevelMapSeries">
+                    <attribute id="Level3" type="LSString" value="1d4"/>
+                    <attribute id="Level4" type="LSString" value="1d4"/>
+                    <attribute id="Level5" type="LSString" value="1d4"/>
+                    <attribute id="Level6" type="LSString" value="1d4"/>
+                    <attribute id="Level7" type="LSString" value="1d4"/>
+                    <attribute id="Level8" type="LSString" value="1d4"/>
+                    <attribute id="Level9" type="LSString" value="1d4"/>
+                    <attribute id="Level10" type="LSString" value="1d6"/>
+                    <attribute id="Level11" type="LSString" value="1d6"/>
+                    <attribute id="Level12" type="LSString" value="1d6"/>
+                    <attribute id="Level13" type="LSString" value="1d6"/>
+                    <attribute id="Level14" type="LSString" value="1d6"/>
+                    <attribute id="Level15" type="LSString" value="1d6"/>
+                    <attribute id="Level16" type="LSString" value="1d8"/>
+                    <attribute id="Level17" type="LSString" value="1d8"/>
+                    <attribute id="Level18" type="LSString" value="1d8"/>
+                    <attribute id="Level19" type="LSString" value="1d8"/>
+                    <attribute id="Level20" type="LSString" value="1d10"/>	
+                    <attribute id="Name" type="FixedString" value="BruteForceDamage"/>
+					<attribute id="PreferredClassUUID" type="guid" value="721dfac3-92d4-41f5-b773-b7072a86232f"/>
+                    <attribute id="UUID" type="guid" value="885b7665-0979-40fd-bed0-3147ee482a1c"/>
+				</node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level3" type="LSString" value="1"/>
+                    <attribute id="Level4" type="LSString" value="2"/>
+                    <attribute id="Level6" type="LSString" value="3"/>
+                    <attribute id="Level8" type="LSString" value="4"/>
+                    <attribute id="Level10" type="LSString" value="5"/>
+                    <attribute id="Level12" type="LSString" value="6"/>
+                    <attribute id="Level14" type="LSString" value="7"/>
+                    <attribute id="Level16" type="LSString" value="8"/>
+                    <attribute id="Level18" type="LSString" value="9"/>
+                    <attribute id="Level20" type="LSString" value="10"/>	
+                    <attribute id="Name" type="FixedString" value="UnwaveringMarkDamage"/>
+					<attribute id="PreferredClassUUID" type="guid" value="721dfac3-92d4-41f5-b773-b7072a86232f"/>
+                    <attribute id="UUID" type="guid" value="e0000a73-3812-435a-8215-8c744fd17eff"/>
+				</node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level3" type="LSString" value="1d6"/>
+                    <attribute id="Level5" type="LSString" value="1d8"/>
+                    <attribute id="Level11" type="LSString" value="1d10"/>
+					<attribute id="Level17" type="LSString" value="1d12"/>
+                    <attribute id="Name" type="FixedString" value="PsionicEnergyDie"/>
+					<attribute id="PreferredClassUUID" type="guid" value="721dfac3-92d4-41f5-b773-b7072a86232f"/>
+                    <attribute id="UUID" type="guid" value="acb73e2e-7e8a-4d54-ade9-68e6422f051a"/>
+				</node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="1d6"/>
+                    <attribute id="Level2" type="LSString" value="1d6"/>
+                    <attribute id="Level3" type="LSString" value="1d6"/>
+                    <attribute id="Level4" type="LSString" value="1d6"/>
+                    <attribute id="Level5" type="LSString" value="1d6"/>
+                    <attribute id="Level6" type="LSString" value="1d6"/>
+                    <attribute id="Level7" type="LSString" value="1d6"/>
+                    <attribute id="Level8" type="LSString" value="1d6"/>
+                    <attribute id="Level9" type="LSString" value="1d6"/>
+                    <attribute id="Level10" type="LSString" value="1d8"/>
+                    <attribute id="Level11" type="LSString" value="1d8"/>
+                    <attribute id="Level12" type="LSString" value="1d8"/>
+                    <attribute id="Name" type="FixedString" value="GiantMightDamage"/>
+					<attribute id="PreferredClassUUID" type="guid" value="721dfac3-92d4-41f5-b773-b7072a86232f"/>
+                    <attribute id="UUID" type="guid" value="f3f5f900-2633-447c-9c3e-a1f968ea14c5"/>
+				</node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level3" type="LSString" value="5"/>
+                    <attribute id="Level4" type="LSString" value="5"/>
+                    <attribute id="Level5" type="LSString" value="5"/>
+                    <attribute id="Level6" type="LSString" value="5"/>
+                    <attribute id="Level7" type="LSString" value="5"/>
+                    <attribute id="Level8" type="LSString" value="5"/>
+                    <attribute id="Level9" type="LSString" value="5"/>
+                    <attribute id="Level10" type="LSString" value="10"/>
+                    <attribute id="Level11" type="LSString" value="10"/>
+                    <attribute id="Level12" type="LSString" value="10"/>
+                    <attribute id="Level13" type="LSString" value="10"/>
+                    <attribute id="Level14" type="LSString" value="10"/>				
+                    <attribute id="Name" type="FixedString" value="FightingSpiritHP"/>
+					<attribute id="PreferredClassUUID" type="guid" value="721dfac3-92d4-41f5-b773-b7072a86232f"/>					
+                    <attribute id="UUID" type="guid" value="f87b7e10-7299-43da-a0a7-6844cdc9717e"/>
+				</node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level3" type="LSString" value="3"/>
+                    <attribute id="Level4" type="LSString" value="4"/>
+                    <attribute id="Level5" type="LSString" value="4"/>
+                    <attribute id="Level6" type="LSString" value="5"/>
+                    <attribute id="Level7" type="LSString" value="5"/>
+                    <attribute id="Level8" type="LSString" value="6"/>
+                    <attribute id="Level9" type="LSString" value="6"/>
+                    <attribute id="Level10" type="LSString" value="7"/>
+                    <attribute id="Level11" type="LSString" value="7"/>
+                    <attribute id="Level12" type="LSString" value="8"/>
+                    <attribute id="Level13" type="LSString" value="8"/>
+                    <attribute id="Level14" type="LSString" value="9"/>
+                    <attribute id="Level15" type="LSString" value="9"/>
+                    <attribute id="Level16" type="LSString" value="10"/>
+                    <attribute id="Level17" type="LSString" value="10"/>
+                    <attribute id="Level18" type="LSString" value="11"/>
+                    <attribute id="Level19" type="LSString" value="11"/>
+                    <attribute id="Level20" type="LSString" value="12"/>	
+                    <attribute id="Name" type="FixedString" value="SteadyAimDamage"/>
+					<attribute id="PreferredClassUUID" type="guid" value="721dfac3-92d4-41f5-b773-b7072a86232f"/>
+                    <attribute id="UUID" type="guid" value="2b7f1ea3-aafb-41d6-a071-128d70fb4546"/>
+				</node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="Fighter subclass" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="hd4ad4f86g7cd3g4499ga5dbgccab4e7af3fc" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="hb4230dc5g9e50g44cag8aceg5d41dcf4b153" version="1" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="FIGHTER_RUNEKNIGHT" />
+			<attribute id="UUID" type="guid" value="b6bf78ce-50fc-474b-8650-ffe54e292fdb" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Class" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="CharacterSheet" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

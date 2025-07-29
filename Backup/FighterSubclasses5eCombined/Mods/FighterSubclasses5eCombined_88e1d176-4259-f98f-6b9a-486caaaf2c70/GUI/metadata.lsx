@@ -1,0 +1,3162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="config">
+		<node id="config">
+			<children>
+				<node id="entries">
+					<children>
+
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ClassIcons/hotbar/Banneret5e.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="140" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="140" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ClassIcons/Banneret5e.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="300" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="300" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_Bulwark.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_Inspiring_Surge.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_Rallying_Cry.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_Royal_Envoy.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Reaction_Inspired_Surge.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Spell_Inspiring_Surge.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Spell_Rallying_Cry.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_Bulwark.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_Inspiring_Surge.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>						
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_Rallying_Cry.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_Royal_Envoy.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Reaction_Inspired_Surge.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Spell_Inspiring_Surge.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Spell_Rallying_Cry.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ClassIcons/hotbar/Brute5e.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="140" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="140" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ClassIcons/Brute5e.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="300" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="300" />
+								</node>
+							</children>
+						</node>						
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_BruteForce.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_BrutishDurability.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_DevastatingCritical.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_Survivor.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_BruteForce.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_BrutishDurability.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_DevastatingCritical.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_Survivor.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>	
+						
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ClassIcons/hotbar/Cavalier5e.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="140" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="140" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ClassIcons/Cavalier5e.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="300" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="300" />
+								</node>
+							</children>
+						</node>					
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/UnwaveringMarkAttack.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Highlight/UnwaveringMarkAttack.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Missing/UnwaveringMarkAttack.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Used/UnwaveringMarkAttack.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>												
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/CC/icons_resources/UnwaveringMarkAttack.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="128" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="128" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/UnwaveringMarkAttack.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="80" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="80" />
+								</node>
+							</children>
+						</node>						
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/UnwaveringMarkAttack.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Highlight/UnwaveringMarkAttack.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Missing/UnwaveringMarkAttack.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Used/UnwaveringMarkAttack.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/WardingManeuverUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Highlight/WardingManeuverUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Missing/WardingManeuverUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Used/WardingManeuverUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>													
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/CC/icons_resources/WardingManeuverUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="128" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="128" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/WardingManeuverUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="80" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="80" />
+								</node>
+							</children>
+						</node>						
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/WardingManeuverUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Highlight/WardingManeuverUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Missing/WardingManeuverUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Used/WardingManeuverUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/VigilantDefenderReaction.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Highlight/VigilantDefenderReaction.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Missing/VigilantDefenderReaction.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Used/VigilantDefenderReaction.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>													
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/CC/icons_resources/VigilantDefenderReaction.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="128" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="128" />
+								</node>
+							</children>
+						</node>						
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/VigilantDefenderReaction.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="80" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="80" />
+								</node>
+							</children>
+						</node>						
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/VigilantDefenderReaction.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Highlight/VigilantDefenderReaction.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Missing/VigilantDefenderReaction.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Used/VigilantDefenderReaction.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_FerociousCharge.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_ImprovisedWeapon_UMBA.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_UnarmedAttack_UMBA.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_UnwaveringMarkAttack.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Interrupt_WardingManeuver.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_BorntotheSaddle.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_HoldtheLine.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_UnwaveringMark.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_UnwaveringMarkAttack.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Target_MainHandAttack_UMBA.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_FerociousCharge.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_ImprovisedWeapon_UMBA.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_UnarmedAttack_UMBA.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_UnwaveringMarkAttack.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Interrupt_WardingManeuver.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_BorntotheSaddle.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_HoldtheLine.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_UnwaveringMark.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_UnwaveringMarkAttack.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Target_MainHandAttack_UMBA.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>	
+
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ClassIcons/hotbar/PsiWarrior5e.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="140" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="140" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ClassIcons/PsiWarrior5e.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="300" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="300" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/PsionicEnergyDice.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Highlight/PsionicEnergyDice.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Missing/PsionicEnergyDice.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Used/PsionicEnergyDice.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>													
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/CC/icons_resources/PsionicEnergyDice.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="128" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="128" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/PsionicEnergyDice.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="80" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="80" />
+								</node>
+							</children>
+						</node>					
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/PsionicEnergyDice.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Highlight/PsionicEnergyDice.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Missing/PsionicEnergyDice.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Used/PsionicEnergyDice.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>				
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_BulwarkofForce.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>						
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_PsiPoweredLeap.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>						
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_RestorePsionicDice.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>						
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_TelekineticMovement.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>						
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Interrupt_ProtectiveField.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>						
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_GuardedMind.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>						
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_PsionicStrike.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>						
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_TelekineticMaster.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>						
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Reaction_TelekineticThrustShove.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>						
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Reaction_TelekineticThrustShoveProne.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_BulwarkofForce.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_PsiPoweredLeap.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_RestorePsionicDice.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_TelekineticMovement.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Interrupt_ProtectiveField.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_GuardedMind.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_PsionicStrike.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_TelekineticMaster.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Reaction_TelekineticThrustShove.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Reaction_TelekineticThrustShoveProne.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>	
+
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ClassIcons/hotbar/RuneKnight5e.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="140" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="140" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ClassIcons/RuneKnight5e.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="300" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="300" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/GiantMightUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Highlight/GiantMightUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Missing/GiantMightUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Used/GiantMightUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>												
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/CC/icons_resources/GiantMightUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="128" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="128" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/GiantMightUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="80" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="80" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/GiantMightUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Highlight/GiantMightUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Missing/GiantMightUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Used/GiantMightUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/RunicShieldUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Highlight/RunicShieldUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Missing/RunicShieldUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Used/RunicShieldUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>												
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/CC/icons_resources/RunicShieldUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="128" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="128" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/RunicShieldUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="80" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="80" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/RunicShieldUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Highlight/RunicShieldUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Missing/RunicShieldUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Used/RunicShieldUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/FireRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Highlight/FireRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Missing/FireRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Used/FireRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>												
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/CC/icons_resources/FireRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="128" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="128" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/FireRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="80" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="80" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/FireRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Highlight/FireRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Missing/FireRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Used/FireRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/FrostRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Highlight/FrostRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Missing/FrostRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Used/FrostRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>												
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/CC/icons_resources/FrostRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="128" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="128" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/FrostRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="80" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="80" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/FrostRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Highlight/FrostRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Missing/FrostRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Used/FrostRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/StoneRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Highlight/StoneRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Missing/StoneRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Used/StoneRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>												
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/CC/icons_resources/StoneRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="128" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="128" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/StoneRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="80" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="80" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/StoneRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Highlight/StoneRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Missing/StoneRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Used/StoneRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/HillRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Highlight/HillRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Missing/HillRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Used/HillRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>												
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/CC/icons_resources/HillRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="128" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="128" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/HillRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="80" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="80" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/HillRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Highlight/HillRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Missing/HillRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Used/HillRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/StormRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Highlight/StormRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Missing/StormRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Used/StormRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>												
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/CC/icons_resources/StormRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="128" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="128" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/StormRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="80" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="80" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/StormRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Highlight/StormRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Missing/StormRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Used/StormRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/CloudRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Highlight/CloudRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Missing/CloudRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Used/CloudRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>												
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/CC/icons_resources/CloudRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="128" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="128" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/CloudRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="80" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="80" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/CloudRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Highlight/CloudRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Missing/CloudRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Used/CloudRuneUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_GiantsMight.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Interrupt_CloudRune.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Interrupt_FireRune.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Interrupt_RunicShield.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Interrupt_StoneRune.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Interrupt_StormRune.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Interrupt_StormRune_Adv.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Interrupt_StormRune_Dis.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_CloudRune.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_FireRune.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_FrostRune.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_GreatStature.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_HillRune.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_MasterofRunes.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_RuneCarver.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_StoneRune.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_StormRune.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Spell_FrostRune.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Spell_HillRune.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Spell_RuneContainer.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Spell_StormRune.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Toggle_GiantMight.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_GiantsMight.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Interrupt_CloudRune.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Interrupt_FireRune.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Interrupt_RunicShield.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Interrupt_StoneRune.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Interrupt_StormRune.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Interrupt_StormRune_Adv.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Interrupt_StormRune_Dis.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_CloudRune.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_FireRune.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_FrostRune.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_GreatStature.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_HillRune.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_MasterofRunes.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_RuneCarver.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_StoneRune.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_StormRune.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Spell_FrostRune.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Spell_HillRune.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Spell_RuneContainer.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Spell_StormRune.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Toggle_GiantMight.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ClassIcons/hotbar/Samurai5e.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="140" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="140" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ClassIcons/Samurai5e.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="300" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="300" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/FightingSpiritUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Highlight/FightingSpiritUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Missing/FightingSpiritUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Used/FightingSpiritUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>													
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/CC/icons_resources/FightingSpiritUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="128" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="128" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/FightingSpiritUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="80" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="80" />
+								</node>
+							</children>
+						</node>						
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/FightingSpiritUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Highlight/FightingSpiritUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Missing/FightingSpiritUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Used/FightingSpiritUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/RapidStrikeUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Highlight/RapidStrikeUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Missing/RapidStrikeUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Used/RapidStrikeUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>													
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/CC/icons_resources/RapidStrikeUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="128" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="128" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/RapidStrikeUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="80" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="80" />
+								</node>
+							</children>
+						</node>						
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/RapidStrikeUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Highlight/RapidStrikeUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Missing/RapidStrikeUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Used/RapidStrikeUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_FightingSpirit.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_RapidStrike_Container.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>						
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_RapidStrike_Improvised.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_RapidStrike_Melee.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_RapidStrike_Ranged.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_RapidStrike_Throw.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_RapidStrike_Unarmed.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Interrupt_StrengthBeforeDeath.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_ElegantCourtier.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_RapidStrike.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_TirelessSpirit.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_FightingSpirit.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_RapidStrike_Container.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_RapidStrike_Improvised.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_RapidStrike_Melee.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_RapidStrike_Ranged.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_RapidStrike_Throw.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_RapidStrike_Unarmed.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Interrupt_StrengthBeforeDeath.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_ElegantCourtier.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_RapidStrike.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_TirelessSpirit.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_RapidStrike_SAM.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_RapidStrike_SAM.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>	
+
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ClassIcons/hotbar/Sharpshooter5e.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="140" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="140" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ClassIcons/Sharpshooter5e.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="300" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="300" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/SteadyAimUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Highlight/SteadyAimUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Missing/SteadyAimUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Used/SteadyAimUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>													
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/CC/icons_resources/SteadyAimUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="128" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="128" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/SteadyAimUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="80" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="80" />
+								</node>
+							</children>
+						</node>						
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/SteadyAimUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Highlight/SteadyAimUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Missing/SteadyAimUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Used/SteadyAimUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_RapidStrikeFollowupMelee_SS.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_RapidStrikeFollowupMelee_SS.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_RapidStrikeFollowupRanged_SS.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_RapidStrikeFollowupRanged_SS.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_RapidStrikeFollowupThrown_SS.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_RapidStrikeFollowupThrown_SS.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_RapidStrikeFollowupUnarmed_SS.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_RapidStrikeFollowupUnarmed_SS.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_Search_SS.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_Search_SS.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_SteadyAim_SS.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_SteadyAim_SS.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_CLoseQuartersShooting_SS.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_CLoseQuartersShooting_SS.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_RapidStrike_SS.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_RapidStrike_SS.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_SnapShot.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_SnapShot.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_SteadyAimHand.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_SteadyAimHand.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>						
+					</children>
+				</node>
+				
+			</children>
+		</node>
+	</region>
+</save>

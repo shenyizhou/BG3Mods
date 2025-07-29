@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Psi Warrior Level 3" />
+                    <attribute id="Spells" type="LSString" value="Shout_RestorePsionicDice" />
+                    <attribute id="UUID" type="guid" value="8ee6af39-2bd2-4fa4-a90b-d5057e7402d1" />
+                </node>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Psi Warrior Level 7" />
+                    <attribute id="Spells" type="LSString" value="Target_TelekineticThrust_Move;Target_TelekineticThrust_Prone" />
+                    <attribute id="UUID" type="guid" value="b27b54fc-3705-42d9-9dcd-c7bcb5ccbd1f" />
+                </node>
+        <node id="SpellList"> Rune Carver Runes Level 1-6
+					<attribute id="Spells" type="LSString" value="Shout_InscribeCloudRune;Shout_InscribeFireRune;Shout_InscribeFrostRune;Shout_InscribeStoneRune" /> 
+					<attribute id="UUID" type="guid" value="1b1922c4-0801-418e-8b05-4d27e8470b42" />
+				</node>
+        <node id="SpellList"> Rune Carver Runes Level 7-20
+					<attribute id="Spells" type="LSString" value="Shout_InscribeCloudRune;Shout_InscribeFireRune;Shout_InscribeFrostRune;Shout_InscribeStoneRune;Shout_InscribeHillRune;Shout_InscribeStormRune" /> 
+					<attribute id="UUID" type="guid" value="1439ce42-551e-4090-a1e0-31a2dab1a310" />
+				</node>
+      </children>
+    </node>
+  </region>
+</save>
