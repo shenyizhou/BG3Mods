@@ -3,7 +3,7 @@
 <!-- 定义战士职业的武侠专精子职业的等级进展和能力获得 -->
 <save>
     <!-- 文件格式版本信息 -->
-    <version major="4" minor="0" revision="9" build="328"/>
+    <version major="4" minor="0" revision="9" build="328" />
     <!-- 进展区域：包含所有职业和子职业的进展定义 -->
     <region id="Progressions">
         <node id="root">
@@ -11,23 +11,69 @@
                 <!-- 战士职业3级进展：子职业选择 -->
                 <node id="Progression">
                     <!-- 是否允许改进：false表示不允许玩家自定义修改 -->
-                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="AllowImprovement" type="bool" value="false" />
                     <!-- 等级：3级时触发此进展 -->
-                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Level" type="uint8" value="3" />
                     <!-- 职业名称：战士 -->
-                    <attribute id="Name" type="LSString" value="Fighter"/>
+                    <attribute id="Name" type="LSString" value="Fighter" />
                     <!-- 进展类型：0表示主职业进展 -->
-                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="ProgressionType" type="uint8" value="0" />
                     <!-- 进展表UUID：关联到战士职业的进展表 -->
-                    <attribute id="TableUUID" type="guid" value="721dfac3-92d4-41f5-b773-b7072a86232f"/>
+                    <attribute id="TableUUID" type="guid"
+                        value="721dfac3-92d4-41f5-b773-b7072a86232f" />
                     <!-- 此进展的唯一标识符 -->
-                    <attribute id="UUID" type="guid" value="a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d"/>
+                    <attribute id="UUID" type="guid" value="a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d" />
                     <children>
                         <!-- 子职业列表：定义战士可选择的子职业 -->
                         <node id="SubClasses">
                             <children>
                                 <node id="SubClass">
-                                    <attribute id="Object" type="guid" value="f1e2d3c4-b5a6-9c8d-7e0f-6a5b4c3d2e1f"/>
+                                    <attribute id="Object" type="guid"
+                                        value="1be5aa5a-e221-4f0e-a1bf-be25f5d23224" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid"
+                                        value="e668c6f1-5149-4b10-ab7e-3637ed444066" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid"
+                                        value="b722614a-303f-411a-bb19-a1882ad1f4cc" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid"
+                                        value="0a01dc6b-ab1a-4c0e-8a5e-4787fe1f2caf" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid"
+                                        value="38ea7fea-c486-40e3-973b-b9bc633d4aaa" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid"
+                                        value="3449e88a-b378-40c2-b505-f8fe43d26c2d" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid"
+                                        value="b3c39e0a-aa51-416f-b2a2-c848d56f4890" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid"
+                                        value="d30f652e-a5ed-4d78-bc18-25290ceec524" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid"
+                                        value="2f5a4183-8885-49dc-a211-fa1c53bc1606" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid"
+                                        value="7f93e89c-fe4d-49a8-ad45-666071bd962f" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid"
+                                        value="59091945-177c-419d-a847-46901a8a8687" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid"
+                                        value="f1e2d3c4-b5a6-9c8d-7e0f-6a5b4c3d2e1f" />
                                 </node>
                             </children>
                         </node>
@@ -37,49 +83,53 @@
                 <!-- 武侠子职业3级进展：大金刚神力 -->
                 <node id="Progression">
                     <!-- 等级：3级时获得此能力 -->
-                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Level" type="uint8" value="3" />
                     <!-- 子职业名称：武侠 -->
-                    <attribute id="Name" type="LSString" value="WuXia"/>
+                    <attribute id="Name" type="LSString" value="WuXia" />
                     <!-- 添加的被动技能：大金刚神力 -->
-                    <attribute id="PassivesAdded" type="LSString" value="WuXia_DaJinGangShenLi"/>
+                    <attribute id="PassivesAdded" type="LSString" value="WuXia_DaJinGangShenLi" />
                     <!-- 进展类型：1表示子职业进展 -->
-                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="ProgressionType" type="uint8" value="1" />
                     <!-- 进展表UUID：关联到武侠子职业的进展表 -->
-                    <attribute id="TableUUID" type="guid" value="c1d2e3f4-5a6b-7c8d-9e0f-1a2b3c4d5e6f"/>
+                    <attribute id="TableUUID" type="guid"
+                        value="c1d2e3f4-5a6b-7c8d-9e0f-1a2b3c4d5e6f" />
                     <!-- 此进展的唯一标识符 -->
-                    <attribute id="UUID" type="guid" value="b2c3d4e5-f6a7-8b9c-0d1e-2f3a4b5c6d7e"/>
+                    <attribute id="UUID" type="guid" value="b2c3d4e5-f6a7-8b9c-0d1e-2f3a4b5c6d7e" />
                 </node>
 
                 <!-- 武侠子职业5级进展：鹰眼 -->
                 <node id="Progression">
                     <!-- 等级：5级时获得此能力 -->
-                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="Level" type="uint8" value="5" />
                     <!-- 子职业名称：武侠 -->
-                    <attribute id="Name" type="LSString" value="WuXia"/>
+                    <attribute id="Name" type="LSString" value="WuXia" />
                     <!-- 添加的被动技能：鹰眼 -->
-                    <attribute id="PassivesAdded" type="LSString" value="WuXia_YingYan"/>
+                    <attribute id="PassivesAdded" type="LSString" value="WuXia_YingYan" />
                     <!-- 进展类型：1表示子职业进展 -->
-                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="ProgressionType" type="uint8" value="1" />
                     <!-- 进展表UUID：关联到武侠子职业的进展表 -->
-                    <attribute id="TableUUID" type="guid" value="c1d2e3f4-5a6b-7c8d-9e0f-1a2b3c4d5e6f"/>
+                    <attribute id="TableUUID" type="guid"
+                        value="c1d2e3f4-5a6b-7c8d-9e0f-1a2b3c4d5e6f" />
                     <!-- 此进展的唯一标识符 -->
-                    <attribute id="UUID" type="guid" value="c3d4e5f6-a7b8-9c0d-1e2f-3a4b5c6d7e8f"/>
+                    <attribute id="UUID" type="guid" value="c3d4e5f6-a7b8-9c0d-1e2f-3a4b5c6d7e8f" />
                 </node>
 
                 <!-- 武侠子职业7级进展：六脉神剑 -->
                 <node id="Progression">
                     <!-- 等级：7级时获得此能力 -->
-                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Level" type="uint8" value="7" />
                     <!-- 子职业名称：武侠 -->
-                    <attribute id="Name" type="LSString" value="WuXia"/>
+                    <attribute id="Name" type="LSString" value="WuXia" />
                     <!-- 添加的法术：六脉神剑相关技能 -->
-                    <attribute id="Spells" type="LSString" value="WuXia_ShaoShangJian;WuXia_ShangYangJian;WuXia_ZhongChongJian;WuXia_GuanChongJian;WuXia_ShaoChongJian;WuXia_ShaoZeJian;WuXia_LiuMaiShenJian"/>
+                    <attribute id="Spells" type="LSString"
+                        value="WuXia_ShaoShangJian;WuXia_ShangYangJian;WuXia_ZhongChongJian;WuXia_GuanChongJian;WuXia_ShaoChongJian;WuXia_ShaoZeJian;WuXia_LiuMaiShenJian" />
                     <!-- 进展类型：1表示子职业进展 -->
-                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="ProgressionType" type="uint8" value="1" />
                     <!-- 进展表UUID：关联到武侠子职业的进展表 -->
-                    <attribute id="TableUUID" type="guid" value="c1d2e3f4-5a6b-7c8d-9e0f-1a2b3c4d5e6f"/>
+                    <attribute id="TableUUID" type="guid"
+                        value="c1d2e3f4-5a6b-7c8d-9e0f-1a2b3c4d5e6f" />
                     <!-- 此进展的唯一标识符 -->
-                    <attribute id="UUID" type="guid" value="d4e5f6a7-b8c9-0d1e-2f3a-4b5c6d7e8f9a"/>
+                    <attribute id="UUID" type="guid" value="d4e5f6a7-b8c9-0d1e-2f3a-4b5c6d7e8f9a" />
                 </node>
             </children>
         </node>

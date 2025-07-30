@@ -16,25 +16,37 @@
 	
 	<!-- Six Meridians Divine Sword -->
 	<content contentuid="wuxia_shaoshangjian" version="1">Shaoshang Sword</content>
-	<content contentuid="wuxia_shaoshangjian_desc" version="1">Fire a sword qi that automatically hits, dealing 1d10 force damage to the target. This sword technique never misses.</content>
+	<content contentuid="wuxia_shaoshangjian_desc" version="1">Fire a sword qi that automatically hits, dealing 2d20 force damage to the target. This sword technique never misses.
+
+Cost: 1 Bonus Action</content>
 	
 	<content contentuid="wuxia_shangyangjian" version="1">Shangyang Sword</content>
-	<content contentuid="wuxia_shangyangjian_desc" version="1">Fire a precise sword qi, making a ranged spell attack that deals 1d10 force damage on hit.</content>
+	<content contentuid="wuxia_shangyangjian_desc" version="1">Fire a sword qi that automatically hits, dealing 6d6 force damage to the target. This sword technique never misses.
+
+Cost: 1 Bonus Action</content>
 	
 	<content contentuid="wuxia_zhongchongjian" version="1">Zhongchong Sword</content>
-	<content contentuid="wuxia_zhongchongjian_desc" version="1">Release sword qi in a target area, dealing 1d10 force damage to all enemies within 1.5 meters.</content>
+	<content contentuid="wuxia_zhongchongjian_desc" version="1">Release sword qi that automatically hits in the target area, dealing 1d20 force damage to all enemies within 1.5 meters.
+
+Cost: 1 Bonus Action</content>
 	
 	<content contentuid="wuxia_guanchongjian" version="1">Guanchong Sword</content>
-	<content contentuid="wuxia_guanchongjian_desc" version="1">Fire powerful sword qi that deals 1d10 force damage, pushes the target back 3 meters, and may cause them to fall &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+	<content contentuid="wuxia_guanchongjian_desc" version="1">Fire powerful sword qi that automatically hits, dealing 1d20 force damage, pushing the target back 3 meters, and possibly causing them to become <LSTag Type="Status" Tooltip="PRONE">Prone</LSTag>.
+
+Cost: 1 Bonus Action</content>
 	
 	<content contentuid="wuxia_shaochongjian" version="1">Shaochong Sword</content>
-	<content contentuid="wuxia_shaochongjian_desc" version="1">Fire swift sword qi that deals 1d10 force damage and grants advantage on &lt;LSTag Tooltip="Initiative"&gt;Initiative&lt;/LSTag&gt; rolls next turn.</content>
+	<content contentuid="wuxia_shaochongjian_desc" version="1">Fire swift sword qi that automatically hits, dealing 1d20 force damage and grants advantage on &lt;LSTag Tooltip="Initiative"&gt;Initiative&lt;/LSTag&gt; rolls next turn.
+
+Cost: 1 Bonus Action</content>
 	
 	<content contentuid="wuxia_shaozejian" version="1">Shaoze Sword</content>
-	<content contentuid="wuxia_shaozejian_desc" version="1">Fire armor-piercing sword qi that deals 1d10 force damage and inflicts &lt;LSTag Type="Status" Tooltip="VULNERABILITY_ALL"&gt;Vulnerability&lt;/LSTag&gt; on the target.</content>
+	<content contentuid="wuxia_shaozejian_desc" version="1">Fire armor-piercing sword qi that automatically hits, dealing 1d20 force damage and inflicts &lt;LSTag Type="Status" Tooltip="VULNERABILITY_ALL"&gt;Vulnerability&lt;/LSTag&gt; on the target.
+
+Cost: 1 Bonus Action</content>
 	
 	<content contentuid="wuxia_liumaishenjian" version="1">Six Meridians Divine Sword</content>
-	<content contentuid="wuxia_liumaishenjian_desc" version="1">Simultaneously fire six sword qi, each dealing 1d10 force damage for a total of 6d10 force damage. This is the ultimate technique of the Six Meridians Divine Sword.</content>
+	<content contentuid="wuxia_liumaishenjian_desc" version="1">Simultaneously fire six sword qi, dealing a total of 6d20+6d6 force damage. This is the ultimate technique of the Six Meridians Divine Sword.</content>
 	
 	<!-- Status Effects -->
 	<content contentuid="wuxia_shaochong_advantage" version="1">Shaochong Sword Effect</content>

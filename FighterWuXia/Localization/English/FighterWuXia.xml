@@ -1,45 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
 	<content contentuid="wuxia" version="1">Wu Xia</content>
-	<content contentuid="wuxiadescript" version="1">Wu Xia are warriors who have mastered the martial arts, combining internal energy cultivation with external combat techniques. They can channel their inner power to enhance attacks, possess keen perception abilities, and master the legendary Six Meridians Divine Sword techniques.
-	3rd Level - &lt;LSTag Type="Passive" Tooltip="WuXia_DaJinGangShenLi"&gt;Vajra Divine Power&lt;/LSTag&gt;
-	5th Level - &lt;LSTag Type="Passive" Tooltip="WuXia_YingYan"&gt;Eagle Eye&lt;/LSTag&gt;
-	7th Level - &lt;LSTag Type="Spell" Tooltip="WuXia_LiuMaiShenJian"&gt;Six Meridians Divine Sword&lt;/LSTag&gt;</content>
-	
+	<content contentuid="wuxiadescript" version="1">Wu Xia are warriors who have mastered the
+		martial arts, combining internal energy cultivation with external combat techniques. They
+		can channel their inner power to enhance attacks, possess keen perception abilities, and
+		master the legendary Six Meridians Divine Sword techniques.
+		3rd Level - &lt;LSTag Type="Passive" Tooltip="WuXia_DaJinGangShenLi"&gt;Vajra Divine
+		Power&lt;/LSTag&gt;
+		5th Level - &lt;LSTag Type="Passive" Tooltip="WuXia_YingYan"&gt;Eagle Eye&lt;/LSTag&gt;
+		7th Level - &lt;LSTag Type="Spell" Tooltip="WuXia_LiuMaiShenJian"&gt;Six Meridians Divine
+		Sword&lt;/LSTag&gt;</content>
+
 	<!-- Vajra Divine Power -->
 	<content contentuid="wuxia_dajingangshenli" version="1">Vajra Divine Power</content>
-	<content contentuid="wuxia_dajingangshenli_desc" version="1">Channel inner power to enhance attack potency. Weapon attacks, unarmed attacks, ranged unarmed attacks, and force damage gain additional damage equal to your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; modifier.</content>
-	
+	<content contentuid="wuxia_dajingangshenli_desc" version="1">Channel inner power to enhance
+		attack potency. Attacks and force damage
+		gain additional damage equal to your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt;
+		modifier.</content>
+
 	<!-- Eagle Eye -->
 	<content contentuid="wuxia_yingyan" version="1">Eagle Eye</content>
-	<content contentuid="wuxia_yingyan_desc" version="1">Possess keen vision and perception abilities. Gain 60 feet &lt;LSTag Tooltip="Darkvision"&gt;Darkvision&lt;/LSTag&gt;, immunity to &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt; condition, and increase ranged weapon range by 50%.</content>
-	
+	<content contentuid="wuxia_yingyan_desc" version="1">Possess keen vision and perception
+		abilities. Gain 60 feet &lt;LSTag Tooltip="Darkvision"&gt;Darkvision&lt;/LSTag&gt;, immunity
+		to &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt; condition, and
+		increase ranged weapon range by 50%.</content>
+
 	<!-- Six Meridians Divine Sword -->
 	<content contentuid="wuxia_shaoshangjian" version="1">Shaoshang Sword</content>
-	<content contentuid="wuxia_shaoshangjian_desc" version="1">Fire a sword qi that automatically hits, dealing 2d10 force damage to the target. This sword technique never misses.</content>
-	
+	<content contentuid="wuxia_shaoshangjian_desc" version="1">Fire a sword qi that automatically
+		hits, dealing 2d20 force damage to the target. This sword technique never misses.</content>
+
 	<content contentuid="wuxia_shangyangjian" version="1">Shangyang Sword</content>
-	<content contentuid="wuxia_shangyangjian_desc" version="1">Fire a sword qi that automatically hits, dealing 3d6 force damage to the target. This sword technique never misses.</content>
-	
+	<content contentuid="wuxia_shangyangjian_desc" version="1">Fire a sword qi that automatically
+		hits, dealing 6d6 force damage to the target. This sword technique never misses.</content>
+
 	<content contentuid="wuxia_zhongchongjian" version="1">Zhongchong Sword</content>
-	<content contentuid="wuxia_zhongchongjian_desc" version="1">Release sword qi that automatically hits in a target area, dealing 1d10 force damage to all enemies within 1.5 meters.</content>
-	
+	<content contentuid="wuxia_zhongchongjian_desc" version="1">Release sword qi that automatically
+		hits in a target area, dealing 1d20 force damage to all enemies within 1.5 meters.</content>
+
 	<content contentuid="wuxia_guanchongjian" version="1">Guanchong Sword</content>
-	<content contentuid="wuxia_guanchongjian_desc" version="1">Fire powerful sword qi that automatically hits, dealing 1d10 force damage, pushes the target back 3 meters, and may cause them to fall &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
-	
+	<content contentuid="wuxia_guanchongjian_desc" version="1">Fire powerful sword qi that
+		automatically hits, dealing 1d20 force damage, pushes the target back 3 meters, and may
+		cause them to fall &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+
 	<content contentuid="wuxia_shaochongjian" version="1">Shaochong Sword</content>
-	<content contentuid="wuxia_shaochongjian_desc" version="1">Fire swift sword qi that automatically hits, dealing 1d10 force damage and grants advantage on &lt;LSTag Tooltip="Initiative"&gt;Initiative&lt;/LSTag&gt; rolls next turn.</content>
-	
+	<content contentuid="wuxia_shaochongjian_desc" version="1">Fire swift sword qi that
+		automatically hits, dealing 1d20 force damage and grants advantage on &lt;LSTag
+		Tooltip="Initiative"&gt;Initiative&lt;/LSTag&gt; rolls next turn.</content>
+
 	<content contentuid="wuxia_shaozejian" version="1">Shaoze Sword</content>
-	<content contentuid="wuxia_shaozejian_desc" version="1">Fire armor-piercing sword qi that automatically hits, dealing 1d10 force damage and inflicts &lt;LSTag Type="Status" Tooltip="VULNERABILITY_FORCE"&gt;Force Vulnerability&lt;/LSTag&gt; on the target.</content>
-	
+	<content contentuid="wuxia_shaozejian_desc" version="1">Fire armor-piercing sword qi that
+		automatically hits, dealing 1d20 force damage and inflicts &lt;LSTag Type="Status"
+		Tooltip="VULNERABILITY_FORCE"&gt;Force Vulnerability&lt;/LSTag&gt; on the target.</content>
+
 	<content contentuid="wuxia_liumaishenjian" version="1">Six Meridians Divine Sword</content>
-	<content contentuid="wuxia_liumaishenjian_desc" version="1">Sequentially release all Six Meridians Divine Sword techniques: Shaoze Sword, Shaochong Sword, Zhongchong Sword, Shangyang Sword, Shaoshang Sword, and Guanchong Sword. This is the ultimate technique of the Six Meridians Divine Sword.</content>
-	
+	<content contentuid="wuxia_liumaishenjian_desc" version="1">Sequentially release all Six
+		Meridians Divine Sword techniques: Shaoze Sword, Shaochong Sword, Zhongchong Sword,
+		Shangyang Sword, Shaoshang Sword, and Guanchong Sword. This is the ultimate technique of the
+		Six Meridians Divine Sword.</content>
+
 	<!-- Status Effects -->
 	<content contentuid="wuxia_shaochong_advantage" version="1">Shaochong Sword Effect</content>
-	<content contentuid="wuxia_shaochong_advantage_desc" version="1">Gain advantage on &lt;LSTag Tooltip="Initiative"&gt;Initiative&lt;/LSTag&gt; rolls next turn.</content>
-	
+	<content contentuid="wuxia_shaochong_advantage_desc" version="1">Gain advantage on &lt;LSTag
+		Tooltip="Initiative"&gt;Initiative&lt;/LSTag&gt; rolls next turn.</content>
+
 	<content contentuid="wuxia_vulnerability_force" version="1">Force Vulnerability</content>
-	<content contentuid="wuxia_vulnerability_force_desc" version="1">Take double damage from &lt;LSTag Tooltip="Force"&gt;Force&lt;/LSTag&gt; attacks.</content>
+	<content contentuid="wuxia_vulnerability_force_desc" version="1">Take double damage from
+		&lt;LSTag Tooltip="Force"&gt;Force&lt;/LSTag&gt; attacks.</content>
 </contentList>

@@ -16,25 +16,37 @@
 	
 	<!-- 六脉神剑 -->
 	<content contentuid="wuxia_shaoshangjian" version="1">少商剑</content>
-	<content contentuid="wuxia_shaoshangjian_desc" version="1">发射一道必中的剑气，对目标造成1d10点力场伤害。此剑法必定命中目标。</content>
+	<content contentuid="wuxia_shaoshangjian_desc" version="1">发射一道必中的剑气，对目标造成2d20点力场伤害。此剑法必定命中目标。
+
+消耗：1次附赠动作</content>
 	
 	<content contentuid="wuxia_shangyangjian" version="1">商阳剑</content>
-	<content contentuid="wuxia_shangyangjian_desc" version="1">发射一道精准的剑气，进行远程法术攻击，命中时造成1d10点力场伤害。</content>
+	<content contentuid="wuxia_shangyangjian_desc" version="1">发射一道必中的剑气，对目标造成6d6点力场伤害。此剑法必定命中目标。
+
+消耗：1次附赠动作</content>
 	
 	<content contentuid="wuxia_zhongchongjian" version="1">中冲剑</content>
-	<content contentuid="wuxia_zhongchongjian_desc" version="1">在目标区域释放剑气，对1.5米范围内的所有敌人造成1d10点力场伤害。</content>
+	<content contentuid="wuxia_zhongchongjian_desc" version="1">在目标区域释放必中剑气，对1.5米范围内的所有敌人造成1d20点力场伤害。
+
+消耗：1次附赠动作</content>
 	
 	<content contentuid="wuxia_guanchongjian" version="1">关冲剑</content>
-	<content contentuid="wuxia_guanchongjian_desc" version="1">发射强力剑气，造成1d10点力场伤害，将目标击退3米，并可能使其&lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒地&lt;/LSTag&gt;。</content>
+	<content contentuid="wuxia_guanchongjian_desc" version="1">发射必中的强力剑气，造成1d20点力场伤害，将目标击退3米，并可能使其&lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒地&lt;/LSTag&gt;。
+
+消耗：1次附赠动作</content>
 	
 	<content contentuid="wuxia_shaochongjian" version="1">少冲剑</content>
-	<content contentuid="wuxia_shaochongjian_desc" version="1">发射迅捷剑气，造成1d10点力场伤害，并在下回合获得&lt;LSTag Tooltip="Initiative"&gt;先攻&lt;/LSTag&gt;优势。</content>
+	<content contentuid="wuxia_shaochongjian_desc" version="1">发射必中的迅捷剑气，造成1d20点力场伤害，并在下回合获得&lt;LSTag Tooltip="Initiative"&gt;先攻&lt;/LSTag&gt;优势。
+
+消耗：1次附赠动作</content>
 	
 	<content contentuid="wuxia_shaozejian" version="1">少泽剑</content>
-	<content contentuid="wuxia_shaozejian_desc" version="1">发射破防剑气，造成1d10点力场伤害，并使目标陷入&lt;LSTag Type="Status" Tooltip="VULNERABILITY_ALL"&gt;易伤&lt;/LSTag&gt;状态。</content>
+	<content contentuid="wuxia_shaozejian_desc" version="1">发射必中的破防剑气，造成1d20点力场伤害，并使目标陷入&lt;LSTag Type="Status" Tooltip="VULNERABILITY_ALL"&gt;易伤&lt;/LSTag&gt;状态。
+
+消耗：1次附赠动作</content>
 	
 	<content contentuid="wuxia_liumaishenjian" version="1">六脉神剑</content>
-	<content contentuid="wuxia_liumaishenjian_desc" version="1">同时发射六道剑气，每道剑气造成1d10点力场伤害，总计6d10点力场伤害。这是六脉神剑的终极奥义。</content>
+	<content contentuid="wuxia_liumaishenjian_desc" version="1">同时发射六道剑气，总计造成6d20+6d6点力场伤害。这是六脉神剑的终极奥义。</content>
 	
 	<!-- 状态效果 -->
 	<content contentuid="wuxia_shaochong_advantage" version="1">少冲剑效果</content>

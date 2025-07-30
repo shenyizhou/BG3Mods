@@ -6,7 +6,7 @@
             <children>
                 <node id="Dependencies"/>
                 <node id="ModuleInfo">
-                    <attribute id="Author" type="LSWString" value="武侠模组作者"/>
+                    <attribute id="Author" type="LSWString" value="沈浪"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
                     <attribute id="Description" type="LSWString" value="为战士职业添加武侠子职业，包含大金刚神力、鹰眼和六脉神剑技能"/>
                     <attribute id="Folder" type="LSWString" value="FighterWuXia"/>

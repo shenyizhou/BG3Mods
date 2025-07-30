@@ -4,7 +4,7 @@ data "DisplayName" "wuxia_dajingangshenli;1"
 data "Description" "wuxia_dajingangshenli_desc;1"
 data "Icon" "PassiveFeature_Generic_Damage"
 data "Properties" "Highlighted"
-data "Boosts" "IF(IsWeaponAttack() or IsUnarmedAttack() or IsRangedUnarmedAttack() or IsDamageType(DamageType.Force)):CharacterWeaponDamage(max(0,StrengthModifier))"
+data "Boosts" "IF(IsWeaponAttack() and IsProficientWithEquippedWeapon()):CharacterWeaponDamage(max(1,StrengthModifier));IF(IsMeleeUnarmedAttack()):CharacterUnarmedDamage(max(1,StrengthModifier));IF(IsRangedUnarmedAttack() or IsDamageTypeForce()):DamageBonus(max(1,StrengthModifier))"
 
 new entry "WuXia_YingYan"
 type "PassiveData"
