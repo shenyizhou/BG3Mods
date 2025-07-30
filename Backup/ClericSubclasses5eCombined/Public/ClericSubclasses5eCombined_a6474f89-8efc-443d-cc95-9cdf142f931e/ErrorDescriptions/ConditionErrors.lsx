@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="4" revision="0" build="200"/>
+    <region id="ConditionErrors">
+        <node id="root">
+            <children>
+			    <node id="ConditionErrors">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h83a63693g2447g4932gaa29g5f63442b5314" version="1"/>
+                    <attribute id="ErrorDescriptionType" type="uint8" value="0"/>
+                    <attribute id="Identifier" type="FixedString" value="NotInVoiceofAuthorityAttackRange"/>
+                    <attribute id="UUID" type="guid" value="8ea7cbe8-aaff-43aa-86e3-1de127af3e1a"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<content contentuid="h5e326998gc3f1g4c21ga049g2e6337ea1776" version="1">Mislead</content>
+	<content contentuid="hd2a37b0ag21dag49e5g8d77g8badfc561715" version="1">Become &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;invisible&lt;/LSTag&gt; at the same time that an illusory double of you appears where you are standing.</content>
+	<content contentuid="hf8535092gf8e4g4f32g8030ga5b08f28fe4b" version="1">An illusory double of its caster can move and cause distractions.</content>
+	<content contentuid="hf27452b9gce25g4782g9775g4bcc97c94062" version="1">Illusory Double</content>
+	<content contentuid="hab72a780g0ab6g48d5gb05cg8fe38e0b1069" version="1">Distract</content>
+	<content contentuid="h913fb4d1g2535g469cgbf8bg9467d6703637" version="1">Mislead: Control Double</content>
+	<content contentuid="hbf822732g1c6ag4ef9g89a2g02e716612dd8" version="1">Become controlled by your caster so you can move and cause distractions.</content>
+	<content contentuid="ha4eada9cg8659g4f54ga8c0g1570a9f256c2" version="1">Controlling Double</content>
+	<content contentuid="h6f9663c1g0860g46f8g9f4cg8773a0fc1555" version="1">Entity is using the senses of its illusory double and is &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;blinded&lt;/LSTag&gt;.</content>
+	<content contentuid="h55b9565bg888fg44fegaccag18723a2e4970" version="1">Command your illusory double to move and cause distractions. You become &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;blinded&lt;/LSTag&gt; in regard to your own surroundings.</content>
+	<content contentuid="h53d371bcg944cg45d3g90cdgbccf692caf05" version="1">Zone of Truth</content>  
+	<content contentuid="h3e85882agfcafg43a5g8fa1g23716a8cb895" version="1">Create a magical zone that guards against deception in a [1] radius sphere centered on you. A creature that enters the spell's area for the first time on a turn or starts its turn there must make a &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;saving throw&lt;/LSTag&gt; or have a penalty on &lt;LSTag Tooltip="Deception"&gt;Deception&lt;/LSTag&gt; rolls while in the radius. Additionally, you have &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Insight"&gt;Insight&lt;/LSTag&gt; rolls for the spell's duration.</content>  
+	<content contentuid="h6fbb2122g82e2g437bga441gdc83788bce7c" version="1">While in the aura, affected entities have a penalty on &lt;LSTag Tooltip="Deception"&gt;Deception&lt;/LSTag&gt; rolls, and the originating caster has &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Insight"&gt;Insight&lt;/LSTag&gt; rolls.</content>
+	<content contentuid="h75d6204eg46a2g40aagacbega5907629aeda" version="1">Half Cover</content>
+	<content contentuid="h9005d037g1f02g4bc2g8336g2dc28d86151b" version="1">Entity has a +2 bonus to &lt;LSTag Tooltip="ArmorClass"&gt;AC&lt;/LSTag&gt; and Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;saving throws&lt;/LSTag&gt;.</content>
+	<content contentuid="h5b1a027ag8727g4731gbe7dgca0b6be98445" version="1">%%% EMPTY</content>
+	<content contentuid="he2fbd70ag2ac2g4c8cg85c6g291edd5706f1" version="1">Divine Strike: Psychic (Melee)</content>
+	<content contentuid="h93a8171ag12a5g4ab7g954eg2d3dee7345c0" version="1">Divine Strike: Psychic</content>
+	<content contentuid="h89a61027gf1d9g4e64gb925g0efb0bceafc4" version="5">Divine Strike: Psychic (Ranged)</content>
+	<content contentuid="h9efa7290g3273g4abegbb67gfeb733c21fea" version="2">Divine Strike on Critical: Psychic</content>
+	<content contentuid="h3bf1217dg8f6fg4de9ga819g8e325e3cde11" version="1">%%% EMPTY</content>
+	<content contentuid="h4a42f635ge440g4d99g8800gc83be19f54c9" version="1">Twilight Domain</content>
+	<content contentuid="h817680aagf6a6g4e57ga9a5gbab4ed30f1f0" version="1">The twilit transition from light into darkness often brings calm and even joy, as the day's labors end and the hours of rest begin. The darkness can also bring terrors, but the gods of twilight guard against the horrors of the night. Clerics who serve these deities bring comfort to those who seek rest and protect them by venturing into the encroaching darkness to ensure that the dark is a comfort, not a terror.</content>
+	<content contentuid="h2af9d0f6g62fdg4a47gb619g23d961c57251" version="1">Twilight</content>
+	<content contentuid="hf83f35fbg4a04g475fg9c80g5f7a4d5b6135" version="1">Twilight Domain Spells</content>
+	<content contentuid="h4e82e54egfca4g47b9g89a5gce900bfab875" version="1">The Twilight Domain gives you access to certain spells. These are &lt;LSTag Tooltip="AlwaysPrepared"&gt;Always Prepared&lt;/LSTag&gt;.</content>
+	<content contentuid="hc9a50334g8dffg48e4gbba6ga1c19f562215" version="1">Eyes of Night</content>
+	<content contentuid="h4dcc7ec7gb841g45e6g8aceg19a26e669cd4" version="1">You can see in the dark up to [1]. As an &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;action&lt;/LSTag&gt;, you can share your darkvision with a number of allies equal to your Wisdom modifier.</content>
+	<content contentuid="h04e107a1g1164g4a8ega71bg41cb3e1ca6bd" version="1">Magically share the darkvision granted by your &lt;LSTag Type="Passive" Tooltip="EyesofNight"&gt;Eyes of Night&lt;/LSTag&gt; feature with a number of allies equal to your Wisdom modifier.</content>
+	<content contentuid="h5c0a2b2dg53d0g49edg9f8egdaa2f3c3f7f2" version="1">You can share this feature with a number of allies equal to your Wisdom modifier once per &lt;LSTag Tooltip="LongRest"&gt;long rest&lt;/LSTag&gt;, or by expending a spell slot to share it again.</content>
+	<content contentuid="h2188c32cg5c01g46d6g8352g86bd7a7a3f7d" version="1">Vigilant Blessing</content>
+	<content contentuid="h53520b50g09bcg441dg9578g1c24974a6473" version="1">Grant yourself or an ally a +[1] bonus to initiative.</content>
+	<content contentuid="hc8d69502gee08g47a5gadd9g205669b89b02" version="1">Affected entity has a +[1] bonus to its next initiative roll.</content>
+	<content contentuid="h96ba0626gc88ag4fa1g87e0g3d52d8135521" version="1">This benefit ends immediately after initiative is rolled or if you use this feature again.</content>
+	<content contentuid="h7d91daedg73e9g4ac8ga472g6e91d61848de" version="1">Twilight Sanctuary</content>
+	<content contentuid="h86a2bee1gf099g4ce5g84ebgbe8dc3eddd7c" version="1">Emanate dim twilight in a [1] radius sphere. Whenever you or an ally ends their turn within the area, you can either grant them [2] + [3] or end the effects causing them to be &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;charmed&lt;/LSTag&gt; or &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;frightened&lt;/LSTag&gt;.</content>
+	<content contentuid="h53030553g82ebg4303g8430g2c01ebc154d0" version="1">The effect will end early if you become &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;incapacitated&lt;/LSTag&gt; or die.</content>
+	<content contentuid="h0027e0f3g9d3cg43f4ga10bgfa4c4a5f06d4" version="1">Twilight Sanctuary: Temporary Hit Points</content>
+	<content contentuid="he3788288g84a9g4bcag9e2fg04b52b815de6" version="1">Grant [1] + [2] to yourself or an ally that ends their turn inside the area of your &lt;LSTag Type="Spell" Tooltip="Shout_TwilightSanctuary"&gt;Twilight Sanctuary&lt;/LSTag&gt;.</content>
+	<content contentuid="hc2bea1e4gc8dfg4f86g9590g8795bb979ef3" version="1">Twilight Sanctuary: Remove Charm</content>
+	<content contentuid="h9f71697dg7212g48a9gbd2dge3d37a98b484" version="1">End any effects causing you or an ally to be &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;charmed&lt;/LSTag&gt; when they end their turn inside the area of your &lt;LSTag Type="Spell" Tooltip="Shout_TwilightSanctuary"&gt;Twilight Sanctuary&lt;/LSTag&gt;.</content>
+	<content contentuid="hedcaa4b4gb10fg4ae3g9684gb9751135cf14" version="1">Twilight Sanctuary: Remove Fear</content>
+	<content contentuid="hfb13ccbcgffb1g4cd5gb9f0g698cdfe3dbf7" version="1">End any effects causing you or an ally to be &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;frightened&lt;/LSTag&gt; when they end their turn inside the area of your &lt;LSTag Type="Spell" Tooltip="Shout_TwilightSanctuary"&gt;Twilight Sanctuary&lt;/LSTag&gt;.</content>
+	<content contentuid="hdbbdc198gad07g4abdg9813gfa7c10523f3e" version="1">Steps of Night</content>
+	<content contentuid="h7b10c07bgf14dg404eg9133g327ab6a1a482" version="1">The Twilight deities grant their Clerics the ability to draw on the mystical power of night and rise into the air a number of times equal to their proficiency bonus.</content>
+	<content contentuid="he6944dccg762fg442fga4f9g4fd55e61ea67" version="1">Gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_StepsofNight"&gt;Fly&lt;/LSTag&gt; when in dim light or darkness.</content>
+	<content contentuid="h3c9f3c30gf650g40bbg8a16g789c26858129" version="1">Can &lt;LSTag Type="Spell" Tooltip="Projectile_StepsofNight"&gt;fly&lt;/LSTag&gt; to a target position when in dim light or darkness.</content>
+	<content contentuid="hbf3fc09dg2320g4201gb394g4d6efac5a055" version="1">Steps of Night: Fly</content>
+	<content contentuid="h717f4135gda7fg4f1bg8ad6g9ed36f3da04a" version="1">The extra damage increases when you reach 14th level.</content>
+	<content contentuid="h68b378bag9170g4df1ga650g7b00a0c2d221" version="1">Twilight Shroud</content>
+	<content contentuid="h8e76bdcegebb4g4d68g9211gda6beadfb883" version="1">You and your allies have &lt;LSTag Type="Status" Tooltip="SRD_HALF_COVER"&gt;half cover&lt;/LSTag&gt; cover while in the sphere created by your &lt;LSTag Type="Spell" Tooltip="Shout_TwilightSanctuary"&gt;Twilight Sanctuary&lt;/LSTag&gt;.</content>
+	<content contentuid="he3eb9b7bg285cg4e3eg9465g8d77bc457e3c" version="1">%%% EMPTY</content>
+	<content contentuid="h71850053g8fe2g4722g9cc9g830536b9eb73" version="1">Order Domain</content>
+	<content contentuid="h57727a7dg9c82g46f7g8a81gc33551c9dbf1" version="1">Clerics of Order believe that well-crafted laws establish legitimate hierarchies, and those selected by law to lead must be obeyed. Those who obey must do so to the best of their ability, and if those who lead fail to protect the law, they must be replaced. In this manner, law weaves a web of obligations that create order and security in a chaotic multiverse.</content>
+	<content contentuid="h4da80dc1g9b89g4239ga36fg760b5c644981" version="1">Order</content>
+	<content contentuid="hb05c13dfgf091g4ccbgaddcgc00aaa55c149" version="1">Order Domain Spells</content>
+	<content contentuid="haf833c95g518ag47beg984bg8c1a54561b43" version="1">The Order Domain gives you access to certain spells. These are &lt;LSTag Tooltip="AlwaysPrepared"&gt;Always Prepared&lt;/LSTag&gt;.</content>
+	<content contentuid="h0fc73f3bg7505g492cg9550g7ce43b49da4f" version="1">Voice of Authority</content>
+	<content contentuid="h3b7eb0e3gf5e0g4766g8ae8g4b7c2c8236ee" version="1">If you cast a spell with a &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt; of 1st level or higher and target an ally with the spell, that ally can use their &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to immediately make a weapon attack against an enemy within range.</content>
+	<content contentuid="h4f22ae02g6d80g49a5gb07dgc784c0b4392c" version="1">Emboldened</content>
+	<content contentuid="hadddca14gcd10g4ba1g9c92gaf2eb3f61288" version="1">Can be directed to attack an enemy within range.</content>
+	<content contentuid="h83a63693g2447g4932gaa29g5f63442b5314" version="1">Must have enemy in range of active weapon or unarmed strike.</content>
+	<content contentuid="hca1267abge34bg4765g95bdg96303df676c6" version="1">Direct an ally to use their &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; and attack a nearby foe.</content>	
+	<content contentuid="hec34e053ge610g4527ga803g7494ca5d38be" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; The ally must have an enemy in range of its active weapon or unarmed strike.</content>	
+	<content contentuid="h663dc277gf2d2g4dafgb0efg516f1c4de270" version="1">Emboldened Attack</content>
+	<content contentuid="h756bf662gb9beg40e4g8edag5b42b6facede" version="1">Attack a random target within range of your active weapon or unarmed strike.</content>
+	<content contentuid="ha900bc59g7d21g4336g997fg0681dfbc8961" version="1">Order's Demand</content>
+	<content contentuid="hcb6abf9fg0355g4148gb250g3c830d02120c" version="1">Attempt to &lt;LSTag Type="Status" Tooltip="ORDERS_DEMAND_CHARM"&gt;charm&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="DISARM"&gt;disarm&lt;/LSTag&gt; all targets within [1] that can hear or see you.</content>
+	<content contentuid="h45266ceeg530ag450fg8632g1305c8f5700b" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Condition ends early if the target takes any damage.</content>
+	<content contentuid="hdbbe9b9dg6b89g48eeg8e17g214bbd8a763a" version="1">Embodiment of the Law</content>
+	<content contentuid="h4d6ac8adg1368g425ag9125g12af231749af" version="1">Clerics of Order can compel others more efficiently a number of times equal to their Wisdom modifier.</content>
+	<content contentuid="h4c39a28fg81f8g4ad6gbad3g32d76fb3fda9" version="1">Enchantment spells of 1st level or higher are cast using a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt;. &lt;br&gt;&lt;br&gt;Costs [1] use of Embodiment of the Law per spell.</content>
+	<content contentuid="hecf48be5ga566g459bgad52g4ac2e5d1b746" version="1">Order's Wrath</content>
+	<content contentuid="h82c92c18gf4fbg43ddgaf70g71a4fe196c33" version="1">When you deal damage with your &lt;LSTag Type="Spell" Tooltip="Target_DivineStrike_Order_Container"&gt;Divine Strike&lt;/LSTag&gt; on your turn, you curse the target until the start of your next turn. The next time an ally hits the cursed creature with an attack, it takes an additional [1].</content>
+	<content contentuid="h402ef706ge623g4ef9ga269g421a9d2dfcda" version="1">Cursed: Order's Wrath</content>
+	<content contentuid="h48532076g31f2g494dg8064gd46567238355" version="1">Will take [1] additional damage from next attack.</content>
+
+
+
+
+</contentList>

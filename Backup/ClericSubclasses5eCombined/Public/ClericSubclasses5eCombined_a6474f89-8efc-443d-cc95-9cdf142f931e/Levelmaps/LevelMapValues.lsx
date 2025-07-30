@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="LevelMapValues">
+        <node id="root">
+            <children>
+                <node id="LevelMapSeries">
+                    <attribute id="Level7" type="LSString" value="1d8"/>
+                    <attribute id="Level14" type="LSString" value="2d8"/>
+                    <attribute id="Name" type="FixedString" value="DivineStrikeDamage"/>
+                    <attribute id="UUID" type="guid" value="897e39c4-9d91-43ad-99f4-34605e6d6d89"/>
+				</node>
+            </children>
+        </node>
+    </region>
+</save>

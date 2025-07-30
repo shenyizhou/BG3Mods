@@ -1,0 +1,196 @@
+local __util = require 'larian.util'
+
+function SRDIsDivineStrike()
+    return SpellId('Target_DivineStrike_Melee_Life') | SpellId('Target_DivineStrike_Melee_Nature_Cold') | SpellId('Target_DivineStrike_Melee_Nature_Fire') | SpellId('Target_DivineStrike_Melee_Nature_Lightning') | SpellId('Target_DivineStrike_Melee_Tempest') | SpellId('Target_DivineStrike_Melee_Trickery') 
+		| SpellId('Target_DivineStrike_Melee_War') | SpellId('Projectile_DivineStrike_Ranged_Life') | SpellId('Projectile_DivineStrike_Ranged_Nature_Cold') | SpellId('Projectile_DivineStrike_Ranged_Nature_Fire') | SpellId('Projectile_DivineStrike_Ranged_Nature_Lightning') | SpellId('Projectile_DivineStrike_Ranged_Tempest') 
+		| SpellId('Projectile_DivineStrike_Ranged_Trickery') | SpellId('Projectile_DivineStrike_Ranged_War') | SpellId('Target_DivineStrike_Melee_Twilight') | SpellId('Projectile_DivineStrike_Ranged_Twilight') 
+		| SpellId('Target_DivineStrike_Melee_Order') | SpellId('Projectile_DivineStrike_Ranged_Order') 
+end
+
+
+function SRDHasAllyWithinRange(inclusionStatus, distance, tag, target, source)
+    distance = distance or 1.5
+    target = target or context.Target
+    source = source or context.Source
+
+    local errorTrue = {ConditionError("HasAllyWithinRange", {ConditionErrorData.MakeFromNumber(distance, EErrorDataType.Distance)})}
+    local errorFalse = {ConditionError("HasNotAllyWithinRange", {ConditionErrorData.MakeFromNumber(distance, EErrorDataType.Distance)})}
+
+    local allies = GetAlliesWithinRange(distance, target, source)
+    if allies ~= nil then
+        for _, entity in ipairs(allies.Allies) do
+            -- ensure entity has the included status
+            local noIncludedStatus = ConditionResult(inclusionStatus == nil)
+            if inclusionStatus then
+                noIncludedStatus = HasStatus(inclusionStatus, entity)
+            end
+
+            -- filter by tag if provided
+            local hasTag = ConditionResult(tag == nil)
+            if tag then
+                hasTag = Tagged(tag, entity)
+            end
+
+            if noIncludedStatus.Result and hasTag.Result then
+                return ConditionResult(true, errorFalse, errorTrue)
+            end
+        end
+    end
+
+    return ConditionResult(false, errorFalse, errorTrue)
+end
+
+function SRDHasEnemyWithinRange(inclusionStatus, distance, tag, NumberOfEnemy, target, source)
+    distance = distance or 1.5
+    NumberOfEnemy = NumberOfEnemy or 1
+    target = target or context.Target
+    source = source or context.Source
+
+    local errorTrue = {ConditionError("HasAllyWithinRange", {ConditionErrorData.MakeFromNumber(distance, EErrorDataType.Distance)})}
+    local errorFalse = {ConditionError("HasNotAllyWithinRange", {ConditionErrorData.MakeFromNumber(distance, EErrorDataType.Distance)})}
+
+    local enemies = GetEnemiesWithinRange(distance, target, source)
+    if enemies ~= nil then
+        -- Only do the check when we are surounded by more than or equal the NumberOfEnemy
+        if #enemies.Enemies >= NumberOfEnemy then
+            for _, entity in ipairs(enemies.Enemies) do
+                -- ensure entity has the included status
+                local noIncludedStatus = ConditionResult(inclusionStatus == nil)
+                if inclusionStatus then
+                    noIncludedStatus = HasStatus(inclusionStatus, entity)
+                end
+
+                -- filter by tag if provided
+                local hasTag = ConditionResult(tag == nil)
+                if tag then
+                    hasTag = Tagged(tag, entity)
+                end
+
+                if noIncludedStatus.Result and hasTag.Result then
+                    return ConditionResult(true, errorFalse, errorTrue)
+                end
+            end
+        end
+    end
+    return ConditionResult(false, errorFalse, errorTrue)
+end
+
+function SRDCanSee(source, target, from, to)
+	local source = source or context.Source
+	local target = target or context.Target
+    local from = from or context.SourcePosition
+    local to = to or context.Target	
+		
+	return CanSee(source, target) | SRDCanSeeSneaking(source, target, from, to) | SRDCanSeeInvisible(source, target, from, to) | SRDCanSeeBlinded(source, target, from, to) 
+end
+
+function SRDCanSeeSneaking(source, target, from, to)
+    local source = source or context.Source
+    local target = target or context.Target
+    local from = from or context.SourcePosition
+    local to = to or context.Target
+    
+    return HasStatus('SNEAKING', target) & (HasStatus('MIND_SPIKE_OWNER', source) & HasStatus('MIND_SPIKE', target, source))
+end
+
+function SRDCanSeeInvisible(source, target, from, to)
+	local source = source or context.Source
+	local target = target or context.Target
+    local from = from or context.SourcePosition
+    local to = to or context.Target	
+	
+    return Tagged('BLINDSIGHT', source) 
+       |  (HasStatus('MIND_SPIKE_OWNER', source) & HasStatus('MIND_SPIKE', target, source))
+       |  (HasStatus('TRUESIGHT', source) & ~DistanceToEntityGreaterThan(36.5, from, to))
+       | ((HasStatus('SEE_INVISIBILITY', source) | HasStatus('MAG_SEE_INVISIBILITY_HIDDEN_IGNORE_RESTING', source) | HasPassive('AllSeeingEye', source)) & ~DistanceToEntityGreaterThan(18.5, from, to)) 
+       | ((HasPassive('FightingStyle_BlindFighting', source) | (HasPassive('Blindsense', source) & ~(HasPassive('Deafness',source) | HasStatus('SG_Deafened',source)))) & ~DistanceToEntityGreaterThan(3, from, to))	
+end	
+
+function SRDCanSeeBlinded(source, target, from, to)
+    local source = source or context.Source
+    local target = target or context.Target
+    local from = from or context.SourcePosition
+    local to = to or context.Target	
+
+    return HasStatus('SG_Blinded', source) & (Tagged('BLINDSIGHT', source) 
+       |  (HasStatus('MIND_SPIKE_OWNER', source) & HasStatus('MIND_SPIKE', target, source))
+       |  (HasStatus('TRUESIGHT', source) & ~DistanceToEntityGreaterThan(36.5, from, to)) 
+       | ((HasStatus('SEE_INVISIBILITY', source) | HasStatus('MAG_SEE_INVISIBILITY_HIDDEN_IGNORE_RESTING', source) | HasPassive('AllSeeingEye', source)) & ~DistanceToEntityGreaterThan(18.5, from, to)) 
+       | ((HasPassive('FightingStyle_BlindFighting', source) | (HasPassive('Blindsense', source) & ~(HasPassive('Deafness',source) | HasStatus('SG_Deafened',source)))) & ~DistanceToEntityGreaterThan(3, from, to)))
+end
+
+function WisdomLessThan(value, entity)
+    entity = entity or context.Source
+    return ConditionResult(entity.Wisdom < value)
+end
+
+function WisdomGreaterEqualThan(value, entity)
+    entity = entity or context.Source
+    return ConditionResult(entity.Wisdom >= value)
+end
+
+function WisdomCompare(value1, value2, entity)
+    entity = entity or context.Source
+    return WisdomGreaterEqualThan(value1, entity) & WisdomLessThan(value2, entity)
+end
+
+function EyesofNightFreeCastSpellCheck()
+	return SpellId('Target_EyesofNight_Wis1') | SpellId('Target_EyesofNight_Wis1_2') | SpellId('Target_EyesofNight_Wis1_3') | SpellId('Target_EyesofNight_Wis1_4') | SpellId('Target_EyesofNight_Wis1_5') | SpellId('Target_EyesofNight_Wis1_6') | SpellId('Target_EyesofNight_Wis1_7') | SpellId('Target_EyesofNight_Wis1_8') | SpellId('Target_EyesofNight_Wis1_8') | SpellId('Target_EyesofNight_Wis1_9') 
+		| SpellId('Target_EyesofNight_Wis2') | SpellId('Target_EyesofNight_Wis2_2') | SpellId('Target_EyesofNight_Wis2_3') | SpellId('Target_EyesofNight_Wis2_4') | SpellId('Target_EyesofNight_Wis2_5') | SpellId('Target_EyesofNight_Wis2_6') | SpellId('Target_EyesofNight_Wis2_7') | SpellId('Target_EyesofNight_Wis2_8') | SpellId('Target_EyesofNight_Wis2_8') | SpellId('Target_EyesofNight_Wis2_9') 
+		| SpellId('Target_EyesofNight_Wis3') | SpellId('Target_EyesofNight_Wis3_2') | SpellId('Target_EyesofNight_Wis3_3') | SpellId('Target_EyesofNight_Wis3_4') | SpellId('Target_EyesofNight_Wis3_5') | SpellId('Target_EyesofNight_Wis3_6') | SpellId('Target_EyesofNight_Wis3_7') | SpellId('Target_EyesofNight_Wis3_8') | SpellId('Target_EyesofNight_Wis3_8') | SpellId('Target_EyesofNight_Wis3_9') 
+		| SpellId('Target_EyesofNight_Wis4') | SpellId('Target_EyesofNight_Wis4_2') | SpellId('Target_EyesofNight_Wis4_3') | SpellId('Target_EyesofNight_Wis4_4') | SpellId('Target_EyesofNight_Wis4_5') | SpellId('Target_EyesofNight_Wis4_6') | SpellId('Target_EyesofNight_Wis4_7') | SpellId('Target_EyesofNight_Wis4_8') | SpellId('Target_EyesofNight_Wis4_8') | SpellId('Target_EyesofNight_Wis4_9') 
+		| SpellId('Target_EyesofNight_Wis5') | SpellId('Target_EyesofNight_Wis5_2') | SpellId('Target_EyesofNight_Wis5_3') | SpellId('Target_EyesofNight_Wis5_4') | SpellId('Target_EyesofNight_Wis5_5') | SpellId('Target_EyesofNight_Wis5_6') | SpellId('Target_EyesofNight_Wis5_7') | SpellId('Target_EyesofNight_Wis5_8') | SpellId('Target_EyesofNight_Wis5_8') | SpellId('Target_EyesofNight_Wis5_9') 
+		| SpellId('Target_EyesofNight_Wis6') | SpellId('Target_EyesofNight_Wis6_2') | SpellId('Target_EyesofNight_Wis6_3') | SpellId('Target_EyesofNight_Wis6_4') | SpellId('Target_EyesofNight_Wis6_5') | SpellId('Target_EyesofNight_Wis6_6') | SpellId('Target_EyesofNight_Wis6_7') | SpellId('Target_EyesofNight_Wis6_8') | SpellId('Target_EyesofNight_Wis6_8') | SpellId('Target_EyesofNight_Wis6_9') 
+		| SpellId('Target_EyesofNight_Wis7') | SpellId('Target_EyesofNight_Wis7_2') | SpellId('Target_EyesofNight_Wis7_3') | SpellId('Target_EyesofNight_Wis7_4') | SpellId('Target_EyesofNight_Wis7_5') | SpellId('Target_EyesofNight_Wis7_6') | SpellId('Target_EyesofNight_Wis7_7') | SpellId('Target_EyesofNight_Wis7_8') | SpellId('Target_EyesofNight_Wis7_8') | SpellId('Target_EyesofNight_Wis7_9') 
+		| SpellId('Target_EyesofNight_Wis8') | SpellId('Target_EyesofNight_Wis8_2') | SpellId('Target_EyesofNight_Wis8_3') | SpellId('Target_EyesofNight_Wis8_4') | SpellId('Target_EyesofNight_Wis8_5') | SpellId('Target_EyesofNight_Wis8_6') | SpellId('Target_EyesofNight_Wis8_7') | SpellId('Target_EyesofNight_Wis8_8') | SpellId('Target_EyesofNight_Wis8_8') | SpellId('Target_EyesofNight_Wis8_9') 
+		| SpellId('Target_EyesofNight_Wis9') | SpellId('Target_EyesofNight_Wis9_2') | SpellId('Target_EyesofNight_Wis9_3') | SpellId('Target_EyesofNight_Wis9_4') | SpellId('Target_EyesofNight_Wis9_5') | SpellId('Target_EyesofNight_Wis9_6') | SpellId('Target_EyesofNight_Wis9_7') | SpellId('Target_EyesofNight_Wis9_8') | SpellId('Target_EyesofNight_Wis9_8') | SpellId('Target_EyesofNight_Wis9_9') 
+		| SpellId('Target_EyesofNight_Wis10') | SpellId('Target_EyesofNight_Wis10_2') | SpellId('Target_EyesofNight_Wis10_3') | SpellId('Target_EyesofNight_Wis10_4') | SpellId('Target_EyesofNight_Wis10_5') | SpellId('Target_EyesofNight_Wis10_6') | SpellId('Target_EyesofNight_Wis10_7') | SpellId('Target_EyesofNight_Wis10_8') | SpellId('Target_EyesofNight_Wis10_8') | SpellId('Target_EyesofNight_Wis10_9') 
+end 
+
+function IsSameAttackRange(entity)
+	local entity = entity or context.Source
+	return WieldingWeapon('Melee',false,true,entity) | IsFightingUnarmed(entity)
+end
+
+function IsFightingUnarmed(entity)
+	local entity = entity or context.Source
+	return ~WieldingWeapon('Melee',false,false,entity) & ~WieldingWeapon('Ammunition',false,false,entity)
+end
+
+function CanVoiceofAuthorityAttack(inclusionStatus, distance, NumberOfEnemy, target, source)
+    distance = distance or 18
+    NumberOfEnemy = NumberOfEnemy or 1
+    target = target or context.Target
+    source = source or context.Target
+
+    local errorTrue = {ConditionError("HasAllyWithinRange", {ConditionErrorData.MakeFromNumber(distance, EErrorDataType.Distance)})}
+    local errorFalse = {ConditionError("NotInVoiceofAuthorityAttackRange")}
+	
+    local enemies = GetEnemiesWithinRange(distance, target, source)
+    if enemies ~= nil then
+        -- Only do the check when we are surounded by more than or equal the NumberOfEnemy
+        if #enemies.Enemies >= NumberOfEnemy then
+            for _, entity in ipairs(enemies.Enemies) do
+                -- ensure entity has the included status
+                local noIncludedStatus = ConditionResult(inclusionStatus == nil)
+                if inclusionStatus then
+                    noIncludedStatus = HasStatus(inclusionStatus, entity, target)
+                end
+
+                if noIncludedStatus.Result then
+                    return ConditionResult(true, errorFalse, errorTrue)
+                end
+            end
+        end
+    end
+    return ConditionResult(false, errorFalse, errorTrue)
+end    
+
+function SRDCantSpeak(entity)
+	local entity = entity or context.Source
+    return HasStatus('SILENCED',entity)
+end
+
+function EmbodimentoftheLawSpellCheck()
+    return HasSpellFlag(SpellFlags.Spell) & IsSpellOfSchool(SpellSchool.Enchantment) & ~IsCantrip()
+end

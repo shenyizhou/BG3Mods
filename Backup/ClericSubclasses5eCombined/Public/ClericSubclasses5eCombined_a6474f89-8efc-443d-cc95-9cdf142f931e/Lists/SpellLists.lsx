@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Cleric, Twilight Domain spell scroll list" />
+                    <attribute id="Spells" type="LSString" value="Target_FaerieFire;Target_Sleep;Target_Moonbeam;Shout_SeeInvisibility;Shout_AuraOfVitality;Shout_AuraOfLife;Target_Invisibility_Greater;Target_Mislead" />
+                    <attribute id="UUID" type="guid" value="d6a507b2-63ee-4220-86ca-178f06363f18" />
+                </node>
+        <node id="SpellList">
+					<attribute id="Comment" type="LSString" value="Cleric Twilight Domain 1" />
+                    <attribute id="Spells" type="LSString" value="Target_FaerieFire;Target_Sleep" /> 
+                    <attribute id="UUID" type="guid" value="c5613835-4a35-482f-a501-e478b516b2fd" />
+                </node>
+        <node id="SpellList">
+					<attribute id="Comment" type="LSString" value="Cleric Twilight Domain 3" />
+                    <attribute id="Spells" type="LSString" value="Target_Moonbeam;Shout_SeeInvisibility" /> 
+                    <attribute id="UUID" type="guid" value="c40a51bc-8df1-428b-8bea-fb75f3bd4cbb" />
+                </node>
+        <node id="SpellList">
+					<attribute id="Comment" type="LSString" value="Cleric Twilight Domain 5" />
+                    <attribute id="Spells" type="LSString" value="Shout_AuraOfVitality" /> 
+                    <attribute id="UUID" type="guid" value="7d3b7f0a-0d1e-4c27-844c-779b17693ef1" />
+                </node>
+        <node id="SpellList">
+					<attribute id="Comment" type="LSString" value="Cleric Twilight Domain 7" />
+                    <attribute id="Spells" type="LSString" value="Shout_AuraOfLife;Target_Invisibility_Greater" /> 
+                    <attribute id="UUID" type="guid" value="1ae045d6-9228-4d1c-94d5-1f68f656bce8" />
+                </node>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Cleric Twilight Domain Divine Strike 8" />
+                    <attribute id="Spells" type="LSString" value="Target_DivineStrike_Twilight_Container" />
+                    <attribute id="UUID" type="guid" value="abb7655f-ef18-4657-8241-4e478be9fc06" />
+                </node>
+        <node id="SpellList">
+					<attribute id="Comment" type="LSString" value="Cleric Twilight Domain 9" />
+                    <attribute id="Spells" type="LSString" value="Shout_CircleofPower;Target_Mislead" /> 
+                    <attribute id="UUID" type="guid" value="2bd06a57-7634-4c35-b5d6-5236bff2d273" />
+                </node>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Cleric, Order Domain spell scroll list" />
+                    <attribute id="Spells" type="LSString" value="Target_Command_Container;Target_Heroism;Target_HoldPerson;Target_ZoneofTruth;Shout_HealingWord_Mass;Target_Slow;Target_EgoWhip;Target_DominatePerson" />
+                    <attribute id="UUID" type="guid" value="27f12add-f36f-4911-a9e8-1e2d83044c71" />
+                </node>
+        <node id="SpellList">
+					<attribute id="Comment" type="LSString" value="Cleric Order Domain 1" />
+                    <attribute id="Spells" type="LSString" value="Target_Command_Container;Target_Heroism" /> 
+                    <attribute id="UUID" type="guid" value="bc404c57-5f51-4c02-951d-d49d7237ad1b" />
+                </node>
+        <node id="SpellList">
+					<attribute id="Comment" type="LSString" value="Cleric Order Domain 3" />
+                    <attribute id="Spells" type="LSString" value="Target_HoldPerson;Target_ZoneofTruth" /> 
+                    <attribute id="UUID" type="guid" value="792e1372-e2ba-4f78-ab5b-8cccc742bc4e" />
+                </node>
+        <node id="SpellList">
+					<attribute id="Comment" type="LSString" value="Cleric Order Domain 5" />
+                    <attribute id="Spells" type="LSString" value="Shout_HealingWord_Mass;Target_Slow" /> 
+                    <attribute id="UUID" type="guid" value="d8a2d885-7c21-4409-8d59-ff73bebec33b" />
+                </node>
+        <node id="SpellList">
+					<attribute id="Comment" type="LSString" value="Cleric Order Domain 7" />
+                    <attribute id="Spells" type="LSString" value="Target_EgoWhip" /> 
+                    <attribute id="UUID" type="guid" value="fba646eb-6662-4fda-b3dc-478a15d1fbd2" />
+                </node>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Cleric Order Domain Divine Strike 8" />
+                    <attribute id="Spells" type="LSString" value="Target_DivineStrike_Order_Container" />
+                    <attribute id="UUID" type="guid" value="9c384fce-ccf6-44ac-b498-9a6a77395ef2" />
+                </node>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Cleric Order Domain Divine Strike 9" />
+                    <attribute id="Spells" type="LSString" value="Target_DominatePerson" />
+                    <attribute id="UUID" type="guid" value="d6eb29e6-90aa-41b5-b9c1-eee2b4a43370" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

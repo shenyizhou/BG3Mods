@@ -1,0 +1,12 @@
+// Spells----------------------------------------------------------
+
+new entry "MISLEAD_ILLUSION_DOWNED"
+type "StatusData"
+data "StatusType" "DOWNED"
+using "DOWNED"
+data "Description" ""
+data "StatusGroups" ""
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "OnApplyFunctors" "RegainHitPoints(1)"
+
+// ----------------------------------------------------------

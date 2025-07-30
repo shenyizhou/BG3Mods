@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ProgressionDescriptions">
+    <node id="root">
+      <children>
+        <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h817680aagf6a6g4e57ga9a5gbab4ed30f1f0" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4a42f635ge440g4d99g8800gc83be19f54c9" version="1" />
+                    <attribute id="ExactMatch" type="FixedString" value="Twilight5e" />
+                    <attribute id="ProgressionTableId" type="guid" value="68965ea7-825e-4f17-a7b0-e7c11458af7e" />
+                    <attribute id="UUID" type="guid" value="d7d311b1-522f-4e76-a250-873207c9bd7f" />
+                </node>
+        <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h4e82e54egfca4g47b9g89a5gce900bfab875" version="2" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf83f35fbg4a04g475fg9c80g5f7a4d5b6135" version="1" />
+                    <attribute id="ProgressionTableId" type="guid" value="68965ea7-825e-4f17-a7b0-e7c11458af7e" />
+                    <attribute id="SelectorId" type="FixedString" value="ClericTwilightDomainSpells" />
+                    <attribute id="UUID" type="guid" value="c75c24e8-a3f2-4b40-b7c7-23c997735ed7" />
+                </node>
+        <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h57727a7dg9c82g46f7g8a81gc33551c9dbf1" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h71850053g8fe2g4722g9cc9g830536b9eb73" version="1" />
+                    <attribute id="ExactMatch" type="FixedString" value="Order5e" />
+                    <attribute id="ProgressionTableId" type="guid" value="2bab4a1b-9b14-4454-9e77-c04384d84950" />
+                    <attribute id="UUID" type="guid" value="07b533a7-1141-496a-b00f-b9e671258cbc" />
+                </node>
+        <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="haf833c95g518ag47beg984bg8c1a54561b43" version="2" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb05c13dfgf091g4ccbgaddcgc00aaa55c149" version="1" />
+                    <attribute id="ProgressionTableId" type="guid" value="2bab4a1b-9b14-4454-9e77-c04384d84950" />
+                    <attribute id="SelectorId" type="FixedString" value="ClericOrderDomainSpells" />
+                    <attribute id="UUID" type="guid" value="6824b6c5-9348-4ddb-bfda-24cd432e936c" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

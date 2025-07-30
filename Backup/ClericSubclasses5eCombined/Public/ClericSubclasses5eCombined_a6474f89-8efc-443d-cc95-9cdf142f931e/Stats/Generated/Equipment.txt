@@ -1,0 +1,6 @@
+new equipment "EQP_Mislead"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "ARM_Boots_Leather"
+add equipmentgroup
+add equipment entry "ARM_Leather_Body"

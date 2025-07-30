@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<content contentuid="h5e326998gc3f1g4c21ga049g2e6337ea1776" version="1">假象术</content>
+<content contentuid="hd2a37b0ag21dag49e5g8d77g8badfc561715" version="1">同时变得&lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;隐形&lt;/LSTag&gt;并在你站立的地方出现一个虚幻的分身。</content>
+<content contentuid="hf8535092gf8e4g4f32g8030ga5b08f28fe4b" version="1">施法者的虚幻分身可以移动并制造干扰。</content>
+<content contentuid="hf27452b9gce25g4782g9775g4bcc97c94062" version="1">虚幻分身</content>
+<content contentuid="hab72a780g0ab6g48d5gb05cg8fe38e0b1069" version="1">干扰</content>
+<content contentuid="h913fb4d1g2535g469cgbf8bg9467d6703637" version="1">假象术: 控制分身</content>
+<content contentuid="hbf822732g1c6ag4ef9g89a2g02e716612dd8" version="1">被你的施法者控制，这样你可以移动并制造干扰。</content>
+<content contentuid="ha4eada9cg8659g4f54ga8c0g1570a9f256c2" version="1">控制分身</content>
+<content contentuid="h6f9663c1g0860g46f8g9f4cg8773a0fc1555" version="1">实体正在使用其虚幻分身的感觉，并处于&lt;LSTag Type="Status" Tooltip="BLINDED"&gt;目盲&lt;/LSTag&gt;状态。</content>
+<content contentuid="h55b9565bg888fg44fegaccag18723a2e4970" version="1">指挥你的虚幻分身移动并制造干扰。关于你周围的环境，你会处于&lt;LSTag Type="Status" Tooltip="BLINDED"&gt;目盲&lt;/LSTag&gt;状态。</content>
+<content contentuid="h75d6204eg46a2g40aagacbega5907629aeda" version="1">半身掩护</content>
+<content contentuid="h9005d037g1f02g4bc2g8336g2dc28d86151b" version="1">实体在&lt;LSTag Tooltip="ArmorClass"&gt;护甲等级&lt;/LSTag&gt;和敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免掷骰&lt;/LSTag&gt;上有+2加值。</content>
+<content contentuid="h4a42f635ge440g4d99g8800gc83be19f54c9" version="1">暮光领域</content>
+<content contentuid="h817680aagf6a6g4e57ga9a5gbab4ed30f1f0" version="1">从光明到黑暗的黄昏过渡常常带来平静甚至是喜悦，因为一天的劳作结束，休息的时间开始。然而，黑暗也可能带来恐怖，但暮光之神保护人们免受夜晚恐怖的侵袭。侍奉这些神祇的牧师为寻求休息的人们带来安慰，并通过进入逐渐逼近的黑暗中确保黑暗成为一种安慰而非恐惧。</content>
+<content contentuid="h2af9d0f6g62fdg4a47gb619g23d961c57251" version="1">暮光</content>
+<content contentuid="hc9a50334g8dffg48e4gbba6ga1c19f562215" version="1">黑夜明目</content>
+<content contentuid="h4dcc7ec7gb841g45e6g8aceg19a26e669cd4" version="1">你可以在黑暗中看到至多[1]的距离。作为一个&lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;动作&lt;/LSTag&gt;, 你可以将你的黑暗视觉分享给等于你感知修正值数量的盟友。</content>
+<content contentuid="h04e107a1g1164g4a8ega71bg41cb3e1ca6bd" version="1">以魔法方式分享由你的&lt;LSTag Type="Passive" Tooltip="EyesofNight"&gt;黑夜明目&lt;/LSTag&gt;特性赋予的黑暗视觉，分享给等于你感知修正值数量的盟友。</content>
+<content contentuid="h5c0a2b2dg53d0g49edg9f8egdaa2f3c3f7f2" version="1">你可以在每次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;时将此特性分享给等于你智慧修正值数量的盟友一次，或者通过消耗一个法术位再次分享。</content>
+	<content contentuid="h2188c32cg5c01g46d6g8352g86bd7a7a3f7d" version="1">警觉赐福</content>
+<content contentuid="h53520b50g09bcg441dg9578g1c24974a6473" version="1">为自己或盟友提供+[1]的先攻加值。</content>
+<content contentuid="hc8d69502gee08g47a5gadd9g205669b89b02" version="1">受影响实体在其下一次先攻掷骰中获得+[1]加值。</content>
+<content contentuid="h96ba0626gc88ag4fa1g87e0g3d52d8135521" version="1">此增益在先攻掷骰后立即结束，或者如果你再次使用此特性则也会结束。</content>
+<content contentuid="h7d91daedg73e9g4ac8ga472g6e91d61848de" version="1">暮光圣域</content>
+<content contentuid="h86a2bee1gf099g4ce5g84ebgbe8dc3eddd7c" version="1">在一个[1]半径的球形范围内散发出昏暗的暮光。每当您或您的盟友在该区域内结束其回合时，您可以选择给予他们[2]+[3]临时生命值，或结束使他们处于&lt;LSTag Type="Status" Tooltip="CHARMED"&gt;魅惑&lt;/LSTag&gt;或&lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;恐慌&lt;/LSTag&gt;状态的效果。</content>
+<content contentuid="h53030553g82ebg4303g8430g2c01ebc154d0" version="1">如果您变得&lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;失去行动能力&lt;/LSTag&gt;或死亡，效果会提前结束。</content>
+<content contentuid="h0027e0f3g9d3cg43f4ga10bgfa4c4a5f06d4" version="1">暮光圣域: 临时生命值</content>
+<content contentuid="he3788288g84a9g4bcag9e2fg04b52b815de6" version="1">当自己或盟友在您的&lt;LSTag Type="Spell" Tooltip="Shout_TwilightSanctuary"&gt;暮光圣域&lt;/LSTag&gt;区域内结束回合时，赋予他们[1]+[2]临时生命值。</content>
+<content contentuid="hc2bea1e4gc8dfg4f86g9590g8795bb979ef3" version="1">暮光圣域: 移除魅惑</content>
+<content contentuid="h9f71697dg7212g48a9gbd2dge3d37a98b484" version="1">当您或您的盟友在您的&lt;LSTag Type="Spell" Tooltip="Shout_TwilightSanctuary"&gt;暮光圣域&lt;/LSTag&gt;区域内结束回合时，结束任何导致他们处于&lt;LSTag Type="Status" Tooltip="CHARMED"&gt;魅惑&lt;/LSTag&gt;状态的效果。</content>
+<content contentuid="hedcaa4b4gb10fg4ae3g9684gb9751135cf14" version="1">暮光圣域: 移除恐惧</content>
+<content contentuid="hfb13ccbcgffb1g4cd5gb9f0g698cdfe3dbf7" version="1">当您或您的盟友在您的&lt;LSTag Type="Spell" Tooltip="Shout_TwilightSanctuary"&gt;暮光圣域&lt;/LSTag&gt;区域内结束回合时，结束任何导致他们处于&lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;恐慌&lt;/LSTag&gt;状态的效果。</content>
+<content contentuid="hdbbdc198gad07g4abdg9813gfa7c10523f3e" version="1">午夜飞步</content>
+<content contentuid="h7b10c07bgf14dg404eg9133g327ab6a1a482" version="1">暮光神祇赋予他们的牧师利用夜晚神秘力量升空的能力。</content>
+<content contentuid="he6944dccg762fg442fga4f9g4fd55e61ea67" version="1">在昏暗光线或黑暗中获得&lt;LSTag Type="Spell" Tooltip="Projectile_StepsofNight"&gt;飞行&lt;/LSTag&gt;能力。</content>
+<content contentuid="h3c9f3c30gf650g40bbg8a16g789c26858129" version="1">在昏暗光线或黑暗中可以&lt;LSTag Type="Spell" Tooltip="Projectile_StepsOfNight"&gt;飞行&lt;/LSTag&gt;到目标位置。</content>
+<content contentuid="hbf3fc09dg2320g4201gb394g4d6efac5a055" version="1">午夜飞步: 飞行</content>
+<content contentuid="h717f4135gda7fg4f1bg8ad6g9ed36f3da04a" version="1">达到14级时，额外伤害增加。</content>
+<content contentuid="h68b378bag9170g4df1ga650g7b00a0c2d221" version="1">暮光守护</content>
+<content contentuid="h8e76bdcegebb4g4d68g9211gda6beadfb883" version="1">您和您的盟友在由您的&lt;LSTag Type="Spell" Tooltip="Shout_TwilightSanctuary"&gt;暮光圣域&lt;/LSTag&gt;创造的球体内拥有&lt;LSTag Type="Status" Tooltip="SRD_HALF_COVER"&gt;半身掩护&lt;/LSTag&gt;。</content>
+
+
+
+</contentList>

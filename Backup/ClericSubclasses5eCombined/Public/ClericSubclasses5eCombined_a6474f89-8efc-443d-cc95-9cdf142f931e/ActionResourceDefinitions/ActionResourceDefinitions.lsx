@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ActionResourceDefinitions">
+    <node id="root">
+      <children>
+        <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="h04e107a1g1164g4a8ega71bg41cb3e1ca6bd" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc9a50334g8dffg48e4gbba6ga1c19f562215" version="1" />
+                    <attribute id="IsHidden" type="bool" value="true" />
+                    <attribute id="MaxLevel" type="uint32" value="0" />
+                    <attribute id="Name" type="FixedString" value="EyesofNightUse" />
+                    <attribute id="ReplenishType" type="FixedString" value="Rest" />
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="false" />
+                    <attribute id="UUID" type="guid" value="521946fd-61b8-41ef-ab90-4e8a43c92c5a" />
+                </node>
+        <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="h7b10c07bgf14dg404eg9133g327ab6a1a482" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="hdbbdc198gad07g4abdg9813gfa7c10523f3e" version="1" />
+                    <attribute id="IsHidden" type="bool" value="false" />
+                    <attribute id="MaxLevel" type="uint32" value="0" />
+                    <attribute id="Name" type="FixedString" value="StepsofNightUse" />
+                    <attribute id="ReplenishType" type="FixedString" value="Rest" />
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
+                    <attribute id="UUID" type="guid" value="31d5fda5-38dc-453c-a613-263b0746a980" />
+                </node>
+        <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="hfcd95fc3g4707g4262g80f7gacb371aa8e92" version="3" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="hba0d4fd0ga762g43bfgb86fg1c9c8982c6b2" version="3" />
+                    <attribute id="Error" type="TranslatedString" handle="hea9d4496g788ag4a57gb9degb995324381b7" version="1" />
+                    <attribute id="IsHidden" type="bool" value="true" />
+                    <attribute id="MaxLevel" type="uint32" value="0" />
+                    <attribute id="Name" type="FixedString" value="MisleadActionPoint" />
+                    <attribute id="ReplenishType" type="FixedString" value="Turn" />
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="false" />
+                    <attribute id="UUID" type="guid" value="215421e0-fe7b-4281-a481-5a449b5ed42d" />
+                </node>
+        <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="h4d6ac8adg1368g425ag9125g12af231749af" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="hdbbe9b9dg6b89g48eeg8e17g214bbd8a763a" version="1" />
+                    <attribute id="IsHidden" type="bool" value="false" />
+                    <attribute id="MaxLevel" type="uint32" value="0" />
+                    <attribute id="Name" type="FixedString" value="EmbodimentoftheLawUse" />
+                    <attribute id="ReplenishType" type="FixedString" value="Rest" />
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
+                    <attribute id="UUID" type="guid" value="94a79fd5-d52c-4aa7-9586-be828b0223b9" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

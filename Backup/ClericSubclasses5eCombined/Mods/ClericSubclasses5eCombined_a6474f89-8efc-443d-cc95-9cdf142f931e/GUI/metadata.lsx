@@ -1,0 +1,666 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="config">
+		<node id="config">
+			<children>
+				<node id="entries">
+					<children>
+
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ClassIcons/hotbar/Twilight5e.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="140" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="140" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ClassIcons/Twilight5e.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="300" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="300" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/StepsofNightUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Highlight/StepsofNightUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Missing/StepsofNightUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Used/StepsofNightUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>													
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/CC/icons_resources/StepsofNightUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="128" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="128" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/StepsofNightUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="80" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="80" />
+								</node>
+							</children>
+						</node>						
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/StepsofNightUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Highlight/StepsofNightUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Missing/StepsofNightUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Used/StepsofNightUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_EyesofNight.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_EyesofNight.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_EyesofNight.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_EyesofNight.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_VigilantBlessing.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_VigilantBlessing.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_TwilightSanctuary.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_TwilightSanctuary.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Interrupt_TwilightSanctuary_Cure.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Interrupt_TwilightSanctuary_Cure.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Interrupt_TwilightSanctuary_HP.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Interrupt_TwilightSanctuary_HP.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>		
+												<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_StepsofNight_Fly.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_StepsofNight_Fly.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_StepsofNight.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_StepsofNight.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Spell_Illusion_Mislead.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Spell_Illusion_Mislead.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_Mislead_Distract.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_Mislead_Distract.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>								
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_Mislead_MoveIllusion.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_Mislead_MoveIllusion.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>								
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_TwilightShroud.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_TwilightShroud.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>	
+
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ClassIcons/hotbar/Order5e.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="140" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="140" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ClassIcons/Order5e.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="300" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="300" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/EmbodimentoftheLawUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Highlight/EmbodimentoftheLawUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Missing/EmbodimentoftheLawUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Shared/Resources/Used/EmbodimentoftheLawUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="48" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="48" />
+								</node>
+							</children>
+						</node>													
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/CC/icons_resources/EmbodimentoftheLawUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="128" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="128" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/EmbodimentoftheLawUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="80" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="80" />
+								</node>
+							</children>
+						</node>						
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/EmbodimentoftheLawUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Highlight/EmbodimentoftheLawUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Missing/EmbodimentoftheLawUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>		
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ActionResources_c/Icons/Resources/Used/EmbodimentoftheLawUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="64" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="44" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/EmbodimentoftheLawUse.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_VoiceofAuthority.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_VoiceofAuthority.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_VoiceofAuthority.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_VoiceofAuthority.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>			
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_OrdersDemand.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_OrdersDemand.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>			
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_EmbodimentoftheLaw.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_EmbodimentoftheLaw.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_DivineStrike_Psychic_Melee.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_DivineStrike_Psychic_Melee.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Action_DivineStrike_Psychic_Critical.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Action_DivineStrike_Psychic_Critical.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>	
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Spell_Zone_Truth.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Spell_Zone_Truth.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>						
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/ControllerUIIcons/skills_png/Passive_OrdersWrath.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="144" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="144" />
+								</node>
+							</children>
+						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/Icons/Passive_OrdersWrath.png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>			
+					</children>
+				</node>	
+			</children>
+		</node>
+	</region>
+</save>
