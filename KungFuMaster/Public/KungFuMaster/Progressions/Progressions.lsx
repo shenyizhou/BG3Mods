@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 武侠子职业进展配置文件 -->
+<!-- 定义KungFuMaster子职业的特有能力和武功技能 -->
+<save>
+	<version major="4" minor="0" revision="9" build="330" />
+	<region id="Progressions">
+		<node id="root">
+			<children>
+				<!-- 武侠3级进展：基础武功入门 + 6个气力骰子 -->
+				<node id="Progression">
+					<!-- 3级可选择额外武功技能 + 获得6个气力骰子 -->
+					<attribute id="Boosts" type="LSString" value="ActionResourceMultiplier(SuperiorityDice,6,0)" />
+					<attribute id="Level" type="uint8" value="3" />
+					<attribute id="Name" type="LSString" value="KungFuMaster" />
+					<attribute id="ProgressionType" type="uint8" value="1" />
+					<!-- 选择器：可选择四大武功门类各一项 -->
+					<!-- YingGong(硬功), QingGong(轻功), NeiGong(内功), WaiGong(外功) -->
+					<attribute id="Selectors" type="LSString" value="SelectPassives(5457b361-7306-469d-9032-6f2760a629e3,1,YingGong);SelectPassives(d9eff3c2-0fa4-4022-9ce3-d684c6d3fa29,1,QingGong);SelectPassives(01bef723-3a92-4640-811d-4c57df429712,1,NeiGong);SelectPassives(556ab3de-5af7-4e11-9b08-48764ae60b46,1,WaiGong)" />
+					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
+					<attribute id="UUID" type="guid" value="30cbcb19-25ff-488c-aa42-a81e519411a3" />
+				</node>
+				
+				<!-- 武侠5级进展：增加1个气力骰子 -->
+				<node id="Progression">
+					<attribute id="Boosts" type="LSString" value="ActionResourceMultiplier(SuperiorityDice,1,1)" />
+					<attribute id="Level" type="uint8" value="5" />
+					<attribute id="Name" type="LSString" value="KungFuMaster" />
+					<attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
+					<attribute id="UUID" type="guid" value="11111111-2222-3333-4444-555555555555" />
+				</node>
+				
+				<!-- 武侠7级进展：增加1个气力骰子 -->
+				<node id="Progression">
+					<attribute id="Boosts" type="LSString" value="ActionResourceMultiplier(SuperiorityDice,1,1)" />
+					<attribute id="Level" type="uint8" value="7" />
+					<attribute id="Name" type="LSString" value="KungFuMaster" />
+					<attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
+					<attribute id="UUID" type="guid" value="22222222-3333-4444-5555-666666666666" />
+				</node>
+				
+				<!-- 武侠9级进展：增加1个气力骰子 -->
+				<node id="Progression">
+					<attribute id="Boosts" type="LSString" value="ActionResourceMultiplier(SuperiorityDice,1,1)" />
+					<attribute id="Level" type="uint8" value="9" />
+					<attribute id="Name" type="LSString" value="KungFuMaster" />
+					<attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
+					<attribute id="UUID" type="guid" value="33333333-4444-5555-6666-777777777777" />
+				</node>
+				
+				<!-- 武侠10级进展：气力骰子升级为d10 -->
+				<node id="Progression">
+					<attribute id="Boosts" type="LSString" value="ActionResourceDiceChange(SuperiorityDice,10)" />
+					<attribute id="Level" type="uint8" value="10" />
+					<attribute id="Name" type="LSString" value="KungFuMaster" />
+					<attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
+					<attribute id="UUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567890" />
+				</node>
+				
+				<!-- 武侠11级进展：增加1个气力骰子 -->
+				<node id="Progression">
+					<attribute id="Boosts" type="LSString" value="ActionResourceMultiplier(SuperiorityDice,1,1)" />
+					<attribute id="Level" type="uint8" value="11" />
+					<attribute id="Name" type="LSString" value="KungFuMaster" />
+					<attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
+					<attribute id="UUID" type="guid" value="44444444-5555-6666-7777-888888888888" />
+				</node>
+				
+				<!-- 武侠12级进展：气力骰子升级为d12 -->
+				<node id="Progression">
+					<attribute id="Boosts" type="LSString" value="ActionResourceDiceChange(SuperiorityDice,12)" />
+					<attribute id="Level" type="uint8" value="12" />
+					<attribute id="Name" type="LSString" value="KungFuMaster" />
+					<attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
+					<attribute id="UUID" type="guid" value="b2c3d4e5-f6a7-8901-bcde-f23456789012" />
+				</node>
+				
+				<!-- 武侠13级进展：增加1个气力骰子 -->
+				<node id="Progression">
+					<attribute id="Boosts" type="LSString" value="ActionResourceMultiplier(SuperiorityDice,1,1)" />
+					<attribute id="Level" type="uint8" value="13" />
+					<attribute id="Name" type="LSString" value="KungFuMaster" />
+					<attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
+					<attribute id="UUID" type="guid" value="55555555-6666-7777-8888-999999999999" />
+				</node>
+				
+				<!-- 武侠14级进展：气力骰子升级为d14 -->
+				<node id="Progression">
+					<attribute id="Boosts" type="LSString" value="ActionResourceDiceChange(SuperiorityDice,14)" />
+					<attribute id="Level" type="uint8" value="14" />
+					<attribute id="Name" type="LSString" value="KungFuMaster" />
+					<attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
+					<attribute id="UUID" type="guid" value="c3d4e5f6-a7b8-9012-cdef-345678901234" />
+				</node>
+				
+				<!-- 武侠15级进展：增加1个气力骰子 -->
+				<node id="Progression">
+					<attribute id="Boosts" type="LSString" value="ActionResourceMultiplier(SuperiorityDice,1,1)" />
+					<attribute id="Level" type="uint8" value="15" />
+					<attribute id="Name" type="LSString" value="KungFuMaster" />
+					<attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
+					<attribute id="UUID" type="guid" value="66666666-7777-8888-9999-aaaaaaaaaaaa" />
+				</node>
+				
+				<!-- 武侠16级进展：气力骰子升级为d16 -->
+				<node id="Progression">
+					<attribute id="Boosts" type="LSString" value="ActionResourceDiceChange(SuperiorityDice,16)" />
+					<attribute id="Level" type="uint8" value="16" />
+					<attribute id="Name" type="LSString" value="KungFuMaster" />
+					<attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
+					<attribute id="UUID" type="guid" value="d4e5f6a7-b8c9-0123-def4-56789012345a" />
+				</node>
+				
+				<!-- 武侠17级进展：增加1个气力骰子 -->
+				<node id="Progression">
+					<attribute id="Boosts" type="LSString" value="ActionResourceMultiplier(SuperiorityDice,1,1)" />
+					<attribute id="Level" type="uint8" value="17" />
+					<attribute id="Name" type="LSString" value="KungFuMaster" />
+					<attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
+					<attribute id="UUID" type="guid" value="77777777-8888-9999-aaaa-bbbbbbbbbbbb" />
+				</node>
+				
+				<!-- 武侠19级进展：增加1个气力骰子 -->
+				<node id="Progression">
+					<attribute id="Boosts" type="LSString" value="ActionResourceMultiplier(SuperiorityDice,1,1)" />
+					<attribute id="Level" type="uint8" value="19" />
+					<attribute id="Name" type="LSString" value="KungFuMaster" />
+					<attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
+					<attribute id="UUID" type="guid" value="88888888-9999-aaaa-bbbb-cccccccccccc" />
+				</node>
+				
+				<!-- 武侠20级进展：气力骰子升级为d20 -->
+				<node id="Progression">
+					<attribute id="Boosts" type="LSString" value="ActionResourceDiceChange(SuperiorityDice,20)" />
+					<attribute id="Level" type="uint8" value="20" />
+					<attribute id="Name" type="LSString" value="KungFuMaster" />
+					<attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="TableUUID" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a" />
+					<attribute id="UUID" type="guid" value="e5f6a7b8-c9d0-1234-ef56-789012345abc" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

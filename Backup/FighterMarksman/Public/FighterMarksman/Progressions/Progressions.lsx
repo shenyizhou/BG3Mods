@@ -1,28 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- FighterMarksman 射手子职业进展配置文件 -->
+<!-- 定义战士职业的射手专精子职业的等级进展和能力获得 -->
 <save>
+    <!-- 文件格式版本信息 -->
     <version major="4" minor="0" revision="9" build="328"/>
+    <!-- 进展区域：包含所有职业和子职业的进展定义 -->
     <region id="Progressions">
         <node id="root">
             <children>
+                <!-- 战士职业3级进展：子职业选择 -->
                 <node id="Progression">
+                    <!-- 是否允许改进：false表示不允许玩家自定义修改 -->
                     <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <!-- 等级：3级时触发此进展 -->
                     <attribute id="Level" type="uint8" value="3"/>
+                    <!-- 职业名称：战士 -->
                     <attribute id="Name" type="LSString" value="Fighter"/>
+                    <!-- 进展类型：0表示主职业进展 -->
                     <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <!-- 进展表UUID：关联到战士职业的进展表 -->
                     <attribute id="TableUUID" type="guid" value="ba4e707e-4bbd-4630-963b-ce2f2947f971"/>
+                    <!-- 此进展的唯一标识符 -->
                     <attribute id="UUID" type="guid" value="23eacff0-9efe-4ea6-b031-19075cc96b63"/>
                     <children>
+                        <!-- 子职业列表：定义战士可选择的子职业 -->
                         <node id="SubClasses">
                             <children>
+                                <!-- 子职业1：冠军（Champion） -->
                                 <node id="SubClass">
                                     <attribute id="Object" type="guid" value="e668c6f1-5149-4b10-ab7e-3637ed444066"/>
                                 </node>
+                                <!-- 子职业2：战技大师（Battle Master） -->
                                 <node id="SubClass">
                                     <attribute id="Object" type="guid" value="b722614a-303f-411a-bb19-a1882ad1f4cc"/>
                                 </node>
+                                <!-- 子职业3：灵能武士（Eldritch Knight） -->
                                 <node id="SubClass">
                                     <attribute id="Object" type="guid" value="0a01dc6b-ab1a-4c0e-8a5e-4787fe1f2caf"/>
                                 </node>
+                                <!-- 子职业4：射手（Marksman）- 自定义子职业 -->
                                 <node id="SubClass">
                                     <attribute id="Object" type="guid" value="a9d9450b-52e3-4412-8559-322b6f5f7d7d"/>
                                 </node>
@@ -34,33 +50,67 @@
 				
 				
 				
+                <!-- 射手子职业3级进展：近距离射击专精和额外伤害 -->
                 <node id="Progression">
+                    <!-- 等级：3级时获得此能力 -->
                     <attribute id="Level" type="uint8" value="3"/>
+                    <!-- 子职业名称：射手 -->
                     <attribute id="Name" type="LSString" value="Marksman"/>
+                    <!-- 添加的被动技能：近距离射击（在近距离使用远程武器时获得优势）和额外伤害 -->
                     <attribute id="PassivesAdded" type="LSString" value="Marksman_Pointblank;Marksman_BonusDamage"/>
+                    <!-- 进展类型：1表示子职业进展 -->
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <!-- 进展表UUID：关联到射手子职业的进展表 -->
                     <attribute id="TableUUID" type="guid" value="f819ca91-7b44-4e2e-be52-f03100bd9005"/>
+                    <!-- 此进展的唯一标识符 -->
                     <attribute id="UUID" type="guid" value="7b91dc8e-b7ca-456f-897e-8e71e0820fe1"/>
                 </node>
 				
+                <!-- 射手子职业7级进展：巨力射击 -->
                 <node id="Progression">
+                    <!-- 等级：7级时获得此能力 -->
                     <attribute id="Level" type="uint8" value="7"/>
+                    <!-- 子职业名称：射手 -->
                     <attribute id="Name" type="LSString" value="Marksman"/>
+                    <!-- 添加的被动技能：巨力射击（增强射击威力和穿透力） -->
                     <attribute id="PassivesAdded" type="LSString" value="TremendousStrength"/>
+                    <!-- 进展类型：1表示子职业进展 -->
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <!-- 进展表UUID：关联到射手子职业的进展表 -->
                     <attribute id="TableUUID" type="guid" value="f819ca91-7b44-4e2e-be52-f03100bd9005"/>
+                    <!-- 此进展的唯一标识符 -->
                     <attribute id="UUID" type="guid" value="94de2060-d045-44a9-9520-1b5abce0e30b"/>
                 </node>
+                <!-- 射手子职业9级进展：重击射击 -->
                 <node id="Progression">
+                    <!-- 等级：9级时获得此能力 -->
                     <attribute id="Level" type="uint8" value="9"/>
+                    <!-- 子职业名称：射手 -->
                     <attribute id="Name" type="LSString" value="Marksman"/>
+                    <!-- 添加的被动技能：重击射击（射击攻击具有更高的暴击几率和伤害） -->
                     <attribute id="PassivesAdded" type="LSString" value="HeavyShot"/>
+                    <!-- 进展类型：1表示子职业进展 -->
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <!-- 进展表UUID：关联到射手子职业的进展表 -->
                     <attribute id="TableUUID" type="guid" value="f819ca91-7b44-4e2e-be52-f03100bd9005"/>
+                    <!-- 此进展的唯一标识符 -->
                     <attribute id="UUID" type="guid" value="f716822c-3055-4b90-ac23-4b6e1fc4c90d"/>
                 </node>
-				
             </children>
         </node>
     </region>
+    <!-- 进展区域结束 -->
 </save>
+<!-- 配置文件结束 -->
+<!-- 
+射手子职业技能说明：
+- Marksman_Pointblank: 近距离射击专精，在5英尺内使用远程武器攻击时获得优势
+- Marksman_BonusDamage: 额外伤害，远程攻击造成额外伤害
+- TremendousStrength: 巨力射击，增强射击威力和穿透能力
+- HeavyShot: 重击射击，提高暴击几率和暴击伤害
+
+进展等级分布：
+- 3级：获得近距离射击专精和额外伤害
+- 7级：获得巨力射击
+- 9级：获得重击射击
+-->

@@ -16,10 +16,10 @@ function HasKungFuPassive(passiveName)
 	return ConditionResult(false)
 end
 
--- 检查内力点数是否足够
-function HasEnoughKiPoints(requiredPoints)
-	local currentKi = GetActionResourceValueCap(context.Source, "KiPoint", 0)
-	if currentKi >= requiredPoints then
+-- 检查是否有足够的气力骰子
+function HasEnoughSuperiorityDice(requiredPoints)
+	local currentDice = GetActionResourceValueCap(context.Source, "SuperiorityDice", 0)
+	if currentDice >= requiredPoints then
 		return ConditionResult(true)
 	end
 	return ConditionResult(false)

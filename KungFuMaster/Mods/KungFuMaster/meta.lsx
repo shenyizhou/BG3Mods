@@ -19,7 +19,7 @@
           <attribute id="Author" type="LSWString" value="沈浪" />
           <!-- 角色创建关卡名称（未使用） -->
           <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
-          <!-- 模组描述：武功僧侣增强版 -->
+          <!-- 模组描述：武侠增强版 -->
           <attribute id="Description" type="LSWString" value="武僧武侠子职业" />
           <!-- 模组文件夹名称 -->
           <attribute id="Folder" type="LSWString" value="KungFuMaster" />

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="wuxia" version="1">武侠</content>
+	<content contentuid="wuxiadescript" version="1">武侠是精通武学的战士，融合了内功心法与外功招式。他们能够运用内力增强攻击威力，拥有敏锐的感知能力，并掌握传说中的六脉神剑绝技。
+	3 级 - &lt;LSTag Type="Passive" Tooltip="WuXia_DaJinGangShenLi"&gt;大金刚神力&lt;/LSTag&gt;
+	5 级 - &lt;LSTag Type="Passive" Tooltip="WuXia_YingYan"&gt;鹰眼&lt;/LSTag&gt;
+	7 级 - &lt;LSTag Type="Spell" Tooltip="WuXia_LiuMaiShenJian"&gt;六脉神剑&lt;/LSTag&gt;</content>
+	
+	<!-- 大金刚神力 -->
+	<content contentuid="wuxia_dajingangshenli" version="1">大金刚神力</content>
+	<content contentuid="wuxia_dajingangshenli_desc" version="1">运用内力增强攻击威力。武器攻击、徒手攻击、远程徒手攻击和力场伤害获得等同于&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;调整值的额外伤害加值。</content>
+	
+	<!-- 鹰眼 -->
+	<content contentuid="wuxia_yingyan" version="1">鹰眼</content>
+	<content contentuid="wuxia_yingyan_desc" version="1">拥有敏锐的视觉和感知能力。获得60尺&lt;LSTag Tooltip="Darkvision"&gt;黑暗视觉&lt;/LSTag&gt;，免疫&lt;LSTag Type="Status" Tooltip="BLINDED"&gt;失明&lt;/LSTag&gt;状态，远程武器射程增加50%。</content>
+	
+	<!-- 六脉神剑 -->
+	<content contentuid="wuxia_shaoshangjian" version="1">少商剑</content>
+	<content contentuid="wuxia_shaoshangjian_desc" version="1">发射一道必中的剑气，对目标造成2d10点力场伤害。此剑法必定命中目标。</content>
+	
+	<content contentuid="wuxia_shangyangjian" version="1">商阳剑</content>
+	<content contentuid="wuxia_shangyangjian_desc" version="1">发射一道必中的剑气，对目标造成3d6点力场伤害。此剑法必定命中目标。</content>
+	
+	<content contentuid="wuxia_zhongchongjian" version="1">中冲剑</content>
+	<content contentuid="wuxia_zhongchongjian_desc" version="1">在目标区域释放必中剑气，对1.5米范围内的所有敌人造成1d10点力场伤害。</content>
+	
+	<content contentuid="wuxia_guanchongjian" version="1">关冲剑</content>
+	<content contentuid="wuxia_guanchongjian_desc" version="1">发射必中的强力剑气，造成1d10点力场伤害，将目标击退3米，并可能使其&lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒地&lt;/LSTag&gt;。</content>
+	
+	<content contentuid="wuxia_shaochongjian" version="1">少冲剑</content>
+	<content contentuid="wuxia_shaochongjian_desc" version="1">发射必中的迅捷剑气，造成1d10点力场伤害，并在下回合获得&lt;LSTag Tooltip="Initiative"&gt;先攻&lt;/LSTag&gt;优势。</content>
+	
+	<content contentuid="wuxia_shaozejian" version="1">少泽剑</content>
+	<content contentuid="wuxia_shaozejian_desc" version="1">发射必中的破防剑气，造成1d10点力场伤害，并使目标对&lt;LSTag Type="Status" Tooltip="VULNERABILITY_FORCE"&gt;力场伤害易伤&lt;/LSTag&gt;。</content>
+	
+	<content contentuid="wuxia_liumaishenjian" version="1">六脉神剑</content>
+	<content contentuid="wuxia_liumaishenjian_desc" version="1">依次释放六脉神剑的所有剑法：少泽剑、少冲剑、中冲剑、商阳剑、少商剑、关冲剑。这是六脉神剑的终极奥义。</content>
+	
+	<!-- 状态效果 -->
+	<content contentuid="wuxia_shaochong_advantage" version="1">少冲剑效果</content>
+	<content contentuid="wuxia_shaochong_advantage_desc" version="1">下回合的&lt;LSTag Tooltip="Initiative"&gt;先攻检定&lt;/LSTag&gt;具有优势。</content>
+	
+	<content contentuid="wuxia_vulnerability_force" version="1">力场易伤</content>
+	<content contentuid="wuxia_vulnerability_force_desc" version="1">受到的&lt;LSTag Tooltip="Force"&gt;力场伤害&lt;/LSTag&gt;翻倍。</content>
+</contentList>
