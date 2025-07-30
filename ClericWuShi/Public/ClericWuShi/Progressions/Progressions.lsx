@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ClericWuShi 武师子职业进展配置文件 -->
+<!-- 定义牧师职业的武师专精子职业的等级进展和能力获得 -->
+<save>
+    <!-- 文件格式版本信息 -->
+    <version major="4" minor="0" revision="9" build="328" />
+    <!-- 进展区域：包含所有职业和子职业的进展定义 -->
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <!-- 牧师职业1级进展：添加武师子职业选项 -->
+                <node id="Progression">
+                    <!-- 基础牧师能力 -->
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1);ProficiencyBonus(SavingThrow,Wisdom);ProficiencyBonus(SavingThrow,Charisma);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields);Proficiency(SimpleWeapons);Proficiency(Morningstars);Proficiency(Flails)" />
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="Cleric" />
+                    <attribute id="PassivesAdded" type="LSString" value="DomainSpells;UnlockedSpellSlotLevel1" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(6cb9d731-a518-46f0-b20e-9e2bf18e6acd,2);SelectSpells(2f43a103-5bf1-4534-b14f-663decc0c525,3,0,,,,AlwaysPrepared);AddSpells(269d1a3b-eed8-4131-8901-a562238f5289);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1)" />
+                    <attribute id="TableUUID" type="guid" value="64474b62-b4f5-46b3-b94a-c676c6da3116" />
+                    <attribute id="UUID" type="guid" value="1dbce574-fff1-49be-b7da-704f9b73cad9" />
+                    <children>
+                        <node id="SubClasses">
+                            <children>
+                                <!-- 原版牧师子职业 -->
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="4b5da2f5-b999-4623-8bff-a63df5560fb3" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="c54d7591-b305-4f22-b2a7-1bf5c4a3470a" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="f013d01b-3310-43f7-81bf-a51130442b5e" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="ebe18794-b5e1-41c4-befa-4b9d6922b0ec" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="6dec76d0-df22-411c-8a78-3d6fb843ae50" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="89bacf1b-8f15-4972-ada7-bf59c7c78441" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="b9ccf90e-b35b-4b73-b896-8ed2d32ae8c6" />
+                                </node>
+                                <!-- 武师子职业 -->
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="b2c3d4e5-f6a7-8901-bcde-f23456789012" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+
+                <!-- 武师子职业1级进展：基础防护能力 -->
+                <node id="Progression">
+                    <!-- 获得重甲熟练度和基础防护能力 -->
+                    <attribute id="Boosts" type="LSString" value="Proficiency(HeavyArmor)" />
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="WuShi" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567890" />
+                    <attribute id="UUID" type="guid" value="c3d4e5f6-a7b8-9012-cdef-345678901234" />
+                </node>
+
+                <!-- 武师子职业3级进展：金钟罩 -->
+                <node id="Progression">
+                    <!-- 3级获得金钟罩技能 -->
+                    <attribute id="Level" type="uint8" value="3" />
+                    <attribute id="Name" type="LSString" value="WuShi" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(d4e5f6a7-b8c9-0123-def4-56789012345a,WuShi_JinZhongZhao,,,AlwaysPrepared)" />
+                    <attribute id="TableUUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567890" />
+                    <attribute id="UUID" type="guid" value="e5f6a7b8-c9d0-1234-ef56-789012345678" />
+                </node>
+
+                <!-- 武师子职业5级进展：铁布衫 -->
+                <node id="Progression">
+                    <!-- 5级获得铁布衫光环技能 -->
+                    <attribute id="Level" type="uint8" value="5" />
+                    <attribute id="Name" type="LSString" value="WuShi" />
+                    <attribute id="PassivesAdded" type="LSString" value="WuShi_TieBuShan" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567890" />
+                    <attribute id="UUID" type="guid" value="f6a7b8c9-d0e1-2345-f678-90123456789a" />
+                </node>
+
+                <!-- 武师子职业7级进展：金钟罩强化 -->
+                <node id="Progression">
+                    <!-- 7级金钟罩获得额外效果 -->
+                    <attribute id="Level" type="uint8" value="7" />
+                    <attribute id="Name" type="LSString" value="WuShi" />
+                    <attribute id="PassivesAdded" type="LSString" value="WuShi_JinZhongZhao_Enhanced" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567890" />
+                    <attribute id="UUID" type="guid" value="a7b8c9d0-e1f2-3456-a789-0123456789bc" />
+                </node>
+
+                <!-- 武师子职业10级进展：金刚不坏神功 -->
+                <node id="Progression">
+                    <!-- 10级获得金刚不坏神功反应技能 -->
+                    <attribute id="Level" type="uint8" value="10" />
+                    <attribute id="Name" type="LSString" value="WuShi" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(b8c9d0e1-f2a3-4567-b890-123456789cde,WuShi_JinGangBuHuai,,,AlwaysPrepared)" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567890" />
+                    <attribute id="UUID" type="guid" value="c9d0e1f2-a3b4-5678-c901-23456789def0" />
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

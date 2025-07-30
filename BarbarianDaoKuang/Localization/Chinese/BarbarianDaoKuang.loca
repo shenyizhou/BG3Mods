@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <!-- 子职业名称和描述 -->
+  <content contentuid="h12345678g1234g5678g9abcg123456789abc" version="1">刀狂子职业描述：专注于血腥战斗和火焰伤害的极限战斗风格，通过消耗生命值获得强大的战斗能力。</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789abd" version="1">刀狂</content>
+  
+  <!-- 饮血技能 -->
+  <content contentuid="h12345678g1234g5678g9abcg123456789acc" version="1">饮血</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789acd" version="1">狂暴期间可使用，消耗自身50%的生命值获得强力的吸血能力。生命值越低，吸血能力越强。每次造成伤害会获得一层怒火（近战伤害获得+1加值，最多7层），并获得加速状态，持续到狂暴结束。</content>
+  
+  <!-- 血饮狂刀技能 -->
+  <content contentuid="h12345678g1234g5678g9abcg123456789ace" version="1">血饮狂刀</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789acf" version="1">必须装备刀类武器（弯刀、匕首、短刀）才可以使用。用附赠动作对敌人造成一次攻击伤害，同时让对方进入燃烧状态。</content>
+  
+  <!-- 饮血状态 -->
+  <content contentuid="h12345678g1234g5678g9abcg123456789ad4" version="1">饮血</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789ad5" version="1">获得强力的吸血能力，生命值越低吸血能力越强。移动速度提升1.5米，体质豁免检定获得优势。</content>
+  
+  <!-- 怒火层数状态 -->
+  <content contentuid="h12345678g1234g5678g9abcg123456789ad6" version="1">怒火</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789ad7" version="1">近战武器攻击和伤害骰获得+1加值。最多可叠加7层。</content>
+  
+  <!-- 烈焰刀诀状态 -->
+  <content contentuid="h12345678g1234g5678g9abcg123456789ad8" version="1">烈焰刀诀</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789ad9" version="1">攻击附带1d8火焰伤害。生命值小于等于50%时额外附带1d8火焰伤害。</content>
+  
+  <!-- 焚心魔功状态 -->
+  <content contentuid="h12345678g1234g5678g9abcg123456789ada" version="1">焚心魔功</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789adb" version="1">自身有燃烧时移动速度提升1.5米。对有燃烧状态的敌人攻击时暴击骰-1，生命值小于等于50%时额外-1。</content>
+  
+  <!-- 血海刀魂状态 -->
+  <content contentuid="h12345678g1234g5678g9abcg123456789adc" version="1">血海刀魂</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789add" version="1">暴击能继续触发一次攻击。暴击或击杀敌人恢复满所有移动速度。</content>
+  
+  <!-- 火焰地形状态 -->
+  <content contentuid="h12345678g1234g5678g9abcg123456789ade" version="1">火焰地形</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789adf" version="1">攻击时让攻击目标的地面变成火焰地形。</content>
+  
+  <!-- 被动能力 -->
+  <content contentuid="h12345678g1234g5678g9abcg123456789ae0" version="1">饮血能力</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789ae1" version="1">解锁饮血技能。狂暴期间可使用，消耗自身50%的生命值获得强力的吸血能力。</content>
+  
+  <content contentuid="h12345678g1234g5678g9abcg123456789ae2" version="1">血饮狂刀能力</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789ae3" version="1">解锁血饮狂刀技能。必须装备刀类武器才可使用，用附赠动作攻击并造成燃烧。</content>
+  
+  <content contentuid="h12345678g1234g5678g9abcg123456789ae4" version="1">烈焰刀诀</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789ae5" version="1">攻击附带1d8火焰伤害，生命值≤50%时额外附带1d8火焰伤害。攻击时创造火焰地形。</content>
+  
+  <content contentuid="h12345678g1234g5678g9abcg123456789ae6" version="1">焚心魔功</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789ae7" version="1">自身有燃烧时攻击获得亢奋（移动速度+1.5米）。对燃烧敌人攻击时暴击骰-1，低血量时额外-1。</content>
+  
+  <content contentuid="h12345678g1234g5678g9abcg123456789ae8" version="1">血海刀魂</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789ae9" version="1">暴击能继续触发一次攻击。暴击或击杀敌人恢复满所有移动速度。</content>
+  
+  <content contentuid="h12345678g1234g5678g9abcg123456789aea" version="1">怒火叠加</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789aeb" version="1">饮血状态下，每次造成近战伤害获得一层怒火（近战攻击和伤害+1，最多7层）。</content>
+  
+  <!-- 额外技能 -->
+  <content contentuid="h12345678g1234g5678g9abcg123456789aec" version="1">连击攻击</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789aed" version="1">暴击触发的额外攻击，造成武器伤害。</content>
+  
+  <content contentuid="h12345678g1234g5678g9abcg123456789aee" version="1">吸血攻击</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789aef" version="1">饮血状态下的攻击，造成武器伤害并恢复生命值。生命值越低，恢复量越多。</content>
+  
+  <content contentuid="h12345678g1234g5678g9abcg123456789af2" version="1">移动恢复</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789af3" version="1">暴击或击杀敌人后恢复满所有移动速度。</content>
+</contentList>

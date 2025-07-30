@@ -6,18 +6,26 @@ This mod adds a brand new subclass to the Fighter class in Baldur's Gate 3: **Wu
 
 ## Class Features
 
+### 2nd Level - Tactical Mind (战术思维)
+- **Effect**: When an ability check fails, you can consume a Second Wind use to roll 1d10 and add it to retry
+- **Description**: Apply tactical thinking on and off the battlefield, failed attempts don't consume Second Wind
+
 ### 3rd Level - Vajra Divine Power (大金刚神力)
 - **Effect**: Weapon attacks, unarmed attacks, ranged unarmed attacks, and force damage gain additional damage equal to your Strength modifier
 - **Description**: Channel internal energy to enhance attack power, making every strike contain powerful inner force
 
-### 5th Level - Eagle Eye (鹰眼)
+### 5th Level - Tactical Shift (战术转进)
+- **Effect**: Whenever you use a bonus action to regain Second Wind, you can move up to half your speed without provoking opportunity attacks
+- **Description**: Perform tactical movement while recovering, demonstrating martial arts agility and lightness skills
+
+### 7th Level - Eagle Eye (鹰眼)
 - **Effects**:
   - Gain 60 feet Darkvision
   - Immunity to Blinded condition
-  - Ranged weapon range increased by 50%
-- **Description**: Possess keen vision and perception abilities, sharp as an eagle's eye
+  - Increase ranged weapon range by 5 feet
+- **Description**: Possess keen vision and perception abilities, able to see clearly in darkness
 
-### 7th Level - Six Meridians Divine Sword (六脉神剑)
+### 10th Level - Six Meridians Divine Sword (六脉神剑)
 - **Effect**: Unlock the legendary Six Meridians Divine Sword skill combination
 - **Individual Sword Techniques**:
   - **Shaoshang Sword (少商剑)**: Sharp sword qi, deals 2d20 force damage, **Bonus Action**

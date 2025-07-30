@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+    <!-- WuShi Subclass Basic Information -->
+    <content contentuid="h1a2b3c4d5e6f789g0123g4567g8901g234567890123" version="1">WuShi is a cleric subclass specialized in protection and survival. They master ancient martial protection arts, providing powerful protection for themselves and allies, demonstrating unyielding fighting spirit in the most critical moments.</content>
+    <content contentuid="h2b3c4d5e6f7g8901g2345g6789g0123g456789012345" version="1">WuShi</content>
+    <content contentuid="h3c4d5e6f7g8901g2345g6789g0123g4567g890123456" version="1">WuShi</content>
+    
+    <!-- Golden Bell Shield Spell -->
+    <content contentuid="h4d5e6f7a8b9c012g3456g7890g1234g567890123456" version="1">Golden Bell Shield</content>
+    <content contentuid="h5e6f7a8b9c0d123g4567g8901g2345g678901234567" version="1">Apply Golden Bell Shield protection to allies in a large area around yourself (including yourself), granting resistance to all damage types. This ancient protective spell creates an invisible barrier that significantly reduces incoming damage.</content>
+    
+    <!-- Golden Bell Shield Status Effect -->
+    <content contentuid="h6f7a8b9c0d1e234g5678g9012g3456g789012345678" version="1">Golden Bell Shield</content>
+    <content contentuid="h7a8b9c0d1e2f345g6789g0123g4567g890123456789" version="1">Protected by Golden Bell Shield, has resistance to all damage types, reducing damage by half.</content>
+    
+    <!-- Iron Cloth Shirt Passive -->
+    <content contentuid="h8b9c0d1e2f3a456g7890g1234g5678g901234567890" version="1">Iron Cloth Shirt</content>
+    <content contentuid="h9c0d1e2f3a4b567g8901g2345g6789g012345678901" version="1">A protective aura that requires no concentration. Grants resistance to bludgeoning, slashing, piercing, and force damage. Immune to all instant death effects. When taking damage that would be fatal, automatically retain 1 hit point (effect ends after triggering).</content>
+    
+    <!-- Iron Cloth Shirt Active Status -->
+    <content contentuid="h0d1e2f3a4b5c678g9012g3456g7890g123456789012" version="1">Iron Cloth Shirt</content>
+    <content contentuid="h1e2f3a4b5c6d789g0123g4567g8901g234567890123" version="1">Iron Cloth Shirt protection is active. Has resistance to physical and force damage, immune to incapacitation and prone effects.</content>
+    
+    <!-- Iron Cloth Shirt Death Save Effect -->
+    <content contentuid="h2f3a4b5c6d7e890g1234g5678g9012g345678901234" version="1">Death Protection</content>
+    <content contentuid="h3a4b5c6d7e8f901g2345g6789g0123g456789012345" version="1">Iron Cloth Shirt's death protection has triggered, hit points maintained at 1. Iron Cloth Shirt protection has ended.</content>
+    
+    <!-- Golden Bell Shield Enhanced Passive -->
+    <content contentuid="h4b5c6d7e8f9a012g3456g7890g1234g567890123456" version="1">Enhanced Golden Bell Shield</content>
+    <content contentuid="h5c6d7e8f9a0b123g4567g8901g2345g678901234567" version="1">Golden Bell Shield gains enhanced effects. Maximum hit points increased by 2d10, restore 2d10 hit points at the start of each turn.</content>
+    
+    <!-- Vajra Indestructible Divine Art Spell -->
+    <content contentuid="h6d7e8f9a0b1c234g5678g9012g3456g789012345678" version="1">Vajra Indestructible Divine Art</content>
+    <content contentuid="h7e8f9a0b1c2d345g6789g0123g4567g890123456789" version="1">When hit points are below 50%, can be used as a reaction. Immediately restore all hit points to maximum, attacks and force damage gain Constitution modifier bonus. Cannot cast or concentrate on spells during this time. Gain exhaustion when the effect ends. Can only be used once per short rest.</content>
+    
+    <!-- Vajra Indestructible Divine Art Status Effect -->
+    <content contentuid="h8f9a0b1c2d3e456g7890g1234g5678g901234567890" version="1">Vajra Indestructible Divine Art</content>
+    <content contentuid="h9a0b1c2d3e4f567g8901g2345g6789g012345678901" version="1">Vajra Indestructible Divine Art is active. Attacks and force damage gain Constitution modifier bonus, but cannot cast or concentrate on spells. Will gain exhaustion when the effect ends.</content>
+    
+    <!-- Progression Descriptions -->
+    <content contentuid="hd0e1f2a3b4c5d678g9012g3456g7890g123456789012" version="1">At 3rd level, WuShi gains the Golden Bell Shield ability, providing powerful protection to allies in a large area with resistance to all damage types.</content>
+    <content contentuid="he1f2a3b4c5d6e789g0123g4567g8901g234567890123" version="1">WuShi Feature: Golden Bell Shield</content>
+    
+    <content contentuid="hf2a3b4c5d6e7f890g1234g5678g9012g345678901234" version="1">At 5th level, WuShi gains the Iron Cloth Shirt passive ability, a protective aura that requires no concentration, providing physical damage reduction and death protection.</content>
+    <content contentuid="ha3b4c5d6e7f8a901g2345g6789g0123g456789012345" version="1">WuShi Feature: Iron Cloth Shirt</content>
+    
+    <content contentuid="hb4c5d6e7f8a9b012g3456g7890g1234g567890123456" version="1">At 7th level, Golden Bell Shield gains enhanced effects, increasing maximum hit points and providing continuous health regeneration.</content>
+    <content contentuid="hc5d6e7f8a9b0c123g4567g8901g2345g678901234567" version="1">WuShi Feature: Enhanced Golden Bell Shield</content>
+    
+    <content contentuid="hd6e7f8a9b0c1d234g5678g9012g3456g789012345678" version="1">At 10th level, WuShi gains Vajra Indestructible Divine Art, a powerful reaction ability that can fully restore health and enhance combat capabilities in critical moments.</content>
+    <content contentuid="he7f8a9b0c1d2e345g6789g0123g4567g890123456789" version="1">WuShi Feature: Vajra Indestructible Divine Art</content>
+</contentList>

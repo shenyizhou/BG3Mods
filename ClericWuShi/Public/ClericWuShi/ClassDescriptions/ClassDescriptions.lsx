@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="ClassDescriptions">
+        <node id="root">
+            <children>
+                <node id="ClassDescription">
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="Description" type="TranslatedString" handle="h1a2b3c4d5e6f789g0123g4567g8901g234567890123" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2b3c4d5e6f7g8901g2345g6789g0123g456789012345" version="1"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="WuShi"/>
+                    <attribute id="ParentGuid" type="guid" value="114e7aee-d1d4-4371-8d90-8a2080592faf"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="2"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567890"/>
+                    <attribute id="ShortName" type="TranslatedString" handle="h3c4d5e6f7g8901g2345g6789g0123g4567g890123456" version="1"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Cleric"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="2"/>
+                    <attribute id="SpellList" type="guid" value="33dd3006-b886-40dc-be16-8a128ae6a0d1"/>
+                    <attribute id="UUID" type="guid" value="b2c3d4e5-f6a7-8901-bcde-f23456789012"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <!-- Subclass name and description -->
+  <content contentuid="h12345678g1234g5678g9abcg123456789abc" version="1">DaoKuang Subclass Description: Focuses on bloody combat and fire damage with extreme fighting style, gaining powerful combat abilities by consuming health.</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789abd" version="1">DaoKuang</content>
+  
+  <!-- Blood Drinking spell -->
+  <content contentuid="h12345678g1234g5678g9abcg123456789acc" version="1">Blood Drinking</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789acd" version="1">Can be used during rage. Consume 50% of your current health to gain powerful vampiric abilities. The lower your health, the stronger the vampiric effect. Each damage dealt grants one stack of Fury (melee damage +1, max 7 stacks) and grants Haste status until rage ends.</content>
+  
+  <!-- Blood Mad Blade spell -->
+  <content contentuid="h12345678g1234g5678g9abcg123456789ace" version="1">Blood Mad Blade</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789acf" version="1">Must be equipped with blade weapons (Scimitar, Dagger, Shortsword) to use. Use a bonus action to make one weapon attack against an enemy and inflict Burning status.</content>
+  
+  <!-- Blood Drinking status -->
+  <content contentuid="h12345678g1234g5678g9abcg123456789ad4" version="1">Blood Drinking</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789ad5" version="1">Gain powerful vampiric abilities, stronger when health is lower. Movement speed increased by 1.5m, advantage on Constitution saving throws.</content>
+  
+  <!-- Fury Stack status -->
+  <content contentuid="h12345678g1234g5678g9abcg123456789ad6" version="1">Fury</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789ad7" version="1">Melee weapon attack and damage rolls gain +1 bonus. Can stack up to 7 times.</content>
+  
+  <!-- Blazing Blade Art status -->
+  <content contentuid="h12345678g1234g5678g9abcg123456789ad8" version="1">Blazing Blade Art</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789ad9" version="1">Attacks deal additional 1d8 fire damage. When health ≤50%, deal an additional 1d8 fire damage.</content>
+  
+  <!-- Burning Heart Demonic Art status -->
+  <content contentuid="h12345678g1234g5678g9abcg123456789ada" version="1">Burning Heart Demonic Art</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789adb" version="1">When burning, movement speed increased by 1.5m. Critical hit dice -1 when attacking burning enemies, additional -1 when health ≤50%.</content>
+  
+  <!-- Blood Sea Blade Soul status -->
+  <content contentuid="h12345678g1234g5678g9abcg123456789adc" version="1">Blood Sea Blade Soul</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789add" version="1">Critical hits can trigger an additional attack. Critical hits or kills restore all movement speed.</content>
+  
+  <!-- Flame Ground status -->
+  <content contentuid="h12345678g1234g5678g9abcg123456789ade" version="1">Flame Ground</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789adf" version="1">Attacks create fire terrain at the target's location.</content>
+  
+  <!-- Passive abilities -->
+  <content contentuid="h12345678g1234g5678g9abcg123456789ae0" version="1">Blood Drinking Ability</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789ae1" version="1">Unlocks Blood Drinking spell. Can be used during rage, consume 50% health for powerful vampiric abilities.</content>
+  
+  <content contentuid="h12345678g1234g5678g9abcg123456789ae2" version="1">Blood Mad Blade Ability</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789ae3" version="1">Unlocks Blood Mad Blade spell. Must equip blade weapons to use, bonus action attack that inflicts burning.</content>
+  
+  <content contentuid="h12345678g1234g5678g9abcg123456789ae4" version="1">Blazing Blade Art</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789ae5" version="1">Attacks deal additional 1d8 fire damage, extra 1d8 when health ≤50%. Attacks create fire terrain.</content>
+  
+  <content contentuid="h12345678g1234g5678g9abcg123456789ae6" version="1">Burning Heart Demonic Art</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789ae7" version="1">When burning, attacks gain Exhilaration (+1.5m movement). Critical dice -1 vs burning enemies, additional -1 when low health.</content>
+  
+  <content contentuid="h12345678g1234g5678g9abcg123456789ae8" version="1">Blood Sea Blade Soul</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789ae9" version="1">Critical hits can trigger additional attacks. Critical hits or kills restore all movement speed.</content>
+  
+  <content contentuid="h12345678g1234g5678g9abcg123456789aea" version="1">Fury Stacking</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789aeb" version="1">While Blood Drinking is active, each melee damage dealt grants one Fury stack (melee attack and damage +1, max 7 stacks).</content>
+  
+  <!-- Extra Skills -->
+  <content contentuid="h12345678g1234g5678g9abcg123456789aec" version="1">Combo Attack</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789aed" version="1">Additional attack triggered by critical hits, dealing weapon damage.</content>
+  
+  <content contentuid="h12345678g1234g5678g9abcg123456789aee" version="1">Vampiric Attack</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789aef" version="1">Attack while Blood Drinking is active, deals weapon damage and restores health. Lower health provides more healing.</content>
+  
+  <content contentuid="h12345678g1234g5678g9abcg123456789af2" version="1">Movement Restore</content>
+  <content contentuid="h12345678g1234g5678g9abcg123456789af3" version="1">Restore all movement speed after critical hits or kills.</content>
+</contentList>

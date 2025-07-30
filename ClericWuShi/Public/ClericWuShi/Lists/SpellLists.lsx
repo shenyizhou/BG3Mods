@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <!-- 武师金钟罩法术列表 -->
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="WuShi Golden Bell Shield Spell"/>
+                    <attribute id="Spells" type="LSString" value="WuShi_JinZhongZhao"/>
+                    <attribute id="UUID" type="guid" value="d4e5f6a7-b8c9-0123-def4-56789012345a"/>
+                </node>
+                
+                <!-- 武师金刚不坏神功法术列表 -->
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="WuShi Vajra Indestructible Divine Art Spell"/>
+                    <attribute id="Spells" type="LSString" value="WuShi_JinGangBuHuai"/>
+                    <attribute id="UUID" type="guid" value="b8c9d0e1-f2a3-4567-b890-123456789cde"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

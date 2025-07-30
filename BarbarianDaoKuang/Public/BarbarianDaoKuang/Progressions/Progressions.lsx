@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="331"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <!-- 刀狂子职业主进阶 -->
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="DaoKuang"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="12345678-1234-5678-9abc-123456789abe"/>
+                    <attribute id="UUID" type="guid" value="12345678-1234-5678-9abc-123456789ac0"/>
+                    <children>
+                        <node id="SubClasses">
+                            <children>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="12345678-1234-5678-9abc-123456789abf"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+                
+                <!-- 3级特性：饮血和血饮狂刀 -->
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="DaoKuang_Level3"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="12345678-1234-5678-9abc-123456789abe"/>
+                    <attribute id="UUID" type="guid" value="12345678-1234-5678-9abc-123456789ac1"/>
+                    <children>
+                        <node id="PassivesAdded">
+                            <children>
+                                <node id="Passive">
+                                    <attribute id="Object" type="guid" value="12345678-1234-5678-9abc-123456789ac2"/>
+                                </node>
+                                <node id="Passive">
+                                    <attribute id="Object" type="guid" value="12345678-1234-5678-9abc-123456789ac3"/>
+                                </node>
+                            </children>
+                        </node>
+                        <node id="Spells">
+                            <children>
+                                <node id="Spell">
+                                    <attribute id="Object" type="guid" value="12345678-1234-5678-9abc-123456789ac4"/>
+                                </node>
+                                <node id="Spell">
+                                    <attribute id="Object" type="guid" value="12345678-1234-5678-9abc-123456789ac5"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+                
+                <!-- 8级特性：火焰之怒 -->
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="Name" type="LSString" value="DaoKuang_Level8"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="12345678-1234-5678-9abc-123456789abe"/>
+                    <attribute id="UUID" type="guid" value="12345678-1234-5678-9abc-123456789ac6"/>
+                    <children>
+                        <node id="PassivesAdded">
+                            <children>
+                                <node id="Passive">
+                                    <attribute id="Object" type="guid" value="12345678-1234-5678-9abc-123456789ac7"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+                
+                <!-- 10级特性：燃烧狂热 -->
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="Name" type="LSString" value="DaoKuang_Level10"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="12345678-1234-5678-9abc-123456789abe"/>
+                    <attribute id="UUID" type="guid" value="12345678-1234-5678-9abc-123456789ac8"/>
+                    <children>
+                        <node id="PassivesAdded">
+                            <children>
+                                <node id="Passive">
+                                    <attribute id="Object" type="guid" value="12345678-1234-5678-9abc-123456789ac9"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+                
+                <!-- 14级特性：无尽杀戮 -->
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="14"/>
+                    <attribute id="Name" type="LSString" value="DaoKuang_Level14"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="12345678-1234-5678-9abc-123456789abe"/>
+                    <attribute id="UUID" type="guid" value="12345678-1234-5678-9abc-123456789aca"/>
+                    <children>
+                        <node id="PassivesAdded">
+                            <children>
+                                <node id="Passive">
+                                    <attribute id="Object" type="guid" value="12345678-1234-5678-9abc-123456789acb"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

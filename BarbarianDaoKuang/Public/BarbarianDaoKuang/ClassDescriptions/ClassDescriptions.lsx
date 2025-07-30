@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="331"/>
+    <region id="ClassDescriptions">
+        <node id="root">
+            <children>
+                <node id="ClassDescription">
+                    <attribute id="BaseHp" type="int32" value="12"/>
+                    <attribute id="CanLearnSpells" type="bool" value="False"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_Barbarian"/>
+                    <attribute id="Description" type="TranslatedString" handle="h12345678g1234g5678g9abcg123456789abc" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h12345678g1234g5678g9abcg123456789abd" version="1"/>
+                    <attribute id="HpPerLevel" type="int32" value="7"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="False"/>
+                    <attribute id="Name" type="FixedString" value="DaoKuang"/>
+                    <attribute id="ParentGuid" type="guid" value="d8cadb42-0ff9-4049-b17a-3f9ad0c0bf26"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="1"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="12345678-1234-5678-9abc-123456789abe"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Barbarian"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="0"/>
+                    <attribute id="UUID" type="guid" value="12345678-1234-5678-9abc-123456789abf"/>
+                    <children>
+                        <node id="Tags">
+                            <children>
+                                <node id="Tag">
+                                    <attribute id="Object" type="guid" value="34c2d4c4-5c01-4dca-9f8e-8c9e6b7a8f9d"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
