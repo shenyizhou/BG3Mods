@@ -7,7 +7,7 @@
     
     <!-- Golden Bell Shield Spell -->
     <content contentuid="h4d5e6f7a8b9c012g3456g7890g1234g567890123456" version="1">Golden Bell Shield</content>
-    <content contentuid="h5e6f7a8b9c0d123g4567g8901g2345g678901234567" version="1">Apply Golden Bell Shield protection to allies in a large area around yourself (including yourself), granting resistance to all damage types. This ancient protective spell creates an invisible barrier that significantly reduces incoming damage.</content>
+    <content contentuid="h5e6f7a8b9c0d123g4567g8901g2345g678901234567" version="1">2nd level spell. Apply Golden Bell Shield protection to allies in a large area around yourself (including yourself), granting resistance to all damage types. This ancient protective spell creates an invisible barrier that significantly reduces incoming damage.</content>
     
     <!-- Golden Bell Shield Status Effect -->
     <content contentuid="h6f7a8b9c0d1e234g5678g9012g3456g789012345678" version="1">Golden Bell Shield</content>
@@ -19,7 +19,7 @@
     
     <!-- Iron Cloth Shirt Active Status -->
     <content contentuid="h0d1e2f3a4b5c678g9012g3456g7890g123456789012" version="1">Iron Cloth Shirt</content>
-    <content contentuid="h1e2f3a4b5c6d789g0123g4567g8901g234567890123" version="1">Iron Cloth Shirt protection is active. Has resistance to physical and force damage, immune to incapacitation and prone effects.</content>
+    <content contentuid="h1e2f3a4b5c6d789g0123g4567g8901g234567890123" version="1">3rd level spell. Provides powerful protection for all friendly units in range, granting resistance to physical damage. Lasts 10 minutes.</content>
     
     <!-- Iron Cloth Shirt Death Save Effect -->
     <content contentuid="h2f3a4b5c6d7e890g1234g5678g9012g345678901234" version="1">Death Protection</content>
@@ -38,15 +38,31 @@
     <content contentuid="h9a0b1c2d3e4f567g8901g2345g6789g012345678901" version="1">Vajra Indestructible Divine Art is active. Attacks and force damage gain Constitution modifier bonus, but cannot cast or concentrate on spells. Will gain exhaustion when the effect ends.</content>
     
     <!-- Progression Descriptions -->
-    <content contentuid="hd0e1f2a3b4c5d678g9012g3456g7890g123456789012" version="1">At 3rd level, WuShi gains the Golden Bell Shield ability, providing powerful protection to allies in a large area with resistance to all damage types.</content>
+    <content contentuid="hd0e1f2a3b4c5d678g9012g3456g7890g123456789012" version="1">At 3rd level, WuShi gains the Golden Bell Shield ability (2nd level spell), providing powerful protection to allies in a large area with resistance to all damage types.</content>
     <content contentuid="he1f2a3b4c5d6e789g0123g4567g8901g234567890123" version="1">WuShi Feature: Golden Bell Shield</content>
     
-    <content contentuid="hf2a3b4c5d6e7f890g1234g5678g9012g345678901234" version="1">At 5th level, WuShi gains the Iron Cloth Shirt passive ability, a protective aura that requires no concentration, providing physical damage reduction and death protection.</content>
+    <content contentuid="hf2a3b4c5d6e7f890g1234g5678g9012g345678901234" version="1">At 5th level, WuShi gains the Iron Cloth Shirt ability (3rd level spell), a range protection spell that provides physical damage reduction for allies.</content>
     <content contentuid="ha3b4c5d6e7f8a901g2345g6789g0123g456789012345" version="1">WuShi Feature: Iron Cloth Shirt</content>
     
-    <content contentuid="hb4c5d6e7f8a9b012g3456g7890g1234g567890123456" version="1">At 7th level, Golden Bell Shield gains enhanced effects, increasing maximum hit points and providing continuous health regeneration.</content>
-    <content contentuid="hc5d6e7f8a9b0c123g4567g8901g2345g678901234567" version="1">WuShi Feature: Enhanced Golden Bell Shield</content>
+    <content contentuid="hb4c5d6e7f8a9b012g3456g7890g1234g567890123456" version="1">At 7th level, WuShi masters the Vajra Indestructible Divine Art (4th level spell), capable of casting an enhanced version of Golden Bell Shield over a large area for allies, providing not only resistance to all damage but also increasing maximum hit points and continuous health regeneration.</content>
+    <content contentuid="hc5d6e7f8a9b0c123g4567g8901g2345g678901234567" version="1">WuShi Feature: Vajra Indestructible Divine Art</content>
     
-    <content contentuid="hd6e7f8a9b0c1d234g5678g9012g3456g789012345678" version="1">At 10th level, WuShi gains Vajra Indestructible Divine Art, a powerful reaction ability that can fully restore health and enhance combat capabilities in critical moments.</content>
-    <content contentuid="he7f8a9b0c1d2e345g6789g0123g4567g890123456789" version="1">WuShi Feature: Vajra Indestructible Divine Art</content>
+    <!-- Vajra Indestructible Divine Art Spell -->
+    <content contentuid="h4b5c6d7e8f9a012g3456g7890g1234g567890123456" version="1">Vajra Indestructible Divine Art</content>
+    <content contentuid="h5c6d7e8f9a0b123g4567g8901g2345g678901234567" version="1">4th level spell. The supreme protective art of WuShi. Cast an enhanced Golden Bell Shield over a large area for all allies, granting resistance to all damage types, increasing maximum hit points by 2d10, and restoring 2d10 hit points at the start of each turn. Lasts 10 minutes.</content>
+    
+    <!-- Immortal Golden Body Spell -->
+    <content contentuid="hd6e7f8a9b0c1d234g5678g9012g3456g789012345678" version="1">Immortal Golden Body</content>
+    <content contentuid="he7f8a9b0c1d2e345g6789g0123g4567g890123456789" version="1">5th level spell. Activated when hit points are below 50%, provides damage bonus and status immunity. Also provides a death protection aura for all allies within 9 meters. Applies exhaustion when the effect ends.</content>
+    
+    <!-- Immortal Golden Body Status Effect -->
+    <content contentuid="ha1b2c3d4e5f6789g0123g4567g8901g234567890123" version="1">Immortal Golden Body</content>
+    <content contentuid="hb2c3d4e5f6a7890g1234g5678g9012g345678901234" version="1">Immortal Golden Body is active. Attacks and force damage gain Constitution modifier bonus, cannot cast or concentrate on spells. Provides death protection aura for nearby allies. Will gain exhaustion when the effect ends.</content>
+    
+    <!-- Immortal Golden Body Death Save Effect -->
+    <content contentuid="hc3d4e5f6a7b8c901g2345g6789g0123g456789012345" version="1">Immortal Golden Body Protection</content>
+    <content contentuid="hd4e5f6a7b8c9d012g3456g7890g1234g567890123456" version="1">Protected by Immortal Golden Body aura. When taking damage that would be fatal, hit points are maintained at 1.</content>
+    
+    <content contentuid="hf8a9b0c1d2e3f456g7890g1234g5678g901234567890" version="1">At 10th level, WuShi gains Immortal Golden Body (5th level spell), a powerful reaction ability that can fully restore health and enhance combat capabilities in critical moments, while providing death protection aura for nearby allies.</content>
+    <content contentuid="ha9b0c1d2e3f4a567g8901g2345g6789g012345678901" version="1">WuShi Feature: Immortal Golden Body</content>
 </contentList>

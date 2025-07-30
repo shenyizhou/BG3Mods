@@ -68,15 +68,22 @@ StatsFunctors: IF(Incoming_Damage_Would_Kill()):ApplyStatus(SELF,WuShi_TieBuShan
 - 应用防死状态: `MinimumHitPoints(1)`
 - 触发后移除铁布衫效果
 
-#### 金钟罩强化 (Enhanced Golden Bell Shield)
+#### 金刚不坏神功 (WuShi_JinGangBuHuai_New)
 ```
-type: PassiveData
-Boosts: IncreaseMaxHP(2d10)
-StatsFunctorContext: OnTurn
-StatsFunctors: IF(IsTurn()):Heal(2d10)
+SpellType: Target
+Level: 2
+TargetRadius: 9
+AreaRadius: 9
+UseCosts: ActionPoint:1;SpellSlot:2:1
+SpellSuccess: ApplyStatus(WuShi_JinGangBuHuai_Status,100,600)
 ```
 
-#### 金刚不坏神功 (Vajra Indestructible Divine Art)
+**状态效果**:
+- `Resistance(All,Resistant)` - 全伤害抗性
+- `IncreaseMaxHP(2d10)` - 最大生命值增加
+- `OnTurn: Heal(2d10)` - 每回合恢复生命值
+
+#### 不灭金身 (WuShi_BuMieJinShen)
 ```
 SpellType: Target
 Level: 5
@@ -84,7 +91,7 @@ TargetConditions: Self() and HPPercentageLT(50)
 UseCosts: ReactionActionPoint:1
 SpellFlags: IsReaction
 RechargeValues: ShortRest
-SpellSuccess: ApplyStatus(WuShi_JinGangBuHuai_Status,100,10);Heal(MaxHP())
+SpellSuccess: ApplyStatus(WuShi_BuMieJinShen_Status,100,10);Heal(MaxHP())
 ```
 
 **状态效果**:

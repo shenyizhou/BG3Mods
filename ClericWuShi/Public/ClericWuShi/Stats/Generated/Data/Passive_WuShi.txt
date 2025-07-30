@@ -1,24 +1,10 @@
 // 武师子职业被动技能定义文件
-// 包含铁布衫和金钟罩强化等被动技能的具体效果
 
-// 铁布衫被动技能
-new entry "WuShi_TieBuShan"
+// 五雷天心正法 - 7级被动技能
+new entry "WuShi_WuLeiTianXinZhengFa"
 type "PassiveData"
-data "DisplayName" "h8b9c0d1e2f3a456g7890g1234g5678g901234567890"
-data "Description" "h9c0d1e2f3a4b567g8901g2345g6789g012345678901"
-data "Icon" "PassiveFeature_Generic_Damage"
-data "Properties" "Highlighted;ForceShowInCC"
-data "Boosts" "Resistance(Piercing,Resistant);Resistance(Slashing,Resistant);Resistance(Bludgeoning,Resistant);Resistance(Force,Resistant);StatusImmunity(SG_Incapacitated);StatusImmunity(DOWNED)"
-data "StatsFunctorContext" "OnDamaged"
-data "StatsFunctors" "IF(Incoming_Damage_Would_Kill()):ApplyStatus(SELF,WuShi_TieBuShan_DeathSave,100,1)"
-
-// 金钟罩强化被动技能 - 7级
-new entry "WuShi_JinZhongZhao_Enhanced"
-type "PassiveData"
-data "DisplayName" "h4b5c6d7e8f9a012g3456g7890g1234g567890123456"
-data "Description" "h5c6d7e8f9a0b123g4567g8901g2345g678901234567"
-data "Icon" "PassiveFeature_Generic_Utility"
-data "Properties" "Highlighted;ForceShowInCC"
-data "Boosts" "IncreaseMaxHP(2d10)"
-data "StatsFunctorContext" "OnTurn"
-data "StatsFunctors" "IF(IsTurn()):Heal(2d10)"
+data "Icon" "GenericIcon_DamageType_Lightning"
+data "DisplayName" "h8222880eg02b6g4811gb8d0g05b39677e240;1"
+data "Description" "h6565d090ga0dag46e9gaf3bg41274d714f3f;1"
+data "Properties" "Highlighted"
+data "Boosts" "IgnoreResistance(Thunder,Immune);IgnoreResistance(Thunder,Resistant);IgnoreResistance(Lightning,Immune);IgnoreResistance(Lightning,Resistant);IgnoreResistance(Radiant,Immune);IgnoreResistance(Radiant,Resistant);UnlockSpell(Shout_WuShi_ShenXiaoLei)"

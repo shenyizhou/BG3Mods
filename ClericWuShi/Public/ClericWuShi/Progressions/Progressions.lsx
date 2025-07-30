@@ -46,66 +46,68 @@
                                 </node>
                                 <!-- 武师子职业 -->
                                 <node id="SubClass">
-                                    <attribute id="Object" type="guid" value="b2c3d4e5-f6a7-8901-bcde-f23456789012" />
+                                    <attribute id="Object" type="guid" value="7e9f1a2b-3c4d-5e6f-7890-123456789abc" />
                                 </node>
                             </children>
                         </node>
                     </children>
                 </node>
 
-                <!-- 武师子职业1级进展：基础防护能力 -->
+                <!-- 武师子职业1级进展：马步桩和护盾术 (武功领域法术) -->
                 <node id="Progression">
-                    <!-- 获得重甲熟练度和基础防护能力 -->
+                    <!-- 1级获得武功领域法术：马步桩、护盾术 -->
                     <attribute id="Boosts" type="LSString" value="Proficiency(HeavyArmor)" />
                     <attribute id="Level" type="uint8" value="1" />
                     <attribute id="Name" type="LSString" value="WuShi" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
-                    <attribute id="TableUUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567890" />
-                    <attribute id="UUID" type="guid" value="c3d4e5f6-a7b8-9012-cdef-345678901234" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(c2d3e4f5-a6b7-8901-cdef-234567890123,WuShi_MaBuZhuang;Shield,,,AlwaysPrepared)" />
+                    <attribute id="TableUUID" type="guid" value="8f3a2b1c-4d5e-6f78-9012-3456789abcde" />
+                    <attribute id="UUID" type="guid" value="c2d3e4f5-a6b7-8901-cdef-234567890123" />
                 </node>
 
-                <!-- 武师子职业3级进展：金钟罩 -->
+                <!-- 武师子职业3级进展：金钟罩和法术反制 (武功领域法术) -->
                 <node id="Progression">
-                    <!-- 3级获得金钟罩技能 -->
+                    <!-- 3级获得武功领域法术：金钟罩、法术反制 -->
                     <attribute id="Level" type="uint8" value="3" />
                     <attribute id="Name" type="LSString" value="WuShi" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
-                    <attribute id="Selectors" type="LSString" value="AddSpells(d4e5f6a7-b8c9-0123-def4-56789012345a,WuShi_JinZhongZhao,,,AlwaysPrepared)" />
-                    <attribute id="TableUUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567890" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(d4e5f6a7-b8c9-0123-def4-56789012345a,WuShi_JinZhongZhao;Counterspell,,,AlwaysPrepared)" />
+                    <attribute id="TableUUID" type="guid" value="8f3a2b1c-4d5e-6f78-9012-3456789abcde" />
                     <attribute id="UUID" type="guid" value="e5f6a7b8-c9d0-1234-ef56-789012345678" />
                 </node>
 
-                <!-- 武师子职业5级进展：铁布衫 -->
+                <!-- 武师子职业5级进展：铁布衫和召唤元素 (武功领域法术) -->
                 <node id="Progression">
-                    <!-- 5级获得铁布衫光环技能 -->
+                    <!-- 5级获得武功领域法术：铁布衫、召唤元素 -->
                     <attribute id="Level" type="uint8" value="5" />
                     <attribute id="Name" type="LSString" value="WuShi" />
-                    <attribute id="PassivesAdded" type="LSString" value="WuShi_TieBuShan" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
-                    <attribute id="TableUUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567890" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(f6a7b8c9-d0e1-2345-f678-90123456789a,WuShi_TieBuShan;ConjureElemental,,,AlwaysPrepared)" />
+                    <attribute id="TableUUID" type="guid" value="8f3a2b1c-4d5e-6f78-9012-3456789abcde" />
                     <attribute id="UUID" type="guid" value="f6a7b8c9-d0e1-2345-f678-90123456789a" />
                 </node>
 
-                <!-- 武师子职业7级进展：金钟罩强化 -->
+                <!-- 武师子职业7级进展：金刚不坏神功和五雷天心正法 -->
                 <node id="Progression">
-                    <!-- 7级金钟罩获得额外效果 -->
+                    <!-- 7级获得金刚不坏神功和五雷天心正法 -->
                     <attribute id="Level" type="uint8" value="7" />
                     <attribute id="Name" type="LSString" value="WuShi" />
-                    <attribute id="PassivesAdded" type="LSString" value="WuShi_JinZhongZhao_Enhanced" />
+                    <attribute id="PassivesAdded" type="LSString" value="WuShi_WuLeiTianXinZhengFa" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
-                    <attribute id="TableUUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567890" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(a7b8c9d0-e1f2-3456-a789-0123456789bc,WuShi_JinGangBuHuai,,,AlwaysPrepared)" />
+                    <attribute id="TableUUID" type="guid" value="8f3a2b1c-4d5e-6f78-9012-3456789abcde" />
                     <attribute id="UUID" type="guid" value="a7b8c9d0-e1f2-3456-a789-0123456789bc" />
                 </node>
 
-                <!-- 武师子职业10级进展：金刚不坏神功 -->
+                <!-- 武师子职业9级进展：不灭金身和链状闪电 (武功领域法术) -->
                 <node id="Progression">
-                    <!-- 10级获得金刚不坏神功反应技能 -->
-                    <attribute id="Level" type="uint8" value="10" />
+                    <!-- 9级获得武功领域法术：不灭金身、链状闪电 -->
+                    <attribute id="Level" type="uint8" value="9" />
                     <attribute id="Name" type="LSString" value="WuShi" />
-                    <attribute id="Selectors" type="LSString" value="AddSpells(b8c9d0e1-f2a3-4567-b890-123456789cde,WuShi_JinGangBuHuai,,,AlwaysPrepared)" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
-                    <attribute id="TableUUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567890" />
-                    <attribute id="UUID" type="guid" value="c9d0e1f2-a3b4-5678-c901-23456789def0" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(b8c9d0e1-f2a3-4567-b890-123456789cde,WuShi_BuMieJinShen;ChainLightning,,,AlwaysPrepared)" />
+                    <attribute id="TableUUID" type="guid" value="8f3a2b1c-4d5e-6f78-9012-3456789abcde" />
+                    <attribute id="UUID" type="guid" value="b8c9d0e1-f2a3-4567-b890-123456789cde" />
                 </node>
             </children>
         </node>
