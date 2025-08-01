@@ -6,33 +6,12 @@
 		3rd Level - &lt;LSTag Type="Passive" Tooltip="FeiYu_SuperiorityDice"&gt;FeiYu Dice&lt;/LSTag&gt;, learn FeiYu maneuvers
 		7th Level - &lt;LSTag Type="Passive" Tooltip="FeiYu_YingYan"&gt;Eagle Eye&lt;/LSTag&gt;, learn additional maneuvers
 		10th Level - FeiYu dice upgrade to d10, learn additional maneuvers
-		15th Level - &lt;LSTag Type="Passive" Tooltip="FeiYu_Mastery"&gt;FeiYu Mastery&lt;/LSTag&gt;
+		15th Level - &lt;LSTag Type="Passive" Tooltip="FeiYu_Mastery"&gt;Feather Roost&lt;/LSTag&gt;
 		18th Level - FeiYu dice upgrade to d12</content>
 
-	<!-- FeiYu Dice System -->
-	<content contentuid="feiyu_feiyudice_4" version="1">FeiYu Dice (4)</content>
-	<content contentuid="feiyu_feiyudice_4_desc" version="1">Master the essence of FeiYu maneuvers. Gain 4 FeiYu dice that can be used to execute FeiYu maneuvers. FeiYu dice are restored on a short rest.</content>
-
-	<content contentuid="feiyu_feiyudice_5" version="1">FeiYu Dice (5)</content>
-	<content contentuid="feiyu_feiyudice_5_desc" version="1">Your mastery of FeiYu maneuvers becomes more proficient. FeiYu dice increase to 5.</content>
-
-	<content contentuid="feiyu_feiyudice_6" version="1">FeiYu Dice (6)</content>
-	<content contentuid="feiyu_feiyudice_6_desc" version="1">Your mastery of FeiYu maneuvers becomes more exquisite. FeiYu dice increase to 6.</content>
-
-	<content contentuid="feiyu_feiyudice_7" version="1">FeiYu Dice (7)</content>
-	<content contentuid="feiyu_feiyudice_7_desc" version="1">Your mastery of FeiYu maneuvers approaches master level. FeiYu dice increase to 7.</content>
-
-	<content contentuid="feiyu_feiyudice_8" version="1">FeiYu Dice (8)</content>
-	<content contentuid="feiyu_feiyudice_8_desc" version="1">Your mastery of FeiYu maneuvers reaches the pinnacle. FeiYu dice increase to 8.</content>
-
-	<content contentuid="feiyu_feiyudice_d8" version="1">FeiYu Dice (d8)</content>
-	<content contentuid="feiyu_feiyudice_d8_desc" version="1">The basic form of FeiYu maneuvers. FeiYu dice are d8.</content>
-
-	<content contentuid="feiyu_feiyudice_d10" version="1">FeiYu Dice (d10)</content>
-	<content contentuid="feiyu_feiyudice_d10_desc" version="1">The essence of FeiYu maneuvers is enhanced. FeiYu dice upgrade to d10, becoming more powerful.</content>
-
-	<content contentuid="feiyu_feiyudice_d12" version="1">FeiYu Dice (d12)</content>
-	<content contentuid="feiyu_feiyudice_d12_desc" version="1">FeiYu maneuvers reach the pinnacle. FeiYu dice upgrade to d12, achieving ultimate power.</content>
+	<!-- FeiYu Dice -->
+	<content contentuid="feiyu_feiyudice" version="1">FeiYu Dice</content>
+	<content contentuid="feiyu_feiyudice_desc" version="1">Master the essence of FeiYu maneuvers. Gain FeiYu dice that can be used to execute FeiYu maneuvers. FeiYu dice are restored on a short rest.</content>
 
 	<!-- Eagle Eye -->
 	<content contentuid="feiyu_yingyan" version="1">Eagle Eye</content>
@@ -40,58 +19,29 @@
 		Tooltip="Darkvision"&gt;Darkvision&lt;/LSTag&gt;, immunity to &lt;LSTag Type="Status"
 		Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt; condition, and 50% increased range for ranged weapons.</content>
 
-	<!-- FeiYu Mastery -->
-	<content contentuid="feiyu_feiyumastery" version="1">FeiYu Mastery</content>
-	<content contentuid="feiyu_feiyumastery_desc" version="1">Your mastery of FeiYu maneuvers reaches perfection. Once per turn, you can use a FeiYu maneuver without expending a FeiYu die.</content>
-
 	<!-- Meteor Chain Feather Maneuvers -->
 	<content contentuid="feiyu_liuxinglianyu" version="1">Meteor Chain Feather</content>
-	<content contentuid="feiyu_liuxinglianyu_desc" version="1">Swift consecutive attacks like meteors. Make a weapon attack against the target, dealing weapon damage + FeiYu die damage, then make an additional attack against another nearby enemy.
-		Cost: 1 Action Point, 1 FeiYu Die</content>
-
-	<content contentuid="feiyu_liuxinglianyu_enhanced" version="1">Meteor Chain Feather (Enhanced)</content>
-	<content contentuid="feiyu_liuxinglianyu_enhanced_desc" version="1">Enhanced version of Meteor Chain Feather. After the weapon attack against the target, you can consecutively attack 2 additional enemies.
-		Cost: 1 Action Point, 1 FeiYu Die</content>
-
-	<content contentuid="feiyu_liuxinglianyu_master" version="1">Meteor Chain Feather (Master)</content>
-	<content contentuid="feiyu_liuxinglianyu_master_desc" version="1">Master version of Meteor Chain Feather. After the weapon attack against the target, you can consecutively attack 3 additional enemies.
-		Cost: 1 Action Point, 1 FeiYu Die</content>
-
-	<content contentuid="feiyu_liuxinglianyu_chain" version="1">Meteor Chain Feather·Chain</content>
-	<content contentuid="feiyu_liuxinglianyu_chain_desc" version="1">Chain attack effect of Meteor Chain Feather. Make an additional weapon attack against nearby enemies.</content>
+	<content contentuid="feiyu_liuxinglianyu_desc" version="1">Swift multi-target attacks like meteors. Attack up to 2 enemies simultaneously. Can target 3 enemies at 7th level, 4 enemies at 10th level, 5 enemies at 15th level, 6 enemies at 18th level.</content>
 
 	<!-- Wind Swept Feather Maneuvers -->
 	<content contentuid="feiyu_fengjuancanyu" version="1">Wind Swept Feather</content>
-	<content contentuid="feiyu_fengjuancanyu_desc" version="1">Area attack that sweeps like a gale. Make weapon attacks against all enemies within 3 meters, dealing weapon damage + FeiYu die damage.
-		Cost: 1 Action Point, 1 FeiYu Die</content>
-
-	<content contentuid="feiyu_fengjuancanyu_enhanced" version="1">Wind Swept Feather (Enhanced)</content>
-	<content contentuid="feiyu_fengjuancanyu_enhanced_desc" version="1">Enhanced version of Wind Swept Feather. Attack range expands to 4.5 meters.
-		Cost: 1 Action Point, 1 FeiYu Die</content>
-
-	<content contentuid="feiyu_fengjuancanyu_master" version="1">Wind Swept Feather (Master)</content>
-	<content contentuid="feiyu_fengjuancanyu_master_desc" version="1">Master version of Wind Swept Feather. Attack range expands to 6 meters.
-		Cost: 1 Action Point, 1 FeiYu Die</content>
+	<content contentuid="feiyu_fengjuancanyu_desc" version="1">Explosive attack that sweeps like a gale. Make a ranged weapon attack against the target, on hit creates an explosion at the target location, dealing physical damage to all enemies within range. Explosion radius grows with level: 4.5m at 3rd level, 6m at 7th level, 7.5m at 10th level, 9m at 15th level, 10.5m at 18th level.</content>
 
 	<!-- Startling Swan Feather Maneuvers -->
 	<content contentuid="feiyu_jinghongluanyu" version="1">Startling Swan Feather</content>
-	<content contentuid="feiyu_jinghongluanyu_desc" version="1">Elegant splitting attack like a startling swan. Make a weapon attack against the primary target, dealing weapon damage + FeiYu die damage, then deal half damage to 3 surrounding enemies.
-		Cost: 1 Action Point, 1 FeiYu Die</content>
+	<content contentuid="feiyu_jinghongluanyu_desc" version="1">Elegant ricochet attack like a startling swan. Attack primary target then ricochet to surrounding enemies. Initially ricochet to 3 enemies, 7/10/15/18th level can ricochet to 4/5/6/7 enemies respectively.</content>
 
-	<content contentuid="feiyu_jinghongluanyu_enhanced" version="1">Startling Swan Feather (Enhanced)</content>
-	<content contentuid="feiyu_jinghongluanyu_enhanced_desc" version="1">Enhanced version of Startling Swan Feather. Deal half damage to 5 surrounding enemies.
-		Cost: 1 Action Point, 1 FeiYu Die</content>
+	<content contentuid="feiyu_jinghongluanyu_ricochet" version="1">Startled Feather</content>
+	<content contentuid="feiyu_jinghongluanyu_ricochet_desc" version="1">Startled feather ricochet effect like a phantom flash. Deal half damage to enemies around the primary target.</content>
 
-	<content contentuid="feiyu_jinghongluanyu_master" version="1">Startling Swan Feather (Master)</content>
-	<content contentuid="feiyu_jinghongluanyu_master_desc" version="1">Master version of Startling Swan Feather. Deal half damage to 7 surrounding enemies.
-		Cost: 1 Action Point, 1 FeiYu Die</content>
+	<!-- Feather Roost -->
+	<content contentuid="feiyu_feiyumastery" version="1">Feather Roost</content>
+	<content contentuid="feiyu_feiyumastery_desc" version="1">Your FeiYu maneuvers have reached the roost realm, perfected through practice. At the start of each turn, if your FeiYu dice are not at maximum, restore 1 FeiYu die.</content>
 
-	<content contentuid="feiyu_jinghongluanyu_splash" version="1">Startling Swan Feather·Splash</content>
-	<content contentuid="feiyu_jinghongluanyu_splash_desc" version="1">Splash damage effect of Startling Swan Feather. Deal half weapon damage to surrounding enemies.</content>
+	<!-- FeiYu Dice Improvements -->
+	<content contentuid="feiyu_improveddice_d10" version="1">Improved FeiYu Dice</content>
+	<content contentuid="feiyu_improveddice_d10_desc" version="1">Your FeiYu techniques have become more refined. FeiYu dice are improved to [1].</content>
 
-	<content contentuid="feiyu_jinghongluanyu_splash_enhanced" version="1">Startling Swan Feather·Splash (Enhanced)</content>
-	<content contentuid="feiyu_jinghongluanyu_splash_enhanced_desc" version="1">Splash damage effect of enhanced Startling Swan Feather. Affects a larger area.</content>
-
-	<content contentuid="feiyu_jinghongluanyu_splash_master" version="1">Startling Swan Feather·Splash (Master)</content>
-	<content contentuid="feiyu_jinghongluanyu_splash_master_desc" version="1">Splash damage effect of master Startling Swan Feather. Affects the largest area.</content>
+	<content contentuid="feiyu_improveddice_d12" version="1">Mastered FeiYu Dice</content>
+	<content contentuid="feiyu_improveddice_d12_desc" version="1">Your FeiYu techniques have reached mastery. FeiYu dice are improved to [1].</content>
 </contentList>

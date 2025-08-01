@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="LevelMapValues">
+        <node id="root">
+            <children>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="1d8"/>
+                    <attribute id="Level2" type="LSString" value="1d8"/>
+                    <attribute id="Level3" type="LSString" value="1d8"/>
+                    <attribute id="Level4" type="LSString" value="1d8"/>
+                    <attribute id="Level5" type="LSString" value="1d8"/>
+                    <attribute id="Level6" type="LSString" value="1d8"/>
+                    <attribute id="Level7" type="LSString" value="1d8"/>
+                    <attribute id="Level8" type="LSString" value="1d8"/>
+                    <attribute id="Level9" type="LSString" value="1d8"/>
+                    <attribute id="Level10" type="LSString" value="1d10"/>
+                    <attribute id="Level11" type="LSString" value="1d10"/>
+                    <attribute id="Level12" type="LSString" value="1d10"/>
+                    <attribute id="Level13" type="LSString" value="1d10"/>
+                    <attribute id="Level14" type="LSString" value="1d10"/>
+                    <attribute id="Level15" type="LSString" value="1d10"/>
+                    <attribute id="Level16" type="LSString" value="1d10"/>
+                    <attribute id="Level17" type="LSString" value="1d10"/>
+                    <attribute id="Level18" type="LSString" value="1d12"/>
+                    <attribute id="Level19" type="LSString" value="1d12"/>
+                    <attribute id="Level20" type="LSString" value="1d12"/>
+                    <attribute id="Name" type="FixedString" value="FeiYuDie"/>
+                    <attribute id="PreferredClassUUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567890"/>
+                    <attribute id="UUID" type="guid" value="f1e2d3c4-b5a6-9780-1234-567890abcdef"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="2"/>
+                    <attribute id="Level2" type="LSString" value="2"/>
+                    <attribute id="Level3" type="LSString" value="2"/>
+                    <attribute id="Level4" type="LSString" value="2"/>
+                    <attribute id="Level5" type="LSString" value="2"/>
+                    <attribute id="Level6" type="LSString" value="2"/>
+                    <attribute id="Level7" type="LSString" value="3"/>
+                    <attribute id="Level8" type="LSString" value="3"/>
+                    <attribute id="Level9" type="LSString" value="3"/>
+                    <attribute id="Level10" type="LSString" value="4"/>
+                    <attribute id="Level11" type="LSString" value="4"/>
+                    <attribute id="Level12" type="LSString" value="4"/>
+                    <attribute id="Level13" type="LSString" value="4"/>
+                    <attribute id="Level14" type="LSString" value="4"/>
+                    <attribute id="Level15" type="LSString" value="5"/>
+                    <attribute id="Level16" type="LSString" value="5"/>
+                    <attribute id="Level17" type="LSString" value="5"/>
+                    <attribute id="Level18" type="LSString" value="6"/>
+                    <attribute id="Level19" type="LSString" value="6"/>
+                    <attribute id="Level20" type="LSString" value="6"/>
+                    <attribute id="Name" type="FixedString" value="FeiYuTargets_LiuXingLianYu"/>
+                    <attribute id="PreferredClassUUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567890"/>
+                    <attribute id="UUID" type="guid" value="a2b3c4d5-e6f7-8901-bcde-f12345678901"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="3"/>
+                    <attribute id="Level2" type="LSString" value="3"/>
+                    <attribute id="Level3" type="LSString" value="3"/>
+                    <attribute id="Level4" type="LSString" value="3"/>
+                    <attribute id="Level5" type="LSString" value="3"/>
+                    <attribute id="Level6" type="LSString" value="3"/>
+                    <attribute id="Level7" type="LSString" value="4"/>
+                    <attribute id="Level8" type="LSString" value="4"/>
+                    <attribute id="Level9" type="LSString" value="4"/>
+                    <attribute id="Level10" type="LSString" value="5"/>
+                    <attribute id="Level11" type="LSString" value="5"/>
+                    <attribute id="Level12" type="LSString" value="5"/>
+                    <attribute id="Level13" type="LSString" value="5"/>
+                    <attribute id="Level14" type="LSString" value="5"/>
+                    <attribute id="Level15" type="LSString" value="6"/>
+                    <attribute id="Level16" type="LSString" value="6"/>
+                    <attribute id="Level17" type="LSString" value="6"/>
+                    <attribute id="Level18" type="LSString" value="7"/>
+                    <attribute id="Level19" type="LSString" value="7"/>
+                    <attribute id="Level20" type="LSString" value="7"/>
+                    <attribute id="Name" type="FixedString" value="FeiYuTargets_JingHongLuanYu_Ricochet"/>
+                    <attribute id="PreferredClassUUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567890"/>
+                    <attribute id="UUID" type="guid" value="351d2897-00d8-4b4f-a506-98e8fdc76b5b"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="4.5"/>
+                    <attribute id="Level2" type="LSString" value="4.5"/>
+                    <attribute id="Level3" type="LSString" value="4.5"/>
+                    <attribute id="Level4" type="LSString" value="4.5"/>
+                    <attribute id="Level5" type="LSString" value="4.5"/>
+                    <attribute id="Level6" type="LSString" value="4.5"/>
+                    <attribute id="Level7" type="LSString" value="6"/>
+                    <attribute id="Level8" type="LSString" value="6"/>
+                    <attribute id="Level9" type="LSString" value="6"/>
+                    <attribute id="Level10" type="LSString" value="7.5"/>
+                    <attribute id="Level11" type="LSString" value="7.5"/>
+                    <attribute id="Level12" type="LSString" value="7.5"/>
+                    <attribute id="Level13" type="LSString" value="7.5"/>
+                    <attribute id="Level14" type="LSString" value="7.5"/>
+                    <attribute id="Level15" type="LSString" value="9"/>
+                    <attribute id="Level16" type="LSString" value="9"/>
+                    <attribute id="Level17" type="LSString" value="9"/>
+                    <attribute id="Level18" type="LSString" value="10.5"/>
+                    <attribute id="Level19" type="LSString" value="10.5"/>
+                    <attribute id="Level20" type="LSString" value="10.5"/>
+                    <attribute id="Name" type="FixedString" value="FeiYuAreaRadius_FengJuanCanYu"/>
+                    <attribute id="PreferredClassUUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567890"/>
+                    <attribute id="UUID" type="guid" value="090941bd-b580-4762-b53c-4fcf68ea4107"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
