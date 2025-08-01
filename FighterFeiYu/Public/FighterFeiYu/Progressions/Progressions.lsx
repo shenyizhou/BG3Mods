@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- FighterFeiYu 飞羽子职业进展配置文件 -->
+<!-- 定义战士职业的飞羽专精子职业的等级进展和能力获得 -->
+<save>
+    <!-- 文件格式版本信息 -->
+    <version major="4" minor="0" revision="9" build="328" />
+    <!-- 进展区域：包含所有职业和子职业的进展定义 -->
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <!-- 战士职业3级进展：子职业选择 -->
+                <node id="Progression">
+                    <!-- 是否允许改进：false表示不允许玩家自定义修改 -->
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <!-- 等级：3级时触发此进展 -->
+                    <attribute id="Level" type="uint8" value="3" />
+                    <!-- 职业名称：战士 -->
+                    <attribute id="Name" type="LSString" value="Fighter" />
+                    <!-- 进展类型：0表示主职业进展 -->
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <!-- 进展表UUID：关联到战士职业的进展表 -->
+                    <attribute id="TableUUID" type="guid"
+                        value="721dfac3-92d4-41f5-b773-b7072a86232f" />
+                    <!-- 此进展的唯一标识符 -->
+                    <attribute id="UUID" type="guid" value="a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6e" />
+                    <children>
+                        <!-- 子职业列表：定义战士可选择的子职业 -->
+                        <node id="SubClasses">
+                            <children>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid"
+                                        value="1be5aa5a-e221-4f0e-a1bf-be25f5d23224" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid"
+                                        value="e668c6f1-5149-4b10-ab7e-3637ed444066" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid"
+                                        value="b722614a-303f-411a-bb19-a1882ad1f4cc" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid"
+                                        value="0a01dc6b-ab1a-4c0e-8a5e-4787fe1f2caf" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid"
+                                        value="38ea7fea-c486-40e3-973b-b9bc633d4aaa" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid"
+                                        value="3449e88a-b378-40c2-b505-f8fe43d26c2d" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid"
+                                        value="b3c39e0a-aa51-416f-b2a2-c848d56f4890" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid"
+                                        value="d30f652e-a5ed-4d78-bc18-25290ceec524" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid"
+                                        value="2f5a4183-8885-49dc-a211-fa1c53bc1606" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid"
+                                        value="7f93e89c-fe4d-49a8-ad45-666071bd962f" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid"
+                                        value="59091945-177c-419d-a847-46901a8a8687" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid"
+                                        value="a1b2c3d4-e5f6-7890-abcd-ef1234567890" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+
+                <!-- 飞羽子职业3级进展：飞羽骰子和战技选择 -->
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="3" />
+                    <attribute id="Name" type="LSString" value="FeiYu" />
+                    <attribute id="PassivesAdded" type="LSString" value="FeiYu_FeiYuDice_4;FeiYu_FeiYuDice_d8" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(a1b2c3d4-e5f6-7890-abcd-ef1234567891,1,0,,,,AlwaysPrepared)" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567892" />
+                    <attribute id="UUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567893" />
+                </node>
+
+                <!-- 飞羽子职业7级进展：鹰眼+额外飞羽骰子+额外战技 -->
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="7" />
+                    <attribute id="Name" type="LSString" value="FeiYu" />
+                    <attribute id="PassivesAdded" type="LSString" value="FeiYu_YingYan;FeiYu_FeiYuDice_5" />
+                    <attribute id="PassivesRemoved" type="LSString" value="FeiYu_FeiYuDice_4" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(a1b2c3d4-e5f6-7890-abcd-ef1234567891,1,0,,,,AlwaysPrepared)" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567892" />
+                    <attribute id="UUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567894" />
+                </node>
+
+                <!-- 飞羽子职业10级进展：飞羽骰子强化为d10+额外骰子+额外战技 -->
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="10" />
+                    <attribute id="Name" type="LSString" value="FeiYu" />
+                    <attribute id="PassivesAdded" type="LSString" value="FeiYu_FeiYuDice_6;FeiYu_FeiYuDice_d10" />
+                    <attribute id="PassivesRemoved" type="LSString" value="FeiYu_FeiYuDice_5;FeiYu_FeiYuDice_d8" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(a1b2c3d4-e5f6-7890-abcd-ef1234567891,1,0,,,,AlwaysPrepared)" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567892" />
+                    <attribute id="UUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567895" />
+                </node>
+
+                <!-- 飞羽子职业15级进展：飞羽精通+额外飞羽骰子 -->
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="15" />
+                    <attribute id="Name" type="LSString" value="FeiYu" />
+                    <attribute id="PassivesAdded" type="LSString" value="FeiYu_FeiYuMastery;FeiYu_FeiYuDice_7" />
+                    <attribute id="PassivesRemoved" type="LSString" value="FeiYu_FeiYuDice_6" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567892" />
+                    <attribute id="UUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567896" />
+                </node>
+
+                <!-- 飞羽子职业18级进展：飞羽骰子强化为d12+额外骰子 -->
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="18" />
+                    <attribute id="Name" type="LSString" value="FeiYu" />
+                    <attribute id="PassivesAdded" type="LSString" value="FeiYu_FeiYuDice_8;FeiYu_FeiYuDice_d12" />
+                    <attribute id="PassivesRemoved" type="LSString" value="FeiYu_FeiYuDice_7;FeiYu_FeiYuDice_d10" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567892" />
+                    <attribute id="UUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567897" />
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<!-- 飞羽子职业 -->
+	<content contentuid="feiyu" version="1">飞羽</content>
+	<content contentuid="feiyudescript" version="1">飞羽是精通羽毛武器和敏捷战技的战士。他们掌握飞羽骰子系统，能够施展多种华丽的战技，拥有鹰一般的敏锐视觉，并在战斗中展现出如羽毛般轻盈而致命的攻击风格。
+		3 级 - &lt;LSTag Type="Passive" Tooltip="FeiYu_SuperiorityDice"&gt;飞羽骰子&lt;/LSTag&gt;，学会飞羽战技
+		7 级 - &lt;LSTag Type="Passive" Tooltip="FeiYu_YingYan"&gt;鹰眼&lt;/LSTag&gt;，学会额外战技
+		10 级 - 飞羽骰子强化为d10，学会额外战技
+		15 级 - &lt;LSTag Type="Passive" Tooltip="FeiYu_Mastery"&gt;飞羽精通&lt;/LSTag&gt;
+		18 级 - 飞羽骰子强化为d12</content>
+
+	<!-- 飞羽骰子系统 -->
+	<content contentuid="feiyu_feiyudice_4" version="1">飞羽骰子（4个）</content>
+	<content contentuid="feiyu_feiyudice_4_desc" version="1">掌握飞羽战技的精髓。获得4个飞羽骰子，可用于施展飞羽战技。飞羽骰子在短休后恢复。</content>
+
+	<content contentuid="feiyu_feiyudice_5" version="1">飞羽骰子（5个）</content>
+	<content contentuid="feiyu_feiyudice_5_desc" version="1">飞羽战技的掌握更加熟练。飞羽骰子数量增加到5个。</content>
+
+	<content contentuid="feiyu_feiyudice_6" version="1">飞羽骰子（6个）</content>
+	<content contentuid="feiyu_feiyudice_6_desc" version="1">飞羽战技的掌握更加精湛。飞羽骰子数量增加到6个。</content>
+
+	<content contentuid="feiyu_feiyudice_7" version="1">飞羽骰子（7个）</content>
+	<content contentuid="feiyu_feiyudice_7_desc" version="1">飞羽战技的掌握接近大师水准。飞羽骰子数量增加到7个。</content>
+
+	<content contentuid="feiyu_feiyudice_8" version="1">飞羽骰子（8个）</content>
+	<content contentuid="feiyu_feiyudice_8_desc" version="1">飞羽战技的掌握达到巅峰境界。飞羽骰子数量增加到8个。</content>
+
+	<content contentuid="feiyu_feiyudice_d8" version="1">飞羽骰子（d8）</content>
+	<content contentuid="feiyu_feiyudice_d8_desc" version="1">飞羽战技的基础形态。飞羽骰子为d8。</content>
+
+	<content contentuid="feiyu_feiyudice_d10" version="1">飞羽骰子（d10）</content>
+	<content contentuid="feiyu_feiyudice_d10_desc" version="1">飞羽战技的精髓得到强化。飞羽骰子升级为d10，威力更加强大。</content>
+
+	<content contentuid="feiyu_feiyudice_d12" version="1">飞羽骰子（d12）</content>
+	<content contentuid="feiyu_feiyudice_d12_desc" version="1">飞羽战技达到巅峰境界。飞羽骰子升级为d12，威力达到极致。</content>
+
+	<!-- 鹰眼 -->
+	<content contentuid="feiyu_yingyan" version="1">鹰眼</content>
+	<content contentuid="feiyu_yingyan_desc" version="1">拥有如鹰一般敏锐的视觉和感知能力。获得60尺&lt;LSTag
+		Tooltip="Darkvision"&gt;黑暗视觉&lt;/LSTag&gt;，免疫&lt;LSTag Type="Status"
+		Tooltip="BLINDED"&gt;失明&lt;/LSTag&gt;状态，远程武器射程增加50%。</content>
+
+	<!-- 飞羽精通 -->
+	<content contentuid="feiyu_feiyumastery" version="1">飞羽精通</content>
+	<content contentuid="feiyu_feiyumastery_desc" version="1">对飞羽战技的掌握达到炉火纯青的境界。每回合一次，使用飞羽战技时可以不消耗飞羽骰子。</content>
+
+	<!-- 流星连羽战技 -->
+	<content contentuid="feiyu_liuxinglianyu" version="1">流星连羽</content>
+	<content contentuid="feiyu_liuxinglianyu_desc" version="1">如流星般迅捷的连续攻击。对目标进行武器攻击，造成武器伤害+飞羽骰子伤害，然后对附近另一个敌人进行额外攻击。
+		消耗：1个动作点，1个飞羽骰子</content>
+
+	<content contentuid="feiyu_liuxinglianyu_enhanced" version="1">流星连羽（强化）</content>
+	<content contentuid="feiyu_liuxinglianyu_enhanced_desc" version="1">流星连羽的强化版本。对目标进行武器攻击后，可以连续攻击2个额外敌人。
+		消耗：1个动作点，1个飞羽骰子</content>
+
+	<content contentuid="feiyu_liuxinglianyu_master" version="1">流星连羽（大师）</content>
+	<content contentuid="feiyu_liuxinglianyu_master_desc" version="1">流星连羽的大师版本。对目标进行武器攻击后，可以连续攻击3个额外敌人。
+		消耗：1个动作点，1个飞羽骰子</content>
+
+	<content contentuid="feiyu_liuxinglianyu_chain" version="1">流星连羽·链击</content>
+	<content contentuid="feiyu_liuxinglianyu_chain_desc" version="1">流星连羽的连锁攻击效果。对附近敌人进行额外的武器攻击。</content>
+
+	<!-- 风卷残羽战技 -->
+	<content contentuid="feiyu_fengjuancanyu" version="1">风卷残羽</content>
+	<content contentuid="feiyu_fengjuancanyu_desc" version="1">如狂风般席卷的范围攻击。对3米范围内的所有敌人进行武器攻击，造成武器伤害+飞羽骰子伤害。
+		消耗：1个动作点，1个飞羽骰子</content>
+
+	<content contentuid="feiyu_fengjuancanyu_enhanced" version="1">风卷残羽（强化）</content>
+	<content contentuid="feiyu_fengjuancanyu_enhanced_desc" version="1">风卷残羽的强化版本。攻击范围扩大到4.5米。
+		消耗：1个动作点，1个飞羽骰子</content>
+
+	<content contentuid="feiyu_fengjuancanyu_master" version="1">风卷残羽（大师）</content>
+	<content contentuid="feiyu_fengjuancanyu_master_desc" version="1">风卷残羽的大师版本。攻击范围扩大到6米。
+		消耗：1个动作点，1个飞羽骰子</content>
+
+	<!-- 惊鸿乱羽战技 -->
+	<content contentuid="feiyu_jinghongluanyu" version="1">惊鸿乱羽</content>
+	<content contentuid="feiyu_jinghongluanyu_desc" version="1">如惊鸿般华丽的分裂攻击。对主目标进行武器攻击，造成武器伤害+飞羽骰子伤害，然后对周围3个敌人造成一半伤害。
+		消耗：1个动作点，1个飞羽骰子</content>
+
+	<content contentuid="feiyu_jinghongluanyu_enhanced" version="1">惊鸿乱羽（强化）</content>
+	<content contentuid="feiyu_jinghongluanyu_enhanced_desc" version="1">惊鸿乱羽的强化版本。对周围5个敌人造成一半伤害。
+		消耗：1个动作点，1个飞羽骰子</content>
+
+	<content contentuid="feiyu_jinghongluanyu_master" version="1">惊鸿乱羽（大师）</content>
+	<content contentuid="feiyu_jinghongluanyu_master_desc" version="1">惊鸿乱羽的大师版本。对周围7个敌人造成一半伤害。
+		消耗：1个动作点，1个飞羽骰子</content>
+
+	<content contentuid="feiyu_jinghongluanyu_splash" version="1">惊鸿乱羽·溅射</content>
+	<content contentuid="feiyu_jinghongluanyu_splash_desc" version="1">惊鸿乱羽的溅射伤害效果。对周围敌人造成一半的武器伤害。</content>
+
+	<content contentuid="feiyu_jinghongluanyu_splash_enhanced" version="1">惊鸿乱羽·溅射（强化）</content>
+	<content contentuid="feiyu_jinghongluanyu_splash_enhanced_desc" version="1">惊鸿乱羽强化版的溅射伤害效果。影响范围更大。</content>
+
+	<content contentuid="feiyu_jinghongluanyu_splash_master" version="1">惊鸿乱羽·溅射（大师）</content>
+	<content contentuid="feiyu_jinghongluanyu_splash_master_desc" version="1">惊鸿乱羽大师版的溅射伤害效果。影响范围最大。</content>
+</contentList>

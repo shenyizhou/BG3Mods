@@ -1,0 +1,26 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+DB_OneTimeRewards_featsextra(1,(ITEMROOT)Potion_FeatsExtra_d63f6518-125c-48b6-8416-3fda90f5df92);
+KBSECTION
+ //On game start, add reward to inventory
+IF
+LevelGameplayStarted(_,_)
+AND
+DB_Avatars(_Player)
+THEN
+PROC_OneTimeReward_GiveReward(1,1,1,_Player);
+
+//Send to inventory (DO NOT MODIFY THIS - KEEP AS IS!)
+PROC
+PROC_OneTimeReward_GiveReward((INTEGER)_RewardNo,(INTEGER)_Amount,(INTEGER)_Notification,(GUIDSTRING)_Player)
+AND
+NOT DB_OneTimeRewards_RewardGiven_featsextra(_RewardNo)
+AND
+DB_OneTimeRewards_featsextra(_RewardNo,_Reward)
+THEN
+DB_OneTimeRewards_RewardGiven_featsextra(_RewardNo);
+TemplateAddTo(_Reward,_Player,_Amount,_Notification);
+EXITSECTION
+
+ENDEXITSECTION
