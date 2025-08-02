@@ -4,7 +4,7 @@
 	<content contentuid="feiyu" version="1">FeiYu</content>
 	<content contentuid="feiyudescript" version="1">FeiYu warriors are masters of feather weapons and agile combat techniques. They wield the FeiYu dice system, capable of executing various elegant maneuvers, possess eagle-like keen vision, and display feather-light yet deadly attack styles in battle.
 		3rd Level - &lt;LSTag Type="Passive" Tooltip="FeiYu_SuperiorityDice"&gt;FeiYu Dice&lt;/LSTag&gt;, learn FeiYu maneuvers
-		7th Level - &lt;LSTag Type="Passive" Tooltip="FeiYu_YingYan"&gt;Eagle Eye&lt;/LSTag&gt;, learn additional maneuvers
+		7th Level - &lt;LSTag Type="Passive" Tooltip="FeiYu_YuanMenSheJi"&gt;Gate Archery&lt;/LSTag&gt;, learn additional maneuvers
 		10th Level - FeiYu dice upgrade to d10, learn additional maneuvers
 		15th Level - &lt;LSTag Type="Passive" Tooltip="FeiYu_Mastery"&gt;Feather Roost&lt;/LSTag&gt;
 		18th Level - FeiYu dice upgrade to d12</content>
@@ -13,11 +13,9 @@
 	<content contentuid="feiyu_feiyudice" version="1">FeiYu Dice</content>
 	<content contentuid="feiyu_feiyudice_desc" version="1">Master the essence of FeiYu maneuvers. Gain FeiYu dice that can be used to execute FeiYu maneuvers. FeiYu dice are restored on a short rest.</content>
 
-	<!-- Eagle Eye -->
-	<content contentuid="feiyu_yingyan" version="1">Eagle Eye</content>
-	<content contentuid="feiyu_yingyan_desc" version="1">Possess eagle-like keen vision and perception. Gain 60 feet &lt;LSTag
-		Tooltip="Darkvision"&gt;Darkvision&lt;/LSTag&gt;, immunity to &lt;LSTag Type="Status"
-		Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt; condition, and 50% increased range for ranged weapons.</content>
+	<!-- Gate Archery -->
+	<content contentuid="feiyu_yuanmensheji" version="1">Gate Archery</content>
+	<content contentuid="feiyu_yuanmensheji_desc" version="1">The legendary archery skill of Lu Bu shooting through the gate. Your ranged weapon attacks deal additional physical damage equal to your &lt;LSTag Tooltip="StrengthModifier"&gt;Strength modifier&lt;/LSTag&gt; [1].</content>
 
 	<!-- Meteor Chain Feather Maneuvers -->
 	<content contentuid="feiyu_liuxinglianyu" version="1">Meteor Chain Feather</content>

@@ -4,7 +4,7 @@
 	<content contentuid="feiyu" version="1">飞羽</content>
 	<content contentuid="feiyudescript" version="1">飞羽是精通远程武器战技的战士。他们掌握飞羽，能够施展多种华丽的战技，拥有鹰一般的敏锐视觉，并在战斗中展现出如羽毛般轻盈而致命的攻击风格。
 		3 级 - &lt;LSTag Type="Passive" Tooltip="FeiYu_SuperiorityDice"&gt;飞羽骰子&lt;/LSTag&gt;，学会飞羽战技
-		7 级 - &lt;LSTag Type="Passive" Tooltip="FeiYu_YingYan"&gt;鹰眼&lt;/LSTag&gt;，学会额外战技
+		7 级 - &lt;LSTag Type="Passive" Tooltip="FeiYu_YuanMenSheJi"&gt;辕门射戟&lt;/LSTag&gt;，学会额外战技
 		10 级 - 飞羽骰子强化为d10，学会额外战技
 		15 级 - &lt;LSTag Type="Passive" Tooltip="FeiYu_Mastery"&gt;羽栖&lt;/LSTag&gt;
 		18 级 - 飞羽骰子强化为d12</content>
@@ -13,11 +13,9 @@
 	<content contentuid="feiyu_feiyudice" version="1">飞羽骰子</content>
 	<content contentuid="feiyu_feiyudice_desc" version="1">掌握飞羽战技的精髓。获得飞羽骰子，可用于施展飞羽战技。飞羽骰子在短休后恢复。</content>
 
-	<!-- 鹰眼 -->
-	<content contentuid="feiyu_yingyan" version="1">鹰眼</content>
-	<content contentuid="feiyu_yingyan_desc" version="1">拥有如鹰一般敏锐的视觉和感知能力。获得60尺&lt;LSTag
-		Tooltip="Darkvision"&gt;黑暗视觉&lt;/LSTag&gt;，免疫&lt;LSTag Type="Status"
-		Tooltip="BLINDED"&gt;失明&lt;/LSTag&gt;状态，远程武器射程增加50%。</content>
+	<!-- 辕门射戟 -->
+	<content contentuid="feiyu_yuanmensheji" version="1">辕门射戟</content>
+	<content contentuid="feiyu_yuanmensheji_desc" version="1">传说中的神技。你的远程武器攻击造成额外的&lt;LSTag Tooltip="StrengthModifier"&gt;力量调整值&lt;/LSTag&gt; [1] 点物理伤害。</content>
 
 	<!-- 流星连羽战技 -->
 	<content contentuid="feiyu_liuxinglianyu" version="1">流星连羽</content>
