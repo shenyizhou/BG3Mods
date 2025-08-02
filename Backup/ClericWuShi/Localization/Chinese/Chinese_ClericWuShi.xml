@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+    <!-- 武师子职业名称和别名 -->
+    <content contentuid="h2b3c4d5e6f7g8901g2345g6789g0123g456789012345" version="1">武师</content>
+    <content contentuid="h9f8e7d6c5b4a321g0987g6543g2109g876543210987" version="1">武功领域</content>
+    <content contentuid="h1a2b3c4d5e6f789g0123g4567g8901g234567890123" version="1">专精武学修炼的牧师，掌握各种武功绝学，以武入道，护佑众生。</content>
+    <content contentuid="h3c4d5e6f7g8901g2345g6789g0123g4567g890123456" version="1">武师</content>
+    <!-- 五雷天心正法 -->
+    <content contentuid="h8222880eg02b6g4811gb8d0g05b39677e240" version="1">五雷天心正法</content>
+    <content contentuid="h6565d090ga0dag46e9gaf3bg41274d714f3f" version="1">千重霄远乾坤近，倚石来补帝王衿。临风把酒萧然泪，化雷难抚断剑心。&lt;br&gt;你的雷鸣、闪电和光耀伤害无视&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;和&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;，并可以使用&lt;LSTag Type="ActionResource" Tooltip="ChannelDivinity"&gt;引导神力&lt;/LSTag&gt;来造成最大伤害。获得&lt;LSTag Type="Spell" Tooltip="Shout_WuShi_ShenXiaoLei"&gt;神霄雷&lt;/LSTag&gt;。</content>
+    
+    <!-- 神霄雷 -->
+    <content contentuid="h52fd5e84g81c5g4f2fga375g6f85c8051c8c" version="1">神霄雷</content>
+    <content contentuid="h017e8941g90beg4719g82d9ge53790d55f05" version="1">以雷为势，奔雷游走。获得&lt;LSTag Type="Status" Tooltip="WuShi_THUNDER_AURA"&gt;神霄雷&lt;/LSTag&gt;[1]回合。影响[2]范围内的队友和敌人。</content>
+    <content contentuid="h268fb659ga380g4a56g8b18g35583282124b" version="1">施法者和 &lt;LSTag Type="Status" Tooltip="WuShi_THUNDER_RESONANCE_ALLY"&gt;神霄雷&lt;/LSTag&gt; 附近的所有队友造成雷鸣、闪电和光耀伤害时，额外造成敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; [1] 的伤害。&lt;br&gt;&lt;LSTag Type="Status" Tooltip="WuShi_THUNDER_SUPPRESS_ENEMY"&gt;神霄雷&lt;/LSTag&gt; 附近的所有敌人每回合受到 [2]，会在攻击时受到一个额外的[2]，且无法作出反应。</content>
+    <content contentuid="had17e753g4081g4f21gbc18gb4e7dad10955" version="1">经脉蕴有奔雷。对攻击者造成 [1]。</content>
+    <content contentuid="h3417d7e6g9fb5g4003gbd52gcb702dc0cb6a" version="1">经脉蕴有奔雷。造成雷鸣、闪电和光耀伤害时，额外造成敏捷 &lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; [1] 的伤害。</content>
+    <content contentuid="h030d5ad3gd8e7g4904gaea0g14f313e1ae52" version="1">发肤微动皆魄若雷鸣。每回合受到[1]。如果发起攻击，则会受到一个额外的[1]。无法作出反应。</content>
+    
+    <!-- 金钟罩 -->
+    <content contentuid="h4d5e6f7a8b9c012g3456g7890g1234g567890123456" version="1">金钟罩</content>
+    <content contentuid="h5e6f7a8b9c0d123g4567g8901g2345g678901234567" version="1">运转内力，形成护体金钟，抵御一切伤害。获得对所有伤害类型的抗性，持续10分钟。</content>
+    <content contentuid="h6f7a8b9c0d1e234g5678g9012g3456g789012345678" version="1">金钟罩</content>
+    <content contentuid="h7a8b9c0d1e2f345g6789g0123g4567g890123456789" version="1">内力护体，金钟罩气，对所有伤害类型具有抗性。</content>
+    
+    <!-- 铁布衫 -->
+    <content contentuid="h8b9c0d1e2f3a456g7890g1234g5678g901234567890" version="1">铁布衫</content>
+    <content contentuid="h9c0d1e2f3a4b567g8901g2345g6789g012345678901" version="1">修炼铁布衫硬功，皮肉如铁，筋骨如钢。获得对物理伤害的抗性和防死保护，持续10分钟。</content>
+    <content contentuid="h0d1e2f3a4b5c678g9012g3456g7890g123456789012" version="1">铁布衫</content>
+    <content contentuid="h1e2f3a4b5c6d789g0123g4567g8901g234567890123" version="1">铁布衫硬功护体，对物理伤害具有抗性，免疫失能和倒地状态。</content>
+    <content contentuid="h2f3a4b5c6d7e890g1234g5678g9012g345678901234" version="1">铁布衫防死</content>
+    <content contentuid="h3a4b5c6d7e8f901g2345g6789g0123g456789012345" version="1">铁布衫护体，生命值不会降至1以下。</content>
+    
+    <!-- 金钟罩强化 -->
+    <content contentuid="h4b5c6d7e8f9a012g3456g7890g1234g567890123456" version="1">金钟罩强化</content>
+    <content contentuid="h5c6d7e8f9a0b123g4567g8901g2345g678901234567" version="1">金钟罩修炼至更高境界，增加最大生命值2d10，每回合恢复2d10生命值。</content>
+    
+    <!-- 金刚不坏神功 -->
+    <content contentuid="h6d7e8f9a0b1c234g5678g9012g3456g789012345678" version="1">金刚不坏神功</content>
+    <content contentuid="h7e8f9a0b1c2d345g6789g0123g4567g890123456789" version="1">运转金刚不坏神功，身体如金刚般坚硬，获得+2护甲等级和对斩击、穿刺、钝击、力场伤害的抗性。持续10分钟。</content>
+    
+    <!-- 不灭金身 -->
+    <content contentuid="ha1b2c3d4e5f6789g0123g4567g8901g234567890123" version="1">不灭金身</content>
+    <content contentuid="hb2c3d4e5f6a7890g1234g5678g9012g345678901234" version="1">修炼至不灭金身境界，生命垂危时自动触发，恢复大量生命值并获得短暂无敌状态。</content>
+</contentList>

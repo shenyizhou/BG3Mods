@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ClericWuShi 武师子职业法术列表配置文件 -->
+<!-- 定义武师专精子职业的法术列表和法术获得 -->
+<save>
+    <!-- 文件格式版本信息 -->
+    <version major="4" minor="0" revision="9" build="328" />
+    <!-- 法术列表区域：包含所有法术列表定义 -->
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <!-- 武师金钟罩法术列表 -->
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="武师金钟罩法术列表" />
+                    <attribute id="Spells" type="LSString" value="WuShi_JinZhongZhao" />
+                    <attribute id="UUID" type="guid" value="d4e5f6a7-b8c9-0123-def4-56789012345a" />
+                </node>
+
+                <!-- 武师金钟护体大法法术列表 -->
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="武师金钟护体大法法术列表" />
+                    <attribute id="Spells" type="LSString" value="WuShi_JinZhongHuTi" />
+                    <attribute id="UUID" type="guid" value="a7b8c9d0-e1f2-3456-a789-0123456789bc" />
+                </node>
+
+                <!-- 武师金刚不坏神功法术列表 -->
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="武师金刚不坏神功法术列表" />
+                    <attribute id="Spells" type="LSString" value="WuShi_JinGangBuHuai" />
+                    <attribute id="UUID" type="guid" value="b8c9d0e1-f2a3-4567-b890-123456789cde" />
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

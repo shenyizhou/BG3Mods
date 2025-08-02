@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <!-- 武师子职业3级进展描述 -->
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hd0e1f2a3b4c5d678g9012g3456g7890g123456789012" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="he1f2a3b4c5d6e789g0123g4567g8901g234567890123" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="WuShi"/>
+                    <attribute id="ParamMatch" type="FixedString" value=""/>
+                    <attribute id="ProgressionId" type="guid" value="e5f6a7b8-c9d0-1234-ef56-789012345678"/>
+                    <attribute id="Type" type="FixedString" value="WuShi"/>
+                    <attribute id="UUID" type="guid" value="f2a3b4c5-d6e7-8901-f234-56789012345a"/>
+                </node>
+                
+                <!-- 武师子职业5级进展描述 -->
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hf2a3b4c5d6e7f890g1234g5678g9012g345678901234" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha3b4c5d6e7f8a901g2345g6789g0123g456789012345" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="WuShi"/>
+                    <attribute id="ParamMatch" type="FixedString" value=""/>
+                    <attribute id="ProgressionId" type="guid" value="f6a7b8c9-d0e1-2345-f678-90123456789a"/>
+                    <attribute id="Type" type="FixedString" value="WuShi"/>
+                    <attribute id="UUID" type="guid" value="b4c5d6e7-f8a9-0123-b456-789012345678"/>
+                </node>
+                
+                <!-- 武师子职业7级进展描述 -->
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hb4c5d6e7f8a9b012g3456g7890g1234g567890123456" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc5d6e7f8a9b0c123g4567g8901g2345g678901234567" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="WuShi"/>
+                    <attribute id="ParamMatch" type="FixedString" value=""/>
+                    <attribute id="ProgressionId" type="guid" value="a7b8c9d0-e1f2-3456-a789-0123456789bc"/>
+                    <attribute id="Type" type="FixedString" value="WuShi"/>
+                    <attribute id="UUID" type="guid" value="d6e7f8a9-b0c1-2345-d678-901234567890"/>
+                </node>
+                
+                <!-- 武师子职业10级进展描述 -->
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hd6e7f8a9b0c1d234g5678g9012g3456g789012345678" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="he7f8a9b0c1d2e345g6789g0123g4567g890123456789" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="WuShi"/>
+                    <attribute id="ParamMatch" type="FixedString" value=""/>
+                    <attribute id="ProgressionId" type="guid" value="c9d0e1f2-a3b4-5678-c901-23456789def0"/>
+                    <attribute id="Type" type="FixedString" value="WuShi"/>
+                    <attribute id="UUID" type="guid" value="f8a9b0c1-d2e3-4567-f890-123456789012"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

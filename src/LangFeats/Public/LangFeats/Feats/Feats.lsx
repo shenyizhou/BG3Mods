@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="322"/>
+  <region id="Feats">
+    <node id="root">
+      <children>
+        <node id="Feat">
+          <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+          <attribute id="Name" type="FixedString" value="BruteForce"/>
+          <attribute id="PassivesAdded" type="LSString" value="BruteForce_StrengthBoost"/>
+          <attribute id="UUID" type="guid" value="a8f98904-5ad1-45b9-b0ce-9708ad40ad42"/>
+        </node>
+        <node id="Feat">
+          <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+          <attribute id="Name" type="FixedString" value="YuanMenSheJi"/>
+          <attribute id="PassivesAdded" type="LSString" value="YuanMenSheJi_RangedStrengthBonus"/>
+          <attribute id="UUID" type="guid" value="fe5843f6-8153-49e3-b061-ad9e83d49360"/>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h12345678123456789abc123456789abc" version="1">
+        Extra Feats For All Classes
+    </content>
+	<content contentuid="h12345678123456789abc123456789abd" version="1">
+        Adds an extra feat choice for all 12 base classes at levels 2, 18, and 20, providing more character customization options.
+    </content>
+	<content contentuid="h12345678123456789abc123456789abe" version="1">
+        Extra Feat Selection
+    </content>
+	<content contentuid="h12345678123456789abc123456789abf" version="1">
+        You can choose a feat to enhance your character's abilities.
+    </content>
+	<content contentuid="h12345678123456789abc123456789ac0" version="1">
+        Fighter Extra Feat
+    </content>
+	<content contentuid="h12345678123456789abc123456789ac1" version="1">
+        Wizard Extra Feat
+    </content>
+	<content contentuid="h12345678123456789abc123456789ac2" version="1">
+        Cleric Extra Feat
+    </content>
+	<content contentuid="h12345678123456789abc123456789ac3" version="1">
+        Rogue Extra Feat
+    </content>
+	<content contentuid="h12345678123456789abc123456789ac4" version="1">
+        Ranger Extra Feat
+    </content>
+	<content contentuid="h12345678123456789abc123456789ac5" version="1">
+        Paladin Extra Feat
+    </content>
+	<content contentuid="h12345678123456789abc123456789ac6" version="1">
+        Sorcerer Extra Feat
+    </content>
+	<content contentuid="h12345678123456789abc123456789ac7" version="1">
+        Warlock Extra Feat
+    </content>
+	<content contentuid="h12345678123456789abc123456789ac8" version="1">
+        Barbarian Extra Feat
+    </content>
+	<content contentuid="h12345678123456789abc123456789ac9" version="1">
+        Bard Extra Feat
+    </content>
+	<content contentuid="h12345678123456789abc123456789aca" version="1">
+        Druid Extra Feat
+    </content>
+	<content contentuid="h12345678123456789abc123456789acb" version="1">
+        Monk Extra Feat
+    </content>
+	<content contentuid="h12345678123456789abc123456789acc" version="1">
+        Level 2 Feat Choice
+    </content>
+	<content contentuid="h12345678123456789abc123456789acd" version="1">
+        Level 18 Feat Choice
+    </content>
+	<content contentuid="h12345678123456789abc123456789ace" version="1">
+        Level 20 Feat Choice
+    </content>
+	<content contentuid="h12345678123456789abc123456789acf" version="1">
+        Upon reaching certain levels, you can choose a feat to further customize your character. These additional feat opportunities allow you to create more unique and powerful character builds.
+    </content>
+</contentList>

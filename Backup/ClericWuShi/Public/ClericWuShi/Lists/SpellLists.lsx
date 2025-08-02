@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <!-- 武功领域法术列表 - 主列表 -->
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="武功领域专属法术列表" />
+                    <attribute id="Spells" type="LSString" value="WuShi_MaBuZhuang;Shield;WuShi_JinZhongZhao;Counterspell;WuShi_TieBuShan;ConjureElemental;WuShi_JinGangBuHuai;Shout_WuShi_ShenXiaoLei;WuShi_BuMieJinShen;ChainLightning" />
+                    <attribute id="UUID" type="guid" value="33dd3006-b886-40dc-be16-8a128ae6a0d1" />
+                </node>
+                <!-- 1级武功领域法术 -->
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="1级武功领域法术：马步桩、护盾术" />
+                    <attribute id="Spells" type="LSString" value="WuShi_MaBuZhuang;Shield" />
+                    <attribute id="UUID" type="guid" value="c2d3e4f5-a6b7-8901-cdef-234567890123" />
+                </node>
+                
+                <!-- 3级武功领域法术 -->
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="3级武功领域法术：金钟罩、法术反制" />
+                    <attribute id="Spells" type="LSString" value="WuShi_JinZhongZhao;Counterspell" />
+                    <attribute id="UUID" type="guid" value="d4e5f6a7-b8c9-0123-def4-56789012345a" />
+                </node>
+                
+                <!-- 5级武功领域法术 -->
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="5级武功领域法术：铁布衫、召唤元素" />
+                    <attribute id="Spells" type="LSString" value="WuShi_TieBuShan;ConjureElemental" />
+                    <attribute id="UUID" type="guid" value="f6a7b8c9-d0e1-2345-f678-90123456789a" />
+                </node>
+                
+                <!-- 7级武功领域法术 -->
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="7级武功领域法术：金刚不坏神功、五雷天心正法" />
+                    <attribute id="Spells" type="LSString" value="WuShi_JinGangBuHuai;Shout_WuShi_ShenXiaoLei" />
+                    <attribute id="UUID" type="guid" value="a7b8c9d0-e1f2-3456-a789-0123456789bc" />
+                </node>
+                
+                <!-- 9级武功领域法术 -->
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="9级武功领域法术：不灭金身、链状闪电" />
+                    <attribute id="Spells" type="LSString" value="WuShi_BuMieJinShen;ChainLightning" />
+                    <attribute id="UUID" type="guid" value="b8c9d0e1-f2a3-4567-b890-123456789cde" />
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

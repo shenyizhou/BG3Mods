@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<contentList>
-  <content contentuid="h12345678g1234g1234g1234g123456789abc" version="1">蛮力</content>
-  <content contentuid="h12345678g1234g1234g1234g123456789abd" version="1">你的原始体力超越了常人的极限。如果你的力量低于21，则变为21。在10级时，如果你的力量低于26，则变为26。在20级时，如果你的力量低于31，则变为31。</content>
-  <content contentuid="h23456789g2345g2345g2345g23456789abcd" version="1">辕门射戟</content>
-  <content contentuid="h23456789g2345g2345g2345g23456789abce" version="1">传说中的神技。你的远程武器攻击造成额外的&lt;LSTag Tooltip="StrengthModifier"&gt;力量调整值&lt;/LSTag&gt; [1] 点物理伤害。</content>
-</contentList>

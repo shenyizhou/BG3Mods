@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<!-- FeiYu Subclass -->
+	<content contentuid="feiyu" version="1">FeiYu</content>
+	<content contentuid="feiyudescript" version="1">FeiYu warriors are masters of feather weapons and agile combat techniques. They wield the FeiYu dice system, capable of executing various elegant maneuvers, possess eagle-like keen vision, and display feather-light yet deadly attack styles in battle.
+		3rd Level - &lt;LSTag Type="Passive" Tooltip="FeiYu_SuperiorityDice"&gt;FeiYu Dice&lt;/LSTag&gt;, learn FeiYu maneuvers
+		7th Level - &lt;LSTag Type="Passive" Tooltip="FeiYu_YingYan"&gt;Eagle Eye&lt;/LSTag&gt;, learn additional maneuvers
+		10th Level - FeiYu dice upgrade to d10, learn additional maneuvers
+		15th Level - &lt;LSTag Type="Passive" Tooltip="FeiYu_Mastery"&gt;Feather Roost&lt;/LSTag&gt;
+		18th Level - FeiYu dice upgrade to d12</content>
+
+	<!-- FeiYu Dice -->
+	<content contentuid="feiyu_feiyudice" version="1">FeiYu Dice</content>
+	<content contentuid="feiyu_feiyudice_desc" version="1">Master the essence of FeiYu maneuvers. Gain FeiYu dice that can be used to execute FeiYu maneuvers. FeiYu dice are restored on a short rest.</content>
+
+	<!-- Eagle Eye -->
+	<content contentuid="feiyu_yingyan" version="1">Eagle Eye</content>
+	<content contentuid="feiyu_yingyan_desc" version="1">Possess eagle-like keen vision and perception. Gain 60 feet &lt;LSTag
+		Tooltip="Darkvision"&gt;Darkvision&lt;/LSTag&gt;, immunity to &lt;LSTag Type="Status"
+		Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt; condition, and 50% increased range for ranged weapons.</content>
+
+	<!-- Meteor Chain Feather Maneuvers -->
+	<content contentuid="feiyu_liuxinglianyu" version="1">Meteor Chain Feather</content>
+	<content contentuid="feiyu_liuxinglianyu_desc" version="1">Swift multi-target attacks like meteors. Attack up to 2 enemies simultaneously. Can target 3 enemies at 7th level, 4 enemies at 10th level, 5 enemies at 15th level, 6 enemies at 18th level.</content>
+
+	<!-- Wind Swept Feather Maneuvers -->
+	<content contentuid="feiyu_fengjuancanyu" version="1">Wind Swept Feather</content>
+	<content contentuid="feiyu_fengjuancanyu_desc" version="1">Explosive attack that sweeps like a gale. Make a ranged weapon attack against the target, on hit creates an explosion at the target location, dealing physical damage to all enemies within range. Explosion radius grows with level: 4.5m at 3rd level, 6m at 7th level, 7.5m at 10th level, 9m at 15th level, 10.5m at 18th level.</content>
+
+	<!-- Startling Swan Feather Maneuvers -->
+	<content contentuid="feiyu_jinghongluanyu" version="1">Startling Swan Feather</content>
+	<content contentuid="feiyu_jinghongluanyu_desc" version="1">Elegant ricochet attack like a startling swan. Attack primary target then ricochet to surrounding enemies. Initially ricochet to 3 enemies, 7/10/15/18th level can ricochet to 4/5/6/7 enemies respectively.</content>
+
+	<content contentuid="feiyu_jinghongluanyu_ricochet" version="1">Startled Feather</content>
+	<content contentuid="feiyu_jinghongluanyu_ricochet_desc" version="1">Startled feather ricochet effect like a phantom flash. Deal half damage to enemies around the primary target.</content>
+
+	<!-- Feather Roost -->
+	<content contentuid="feiyu_feiyumastery" version="1">Feather Roost</content>
+	<content contentuid="feiyu_feiyumastery_desc" version="1">Your FeiYu maneuvers have reached the roost realm, perfected through practice. At the start of each turn, if your FeiYu dice are not at maximum, restore 1 FeiYu die.</content>
+
+	<!-- FeiYu Dice Improvements -->
+	<content contentuid="feiyu_improveddice_d10" version="1">Improved FeiYu Dice</content>
+	<content contentuid="feiyu_improveddice_d10_desc" version="1">Your FeiYu techniques have become more refined. FeiYu dice are improved to [1].</content>
+
+	<content contentuid="feiyu_improveddice_d12" version="1">Mastered FeiYu Dice</content>
+	<content contentuid="feiyu_improveddice_d12_desc" version="1">Your FeiYu techniques have reached mastery. FeiYu dice are improved to [1].</content>
+</contentList>

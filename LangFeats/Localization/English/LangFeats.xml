@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<contentList>
-  <content contentuid="h12345678g1234g1234g1234g123456789abc" version="1">Brute Force</content>
-  <content contentuid="h12345678g1234g1234g1234g123456789abd" version="1">Your raw physical power transcends normal limits. Your Strength becomes 21 if it was lower. At 10th level, your Strength becomes 26 if it was lower. At 20th level, your Strength becomes 31 if it was lower.</content>
-  <content contentuid="h23456789g2345g2345g2345g23456789abcd" version="1">Gate Archery</content>
-  <content contentuid="h23456789g2345g2345g2345g23456789abce" version="1">The legendary archery skill of Lu Bu shooting through the gate. Your ranged weapon attacks deal additional physical damage equal to your &lt;LSTag Tooltip="StrengthModifier"&gt;Strength modifier&lt;/LSTag&gt; [1].</content>
-</contentList>

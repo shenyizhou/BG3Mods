@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+    <!-- 武师子职业基本信息 -->
+    <content contentuid="h1a2b3c4d5e6f789g0123g4567g8901g234567890123" version="1">武师是专精于防护与生存的牧师子职业。他们掌握着古老的武学防护技艺，能够为自己和队友提供强大的保护，在最危急的时刻展现出不屈的战斗意志。</content>
+    <content contentuid="h2b3c4d5e6f7g8901g2345g6789g0123g456789012345" version="1">武师</content>
+    <content contentuid="h3c4d5e6f7g8901g2345g6789g0123g4567g890123456" version="1">武师</content>
+    
+    <!-- 金钟罩技能 -->
+    <content contentuid="h4d5e6f7a8b9c012g3456g7890g1234g567890123456" version="1">金钟罩</content>
+    <content contentuid="h5e6f7a8b9c0d123g4567g8901g2345g678901234567" version="1">2环神术。对自身周围大范围的队友(包括自身)施加金钟罩保护，获得所有伤害的抗性。这种古老的防护法术能够形成一层无形的护盾，大幅减少受到的伤害。</content>
+    
+    <!-- 金钟罩状态效果 -->
+    <content contentuid="h6f7a8b9c0d1e234g5678g9012g3456g789012345678" version="1">金钟罩</content>
+    <content contentuid="h7a8b9c0d1e2f345g6789g0123g4567g890123456789" version="1">受到金钟罩保护，对所有伤害类型具有抗性，伤害减半。</content>
+    
+    <!-- 铁布衫被动技能 -->
+    <content contentuid="h8b9c0d1e2f3a456g7890g1234g5678g901234567890" version="1">铁布衫</content>
+    <content contentuid="h9c0d1e2f3a4b567g8901g2345g6789g012345678901" version="1">不需要专注的防护光环。对钝击、劈砍、穿刺、力场伤害具有抗性。免疫所有即死效果。当受到足以致命的伤害时，自动保留1点生命值（效果触发后结束）。</content>
+    
+    <!-- 铁布衫激活状态 -->
+    <content contentuid="h0d1e2f3a4b5c678g9012g3456g7890g123456789012" version="1">铁布衫</content>
+    <content contentuid="h1e2f3a4b5c6d789g0123g4567g8901g234567890123" version="1">3环神术。为范围内所有友方单位提供强大的防护，抵抗物理伤害。持续10分钟。</content>
+    
+    <!-- 铁布衫防死效果 -->
+     <content contentuid="h2f3a4b5c6d7e890g1234g5678g9012g345678901234" version="1">防死护体</content>
+     <content contentuid="h3a4b5c6d7e8f901g2345g6789g0123g456789012345" version="1">铁布衫的防死效果已触发，生命值被保持在1点。铁布衫防护已结束。</content>
+    
+    <!-- 金钟罩强化被动技能 -->
+    <content contentuid="h4b5c6d7e8f9a012g3456g7890g1234g567890123456" version="1">金钟罩强化</content>
+    <content contentuid="h5c6d7e8f9a0b123g4567g8901g2345g678901234567" version="1">金钟罩获得强化效果。生命值上限增加2d10点，每回合开始时恢复2d10点生命值。</content>
+    
+    <!-- 金刚不坏神功技能 -->
+    <content contentuid="h6d7e8f9a0b1c234g5678g9012g3456g789012345678" version="1">金刚不坏神功</content>
+    <content contentuid="h7e8f9a0b1c2d345g6789g0123g4567g890123456789" version="1">当生命值低于50%时，可以通过反应动作使用。立即恢复满所有生命值，攻击和力场伤害获得体质调整值加值。期间无法施展或专注于法术。状态结束后获得力竭。短休只能使用一次。</content>
+    
+    <!-- 金刚不坏神功状态效果 -->
+    <content contentuid="h8f9a0b1c2d3e456g7890g1234g5678g901234567890" version="1">金刚不坏神功</content>
+    <content contentuid="h9a0b1c2d3e4f567g8901g2345g6789g012345678901" version="1">金刚不坏神功激活。攻击和力场伤害获得体质调整值加值，但无法施展或专注于法术。状态结束后将获得力竭。</content>
+    
+    <!-- 进展描述 -->
+    <content contentuid="hd0e1f2a3b4c5d678g9012g3456g7890g123456789012" version="1">3级时，武师获得金钟罩技能（2环神术），能够为大范围内的队友提供强大的防护，对所有伤害类型具有抗性。</content>
+    <content contentuid="he1f2a3b4c5d6e789g0123g4567g8901g234567890123" version="1">武师特性：金钟罩</content>
+    
+    <content contentuid="hf2a3b4c5d6e7f890g1234g5678g9012g345678901234" version="1">5级时，武师获得铁布衫技能（3环神术），这是一个范围防护法术，为队友提供物理伤害减免。</content>
+    <content contentuid="ha3b4c5d6e7f8a901g2345g6789g0123g456789012345" version="1">武师特性：铁布衫</content>
+    
+    <content contentuid="hb4c5d6e7f8a9b012g3456g7890g1234g567890123456" version="1">7级时，武师掌握金刚不坏神功（4环神术），能够为大范围内的队友施展强化版金钟罩，不仅提供全伤害抗性，还能增加生命值上限并持续恢复生命。</content>
+    <content contentuid="hc5d6e7f8a9b0c123g4567g8901g2345g678901234567" version="1">武师特性：金刚不坏神功</content>
+    
+    <!-- 金刚不坏神功技能 -->
+     <content contentuid="h4b5c6d7e8f9a012g3456g7890g1234g567890123456" version="1">金刚不坏神功</content>
+     <content contentuid="h5c6d7e8f9a0b123g4567g8901g2345g678901234567" version="1">4环神术。武师的至高防护秘法。为大范围内的所有盟友施展强化版金钟罩，获得对所有伤害类型的抗性，生命值上限增加2d10点，并在每回合开始时恢复2d10点生命值。持续10分钟。</content>
+    
+    <!-- 不灭金身技能 -->
+     <content contentuid="hd6e7f8a9b0c1d234g5678g9012g3456g789012345678" version="1">不灭金身</content>
+     <content contentuid="he7f8a9b0c1d2e345g6789g0123g4567g890123456789" version="1">5环神术。在生命值低于50%时激活，提供伤害加成和状态免疫。同时为周围9米范围内的所有盟友提供防死保护光环。状态移除时会施加力竭状态。</content>
+     
+     <!-- 不灭金身状态效果 -->
+     <content contentuid="ha1b2c3d4e5f6789g0123g4567g8901g234567890123" version="1">不灭金身</content>
+     <content contentuid="hb2c3d4e5f6a7890g1234g5678g9012g345678901234" version="1">不灭金身激活。攻击和力场伤害获得体质调整值加值，无法施展或专注于法术。为周围盟友提供防死保护光环。状态结束后将获得力竭。</content>
+     
+     <!-- 不灭金身防死效果 -->
+     <content contentuid="hc3d4e5f6a7b8c901g2345g6789g0123g456789012345" version="1">不灭金身护体</content>
+     <content contentuid="hd4e5f6a7b8c9d012g3456g7890g1234g567890123456" version="1">受到不灭金身光环保护，当受到足以致命的伤害时，生命值被保持在1点。</content>
+     
+     <content contentuid="hf8a9b0c1d2e3f456g7890g1234g5678g901234567890" version="1">10级时，武师获得不灭金身（5环神术），这是一个强大的反应技能，能在危急时刻完全恢复生命并增强战斗能力，同时为周围盟友提供防死保护光环。</content>
+    <content contentuid="ha9b0c1d2e3f4a567g8901g2345g6789g012345678901" version="1">武师特性：不灭金身</content>
+</contentList>

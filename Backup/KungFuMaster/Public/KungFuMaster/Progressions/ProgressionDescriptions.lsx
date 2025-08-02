@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  KungFuMaster 进展描述配置文件
+  定义武侠子职业和各种武功门类的显示名称、描述和选择器ID
+  用于角色创建和升级时的界面显示
+-->
+<save>
+    <!-- 文件格式版本信息 -->
+    <version major="4" minor="0" revision="9" build="319"/>
+    <!-- 进展描述区域：包含所有进展选项的描述信息 -->
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <!-- 武侠子职业 -->
+                <node id="ProgressionDescription">
+                    <!-- 子职业描述：武功修炼的详细说明 -->
+                    <attribute id="Description" type="TranslatedString" handle="he84d54b6g3bd0g4693g9cb3g148897371853" version="1"/>
+                    <!-- 子职业显示名称：武侠 -->
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf9ae34c1g23a1g4db9gb0dbg53aaf95eef82" version="1"/>
+                    <!-- 子职业类型标识符 -->
+                    <attribute id="Type" type="FixedString" value="KungFuMaster"/>
+                    <!-- 关联的进展表ID -->
+                    <attribute id="ProgressionTableId" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a"/>
+                    <!-- 子职业唯一标识符 -->
+                    <attribute id="UUID" type="guid" value="28d84fd0-fe62-488a-ab59-e430e9c83190"/>
+                </node>
+                <!-- 硬功门类：刚猛外功修炼 -->
+                <node id="ProgressionDescription">
+                    <!-- 硬功描述：刚猛武功的修炼方法 -->
+                    <attribute id="Description" type="TranslatedString" handle="he86e97a0gf404g49e6g9d48g9df39c696dbd" version="1"/>
+                    <!-- 硬功显示名称 -->
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5588c27agf95fg466bgb44egd88a73a689ee" version="1"/>
+                    <!-- 硬功选择器ID -->
+                    <attribute id="SelectorId" type="FixedString" value="YingGong"/>
+                    <!-- 关联的进展表ID -->
+                    <attribute id="ProgressionTableId" type="guid" value="f7d159e6-c3c3-4b61-93e9-f934bdfa293a"/>
+                    <!-- 硬功唯一标识符 -->
+                    <attribute id="UUID" type="guid" value="b4d27059-bcbb-45fe-921f-b1359a8539fb"/>
+                </node>
+                <!-- 轻功门类：身法移动修炼 -->
+                <node id="ProgressionDescription">
+                    <!-- 轻功描述：身法移动的修炼方法 -->
+                    <attribute id="Description" type="TranslatedString" handle="h6a27bd83gbff9g449bgbd0bg7ab357df5e21" version="1"/>
+                    <!-- 轻功显示名称 -->
+                    <attribute id="DisplayName" type="TranslatedString" handle="he94a2dbfg4862g4eb0ga2dbg066ba04130a3" version="1"/>
+                    <!-- 轻功选择器ID -->
+                    <attribute id="SelectorId" type="FixedString" value="QingGong"/>
+                    <!-- 轻功唯一标识符 -->
+                    <attribute id="UUID" type="guid" value="b454bced-6b5c-41c5-8bcd-f136cc0bd735"/>
+                </node>
+                <!-- 内功门类：内力心法修炼 -->
+                <node id="ProgressionDescription">
+                    <!-- 内功描述：内力心法的修炼方法 -->
+                    <attribute id="Description" type="TranslatedString" handle="h6c9d2010gadaeg4d69g9a3dg9f8444fc22ad" version="1"/>
+                    <!-- 内功显示名称 -->
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf74ad82dg5348g4b04gaedfga9f21f55f4e1" version="1"/>
+                    <!-- 内功选择器ID -->
+                    <attribute id="SelectorId" type="FixedString" value="NeiGong"/>
+                    <!-- 内功唯一标识符 -->
+                    <attribute id="UUID" type="guid" value="28771f61-706d-4889-8a47-22ee108cdf44"/>
+                </node>
+                <!-- 外功门类：招式技法修炼 -->
+                <node id="ProgressionDescription">
+                    <!-- 外功描述：招式技法的修炼方法 -->
+                    <attribute id="Description" type="TranslatedString" handle="hd52899f5g8e89g4414gb2cdg3255c4fc8336" version="1"/>
+                    <!-- 外功显示名称 -->
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7e010da3g9923g4e80g8b25g6a0bacf39ac1" version="1"/>
+                    <!-- 外功选择器ID -->
+                    <attribute id="SelectorId" type="FixedString" value="WaiGong"/>
+                    <!-- 外功唯一标识符 -->
+                    <attribute id="UUID" type="guid" value="8fc7a67b-b3fc-4894-8f3e-96d70067179c"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

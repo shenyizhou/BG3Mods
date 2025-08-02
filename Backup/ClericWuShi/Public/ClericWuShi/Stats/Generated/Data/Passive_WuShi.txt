@@ -1,0 +1,10 @@
+// 武师子职业被动技能定义文件
+
+// 五雷天心正法 - 7级被动技能
+new entry "WuShi_WuLeiTianXinZhengFa"
+type "PassiveData"
+data "Icon" "GenericIcon_DamageType_Lightning"
+data "DisplayName" "h8222880eg02b6g4811gb8d0g05b39677e240;1"
+data "Description" "h6565d090ga0dag46e9gaf3bg41274d714f3f;1"
+data "Properties" "Highlighted"
+data "Boosts" "IgnoreResistance(Thunder,Immune);IgnoreResistance(Thunder,Resistant);IgnoreResistance(Lightning,Immune);IgnoreResistance(Lightning,Resistant);IgnoreResistance(Radiant,Immune);IgnoreResistance(Radiant,Resistant);UnlockSpell(Shout_WuShi_ShenXiaoLei)"
