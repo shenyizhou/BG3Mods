@@ -6,7 +6,7 @@
             <children>
                 <node id="Dependencies"/>
                 <node id="ModuleInfo">
-                    <attribute id="Author" type="LSString" value="LangMod"/>
+                    <attribute id="Author" type="LSString" value="Shenlang"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
                     <attribute id="Description" type="LSString" value="为所有12种基础主职业在2级、18级、20级各增加一个专长选择机会"/>
                     <attribute id="Folder" type="LSString" value="ExtraFeatsForAllClasses"/>
