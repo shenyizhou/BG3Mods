@@ -15,6 +15,7 @@
                     <children>
                         <node id="SubClasses">
                             <children>
+                                <!-- Original BG3 Fighter Subclasses -->
                                 <node id="SubClass">
                                     <attribute id="Object" type="guid"
                                         value="1be5aa5a-e221-4f0e-a1bf-be25f5d23224" />
@@ -27,38 +28,7 @@
                                     <attribute id="Object" type="guid"
                                         value="b722614a-303f-411a-bb19-a1882ad1f4cc" />
                                 </node>
-                                <node id="SubClass">
-                                    <attribute id="Object" type="guid"
-                                        value="0a01dc6b-ab1a-4c0e-8a5e-4787fe1f2caf" />
-                                </node>
-                                <node id="SubClass">
-                                    <attribute id="Object" type="guid"
-                                        value="38ea7fea-c486-40e3-973b-b9bc633d4aaa" />
-                                </node>
-                                <node id="SubClass">
-                                    <attribute id="Object" type="guid"
-                                        value="3449e88a-b378-40c2-b505-f8fe43d26c2d" />
-                                </node>
-                                <node id="SubClass">
-                                    <attribute id="Object" type="guid"
-                                        value="b3c39e0a-aa51-416f-b2a2-c848d56f4890" />
-                                </node>
-                                <node id="SubClass">
-                                    <attribute id="Object" type="guid"
-                                        value="d30f652e-a5ed-4d78-bc18-25290ceec524" />
-                                </node>
-                                <node id="SubClass">
-                                    <attribute id="Object" type="guid"
-                                        value="2f5a4183-8885-49dc-a211-fa1c53bc1606" />
-                                </node>
-                                <node id="SubClass">
-                                    <attribute id="Object" type="guid"
-                                        value="7f93e89c-fe4d-49a8-ad45-666071bd962f" />
-                                </node>
-                                <node id="SubClass">
-                                    <attribute id="Object" type="guid"
-                                        value="59091945-177c-419d-a847-46901a8a8687" />
-                                </node>
+                                <!-- FeiYu Subclass -->
                                 <node id="SubClass">
                                     <attribute id="Object" type="guid"
                                         value="a1b2c3d4-e5f6-7890-abcd-ef1234567890" />

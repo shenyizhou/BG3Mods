@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+    <!-- YouYing Subclass -->
+    <content contentuid="h1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8" version="1">幽影</content>
+    <content contentuid="h1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e9" version="1">掌握阴影力量的神秘游荡者，能够随意隐匿身形，如幽灵般无声无息。在3级时获得永久隐身能力，可以在战斗中自由切换隐身状态。</content>
+    
+    <!-- Shadow Stealth Spell -->
+    <content contentuid="h2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9" version="1">幽影潜行</content>
+    <content contentuid="h2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f0" version="1">融入阴影之中，获得高级隐身效果。再次使用可解除隐身。隐身期间获得移动速度加成和敏捷豁免优势，但攻击或施法会解除隐身。</content>
+    
+    <!-- Shadow Movement Passive -->
+    <content contentuid="h3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0" version="1">阴影移动</content>
+    <content contentuid="h3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a1" version="1">掌握了更高级的阴影技巧，解锁幽影潜行技能。隐身时移动速度提升，持续时间延长。</content>
+    
+    <!-- Shadow Resistance Passive -->
+    <content contentuid="h4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1" version="1">阴影抗性</content>
+    <content contentuid="h4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b2" version="1">与阴影的深度融合使你获得了对死灵和心灵伤害的抗性。受到死灵或心灵伤害时，伤害减半。</content>
+    
+    <!-- Shadow Strike Passive -->
+    <content contentuid="h5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2" version="1">阴影打击</content>
+    <content contentuid="h5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c3" version="1">在隐身状态下进行攻击时，可以进行一次攻击而不解除隐身，并且攻击附带额外的死灵伤害。</content>
+    
+    <!-- Shadow Master Passive -->
+    <content contentuid="h6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3" version="1">阴影大师</content>
+    <content contentuid="h6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d4" version="1">成为阴影的真正主人。隐身冷却时间减少，隐身时所有攻击获得优势，并且每次长休息恢复一个法术位。</content>
+</contentList>
