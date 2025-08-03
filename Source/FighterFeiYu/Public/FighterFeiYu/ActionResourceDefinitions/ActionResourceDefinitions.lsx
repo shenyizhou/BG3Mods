@@ -8,10 +8,10 @@
                     <attribute id="Description" type="TranslatedString" handle="feiyu_feiyudice_desc;1" version="1" />
                     <attribute id="DisplayName" type="TranslatedString" handle="feiyu_feiyudice;1" version="1" />
                     <attribute id="MaxLevel" type="uint32" value="0" />
-                    <attribute id="Name" type="FixedString" value="FeiYuDie" />
+                    <attribute id="Name" type="FixedString" value="FeiYuDice" />
                     <attribute id="ReplenishType" type="FixedString" value="ShortRest" />
                     <attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
-                    <attribute id="UUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567898" />
+                    <attribute id="UUID" type="guid" value="50a7023f-7cab-4b83-87be-7f58da3ba159" />
                 </node>
             </children>
         </node>

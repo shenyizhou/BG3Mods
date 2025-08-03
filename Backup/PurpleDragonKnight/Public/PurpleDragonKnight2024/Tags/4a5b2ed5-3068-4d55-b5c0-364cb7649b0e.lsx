@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="Fighter subclass." />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h278262dfg078dg4915g95d8gaec1fe876eb4" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h98067f8bg190dg44ddgbc8fg014a6918ac8d" version="1" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="FIGHTER_PURPLEDRAGONKNIGHT" />
+			<attribute id="UUID" type="guid" value="4a5b2ed5-3068-4d55-b5c0-364cb7649b0e" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Class" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="CharacterSheet" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="LevelMapValues">
+        <node id="root">
+            <children>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="2"/>
+                    <attribute id="Level5" type="LSString" value="3"/>
+                    <attribute id="Level9" type="LSString" value="4"/>
+                    <attribute id="Level13" type="LSString" value="5"/>
+                    <attribute id="Level17" type="LSString" value="6"/>
+                    <attribute id="Name" type="FixedString" value="StandardProficiencyBonusScaleRAW"/>
+                    <attribute id="UUID" type="guid" value="8daf40a7-2fbc-4b05-8191-40e91b43ff57"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level3" type="LSString" value="0"/>
+                    <attribute id="Level7" type="LSString" value="2d6"/>
+                    <attribute id="Name" type="FixedString" value="GravityBreathDamage"/>
+                    <attribute id="UUID" type="guid" value="27f1ece1-6dc6-4eb5-93d6-56334bb50acc"/>
+                </node>
+
+            </children>
+        </node>
+    </region>
+</save>

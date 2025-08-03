@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SkillLists">
+    <node id="root">
+      <children>
+        <node id="SkillList">
+                    <attribute id="Skills" type="LSString" value="Persuasion, AnimalHandling, Insight, Intimidation, Performance" />
+                    <attribute id="UUID" type="guid" value="3fc4fb91-6ec2-4df5-98b7-68d8b6efe8b4" />
+                </node>
+        <node id="SkillList">
+                    <attribute id="Skills" type="LSString" value="Persuasion" />
+                    <attribute id="UUID" type="guid" value="3853fb3e-f43c-4999-8481-fdc9fe3c057a" />
+                </node>
+        <node id="SkillList">
+                    <attribute id="Skills" type="LSString" value="AnimalHandling, History, Insight, Performance, Persuasion" />
+                    <attribute id="UUID" type="guid" value="b756081a-46a3-48ac-bcf5-74e91270ddde" />
+                </node>
+        <node id="SkillList">
+                    <attribute id="Skills" type="LSString" value="History, Insight, Performance, Persuasion" />
+                    <attribute id="UUID" type="guid" value="66cac504-c2a9-434c-84d7-3e63b83b577c" />
+                </node>
+        <node id="SkillList">
+                    <attribute id="Skills" type="LSString" value="Investigation, Perception, Survival" />
+                    <attribute id="UUID" type="guid" value="3bd46423-f0b6-432f-ac92-c3674c9cd074" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

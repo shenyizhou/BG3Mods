@@ -1,0 +1,225 @@
+local __util = require 'larian.util'
+
+function SRDHasAllyWithinRange(inclusionStatus, distance, tag, target, source)
+    distance = distance or 1.5
+    target = target or context.Target
+    source = source or context.Source
+
+    local errorTrue = {ConditionError("HasAllyWithinRange", {ConditionErrorData.MakeFromNumber(distance, EErrorDataType.Distance)})}
+    local errorFalse = {ConditionError("HasNotAllyWithinRange", {ConditionErrorData.MakeFromNumber(distance, EErrorDataType.Distance)})}
+
+    local allies = GetAlliesWithinRange(distance, target, source)
+    if allies ~= nil then
+        for _, entity in ipairs(allies.Allies) do
+            -- ensure entity has the included status
+            local noIncludedStatus = ConditionResult(inclusionStatus == nil)
+            if inclusionStatus then
+                noIncludedStatus = HasStatus(inclusionStatus, entity)
+            end
+
+            -- filter by tag if provided
+            local hasTag = ConditionResult(tag == nil)
+            if tag then
+                hasTag = Tagged(tag, entity)
+            end
+
+            if noIncludedStatus.Result and hasTag.Result then
+                return ConditionResult(true, errorFalse, errorTrue)
+            end
+        end
+    end
+
+    return ConditionResult(false, errorFalse, errorTrue)
+end
+
+function SRDHasEnemyWithinRange(inclusionStatus, distance, tag, NumberOfEnemy, target, source)
+    distance = distance or 1.5
+    NumberOfEnemy = NumberOfEnemy or 1
+    target = target or context.Target
+    source = source or context.Source
+
+    local errorTrue = {ConditionError("HasAllyWithinRange", {ConditionErrorData.MakeFromNumber(distance, EErrorDataType.Distance)})}
+    local errorFalse = {ConditionError("HasNotAllyWithinRange", {ConditionErrorData.MakeFromNumber(distance, EErrorDataType.Distance)})}
+
+    local enemies = GetEnemiesWithinRange(distance, target, source)
+    if enemies ~= nil then
+        -- Only do the check when we are surounded by more than or equal the NumberOfEnemy
+        if #enemies.Enemies >= NumberOfEnemy then
+            for _, entity in ipairs(enemies.Enemies) do
+                -- ensure entity has the included status
+                local noIncludedStatus = ConditionResult(inclusionStatus == nil)
+                if inclusionStatus then
+                    noIncludedStatus = HasStatus(inclusionStatus, entity)
+                end
+
+                -- filter by tag if provided
+                local hasTag = ConditionResult(tag == nil)
+                if tag then
+                    hasTag = Tagged(tag, entity)
+                end
+
+                if noIncludedStatus.Result and hasTag.Result then
+                    return ConditionResult(true, errorFalse, errorTrue)
+                end
+            end
+        end
+    end
+    return ConditionResult(false, errorFalse, errorTrue)
+end
+
+function SRDCanSee(source, target, from, to)
+	local source = source or context.Source
+	local target = target or context.Target
+    local from = from or context.SourcePosition
+    local to = to or context.Target	
+		
+	return CanSee(source, target) | SRDCanSeeSneaking(source, target, from, to) | SRDCanSeeInvisible(source, target, from, to) | SRDCanSeeBlinded(source, target, from, to) 
+end
+
+function SRDCanSeeSneaking(source, target, from, to)
+    local source = source or context.Source
+    local target = target or context.Target
+    local from = from or context.SourcePosition
+    local to = to or context.Target
+    
+    return HasStatus('SNEAKING', target) & (HasStatus('MIND_SPIKE_OWNER', source) & HasStatus('MIND_SPIKE', target, source))
+end
+
+function SRDCanSeeInvisible(source, target, from, to)
+	local source = source or context.Source
+	local target = target or context.Target
+    local from = from or context.SourcePosition
+    local to = to or context.Target	
+	
+    return Tagged('BLINDSIGHT', source) 
+       |  (HasStatus('MIND_SPIKE_OWNER', source) & HasStatus('MIND_SPIKE', target, source))
+       |  (HasStatus('TRUESIGHT', source) & ~DistanceToEntityGreaterThan(36.5, from, to))
+       | ((HasStatus('SEE_INVISIBILITY', source) | HasStatus('MAG_SEE_INVISIBILITY_HIDDEN_IGNORE_RESTING', source) | HasPassive('AllSeeingEye', source)) & ~DistanceToEntityGreaterThan(18.5, from, to)) 
+       | ((HasPassive('FightingStyle_BlindFighting', source) | (HasPassive('Blindsense', source) & ~(HasPassive('Deafness',source) | HasStatus('SG_Deafened',source)))) & ~DistanceToEntityGreaterThan(3, from, to))	
+end	
+
+function SRDCanSeeBlinded(source, target, from, to)
+    local source = source or context.Source
+    local target = target or context.Target
+    local from = from or context.SourcePosition
+    local to = to or context.Target	
+
+    return HasStatus('SG_Blinded', source) & (Tagged('BLINDSIGHT', source) 
+       |  (HasStatus('MIND_SPIKE_OWNER', source) & HasStatus('MIND_SPIKE', target, source))
+       |  (HasStatus('TRUESIGHT', source) & ~DistanceToEntityGreaterThan(36.5, from, to)) 
+       | ((HasStatus('SEE_INVISIBILITY', source) | HasStatus('MAG_SEE_INVISIBILITY_HIDDEN_IGNORE_RESTING', source) | HasPassive('AllSeeingEye', source)) & ~DistanceToEntityGreaterThan(18.5, from, to)) 
+       | ((HasPassive('FightingStyle_BlindFighting', source) | (HasPassive('Blindsense', source) & ~(HasPassive('Deafness',source) | HasStatus('SG_Deafened',source)))) & ~DistanceToEntityGreaterThan(3, from, to)))
+end
+
+function IntGreaterThan(value, entity)
+    entity = entity or context.Target
+    return ConditionResult(entity.Intelligence > value)
+end
+
+function PurpleDragonAttackCheck()
+    return SpellId('Target_Rend_PurpleDragon') | SpellId('Target_Rend_PurpleDragon_2') | SpellId('Zone_GravityBreath') | SpellId('Zone_GravityBreath_2')
+end
+
+function CanDragonAttack()
+	result = ~HasStatus('PDK_HOVER',context.Source)
+    return ConditionResult(result.Result, {ConditionError("CannotDragonAttack")})
+end
+
+function IsBondedKnight()
+	result = SummonOwner(context.Source,context.Target)
+    return ConditionResult(result.Result, {ConditionError("IsNotBondedKnight")})
+end
+
+function CanFlightCarrySize()
+	result = TargetSizeEqualOrSmaller(Size.Medium)
+    return ConditionResult(result.Result, {ConditionError("CannotFlightCarry")})
+end
+
+function IsSameAttackRange(entity)
+	local entity = entity or context.Source
+	return WieldingWeapon('Melee',false,true,entity) | IsFightingUnarmed(entity)
+end
+
+function IsFightingUnarmed(entity)
+	local entity = entity or context.Source
+	return ~WieldingWeapon('Melee',false,false,entity) & ~WieldingWeapon('Ammunition',false,false,entity)
+end
+
+function CanBeRallied()
+	result = ~HasStatus('RALLYING_SURGE_ADVANCE',context.Target,context.Source) & ~HasStatus('RALLYING_SURGE_ADVANCE_TECHNICAL',context.Target,context.Source) & ~HasStatus('RALLYING_SURGE_RETREAT_TECHNICAL',context.Target,context.Source) & ~HasStatus('RALLYING_SURGE_RETREAT',context.Target,context.Source)
+    return ConditionResult(result.Result, {ConditionError("HasAlreadyBeenRallied")})
+end
+
+function CanRallyAttack(inclusionStatus, distance, NumberOfEnemy, target, source)
+    distance = distance or 18
+    NumberOfEnemy = NumberOfEnemy or 1
+    target = target or context.Target
+    source = source or context.Target
+
+    local errorTrue = {ConditionError("HasAllyWithinRange", {ConditionErrorData.MakeFromNumber(distance, EErrorDataType.Distance)})}
+    local errorFalse = {ConditionError("NotInRallyAttackRange")}
+	
+    local enemies = GetEnemiesWithinRange(distance, target, source)
+    if enemies ~= nil then
+        -- Only do the check when we are surounded by more than or equal the NumberOfEnemy
+        if #enemies.Enemies >= NumberOfEnemy then
+            for _, entity in ipairs(enemies.Enemies) do
+                -- ensure entity has the included status
+                local noIncludedStatus = ConditionResult(inclusionStatus == nil)
+                if inclusionStatus then
+                    noIncludedStatus = HasStatus(inclusionStatus, entity, target)
+                end
+
+                if noIncludedStatus.Result then
+                    return ConditionResult(true, errorFalse, errorTrue)
+                end
+            end
+        end
+    end
+    return ConditionResult(false, errorFalse, errorTrue)
+end    
+	
+function CannotRallyRush()
+	return ~HasStatus('STALWART_BOND',context.Observer) & ~PlayableRace(context.Observer)
+end
+
+function IsInRallyRange()
+	result = HasAnyStatus({'RALLYING_SURGE_ADVANCE_ALLY_MELEE','RALLYING_SURGE_ADVANCE_ALLY_REACH','RALLYING_SURGE_ADVANCE_ALLY_RANGED'},{},{},context.Target,context.Source)
+    return ConditionResult(result.Result, {ConditionError("NotInRallyRange")})
+end	
+
+function IsInRendRange()
+	result = HasStatus('IN_MELEE_RANGE_PDK')
+    return ConditionResult(result.Result, {ConditionError("NotInRendRange")})
+end	
+
+function IsInGravityBreathRange()
+	result = HasStatus('IN_BREATH_RANGE_PDK')
+    return ConditionResult(result.Result, {ConditionError("NotInGBreathRange")})
+end	
+
+function CanTandemAttack(inclusionStatus, distance, target, source)
+    distance = distance or 30
+    target = target or context.Target
+    source = source or context.Source
+
+    local errorTrue = {ConditionError("HasAllyWithinRange", {ConditionErrorData.MakeFromNumber(distance, EErrorDataType.Distance)})}
+    local errorFalse = {ConditionError("HasNotAllyWithinRange", {ConditionErrorData.MakeFromNumber(distance, EErrorDataType.Distance)})}
+
+    local allies = GetAlliesWithinRange(distance, target, source)
+    if allies ~= nil then
+        for _, entity in ipairs(allies.Allies) do
+            -- ensure entity has the included status
+            local noIncludedStatus = ConditionResult(inclusionStatus == nil)
+            if inclusionStatus then
+                noIncludedStatus = HasStatus(inclusionStatus, entity, source)
+            end
+
+            if noIncludedStatus.Result then
+                return ConditionResult(true, errorFalse, errorTrue)
+            end
+        end
+    end
+
+    return ConditionResult(false, errorFalse, errorTrue)
+end

@@ -1,2 +1,0 @@
-valuelist "StatusGroupFlags"
-value "SG_Intoxicated"

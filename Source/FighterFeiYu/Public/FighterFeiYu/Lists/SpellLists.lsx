@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328" />
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="FeiYu Combat Techniques" />
+                    <attribute id="Spells" type="LSString" value="FeiYu_LiuXingLianYu;FeiYu_FengJuanCanYu;FeiYu_JingHongLuanYu" />
+                    <attribute id="UUID" type="guid" value="6402c4ee-03a9-41e1-a14f-663f2fcf2d0b" />
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

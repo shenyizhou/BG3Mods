@@ -1,0 +1,12 @@
+new spellset "FeiYuFeatherActions"
+add spell "Target_FeiYu_FeatherStrike"
+add spell "Target_FeiYu_FeatherDance"
+add spell "Target_FeiYu_FeatherBarrage"
+add spell "Shout_FeiYu_FeatherShield"
+
+new spellset "FeiYuCombatManeuvers"
+add spell "Target_FeiYu_FeatherStrike"
+add spell "Target_FeiYu_FeatherDance"
+add spell "Target_FeiYu_FeatherBarrage"
+add spell "Shout_FeiYu_FeatherShield"
+add spell "Target_FeiYu_FeatherStorm"

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="TooltipExtraTexts">
+        <node id="root">
+            <children>
+                <node id="TooltipExtraTexts">
+                    <attribute id="Text" type="TranslatedString" handle="hc81aa04bg6999g408cgbe59g85416b29cdfb" version="1"/>
+                    <attribute id="UUID" type="guid" value="c7789056-48bd-4d6c-b4e2-c99ae5d96e8b"/>
+                </node>
+                <node id="TooltipExtraTexts">
+                    <attribute id="Text" type="TranslatedString" handle="h294d4374gb1c6g4445g9a01gbcd3ba9e366c" version="1"/>
+                    <attribute id="UUID" type="guid" value="1e5026b0-b955-4a80-b254-9191f9123ae7"/>
+                </node>
+                <node id="TooltipExtraTexts">
+                    <attribute id="Text" type="TranslatedString" handle="hde014cf6g0ab0g4fa2gb2d0g3c243c9a3802" version="1"/>
+                    <attribute id="UUID" type="guid" value="68bfafac-ec0c-4aec-b34f-7939fb2b7a1d"/>
+                </node>
+                <node id="TooltipExtraTexts">
+                    <attribute id="Text" type="TranslatedString" handle="h8735b6eagbdcag44e7gb0ebg68c54dc50f8f" version="1"/>
+                    <attribute id="UUID" type="guid" value="9060b43b-22e1-4c96-a648-58054dae8ea5"/>
+                </node>
+                <node id="TooltipExtraTexts">
+                    <attribute id="Text" type="TranslatedString" handle="h39e2233eg3101g433cg934dgf7d49231e717" version="1"/>
+                    <attribute id="UUID" type="guid" value="4d805a2c-2042-4694-bcd5-bfd2ee1676cb"/>
+                </node>
+                <node id="TooltipExtraTexts">
+                    <attribute id="Text" type="TranslatedString" handle="hda06eac5gc8e9g4f90gad70geb7332d6b6d1" version="1"/>
+                    <attribute id="UUID" type="guid" value="b84a94bd-4b7e-4001-a099-de8f8686aef9"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,3 +1,0 @@
-new equipment "EQ_Underwear_Gnomes_Sunstone"
-add equipmentgroup
-add equipment entry "ARM_Underwear_Karlach"

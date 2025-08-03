@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="Progressions">
+    <node id="root">
+      <children>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="3" />
+                    <attribute id="Name" type="LSString" value="Fighter" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="ba4e707e-4bbd-4630-963b-ce2f2947f971" />
+                    <attribute id="UUID" type="guid" value="23eacff0-9efe-4ea6-b031-19075cc96b63" />
+                    <children>
+                        <node id="SubClasses">
+                            <children>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="1be5aa5a-e221-4f0e-a1bf-be25f5d23224" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="e668c6f1-5149-4b10-ab7e-3637ed444066" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="b722614a-303f-411a-bb19-a1882ad1f4cc" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="0a01dc6b-ab1a-4c0e-8a5e-4787fe1f2caf" />
+                                </node>
+
+								<node id="SubClass"> 
+                                    <attribute id="Object" type="guid" value="579e83f7-3882-4163-89b7-1d8c1559487a" /> 
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="3" />
+                    <attribute id="Name" type="LSString" value="PurpleDragonKnight2024" />
+                    <attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="PurpleDragonCompanionUnlock_3;SecondWind_PDK;RevivePurleDragonCompanion;StalwartBond" />
+					<attribute id="Boosts" type="LSString" value="ActionResource(PDKCompanionUse,1,0);ActionResource(SecondWindUse,1,0)" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="Selectors" type="LSString" value="AddSpells(afc372b0-09c9-4be5-be2e-e248670c6b44,,Intelligence,,AlwaysPrepared,UntilRest)" />
+                    <attribute id="TableUUID" type="guid" value="37b306ae-bbe0-45de-a765-313f18c1e6d0" /> 
+                    <attribute id="UUID" type="guid" value="71e9839f-83c6-41c5-a01e-d5171240f3a3" />
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="7" />
+                    <attribute id="Name" type="LSString" value="PurpleDragonKnight2024" />
+                    <attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="SharedSecondWind;DragonMount;ImprovedGravityBreath" />
+					<attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="TableUUID" type="guid" value="37b306ae-bbe0-45de-a765-313f18c1e6d0" /> 
+                    <attribute id="UUID" type="guid" value="7f199e04-8080-476f-a057-35a4b1c8f7e2" />
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="10" />
+                    <attribute id="Name" type="LSString" value="PurpleDragonKnight2024" />
+                    <attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="RallyingSurge" />
+					<attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="TableUUID" type="guid" value="37b306ae-bbe0-45de-a765-313f18c1e6d0" /> 
+                    <attribute id="UUID" type="guid" value="8f627ac4-0ac2-4c5b-bfb2-45f084ffe252" />
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="15" />
+                    <attribute id="Name" type="LSString" value="PurpleDragonKnight2024" />
+                    <attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="SuperiorMount;ImprovedGravityBreath_2;TandemAttackUnlock;TandemAttackTracker" />
+					<attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="TableUUID" type="guid" value="37b306ae-bbe0-45de-a765-313f18c1e6d0" /> 
+                    <attribute id="UUID" type="guid" value="4a9625c3-3a50-48f0-9324-b45803e0a403" />
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="18" />
+                    <attribute id="Name" type="LSString" value="PurpleDragonKnight2024" />
+                    <attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="EnduringCommander" />
+					<attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="TableUUID" type="guid" value="37b306ae-bbe0-45de-a765-313f18c1e6d0" /> 
+                    <attribute id="UUID" type="guid" value="3c73614c-62a1-4de4-8f67-be52b38f1bd2" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

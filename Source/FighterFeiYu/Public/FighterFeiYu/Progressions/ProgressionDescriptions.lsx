@@ -1,24 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <save>
-  <version major="4" minor="0" revision="9" build="328" />
-  <region id="ProgressionDescriptions">
-    <node id="root">
-      <children>
-        <node id="ProgressionDescription">
-          <attribute id="Description" type="TranslatedString" handle="feiyudescript" version="1" />
-          <attribute id="DisplayName" type="TranslatedString" handle="feiyu" version="1" />
-          <attribute id="ExactMatch" type="FixedString" value="FeiYu" />
-          <attribute id="ProgressionTableId" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567892" />
-          <attribute id="UUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567899" />
-        </node>
-        <node id="ProgressionDescription">
-          <attribute id="Description" type="TranslatedString" handle="feiyudie_desc" version="1" />
-          <attribute id="DisplayName" type="TranslatedString" handle="feiyudie_name" version="1" />
-          <attribute id="ParamMatch" type="FixedString" value="0:FeiYuDie" />
-          <attribute id="Type" type="FixedString" value="ActionResource" />
-          <attribute id="UUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567900" />
-        </node>
-      </children>
-    </node>
-  </region>
+	<version major="4" minor="0" revision="9" build="328" />
+	<region id="ProgressionDescriptions">
+		<node id="root">
+			<children>
+				<node id="ProgressionDescription">
+					<attribute id="Description" type="TranslatedString" handle="feiyudescript" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="feiyu" version="1" />
+					<attribute id="ExactMatch" type="FixedString" value="FeiYu" />
+					<attribute id="ProgressionTableId" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567892" />
+					<attribute id="UUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567899" />
+				</node>
+				<node id="ProgressionDescription">
+					<attribute id="Description" type="TranslatedString" handle="feiyudice_desc" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="feiyudice_name" version="1" />
+					<attribute id="ParamMatch" type="FixedString" value="0:FeiYuDice" />
+					<attribute id="Type" type="FixedString" value="ActionResource" />
+					<attribute id="UUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567900" />
+				</node>
+				<node id="ProgressionDescription">
+					<attribute id="Description" type="TranslatedString" handle="feiyu_feiyucombat" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="feiyu_feiyucombat_desc" version="1" />
+					<attribute id="SelectorId" type="FixedString" value="FeiYuCombat" />
+					<attribute id="UUID" type="guid" value="9db13e14-dc6d-4851-9e19-f45f8c4f5106" />
+				</node>
+			</children>
+		</node>
+	</region>
 </save>

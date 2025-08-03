@@ -31,7 +31,7 @@
                                 <!-- FeiYu Subclass -->
                                 <node id="SubClass">
                                     <attribute id="Object" type="guid"
-                                        value="a1b2c3d4-e5f6-7890-abcd-ef1234567890" />
+                                        value="1fd21638-e994-4c5b-bc48-9ed0c53a653c" />
                                 </node>
                             </children>
                         </node>
@@ -39,38 +39,38 @@
                 </node>
 
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(FeiYuDie,4,0)" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(FeiYuDice,4,0)" />
                     <attribute id="Level" type="uint8" value="3" />
                     <attribute id="Name" type="LSString" value="FeiYu" />
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(a1b2c3d4-e5f6-7890-abcd-ef1234567891,1,0,,,,AlwaysPrepared)" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(6402c4ee-03a9-41e1-a14f-663f2fcf2d0b,1,0,FeiYuCombat)" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="TableUUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567892" />
                     <attribute id="UUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567893" />
                 </node>
 
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(FeiYuDie,1,0)" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(FeiYuDice,1,0)" />
                     <attribute id="Level" type="uint8" value="7" />
                     <attribute id="Name" type="LSString" value="FeiYu" />
                     <attribute id="PassivesAdded" type="LSString" value="FeiYu_YuanMenSheJi" />
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(a1b2c3d4-e5f6-7890-abcd-ef1234567891,1,0,,,,AlwaysPrepared)" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(6402c4ee-03a9-41e1-a14f-663f2fcf2d0b,1,0,FeiYuCombat)" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="TableUUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567892" />
                     <attribute id="UUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567894" />
                 </node>
 
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(FeiYuDie,1,0)" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(FeiYuDice,1,0)" />
                     <attribute id="Level" type="uint8" value="10" />
                     <attribute id="Name" type="LSString" value="FeiYu" />
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(a1b2c3d4-e5f6-7890-abcd-ef1234567891,1,0,,,,AlwaysPrepared)" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(6402c4ee-03a9-41e1-a14f-663f2fcf2d0b,1,0,FeiYuCombat)" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="TableUUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567892" />
                     <attribute id="UUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567895" />
                 </node>
 
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(FeiYuDie,1,0)" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(FeiYuDice,1,0)" />
                     <attribute id="Level" type="uint8" value="15" />
                     <attribute id="Name" type="LSString" value="FeiYu" />
                     <attribute id="PassivesAdded" type="LSString" value="FeiYu_FeiYuMastery" />
@@ -80,7 +80,7 @@
                 </node>
 
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(FeiYuDie,1,0)" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(FeiYuDice,1,0)" />
                     <attribute id="Level" type="uint8" value="18" />
                     <attribute id="Name" type="LSString" value="FeiYu" />
                     <attribute id="ProgressionType" type="uint8" value="1" />

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="Fighter subclass - FeiYu (Flying Feather)." />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="ha1b2c3d4ge5f6g7890gabcdgef1234567841" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="ha1b2c3d4ge5f6g7890gabcdgef1234567842" version="1" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="FIGHTER_FEIYU" />
+			<attribute id="UUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567840" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Class" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="CharacterSheet" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
