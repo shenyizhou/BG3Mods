@@ -1,8 +1,0 @@
-{
-  "RequiredVersion": 3,
-  "ModTable": "RuneKnight5e",
-    "FeatureFlags": [
-      "Osiris",
-      "Lua"
-    ]
-}
