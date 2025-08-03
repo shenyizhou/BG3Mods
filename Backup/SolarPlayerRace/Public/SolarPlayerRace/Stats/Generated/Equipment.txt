@@ -1,0 +1,38 @@
+new equipment "LAR_EQP_Solar"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "LAR_Solar_Plate"
+add equipmentgroup
+add equipment entry "LAR_Solar_Gloves"
+add equipmentgroup
+add equipment entry "LAR_Solar_Boots"
+add equipmentgroup
+add equipment entry "LAR_Underwear_Solar"
+add equipmentgroup
+add equipment entry "LAR_Camp_Leather_BlackSolar"
+add equipmentgroup
+add equipment entry "LAR_CRE_Crest_Abbot"
+
+new equipment "LAR_EQP_SolarDaisy"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "LAR_AYLIN_Plate"
+add equipmentgroup
+add equipment entry "LAR_AYLIN_Gloves"
+add equipmentgroup
+add equipment entry "LAR_AYLIN_Boots"
+add equipmentgroup
+add equipment entry "UNI_DaisyPlaysuit"
+
+new equipment "LAR_EQP_SolarDaisy_Strong"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "LAR_AYLIN_Plate"
+add equipmentgroup
+add equipment entry "LAR_AYLIN_Gloves"
+add equipmentgroup
+add equipment entry "LAR_AYLIN_Boots"
+add equipmentgroup
+add equipment entry "LAR_AYLIN_Wing"
+add equipmentgroup
+add equipment entry "UNI_DaisyPlaysuit"

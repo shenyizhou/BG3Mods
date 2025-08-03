@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="4" revision="0" build="200"/>
+    <region id="IconUVList">
+        <node id="root">
+            <children>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="LAR_Tail_efa44291-c0c7-4d69-8143-3425214e5a73"/>
+                    <attribute id="U1" type="float" value="0"/>
+                    <attribute id="U2" type="float" value="0.2"/>
+                    <attribute id="V1" type="float" value="0"/>
+                    <attribute id="V2" type="float" value="1"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="LAR_Horns_47b19354-b06d-4990-b2fa-ef211e59ec1c"/>
+                    <attribute id="U1" type="float" value="0.2"/>
+                    <attribute id="U2" type="float" value="0.4"/>
+                    <attribute id="V1" type="float" value="0"/>
+                    <attribute id="V2" type="float" value="1"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="LAR_Wings_acf6b0a2-a850-451d-98de-3bd20e0ab797"/>
+                    <attribute id="U1" type="float" value="0.4"/>
+                    <attribute id="U2" type="float" value="0.6"/>
+                    <attribute id="V1" type="float" value="0"/>
+                    <attribute id="V2" type="float" value="1"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="LAR_Halos_02fe2fde-14c6-41bf-ab5a-55b927a2c7a4"/>
+                    <attribute id="U1" type="float" value="0.6"/>
+                    <attribute id="U2" type="float" value="0.8"/>
+                    <attribute id="V1" type="float" value="0"/>
+                    <attribute id="V2" type="float" value="1"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="XXXX"/>
+                    <attribute id="U1" type="float" value="0.8"/>
+                    <attribute id="U2" type="float" value="0.0"/>
+                    <attribute id="V1" type="float" value="0"/>
+                    <attribute id="V2" type="float" value="1"/>
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="TextureAtlasInfo">
+        <node id="root">
+            <children>
+                <node id="TextureAtlasIconSize">
+                    <attribute id="Height" type="int32" value="150"/>
+                    <attribute id="Width" type="int32" value="150"/>
+                </node>
+                <node id="TextureAtlasPath">
+                    <attribute id="Path" type="string" value="Public/SolarPlayerRace/Assets/Textures/Icons/LAR_CCICON.DDS"/>
+                    <attribute id="UUID" type="FixedString" value="adee4265-d1d8-4efb-944d-101cdd8aaf6f"/>
+                </node>
+                <node id="TextureAtlasTextureSize">
+                    <attribute id="Height" type="int32" value="150"/>
+                    <attribute id="Width" type="int32" value="750"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

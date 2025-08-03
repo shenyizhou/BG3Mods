@@ -1,0 +1,13 @@
+new entry "LAR_COMMAND_FLEE"
+type "StatusData"
+data "StatusType" "FEAR"
+using "FEARED"
+data "DisplayName" "h292c8308g7844g4a42g9bceg725c4c9ab558;1"
+data "Description" "h655a79fdg6a09g4fd5g8bf8gf4fc425ce4ee;3"
+data "Icon" "Spell_Enchantment_CommandFlee"
+data "Boosts" "ActionResourceBlock(ActionPoint); ActionResourceBlock(BonusActionPoint); ActionResourceBlock(ReactionActionPoint)"
+data "StatusGroups" "SG_Condition;SG_Fleeing"
+data "TickType" "EndTurn"
+data "StatusEffect" "66787c98-d470-45a0-b82d-263de495d938"
+data "TooltipSave" ""
+

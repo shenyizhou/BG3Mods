@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="CharacterCreationSharedVisuals">
+    <node id="root">
+      <children>
+        <node id="CharacterCreationSharedVisual">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7d59a251g871bg4278ga0acge4f5e04dabc2" version="1" />
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop" />
+                    <attribute id="UUID" type="guid" value="57c533e7-a47f-46a4-9987-47f83858e5b2" />
+                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000" />
+                </node>
+        <node id="CharacterCreationSharedVisual"> tyr
+                    <attribute id="DisplayName" type="TranslatedString" handle="h326cd2d5g3257g4487g8e52g975e684fee93" version="1" />
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop" />
+                    <attribute id="UUID" type="guid" value="7e13d6b1-552a-46bb-9917-647709430b07" />
+                    <attribute id="VisualResource" type="guid" value="e00bc611-81b7-44da-ac8e-12224ee847b5" />
+                </node>
+        <node id="CharacterCreationSharedVisual"> mystra
+                    <attribute id="DisplayName" type="TranslatedString" handle="h120ac40cgdc5bg4ba4gb9f6g3f7eaeba8ff2" version="1" />
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop" />
+                    <attribute id="UUID" type="guid" value="08e5d6a5-c258-424f-aebf-35720910363e" />
+                    <attribute id="VisualResource" type="guid" value="e672cbd8-fc55-423b-b677-ec0cf745bcca" />
+                </node>
+        <node id="CharacterCreationSharedVisual"> unknown
+                    <attribute id="DisplayName" type="TranslatedString" handle="h39c910a1g3f8ag4602g8fc4gd0891cf623cb" version="1" />
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop" />
+                    <attribute id="UUID" type="guid" value="325232d5-4791-43b9-ae9f-9e0e9558345f" />
+                    <attribute id="VisualResource" type="guid" value="c0997990-a658-4279-af4f-8b7e36bd432b" />
+                </node>
+        <node id="CharacterCreationSharedVisual"> selune
+                    <attribute id="DisplayName" type="TranslatedString" handle="h17101588g8104g48a1g91a4g93204ba9d141" version="1" />
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop" />
+                    <attribute id="UUID" type="guid" value="03588d28-8859-405b-9e4a-ed0daa7a3018" />
+                    <attribute id="VisualResource" type="guid" value="a190c60d-26fe-4d81-b697-72d04f16b010" />
+                </node>
+        <node id="CharacterCreationSharedVisual"> selune alt
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4f0e2bbfg1943g45ebg8320gaa507cb06341" version="1" />
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop" />
+                    <attribute id="UUID" type="guid" value="ac8c6be3-febb-444e-b22c-012d8b5007df" />
+                    <attribute id="VisualResource" type="guid" value="67928c86-cc44-496b-b5ee-fc9b0bfae648" />
+                </node>
+        <node id="CharacterCreationSharedVisual"> lathander
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1ed746a9g1d5ag4c83g8149ge4f513c48852" version="1" />
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop" />
+                    <attribute id="UUID" type="guid" value="c2c1d11a-4a01-4246-85ce-743ecae0847e" />
+                    <attribute id="VisualResource" type="guid" value="4a67fbde-c972-4b67-b237-1259cb45ea20" />
+                </node>
+        <node id="CharacterCreationSharedVisual"> lathander alt
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb8ef220fg1c2bg4effga527g2258a62b14af" version="1" />
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop" />
+                    <attribute id="UUID" type="guid" value="a29e95f7-837d-4068-9d91-fb0dfa3a7fd4" />
+                    <attribute id="VisualResource" type="guid" value="5cd0c63e-c6d9-43b9-9cbd-7f0128b1925f" />
+                </node>
+        <node id="CharacterCreationSharedVisual"> lathander third
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1d0fb457g5525g443cg8dabgc7fa56673bee" version="1" />
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop" />
+                    <attribute id="UUID" type="guid" value="aadc3e07-c7b1-4794-abdd-28f1e2dc554e" />
+                    <attribute id="VisualResource" type="guid" value="4cea43d4-f558-462f-a36c-e25b93491dfd" />
+                </node>
+        <node id="CharacterCreationSharedVisual"> ratio
+                    <attribute id="DisplayName" type="TranslatedString" handle="hdbb140b4g3570g4632g8c1cg29a976cf8bc9" version="1" />
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop" />
+                    <attribute id="UUID" type="guid" value="52e3cca2-a490-4c52-a5f7-4be65b232469" />
+                    <attribute id="VisualResource" type="guid" value="ab28ca34-026d-4d7f-b374-f42b241392a5" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

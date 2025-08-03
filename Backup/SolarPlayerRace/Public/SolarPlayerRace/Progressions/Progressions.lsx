@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="Progressions">
+    <node id="root">
+      <children>
+        <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Wisdom,1);Ability(Charisma,1);ProficiencyBonus(Skill,Investigation);ProficiencyBonus(Skill,Perception);ActionResource(Movement,12,0);ProficiencyBonus(Skill,Persuasion)" />
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="LAR_BaseSolar" />
+                    <attribute id="PassivesAdded" type="LSString" value="LAR_Floating;LAR_SolarSight;LAR_Awareness;DivineHealth" />
+                    <attribute id="ProgressionType" type="uint8" value="2" />
+                    <attribute id="TableUUID" type="guid" value="211bee9d-e6e7-42e2-a0b4-7c13e023f0ee" />
+                    <attribute id="UUID" type="guid" value="57fcf152-ea3c-404b-b19a-ac003384d335" />
+                </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="LAR_SolarProgression" />
+                    <attribute id="PassivesAdded" type="LSString" value="LAR_SOL_AnimationToggle;LAR_SwolSolar;LAR_MagicResistance;LAR_SolarStats;LAR_PhysicalResistance;LAR_ExtraAttackSolar;LAR_DownThere" />
+                    <attribute id="ProgressionType" type="uint8" value="2" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(146d4009-6c00-4a5b-ab92-724f20e43e3c)" />
+                    <attribute id="TableUUID" type="guid" value="ae38f5ad-ae38-4998-8779-66be554a2854" />
+                    <attribute id="UUID" type="guid" value="29e9e3af-fd3c-41fe-b8f7-59455b7154e5" />
+                </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="3" />
+                    <attribute id="Name" type="LSString" value="LAR_SolarProgression" />
+                    <attribute id="PassivesAdded" type="LSString" value="XXX" />
+                    <attribute id="ProgressionType" type="uint8" value="2" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(ccd2603d-537e-4701-8cae-cbd147f40ff7)" />
+                    <attribute id="TableUUID" type="guid" value="ae38f5ad-ae38-4998-8779-66be554a2854" />
+                    <attribute id="UUID" type="guid" value="c00602d9-d520-4ceb-afba-28a79f823022" />
+                </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Boosts" type="LSString" value="XXX" />
+                    <attribute id="Level" type="uint8" value="5" />
+                    <attribute id="Name" type="LSString" value="LAR_SolarProgression" />
+                    <attribute id="ProgressionType" type="uint8" value="2" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(1e27d624-ab0a-45da-a2f5-de1d392aff39)" />
+                    <attribute id="TableUUID" type="guid" value="ae38f5ad-ae38-4998-8779-66be554a2854" />
+                    <attribute id="UUID" type="guid" value="f4d3b00c-bd83-4469-baa0-4053e95aa915" />
+                </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Boosts" type="LSString" value="XXX" />
+                    <attribute id="Level" type="uint8" value="9" />
+                    <attribute id="Name" type="LSString" value="LAR_SolarProgression" />
+                    <attribute id="ProgressionType" type="uint8" value="2" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(540b2773-7d56-45cb-8f9c-046cce7be627)" />
+                    <attribute id="TableUUID" type="guid" value="ae38f5ad-ae38-4998-8779-66be554a2854" />
+                    <attribute id="UUID" type="guid" value="8175e4e7-d559-4d15-bcb5-5d69c3c8f841" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

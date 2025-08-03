@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList">
+					<attribute id="Comment" type="LSString" value="tester" />
+					<attribute id="Spells" type="LSString" value="LAR_Target_HollyphantSummon;LAR_Target_Foresight;LAR_Shout_RadianceOfTheDawn;LAR_Shout_AngelicWeapons;LAR_Shout_DispelEvilAndGood;LAR_Target_Invisibility_Solar;LAR_Wall_BladeBarrier;LAR_Shout_DetectEvilAndGood;LAR_Target_LayOnHands_Solar;LAR_Projectile_SpellfireSolar;LAR_Shout_MOO_Nightsong_RadiantConsumption;LAR_Target_AntimagicField;LAR_PowerWordHeal;LAR_Target_SpiritualWeapon_Greatsword" />
+					<attribute id="UUID" type="guid" value="819afb49-0761-494b-bdc0-c79e50baee60" />
+				</node>
+        <node id="SpellList">
+					<attribute id="Comment" type="LSString" value="Lv 1; kiss, teleport" />
+					<attribute id="Spells" type="LSString" value="LAR_Target_HollyphantSummon;LAR_Shout_AngelicWeapons;LAR_Projectile_SpellfireSolar;LAR_Target_SpiritualWeapon_Greatsword;LAR_Shout_DetectEvilAndGood;LAR_Shout_DispelEvilAndGood" />
+					<attribute id="UUID" type="guid" value="146d4009-6c00-4a5b-ab92-724f20e43e3c" />
+				</node>
+        <node id="SpellList">
+					<attribute id="Comment" type="LSString" value="Lv 3; command, cat" />
+					<attribute id="Spells" type="LSString" value="LAR_Shout_MOO_Nightsong_RadiantConsumption;LAR_Target_LayOnHands_Solar" />
+					<attribute id="UUID" type="guid" value="ccd2603d-537e-4701-8cae-cbd147f40ff7" />
+				</node>
+        <node id="SpellList">
+					<attribute id="Comment" type="LSString" value="Lv 6; darkness, antimagic" />
+					<attribute id="Spells" type="LSString" value="LAR_Target_AntimagicField;LAR_Wall_BladeBarrier;LAR_Shout_RadianceOfTheDawn" />
+					<attribute id="UUID" type="guid" value="1e27d624-ab0a-45da-a2f5-de1d392aff39" />
+				</node>
+        <node id="SpellList">
+					<attribute id="Comment" type="LSString" value="Lv 9; weird" />
+					<attribute id="Spells" type="LSString" value="LAR_PowerWordHeal;LAR_Target_Invisibility_Solar;LAR_Target_Foresight" />
+					<attribute id="UUID" type="guid" value="540b2773-7d56-45cb-8f9c-046cce7be627" />
+				</node>
+      </children>
+    </node>
+  </region>
+</save>

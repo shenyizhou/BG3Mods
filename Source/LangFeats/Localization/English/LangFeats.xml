@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
-  <content contentuid="h1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e7" version="1">Brute Force</content>
-  <content contentuid="h1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8" version="1">Your raw physical power transcends normal limits. Your Strength becomes 21 if it was lower. At 10th level, your Strength becomes 26 if it was lower. At 20th level, your Strength becomes 31 if it was lower.</content>
-  <content contentuid="h2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f8" version="1">Gate Archery</content>
-  <content contentuid="h2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9" version="1">The legendary archery skill of Lu Bu shooting through the gate. Your ranged weapon attacks deal additional physical damage equal to your &lt;LSTag Tooltip="StrengthModifier"&gt;Strength modifier&lt;/LSTag&gt; [1].</content>
+  <content contentuid="hf8aea69bg477ag4cc9g93f2g8ed85099c245" version="1">Giant Strength</content>
+  <content contentuid="h142774b2g27bag49e7g9d4egb4310691b59f" version="1">Your Strength increases to 23, increases to 27 at 10th level, and increases to 31 at 20th level.</content>
+  <content contentuid="hd05631bbg8915g4a40g8aefg063e1c49a12e" version="1">Titan Shooting</content>
+  <content contentuid="hce01afccge682g42c7g911dg7f25f44b7a49" version="1">Your ranged weapon attacks deal additional &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt;&lt;LSTag Tooltip="AbilityModifier"&gt;modifier&lt;/LSTag&gt; physical damage.</content>
+  <content contentuid="h0e6155e7g8fe2g40b2ga343g1325509e760e" version="1">Tragic Critical</content>
+  <content contentuid="h6a38e0cfgb8acg4ea0gbb8cgcb5cdfe60ca8" version="1">When you score a &lt;LSTag Tooltip="CriticalHit"&gt;critical hit&lt;/LSTag&gt;, you deal an additional 7 damage. Can be learned multiple times.</content>
+  <content contentuid="h90f52acfg2f5dg4582gaf2eg9fdee35c929c" version="1">Lethal Strike</content>
+  <content contentuid="h778d413cg0142g41e5g9e89g645191486c18" version="1">The number required to score a &lt;LSTag Tooltip="CriticalHit"&gt;critical hit&lt;/LSTag&gt; is reduced by 1. Can be learned multiple times.</content>
 </contentList>

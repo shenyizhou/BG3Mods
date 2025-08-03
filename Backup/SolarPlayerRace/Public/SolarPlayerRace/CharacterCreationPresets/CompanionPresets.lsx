@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="CompanionPresets">
+    <node id="root">
+      <children>
+        <node id="CompanionPreset">
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="CloseUpA" type="LSString" value="HEL_M_Camera_CompanionCloseup_A" />
+                    <attribute id="CloseUpB" type="LSString" value="HEL_M_Camera_CompanionCloseup_B" />
+                    <attribute id="Overview" type="LSString" value="HEL_M_Camera_CompanionOverview_A" />
+                    <attribute id="RaceUUID" type="guid" value="380159a0-602e-4d89-bc61-11fd7174c5b8" />
+                    <attribute id="RootTemplate" type="guid" value="663cedee-a7f7-4b51-a4ff-ee84fcfe901c" />
+                    <attribute id="SubRaceUUID" type="guid" value="29c2141d-75bb-486a-8d37-a4d668f90e8d" />
+                    <attribute id="UUID" type="guid" value="ea3f7e3c-67be-41c6-9c15-fe911870bb35" />
+                    <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42" />
+                    <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e" />
+                </node>
+        <node id="CompanionPreset">
+                    <attribute id="BodyShape" type="uint8" value="1" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_CompanionCloseup_A" />
+                    <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_CompanionCloseup_B" />
+                    <attribute id="Overview" type="LSString" value="HUM_MB_Camera_CompanionOverview_A" />
+                    <attribute id="RaceUUID" type="guid" value="380159a0-602e-4d89-bc61-11fd7174c5b8" />
+                    <attribute id="RootTemplate" type="guid" value="a9322728-69aa-423f-b1a2-39a84eb6f299" />
+                    <attribute id="SubRaceUUID" type="guid" value="29c2141d-75bb-486a-8d37-a4d668f90e8d" />
+                    <attribute id="UUID" type="guid" value="d5e8239b-33f8-411b-9ca6-da4afa127f48" />
+                    <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42" />
+                    <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e" />
+                </node>
+        <node id="CompanionPreset">
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="1" />
+                    <attribute id="CloseUpA" type="LSString" value="HEL_F_Camera_CompanionCloseup_A" />
+                    <attribute id="CloseUpB" type="LSString" value="HEL_F_Camera_CompanionCloseup_B" />
+                    <attribute id="Overview" type="LSString" value="HEL_F_Camera_CompanionOverview_A" />
+                    <attribute id="RaceUUID" type="guid" value="380159a0-602e-4d89-bc61-11fd7174c5b8" />
+                    <attribute id="RootTemplate" type="guid" value="93ce8d3d-020e-4764-981b-492fd86f3fa8" />
+                    <attribute id="SubRaceUUID" type="guid" value="29c2141d-75bb-486a-8d37-a4d668f90e8d" />
+                    <attribute id="UUID" type="guid" value="1184243e-174a-4849-bdc7-2447b36bbc8b" />
+                    <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42" />
+                    <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e" />
+                </node>
+        <node id="CompanionPreset">
+                    <attribute id="BodyShape" type="uint8" value="1" />
+                    <attribute id="BodyType" type="uint8" value="1" />
+                    <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_CompanionCloseup_A" />
+                    <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_CompanionCloseup_B" />
+                    <attribute id="Overview" type="LSString" value="HUM_FB_Camera_CompanionOverview_A" />
+                    <attribute id="RaceUUID" type="guid" value="380159a0-602e-4d89-bc61-11fd7174c5b8" />
+                    <attribute id="RootTemplate" type="guid" value="80959cde-5a34-4230-b33b-b9ed2629f986" />
+                    <attribute id="SubRaceUUID" type="guid" value="29c2141d-75bb-486a-8d37-a4d668f90e8d" />
+                    <attribute id="UUID" type="guid" value="121346dd-cc87-4858-bd40-8144e7439aa7" />
+                    <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42" />
+                    <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

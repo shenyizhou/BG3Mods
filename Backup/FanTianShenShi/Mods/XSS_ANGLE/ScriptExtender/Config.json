@@ -1,5 +1,0 @@
-{
-  "RequiredVersion": 5,
-  "ModTable": "XSS_ANGLE",
-  "FeatureFlags": [ "Lua" ]
-}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="314"/>
+    <region id="Gods">
+        <node id="root">
+            <children>
+                <node id="God">
+                    <attribute id="Description" type="TranslatedString" handle="hfc0c9ec1g498cg47d0g9bccg4a548d748756" version="1"/>
+                    <attribute id="DisplayDescription" type="TranslatedString" handle="hfc0c9ec1g498cg47d0g9bccg4a548d748756" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5f848475g62bbg4fe3gab01g58fe0d5aed09" version="1"/>
+                    <attribute id="Name" type="FixedString" value="TORM"/>
+                    <attribute id="UUID" type="guid" value="e56ec530-dd8f-4074-b7b8-3b0d31a9ce6c"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="34064d50-38fe-44e4-aaed-129ac3b44933"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="God">
+                    <attribute id="Description" type="TranslatedString" handle="hbf078357gcf31g45ffgb57cg94aaf817823e" version="1"/>
+                    <attribute id="DisplayDescription" type="TranslatedString" handle="hbf078357gcf31g45ffgb57cg94aaf817823e" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6955f89agb6a1g410cgae4agda419ccfb8da" version="1"/>
+                    <attribute id="Name" type="FixedString" value="MILIL"/>
+                    <attribute id="UUID" type="guid" value="35e15ee1-4627-4814-9819-371979fd3411"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="34064d50-38fe-44e4-aaed-129ac3b44933"/>
+                        </node>
+                    </children>
+                </node>
+
+				
+            </children>
+        </node>
+    </region>
+</save>
