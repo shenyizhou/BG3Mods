@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="PassiveLists">
+    <node id="root">
+      <children>
+        <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="KenseiWeaponsMelee_Battleaxes,KenseiWeaponsMelee_Clubs,KenseiWeaponsMelee_Daggers,KenseiWeaponsMelee_Flails,KenseiWeaponsMelee_Greatclubs,KenseiWeaponsMelee_Handaxes,KenseiWeaponsMelee_Javelins,KenseiWeaponsMelee_LightHammers,KenseiWeaponsMelee_Longswords,KenseiWeaponsMelee_Maces,KenseiWeaponsMelee_Morningstars,KenseiWeaponsMelee_Quarterstaves,KenseiWeaponsMelee_Rapiers,KenseiWeaponsMelee_Scimitars,KenseiWeaponsMelee_Shortswords,KenseiWeaponsMelee_Sickles,KenseiWeaponsMelee_Spears,KenseiWeaponsMelee_Tridents,KenseiWeaponsMelee_Warhammers,KenseiWeaponsMelee_Warpicks" />
+                    <attribute id="UUID" type="guid" value="78f766a1-85d1-403c-9385-95d7a802e3c7" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="KenseiWeaponsRanged_Darts,KenseiWeaponsRanged_HandCrossbows,KenseiWeaponsRanged_LightCrossbows,KenseiWeaponsRanged_Longbows,KenseiWeaponsRanged_Shortbows,KenseiWeaponsRanged_Slings" />
+                    <attribute id="UUID" type="guid" value="421bbea6-d867-43f7-a827-829fed7dadcf" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="KenseiWeaponsMelee_Battleaxes,KenseiWeaponsMelee_Clubs,KenseiWeaponsMelee_Daggers,KenseiWeaponsRanged_Darts,KenseiWeaponsMelee_Flails,KenseiWeaponsMelee_Greatclubs,KenseiWeaponsMelee_Handaxes,KenseiWeaponsRanged_HandCrossbows,KenseiWeaponsMelee_Javelins,KenseiWeaponsRanged_LightCrossbows,KenseiWeaponsMelee_LightHammers,KenseiWeaponsRanged_Longbows,KenseiWeaponsMelee_Longswords,KenseiWeaponsMelee_Maces,KenseiWeaponsMelee_Morningstars,KenseiWeaponsMelee_Quarterstaves,KenseiWeaponsMelee_Rapiers,KenseiWeaponsMelee_Scimitars,KenseiWeaponsRanged_Shortbows,KenseiWeaponsMelee_Shortswords,KenseiWeaponsMelee_Sickles,KenseiWeaponsRanged_Slings,KenseiWeaponsMelee_Spears,KenseiWeaponsMelee_Tridents,KenseiWeaponsMelee_Warhammers,KenseiWeaponsMelee_Warpicks" />
+					<attribute id="UUID" type="guid" value="8ca3e496-cb11-4a88-8d18-00b44a3ee95c" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

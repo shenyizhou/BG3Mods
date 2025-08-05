@@ -1,0 +1,475 @@
+local __util = require 'larian.util'
+
+function IsBreathoftheDragon()
+	return IsAcidBreath() | IsColdBreath() | IsFireBreath() | IsLightningBreath() | IsPoisonBreath()
+end
+
+function IsAcidBreath()
+	return SpellId('Zone_BreathoftheDragonAcid_Cone') | SpellId('Zone_BreathoftheDragonAcid_Line') | SpellId('Zone_BreathoftheDragonAcid_Cone_2') | SpellId('Zone_BreathoftheDragonAcid_Line_2') | SpellId('Zone_BreathoftheDragonAcid_Cone_Augmented') | SpellId('Zone_BreathoftheDragonAcid_Line_Augmented')
+end
+
+function IsColdBreath()
+	return SpellId('Zone_BreathoftheDragonCold_Cone') | SpellId('Zone_BreathoftheDragonCold_Line') | SpellId('Zone_BreathoftheDragonCold_Cone_2') | SpellId('Zone_BreathoftheDragonCold_Line_2') | SpellId('Zone_BreathoftheDragonCold_Cone_Augmented') | SpellId('Zone_BreathoftheDragonCold_Line_Augmented') 
+end
+
+function IsFireBreath()
+	return SpellId('Zone_BreathoftheDragonFire_Cone') | SpellId('Zone_BreathoftheDragonFire_Line') | SpellId('Zone_BreathoftheDragonFire_Cone_2') | SpellId('Zone_BreathoftheDragonFire_Line_2') | SpellId('Zone_BreathoftheDragonFire_Cone_Augmented') | SpellId('Zone_BreathoftheDragonFire_Line_Augmented')
+end
+
+function IsLightningBreath()
+	return SpellId('Zone_BreathoftheDragonLightning_Cone') | SpellId('Zone_BreathoftheDragonLightning_Line') | SpellId('Zone_BreathoftheDragonLightning_Cone_2') | SpellId('Zone_BreathoftheDragonLightning_Line_2') | SpellId('Zone_BreathoftheDragonLightning_Cone_Augmented') | SpellId('Zone_BreathoftheDragonLightning_Line_Augmented') 
+end
+
+function IsPoisonBreath()
+	return SpellId('Zone_BreathoftheDragonPoison_Cone') | SpellId('Zone_BreathoftheDragonPoison_Line') | SpellId('Zone_BreathoftheDragonPoison_Cone_2') | SpellId('Zone_BreathoftheDragonPoison_Line_2') | SpellId('Zone_BreathoftheDragonPoison_Cone_Augmented') | SpellId('Zone_BreathoftheDragonPoison_Line_Augmented') 
+end
+
+function CanBreathoftheDragon(entity)
+	local entity = entity or context.Source
+	result = ~HasStatus('BREATH_OF_THE_DRAGON_COOLDOWN',entity)
+    return ConditionResult(result.Result, {ConditionError("HasUsedBreathoftheDragon")})
+end
+
+function StepoftheWindSpellCheck()
+    return SpellId('Shout_Dash_StepOfTheWind') | SpellId('Shout_Disengage_StepOfTheWind') | SpellId('CL_Shout_OneDnD_StepOfTheWind') | SpellId('CL_Shout_OneDnD_StepOfTheWind_Dash') 
+end
+
+function StepoftheWindCheck()
+    return StepoftheWindSpellCheck()
+end
+
+function HasDraconicStrike(entity)
+	local entity = entity or context.Source
+	return HasStatus('DRACONIC_STRIKE_ACID',entity) | HasStatus('DRACONIC_STRIKE_COLD',entity) | HasStatus('DRACONIC_STRIKE_FIRE',entity) | HasStatus('DRACONIC_STRIKE_LIGHTNING',entity) | HasStatus('DRACONIC_STRIKE_POISON',entity)
+end
+
+function IsDraconicStrikeStatus(entity)
+	local entity = entity or context.Source
+	return StatusId('DRACONIC_STRIKE_ACID') |  StatusId('DRACONIC_STRIKE_COLD') | StatusId('DRACONIC_STRIKE_FIRE') | StatusId('DRACONIC_STRIKE_LIGHTNING') | StatusId('DRACONIC_STRIKE_POISON')
+end
+
+function AspectoftheWyrmSpellCheck()
+    return SpellId('Target_AspectoftheWyrm_FrightfulPresence') | SpellId('Shout_AspectoftheWyrm_ResistanceAcid') | SpellId('Shout_AspectoftheWyrm_ResistanceCold') | SpellId('Shout_AspectoftheWyrm_ResistanceFire') | SpellId('Shout_AspectoftheWyrm_ResistanceLightning') | SpellId('Shout_AspectoftheWyrm_ResistancePoison')
+end
+
+function AspectoftheWyrmCheck()
+    return AspectoftheWyrmSpellCheck()
+end
+
+function IsFrightfulPresenceTarget(entity)
+	local entity = entity or context.Target
+	result = Self() | Character()
+    return ConditionResult(result.Result, {ConditionError("CannotFrightenTarget")})
+end
+
+function FrightfulPresenceCheck(ability, dc, result)
+    result = result or false
+    hasStatus =  ~HasStatus('ASPECT_OF_THE_WYRM_AURA_FRIGHT')
+    if not hasStatus.Result then
+        st = ~SavingThrow(ability, dc)
+        return ConditionResult(st.Result,{},{},st.Chance)
+    end
+    return ConditionResult(result)
+end
+
+function ASIsWisdomGreaterThanStrength()
+    return ConditionResult(context.Source.Wisdom >= context.Source.Strength)
+end
+
+function ASIsWisdomGreaterThanDexterity()
+    return ConditionResult(context.Source.Wisdom >= context.Source.Dexterity)
+end
+
+function ASReachAttackCheck()
+    return HasStringInSpellRoll('MeleeUnarmedAttack') & ~SpellTypeIs(SpellType.Throw) & ~TargetRadiusGreaterThan(1.5)
+end
+
+function ASIsMonkWeaponOnlyAttack()
+    local attackWeapon = GetAttackWeapon(context.Source)
+    if attackWeapon.IsValid then
+        return ~(HasWeaponProperty(WeaponProperties.Heavy, attackWeapon) | HasWeaponProperty(WeaponProperties.Twohanded, attackWeapon) | HasStatus('SHILLELAGH', attackWeapon) | HasStatus('PACT_BLADE', attackWeapon)) & IsProficientWith(context.Source, attackWeapon)
+    end
+end
+
+function IsASAttack()
+	return IsMeleeUnarmedAttack() & ~SpellTypeIs(SpellType.Throw)
+end
+
+function AstralBarrageSpellCheck()
+    return HasStringInSpellRoll('MeleeUnarmedAttack') & ~SpellTypeIs(SpellType.Throw)
+end
+
+function AstralBarrageCheck()
+    return AstralBarrageSpellCheck() & HasUseCosts('ActionPoint',false)
+end
+
+function ASIsDexterityGreaterThanStrength()
+    return ConditionResult(context.Source.Dexterity > context.Source.Strength)
+end
+	
+function ASIsStrengthGreaterThanDexterity()
+    return ConditionResult(context.Source.Strength > context.Source.Dexterity)
+end
+
+function ASIsStrengthEqualToDexterity()
+    return ConditionResult(context.Source.Strength == context.Source.Dexterity)
+end
+
+function AttackWithWisdomOverStrength()
+	return ASIsWisdomGreaterThanStrength() & ASIsWisdomGreaterThanDexterity() & ASIsStrengthGreaterThanDexterity()
+end
+
+function AttackWithWisdomOverDexterity()
+	return ASIsWisdomGreaterThanStrength() & ASIsWisdomGreaterThanDexterity() & IsDexterityGreaterThanStrength()
+end
+
+function LDDistanceToTargetLessOrEqual(value)
+    return ConditionResult(DistanceToTarget() >= value)
+end
+
+function IsFlurryofBlowsStrike()
+	return SpellId('Target_FlurryOfBlows5e_MultiTarget') | SpellId('Target_FlurryOfHealing_MultiTarget')
+end
+
+function IsHandsofHealingStrike()
+	return SpellId('Target_HandsofHealing') | SpellId('Target_FlurryOfHealing_MultiTarget') | SpellId('Target_FlurryOfHealing_SingleTarget')
+end
+
+function IsFlurryofBlowsAttack()
+	return SpellId('Target_FlurryOfBlows5e_SingleTarget') | SpellId('Target_FlurryOfBlows5e_MultiTarget')
+end
+
+function IsSunBolt()
+	return SpellId('Projectile_RadiantSunBolt') | SpellId('Projectile_RadiantSunBolt_Flurry')
+end
+
+function SSIs5eAttack()
+	return SSIs5eWeaponAttack() | SSIs5eShoveAttack() | SpellId('Target_Grapple') | SpellId('Projectile_RadiantSunBolt')
+end	
+
+function SSIs5eWeaponAttack()
+    return HasStringInSpellRoll('MeleeWeaponAttack') | HasStringInSpellRoll('RangedWeaponAttack') | HasStringInSpellRoll('MeleeUnarmedAttack') | HasStringInSpellRoll('RangedUnarmedAttack')
+end
+
+function SSIs5eShoveAttack()
+	local res = HasStringInSpellRoll('Shove') & HasUseCosts('ActionPoint')
+    return ConditionResult(res.Result)
+end
+
+function CanSearingArcStrike(entity)
+	local entity = entity or context.Source
+    result = HasStatus('SEARING_ARC_STRIKE',entity)
+    return ConditionResult(result.Result, {ConditionError("HasNotAttacked")})
+end
+
+function CanSunBoltFlurry(entity)
+	local entity = entity or context.Source
+    result = HasStatus('RADIANT_SUN_BOLT_FLURRY1',entity) | HasStatus('RADIANT_SUN_BOLT_FLURRY2',entity)
+    return ConditionResult(result.Result, {ConditionError("HasNotAttackedwithSunBolt")})
+end
+
+function IsFlurryofBlowsSpell()
+	return SpellId('Target_FlurryOfBlows5e_SingleTarget') | SpellId('Target_FlurryOfBlows5e_MultiTarget') | SpellId('Target_FrenzyOfBlows_MultiTarget') | SpellId('Target_FrenzyOfBlows_Whirlwind')
+end
+
+function IsFrenzyQualified(entity)
+	local entity = entity or context.Source
+	return ~HasStatus('FOB_QUALIFIER1',entity) & ~HasStatus('FOB_QUALIFIER2',entity) & ~HasStatus('FOB_QUALIFIER3',entity) & ~HasStatus('FOB_QUALIFIER4',entity) & ~HasStatus('FOB_QUALIFIER5',entity) 
+end
+
+function IsFrenzyTarget(entity, source)
+	local entity = entity or context.Target
+	local source = source or context.Source
+	return ~HasStatus('FOB_TARGET1',entity,source) & ~HasStatus('FOB_TARGET2',entity,source) & ~HasStatus('FOB_TARGET3',entity,source) & ~HasStatus('FOB_TARGET4',entity,source)
+end	
+
+function IsPriorFrenzyTarget()
+	local result = HasStatus('FOB_TARGET1',context.Target,context.Source) | HasStatus('FOB_TARGET2',context.Target,context.Source) | HasStatus('FOB_TARGET3',context.Target,context.Source) | HasStatus('FOB_TARGET4',context.Target,context.Source) 
+    return ConditionResult(result.Result, {}, {ConditionError("HasAlreadyBeenFlurried")})
+end   	
+
+function IsInvalidFrenzyTarget()
+	local result = HasStatus('FOB_QUALIFIER2',context.Source) & ~Character()
+    return ConditionResult(result.Result, {ConditionError("IsNotCreatureFrenzyTarget")})
+end   	
+	
+function Is5eKenseiWeapon(weapon, entity)
+	local entity = entity or context.Source
+	
+	return (IsWeaponOfProficiencyGroup('Battleaxes', weapon).Result & HasStatus('KENSEI_WEAPONS_MELEE_BATTLEAXES', entity)) 
+        |  (IsWeaponOfProficiencyGroup('Clubs', weapon).Result & HasStatus('KENSEI_WEAPONS_MELEE_CLUBS', entity)) 
+        |  (IsWeaponOfProficiencyGroup('Daggers', weapon).Result & HasStatus('KENSEI_WEAPONS_MELEE_DAGGERS', entity))
+        |  (IsWeaponOfProficiencyGroup('Flails', weapon).Result & HasStatus('KENSEI_WEAPONS_MELEE_FLAILS', entity)) 
+        |  (IsWeaponOfProficiencyGroup('Greatclubs', weapon).Result & HasStatus('KENSEI_WEAPONS_MELEE_GREATCLUBS', entity)) 
+        |  (IsWeaponOfProficiencyGroup('Handaxes', weapon).Result & HasStatus('KENSEI_WEAPONS_MELEE_HANDAXES', entity)) 
+        |  (IsWeaponOfProficiencyGroup('Javelins', weapon).Result & HasStatus('KENSEI_WEAPONS_MELEE_JAVELINS', entity)) 
+        |  (IsWeaponOfProficiencyGroup('LightHammers', weapon).Result & HasStatus('KENSEI_WEAPONS_MELEE_LIGHTHAMMERS', entity)) 
+        |  (IsWeaponOfProficiencyGroup('Longswords', weapon).Result & HasStatus('KENSEI_WEAPONS_MELEE_LONGSWORDS', entity)) 
+        |  (IsWeaponOfProficiencyGroup('Maces', weapon).Result & HasStatus('KENSEI_WEAPONS_MELEE_MACES', entity)) 
+        |  (IsWeaponOfProficiencyGroup('Morningstars', weapon).Result & HasStatus('KENSEI_WEAPONS_MELEE_MORNINGSTARS', entity)) 
+        |  (IsWeaponOfProficiencyGroup('Quarterstaffs', weapon).Result & HasStatus('KENSEI_WEAPONS_MELEE_QUARTERSTAVES', entity)) 
+        |  (IsWeaponOfProficiencyGroup('Rapiers', weapon).Result & HasStatus('KENSEI_WEAPONS_MELEE_RAPIERS', entity)) 
+        |  (IsWeaponOfProficiencyGroup('Scimitars', weapon).Result & HasStatus('KENSEI_WEAPONS_MELEE_SCIMITARS', entity)) 
+        |  (IsWeaponOfProficiencyGroup('Shortswords', weapon).Result & HasStatus('KENSEI_WEAPONS_MELEE_SHORTSWORDS', entity)) 
+        |  (IsWeaponOfProficiencyGroup('Sickles', weapon).Result & HasStatus('KENSEI_WEAPONS_MELEE_SICKLES', entity)) 
+        |  (IsWeaponOfProficiencyGroup('Spears', weapon).Result & HasStatus('KENSEI_WEAPONS_MELEE_SPEARS', entity)) 
+        |  (IsWeaponOfProficiencyGroup('Tridents', weapon).Result & HasStatus('KENSEI_WEAPONS_MELEE_TRIDENTS', entity)) 
+        |  (IsWeaponOfProficiencyGroup('Warhammers', weapon).Result & HasStatus('KENSEI_WEAPONS_MELEE_WARHAMMERS', entity)) 
+        |  (IsWeaponOfProficiencyGroup('Warpicks', weapon).Result & HasStatus('KENSEI_WEAPONS_MELEE_WARPICKS', entity)) 
+        |  (IsWeaponOfProficiencyGroup('Darts', weapon).Result & HasStatus('KENSEI_WEAPONS_RANGED_DARTS', entity)) 
+        |  (IsWeaponOfProficiencyGroup('HandCrossbows', weapon).Result & HasStatus('KENSEI_WEAPONS_RANGED_HANDCROSSBOWS', entity)) 
+        |  (IsWeaponOfProficiencyGroup('LightCrossbows', weapon).Result & HasStatus('KENSEI_WEAPONS_RANGED_LIGHTCROSSBOWS', entity)) 
+        |  (IsWeaponOfProficiencyGroup('Longbows', weapon).Result & HasStatus('KENSEI_WEAPONS_RANGED_LONGBOWS', entity)) 
+        |  (IsWeaponOfProficiencyGroup('Shortbows', weapon).Result & HasStatus('KENSEI_WEAPONS_RANGED_SHORTBOWS', entity)) 
+        |  (IsWeaponOfProficiencyGroup('Slings', weapon).Result & HasStatus('KENSEI_WEAPONS_RANGED_SLINGS', entity)) 
+
+end	
+
+function Has5eKenseiWeaponEquipped(entity)
+    local entity = entity or context.Source
+	local result = Is5eKenseiWeapon(GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand, entity), entity) | Is5eKenseiWeapon(GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand, entity), entity) | Is5eKenseiWeapon(GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, entity), entity) | Is5eKenseiWeapon(GetItemInEquipmentSlot(EquipmentSlot.RangedOffHand, entity), entity)
+	
+	return ConditionResult(result.Result, {ConditionError("HasNotKenseiWeaponInHand")})
+		
+end
+
+function Has5eKenseiMeleeWeaponEquipped(entity)
+    local entity = entity or context.Source
+	local result = Is5eKenseiWeapon(GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand, entity), entity) | Is5eKenseiWeapon(GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, entity), entity)
+	
+	return ConditionResult(result.Result, {ConditionError("HasNotKenseiMeleeWeaponInHand")})
+		
+end
+
+function Has5eKenseiMainMeleeWeaponEquipped(entity)
+    local entity = entity or context.Source
+	local result = Is5eKenseiWeapon(GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand, entity), entity) 
+	
+	return ConditionResult(result.Result, {ConditionError("HasNotKenseiMeleeWeaponInHand")})
+		
+end
+
+function Has5eKenseiOffMeleeWeaponEquipped(entity)
+    local entity = entity or context.Source
+	local result = Is5eKenseiWeapon(GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, entity), entity)
+	
+	return ConditionResult(result.Result, {ConditionError("HasNotKenseiMeleeWeaponInHand")})
+		
+end
+
+function Has5eKenseiRangedWeaponEquipped(entity)
+    local entity = entity or context.Source
+	local result = Is5eKenseiWeapon(GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand, entity), entity) | Is5eKenseiWeapon(GetItemInEquipmentSlot(EquipmentSlot.RangedOffHand, entity), entity)
+	
+	return ConditionResult(result.Result, {ConditionError("HasNotKenseiRangedWeaponInHand")})
+		
+end
+
+function Has5eKenseiMainRangedWeaponEquipped(entity)
+    local entity = entity or context.Source
+	local result = Is5eKenseiWeapon(GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand, entity), entity) 
+	
+	return ConditionResult(result.Result, {ConditionError("HasNotKenseiRangedWeaponInHand")})
+		
+end
+
+function Has5eKenseiOffRangedWeaponEquipped(entity)
+    local entity = entity or context.Source
+	local result = Is5eKenseiWeapon(GetItemInEquipmentSlot(EquipmentSlot.RangedOffHand, entity), entity)
+	
+	return ConditionResult(result.Result, {ConditionError("HasNotKenseiRangedWeaponInHand")})
+		
+end
+
+function KIs5eMeleeUnarmedAttack()
+    local result = IsMeleeUnarmedAttack() & ~SpellTypeIs(SpellType.Throw)
+	
+    return ConditionResult(result.Result)
+	
+end
+
+function Has5eKenseiParryWeapon(entity)
+	local entity = entity or context.Target
+	local result =  Has5eKenseiMeleeWeaponEquipped(entity) & Has5eKenseiParryStatus(entity)
+		
+    return ConditionResult(result.Result)
+	
+end
+
+function Has5eKenseiParryStatus(entity)
+	local entity = entity or context.Target
+	local result = HasStatus('AGILE_PARRY_WEAPON',GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand, entity)) | HasStatus('AGILE_PARRY_WEAPON',GetItemInEquipmentSlot(EquipmentSlot.MeleeOffHand, entity)) 
+	
+    return ConditionResult(result.Result)
+
+end
+
+function Is5eKenseiWeaponAttack(entity)
+	local entity = entity or context.Source
+    local attackWeapon = GetAttackWeapon(entity)
+	
+    if attackWeapon.IsValid then
+        return Is5eKenseiWeapon(attackWeapon)
+    else
+        return Is5eKenseiWeapon(context.HitDescription.ThrownObject)
+    end
+
+end
+
+function KIsThrowAttackRoll()
+    local res = IsUnarmedAttack() & SpellTypeIs(SpellType.Throw)
+    return ConditionResult(res.Result)
+end
+
+function CanSharpenActiveWeapon(entity)
+    local entity = entity or context.Target
+	local resultWeaponMain = HasStatus('SHARPEN_THE_BLADE_MAINHAND', entity) & Is5eKenseiWeapon(GetActiveWeapon(entity, true), entity) & IsKenseNonmagical(GetActiveWeapon(entity, true))
+	local resultWeaponOff = HasStatus('SHARPEN_THE_BLADE_OFFHAND', entity) & Is5eKenseiWeapon(GetActiveWeapon(entity, false), entity) & IsKenseNonmagical(GetActiveWeapon(entity, false))
+	local result = resultWeaponMain | resultWeaponOff 	
+	
+    return ConditionResult(result.Result, {ConditionError("CanNotSharepenActiveWeapon")})
+	
+end   
+
+function IsKenseNonmagical(weapon)
+	local weapon = weapon
+	
+	return ~HasWeaponProperty(WeaponProperties.Magical, weapon) | HasStatus('KENSEI_MAGIC_WEAPON', weapon)
+	
+end
+
+function IsSharpenedBladeAttack1(entity)
+	local entity = entity or context.Source
+    local attackWeapon = GetAttackWeapon(entity)
+	
+    if attackWeapon.IsValid then
+        return HasStatus('SHARPEN_THE_BLADE_WEAPON1', attackWeapon, entity)
+    else
+        return HasStatus('SHARPEN_THE_BLADE_WEAPON1', context.HitDescription.ThrownObject, entity)
+    end
+
+end
+
+function IsSharpenedBladeAttack2(entity)
+	local entity = entity or context.Source
+    local attackWeapon = GetAttackWeapon(entity)
+	
+    if attackWeapon.IsValid then
+        return HasStatus('SHARPEN_THE_BLADE_WEAPON2', attackWeapon, entity)
+    else
+        return HasStatus('SHARPEN_THE_BLADE_WEAPON2', context.HitDescription.ThrownObject, entity)
+    end
+
+end
+
+function IsSharpenedBladeAttack3(entity)
+	local entity = entity or context.Source
+    local attackWeapon = GetAttackWeapon(entity)
+	
+    if attackWeapon.IsValid then
+        return HasStatus('SHARPEN_THE_BLADE_WEAPON3', attackWeapon, entity)
+    else
+        return HasStatus('SHARPEN_THE_BLADE_WEAPON3', context.HitDescription.ThrownObject, entity)
+    end
+
+end
+
+function IsKenseiMonkWeaponAttack()
+    local attackWeapon = GetAttackWeapon(context.Source)
+    if attackWeapon.IsValid then
+        return Is5eKenseiWeapon(attackWeapon) | ~(HasWeaponProperty(WeaponProperties.Heavy, attackWeapon) | HasWeaponProperty(WeaponProperties.Twohanded, attackWeapon)) & IsProficientWith(context.Source, attackWeapon) 
+    else
+		return Is5eKenseiWeapon(context.HitDescription.ThrownObject) | IsUnarmedAttack()
+    end
+	
+end	
+	
+function IsUnerringAccuracyAttack()
+    local attackWeapon = GetAttackWeapon(context.Source)
+    if attackWeapon.IsValid then
+        return Is5eKenseiWeapon(attackWeapon) | ~(HasWeaponProperty(WeaponProperties.Heavy, attackWeapon) | HasWeaponProperty(WeaponProperties.Twohanded, attackWeapon)) & IsProficientWith(context.Source, attackWeapon) 
+    else
+		return Is5eKenseiWeapon(context.HitDescription.ThrownObject) | IsRangedUnarmedAttack()
+    end
+	
+end
+
+function SRDHasEnemyWithinRange(inclusionStatus, distance, tag, NumberOfEnemy, target, source)
+    distance = distance or 1.5
+    NumberOfEnemy = NumberOfEnemy or 1
+    target = target or context.Target
+    source = source or context.Source
+
+    local errorTrue = {ConditionError("HasAllyWithinRange", {ConditionErrorData.MakeFromNumber(distance, EErrorDataType.Distance)})}
+    local errorFalse = {ConditionError("HasNotAllyWithinRange", {ConditionErrorData.MakeFromNumber(distance, EErrorDataType.Distance)})}
+
+    local enemies = GetEnemiesWithinRange(distance, target, source)
+    if enemies ~= nil then
+        -- Only do the check when we are surounded by more than or equal the NumberOfEnemy
+        if #enemies.Enemies >= NumberOfEnemy then
+            for _, entity in ipairs(enemies.Enemies) do
+                -- ensure entity has the included status
+                local noIncludedStatus = ConditionResult(inclusionStatus == nil)
+                if inclusionStatus then
+                    noIncludedStatus = HasStatus(inclusionStatus, entity, source)
+                end
+
+                -- filter by tag if provided
+                local hasTag = ConditionResult(tag == nil)
+                if tag then
+                    hasTag = Tagged(tag, entity)
+                end
+
+                if noIncludedStatus.Result and hasTag.Result then
+                    return ConditionResult(true, errorFalse, errorTrue)
+                end
+            end
+        end
+    end
+    return ConditionResult(false, errorFalse, errorTrue)
+end
+
+function SRDCanSee(source, target, from, to)
+	local source = source or context.Source
+	local target = target or context.Target
+    local from = from or context.SourcePosition
+    local to = to or context.Target	
+		
+	return CanSee(source, target) | SRDCanSeeSneaking(source, target, from, to) | SRDCanSeeInvisible(source, target, from, to) | SRDCanSeeBlinded(source, target, from, to) 
+end
+
+function SRDCanSeeSneaking(source, target, from, to)
+    local source = source or context.Source
+    local target = target or context.Target
+    local from = from or context.SourcePosition
+    local to = to or context.Target
+    
+    return HasStatus('SNEAKING', target) & (HasStatus('MIND_SPIKE_OWNER', source) & HasStatus('MIND_SPIKE', target, source))
+end
+
+function SRDCanSeeInvisible(source, target, from, to)
+	local source = source or context.Source
+	local target = target or context.Target
+    local from = from or context.SourcePosition
+    local to = to or context.Target	
+	
+    return Tagged('BLINDSIGHT', source) 
+       |  (HasStatus('MIND_SPIKE_OWNER', source) & HasStatus('MIND_SPIKE', target, source))
+       |  (HasStatus('TRUESIGHT', source) & ~DistanceToEntityGreaterThan(36.5, from, to))
+       | ((HasStatus('SEE_INVISIBILITY', source) | HasStatus('MAG_SEE_INVISIBILITY_HIDDEN_IGNORE_RESTING', source) | HasPassive('AllSeeingEye', source)) & ~DistanceToEntityGreaterThan(18.5, from, to)) 
+       | ((HasPassive('FightingStyle_BlindFighting', source) | (HasPassive('Blindsense', source) & ~(HasPassive('Deafness',source) | HasStatus('SG_Deafened',source)))) & ~DistanceToEntityGreaterThan(3, from, to))	
+end	
+
+function SRDCanSeeBlinded(source, target, from, to)
+    local source = source or context.Source
+    local target = target or context.Target
+    local from = from or context.SourcePosition
+    local to = to or context.Target	
+
+    return HasStatus('SG_Blinded', source) & (Tagged('BLINDSIGHT', source) 
+       |  (HasStatus('MIND_SPIKE_OWNER', source) & HasStatus('MIND_SPIKE', target, source))
+       |  (HasStatus('TRUESIGHT', source) & ~DistanceToEntityGreaterThan(36.5, from, to)) 
+       | ((HasStatus('SEE_INVISIBILITY', source) | HasStatus('MAG_SEE_INVISIBILITY_HIDDEN_IGNORE_RESTING', source) | HasPassive('AllSeeingEye', source)) & ~DistanceToEntityGreaterThan(18.5, from, to)) 
+       | ((HasPassive('FightingStyle_BlindFighting', source) | (HasPassive('Blindsense', source) & ~(HasPassive('Deafness',source) | HasStatus('SG_Deafened',source)))) & ~DistanceToEntityGreaterThan(3, from, to)))
+end
+	

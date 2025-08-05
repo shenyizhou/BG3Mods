@@ -1,0 +1,12 @@
+new entry "MASTERY_OF_DEATH_DOWNED"
+type "StatusData"
+data "StatusType" "DOWNED"
+using "SURVIVAL_INSTINCT_DOWNED"
+data "DisplayName" "h5539db5fgc86eg4f1bga072gc832ae312a9a;1"
+data "Icon" "Passive_MasteryofDeath"
+data "OnApplyFunctors" "UseActionResource(KiPoint,1);RegainHitPoints(1,Guaranteed)"
+data "StatusGroups" "SG_Incapacitated"
+data "SoundStart" "Spell_Impact_Healing_FalseLife_L1to3"
+data "ApplyEffect" "a8089824-3f25-48b9-8ba0-ed4f87a6664a"
+
+// ----------------------------------------------------------
