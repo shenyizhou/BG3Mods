@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ProgressionDescriptions">
+    <node id="root">
+      <children>
+        <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="kensei5edescript" version="1" /> UUID for Subclass Description
+                    <attribute id="DisplayName" type="TranslatedString" handle="kensei5e" version="1" /> UUID for Subclass Name
+                    <attribute id="Type" type="FixedString" value="Kensei5e" />
+		            <attribute id="ProgressionTableId" type="guid" value="3df414da-d9e3-4728-b308-bf6c846dc3e7" /> New Table UUID for ProgressionDescripion
+                    <attribute id="UUID" type="guid" value="5d746665-6bc5-489c-91bf-99badb1d9a14" />
+                </node>
+        <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h1175b9f7g9a9bg48b9g83e4gb129a715d528" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7fbec323g5f7eg493fg9929g0685df0277df" version="1" />
+                    <attribute id="SelectorId" type="FixedString" value="KenseiWeaponsMelee" />
+                    <attribute id="UUID" type="guid" value="efae0e79-e32e-4f71-8b32-c934091addcd" />
+                </node>
+        <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h7d9c04dcgc5e4g413eg9534gd7b17a2aea28" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7fbec323g5f7eg493fg9929g0685df0277df" version="1" />
+                    <attribute id="SelectorId" type="FixedString" value="KenseiWeaponsRanged" />
+                    <attribute id="UUID" type="guid" value="a7ffe82f-babe-4488-8c96-2e0bc5be2cf7" />
+                </node>
+        <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hb904d7d1g3d8fg460dgaf52g7b5721e2e623" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7fbec323g5f7eg493fg9929g0685df0277df" version="1" />
+                    <attribute id="SelectorId" type="FixedString" value="KenseiWeaponsAll" />
+                    <attribute id="UUID" type="guid" value="6f0e0d0b-e7fa-40b2-8d77-0bacb8f68f15" />
+                </node>
+        <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h164de7f1gb477g4d5cga945g4872b9de15b5" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1ea5aa3fgd141g4512g96f9g014920ad9409" version="1" />
+                    <attribute id="SelectorId" type="FixedString" value="WayoftheBrush" />
+                    <attribute id="UUID" type="guid" value="b83a20a5-4ed4-44ac-9613-61e1b69d98d4" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

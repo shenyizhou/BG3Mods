@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="kensei5e" version="1">剑圣之路</content>
+	<content contentuid="kensei5edescript" version="1">剑圣之路的武僧们不懈地训练他们的武器，以至于武器仿佛成为了身体的一部分。这一传统基于对剑术的精通，后来扩展到了包括许多不同的武器。</content>
+	<content contentuid="heca1a736g8650g45dbg86ecgb2ac7e5defc3" version="1">徒手近战攻击</content>
+	<content contentuid="h4357a0f8g9fe2g4d91g9944g120de9206854" version="1">在使用近战武器的同时进行 &lt;LSTag Type="Spell" Tooltip="Target_UnarmedAttack"&gt;徒手打击&lt;/LSTag&gt;。</content>
+	<content contentuid="h8d2e589bg4676g4c7bg8a89g7db6296b9b58" version="1">在使用近战武器的同时，用身体的某个部分击中目标。</content>
+	<content contentuid="h34d98632g7affg4b82g9480g692aee823752" version="1">在使用 &lt;LSTag Type="Status" Tooltip="KENSEI_WEAPON_EQUIPPED"&gt;剑圣武器&lt;/LSTag&gt;的同时，用身体的某个部分击中目标。</content>
+	<content contentuid="h7fbec323g5f7eg493fg9929g0685df0277df" version="1">剑圣武器</content>
+	<content contentuid="hb904d7d1g3d8fg460dgaf52g7b5721e2e623" version="1">您特殊的武术训练使您精通使用某些武器。您选择的武器类型将被视为武僧武器。</content>
+	<content contentuid="h1175b9f7g9a9bg48b9g83e4gb129a715d528" version="1">您特殊的武术训练使您精通使用某些近战武器。您选择的武器类型将被视为武僧武器。</content>
+	<content contentuid="h7d9c04dcgc5e4g413eg9534gd7b17a2aea28" version="1">您特殊的武术训练使您精通使用某些远程武器。您选择的武器类型将被视为武僧武器。</content>
+	<content contentuid="h6589d1a8gb83ag4c8dgb5ebgb0297814a1e6" version="1">必须装备剑圣武器。</content>
+	<content contentuid="ha5f77951ge788g4d11g9713g5918895857bc" version="1">必须装备近战剑圣武器。</content>
+	<content contentuid="hcc36c99dge89eg460aga685g98acdc9e7765" version="1">必须装备远程剑圣武器。</content>
+	<content contentuid="h3a484f85g9b8fg44b5ga9a0gf47697f0e6a6" version="1">剑圣武器：战斧</content>
+	<content contentuid="h919836e1g2af6g4d18g9d6eg07b652212335" version="1">剑圣武器：棍棒</content>
+	<content contentuid="h824ed059g2521g4a65ga985gd88eaeef54d5" version="1">剑圣武器：匕首</content>
+	<content contentuid="h857c141dg8fd3g4ec1g914fg56565c903c15" version="1">剑圣武器：链枷</content>
+	<content contentuid="hc1be6d51ge786g4b83g8d7dg130fbd21ee2f" version="1">剑圣武器：巨棍</content>
+	<content contentuid="ha278c083g9c41g4b30gb5e0gb9b0b5fe75da" version="1">剑圣武器：手斧</content>
+	<content contentuid="h1136a668g7f5fg433egb5dag18d1466aa216" version="1">剑圣武器：标枪</content>
+	<content contentuid="h5cd0112egf942g41b4g936bg7728332893f8" version="1">剑圣武器：轻锤</content>
+	<content contentuid="hb3b1cbbbg3105g4c38g9f01ge08b927c231b" version="1">剑圣武器：长剑</content>
+	<content contentuid="hc3a09df1g2223g4a30gb2f5gbab197b03cf5" version="1">剑圣武器：钉头锤</content>
+	<content contentuid="hccb8c5cag9968g4e47gb0edgdbd07a03a024" version="1">剑圣武器：晨星</content>
+	<content contentuid="h67154a10gd1dfg4a2dg9706g3c7e856ddce8" version="1">剑圣武器：四分叉</content>
+	<content contentuid="hd09ed998gc79eg4707gac35gb6c3405370af" version="1">剑圣武器：迅捷剑</content>
+	<content contentuid="h3afa0be7gfa2dg40ebg9cd1g519e616abc8b" version="1">剑圣武器：弯刀</content>
+	<content contentuid="h99b130c2g5cc7g4020ga08fgf349b9b5a5dc" version="1">剑圣武器：短剑</content>
+	<content contentuid="ha40712c9g000cg4353gaea4g4cbba8812dfc" version="1">剑圣武器：镰刀</content>
+	<content contentuid="h95789406g517bg4833gae28gc1a005db8a3f" version="1">剑圣武器：长矛</content>
+	<content contentuid="h1bb0befegf76eg4c3fga30bge18ba0425305" version="1">剑圣武器：三叉戟</content>
+	<content contentuid="h6f6a6621g22d4g4371g9a9dg22f76b4c7b76" version="1">剑圣武器：战锤</content>
+	<content contentuid="hfb95e82eg9c5cg40c3g8667gab2384f81ee9" version="1">剑圣武器：挖掘锤</content>
+	<content contentuid="h70892061g895bg430fga5cfg5a420b1b3b5e" version="1">剑圣武器：飞镖</content>
+	<content contentuid="hb9566163gd2e0g44ccgbb3ag69e7872bfeaf" version="1">剑圣武器：手弩</content>
+	<content contentuid="hae052e7cgad92g428agb7dfgb0956cb83b22" version="1">剑圣武器：轻弩</content>
+	<content contentuid="h1dee6078g719ag4f3bg8ec7gf76f9565336a" version="1">剑圣武器：长弓</content>
+	<content contentuid="h249f2d7dg9206g4910gb1d3gd859f28620fc" version="1">剑圣武器：短弓</content>
+	<content contentuid="h83c7696cgb076g40b6g8560g70663afe1a78" version="1">剑圣武器：投石索</content>
+	<content contentuid="hc0ee7ce1g990dg42ddga669gfef5b77ddd65" version="1">您拥有所选择类型武器的&lt;LSTag Tooltip="Proficiency"&gt;熟练度&lt;/LSTag&gt;。此外，它们对于您来说算作&lt;LSTag Tooltip="MonkWeapon"&gt;武僧武器&lt;/LSTag&gt;，并且可以用于任何需要剑圣武器的能力。</content>
+	<content contentuid="h085ee780gcfe1g4889ga0e3gd597c762ca29" version="1">挥舞剑圣武器</content>
+	<content contentuid="h3a79d068g21b4g4b5agb61ag7c2ac7e6e4c6" version="1">可以使用需要剑圣武器的能力。</content>
+	<content contentuid="h1ea5aa3fgd141g4512g96f9g014920ad9409" version="1">画笔之道</content>
+	<content contentuid="h164de7f1gb477g4d5cga945g4872b9de15b5" version="1">您已经接受了各种艺术形式的巧妙笔触指导。</content>
+	<content contentuid="h30fce226g9548g4434gb15bgede0f36e75f4" version="1">敏捷格挡</content>
+	<content contentuid="he29dfa27g2d08g4681g8c74g89bd1bf4057b" version="1">如果您在自己的回合作为攻击动作的一部分进行徒手攻击，并且手持一件近战&lt;LSTag Type="Status" Tooltip="KENSEI_WEAPON_EQUIPPED"&gt;剑圣武器&lt;/LSTag&gt;，您在直到您的下一个回合开始时获得+[1]的&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;加值。</content>
+	<content contentuid="h32a6b920g70a3g4026gb689g44425b1f08c1" version="1">如果近战剑圣武器离开您的手或您处于&lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;无法行动&lt;/LSTag&gt;状态，此效果将不会适用。</content>
+	<content contentuid="h09929afag9756g46a9g8886g66a66b498d8b" version="1">格挡</content>
+	<content contentuid="h1f594147gd19eg477agb60bg505bcfc9a810" version="1">实体在挥舞近战剑圣武器时，护甲等级获得+1加值。</content>
+	<content contentuid="h79a385a2g9913g4d87g97e9g3cbe7cf99005" version="1">武器作为&lt;LSTag Type="Passive" Tooltip="AgileParry"&gt;敏捷格挡&lt;/LSTag&gt;的一部分被防御性地使用。</content>
+	<content contentuid="h92fa0e07g36edg4a65g9949ge71e9598606b" version="1">剑圣射击</content>
+	<content contentuid="h44a18eedg2191g4766g843cgfffdcf1e91ac" version="1">使用远程&lt;LSTag Type="Status" Tooltip="KENSEI_WEAPON_EQUIPPED"&gt;剑圣武器&lt;/LSTag&gt;时额外造成1点伤害。</content>
+	<content contentuid="h8049dccag9e56g4cb2g9899ga0bd587236dc" version="1">使用远程&lt;LSTag Type="Status" Tooltip="KENSEI_WEAPON_EQUIPPED"&gt;剑圣武器&lt;/LSTag&gt;时额外造成1点伤害。</content>
+	<content contentuid="h532b6b67g4e01g4daagbfbaga9a32206182a" version="1">魔法剑圣武器</content>
+	<content contentuid="h068efe79g704cg4ccegba7bgbb4b0c268808" version="1">您使用剑圣武器进行的攻击，在克服非魔法攻击和伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;和&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;时，视为魔法攻击。</content>
+	<content contentuid="hbcc6abb4g325ag43d7g822ag21141757d325" version="1">剑圣魔法武器</content>
+	<content contentuid="h765ba9e8g90d5g47dbga911gf0ef2ac5602f" version="1">当武僧遵循剑圣之路挥舞该武器时，武器在克服非魔法攻击和伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;和&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;时，视为魔法武器。</content>
+	<content contentuid="hf23d4e37g4a1bg45e7g831ag99c1ea253cbb" version="1">灵巧打击</content>
+	<content contentuid="h73b682cbg9004g42d5g9fa3gdfc202e5fbae" version="1">在每个您的回合中，当您用&lt;LSTag Type="Status" Tooltip="KENSEI_WEAPON_EQUIPPED"&gt;剑圣武器&lt;/LSTag&gt;命中目标时，额外造成1点伤害。</content>
+	<content contentuid="h47e90aa2gba5cg4932g8a6ag9cb2ff676f7a" version="1">灵巧打击冷却</content>
+	<content contentuid="h9add51e9ga794g4992ga463g7806db026191" version="1">灵巧打击将在下一个回合再次可用。</content>
+	<content contentuid="h68290edbgc27fg4c6dgb540gc3bdf0247f33" version="1">磨砺刀刃武器手</content>
+	<content contentuid="h00ec1b7bgeca6g4306g9a21g778e19190cf7" version="1">选择您的&lt;LSTag Type="Spell" Tooltip="Target_SharepentheBlade_Container"&gt;磨砺刀刃&lt;/LSTag&gt;能力是针对主手还是副手的武器。</content>
+	<content contentuid="h0438c514g5e60g4935g9ad9g33490f297db8" version="1">磨砺刀刃主手</content>
+	<content contentuid="h1bcac0d0g6d21g447fgaafdg9947cc271b23" version="1">磨砺刀刃副手</content>
+	<content contentuid="h4e264e04g8b90g4501gb89bg386eca460a34" version="1">您的&lt;LSTag Type="Spell" Tooltip="Target_SharepentheBlade_Container"&gt;磨砺刀刃&lt;/LSTag&gt;能力将针对您主手中的&lt;LSTag Type="Status" Tooltip="KENSEI_WEAPON_EQUIPPED"&gt;剑圣武器&lt;/LSTag&gt;。</content>
+	<content contentuid="hddfb1700g598eg4d3fgb6ecg39af1d473c6e" version="1">您的&lt;LSTag Type="Spell" Tooltip="Target_SharepentheBlade_Container"&gt;磨砺刀刃&lt;/LSTag&gt;能力将针对您副手中的&lt;LSTag Type="Status" Tooltip="KENSEI_WEAPON_EQUIPPED"&gt;剑圣武器&lt;/LSTag&gt;。</content>
+	<content contentuid="h75b3dcf6gf48eg4b9fg8208gf944e2e5f4d2" version="1">磨砺刀刃</content>
+	<content contentuid="h43f11031gdf24g4e21ga9b0gf3cc8af36ca5" version="1">授予非魔法&lt;LSTag Type="Status" Tooltip="KENSEI_WEAPON_EQUIPPED"&gt;剑圣武器&lt;/LSTag&gt;攻击和伤害掷骰的加值，加值等于您花费的&lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;气点&lt;/LSTag&gt;数量。</content>
+	<content contentuid="hcfdf1412gd28fg489dg886bgdc4de15afc15" version="1">授予非魔法&lt;LSTag Type="Status" Tooltip="KENSEI_WEAPON_EQUIPPED"&gt;剑圣武器&lt;/LSTag&gt;攻击和伤害掷骰+1加值。</content>
+	<content contentuid="h8047b2ebg6437g4380gb518g8aab7c618268" version="1">如果您再次使用此能力，目标武器上的效果将提前结束。</content>
+	<content contentuid="h30a46c80g12cdg433bga7cfg2a1c5cfcd6c4" version="1">必须在激活的武器套装中拥有非魔法剑圣武器。</content>
+	<content contentuid="hb451efd6gc206g4877gbc56g8566a6f69f74" version="1">武器攻击和伤害掷骰获得+1加值。</content>
+	<content contentuid="hae321e5ageaecg42a6gb2c6g8e2848a9349c" version="1">如果再次使用&lt;LSTag Type="Spell" Tooltip="Shout_SharepentheBlade_Container"&gt;磨砺刀刃&lt;/LSTag&gt;，武器上的效果将提前结束。</content>
+	<content contentuid="ha531ed5fgec16g4f6cgb7bbg929ba9a41ed6" version="1">无误精准</content>
+	<content contentuid="h4c887e08gebbeg4d62gbab9gaeaf19e14a73" version="1">在每个您的回合中，您可以重掷一次使用&lt;LSTag Tooltip="MonkWeapon"&gt;武僧武器&lt;/LSTag&gt;的未命中攻击。</content>
+	<content contentuid="h42fd9a77g5cc4g4565ga872g15627ec86a85" version="1">重掷使用&lt;LSTag Tooltip="MonkWeapon"&gt;武僧武器&lt;/LSTag&gt;的未命中攻击。</content>
+</contentList>

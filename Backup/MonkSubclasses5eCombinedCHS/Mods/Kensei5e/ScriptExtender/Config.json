@@ -1,0 +1,8 @@
+{
+    "RequiredVersion": 1,
+    "ModTable": "Kensei5e",
+    "FeatureFlags": [
+    "Osiris",
+    "Lua"
+    ]
+}

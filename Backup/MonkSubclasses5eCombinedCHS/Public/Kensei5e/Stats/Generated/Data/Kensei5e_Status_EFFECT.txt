@@ -1,0 +1,7 @@
+new entry "AGILE_PARRY_FX"
+type "StatusData"
+data "StatusType" "EFFECT"
+using "_PASSIVES"
+data "SoundStart" "Action_Cast_Riposte"
+data "StatusEffect" "989a16f3-5612-408c-80ab-4a7a1c854b66"
+

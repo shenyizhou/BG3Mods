@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="Progressions">
+    <node id="root">
+      <children>
+        <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0);ActionResource(DeflectMissiles_Charge,1,0)" />
+                    <attribute id="Level" type="uint8" value="3" />
+                    <attribute id="Name" type="LSString" value="Monk" />
+                    <attribute id="PassivesAdded" type="LSString" value="DeflectMissiles" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="fe1319a2-86be-469c-aab5-e3b0bd714e0e" />
+                    <attribute id="UUID" type="guid" value="296468cb-3640-4460-9f44-b30ee820a9ed" />
+                    <children>
+                        <node id="SubClasses">
+                            <children>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="22894c32-54cf-49ea-b366-44bfcf01bb2a" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="2a5e3097-384c-4d29-8d6e-054fdfd26b80" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="bf46d73f-d406-4cb8-9a1d-e6e758ca02c7" />
+                                </node>
+								<node id="SubClass"> 
+                                    <attribute id="Object" type="guid" value="4ecdc960-87f5-4bda-aecb-dc24663a4232" /> 
+                                </node>								
+                            </children>
+                        </node>
+                    </children>
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="3" />
+					<attribute id="Name" type="LSString" value="Kensei5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="MartialArts_BonusUnarmedStrike" />
+                    <attribute id="PassivesAdded" type="LSString" value="KenseiLevel_5;UnarmedWeaponMeleeToggle;MartialArts_KenseiBonusUnarmedStrike;KenseiWeapons;KensieWeaponsFX;AgileParry" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+				    <attribute id="Boosts" type="LSString" value="" />
+					<attribute id="Selectors" type="LSString" value="SelectPassives(78f766a1-85d1-403c-9385-95d7a802e3c7,1,KenseiWeaponsMelee);SelectPassives(421bbea6-d867-43f7-a827-829fed7dadcf,1,KenseiWeaponsRanged);SelectSkills(7f8ad451-7630-44b1-9c31-b38fda311508,1,WayoftheBrush);AddSpells(70b72ad1-99ae-4de4-a0ab-dead11180abf,,,,AlwaysPrepared)" />
+                    <attribute id="TableUUID" type="guid" value="3df414da-d9e3-4728-b308-bf6c846dc3e7" /> 
+                    <attribute id="UUID" type="guid" value="c81211f8-5a3d-437d-8755-248f489ee3da" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="5" />
+					<attribute id="Name" type="LSString" value="Kensei5e" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="3df414da-d9e3-4728-b308-bf6c846dc3e7" /> 
+                    <attribute id="UUID" type="guid" value="6422c7bd-84bd-4c2c-9d8d-244f8c2b9f3f" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="6" />
+					<attribute id="Name" type="LSString" value="Kensei5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="MagicKenseiWeapons;DeftStrikeUnlock" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+				    <attribute id="Boosts" type="LSString" value="" />
+					<attribute id="Selectors" type="LSString" value="SelectPassives(8ca3e496-cb11-4a88-8d18-00b44a3ee95c,1,KenseiWeaponsAll)" />
+                    <attribute id="TableUUID" type="guid" value="3df414da-d9e3-4728-b308-bf6c846dc3e7" /> 
+                    <attribute id="UUID" type="guid" value="6dda500b-f47d-4b2d-955e-c2f89348d0ff" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="9" />
+					<attribute id="Name" type="LSString" value="Kensei5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="KenseiLevel_5" />
+                    <attribute id="PassivesAdded" type="LSString" value="KenseiLevel_11" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+				    <attribute id="Boosts" type="LSString" value="" />
+					<attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="TableUUID" type="guid" value="3df414da-d9e3-4728-b308-bf6c846dc3e7" /> 
+                    <attribute id="UUID" type="guid" value="7b69d415-9a7c-4149-a085-fcca858ca7d0" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="11" />
+					<attribute id="Name" type="LSString" value="Kensei5e" />
+                    <attribute id="PassivesAdded" type="LSString" value="SharpentheBladeHand;SharepentheBladeUnlock" />
+                    <attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+				    <attribute id="Boosts" type="LSString" value="" />
+					<attribute id="Selectors" type="LSString" value="SelectPassives(8ca3e496-cb11-4a88-8d18-00b44a3ee95c,1,KenseiWeaponsAll)" />
+                    <attribute id="TableUUID" type="guid" value="3df414da-d9e3-4728-b308-bf6c846dc3e7" /> 
+                    <attribute id="UUID" type="guid" value="bf652659-05cd-4deb-9db6-2e050e3c98af" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="17" />
+					<attribute id="Name" type="LSString" value="Kensei5e" />
+                    <attribute id="PassivesRemoved" type="LSString" value="KenseiLevel_11" />
+                    <attribute id="PassivesAdded" type="LSString" value="UnerringAccuracyUnlock;KenseiLevel_17" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+				    <attribute id="Boosts" type="LSString" value="" />
+					<attribute id="Selectors" type="LSString" value="SelectPassives(8ca3e496-cb11-4a88-8d18-00b44a3ee95c,1,KenseiWeaponsAll)" />
+                    <attribute id="TableUUID" type="guid" value="3df414da-d9e3-4728-b308-bf6c846dc3e7" /> 
+                    <attribute id="UUID" type="guid" value="36bce229-3ca3-4c40-b2b7-2cd250b16004" />  
+                </node>
+      </children>
+    </node>
+  </region>
+</save>
