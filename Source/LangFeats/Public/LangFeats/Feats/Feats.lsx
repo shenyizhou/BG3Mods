@@ -28,6 +28,12 @@
           <attribute id="PassivesAdded" type="LSString" value="LangFeats_ZhiMingYiJi"/>
           <attribute id="UUID" type="guid" value="f8a9b0c1-d2e3-f4a5-b6c7-d8e9f0a1b2c3"/>
         </node>
+        <node id="Feat">
+          <attribute id="CanBeTakenMultipleTimes" type="bool" value="true"/>
+          <attribute id="Name" type="FixedString" value="LangFeats_KuaiShou"/>
+          <attribute id="PassivesAdded" type="LSString" value="LangFeats_KuaiShou"/>
+          <attribute id="UUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567890"/>
+        </node>
       </children>
     </node>
   </region>

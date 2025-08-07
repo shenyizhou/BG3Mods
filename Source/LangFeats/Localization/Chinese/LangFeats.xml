@@ -8,4 +8,6 @@
   <content contentuid="h6a38e0cfgb8acg4ea0gbb8cgcb5cdfe60ca8" version="1">打出&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时，额外造成7点伤害。可重复学习。</content>
   <content contentuid="h90f52acfg2f5dg4582gaf2eg9fdee35c929c" version="1">致命一击</content>
   <content contentuid="h778d413cg0142g41e5g9e89g645191486c18" version="1">掷出&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;所需的点数-1。可重复学习。</content>
+  <content contentuid="h1a2b3c4dg5e6fg7a8bg9c0dg1e2f3a4b5c6d" version="1">快手</content>
+  <content contentuid="h5a6b7c8dg9e0fg1a2bg3c4dg5e6f7a8b9c0d" version="1">获得一个额外的&lt;LSTag Tooltip="BonusAction"&gt;附赠动作&lt;/LSTag&gt;。可重复学习。</content>
 </contentList>
