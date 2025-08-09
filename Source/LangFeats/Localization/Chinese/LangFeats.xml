@@ -2,12 +2,18 @@
 <contentList>
   <content contentuid="hf8aea69bg477ag4cc9g93f2g8ed85099c245" version="1">巨人力量</content>
   <content contentuid="h142774b2g27bag49e7g9d4egb4310691b59f" version="1">力量增加至23。10级时力量增加至27。20级时力量增加至31。</content>
+  <content contentuid="hd0951908g8168g489cga307g3e1bcd9b81a2" version="1">守护之链</content>
+  <content contentuid="h25064b5eg8d83g4f80g8223gfb79a9cb0af7" version="1">获得对所有伤害类型的&lt;LSTag Tooltip="Resistance"&gt;抗性&lt;/LSTag&gt;。</content>
+  <content contentuid="hbc979f65g1220g44bag9776g97adab8a5a97" version="1">谋杀灵光</content>
+  <content contentuid="h3933b2f5g2754g4beegaa86g867c8e4b17a2" version="1">在3米范围内的敌人获得穿刺易伤。可以切换开关此能力。</content>
   <content contentuid="hd05631bbg8915g4a40g8aefg063e1c49a12e" version="1">泰坦射击</content>
   <content contentuid="hce01afccge682g42c7g911dg7f25f44b7a49" version="1">你的远程武器攻击造成额外的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;点物理伤害。</content>
+  <content contentuid="hd961b2a4g52eeg44dfg91c1g2076b9e989a1" version="1">扩大伤口</content>
+  <content contentuid="h580b1639gcfc6g42a6gb255g713d28c48195" version="1">暴击时额外造成1d6点&lt;LSTag Tooltip="Force"&gt;力场&lt;/LSTag&gt;伤害。</content>
   <content contentuid="h0e6155e7g8fe2g40b2ga343g1325509e760e" version="1">悲惨重击</content>
   <content contentuid="h6a38e0cfgb8acg4ea0gbb8cgcb5cdfe60ca8" version="1">打出&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时，额外造成7点伤害。可重复学习。</content>
   <content contentuid="h90f52acfg2f5dg4582gaf2eg9fdee35c929c" version="1">致命一击</content>
   <content contentuid="h778d413cg0142g41e5g9e89g645191486c18" version="1">掷出&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;所需的点数-1。可重复学习。</content>
-  <content contentuid="h1a2b3c4dg5e6fg7a8bg9c0dg1e2f3a4b5c6d" version="1">快手</content>
-  <content contentuid="h5a6b7c8dg9e0fg1a2bg3c4dg5e6f7a8b9c0d" version="1">获得一个额外的&lt;LSTag Tooltip="BonusAction"&gt;附赠动作&lt;/LSTag&gt;。可重复学习。</content>
+  <content contentuid="hdde6b8f8gf3f7g4cd5g81e9gd7cbfe304644" version="1">快手</content>
+  <content contentuid="hcd3fb78cgaff7g4eebg874bgd513d6446dc9" version="1">获得一个额外的&lt;LSTag Tooltip="BonusAction"&gt;附赠动作&lt;/LSTag&gt;。可重复学习。</content>
 </contentList>
