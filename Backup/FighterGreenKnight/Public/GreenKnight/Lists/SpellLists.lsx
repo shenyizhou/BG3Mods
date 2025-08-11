@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Green Knight Druid Cantrips" />
+                    <attribute id="Spells" type="LSString" value="Target_Guidance;Projectile_PoisonSpray;Shout_ProduceFlame;Target_Resistance;Target_ThornWhip" />
+                    <attribute id="UUID" type="guid" value="31d229de-3449-4ad9-9473-9789745f8806" />
+                </node>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="1st-Level Druid Spells" />
+                    <attribute id="Spells" type="LSString" value="Target_AnimalFriendship;Target_CharmPerson;Target_CreateDestroyWater;Target_CureWounds;Target_Entangle;Target_FaerieFire;Target_FogCloud;Target_Goodberry;Target_HealingWord;Projectile_IceKnife;Target_Jump;Target_Longstrider;Shout_SpeakWithAnimals;Zone_Thunderwave" />
+                    <attribute id="UUID" type="guid" value="9e2bc9af-ce4e-467f-8d3d-e58112d1ab9a" />
+                </node>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="2nd-Level Druid Spells" />
+                    <attribute id="Spells" type="LSString" value="Target_Barkskin;Target_Darkvision;Target_EnhanceAbility;Shout_FlameBlade;Target_FlamingSphere;Zone_GustOfWind;Target_HeatMetal;Target_HoldPerson;Target_LesserRestoration;Target_Moonbeam;Shout_PassWithoutTrace;Target_ProtectionFromPoison;Target_SpikeGrowth;Target_AnimalFriendship;Target_CharmPerson;Target_CreateDestroyWater;Target_CureWounds;Target_Entangle;Target_FaerieFire;Target_FogCloud;Target_Goodberry;Target_HealingWord;Projectile_IceKnife;Target_Jump;Target_Longstrider;Shout_SpeakWithAnimals;Zone_Thunderwave" />
+                    <attribute id="UUID" type="guid" value="50dd064f-e68a-4f2b-b9fc-195c7d11f495" />
+                </node>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Verdant Weapon" />
+                    <attribute id="Spells" type="LSString" value="Shout_VerdantWeapon" />
+                    <attribute id="UUID" type="guid" value="f72fd6cb-eec3-492b-b33d-e94ace6e00ef" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

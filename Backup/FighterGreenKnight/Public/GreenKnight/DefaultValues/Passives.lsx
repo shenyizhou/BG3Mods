@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="320"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="DruidDialogueGreenKnight"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="GreenKnightExtraDialogue"/>
+                    <attribute id="TableUUID" type="guid" value="ee6bf4d2-006c-4724-87be-b3d7f5c485d0"/>
+                    <attribute id="UUID" type="guid" value="71005d7e-520a-4586-8989-dfdd06566796"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

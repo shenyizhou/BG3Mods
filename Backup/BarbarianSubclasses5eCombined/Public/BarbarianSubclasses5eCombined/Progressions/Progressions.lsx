@@ -1,0 +1,431 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="Progressions">
+    <node id="root">
+      <children>
+        <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Rage,1,0)" />
+                    <attribute id="Level" type="uint8" value="3" />
+                    <attribute id="Name" type="LSString" value="Barbarian" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="60bbcc97-5381-4898-bc15-908c072895de" />
+                    <attribute id="UUID" type="guid" value="0d4a6b4b-8162-414b-81ef-1838e36e778a" />
+                    <children>
+                        <node id="SubClasses">
+                            <children>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="07234f31-c239-4a57-aeb4-868f3e1a318e" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="2e585948-d775-451d-b58b-15b75321d11e" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="32eee7d8-1b2f-4de5-b9ee-78fbd286c6ef" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="d6bf00fc-3518-4d63-ba8b-03532c1abc4d" />
+                                </node>
+								
+								<node id="SubClass"> 
+                                    <attribute id="Object" type="guid" value="221b4264-9aed-4d14-b5dc-41b3add2d8b0" /> 
+                                </node>
+								<node id="SubClass"> 
+                                    <attribute id="Object" type="guid" value="460fcfa7-5219-4ab4-9151-2dd813e82d14" /> 
+                                </node>
+								<node id="SubClass"> 
+                                    <attribute id="Object" type="guid" value="e0ce004e-575a-4f73-a540-f8f16ff39ad8" /> 
+                                </node>
+								<node id="SubClass"> 
+                                    <attribute id="Object" type="guid" value="d524c770-8406-485b-8c1b-6a65fac5a393" /> 
+                                </node>
+								<node id="SubClass"> 
+                                    <attribute id="Object" type="guid" value="3dfb9ba3-4a66-4304-9c3d-9ac1308ccbec" /> 
+                                </node>
+								<node id="SubClass"> 
+                                    <attribute id="Object" type="guid" value="41d149ff-7110-433d-bb1c-63bf9c7950e7" /> 
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+				
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="3" />
+					<attribute id="Name" type="LSString" value="AncestralGuardian5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="RageUnlock;Rage_NoHeavyArmour_VFX" />
+                    <attribute id="PassivesAdded" type="LSString" value="RageUnlock_AG;Rage_AG_NoHeavyArmour_VFX;AncestralProtectors;AncestralProtectorsVisuals;AncestralProtectorsTracker" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="TableUUID" type="guid" value="35170221-555a-455a-8fa4-3dfe77a2a872" /> 
+                    <attribute id="UUID" type="guid" value="19fc3547-2ff1-45a3-bb49-81f79cc249a1" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="6" />
+					<attribute id="Name" type="LSString" value="AncestralGuardian5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="SpiritShield" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="TableUUID" type="guid" value="35170221-555a-455a-8fa4-3dfe77a2a872" /> 
+                    <attribute id="UUID" type="guid" value="38d6fc3e-86b8-49dc-bd51-7652fdb6eb54" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="10" />
+					<attribute id="Name" type="LSString" value="AncestralGuardian5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="Selectors" type="LSString" value="AddSpells(fa3d3ec0-af4f-4758-aa47-b56c9b6b3554,,,,AlwaysPrepared)" />
+                    <attribute id="TableUUID" type="guid" value="35170221-555a-455a-8fa4-3dfe77a2a872" /> 
+                    <attribute id="UUID" type="guid" value="6030d1a9-8aeb-4311-8b16-851e71f1cace" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="14" />
+					<attribute id="Name" type="LSString" value="AncestralGuardian5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="SpiritShield" />
+                    <attribute id="PassivesAdded" type="LSString" value="VengefulAncestors" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="TableUUID" type="guid" value="35170221-555a-455a-8fa4-3dfe77a2a872" /> 
+                    <attribute id="UUID" type="guid" value="5915eafd-1829-4900-9392-bdf431d5bcf9" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="3" />
+					<attribute id="Name" type="LSString" value="Batlerager5e" />
+                    <attribute id="PassivesAdded" type="LSString" value="Kuldjargh;Battlerager_ArmorCheck;Battlerager_Armor;Battlerager_RageUnlock" />
+					<attribute id="PassivesRemoved" type="LSString" value="RageUnlock" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="TableUUID" type="guid" value="3daa6e86-442f-4c49-929c-e90dd3c9a4f7" /> 
+                    <attribute id="UUID" type="guid" value="29585807-ec9c-4705-ae7a-7e175c0c7b64" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="6" />
+					<attribute id="Name" type="LSString" value="Batlerager5e" />
+                    <attribute id="PassivesAdded" type="LSString" value="RecklessAbandon" />
+					<attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="3daa6e86-442f-4c49-929c-e90dd3c9a4f7" /> 
+                    <attribute id="UUID" type="guid" value="09d7d002-f286-4e30-b33d-20fdab0b0108" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="10" />
+					<attribute id="Name" type="LSString" value="Batlerager5e" />
+                    <attribute id="PassivesAdded" type="LSString" value="BattleragerCharge" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="3daa6e86-442f-4c49-929c-e90dd3c9a4f7" /> 
+                    <attribute id="UUID" type="guid" value="6a203de8-5b18-414b-8587-b537c49e1014" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="14" />
+					<attribute id="Name" type="LSString" value="Batlerager5e" />
+                    <attribute id="PassivesAdded" type="LSString" value="SpikedRetribution" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="3daa6e86-442f-4c49-929c-e90dd3c9a4f7" /> 
+                    <attribute id="UUID" type="guid" value="bbb29034-2895-44a1-9d32-9e8a7688cf74" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="3" />
+					<attribute id="Name" type="LSString" value="Beast5e" />
+                    <attribute id="PassivesAdded" type="LSString" value="SRDTurnTracker;RageBeastFormUnlock;RageBeastFormSpells" />
+					<attribute id="PassivesRemoved" type="LSString" value="RageUnlock" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="TableUUID" type="guid" value="af780cf0-e971-4396-a232-4b358619c4e2" /> 
+                    <attribute id="UUID" type="guid" value="6235badf-5d51-4b2a-acc2-2500891d700b" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="6" />
+					<attribute id="Name" type="LSString" value="Beast5e" />
+                    <attribute id="PassivesAdded" type="LSString" value="BeastialSoul" />
+					<attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="TableUUID" type="guid" value="af780cf0-e971-4396-a232-4b358619c4e2" /> 
+                    <attribute id="UUID" type="guid" value="4ccfe5c4-84a9-4508-9ee7-5b3da71dcf84" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="10" />
+					<attribute id="Name" type="LSString" value="Beast5e" />
+                    <attribute id="PassivesAdded" type="LSString" value="InfectiousFuryScaling;InfectiousFuryUnlock" />
+					<attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="TableUUID" type="guid" value="af780cf0-e971-4396-a232-4b358619c4e2" /> 
+                    <attribute id="UUID" type="guid" value="d30a587d-0ee6-4e5c-8ccd-10ff45af4865" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="14" />
+					<attribute id="Name" type="LSString" value="Beast5e" />
+                    <attribute id="PassivesAdded" type="LSString" value="CalltheHuntScaling;CalltheHunt" />
+					<attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="TableUUID" type="guid" value="af780cf0-e971-4396-a232-4b358619c4e2" /> 
+                    <attribute id="UUID" type="guid" value="49b16c90-ead3-4000-9a1e-c650df52acca" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="3" />
+					<attribute id="Name" type="LSString" value="Juggernaut5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="RageUnlock" />
+                    <attribute id="PassivesAdded" type="LSString" value="RageUnlock_Juggernaut;ThunderousBlowsToggle;SpiritoftheMountain" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="TableUUID" type="guid" value="e89bb170-6e3c-4d91-abfc-3796089d4b82" /> Subclasss Table UUID from ClassDescription
+                    <attribute id="UUID" type="guid" value="d4ae8223-58ad-4897-94d0-1d7383c5bc83" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="6" />
+					<attribute id="Name" type="LSString" value="Juggernaut5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="DemolishingMight;ResoluteStance" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="TableUUID" type="guid" value="e89bb170-6e3c-4d91-abfc-3796089d4b82" /> Subclasss Table UUID from ClassDescription
+                    <attribute id="UUID" type="guid" value="c652b225-c33c-44a6-ae47-6a3a35904af8" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="10" />
+					<attribute id="Name" type="LSString" value="Juggernaut5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="HurricaneLeapUnlock;HurricaneAoOUnlock" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="TableUUID" type="guid" value="e89bb170-6e3c-4d91-abfc-3796089d4b82" /> Subclasss Table UUID from ClassDescription
+                    <attribute id="UUID" type="guid" value="f42142f0-2cf1-4bd2-adec-78bed93c6051" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="14" />
+					<attribute id="Name" type="LSString" value="Juggernaut5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="RageUnlock_Juggernaut" />
+                    <attribute id="PassivesAdded" type="LSString" value="RageUnlock_Unstoppable;Unstoppable_Boosts" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="TableUUID" type="guid" value="e89bb170-6e3c-4d91-abfc-3796089d4b82" /> Subclasss Table UUID from ClassDescription
+                    <attribute id="UUID" type="guid" value="0020cfe6-0bf8-4e19-adca-497134498d99" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="3" />
+					<attribute id="Name" type="LSString" value="StormHerald5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="RageUnlock" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="Selectors" type="LSString" value="SelectPassives(1312059b-6f5f-45cd-b83e-18db4e80c6d0,1,StormAuraEnvironment)" />
+                    <attribute id="TableUUID" type="guid" value="77c39a30-c84d-4b4f-8b88-e62494307e55" /> Subclasss Table UUID from ClassDescription
+                    <attribute id="UUID" type="guid" value="83f3b201-8735-47aa-851d-a3168212424d" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="4" />
+					<attribute id="Name" type="LSString" value="StormHerald5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="ReplacePassives(1312059b-6f5f-45cd-b83e-18db4e80c6d0,1,StormAuraEnvironmentReplace)" />
+                    <attribute id="TableUUID" type="guid" value="77c39a30-c84d-4b4f-8b88-e62494307e55" /> Subclasss Table UUID from ClassDescription
+                    <attribute id="UUID" type="guid" value="df03f812-1231-493b-a3ec-ffd65b2c3b81" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="5" />
+					<attribute id="Name" type="LSString" value="StormHerald5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="ReplacePassives(1312059b-6f5f-45cd-b83e-18db4e80c6d0,1,StormAuraEnvironmentReplace)" />
+                    <attribute id="TableUUID" type="guid" value="77c39a30-c84d-4b4f-8b88-e62494307e55" /> Subclasss Table UUID from ClassDescription
+                    <attribute id="UUID" type="guid" value="932a3110-51e9-4126-b6d3-ea45e279e9fe" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="6" />
+					<attribute id="Name" type="LSString" value="StormHerald5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="StormSoul" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="ReplacePassives(1312059b-6f5f-45cd-b83e-18db4e80c6d0,1,StormAuraEnvironmentReplace)" />
+                    <attribute id="TableUUID" type="guid" value="77c39a30-c84d-4b4f-8b88-e62494307e55" /> Subclasss Table UUID from ClassDescription
+                    <attribute id="UUID" type="guid" value="f3f7dd6b-e716-4702-b1eb-080e6cb79588" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="7" />
+					<attribute id="Name" type="LSString" value="StormHerald5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="ReplacePassives(1312059b-6f5f-45cd-b83e-18db4e80c6d0,1,StormAuraEnvironmentReplace)" />
+                    <attribute id="TableUUID" type="guid" value="77c39a30-c84d-4b4f-8b88-e62494307e55" /> Subclasss Table UUID from ClassDescription
+                    <attribute id="UUID" type="guid" value="d922d29b-7a1c-4569-8712-f66a37577f21" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="8" />
+					<attribute id="Name" type="LSString" value="StormHerald5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="ReplacePassives(1312059b-6f5f-45cd-b83e-18db4e80c6d0,1,StormAuraEnvironmentReplace)" />
+                    <attribute id="TableUUID" type="guid" value="77c39a30-c84d-4b4f-8b88-e62494307e55" /> Subclasss Table UUID from ClassDescription
+                    <attribute id="UUID" type="guid" value="f857f6a9-4bdc-49c8-b8c3-05bb1575db62" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="9" />
+					<attribute id="Name" type="LSString" value="StormHerald5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="ReplacePassives(1312059b-6f5f-45cd-b83e-18db4e80c6d0,1,StormAuraEnvironmentReplace)" />
+                    <attribute id="TableUUID" type="guid" value="77c39a30-c84d-4b4f-8b88-e62494307e55" /> Subclasss Table UUID from ClassDescription
+                    <attribute id="UUID" type="guid" value="32d4378d-4a1c-4b94-b0c8-9ce4dd513213" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="10" />
+					<attribute id="Name" type="LSString" value="StormHerald5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="ShieldingStorm" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="ReplacePassives(1312059b-6f5f-45cd-b83e-18db4e80c6d0,1,StormAuraEnvironmentReplace)" />
+                    <attribute id="TableUUID" type="guid" value="77c39a30-c84d-4b4f-8b88-e62494307e55" /> Subclasss Table UUID from ClassDescription
+                    <attribute id="UUID" type="guid" value="61191480-99e7-45d2-af23-5b66d1792d2c" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="11" />
+					<attribute id="Name" type="LSString" value="StormHerald5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="ReplacePassives(1312059b-6f5f-45cd-b83e-18db4e80c6d0,1,StormAuraEnvironmentReplace)" />
+                    <attribute id="TableUUID" type="guid" value="77c39a30-c84d-4b4f-8b88-e62494307e55" /> Subclasss Table UUID from ClassDescription
+                    <attribute id="UUID" type="guid" value="7d228186-025c-4481-a2e0-06db29a004b6" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="12" />
+					<attribute id="Name" type="LSString" value="StormHerald5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="ReplacePassives(1312059b-6f5f-45cd-b83e-18db4e80c6d0,1,StormAuraEnvironmentReplace)" />
+                    <attribute id="TableUUID" type="guid" value="77c39a30-c84d-4b4f-8b88-e62494307e55" /> Subclasss Table UUID from ClassDescription
+                    <attribute id="UUID" type="guid" value="50e28a85-d4a8-4ddb-8ff4-35cede1bad82" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="13" />
+					<attribute id="Name" type="LSString" value="StormHerald5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="ReplacePassives(1312059b-6f5f-45cd-b83e-18db4e80c6d0,1,StormAuraEnvironmentReplace)" />
+                    <attribute id="TableUUID" type="guid" value="77c39a30-c84d-4b4f-8b88-e62494307e55" /> Subclasss Table UUID from ClassDescription
+                    <attribute id="UUID" type="guid" value="250623cb-6666-4112-8ea7-09f4ab74b991" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="14" />
+					<attribute id="Name" type="LSString" value="StormHerald5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="RagingStorm" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="ReplacePassives(1312059b-6f5f-45cd-b83e-18db4e80c6d0,1,StormAuraEnvironmentReplace)" />
+                    <attribute id="TableUUID" type="guid" value="77c39a30-c84d-4b4f-8b88-e62494307e55" /> Subclasss Table UUID from ClassDescription
+                    <attribute id="UUID" type="guid" value="bcede7fc-b676-431f-96c5-796dc12d7660" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="15" />
+					<attribute id="Name" type="LSString" value="StormHerald5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="ReplacePassives(1312059b-6f5f-45cd-b83e-18db4e80c6d0,1,StormAuraEnvironmentReplace)" />
+                    <attribute id="TableUUID" type="guid" value="77c39a30-c84d-4b4f-8b88-e62494307e55" /> Subclasss Table UUID from ClassDescription
+                    <attribute id="UUID" type="guid" value="de8a9975-2753-43ea-8c80-7c210435eded" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="16" />
+					<attribute id="Name" type="LSString" value="StormHerald5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="ReplacePassives(1312059b-6f5f-45cd-b83e-18db4e80c6d0,1,StormAuraEnvironmentReplace)" />
+                    <attribute id="TableUUID" type="guid" value="77c39a30-c84d-4b4f-8b88-e62494307e55" /> Subclasss Table UUID from ClassDescription
+                    <attribute id="UUID" type="guid" value="6360885e-fa7b-47cc-99ce-66e30111af2b" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="17" />
+					<attribute id="Name" type="LSString" value="StormHerald5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="ReplacePassives(1312059b-6f5f-45cd-b83e-18db4e80c6d0,1,StormAuraEnvironmentReplace)" />
+                    <attribute id="TableUUID" type="guid" value="77c39a30-c84d-4b4f-8b88-e62494307e55" /> Subclasss Table UUID from ClassDescription
+                    <attribute id="UUID" type="guid" value="a458d8fe-0750-4453-9846-f862e63d6301" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="18" />
+					<attribute id="Name" type="LSString" value="StormHerald5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="ReplacePassives(1312059b-6f5f-45cd-b83e-18db4e80c6d0,1,StormAuraEnvironmentReplace)" />
+                    <attribute id="TableUUID" type="guid" value="77c39a30-c84d-4b4f-8b88-e62494307e55" /> Subclasss Table UUID from ClassDescription
+                    <attribute id="UUID" type="guid" value="574156d9-ed9e-4178-87ab-1eb9c617a459" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="19" />
+					<attribute id="Name" type="LSString" value="StormHerald5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="ReplacePassives(1312059b-6f5f-45cd-b83e-18db4e80c6d0,1,StormAuraEnvironmentReplace)" />
+                    <attribute id="TableUUID" type="guid" value="77c39a30-c84d-4b4f-8b88-e62494307e55" /> Subclasss Table UUID from ClassDescription
+                    <attribute id="UUID" type="guid" value="17c8c391-12eb-41cd-8d6f-ed45dfac215a" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="20" />
+					<attribute id="Name" type="LSString" value="StormHerald5e" />
+					<attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="ReplacePassives(1312059b-6f5f-45cd-b83e-18db4e80c6d0,1,StormAuraEnvironmentReplace)" />
+                    <attribute id="TableUUID" type="guid" value="77c39a30-c84d-4b4f-8b88-e62494307e55" /> Subclasss Table UUID from ClassDescription
+                    <attribute id="UUID" type="guid" value="5c007e7c-c43c-4c0a-84e0-dffdab45a165" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="3" />
+					<attribute id="Name" type="LSString" value="Zealot5e" />
+                    <attribute id="PassivesAdded" type="LSString" value="SRDTurnTracker;Warrior_ot_Gods;Zealot_RageUnlock" />
+					<attribute id="PassivesRemoved" type="LSString" value="RageUnlock" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+					<attribute id="Selectors" type="LSString" value="SelectPassives(c4a1bc09-f8b3-413a-8cd4-ce269dbaa0f1,1,DivineFuryDamageType);SelectPassives(348aa410-81f3-47d7-9f05-b8359a69a71e,1,ZealotDiety)" />
+                    <attribute id="TableUUID" type="guid" value="9da6edbe-8721-4494-a285-c136eccfe09c" /> Subclasss Table UUID from ClassDescription
+                    <attribute id="UUID" type="guid" value="7c1be58d-5747-40c7-b459-d5f5bf36aa47" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="6" />
+					<attribute id="Name" type="LSString" value="Zealot5e" />
+                    <attribute id="PassivesAdded" type="LSString" value="Fanatical_Focus" />
+					<attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="9da6edbe-8721-4494-a285-c136eccfe09c" /> Subclasss Table UUID from ClassDescription
+                    <attribute id="UUID" type="guid" value="5648fb32-404f-48e7-a8eb-4267100e693c" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="10" />
+					<attribute id="Name" type="LSString" value="Zealot5e" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(f451373a-0d83-4f53-a3dc-32eee53ed83e,,,,AlwaysPrepared)" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="9da6edbe-8721-4494-a285-c136eccfe09c" /> Subclasss Table UUID from ClassDescription
+                    <attribute id="UUID" type="guid" value="4ea18143-0e2c-42eb-a26a-74f84076d34c" />  
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="14" />
+					<attribute id="Name" type="LSString" value="Zealot5e" />
+                    <attribute id="PassivesAdded" type="LSString" value="Rage_Beyond_Death" />
+					<attribute id="PassivesRemoved" type="LSString" value="RelentlessRage" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="9da6edbe-8721-4494-a285-c136eccfe09c" /> Subclasss Table UUID from ClassDescription
+                    <attribute id="UUID" type="guid" value="0a0a6c0c-91fc-4df3-aa6e-62bed7e25c61" />  
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

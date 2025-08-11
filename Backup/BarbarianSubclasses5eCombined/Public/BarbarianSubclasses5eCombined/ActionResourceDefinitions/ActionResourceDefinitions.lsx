@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ActionResourceDefinitions">
+    <node id="root">
+      <children>
+        <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="hf8616318gb315g4f4agba15g8eaefcf41255" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h68b2078ag5f3dg48bfgac74g4ae2b7f3bf0e" version="1" />
+                    <attribute id="Name" type="FixedString" value="BestialSoul" />
+                    <attribute id="ReplenishType" type="FixedString" value="ShortRest" />
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="false" />
+                    <attribute id="UUID" type="guid" value="d100fcd5-7b5a-42f6-a09f-bd286f4dc07a" />
+                </node>
+        <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="haef3e349g03ceg4f61ga852gf54958d93b31" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h05ca76eeg3391g413eg95d7g6c1c02aefda8" version="1" />
+                    <attribute id="Name" type="FixedString" value="InfectiousFury" />
+                    <attribute id="ReplenishType" type="FixedString" value="Rest" />
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="false" />
+                    <attribute id="UUID" type="guid" value="adf0ea1f-bd4a-4eff-9f19-f7b71444f51a" />
+                </node>
+        <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="h45b18e04g6f21g4ef7gbf0fg3ef9f1e4b9bb" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h88807b78g797ag4c71gabc5g26853b2d046c" version="1" />
+                    <attribute id="Name" type="FixedString" value="CalltheHunt" />
+                    <attribute id="ReplenishType" type="FixedString" value="Rest" />
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="false" />
+                    <attribute id="UUID" type="guid" value="01ebf10f-1705-40b5-bd73-2eafbf7226dc" />
+                </node>
+        <node id="ActionResourceDefinition">
+					<attribute id="Description" type="TranslatedString" handle="hd38a20fdg539bg4f8cg975agfcd42e5944cd" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hc485cd78g5414g4f56ga577g83dad6b1342c" version="1" />
+					<attribute id="IsHidden" type="bool" value="true" />
+					<attribute id="Name" type="FixedString" value="HurricaneStrikeUse" />
+					<attribute id="ReplenishType" type="FixedString" value="Turn" />
+					<attribute id="ShowOnActionResourcePanel" type="bool" value="false" />
+					<attribute id="UUID" type="guid" value="3ee5bc63-1a85-4ede-97f5-ab670dbe8cdf" />
+				 </node>
+      </children>
+    </node>
+  </region>
+</save>

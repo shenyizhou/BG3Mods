@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="LevelMapValues">
+        <node id="root">
+            <children>
+                <node id="LevelMapSeries">
+                    <attribute id="Level6" type="LSString" value="1d6"/>
+                    <attribute id="Level7" type="LSString" value="1d6"/>
+                    <attribute id="Level8" type="LSString" value="1d6"/>
+                    <attribute id="Level9" type="LSString" value="1d6"/>
+                    <attribute id="Level10" type="LSString" value="1d6"/>
+                    <attribute id="Level11" type="LSString" value="1d6"/>
+                    <attribute id="Level12" type="LSString" value="1d6"/>
+                    <attribute id="Level13" type="LSString" value="1d6"/>					
+                    <attribute id="Level14" type="LSString" value="2d6"/>
+                    <attribute id="Level15" type="LSString" value="2d6"/>
+                    <attribute id="Level16" type="LSString" value="2d6"/>
+                    <attribute id="Level17" type="LSString" value="2d6"/>
+                    <attribute id="Level18" type="LSString" value="2d6"/>
+                    <attribute id="Level19" type="LSString" value="2d6"/>
+                    <attribute id="Level20" type="LSString" value="2d6"/>					
+                    <attribute id="Name" type="FixedString" value="EcDamage"/>
+					<attribute id="PreferredClassUUID" type="guid" value="d8cadb42-0ff9-4049-afaf-e5d78d06a399"/>					
+                    <attribute id="UUID" type="guid" value="3a411eb1-ca55-4abe-8a80-a4629da13ef9"/>
+				</node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level3" type="LSString" value="1.5"/>
+					<attribute id="Level10" type="LSString" value="3"/>
+                    <attribute id="Name" type="FixedString" value="ThunderouBlow"/>
+					<attribute id="PreferredClassUUID" type="guid" value="d8cadb42-0ff9-4049-afaf-e5d78d06a399"/>
+                    <attribute id="UUID" type="guid" value="4b5dac7b-75d4-4acd-8a9d-a7822ac1bc9e"/>
+				</node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level3" type="LSString" value="2"/>
+                    <attribute id="Level5" type="LSString" value="3"/>
+                    <attribute id="Level10" type="LSString" value="4"/>
+                    <attribute id="Level15" type="LSString" value="5"/>
+                    <attribute id="Level20" type="LSString" value="6"/>
+                    <attribute id="Name" type="FixedString" value="DesertAuraDamage"/>
+                    <attribute id="UUID" type="guid" value="94ffcf5b-1d90-4d1a-811a-30092d955903"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level3" type="LSString" value="1d6"/>
+                    <attribute id="Level10" type="LSString" value="2d6"/>
+                    <attribute id="Level15" type="LSString" value="3d6"/>
+                    <attribute id="Level20" type="LSString" value="4d6"/>
+                    <attribute id="Name" type="FixedString" value="SeaAuraDamage"/>
+                    <attribute id="UUID" type="guid" value="d06df2e0-5b7a-4bef-a708-3cfeb81a6022"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level3" type="LSString" value="2"/>
+                    <attribute id="Level5" type="LSString" value="3"/>
+                    <attribute id="Level10" type="LSString" value="4"/>
+                    <attribute id="Level15" type="LSString" value="5"/>
+                    <attribute id="Level20" type="LSString" value="6"/>
+                    <attribute id="Name" type="FixedString" value="TundraAuraTempHP"/>
+                    <attribute id="UUID" type="guid" value="11fc7701-aa1c-4fb6-b42f-6344249f3709"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

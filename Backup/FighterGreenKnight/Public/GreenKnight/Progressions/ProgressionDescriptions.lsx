@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ProgressionDescriptions">
+    <node id="root">
+      <children>
+        <node id="ProgressionDescription">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h17979c02g6567g493eg91b7g0defb26a1e52" version="1" />
+                    <attribute id="Description" type="TranslatedString" handle="h201bed1ag8710g48ffgb99agff1eddc5291d" version="1" />
+                    <attribute id="ProgressionTableId" type="guid" value="2db3f02e-dfa9-4235-b9bd-28a89bf41435" />
+                    <attribute id="Type" type="FixedString" value="GreenKnight" />
+                    <attribute id="UUID" type="guid" value="d15c9f10-811c-4251-82bb-acff9a8bacf5" />
+                </node>
+        <node id="ProgressionDescription">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hec0c1ae3gf6deg4bf2g8df9g45fc25d5f693" version="1" />
+                    <attribute id="Description" type="TranslatedString" handle="h2b3c5513ge621g48bfgb6bfg20cac8fbac45" version="2" />
+                    <attribute id="SelectorId" type="FixedString" value="GreenKnightAny" />
+                    <attribute id="UUID" type="guid" value="56249769-f337-4106-980c-eb00b0070ebe" />
+                </node>
+        <node id="ProgressionDescription">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hfd04afedgdbb2g4e36g80e1g5bbec81c376f" version="1" />
+                    <attribute id="Description" type="TranslatedString" handle="hb00605f9gff35g44c0g9129g51ee06618465" version="1" />
+                    <attribute id="SelectorId" type="FixedString" value="GreenKnightExtraDialogue" />
+                    <attribute id="UUID" type="guid" value="28fa19cb-c8bc-4e52-aac0-704d32b3e3dc" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

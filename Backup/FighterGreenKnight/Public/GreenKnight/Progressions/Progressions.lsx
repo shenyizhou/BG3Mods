@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="Progressions">
+    <node id="root">
+      <children>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="3" />
+                    <attribute id="Name" type="LSString" value="Fighter" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="ba4e707e-4bbd-4630-963b-ce2f2947f971" />
+                    <attribute id="UUID" type="guid" value="23eacff0-9efe-4ea6-b031-19075cc96b63" />
+                    <children>
+                        <node id="SubClasses">
+                            <children>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="e668c6f1-5149-4b10-ab7e-3637ed444066" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="b722614a-303f-411a-bb19-a1882ad1f4cc" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="0a01dc6b-ab1a-4c0e-8a5e-4787fe1f2caf" />
+                                </node>
+                                <node id="SubClass"> Green Knight
+                                    <attribute id="Object" type="guid" value="c296bed5-341e-498a-9933-e9900d17a6f8" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="GreenKnight" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="ee6bf4d2-006c-4724-87be-b3d7f5c485d0" />
+                    <attribute id="UUID" type="guid" value="ff1c490d-b0c1-4e6c-8585-148016c6611c" />
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="2" />
+                    <attribute id="Name" type="LSString" value="GreenKnight" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="ee6bf4d2-006c-4724-87be-b3d7f5c485d0" />
+                    <attribute id="UUID" type="guid" value="657122bf-33da-4c54-8c01-d8765a714150" />
+                </node>
+        <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1)" />
+                    <attribute id="Level" type="uint8" value="3" />
+                    <attribute id="Name" type="LSString" value="GreenKnight" />
+                    <attribute id="PassivesAdded" type="LSString" value="NaturesBlessing;UnlockedSpellSlotLevel1" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(31d229de-3449-4ad9-9473-9789745f8806,2,0,,,,AlwaysPrepared);AddSpells(f72fd6cb-eec3-492b-b33d-e94ace6e00ef,,,,AlwaysPrepared);SelectSpells(9e2bc9af-ce4e-467f-8d3d-e58112d1ab9a,3,0,GreenKnightAny);SelectPassives(4c0dd8e3-2076-4fce-9344-510931089abf,1,GreenKnightExtraDialogue)" />
+                    <attribute id="TableUUID" type="guid" value="ee6bf4d2-006c-4724-87be-b3d7f5c485d0" />
+                    <attribute id="UUID" type="guid" value="5d4703bc-808a-4242-a465-60f3bf0ed733" />
+                </node>
+        <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1)" />
+                    <attribute id="Level" type="uint8" value="4" />
+                    <attribute id="Name" type="LSString" value="GreenKnight" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(9e2bc9af-ce4e-467f-8d3d-e58112d1ab9a,0,1,GreenKnightAny)" />
+                    <attribute id="TableUUID" type="guid" value="ee6bf4d2-006c-4724-87be-b3d7f5c485d0" />
+                    <attribute id="UUID" type="guid" value="23799a73-b732-4d53-808a-f1ec2e1fcb26" />
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="5" />
+                    <attribute id="Name" type="LSString" value="GreenKnight" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(9e2bc9af-ce4e-467f-8d3d-e58112d1ab9a,1,0,GreenKnightAny);SelectSpells(9e2bc9af-ce4e-467f-8d3d-e58112d1ab9a,0,1,GreenKnightAny)" />
+                    <attribute id="TableUUID" type="guid" value="ee6bf4d2-006c-4724-87be-b3d7f5c485d0" />
+                    <attribute id="UUID" type="guid" value="426d52eb-5605-45c8-bf8f-4eaf8c1613b4" />
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="6" />
+                    <attribute id="Name" type="LSString" value="GreenKnight" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(9e2bc9af-ce4e-467f-8d3d-e58112d1ab9a,0,1,GreenKnightAny)" />
+                    <attribute id="TableUUID" type="guid" value="ee6bf4d2-006c-4724-87be-b3d7f5c485d0" />
+                    <attribute id="UUID" type="guid" value="48780905-85c4-4a2a-bb95-5b0a2811344b" />
+                </node>
+        <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ActionResource(SpellSlot,2,2)" />
+                    <attribute id="Level" type="uint8" value="7" />
+                    <attribute id="Name" type="LSString" value="GreenKnight" />
+                    <attribute id="PassivesAdded" type="LSString" value="RegrowthSecondWind;UnlockedSpellSlotLevel2" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(50dd064f-e68a-4f2b-b9fc-195c7d11f495,1,0,GreenKnightAny);SelectSpells(50dd064f-e68a-4f2b-b9fc-195c7d11f495,0,1,GreenKnightAny)" />
+                    <attribute id="TableUUID" type="guid" value="ee6bf4d2-006c-4724-87be-b3d7f5c485d0" />
+                    <attribute id="UUID" type="guid" value="d495b523-a9fb-4845-9800-eceb9d00f449" />
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="8" />
+                    <attribute id="Name" type="LSString" value="GreenKnight" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(50dd064f-e68a-4f2b-b9fc-195c7d11f495,0,1,GreenKnightAny)" />
+                    <attribute id="TableUUID" type="guid" value="ee6bf4d2-006c-4724-87be-b3d7f5c485d0" />
+                    <attribute id="UUID" type="guid" value="e3bc488e-809f-4637-9cff-ef3e1eb6ba7d" />
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="9" />
+                    <attribute id="Name" type="LSString" value="GreenKnight" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(50dd064f-e68a-4f2b-b9fc-195c7d11f495,1,0,GreenKnightAny);SelectSpells(50dd064f-e68a-4f2b-b9fc-195c7d11f495,0,1,GreenKnightAny)" />
+                    <attribute id="TableUUID" type="guid" value="ee6bf4d2-006c-4724-87be-b3d7f5c485d0" />
+                    <attribute id="UUID" type="guid" value="1edd93f7-e129-4088-a309-fa84966bb6b7" />
+                </node>
+        <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2)" />
+                    <attribute id="Level" type="uint8" value="10" />
+                    <attribute id="Name" type="LSString" value="GreenKnight" />
+                    <attribute id="PassivesAdded" type="LSString" value="AncientWarding" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(50dd064f-e68a-4f2b-b9fc-195c7d11f495,0,1,GreenKnightAny)" />
+                    <attribute id="TableUUID" type="guid" value="ee6bf4d2-006c-4724-87be-b3d7f5c485d0" />
+                    <attribute id="UUID" type="guid" value="da81967e-13e6-4c65-a5dc-217047b8fbb8" />
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="11" />
+                    <attribute id="Name" type="LSString" value="GreenKnight" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(50dd064f-e68a-4f2b-b9fc-195c7d11f495,1,0,GreenKnightAny);SelectSpells(50dd064f-e68a-4f2b-b9fc-195c7d11f495,0,1,GreenKnightAny)" />
+                    <attribute id="TableUUID" type="guid" value="ee6bf4d2-006c-4724-87be-b3d7f5c485d0" />
+                    <attribute id="UUID" type="guid" value="5ed6424a-8c1a-4293-9331-34e8ec9923a1" />
+                </node>
+        <node id="Progression">
+                    <attribute id="Level" type="uint8" value="12" />
+                    <attribute id="Name" type="LSString" value="GreenKnight" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(50dd064f-e68a-4f2b-b9fc-195c7d11f495,0,1,GreenKnightAny)" />
+                    <attribute id="TableUUID" type="guid" value="ee6bf4d2-006c-4724-87be-b3d7f5c485d0" />
+                    <attribute id="UUID" type="guid" value="4f6ec9e0-993e-4992-9c5d-83a1fefe7eda" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

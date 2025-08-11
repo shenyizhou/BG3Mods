@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <!-- Translated Texts, ordered by origin text -->
+  <content contentuid="h5e66ddd6gd961g4b2dgb7efgd1d6464b71f0" version="1">远古守护</content>
+  <content contentuid="h2b3c5513ge621g48bfgb6bfg20cac8fbac45" version="1">从德鲁伊法术列表选择法术。</content>
+  <content contentuid="hb00605f9gff35g44c0g9129g51ee06618465" version="1">选择是否给角色添加德鲁伊职业标签（将解锁额外的对话选项）。</content>
+  <content contentuid="he41fb9ceg9d92g4dd4g91eegbbd308743c56" version="1">生物的武器被视为魔法武器，造成[1]。将使用该生物的&lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;施法关键属性调整值&lt;/LSTag&gt;进行&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;。</content>
+  <content contentuid="hd6e0b152g8806g423bga851g60aba5a79f8a" version="1">生物的武器被视为魔法武器。将使用该生物的&lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;施法关键属性调整值&lt;/LSTag&gt;进行&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;。</content>
+  <content contentuid="h201bed1ag8710g48ffgb99agff1eddc5291d" version="1">绿野骑士借助自然之力，汲取大地本身的力量来强化自己的攻势。他们是自然世界的坚定捍卫者，愿意誓死守护它。</content>
+  <content contentuid="h3badc59egb958g42ceg81f0ga64fc85b2639" version="1">德鲁伊对话</content>
+  <content contentuid="hfd04afedgdbb2g4e36g80e1g5bbec81c376f" version="1">德鲁伊对话选项</content>
+  <content contentuid="h17979c02g6567g493eg91b7g0defb26a1e52" version="1">绿野骑士</content>
+  <content contentuid="h263d7275gc58bg4e5eg9ac4g1e4674634d47" version="1">为你装备的武器灌输自然之力，让其变为魔法武器，并可以使用&lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;施法关键属性&lt;/LSTag&gt;进行&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;。如果该武器为短棒或长棍，其武器伤害将变为1d8；如果该武器为巨棒，其武器伤害将变为1d12；如果该武器为其它类型的武器，其武器伤害将保持不变。</content>
+  <content contentuid="hd6c89921gd86ag490fgbb26g00e3a5f539ed" version="1">自然祝福</content>
+  <content contentuid="h1056fb4agb721g4620gb84eg017b3667f4da" version="1">无来自德鲁伊职业的额外对话选项。</content>
+  <content contentuid="h36c7d8ceg3898g4c7fg9996g91ae25e24070" version="1">无额外对话</content>
+  <content contentuid="hc83dc021ge420g46ffg8c31gacb5a17714f0" version="1">再生</content>
+  <content contentuid="hec0c1ae3gf6deg4bf2g8df9g45fc25d5f693" version="1">法术</content>
+  <content contentuid="hd3dff748g341bg45adg8b42g732b1266663a" version="1">解锁来自德鲁伊职业的额外对话选项。</content>
+  <content contentuid="h6c88d747g9fcfg497cg92ecg57fcf53a041f" version="1">使用任意一个特性，都会使二者同时进入冷却。</content>
+  <content contentuid="hee86aeaag6e09g4475g99cagfa3064ac8583" version="1">翠绿武器</content>
+  <content contentuid="ha37ab371g7113g487cgb533gb54ee61712e4" version="1">你在&lt;LSTag Tooltip="AnimalHandling"&gt;驯兽&lt;/LSTag&gt;和&lt;LSTag Tooltip="Nature"&gt;自然&lt;/LSTag&gt;检定中具有&lt;LSTag Tooltip="Proficiency"&gt;熟练项&lt;/LSTag&gt;。</content>
+  <content contentuid="h3bd82f97g12adg4644gbab1gcc8d129ecbc0" version="1">你可以使用此特性替代&lt;LSTag Type="Passive" Tooltip="Indomitable"&gt;不屈&lt;/LSTag&gt;特性，使得你在&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;失败的再次掷骰中能够添加自己的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练项加值&lt;/LSTag&gt;，进一步提高成功的机会。</content>
+  <content contentuid="h46ca2ce3g1352g48a6gb5fcg22b20eb0822a" version="1">你可以再次使用&lt;LSTag Type="Spell" Tooltip="Shout_SecondWind"&gt;回气&lt;/LSTag&gt;能力，治疗自己[1]。</content>
+  <content contentuid="h0eb68d25g99a2g4420gba5ag661e471841cb" version="1">你与周围朝气蓬勃的生命力量建立了联系，这使得你能够比大多数人更频繁地动用自己的内在能量。你可以在完成休息前再次使用&lt;LSTag Type="Spell" Tooltip="Shout_SecondWind"&gt;回气&lt;/LSTag&gt;能力。</content>
+  <content contentuid="hc0a67be2g3f6eg470ega0c8g7600e36aded7" version="1">你与周围朝气蓬勃的生命力量建立了联系，这使得你能够比大多数人更频繁地动用自己的内在能量。你可以在完成休息前使用两次&lt;LSTag Type="Spell" Tooltip="Shout_SecondWind"&gt;回气&lt;/LSTag&gt;能力。</content>
+</contentList>

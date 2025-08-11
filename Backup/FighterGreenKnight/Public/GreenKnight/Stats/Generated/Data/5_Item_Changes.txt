@@ -1,0 +1,22 @@
+new entry "MAG_DRUID_SHILLELAGH_SUPPORT"
+type "StatusData"
+data "StatusType" "BOOST"
+using "MAG_DRUID_SHILLELAGH_SUPPORT"
+data "Boosts" "IF(HasStatus('SHILLELAGH',GetAttackWeapon()) or HasStatus('VERDANT_WEAPON_CLUB_OR_QUARTERSTAFF',GetAttackWeapon())):WeaponDamage(1d4,Bludgeoning)"
+
+new entry "MAG_Druid_Ironvine_Shield_Passive"
+type "PassiveData"
+using "MAG_Druid_Ironvine_Shield_Passive"
+data "Conditions" "(HasStatus('SHILLELAGH',GetActiveWeapon(context.Target, true)) or HasStatus('VERDANT_WEAPON_CLUB_OR_QUARTERSTAFF',GetActiveWeapon(context.Target, true)) or HasStatus('VERDANT_WEAPON_OTHER',GetActiveWeapon(context.Target, true))) and not IsRedirectedDamage()"
+
+new entry "MAG_Druid_Ironvine_Shield_Technical_Passive"
+type "PassiveData"
+using "MAG_Druid_Ironvine_Shield_Technical_Passive"
+data "Conditions" "StatusId('SHILLELAGH') or StatusId('VERDANT_WEAPON_CLUB_OR_QUARTERSTAFF') or StatusId('VERDANT_WEAPON_OTHER')"
+
+new entry "MAG_IRONVINE_SHIELD_EQUIP_TECHNICAL"
+type "StatusData"
+data "StatusType" "BOOST"
+using "MAG_IRONVINE_SHIELD_EQUIP_TECHNICAL"
+data "TickFunctors" "IF(HasStatus( 'SHILLELAGH', GetActiveWeapon(context.Target, true)) or HasStatus( 'VERDANT_WEAPON_CLUB_OR_QUARTERSTAFF', GetActiveWeapon(context.Target, true)) or HasStatus( 'VERDANT_WEAPON_OTHER', GetActiveWeapon(context.Target, true))):ApplyEquipmentStatus(MeleeOffHand, MAG_IRONVINE_SHIELD_TECHNICAL, 100, 1)"
+data "OnApplyFunctors" "IF(HasStatus( 'SHILLELAGH', GetActiveWeapon(context.Target, true)) or HasStatus( 'VERDANT_WEAPON_CLUB_OR_QUARTERSTAFF', GetActiveWeapon(context.Target, true)) or HasStatus( 'VERDANT_WEAPON_OTHER', GetActiveWeapon(context.Target, true))):ApplyEquipmentStatus(MeleeOffHand, MAG_IRONVINE_SHIELD_TECHNICAL, 100, 1)"

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="PassiveLists">
+    <node id="root">
+      <children>
+        <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="DruidDialogueGreenKnight,NoExtraDialogueGreenKnight" />
+                    <attribute id="UUID" type="guid" value="4c0dd8e3-2076-4fce-9344-510931089abf" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

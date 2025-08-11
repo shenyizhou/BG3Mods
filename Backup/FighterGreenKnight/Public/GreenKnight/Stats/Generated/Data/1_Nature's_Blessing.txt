@@ -1,0 +1,7 @@
+new entry "NaturesBlessing"
+type "PassiveData"
+data "DisplayName" "hd6c89921gd86ag490fgbb26g00e3a5f539ed;1"
+data "Description" "ha37ab371g7113g487cgb533gb54ee61712e4;1"
+data "Icon" "Icon_NaturesBlessing"
+data "Properties" "Highlighted"
+data "Boosts" "ProficiencyBonus(Skill,AnimalHandling);ProficiencyBonus(Skill,Nature)"

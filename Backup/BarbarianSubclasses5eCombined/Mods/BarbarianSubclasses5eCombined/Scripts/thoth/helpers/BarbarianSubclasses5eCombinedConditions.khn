@@ -1,0 +1,428 @@
+local __util = require 'larian.util'
+
+function RAIs5eAttackActionRoll()
+	return RAIs5eWeaponAttackRoll() | HasStringInSpellRoll('Shove') | SpellId('Target_Grapple')
+end
+
+function RAIs5eWeaponAttackRoll()
+	return HasStringInSpellRoll('WeaponAttack') | HasStringInSpellRoll('UnarmedAttack') 
+end
+
+function RAIs5eFirstAttackRoll()
+	return RAIs5eAttackActionRoll() | HasStringInSpellRoll('SpellAttack')
+end
+
+function RAIs5eOffHandAttackRoll()
+	local res = HasStringInSpellRoll('OffHandWeaponAttack') & HasUseCosts('BonusActionPoint') & ~HasSpellFlag(SpellFlags.CanDualWield)
+    return ConditionResult(res.Result)
+end
+
+function AGIs5eAttack()
+	return IsAttack() | HasStringInSpellRoll('Shove') | SpellId('Target_Grapple')
+end	
+
+function BRIs5eAttackRoll()
+	return HasStringInSpellRoll('WeaponAttack') | HasStringInSpellRoll('UnarmedAttack') | HasStringInSpellRoll('SpellAttack')
+end
+
+function BRIs5eWeaponAttackRoll()
+	return HasStringInSpellRoll('WeaponAttack') | HasStringInSpellRoll('UnarmedAttack') 
+end
+
+function BRIsOffHandAttackRoll()
+	local res = HasStringInSpellRoll('OffHandWeaponAttack') & HasUseCosts('BonusActionPoint') & ~HasSpellFlag(SpellFlags.CanDualWield)
+    return ConditionResult(res.Result)
+end
+
+function BRIs5eAttackActionRoll()
+	return BRIs5eWeaponAttackRoll() | (HasStringInSpellRoll('Shove') & HasUseCosts('ActionPoint',true)) | SpellId('Target_Grapple')
+end
+
+function BRIs5eFirstAttackRoll()
+	return BRIs5eAttackActionRoll() | HasStringInSpellRoll('SpellAttack')
+end
+
+function BRHasSpikedArmor(entity)
+    entity = entity or context.Source
+    local armor = GetActiveArmor(entity)
+    local hasMediumArmor = armor.ArmorType == ArmorType.ChainShirt or armor.ArmorType == ArmorType.ScaleMail or armor.ArmorType == ArmorType.BreastPlate or armor.ArmorType == ArmorType.HalfPlate
+    return ConditionResult(hasMediumArmor)
+end
+
+function BRHasMagicArmor(entity)
+    entity = entity or context.Source
+    local armor = GetActiveArmor(entity)
+    local hasMagicArmor = armor.Rarity == "Uncommon"
+    return ConditionResult(hasMagicArmor)
+end
+
+function NoWeaponEquipped(entity)
+    local entity = entity or context.Source
+    if (GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand, entity).IsValid) or (GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand, entity).IsValid) then
+        return ConditionResult(false)
+    end
+
+    return ConditionResult(true)
+end
+
+function IsBeastFormAttack()
+    return SpellId('Target_BeastFormBite') | SpellId('Target_BeastFormClaws') | SpellId('Target_BeastFormTail') | SpellId('Target_BeastFormClawsXA')
+end
+
+function IsClawAttack()
+    return SpellId('Target_BeastFormClaws') | SpellId('Target_BeastFormClawsXA')
+end
+
+function IsBiteorTailAttack()
+    return SpellId('Target_BeastFormBite') | SpellId('Target_BeastFormTail')
+end
+
+function IsBeastFormRage()
+    return SpellId('Shout_RageBeastForm_Bite') | SpellId('Shout_RageBeastForm_Claws') | SpellId('Shout_RageBeastForm_Tail') 
+end
+
+function ConGThan(value, entity)
+    entity = entity or context.Source
+    return ConditionResult(entity.Constitution > value)
+end
+
+function IsDualWielding(entity)
+	local entity = entity or context.Source
+	local result = WieldingWeapon('Melee',true,true,entity) | WieldingWeapon('Ammunition',true,true,entity)
+    return ConditionResult(result.Result)	
+end
+
+function IsSwordandBoard(entity)
+	local entity = entity or context.Source
+	local result = HasShieldEquipped(entity) & (WieldingWeapon('Melee',false,true,entity) | WieldingWeapon('Ammunition',false,true,entity))
+    return ConditionResult(result.Result)
+end
+
+function CanClawAttack()
+	local result = ~IsSwordandBoard() & ~IsDualWielding()
+    return ConditionResult(result.Result, {ConditionError("HasNotFreeHandBothSets")})	
+end
+
+function GSizeEqual(size, entity)
+    entity = entity or context.Source
+    return ConditionResult(entity.Size ~= Size.None and entity.Size.value == size.value)
+end
+
+function GSizeEqualOrGreater(size, entity)
+    entity = entity or context.Source
+    return ConditionResult(entity.Size ~= Size.None and entity.Size.value >= size.value)
+end
+
+function GMeleeAttackSpellCheck()
+    return HasStringInSpellRoll('MeleeWeaponAttack') | HasStringInSpellRoll('MeleeOffHandWeaponAttack') | HasStringInSpellRoll('MeleeUnarmedAttack') | HasStringInSpellRoll('MeleeSpellAttack') | HasStringInSpellRoll('ShoveCheck') | SpellId('Target_Grapple') | SpellId('Target_ReleaseGrapple') | SpellId('Throw_Carry')
+end
+
+function GReachAttackCheck()
+    return GMeleeAttackSpellCheck() & ~TargetRadiusGreaterThan(1.5) & ~SpellId('Target_BoomingBlade') & ~SpellId('Target_GreenFlameBlade')
+end
+
+function GHasWeaponInMainHand()
+    result = WieldingWeapon('Melee',false,false) | WieldingWeapon('Ammunition',false,false)
+    return ConditionResult(result.Result, {ConditionError("HasNotWeaponInMainHand")})
+end
+
+function GHasWeaponInOffHand()
+    result = WieldingWeapon('Melee',true,false) | WieldingWeapon('Ammunition',true,false)
+    return ConditionResult(result.Result, {ConditionError("HasNotWeaponInOffHand")})
+end
+
+function GHasInfusedWeaponActive(entity)
+	local entity = entity or context.Target
+	local resultWeaponMain = GHasInfusedMainWeapon(entity)
+	local resultWeaponOff =  GHasInfusedOffWeapon(entity)
+	local result = resultWeaponMain | resultWeaponOff 
+    return ConditionResult(result.Result, {ConditionError("HasNotInfusedWeaponActive")})
+end   
+
+function GHasInfusedWeaponActiveAlt(entity)
+	local entity = entity or context.Target
+	local resultWeaponMain = HasAttribute('InventoryBound', GetActiveWeapon(entity, true)) & HasWeaponProperty(WeaponProperties.Thrown, GetActiveWeapon(entity, true))
+	local resultWeaponOff = HasAttribute('InventoryBound', GetActiveWeapon(entity, false)) & HasWeaponProperty(WeaponProperties.Thrown, GetActiveWeapon(entity, false))
+	local result = resultWeaponMain | resultWeaponOff 
+    return ConditionResult(result.Result, {ConditionError("HasNotInfusedWeaponActive")})
+end   
+
+function GHasInfusedMainWeapon(entity)
+	local entity = entity or context.Target
+	local resultWeaponMain = HasAnyStatus({'ELEMENTAL_CLEAVER_ACID','ELEMENTAL_CLEAVER_COLD','ELEMENTAL_CLEAVER_FIRE','ELEMENTAL_CLEAVER_LIGHTNING','ELEMENTAL_CLEAVER_THUNDER'}, {}, {},GetActiveWeapon(entity,true),entity)
+	local result = resultWeaponMain  
+    return ConditionResult(result.Result)
+end   
+
+function GHasInfusedOffWeapon(entity)
+	local entity = entity or context.Target
+	local resultWeaponOff = HasAnyStatus({'ELEMENTAL_CLEAVER_ACID','ELEMENTAL_CLEAVER_COLD','ELEMENTAL_CLEAVER_FIRE','ELEMENTAL_CLEAVER_LIGHTNING','ELEMENTAL_CLEAVER_THUNDER'}, {}, {},GetActiveWeapon(entity,false),entity)
+	local result = resultWeaponOff 
+    return ConditionResult(result.Result)
+end   
+
+function GIs5eRageWeaponAttack()
+	return IsMeleeWeaponAttack() | GIs5eThrownWeaponAttack()
+end
+
+function GIs5eMeleeUnarmedAttack()
+    local res = IsMeleeUnarmedAttack() & ~SpellTypeIs(SpellType.Throw)
+    return ConditionResult(res.Result)
+end
+
+function GIs5eThrownWeaponAttack()
+    local res = IsUnarmedAttack() & SpellTypeIs(SpellType.Throw) & HasWeaponProperty(WeaponProperties.Thrown, context.HitDescription.ThrownObject)
+    return ConditionResult(res.Result)
+end
+
+function GIs5eThrownCreatureAttack()
+    local res = IsUnarmedAttack() & SpellTypeIs(SpellType.Throw) & Character(context.HitDescription.ThrownObject)
+    return ConditionResult(res.Result)
+end
+
+function GIs5eImprovAttack()
+    local res = IsUnarmedAttack() & SpellTypeIs(SpellType.Throw) & ~Character(context.HitDescription.ThrownObject) & ~HasWeaponProperty(WeaponProperties.Thrown, context.HitDescription.ThrownObject)
+    return ConditionResult(res.Result)
+end 
+
+function GIsECWeaponThrow()
+	return HasStatus('ELEMENTAL_CLEAVER_ACID',context.HitDescription.ThrownObject) | HasStatus('ELEMENTAL_CLEAVER_COLD',context.HitDescription.ThrownObject) | HasStatus('ELEMENTAL_CLEAVER_FIRE',context.HitDescription.ThrownObject) | HasStatus('ELEMENTAL_CLEAVER_LIGHTNING',context.HitDescription.ThrownObject) | HasStatus('ELEMENTAL_CLEAVER_THUNDER',context.HitDescription.ThrownObject) | GIsECWeaponThrowAltDetect()
+end
+
+function GMightyImpelCheck()
+    local result = Ally()
+    if not result.Result then
+        local st = ~SavingThrow(Ability.Strength, SourceSpellDC(10,context.Source,Ability.Strength))
+        return ConditionResult(st.Result, {}, {}, st.Chance)
+    end
+
+    return result
+end
+
+function GIsInfusedWeapon()
+	return HasStatus('ELEMENTAL_CLEAVER_ACID') | HasStatus('ELEMENTAL_CLEAVER_COLD') | HasStatus('ELEMENTAL_CLEAVER_FIRE') | HasStatus('ELEMENTAL_CLEAVER_LIGHTNING') | HasStatus('ELEMENTAL_CLEAVER_THUNDER') | GIsECWeaponThrowAltDetect()
+end   
+
+function GIsECWeaponThrowAltDetect()
+	return HasAttribute('InventoryBound',context.HitDescription.ThrownObject) &  HasWeaponProperty(WeaponProperties.Thrown,context.HitDescription.ThrownObject)
+end
+
+function JUGIs5eThrownCreatureAttack()
+    local res = IsUnarmedAttack() & SpellTypeIs(SpellType.Throw) & Character(context.HitDescription.ThrownObject)
+    return ConditionResult(res.Result)
+end
+
+function IsHurricaneLeapTarget()
+	result = HasStatus('HURRICANE_STRIKE_TARGET',context.Target,context.Source)
+    return ConditionResult(result.Result, {ConditionError("IsNotPushedTarget")})
+end
+
+function JUGIsFightingUnarmed(entity)
+	local entity = entity or context.Source
+	return ~WieldingWeapon('Melee',false,false,entity) & ~WieldingWeapon('Ammunition',false,false,entity)
+end
+
+function SHClassLevelLessThan(level, class, entity)
+    local entity = entity or context.Source
+    return ConditionResult(entity.GetClassLevel(class) < level)
+end
+
+function SHIs5eShoveAttack()
+	local res = HasStringInSpellRoll('Shove') & HasUseCosts('ActionPoint')
+    return ConditionResult(res.Result)
+end
+
+function SHIs5eGrappleAttack()
+	local res = SpellId('Target_Grapple') & HasUseCosts('ActionPoint',true)
+    return ConditionResult(res.Result)
+end
+
+function SHIsTundraSpell()
+	return SpellId('Shout_RageTundraAura') | SpellId('Shout_ActivateTundraAura')
+end
+
+function WasEnemyInAuraOnTundraCast()
+	local resultEnemyStatus = HasStatus('STORMAURA_TUNDRA_VALIDTARGET',context.Target,context.Source)
+	local result = resultEnemyStatus
+    return ConditionResult(result.Result, {ConditionError("NotTundraAuraEnemy")})
+end
+
+function ZIs5eWeaponAttack()
+    return IsMeleeWeaponAttack() | IsRangedWeaponAttack() | IsMeleeUnarmedAttack() | IsRangedUnarmedAttack()
+end
+
+function ZIs5eThrownCreatureAttack()
+    local res = IsUnarmedAttack() & SpellTypeIs(SpellType.Throw) & Character(context.HitDescription.ThrownObject)
+    return ConditionResult(res.Result)
+end
+
+function ZIs5eThrownWeaponAttack()
+    local res = IsUnarmedAttack() & SpellTypeIs(SpellType.Throw) & HasWeaponProperty(WeaponProperties.Thrown, context.HitDescription.ThrownObject)
+    return ConditionResult(res.Result)
+end
+
+function ZIs5eAttackWithWeaponException()
+	return IsSpellAttack() | ZIs5eMeleeUnarmedAttack() | ZIs5eThrownCreatureAttack()
+end
+
+function ZIs5eMeleeUnarmedAttack()
+    local res = IsMeleeUnarmedAttack() & ~SpellTypeIs(SpellType.Throw)
+    return ConditionResult(res.Result)
+end
+
+function ZIs5eImprovAttack()
+    local res = IsUnarmedAttack() & SpellTypeIs(SpellType.Throw)
+    return ConditionResult(res.Result)
+end
+
+function ZealotStabilizeCheck(dc, advantage, disadvantage, flatBonus, entity)
+    local entity = entity or context.Target
+    local dc = dc or 10
+    local advantage = advantage or false
+    local disadvantage = disadvantage or false
+    local bonus = flatBonus or 0
+
+    if HasStatus('BANE',entity).Result then
+        bonus = flatBonus - Roll(1, DiceType.d4)
+    end
+
+    if HasStatus('BLESS',entity).Result then
+        bonus = flatBonus + Roll(1, DiceType.d4)
+    end
+
+    local rollResult = Roll(1, DiceType.d20, bonus)
+
+    if advantage and not disadvantage then
+        rollResult = math.max(rollResult, Roll(1, DiceType.d20, bonus))
+    elseif disadvantage and not advantage then
+        rollResult = math.min(rollResult, Roll(1, DiceType.d20, bonus))
+    end
+
+    if rollResult >= dc then
+        return ConditionResult(true)
+    else
+        return ConditionResult(false)
+    end
+end
+
+function IsZLethalHP(value, entity)
+	entity = entity or context.Target
+	value = value or 1
+	
+	if (entity.HP - entity.TemporaryHP) > value then
+		return ConditionResult(false)
+	end
+	
+	return ConditionResult(true)
+end
+	
+function SRDHasAllyWithinRange(inclusionStatus, distance, tag, target, source)
+    distance = distance or 1.5
+    target = target or context.Target
+    source = source or context.Source
+
+    local errorTrue = {ConditionError("HasAllyWithinRange", {ConditionErrorData.MakeFromNumber(distance, EErrorDataType.Distance)})}
+    local errorFalse = {ConditionError("HasNotAllyWithinRange", {ConditionErrorData.MakeFromNumber(distance, EErrorDataType.Distance)})}
+
+    local allies = GetAlliesWithinRange(distance, target, source)
+    if allies ~= nil then
+        for _, entity in ipairs(allies.Allies) do
+            -- ensure entity has the included status
+            local noIncludedStatus = ConditionResult(inclusionStatus == nil)
+            if inclusionStatus then
+                noIncludedStatus = HasStatus(inclusionStatus, entity)
+            end
+
+            -- filter by tag if provided
+            local hasTag = ConditionResult(tag == nil)
+            if tag then
+                hasTag = Tagged(tag, entity)
+            end
+
+            if noIncludedStatus.Result and hasTag.Result then
+                return ConditionResult(true, errorFalse, errorTrue)
+            end
+        end
+    end
+
+    return ConditionResult(false, errorFalse, errorTrue)
+end
+
+function SRDHasEnemyWithinRange(inclusionStatus, distance, tag, NumberOfEnemy, target, source)
+    distance = distance or 1.5
+    NumberOfEnemy = NumberOfEnemy or 1
+    target = target or context.Target
+    source = source or context.Source
+
+    local errorTrue = {ConditionError("HasAllyWithinRange", {ConditionErrorData.MakeFromNumber(distance, EErrorDataType.Distance)})}
+    local errorFalse = {ConditionError("HasNotAllyWithinRange", {ConditionErrorData.MakeFromNumber(distance, EErrorDataType.Distance)})}
+
+    local enemies = GetEnemiesWithinRange(distance, target, source)
+    if enemies ~= nil then
+        -- Only do the check when we are surounded by more than or equal the NumberOfEnemy
+        if #enemies.Enemies >= NumberOfEnemy then
+            for _, entity in ipairs(enemies.Enemies) do
+                -- ensure entity has the included status
+                local noIncludedStatus = ConditionResult(inclusionStatus == nil)
+                if inclusionStatus then
+                    noIncludedStatus = HasStatus(inclusionStatus, entity)
+                end
+
+                -- filter by tag if provided
+                local hasTag = ConditionResult(tag == nil)
+                if tag then
+                    hasTag = Tagged(tag, entity)
+                end
+
+                if noIncludedStatus.Result and hasTag.Result then
+                    return ConditionResult(true, errorFalse, errorTrue)
+                end
+            end
+        end
+    end
+    return ConditionResult(false, errorFalse, errorTrue)
+end
+
+function SRDCanSee(source, target, from, to)
+	local source = source or context.Source
+	local target = target or context.Target
+    local from = from or context.SourcePosition
+    local to = to or context.Target	
+		
+	return CanSee(source, target) | SRDCanSeeSneaking(source, target, from, to) | SRDCanSeeInvisible(source, target, from, to) | SRDCanSeeBlinded(source, target, from, to) 
+end
+
+function SRDCanSeeSneaking(source, target, from, to)
+    local source = source or context.Source
+    local target = target or context.Target
+    local from = from or context.SourcePosition
+    local to = to or context.Target
+    
+    return HasStatus('SNEAKING', target) & (HasStatus('MIND_SPIKE_OWNER', source) & HasStatus('MIND_SPIKE', target, source))
+end
+
+function SRDCanSeeInvisible(source, target, from, to)
+	local source = source or context.Source
+	local target = target or context.Target
+    local from = from or context.SourcePosition
+    local to = to or context.Target	
+	
+    return Tagged('BLINDSIGHT', source) 
+       |  (HasStatus('MIND_SPIKE_OWNER', source) & HasStatus('MIND_SPIKE', target, source))
+       |  (HasStatus('TRUESIGHT', source) & ~DistanceToEntityGreaterThan(36.5, from, to))
+       | ((HasStatus('SEE_INVISIBILITY', source) | HasStatus('MAG_SEE_INVISIBILITY_HIDDEN_IGNORE_RESTING', source) | HasPassive('AllSeeingEye', source)) & ~DistanceToEntityGreaterThan(18.5, from, to)) 
+       | ((HasPassive('FightingStyle_BlindFighting', source) | (HasPassive('Blindsense', source) & ~(HasPassive('Deafness',source) | HasStatus('SG_Deafened',source)))) & ~DistanceToEntityGreaterThan(3, from, to))	
+end	
+
+function SRDCanSeeBlinded(source, target, from, to)
+    local source = source or context.Source
+    local target = target or context.Target
+    local from = from or context.SourcePosition
+    local to = to or context.Target	
+
+    return HasStatus('SG_Blinded', source) & (Tagged('BLINDSIGHT', source) 
+       |  (HasStatus('MIND_SPIKE_OWNER', source) & HasStatus('MIND_SPIKE', target, source))
+       |  (HasStatus('TRUESIGHT', source) & ~DistanceToEntityGreaterThan(36.5, from, to)) 
+       | ((HasStatus('SEE_INVISIBILITY', source) | HasStatus('MAG_SEE_INVISIBILITY_HIDDEN_IGNORE_RESTING', source) | HasPassive('AllSeeingEye', source)) & ~DistanceToEntityGreaterThan(18.5, from, to)) 
+       | ((HasPassive('FightingStyle_BlindFighting', source) | (HasPassive('Blindsense', source) & ~(HasPassive('Deafness',source) | HasStatus('SG_Deafened',source)))) & ~DistanceToEntityGreaterThan(3, from, to)))
+end

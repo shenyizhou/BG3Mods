@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ClassDescriptions">
+    <node id="root">
+      <children>
+        <node id="ClassDescription">
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h17979c02g6567g493eg91b7g0defb26a1e52" version="1" />
+                    <attribute id="Description" type="TranslatedString" handle="h201bed1ag8710g48ffgb99agff1eddc5291d" version="1" />
+                    <attribute id="LearningStrategy" type="uint8" value="1" />
+                    <attribute id="MulticlassSpellcasterModifier" type="double" value="0.34000000000000002" />
+                    <attribute id="Name" type="FixedString" value="GreenKnight" />
+                    <attribute id="ParentGuid" type="guid" value="721dfac3-92d4-41f5-b773-b7072a86232f" />
+                    <attribute id="PrimaryAbility" type="uint8" value="1" />
+                    <attribute id="ProgressionTableUUID" type="guid" value="ee6bf4d2-006c-4724-87be-b3d7f5c485d0" />
+                    <attribute id="SoundClassType" type="FixedString" value="Fighter" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="5" />
+                    <attribute id="SpellList" type="guid" value="fd366d4e-4063-4b6f-9cd9-26889bcd6465" />
+                    <attribute id="UUID" type="guid" value="c296bed5-341e-498a-9933-e9900d17a6f8" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

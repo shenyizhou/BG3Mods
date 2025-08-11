@@ -1,0 +1,11 @@
+new equipment "EQP_CC_AG"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Greataxe"
+add equipmentgroup
+add equipment entry "ARM_Leather_Body_Minsc"
+add equipmentgroup
+add equipment entry "ARM_Boots_Leather"
+add equipmentgroup
+add equipment entry "ARM_Bracers_Barbarian"
+

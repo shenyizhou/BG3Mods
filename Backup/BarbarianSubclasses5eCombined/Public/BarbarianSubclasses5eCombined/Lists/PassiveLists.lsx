@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="PassiveLists">
+    <node id="root">
+      <children>
+        <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="RageDesertAuraUnlock,RageSeaAuraUnlock,RageTundraAuraUnlock" />
+					<attribute id="UUID" type="guid" value="1312059b-6f5f-45cd-b83e-18db4e80c6d0" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="Divine_Fury_Radiant,Divine_Fury_Necrotic" />
+					<attribute id="UUID" type="guid" value="c4a1bc09-f8b3-413a-8cd4-ce269dbaa0f1" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="Zealot_Bahamut,Zealot_Bane,Zealot_Bhaal,Zealot_Corellon,Zealot_Eilistraee,Zealot_Garl,Zealot_Gruumsh,Zealot_Helm,Zealot_Ilmater,Zealot_Kelemvor,Zealot_Laduguer,Zealot_Lathander,Zealot_Lolth,Zealot_Mielikki,Zealot_Moradin,Zealot_Myrkul,Zealot_Mystra,Zealot_Oghma,Zealot_Selune,Zealot_Shar,Zealot_Talos,Zealot_Tempus,Zealot_Tiamat,Zealot_Tymora,Zealot_Tyr,Zealot_Vlaakith,Zealot_Yondalla,Zealot_None" />
+					<attribute id="UUID" type="guid" value="348aa410-81f3-47d7-9f05-b8359a69a71e" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

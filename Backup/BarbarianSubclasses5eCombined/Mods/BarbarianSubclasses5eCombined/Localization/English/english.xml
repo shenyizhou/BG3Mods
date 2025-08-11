@@ -1,0 +1,307 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<content contentuid="h0e067be6gc0deg4fd9gb9e1g724c27074b7d" version="1">When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on melee weapon &lt;LSTag Tooltip="AttackRoll"&gt;attack rolls&lt;/LSTag&gt; using &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; during this turn, but attack rolls against you have advantage until your next turn.</content>
+	<content contentuid="h916dbbf8gfa3cg4b03g81b5g460a1c10e687" version="1">Attacking Recklessly</content>	
+	<content contentuid="h188df833gf5dfg4850g9ea1g35f433141570" version="1">Affected entity has &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on melee weapon &lt;LSTag Tooltip="AttackRoll"&gt;attack rolls&lt;/LSTag&gt; on their turn, and any attack roll against them has advantage.</content>
+	<content contentuid="he954ef0dg1d1cg4766gb88bga1c81a5ad800" version="1">Ancestral Guardian</content>
+	<content contentuid="h7b62f7c3g5b2dg4044g9dddg9da06122f615" version="1">Some barbarians hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger in the world as mighty spirits, who can guide and protect the living. When a barbarian who follows this path rages, the barbarian contacts the spirit world and calls on these guardian spirits for aid.</content>
+	<content contentuid="hdb23f621ge101g4895gb370ge13c33402f6f" version="1">Gain &lt;LSTag Tooltip="Resistant"&gt;resistance&lt;/LSTag&gt; to physical damage, and &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on Strength &lt;LSTag Tooltip="AbilityCheck"&gt;checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;saves&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;The first creature your attack on your turn is targeted by spectral warriors, which hinder its attacks.</content>
+	<content contentuid="h9455eae3g1dc8g44cbgb8bag0eee0b0657e4" version="1">Deals an additional [1] damage with melee and improvised weapons, and while throwing objects.&lt;br&gt;&lt;br&gt;Has resistance to physical damage, and &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on Strength &lt;LSTag Tooltip="AbilityCheck"&gt;checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;saving throws&lt;/LSTag&gt;. &lt;br&gt;&lt;br&gt;Cannot cast or concentrate on spells.&lt;br&gt;&lt;br&gt;&lt;b&gt;Ancestral Protectors:&lt;/b&gt; Causes creatures to have &lt;LSTag Tooltip="Disadvantage"&gt;disadvantage&lt;/LSTag&gt; and reduced damage on their attacks.</content>
+	<content contentuid="h67791305g3606g46deg83afg6ba1d6b52210" version="1">Ancestral Protectors</content>
+	<content contentuid="h81ea1c3dgc28bg416eg9431g1cf5deed8abe" version="1">While &lt;LSTag Type="Status" Tooltip="RAGE"&gt;raging&lt;/LSTag&gt;, the first creature your attack on your turn is targeted by spectral warriors, which hinder its attacks.</content>
+	<content contentuid="h1dc017f3g7164g4379ga7afg0fbc048e6751" version="1">TEST</content>
+	<content contentuid="hc75f664dgff26g40e0ga81bg04e6302cccf9" version="1">Hindered by Ancestral Protectors</content>
+	<content contentuid="he77fe716g1632g4152gb11dga67982d70cdf" version="1">Affected entity has &lt;LSTag Tooltip="Disadvantage"&gt;disadvantage&lt;/LSTag&gt; and deals half damage with any attack that is not directed at the source of the Ancestral Protectors.</content>
+	<content contentuid="h0652aa2bg73d3g4fe3g9631g950d03b68bf9" version="1">Spirit Shield</content>
+	<content contentuid="hff0ab3ebgcaa5g40a4gbee5g3780d1e14677" version="1">While &lt;LSTag Type="Status" Tooltip="RAGE"&gt;raging&lt;/LSTag&gt;, you can use your &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to reduce damage dealt to an ally within [1].</content>
+	<content contentuid="h8db050f9g6e45g40c5gb4aeg3d7866dc65b2" version="1">Reduce damage dealt to an ally within [1].</content>
+	<content contentuid="h6477a6ffgb386g4820g9593g423819eca1f0" version="1">Damage is reduced by 2d6, and increases to 3d6 at 10th level and 4d6 at 14th level.</content>
+	<content contentuid="ha0770a73gd4fag410agb3bagc2f2ee18e7e4" version="1">Guardian Spirit</content>
+	<content contentuid="hc9d5a633g9381g4d89gb017g1782220f4e2c" version="1">Consult the Spirits</content>
+	<content contentuid="hf64a5a28gd3ddg41d8gb94dga1d9bf18830f" version="1">Summon an invisible ancestral spirit that can scout the path ahead for you.</content>
+	<content contentuid="hf5e0269dg3dc7g4b41g9ea5g797685b65603" version="1">Vengeful Ancestors</content>
+	<content contentuid="hc3223932g8e52g4e71gbf05g0d74ecee2518" version="1">When you use your &lt;LSTag Type="Passive" Tooltip="SpiritShield"&gt;Spirit Shield&lt;/LSTag&gt; to reduce the damage of an attack, the attacker takes an amount of force damage that your Spirit Shield prevents.</content>
+	<content contentuid="h5d988d1dg3926g40cag9b68ge20f85bf394a" version="1">Reduce damage dealt to an ally within [1] by [2]. If you reduce the damage of an attack, the attacker takes an amount of force damage that is prevented.</content>
+	<content contentuid="hff5de892gf5bag478aga4ecg35b25d01e2e4" version="1">Entity is protected by a Spirit Shield.</content>
+	<content contentuid="hfdfcfb58gcafdg494egad62g580c7d64f7df" version="1">Battlerager</content>
+	<content contentuid="heca1107bg39b6g45cbgaac2g0624e8cd3c76" version="1">Known as Kuldjargh (literally "axe idiot") in Dwarvish, Battleragers are Dwarf followers of the gods of war and take the Path of the Battlerager. They specialize in wearing bulky, spiked armor and throwing themselves into combat, striking with their body itself and giving themselves over to the fury of battle.</content>
+	<content contentuid="hd6f883d7g8abdg45ebg9551gda82b5e59275" version="1">Kuldjargh</content>
+	<content contentuid="hb26c9949g2d67g4d29ga7f1g391879f0fd9f" version="1">Battlerager Armor</content>
+	<content contentuid="hdc85a2dag5af7g4fc2g9647gb7eceb43a48f" version="1">Battlerager Armor (Grapple)</content>
+	<content contentuid="hb3b264efgf873g4fecg81a8g73322822feb5" version="1">Battlerager Armor (Throw)</content>	
+	<content contentuid="hc6f69848g33c8g466eg84ebgefbbf746baa2" version="1">Armor Spikes</content>
+	<content contentuid="h1ddddec9g2043g4b06gb997g2970d3a1cdab" version="1">While you are wearing medium metal armor and are &lt;LSTag Type="Status" Tooltip="RAGE"&gt;raging&lt;/LSTag&gt;, you can use a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; to make one melee weapon Attack with your armor spikes against a target within [1] of you.</content>	
+	<content contentuid="he6a1be96g780bg46d6gadd1gd3ecec909bd1" version="1">Reckless Abandon</content>
+	<content contentuid="hc2197a71g6188g48dcgae0dg1be82c01e23b" version="1">Battlerager Charge</content>
+	<content contentuid="h4a60c7d2ga5e3g49e2gac22ge93b2da6160c" version="1">Reckless Attack (Unarmed)</content>
+	<content contentuid="hc5100e69gd703g41c1g93a2g7da04a5cc491" version="1">Reckless Attack (Improvised)</content>
+	<content contentuid="h4bb051cfgec19g4166g8c22gbccb1cb12369" version="1">You are a true axe idiot. Although some attempt to copy the almost-suicidal style of Dwarven combat, none can truly replicate your immense strength, durability and aggression.</content>
+	<content contentuid="h0cabe01ag5373g4e9dgb171gae81248370ff" version="1">Once in battle, you become almost animal-like, your eyes bulge, your teeth grind, and drool flicks from your mouth and beard. You were taught to use your whole body in combat, incorporating your spiked armor, which allows you to deal fatal blows with a barge, kick, or even headbutt.</content>
+	<content contentuid="h2e1920b2g0538g4014g9e7cg51589e32f5f3" version="1">While you are wearing medium metal armor and are &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Raging&lt;/LSTag&gt;, you can use a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Bonus Action&lt;/LSTag&gt; to make one &lt;LSTag Tooltip="MeleeWeaponAttack"&gt;melee weapon Attack&lt;/LSTag&gt; with your armor spikes against a target within [1] of you.&lt;br&gt;&lt;br&gt;Additionally, when you use the Attack Action to Grapple or Throw a creature, the target takes [2] piercing damage if your Check succeeds.</content>
+	<content contentuid="h9e2e6a28gcdcag43c4gbb78g6f68a947bdd3" version="1">When you use the attack action to grapple or throw a creature, the target takes [1] piercing damage if your check succeeds.</content>
+	<content contentuid="hb5c4079dg5e1bg487eg9ba2g12e3c617fd8f" version="1">When you use the attack action to grapple a creature, the target takes [1] piercing damage if your grapple check succeeds.</content>
+	<content contentuid="h7afeb636ga82bg429dg8d31g50f0d43d6e5f" version="1">When you use the attack action to throw a creature, the target takes [1] piercing damage if your throw succeeds.</content>
+	<content contentuid="h2ce8296ag7179g4b9cgb462g0d5328a27282" version="1">When you use &lt;LSTag Type="Passive" Tooltip="RecklessAttack"&gt;Reckless Attack&lt;/LSTag&gt; while &lt;LSTag Type="Status" Tooltip="RAGE"&gt;raging&lt;/LSTag&gt;, you also gain [1]. They vanish if any of them are left when your Rage ends.</content>
+	<content contentuid="h17547d81ge9a9g4b5ega43ag87e3545987fe" version="1">Gained [1] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit point(s)&lt;/LSTag&gt; from &lt;LSTag Type="Passive" Tooltip="RecklessAbandon"&gt;Reckless Abandon&lt;/LSTag&gt;.</content>
+	<content contentuid="h7208377dg6089g4ea9gbc1cgeb747e653bb1" version="1">You can take the &lt;LSTag Type="Spell" Tooltip="Shout_Dash"&gt;dash&lt;/LSTag&gt; action as a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; while you are &lt;LSTag Type="Status" Tooltip="RAGE"&gt;raging&lt;/LSTag&gt;.</content>
+	<content contentuid="hdcfb552eg41a9g44d2gb70dg6f8a478c95b3" version="1">Spiked Retribution</content>
+	<content contentuid="h4beb30dfgab5eg4919gba17g2ce4f973360f" version="1">When a creature within [1] of you hits you with a melee attack, the attacker takes [2] if you are &lt;LSTag Type="Status" Tooltip="RAGE"&gt;raging&lt;/LSTag&gt;, aren't &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;incapacitated&lt;/LSTag&gt;, and are wearing medium metal armor.</content>
+	<content contentuid="h4a1ccf74g3f7bg4192ga739g729cf72571b9" version="1">Spiked Armor</content>
+	<content contentuid="h59a1b929ged8ag4a6eg93f2g4366ff64d341" version="1">Entity has attached spikes to their armor which can be used as a weapon.</content>
+	<content contentuid="h400bde45ge4d3g4e70ga32eg2a31dba59e2e" version="1">Beast</content>
+	<content contentuid="h61063ad0g5dc4g4b25g868dge086801dab95" version="1">Barbarians who walk the Path of the Beast draw their rage from a bestial spark burning within their souls. That beast bursts forth in the throes of rage, physically transforming the Barbarian.</content>
+	<content contentuid="hc062d317gad17g47c1g90b9gee71747cf113" version="1">Deal [1] extra damage with melee and improvised weapons, and throwing. Until the rage ends, you manifest a natural weapon.</content>
+	<content contentuid="h96862f98g4d79g4539ga3b0g901bffc37abf" version="1">You can use the &lt;LSTag Type="Status" Tooltip="RAGE"&gt;rage&lt;/LSTag&gt; feature. When you enter your rage, you transform, revealing the bestial power within you.</content>	
+	<content contentuid="he3fa131egda55g4195gb0f5g90c678da24a0" version="1">Form of the Beast (Bite)</content>
+	<content contentuid="h7ea9910bg2799g4e26g8d0agfa7460fd7778" version="1">Your mouth transforms into a bestial muzzle or great mandibles that you can &lt;LSTag Type="Spell" Tooltip="Target_BeastFormBite"&gt;attack&lt;/LSTag&gt; with. Once on each of your turns when you damage a creature with this bite, you regain [1], provided you have less than half your hit points when you hit.</content>
+	<content contentuid="h92b58a99g5765g4101gbf2ag261a9b16878f" version="1">Bite a target. If you have less than half your hit points when you hit, you regain [1].</content>
+	<content contentuid="h5e8f2fe2g2c3dg4e6ag8b27g70c7ed7b2507" version="1">Regaining hit points from this feature is limited to once on your turn.</content>
+	<content contentuid="h00c9723egcb23g4d9cg885dgb0416727a50c" version="1">Form of the Beast (Claws)</content>
+	<content contentuid="hfd6966a3g3360g4075ga7b8g08c5bb6b4cee" version="1">Form of the Beast Extra Attack (Claws)</content>
+	<content contentuid="h70058487g78ceg4559g828eg3227267c9254" version="1">Claws Extra Attack</content>	
+	<content contentuid="ha291c330g55bcg453egaa5fg3ad85628dcb6" version="1">Each of your hands transforms into a claw, which you can &lt;LSTag Type="Spell" Tooltip="Target_BeastFormClaws"&gt;attack&lt;/LSTag&gt; with. Once on each of your turns when you attack with a claw using the attack action, you can make one additional claw attack as part of the same action.</content>
+	<content contentuid="h38b6b8ebgd24bg4bd6g9a28gda4ca1e59c2b" version="1">Claw a target. Once on each of your turns when you attack with a claw using the attack action, you can make one additional claw attack as part of the same action.</content>
+	<content contentuid="hab408a6ag880bg4656gb52cg3a50764c0651" version="1">Form of the Beast (Tail)</content>
+	<content contentuid="h8ac8eb24g8c80g426bg95e1g886852053dbd" version="1">You grow a lashing, spiny tail with the &lt;LSTag Tooltip="Reach"&gt;reach&lt;/LSTag&gt; property, which you can &lt;LSTag Type="Spell" Tooltip="Target_BeastFormTail"&gt;attack&lt;/LSTag&gt; with. If a creature you can see within [1] of you hits you with an &lt;LSTag Tooltip="AttackRoll"&gt;attack roll&lt;/LSTag&gt;, you can use your &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to swipe your tail, potentially causing the attack to miss.</content>
+	<content contentuid="ha0a29d0dgc5d0g4c95g8502g3f7a27cfd6d9" version="1">Tail</content>
+	<content contentuid="h416dcb42gd5fdg4270ga373gfbb9a2d32083" version="1">Tail Defense</content>
+	<content contentuid="h877ce08dg161cg47d8gbfc9g93da5256613d" version="1">Tail (Reach)</content>	
+	<content contentuid="h4b2557f2g71d0g4b84g80d0g2252606ea0a6" version="1">Left Tail Attack Range</content>	
+	<content contentuid="h091a6a99ga478g48degb368g8fc72640f3a0" version="1">Target provokes an &lt;LSTag Tooltip="OpportunityAttack"&gt;opportunity attack&lt;/LSTag&gt; for moving out of reach.</content>	
+	<content contentuid="h41c7af1ag0c00g4d1cg807dgcb4d7758e76b" version="1">Lash your tail at a target within [1].</content>
+	<content contentuid="hd0c5f4e7gc7b8g4076ga960g92197dd9c54a" version="1">When attacked by a creature you can see within [1], add [2] to your &lt;LSTag Tooltip="ArmourClass"&gt;AC&lt;/LSTag&gt;, possibly causing the attack to miss.</content>
+	<content contentuid="h1491987ag2fcfg4447gad32g9beaf73b3dff" version="1">Bestial Soul</content>
+	<content contentuid="h68b2078ag5f3dg48bfgac74g4ae2b7f3bf0e" version="1">Bestial Soul Use</content>
+	<content contentuid="hf8616318gb315g4f4agba15g8eaefcf41255" version="1">Path of the Beast Barbarians can alter their form to help them adapt to their surroundings.</content>
+	<content contentuid="h2e12ac31gfedeg42cfg9e6fgfbf8b8269f7a" version="1">The natural weapons of your Form of the Beast to count as magical for the purpose of overcoming &lt;LSTag Tooltip="Resistant"&gt;resistance&lt;/LSTag&gt; and &lt;LSTag Tooltip="Immune"&gt;immunity&lt;/LSTag&gt; to nonmagical attacks and damage. Additionally, you may choose a benefit to help you adapt to your surroundings.</content>
+	<content contentuid="h67b799c1g5096g464ag8307gf93e41c04b4c" version="1">The benefit you choose lasts until you finish a &lt;LSTag Tooltip="ShortRest"&gt;short&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;long rest&lt;/LSTag&gt;.</content>
+	<content contentuid="h103955b3g547bg4137ga72agf2b052583cbe" version="1">Choose one benefit to help you adapt to your surroundings.</content>
+	<content contentuid="hb92d612cgd1aag4c5bg9978g3358e5af9c27" version="1">Bestial Soul (Swim)</content>
+	<content contentuid="h938126f9g042dg4935gb964g20880148c0c8" version="1">Increase your movement speed by [1] while in water-based surfaces.</content>
+	<content contentuid="ha63a67d3g946ag44fbg9b73gc4bb783d47f0" version="1">Your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; increases by [1] while standing in water-based surfaces.</content>
+	<content contentuid="h42258e5aga404g48a4g8b51g59174cdb0454" version="1">Bestial Soul (Climb)</content>
+	<content contentuid="hedbe3c38g7f87g463fg9d6cgad2e8e51af71" version="1">Gain the ability to &lt;LSTag Type="Spell" Tooltip="Shout_Dash"&gt;dash&lt;/LSTag&gt; through &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;difficult terrain&lt;/LSTag&gt; without being slowed down.</content>
+	<content contentuid="hb1f91817g06d0g4d7fga8cfgf76cab3c6b35" version="1">Bestial Soul (Jump)</content>
+	<content contentuid="ha15843bcg4fceg4b5dg84b0gae01646526fd" version="1">Increase the distance you can &lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;jump&lt;/LSTag&gt; by [1].</content>
+	<content contentuid="hb8a825c4gf438g4633g830fgf0aacbb580d4" version="1">Your &lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;jumping&lt;/LSTag&gt; distance is increased by [1].</content>
+	<content contentuid="hbaf930eagde79g4d96g8d5fgde063015f80d" version="1">Infectious Fury</content>
+	<content contentuid="h05ca76eeg3391g413eg95d7g6c1c02aefda8" version="1">Infectious Fury Use</content>
+	<content contentuid="hfc7dcab8g7817g4021g8213g90d7e02c39d6" version="1">Infectious Fury (Damage)</content>
+	<content contentuid="h50b60748g937cg4050g982cg91b088bfeed8" version="1">Infectious Fury (Attack)</content>
+	<content contentuid="haef3e349g03ceg4f61ga852gf54958d93b31" version="1">Path of the Beast Barbarians can curse the target of their attacks with rabid fury.</content>
+	<content contentuid="h8e6ebaffgd57cg4c9egacc1g786f525be99b" version="1">When you hit a creature with your natural weapons while you are &lt;LSTag Type="Status" Tooltip="RAGE"&gt;raging&lt;/LSTag&gt;, you may curse the target of your attack with rabid fury.</content>
+	<content contentuid="hedf2b0c7gfc3dg4c4bg9050ge30b23e39c85" version="1">Infectious Fury can be used a number of times equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;proficiency bonus&lt;/LSTag&gt; per &lt;LSTag Tooltip="LongRest"&gt;long rest&lt;/LSTag&gt;.</content>
+	<content contentuid="hdeb2f721ga2e6g4674gb92egc8256a078cef" version="1">The target of your natural attack takes additional damage.</content>
+	<content contentuid="h6f1a912egd939g4a1bg92f9g8b596a90f0d2" version="1">The target of your natural attack becomes &lt;LSTag Type="Status" Tooltip="RABID_ATTACKER"&gt;rabid&lt;/LSTag&gt; and must use its &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to make a melee attack against another creature of your choice that you can see.</content>		
+	<content contentuid="h8c49eaa8gca7bg4efcgabb8g1a3b25aaf971" version="1">Rabid</content>
+	<content contentuid="h7e9cb57eg3f57g4241g8b44g517488e95d92" version="1">Affected entity will use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to make a melee attack against another creature chosen by the Path of the Beast Barbarian.</content>
+	<content contentuid="h5e262d82gdb40g4c4eg93d5g291d100ccac8" version="1">Within Range of Rabid Attack</content>
+	<content contentuid="h13f6c000g13edg4fc7g9460g407a2f7aedca" version="1">Entity within range of a Rabid Attack.</content>
+	<content contentuid="h468bd5d9g0ea7g43bcgbecfg6f348e9f5119" version="1">Declare Rabid Attack Target</content>
+	<content contentuid="he83b39a5gba1ag42f6ga9b0g24865ad10635" version="1">Choose a target. The creature affected by your &lt;LSTag Type="Status" Tooltip="RABID_ATTACKER"&gt;Infectious Fury&lt;/LSTag&gt; will immediately use their &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to make a melee attack against the target if they are in melee range.</content>
+	<content contentuid="h9f1fed93g2452g4a56g91abg46e8579c3c88" version="1">Rabid Attack</content>
+	<content contentuid="hd1964732gb476g4202g839eg672460fd97d1" version="1">Respond to the Path of the Beast Barbarian's command and use your &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to make an attack against a chosen target.</content>
+	<content contentuid="h88807b78g797ag4c71gabc5g26853b2d046c" version="1">Call the Hunt</content>
+	<content contentuid="h45b18e04g6f21g4ef7gbf0fg3ef9f1e4b9bb" version="1">The beast within the Barbarian is so powerful that its ferocity is spread to others.</content>
+	<content contentuid="h2af85f70ge13dg4ad7ga9feg74dc99c0e0de" version="1">When you enter your &lt;LSTag Type="Status" Tooltip="RAGE"&gt;rage&lt;/LSTag&gt;, you can choose allies to join your hunt. You gain &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt; for each ally you choose, and the chosen allies receive a bonus to damage.</content>	
+	<content contentuid="h24ce0496g4a77g42e1g853fg0d2d6c21af7d" version="1">When you enter your &lt;LSTag Type="Status" Tooltip="RAGE"&gt;rage&lt;/LSTag&gt;, you can choose a number of allies you can see within [2] equal to your &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;modifier&lt;/LSTag&gt;, and gain [3] for each ally you target.</content>
+	<content contentuid="h9d008ea5g46e4g414eg8a0eg666a2f9b8887" version="1">Until your &lt;LSTag Type="Status" Tooltip="RAGE"&gt;rage&lt;/LSTag&gt; ends, the chosen allies gain a [1] bonus to damage when they hit a target with an &lt;LSTag Tooltip="AttackRoll"&gt;attack&lt;/LSTag&gt;.</content>
+	<content contentuid="h68b8566dg5872g4e11g857bg01d9f5e1f352" version="1">You can use this feature a number of times equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;proficiency bonus&lt;/LSTag&gt; per &lt;LSTag Tooltip="LongRest"&gt;long rest&lt;/LSTag&gt;.</content>
+	<content contentuid="hc086f561g7b95g4ebdg993ag9275f59e19a3" version="1">Choose [1] allies you can see within [2], and gain [3] for each ally you target. Until your &lt;LSTag Type="Status" Tooltip="RAGE"&gt;rage&lt;/LSTag&gt; ends, the chosen allies gain a [4] bonus to damage when they hit a target with an &lt;LSTag Tooltip="AttackRoll"&gt;attack&lt;/LSTag&gt;.</content>
+	<content contentuid="h8caaa97fg9a89g4495g93abg8a468e402750" version="1">Ferocious</content>	
+	<content contentuid="h2132d609g60d5g4737g9817ge34fdf876e8b" version="1">Affected entity has a [1] bonus to damage when they hit a target with an &lt;LSTag Tooltip="AttackRoll"&gt;attack&lt;/LSTag&gt;.</content>		
+	<content contentuid="h62920646g21b1g4918gbad9g8c9c446b0aab" version="1">Must have a free hand in both weapon sets</content>	
+	<content contentuid="h77510f1egdfc5g493ag83bbgca33646dc094" version="1">Has a free hand in both weapon sets</content>	
+	<content contentuid="h5b37f7bdgc9efg4993g82a8gab6ba5c86311" version="1">Giant</content>
+	<content contentuid="h316a4166g09c9g4bf1g9698ga12d24acd86a" version="1">Barbarians who walk the Path of the Giant draw strength from the same primal forces as Giants. As they Rage, these Barbarians surge with elemental power and grow in size, taking on forms that evoke the glory of Giants.</content>
+	<content contentuid="hbf3fb9a3gecd5g49eagaa7agf6b5eeb22c70" version="1">Giant’s Power</content>	
+	<content contentuid="h7ff8f3b0g610eg497fgb7aag31d23ce8ddcb" version="1">Giant’s Power</content>	
+	<content contentuid="h7ae540c5g6610g4956gb7b6ga6ca64d8d00f" version="1">You may choose your cantrip by selecting one from the list below. This cantrip doesn't use &lt;LSTag Tooltip="SpellSlot"&gt;spell slots&lt;/LSTag&gt; and can be cast at will. It uses your Wisdom as its &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;modifier&lt;/LSTag&gt;.</content>
+	<content contentuid="hf508e6a9ga7b8g4307g8132g54d24fb340b2" version="1">You add half of your &lt;LSTag Tooltip="ProficiencyBonus"&gt;proficiency bonus&lt;/LSTag&gt; (rounded down) to Deception, Initimidation, and Persuasion &lt;LSTag Tooltip="SkillCheck"&gt;Skill Checks&lt;/LSTag&gt; you make against Giants.</content>
+	<content contentuid="habdaa79fge827g45b1ga3bagfaa8ffc6396f" version="1">Giant’s Havoc</content>	
+	<content contentuid="hcfbcf67dg6d48g4d92g808dg39b086f8ae5f" version="1">You can use the rage feature and pull strength from the primal might of Giants.</content>
+	<content contentuid="ha2b810c1ge1eag4b18ga6f0g31750ca0e7c8" version="1">Deal [1] extra damage with melee and improvised weapons using Strength.&lt;br&gt;&lt;br&gt;&lt;b&gt;Crushing Throw: &lt;/b&gt;Deal an additional [1] damage with thrown weapons using Strength.&lt;br&gt;&lt;br&gt;&lt;b&gt;Giant Stature: &lt;/b&gt;Your reach increases by [2], and if you are smaller than [3], you become [3].</content>
+	<content contentuid="hecc3948dg6677g4625g9077g03fdff0972c1" version="1">Deals an additional [1] damage with melee, improvised, and thrown weapons using Strength.&lt;br&gt;&lt;br&gt;Has increased size and reach.&lt;br&gt;&lt;br&gt;Has Resistance to physical damage, and &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on Strength &lt;LSTag Tooltip="AbilityCheck"&gt;checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;saving throws&lt;/LSTag&gt;. &lt;br&gt;&lt;br&gt;Cannot cast or concentrate on spells.</content>
+	<content contentuid="h399419ebgb7b9g4100g8a01ga45ecc04275c" version="1">Elemental Cleaver Weapon Hand</content>	
+	<content contentuid="h95ef295dgfed5g4ad1g9e84g6cc6c5d7b081" version="1">Choose whether your &lt;LSTag Type="Passive" Tooltip="RageElementalCleaverUnlock"&gt;Elemental Cleaver&lt;/LSTag&gt; ability will target the weapon in your main or off hand.</content>	
+	<content contentuid="h81786aa6g1a20g4ed0gada1g56856f9f43e5" version="1">Elemental Cleaver Main Hand</content>
+	<content contentuid="hdd5f0d07gc3f8g482fg900eg66f265a71146" version="1">Elemental Cleaver Off Hand</content>
+	<content contentuid="h00f20858gbd9ag4d95gb28bg45bb842981df" version="1">Your &lt;LSTag Type="Passive" Tooltip="RageElementalCleaverUnlock"&gt;Elemental Cleaver&lt;/LSTag&gt; ability will target the weapon in your main hand.</content>
+	<content contentuid="hc1e8a2f2gbf58g4302gb70eg7a1259a23afd" version="1">Your &lt;LSTag Type="Passive" Tooltip="RageElementalCleaverUnlock"&gt;Elemental Cleaver&lt;/LSTag&gt; ability will target the weapon in your off hand.</content>
+	<content contentuid="hac6692aage85bg42aegac4dg3bd48b9d54a1" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; An infused weapon can only be used by you, and the infusion will end with your rage.</content>	
+	<content contentuid="h688236c7g2a70g4b3aga8c1g3c3f7e4dd258" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You have &lt;LSTag Tooltip="Disadvantage"&gt;disadvantage&lt;/LSTag&gt; on the &lt;LSTag Tooltip="AttackRoll"&gt;attack roll&lt;/LSTag&gt; if you throw an infused weapon beyond its normal range of 6m.</content>	
+	<content contentuid="h7232a437g3721g465cg83cfg28a0f33b454a" version="1">Elemental Cleaver</content>	
+	<content contentuid="h5de37156g6e11g459egb860gbe8e0bfd0ebe" version="1">Throw Infused Weapon</content>
+	<content contentuid="h8db0c2e8g5879g48deg9303gf3561e6a4ce9" version="1">Throw a weapon infused by your &lt;LSTag Type="Passive" Tooltip="RageElementalCleaverUnlock"&gt;Elemental Cleaver&lt;/LSTag&gt; ability.</content>
+	<content contentuid="h3aea5e7ega6b6g41b0ga3a4g1013b914332b" version="1">Change Weapon Infusion</content>	
+	<content contentuid="h01c696ebgcd5ag42bdg9022g302145054831" version="1">Change the infused weapon you are holding to a different elemental damage type.</content>	
+	<content contentuid="h41009c07gc70bg4e41gad02g9b1e9b8498e0" version="1">Infuse Weapon: Acid</content>	
+	<content contentuid="hc843baafg6651g4300gbb8eg9d742ecf568d" version="1">Infuse Weapon: Cold</content>	
+	<content contentuid="hae5e8e61gbb8fg4350gb29bg135606ee628f" version="1">Infuse Weapon: Fire</content>	
+	<content contentuid="h0acbfd59gaca8g40fdgb452gd907e080170d" version="1">Infuse Weapon: Lightning</content>	
+	<content contentuid="hfd8c648dg2a0bg45eaga783g3d3006222a2b" version="1">Infuse Weapon: Thunder</content>	
+	<content contentuid="h4892016eg28bdg48bcga3c8g29329ced242a" version="1">Change the infused weapon you are holding to the [1] damage type.</content>	
+	<content contentuid="hffe9cb67ge27cg4ec4g90c3g56841593bcc6" version="1">An infused weapon must be active.</content>	
+	<content contentuid="hb8a06c11ge50bg43e9g8de4ge1b313c57e2d" version="1">When you enter your &lt;LSTag Type="Status" Tooltip="RAGE"&gt;rage&lt;/LSTag&gt;, you can choose one weapon that you are holding and infuse it with elemental energy. While raging and holding the infused weapon, you can use a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; to change the weapon’s infusion.</content>	
+	<content contentuid="h2a506bcdgf214g4590ga103gf303f6a5c803" version="1">Deal [1] extra damage with melee and improvised weapons using Strength.&lt;br&gt;&lt;br&gt;&lt;b&gt;Crushing Throw: &lt;/b&gt;Deal an additional [1] damage with thrown weapons using Strength.&lt;br&gt;&lt;br&gt;&lt;b&gt;Giant Stature: &lt;/b&gt;Your reach increases by [2], and if you are smaller than [3], you become [3].&lt;br&gt;&lt;br&gt;&lt;b&gt;Elemental Cleaver: &lt;/b&gt;You may infuse one weapon you are holding with an elemental damage type.</content>
+	<content contentuid="h1cb8fefbgded4g4c98g91acg3296033091f6" version="1">Deal [1] extra damage with melee and improvised weapons using Strength.&lt;br&gt;&lt;br&gt;&lt;b&gt;Crushing Throw: &lt;/b&gt;Deal an additional [1] damage with thrown weapons using Strength.&lt;br&gt;&lt;br&gt;&lt;b&gt;Giant Stature: &lt;/b&gt;Your reach increases by [2], and if you are smaller than [3], you become [4] or [3].&lt;br&gt;&lt;br&gt;&lt;b&gt;Elemental Cleaver: &lt;/b&gt;You may infuse one weapon you are holding with an elemental damage type.</content>
+	<content contentuid="h418d8514g30e4g498ag8c7eg5f93f5788f9a" version="1">Giant’s Havoc: Acid</content>	
+	<content contentuid="h59afb5b9ge7a0g4982gb0b5g08b95085addb" version="1">Giant’s Havoc: Cold</content>
+	<content contentuid="h2a5bb17agfb30g4598g8497g242e8c555f94" version="1">Giant’s Havoc: Fire</content>		
+	<content contentuid="h0f155f37ge1c4g4b6aga1b5g893dc8ee6428" version="1">Giant’s Havoc: Lightning</content>	
+	<content contentuid="h1a1ae001ge326g441dga521gd9a06bcf1b35" version="1">Giant’s Havoc: Thunder</content>	
+	<content contentuid="haf59798cg88fag4a12gb998g8b6420299508" version="1">Deal [1] extra damage with melee and improvised weapons using Strength.&lt;br&gt;&lt;br&gt;&lt;b&gt;Crushing Throw: &lt;/b&gt;Deal an additional [1] damage with thrown weapons using Strength.&lt;br&gt;&lt;br&gt;&lt;b&gt;Giant Stature: &lt;/b&gt;Your reach increases by [2], and if you are smaller than [3], you become [5] or [3].&lt;br&gt;&lt;br&gt;&lt;b&gt;Elemental Cleaver: &lt;/b&gt;Infuse one weapon you are holding with the [4] damage type.</content>
+	<content contentuid="h085e9e24g31dag4478g8a0eg2b3f2559cf20" version="1">Weapon damage type is [1], deals additional [1] damage on a hit, and gains the &lt;LSTag Tooltip="Thrown"&gt;thrown&lt;/LSTag&gt; and &lt;LSTag Type="Passive" Tooltip="MAG_HomingWeapon_Passive"&gt;homing&lt;/LSTag&gt; properties.</content>
+	<content contentuid="hd6ecf320g9280g4bf4gb39bg41d220f5cf04" version="1">Mighty Impel</content>	
+	<content contentuid="hd32869fagae77g467agb084g344bb6d422c7" version="1">Only Fall Damage From Mighty Impel</content>	
+	<content contentuid="h1cd7fc60gca57g4e69ga896gaaa219a90f2d" version="1">Move one [1] or smaller creature to an unoccupied space you can see.</content>
+	<content contentuid="h7a500cfagcc5bg4cd0gaed0gc2a1b9c8b802" version="1">Target must have a weapon in off hand.</content>	
+	<content contentuid="hbe8bdc04gad66g4ed5gaf01g774c23b1c67b" version="1">Demiurgic Colossus</content>	
+	<content contentuid="h66219103g8c6fg45ccgb965g230ada31e682" version="1">Increase your size to Huge when you enter your &lt;LSTag Type="Status" Tooltip="RAGE"&gt;rage&lt;/LSTag&gt;.</content>	
+	<content contentuid="h876a58cfg0b61g4b2cg8c77g80be7370aaf2" version="1">Juggernaut</content>
+	<content contentuid="hc8fa8c2cg1f9eg4684gacf4gf0779f8bd77a" version="1">Barbarians who follow the Path of the Juggernaut stand so resolutely that none can deter them, and they swing their weapons with such force that all who stand against them are flung aside. In might and in spirit, juggernauts are immovable object and unstoppable force all at once.</content>
+	<content contentuid="h0e5e1cddg2829g447dg8963g360b02a2b695" version="1">You can use the rage feature, becoming instilled with the strength to shove your way through your foes and anchor your feet to the ground.</content>
+	<content contentuid="h5bb7829dg297dg4aafgbfc5g7be5d3a1d38a" version="1">Gain &lt;LSTag Tooltip="Resistant"&gt;resistance&lt;/LSTag&gt; to physical damage, and &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on Strength &lt;LSTag Tooltip="AbilityCheck"&gt;checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;saves&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;Thunderous Blows: &lt;/b&gt;Push targets hit by your melee attacks.&lt;br&gt;&lt;br&gt;&lt;b&gt;Spirit of the Mountain: &lt;/b&gt;Become immune to being forcibly moved by a foe's spells or actions.</content>
+	<content contentuid="hdcbc233eg8536g40c6gb574g4ca6f18c153c" version="1">Deals an additional [1] damage with melee and improvised weapons, and while throwing objects.&lt;br&gt;&lt;br&gt;Can push targets hit with a melee attack.&lt;br&gt;&lt;br&gt;Cannot be forcibly moved or knocked &lt;LSTag Type="Status" Tooltip="PRONE"&gt;prone&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Has resistance to physical damage, and &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on Strength &lt;LSTag Tooltip="AbilityCheck"&gt;checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;saving throws&lt;/LSTag&gt;. &lt;br&gt;&lt;br&gt;Cannot cast or concentrate on spells.</content>
+	<content contentuid="hb9fbc4bag0971g4b77g956cgf4b479948154" version="1">Thunderous Blows</content>
+	<content contentuid="h225734b2g4a82g415dga152g3c69ce0aafe4" version="1">While &lt;LSTag Type="Status" Tooltip="RAGE"&gt;raging&lt;/LSTag&gt;, you can push a creature hit by your melee attacks 1.5m. Starting at 10th level, the distance increases to 3m.</content>
+	<content contentuid="h0da5c788ga256g4a00ga5a1ga2726a788faf" version="1">A creature size Huge or larger makes a Strength saving throw to resist being pushed.</content>
+	<content contentuid="h375e82f8g0f30g41f1g927egd6a2afff07e9" version="1">Spirit of the Mountain</content>
+	<content contentuid="hd779c46dg6347g4a6bga667gac7aefd5de77" version="1">While &lt;LSTag Type="Status" Tooltip="RAGE"&gt;raging&lt;/LSTag&gt;, you cannot be forcibly moved or knocked &lt;LSTag Type="Status" Tooltip="PRONE"&gt;prone&lt;/LSTag&gt;.</content>
+	<content contentuid="h1cb6ef5dge034g46a5g9c16g5cc2c873945e" version="1">Demolishing Might</content>
+	<content contentuid="hb1e0b9b6g4e48g4982gb9d7gf2dbf66c9d43" version="1">Your melee weapon attacks deal an additional [1] to constructs, and double damage to objects and structures.</content>
+	<content contentuid="h3d72a9e3g01d4g4019g867dg105fc2775d9d" version="1">Resolute Stance</content>
+	<content contentuid="h80cd275bgff5fg419bgb501gb72a3c97ef22" version="1">Enemies have &lt;LSTag Tooltip="Disadvantage"&gt;disadvantage&lt;/LSTag&gt; on attacks made against you and you cannot be grappled, but your weapon attacks are made at disadvantage.</content>
+	<content contentuid="hd64c3ad3g00d6g4ca5ga766g8ee0a1cfcbfd" version="1">Has &lt;LSTag Tooltip="Disadvantage"&gt;disadvantage&lt;/LSTag&gt; on weapon attacks, cannot be grappled, and attacks made against them are made at disadvantage.</content>
+	<content contentuid="h20b42011ge7eag4f3fgb047gfb961a2ee7df" version="1">Hurricane Strike Target</content>
+	<content contentuid="h2b56bf83g3cffg46d6ga65dga5fc43d92009" version="1">Hurricane Strike</content>
+	<content contentuid="h012f0969g7955g419eg933bgceef93277e13" version="1">Leap next to a target that you pushed [1] or more to knock it &lt;LSTag Type="Status" Tooltip="PRONE"&gt;prone&lt;/LSTag&gt;.</content>
+	<content contentuid="hd38a20fdg539bg4f8cg975agfcd42e5944cd" version="1">When you push a target [1] or more, you can leap next to it using your &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to knock it &lt;LSTag Type="Status" Tooltip="PRONE"&gt;prone&lt;/LSTag&gt;.</content>
+	<content contentuid="h3b33136ag2480g4f54ga361g2d9aac1830ab" version="1">Hurricane Strike: Leap</content>
+	<content contentuid="hc4e1eb26g9d11g4d06gaafaga100c5a1b1b8" version="1">Entity can be targeted by a Hurricane Strike leap or opportunity attack.</content>
+	<content contentuid="h6b216b45g28acg4b40gbfabg3baf5dd469fd" version="1">Target must have been pushed by you.</content>
+	<content contentuid="h43b71cf7gfd13g40c8ga5f1gb8073c4227b0" version="1">When you push a target into a space within [1] of your ally, the ally can use their &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to make a melee weapon attack against that creature.</content>
+	<content contentuid="hb8b5ccd6g15bbg419fga818g0a773a324881" version="1">Hurricane Strike: Opportunity Attack</content>
+	<content contentuid="h0f4e426cgc116g4c1egaf85gf6751ffcafcc" version="1">Attack an enemy pushed into a space within [1] of you.</content>
+	<content contentuid="h964f4ba1gaea7g4fdeg81b3gfad7cf0e4d5c" version="1">Unstoppable</content>
+	<content contentuid="hb3663fbcg408cg491eg9fb4g29bea4a138c5" version="1">While &lt;LSTag Type="Status" Tooltip="RAGE"&gt;raging&lt;/LSTag&gt;, your movement speed cannot be reduced, and you are immune to the &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;frightened&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;paralysed&lt;/LSTag&gt;, and &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;stunned&lt;/LSTag&gt; conditions.&lt;br&gt;&lt;br&gt;If you have any of these conditions you can still use a &lt;LSTag Tooltip="BonusAction"&gt;bonus action&lt;/LSTag&gt; to enter a rage.</content>
+	<content contentuid="hcd609445gcef4g4309gbc64g6036f8a04b72" version="1">Gain &lt;LSTag Tooltip="Resistant"&gt;resistance&lt;/LSTag&gt; to physical damage, and &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on Strength &lt;LSTag Tooltip="AbilityCheck"&gt;checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;saves&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;Thunderous Blows: &lt;/b&gt;Push targets hit by your melee attacks.&lt;br&gt;&lt;br&gt;&lt;b&gt;Spirit of the Mountain: &lt;/b&gt;Become immune to being forcibly moved by a foe's spells or actions.&lt;br&gt;&lt;br&gt;&lt;b&gt;Unstoppable: &lt;/b&gt;Gain immunity to the &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;paralysed&lt;/LSTag&gt;, and &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;stunned&lt;/LSTag&gt; conditions.</content>
+	<content contentuid="hcc1678edgea80g40b3gb953g4c88b0187c03" version="1">Deals an additional [1] damage with melee and improvised weapons, and while throwing objects.&lt;br&gt;&lt;br&gt;Can push targets hit with a melee attack.&lt;br&gt;&lt;br&gt;Cannot be forcibly moved or knocked &lt;LSTag Type="Status" Tooltip="PRONE"&gt;prone&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Is immune to the &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;paralysed&lt;/LSTag&gt;, and &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;stunned&lt;/LSTag&gt; conditions.&lt;br&gt;&lt;br&gt;Has resistance to physical damage, and &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on Strength &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;saving throws&lt;/LSTag&gt;. &lt;br&gt;&lt;br&gt;Cannot cast or concentrate on spells.</content>
+	<content contentuid="h46d82dcbgffefg4911g8ce9ge0752d111b85" version="1">Storm Herald</content>
+	<content contentuid="hc72256dbg6f27g4449g89aagf07eafa5de73" version="1">Barbarians who follow the Path of the Storm Herald learn to transform their rage into a mantle of primal magic that swirls around them. When in a fury, a Barbarian of this path taps into nature to create powerful, magical effects.</content>
+	<content contentuid="h478d4258gb846g4daeg8981g614f203d1ea4" version="1">Storm Aura</content>	
+	<content contentuid="h3ab32fe1gc926g4d91g97dfgd1e9ac4904b1" version="1">Your aura activates when you enter your &lt;LSTag Type="Status" Tooltip="RAGE"&gt;rage&lt;/LSTag&gt;, and you can activate the effect again on each of your turns as a &lt;LSTag Tooltip="BonusAction"&gt;bonus action&lt;/LSTag&gt;. The aura effect depends on the environment chosen from the list below. Constitution is your &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;modifier&lt;/LSTag&gt; for aura effects that require a &lt;LSTag Tooltip="SavingThrow"&gt;saving throw&lt;/LSTag&gt;.</content>
+	<content contentuid="hfc7a2f31g3665g46f2g9e8bg95b692f5a0b5" version="1">Desert</content>	
+	<content contentuid="h9ad4c267g76c1g40e7gbaebge063a69a27b0" version="1">Sea</content>	
+	<content contentuid="h11872a75gba9bg4d86g8176g8157a9a3b723" version="1">Tundra</content>	
+	<content contentuid="h3342dda2g9eaag48c0gbbdbge1ce6b248300" version="1">Emits a stormy aura that produces magical effects from the Barbarian's chosen environment.</content>	
+	<content contentuid="hc9cc2a8cgcc7bg44b3g9b90g0c46d1f31d34" version="1">Rage (Desert)</content>	
+	<content contentuid="h8cc1b149ga4f8g4b00g80a5g3722c1b0b0b8" version="1">You can use the rage feature and emanate a magical aura, calling forth the blistering heat from barren deserts.</content>
+	<content contentuid="hd7e0010bge516g4cacg8ac0g4bda77290b7d" version="1">Deal [1] extra damage with melee and improvised weapons using Strength.&lt;br&gt;&lt;br&gt;&lt;b&gt;Storm Aura (Desert): &lt;/b&gt;Emanate a [2] radius stormy, magical aura that deals [3] to all other creatures within the radius when you start your Rage.</content>
+	<content contentuid="h902ccc30g7b60g43aag9604gcd28b65c4e5a" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Your aura's fire damage starts at 2 and increases to 3 at 5th level, 4 at 10th level, 5 at 15th level, and 6 at 20th level.</content>	
+	<content contentuid="hf4ad3363g488dg4415gb337gd32f8566b2b7" version="1">Activate Storm Aura</content>	
+	<content contentuid="h85a2b64bg2d90g4390ga79fg8154ed246b0b" version="1">Deal [1] to all other creatures within your Storm Aura.</content>	
+	<content contentuid="hc4463250g7027g4d4bg8d49ge6f7228cea66" version="1">Rage (Sea)</content>	
+	<content contentuid="hb7efa71fg262ag4a63g809cg05157115bb00" version="1">You can use the rage feature and emanate a magical aura, conjuring the lightning from storm-wracked coastal lands.</content>
+	<content contentuid="h43d23f9cg3776g4474gaa7fg06152d8a0cce" version="1">Deal [1] extra damage with melee and improvised weapons using Strength.&lt;br&gt;&lt;br&gt;&lt;b&gt;Storm Aura (Sea): &lt;/b&gt;Emanate a [2] radius stormy, magical aura that deals [3] to a creature you choose within the radius when you start your Rage.</content>
+	<content contentuid="h7610c68bg66dag4e11gbee1gaa2fee399989" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Your aura's lightning damage starts at 1d6 and increases to 2d6 at 10th level, 3d6 at 15th level, and 4d6 at 20th level.</content>	
+	<content contentuid="he18565f9g6143g4352g8f0fgd1a6dc6bd5ed" version="1">Lightning strikes a creature within your Storm Aura, dealing [1].</content>
+	<content contentuid="hc1447e18g24fbg45c2g8fdcg9ee26f25bc6a" version="1">Sea Aura Followup</content>	
+	<content contentuid="h125755f5g1224g4377g90d9gbdc474573f4f" version="1">Rage (Tundra)</content>	
+	<content contentuid="hc17bd525g9bd4g4b91g8427gc89d378b5eb4" version="1">You can use the rage feature and emanate a magical aura, evoking the cold from the frozen reaches at the world’s end.</content>
+	<content contentuid="h74878e37g8469g447dg9309gc2f2fc53a766" version="1">Deal [1] extra damage with melee and improvised weapons using Strength.&lt;br&gt;&lt;br&gt;&lt;b&gt;Storm Aura (Tundra): &lt;/b&gt;Emanate a [2] radius stormy, magical aura that grants [3] to you and any allies within the radius when you start your Rage.</content>
+	<content contentuid="h36494ad5gf6b3g438ag8a8cg508868e1b9a0" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; The Temporary Hit Points gained by your aura starts at 2 and increases to 3 at 5th level, 4 at 10th level, 5 at 15th level, and 6 at 20th level.</content>	
+	<content contentuid="h790d9830ge0c9g42d4g8fc5g279e35610de9" version="1">You and all allies within your Storm Aura gain [1].</content>		
+	<content contentuid="h801588e4g3ec1g4db4g8228gc694fe99a7cd" version="1">Change Storm Aura</content>
+	<content contentuid="he8a71119g1803g4835g9c5agca71ade939cf" version="1">You can change the chosen environment for your Storm Aura effects.</content>
+	<content contentuid="h237a864dgee6cg4aa7gb604g8ca886878e17" version="1">Storm Soul</content>	
+	<content contentuid="h8f54dcacg0f9fg4488g9777g4a377e95ae28" version="1">Your &lt;LSTag Type="Status" Tooltip="STORMAURA_DESERT"&gt;Storm Aura&lt;/LSTag&gt; grants you certain benefits based on the environment you chose, even when it has not been activated.</content>	
+	<content contentuid="h8666a6c0g4e54g4887g8c24g239be39e1e43" version="1">Is &lt;LSTag Tooltip="Resistant"&gt;resistant&lt;/LSTag&gt; to fire damage and cannot be &lt;LSTag Type="Status" Tooltip="BURNING"&gt;burned&lt;/LSTag&gt;.</content>	
+	<content contentuid="h34bd6967geeb6g4f82ga935g1b670c52e718" version="1">Ignite Object</content>	
+	<content contentuid="h0b73b42egb95dg41cfg8313g946b7cbefee2" version="1">Touch a flammable object that isn't being worn or carried by anyone else, &lt;LSTag Type="Status" Tooltip="BURNING"&gt;burning&lt;/LSTag&gt; it.</content>
+	<content contentuid="hfede5162g5cd0g40f0gb690g3280cce61f81" version="1">Is &lt;LSTag Tooltip="Resistant"&gt;resistant&lt;/LSTag&gt; to lightning damage and cannot be &lt;LSTag Type="Status" Tooltip="SHOCKED"&gt;shocked&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;&lt;LSTag Tooltip="MovementSpeed"&gt;Movement speed&lt;/LSTag&gt; increases by [1] while standing in water-based surfaces.</content>	
+	<content contentuid="hc6bbaa96g3418g4bf8g97abgd36463fae708" version="1">Is &lt;LSTag Tooltip="Resistant"&gt;Rresistant&lt;/LSTag&gt; to cold damage.&lt;br&gt;&lt;br&gt;Has &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on checks to resist slipping on frozen surfaces.</content>	
+	<content contentuid="hecdd2e1ag427fg490eg9aa7g5af1819b4213" version="1">Freeze Water</content>	
+	<content contentuid="h35b4ccfdgb85ag4dbcgb8aagbb3265cda7a6" version="1">Touch a [1] wet surface, freezing it.</content>
+	<content contentuid="h0014259cg72bfg40a4g96e4gfa06ae2422cb" version="1">Shielding Storm</content>
+	<content contentuid="hb1e77ca3g8fa0g4a7fga48bg3f872b6aeae7" version="1">Allies within the radius of your &lt;LSTag Type="Status" Tooltip="STORMAURA_DESERT"&gt;Storm Aura&lt;/LSTag&gt; gain the &lt;LSTag Tooltip="Resistant"&gt;damage resistance&lt;/LSTag&gt; granted by your &lt;LSTag Type="Passive" Tooltip="StormSoul"&gt;Storm Soul&lt;/LSTag&gt; feature.</content>
+	<content contentuid="he663023fg7349g4253g9aa6g79d9d0be1114" version="1">Shielded by the Storm</content>
+	<content contentuid="h1e2ede14g7972g4d47gb508g32ba34be7bff" version="1">Entity is granted elemental resilience by a Storm Herald's aura.</content>
+	<content contentuid="h6686fe78g16b6g40cbga189g5c1fd1ff2fdf" version="1">Raging Storm</content>
+	<content contentuid="he3254981gdbbbg4761gb4abg0eeb2303815a" version="1">You can call upon the power of your &lt;LSTag Type="Status" Tooltip="STORMAURA_DESERT"&gt;Storm Aura&lt;/LSTag&gt; as a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to lash out at foes within its radius.</content>
+	<content contentuid="h865b2400ge671g4fe3g8c98gedec8612d7b4" version="1">Unleash a thunderous wave, possibly knocking your target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;prone&lt;/LSTag&gt;.</content>
+	<content contentuid="h6ecbbb20g8232g4f68ga647g5a03cf81a309" version="1">Attempt to cover your target with magical frost, reducing its movement speed to 0.</content>
+	<content contentuid="hfd06be17g7d0ag4872g93c2g3c04b347595f" version="1">Covered with Frost</content>
+	<content contentuid="h7a41a753ga360g4dfdgafddg0ccee2442aa3" version="1">Entity cannot move.</content>
+	<content contentuid="h95efa0b2g9dc5g4586gba0agdbb7fbcbde7e" version="1">Target was not in aura when activated.</content>
+	<content contentuid="h72ad9b4fg399fg404bg9086gc3c4f378c871" version="1">Ice Spirits</content>
+	<content contentuid="h0bc4ee5cg0a11g49d8g9b87ge0cd3045ca1c" version="1">Entity is granted &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt; by the spirits of the frozen tundra.</content>
+	<content contentuid="ha2c480d6g02e0g4fd6ga713ga9042f4f5f48" version="1">Zealot</content>
+	<content contentuid="h759274a8gd431g4c9bgbca8gf1903121d1b3" version="1">Some deities inspire their followers to pitch themselves into a ferocious battle fury. These Barbarians are Zealots – warriors who channel their rage into powerful displays of divine power.</content>
+	<content contentuid="hb3ff777ag6a12g431cga1c5g237f7dbdcf6e" version="1">Zealot</content>
+	<content contentuid="he35b6455g6b4ag4de4gab8ege01caf022625" version="1">These Barbarians are Zealots – warriors who channel their rage into powerful displays of divine power.</content>
+	<content contentuid="habdc0ecage852g4c43ga2acg72a157d3e1a1" version="1">Faithful</content>
+	<content contentuid="h0c452652g2fd7g4449ga3dag52f3509184f4" version="1">Barbarians that walk the Path of the Zealot are often found among the faithful of certain Gods.</content>	
+	<content contentuid="hfc4eed00g0954g47b2gb725g8fcab682d84b" version="1">Zealot (Unaligned)</content>
+	<content contentuid="he5371903g33b2g4c7eg8ab1g781d4b40e93c" version="1">Zealot of Bahamut</content>		
+	<content contentuid="h4994963fg78b3g4a18ga8b8g24bd11a18dca" version="1">Zealot of Bane</content>
+	<content contentuid="h676a6933ge56dg4ff0ga53cg9c02e1b038d9" version="1">Zealot of Bhaal</content>
+	<content contentuid="h1ec2666fg82e9g4217g945dgb2bdf2c0d1db" version="1">Zealot of Corellon Larethian</content>	
+	<content contentuid="he78a0c2cgb14eg4c14g8d04gbb366ac406a3" version="1">Zealot of Eilistraee</content>
+	<content contentuid="h39802b79g2229g47f8gb8f4g31fa647de317" version="1">Zealot of Gruumsh</content>
+	<content contentuid="h792f8272ged79g48a6ga1a6g294529621e63" version="1">Zealot of Garl Glittergold</content>	
+	<content contentuid="hfe10bea1g3bf2g41edg8681g720bcd0f6276" version="1">Zealot of Helm</content>	
+	<content contentuid="h1b663ff7g5939g492cga6c7g6a0370ad01f2" version="1">Zealot of Ilmater</content>
+	<content contentuid="hf623b22fgb8d1g4dcbg89d6g083b3e9629f1" version="1">Zealot of Kelemvor</content>
+	<content contentuid="h3b328a8dgc358g41a3g8bbdgae668243b8ba" version="1">Zealot of Laduguer</content>
+	<content contentuid="h847b58a2gba16g4e00g89cdg17a290373b37" version="1">Zealot of Lathander</content>
+	<content contentuid="hd0907d49gadd7g4778g8c2dge4f9b3ae7ad3" version="1">Zealot of Lolth</content>
+	<content contentuid="h0d468242ga716g47aag9da4g6bd9ad704733" version="1">Zealot of Mielikki</content>
+	<content contentuid="h604144a3gd3a5g4cdegb8b1g58a975ccd970" version="1">Zealot of Moradin</content>
+	<content contentuid="hf0cd4d91gdd74g481cg8542g23adab3746c5" version="1">Zealot of Myrkul</content>
+	<content contentuid="h3db62420g4383g4d93gaef5g21ddc194b2af" version="1">Zealot of Mystra</content>
+	<content contentuid="hbb1e2983g3a75g41c4g95a1g6675b3b6baed" version="1">Zealot of Oghma</content>
+	<content contentuid="hbcf7cba3gd803g4c67g926fg47acce8ed6c2" version="1">Zealot of Selune</content>
+	<content contentuid="h2fb72bc8ge4e3g4947ga2c7ge13855ffb876" version="1">Zealot of Shar</content>
+	<content contentuid="h547a9b37g94acg49bcg9761g8b7487046f71" version="1">Zealot of Talos</content>
+	<content contentuid="hf28b2d18g7173g43d2gb1adgc995344834f7" version="1">Zealot of Tiamat</content>
+	<content contentuid="h98513066g357fg4937g8791ga45dc504d639" version="1">Zealot of Tymora</content>	
+	<content contentuid="hd23a6857gc1a6g4ad3ga10ag3d77293eb3ac" version="1">Zealot of Tempus</content>
+	<content contentuid="hde248709ga950g41a2g9edbg1b582e57b2a6" version="1">Zealot of Tyr</content>
+	<content contentuid="ha3aae9a3g5ae8g46e8g92aag3b4f04c68282" version="1">Zealot of Vlaakith</content>	
+	<content contentuid="heda888a6g38b5g4af2g98aeg6b26a73f2316" version="1">Zealot of Yondalla</content>
+	<content contentuid="hb369c83bg5214g4c5fg8429g75b9a6085e9f" version="1">[1]'s inspiration ignites the fury within you. The divine power you channel can be matched only by the most devout paladins.</content>
+	<content contentuid="h70cd249fg5244g4b07g8ddbg311604df8e93" version="1">The divine power you channel can be matched only by the most devout paladins.</content>
+	<content contentuid="hd0a81fdcga686g42b0g9186g1daa0232e012" version="1">Divine Fury</content>	
+	<content contentuid="h57faf4f9g3003g4306g81ebg8f36440a4ad5" version="1">Divine Fury (Radiant)</content>	
+	<content contentuid="hb081128dgab42g4cf1g9e6egb6b259b19773" version="1">Divine Fury (Necrotic)</content>	
+	<content contentuid="h29644b12g5677g4a77gabdcgafd0cfd8d05e" version="1">You can channel divine fury into your weapon strikes. You choose either radiant or necrotic damage to deal during your first successful weapon attack per turn while &lt;LSTag Type="Status" Tooltip="RAGE"&gt;raging&lt;/LSTag&gt;.</content>	
+	<content contentuid="ha467c260gb4d0g4b00ga7abg7aba376cbbfd" version="1">While you're &lt;LSTag Type="Status" Tooltip="RAGE"&gt;raging&lt;/LSTag&gt;, the first creature you hit on each of your turns with a weapon takes extra radiant damage equal to [1]</content>
+	<content contentuid="h5fbbac2dga920g41f1g9795g83b8e95c5498" version="1">While you're &lt;LSTag Type="Status" Tooltip="RAGE"&gt;raging&lt;/LSTag&gt;, the first creature you hit on each of your turns with a weapon takes extra necrotic damage equal to [1]</content>
+	<content contentuid="h5394e3fbgbf7cg4b4dgb4f9g5249046968b0" version="1">Warrior of the Gods</content>
+	<content contentuid="hc7548247g103cg430eg9219g0ef80a2e2bf4" version="1">If a spell, such as &lt;LSTag Type="Spell" Tooltip="Teleportation_Revivify"&gt;Revivify&lt;/LSTag&gt;, has the sole effect of restoring you to life (but not undeath), the caster doesn't need material components to cast the spell on you.</content>
+	<content contentuid="h93bccc17g0c08g4a04gab0bgbd4dfd5d6b5e" version="1">Near Warrior of the Gods</content>
+	<content contentuid="hc9337222gdec1g4e13gadf5g2011d84fef1e" version="1">A fallen Zealot Barbarian is nearby. You may cast &lt;LSTag Type="Spell" Tooltip="Teleportation_Revivify"&gt;Revivify&lt;/LSTag&gt; on them without consuming a spell scroll.</content>
+	<content contentuid="h447380c4gf024g4085gb617g66d5c198e628" version="1">Warrior of the Gods Revival</content>
+	<content contentuid="hc3c619c5g6caeg4a8fga749gad3aa92f8b8e" version="1">Revive a Zealot Barbarian without using a spell's material components. They return to life with [1].</content>
+	<content contentuid="h4506a737g139bg4c71gacd9gf7911014f72e" version="1">Fanatical Focus</content>
+	<content contentuid="h5008bf5bga9fag43e5gb859gd6547e464409" version="1">If you fail a &lt;LSTag Tooltip="SavingThrow"&gt;saving throw&lt;/LSTag&gt; while &lt;LSTag Type="Status" Tooltip="RAGE"&gt;raging&lt;/LSTag&gt;, you can reroll it, and you must use the new roll. You can use this ability only once per Rage.</content>
+	<content contentuid="h1fcd5901g36c9g4c4eg9747geb1a615c8895" version="1">Whenever you fail a &lt;LSTag Tooltip="SavingThrow"&gt;saving throw&lt;/LSTag&gt;, you can roll again, using the new result instead. </content>
+	<content contentuid="h22c85720g2eaeg416cg9d22g2020016af64e" version="1">Zealous Presence</content>
+	<content contentuid="h6bac9323g04e8g420fg874fg893d4267f540" version="1">Up to [1] other creatures of your choice within [2] of you that can hear you gain &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;attack rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;saving throws&lt;/LSTag&gt; until the start of your next turn.</content>
+	<content contentuid="he7a44166gfd88g4f4bga1dfg4f3676ad35f7" version="1">Inspired Zealotry</content>
+	<content contentuid="he66056c2gcfdag42d0g8034gacbb5bff67b9" version="1">Has &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;attack rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;saving throws&lt;/LSTag&gt;.</content>
+	<content contentuid="h9610bb36g0d81g4dbag9b8dg790fa9c2fee3" version="1">Rage Beyond Death</content>
+	<content contentuid="h013390b3gb411g42d6g9d2fg71551a22e157" version="1">If you drop to [1] &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; while &lt;LSTag Type="Status" Tooltip="RAGE"&gt;enraged&lt;/LSTag&gt;, you regain [2] instead of being &lt;LSTag Type="Status" Tooltip="DOWNED"&gt;downed&lt;/LSTag&gt;. &lt;br&gt;&lt;br&gt;You still must make death saving throws, and you suffer the normal effects of taking damage while at 0 hit points. However, if you would die due to failed death saving throws, you don’t die until your rage ends, and you die then only if you still have 1 hit point.</content>
+	<content contentuid="hd6bb0172gb401g4190g8018gd73f8fae643d" version="1">Entity is unable to be damaged while &lt;LSTag Type="Status" Tooltip="RAGE"&gt;enraged&lt;/LSTag&gt;, but must make death saving throws as normal and will die if they have 3 failures and have not been healed when their rage ends.</content>
+	<content contentuid="h6454aaa4gc6f2g4d44g9ffdg9ebe3b52ff03" version="1">Death Saving Throw Failure</content>
+	<content contentuid="he9ef166eg801eg42ebg9f50g050502717e3a" version="1">Death Saving Throw Success</content>	
+	<content contentuid="h3ee7b720gbe03g4620gb217g9b8d6cc03248" version="1">Three death saving throw failures causes death if you have not been healed when your &lt;LSTag Type="Status" Tooltip="RAGE"&gt;rage&lt;/LSTag&gt; ends.</content>
+	<content contentuid="h9a6d7549g5742g4e37g9e8dg95fb0703cee7" version="1">Three death saving throw successes will stabilize you and clear all death saving throw failures you have received.</content>	
+	<content contentuid="h8b07642dg30ceg44e8gae1fg70d020f1b210" version="1">Pending Death</content>	
+	<content contentuid="h3e2af7f2ge482g48e2g860dg472f21b6e49d" version="1">Stable</content>	
+	<content contentuid="h23e065e1g5a57g4eeegb584g82ad13347aef" version="1">Entity will die if they have not been healed when their &lt;LSTag Type="Status" Tooltip="RAGE"&gt;rage&lt;/LSTag&gt; ends.</content>	
+	<content contentuid="h33398cebg9887g4f3bg80c8g989c51c50b81" version="1">Entity is stable, but will stop being stable and start making death saving throws again if they take damage.</content>	
+
+
+</contentList>

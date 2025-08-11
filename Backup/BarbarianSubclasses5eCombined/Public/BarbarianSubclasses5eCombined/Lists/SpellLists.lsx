@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Ancestral Protector Level 3" />
+                    <attribute id="Spells" type="LSString" value="Target_ArcaneEye_AG" />
+                    <attribute id="UUID" type="guid" value="fa3d3ec0-af4f-4758-aa47-b56c9b6b3554" />
+                </node>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Juggernaut level 6" />
+                    <attribute id="Spells" type="LSString" value="Shout_ResoluteStance" />
+                    <attribute id="UUID" type="guid" value="9f8843f1-15db-4c30-a377-3bb959aca3df" />
+                </node>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Zealot Zealous Presence" />
+                    <attribute id="Spells" type="LSString" value="Target_ZealousPresence" />
+                    <attribute id="UUID" type="guid" value="f451373a-0d83-4f53-a3dc-32eee53ed83e" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

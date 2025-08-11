@@ -1,0 +1,12 @@
+new entry "INVISIBLE_AG"
+type "StatusData"
+data "StatusType" "INVISIBLE"
+data "DisplayName" "hfbb59857g081eg4da0gbcf0gaa2432cd7a28;1"
+data "Description" "haabf0a81ge2d4g43a8gac70g95c1a7a6fc29;4"
+data "Icon" "Status_Invisible"
+data "StackId" "INVISIBILITY"
+data "StackPriority" "1"
+data "Boosts" "IgnoreLeaveAttackRange;Invisibility();DetectDisturbancesBlock(true);ActionResourceBlock(ReactionActionPoint);ActionResourceBlock(ActionPoint);ActionResourceBlock(BonusActionPoint)
+data "StatusPropertyFlags" "UnavailableInActiveRoll;ExcludeFromPortraitRendering;DisableCombatlog;DisableOverhead;DisablePortraitIndicator"
+data "StatusGroups" "SG_Invisible;SG_RemoveOnRespec"
+data "StatusEffect" "876f1dfd-0399-4ec0-a48a-18a36778d017"

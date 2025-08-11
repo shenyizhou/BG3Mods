@@ -9,11 +9,11 @@
   <content contentuid="hd05631bbg8915g4a40g8aefg063e1c49a12e" version="1">泰坦射击</content>
   <content contentuid="hce01afccge682g42c7g911dg7f25f44b7a49" version="1">你的远程武器攻击造成额外的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;点物理伤害。</content>
   <content contentuid="hd961b2a4g52eeg44dfg91c1g2076b9e989a1" version="1">扩大伤口</content>
-  <content contentuid="h580b1639gcfc6g42a6gb255g713d28c48195" version="1">暴击时额外造成1d6点&lt;LSTag Tooltip="Force"&gt;力场&lt;/LSTag&gt;伤害。</content>
+  <content contentuid="h580b1639gcfc6g42a6gb255g713d28c48195" version="1">打出&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时额外造成1d6点&lt;LSTag Tooltip="Force"&gt;力场&lt;/LSTag&gt;伤害。</content>
   <content contentuid="h0e6155e7g8fe2g40b2ga343g1325509e760e" version="1">悲惨重击</content>
   <content contentuid="h6a38e0cfgb8acg4ea0gbb8cgcb5cdfe60ca8" version="1">打出&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时，额外造成7点伤害。可重复学习。</content>
   <content contentuid="h90f52acfg2f5dg4582gaf2eg9fdee35c929c" version="1">致命一击</content>
-  <content contentuid="h778d413cg0142g41e5g9e89g645191486c18" version="1">掷出&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;所需的点数-1。可重复学习。</content>
+  <content contentuid="h778d413cg0142g41e5g9e89g645191486c18" version="1">&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;所需的点数-1。可重复学习。</content>
   <content contentuid="hdde6b8f8gf3f7g4cd5g81e9gd7cbfe304644" version="1">快手</content>
   <content contentuid="hcd3fb78cgaff7g4eebg874bgd513d6446dc9" version="1">获得一个额外的&lt;LSTag Tooltip="BonusAction"&gt;附赠动作&lt;/LSTag&gt;。可重复学习。</content>
 </contentList>
