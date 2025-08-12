@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="PassiveLists">
+    <node id="root">
+      <children>
+        <node id="PassiveList">
+          <attribute id="Passives" type="LSString" value="LangFeats_HeQunShiFaZhe_Strength;LangFeats_HeQunShiFaZhe_Dexterity;LangFeats_HeQunShiFaZhe_Constitution;LangFeats_HeQunShiFaZhe_Intelligence;LangFeats_HeQunShiFaZhe_Wisdom;LangFeats_HeQunShiFaZhe_Charisma" />
+          <attribute id="UUID" type="guid" value="ab31495f-b341-4339-8540-864deed469d2" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

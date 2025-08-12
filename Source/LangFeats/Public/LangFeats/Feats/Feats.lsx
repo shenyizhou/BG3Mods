@@ -62,7 +62,7 @@
           <attribute id="CanBeTakenMultipleTimes" type="bool" value="true"/>
           <attribute id="Name" type="FixedString" value="LangFeats_HeQunShiFaZhe"/>
           <attribute id="PassivesAdded" type="LSString" value=""/>
-          <attribute id="Selectors" type="LSString" value="SelectPassives(LangFeats_HeQunShiFaZhe_List,1)"/>
+          <attribute id="Selectors" type="LSString" value="SelectPassives(ab31495f-b341-4339-8540-864deed469d2,1)"/>
           <attribute id="UUID" type="guid" value="b1c2d3e4-f5a6-b7c8-d9e0-f1a2b3c4d5e6"/>
         </node>
       </children>

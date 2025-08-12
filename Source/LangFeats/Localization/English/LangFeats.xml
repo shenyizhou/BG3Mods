@@ -16,6 +16,20 @@
   <content contentuid="h778d413cg0142g41e5g9e89g645191486c18" version="1">The number required to score a &lt;LSTag Tooltip="CriticalHit"&gt;critical hit&lt;/LSTag&gt; is reduced by 1. Can be learned multiple times.</content>
   <content contentuid="hdde6b8f8gf3f7g4cd5g81e9gd7cbfe304644" version="1">Quick Hands</content>
   <content contentuid="hcd3fb78cgaff7g4eebg874bgd513d6446dc9" version="1">Gain an additional &lt;LSTag Tooltip="BonusAction"&gt;bonus action&lt;/LSTag&gt;. Can be learned multiple times.</content>
-  <content contentuid="cantripmaster" version="1">Cantrip Master</content>
-  <content contentuid="cantripmasterdescript" version="1">You can cast cantrips as an &lt;LSTag Tooltip="Action"&gt;action&lt;/LSTag&gt; instead of a &lt;LSTag Tooltip="BonusAction"&gt;bonus action&lt;/LSTag&gt;.</content>
+  <content contentuid="h445cfcd8gcdf0g4c1bgbf1ag5bb6ffe8ac5f" version="1">Cantrip Master</content>
+  <content contentuid="h8bc1ff1fge5b0g4f83g9505g87fe02e2bf58" version="1">You can cast cantrips as an &lt;LSTag Tooltip="Action"&gt;action&lt;/LSTag&gt; instead of a &lt;LSTag Tooltip="BonusAction"&gt;bonus action&lt;/LSTag&gt;.</content>
+  <content contentuid="h2688be97g81b8g4175gaff4gaeedf4b03988" version="1">Agonizing Blast</content>
+  <content contentuid="headb6201g3e5fg41e2gacd0gb37fa8a3936a" version="1">Your cantrips deal additional damage equal to your chosen ability modifier, and that ability score increases by 1.</content>
+  <content contentuid="h32cfda0dgc1a8g4813g89d0g25b6aeeaf524" version="1">Agonizing Blast (Strength)</content>
+  <content contentuid="h23d592a9g3a8fg4997ga7c3g45177bd6b447" version="1">Your cantrips deal additional damage equal to your &lt;LSTag Tooltip="AbilityModifier_Strength"&gt;Strength modifier&lt;/LSTag&gt;, and your Strength increases by 1.</content>
+  <content contentuid="hd854cebcge9c9g4cb8gabdbg8e051f9bb797" version="1">Agonizing Blast (Dexterity)</content>
+  <content contentuid="h06b02155g7d19g45b9gb10dg0bd973caa39c" version="1">Your cantrips deal additional damage equal to your &lt;LSTag Tooltip="AbilityModifier_Dexterity"&gt;Dexterity modifier&lt;/LSTag&gt;, and your Dexterity increases by 1.</content>
+  <content contentuid="hee63f83bg732eg4b27gb00fge4b5e9e5e088" version="1">Agonizing Blast (Constitution)</content>
+  <content contentuid="h76721fc7g2de0g47b9g97d3gef341effd4e0" version="1">Your cantrips deal additional damage equal to your &lt;LSTag Tooltip="AbilityModifier_Constitution"&gt;Constitution modifier&lt;/LSTag&gt;, and your Constitution increases by 1.</content>
+  <content contentuid="hbd2dc0fag9d54g40f2gb4f0g3de869026238" version="1">Agonizing Blast (Intelligence)</content>
+  <content contentuid="he58c3221g4e4eg426agbb1fgfe21ddebb3f5" version="1">Your cantrips deal additional damage equal to your &lt;LSTag Tooltip="AbilityModifier_Intelligence"&gt;Intelligence modifier&lt;/LSTag&gt;, and your Intelligence increases by 1.</content>
+  <content contentuid="h62bdc4dag19a9g4649g810cgf8ea96022c2f" version="1">Agonizing Blast (Wisdom)</content>
+  <content contentuid="h9d515e4ag73efg48d7ga9d8gd2cc18913730" version="1">Your cantrips deal additional damage equal to your &lt;LSTag Tooltip="AbilityModifier_Wisdom"&gt;Wisdom modifier&lt;/LSTag&gt;, and your Wisdom increases by 1.</content>
+  <content contentuid="h10725b31g2fb3g4252gb34eg866046da03b2" version="1">Agonizing Blast (Charisma)</content>
+  <content contentuid="ha6d94a78g4a84g4b91g95f3g3ec9f2aa7997" version="1">Your cantrips deal additional damage equal to your &lt;LSTag Tooltip="AbilityModifier_Charisma"&gt;Charisma modifier&lt;/LSTag&gt;, and your Charisma increases by 1.</content>
 </contentList>
