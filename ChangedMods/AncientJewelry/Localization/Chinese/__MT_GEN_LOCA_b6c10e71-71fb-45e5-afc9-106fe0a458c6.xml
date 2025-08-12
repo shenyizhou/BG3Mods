@@ -69,7 +69,7 @@
 	<content contentuid="hc2bb1d49g4fddg4bfag9863ge01ccae5e48e" version="1">炼金师的酸石</content>
 	<content contentuid="hf98bd199g2abeg4b6agb280ge54874fe3d00" version="1">你的目光顺利地落在一个引人注目的发光石头上。传说中，这样的石头是古代炼金师的创造物，他们将其注入了魔法般的保护力量。其中一则传说讲述了一块附有魔力的炼金石，用来驱散整个冰川！然而，这块石头却带着一股难以忍受的气味，仿佛在催促你重新考虑是否佩戴它。</content>
 	<content contentuid="h0308d0c2g4c27g4be9g8aafg081dc84ab711" version="1">反射技巧</content>
-	<content contentuid="h018ccd09g8095g4c9bg95acg7713b8ebc8c6" version="1">&lt;br&gt;你对酸性伤害具有&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;能力，但在攻击时会受到[1]的命中惩罚。</content>
+	<content contentuid="h018ccd09g8095g4c9bg95acg7713b8ebc8c6" version="1">&lt;br&gt;你对酸性伤害具有&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;能力。</content>
 	<content contentuid="h7c6b3b2fg3726g42d3g823eg5621d04a1aef" version="1">紫水晶巫师吊坠</content>
 	<content contentuid="h8f178f18gb4c8g4450gb591g004f47cb58a9" version="1">这个精美的吊坠外观迷人，同时也隐藏着它的神秘魔力。对于有洞察力的眼睛来说，几乎看不见的符文刻在水晶的侧面上变得明显可见。虽然符文通常被认为只具有一些普通的附魔效果，并且可能存在一定的缺陷，但保留这件物品可能会非常有用。</content>
 	<content contentuid="hff05a292gb6ceg4968g97c8gfee876065e1b" version="1">法术校准</content>
@@ -77,11 +77,11 @@
 	<content contentuid="h6827629fga5e0g4b23gb600g6a6d4ee30313" version="1">精灵女王耳环</content>
 	<content contentuid="h268da6dfge4a7g46e4gacf8g28399ec584be" version="1">这件高贵精致的作品似乎经受了时间的洗礼。宝石微微散发出一种微妙的光芒，暗示着这个物品上蕴含着强大的魔法附魔。更仔细的观察揭示了一些增益效果，毫无疑问地提升了在各种事务中的熟练度，从阴谋到外交。</content>
 	<content contentuid="hd4ceb83eg6bbbg41e7g9d40g7e0fe3934b65" version="1">精灵狡诈</content>
-	<content contentuid="hc73df27eg397eg4a89gb9c8g9aadc5bf76f8" version="1">&lt;br&gt;在所有的&lt;LSTag Tooltip="AbilityCheck"&gt;属性检定&lt;/LSTag&gt;中，你可以额外投掷[1]个骰子。</content>
+	<content contentuid="hc73df27eg397eg4a89gb9c8g9aadc5bf76f8" version="1">&lt;br&gt;在所有的&lt;LSTag Tooltip="AbilityCheck"&gt;属性检定&lt;/LSTag&gt;中获得+[1]加值。</content>
 	<content contentuid="heaccf30bg66dag4e3fga6c2gd7f18873e7a5" version="1">玛拉的狼护符</content>
 	<content contentuid="h69c94b0dga6d0g47fag8ee3gb201ff67f998" version="1">即使在接触这件物品之前，你立刻意识到它是一件强大的神器。制造者的身份仍然成谜，但他们对狩猎之神玛拉的奉献是不言而喻的。当佩戴这个护符时，它会赋予你一种野兽般的力量感，这是一份可观的礼物。然而，在与如此残酷的神灵的护符打交道时，你应该谨慎行事。</content>
 	<content contentuid="h1b6f5c2ag4211g4a26gb69agd32c311b7abb" version="1">强力狼护符之力</content>
-	<content contentuid="h9bc35363g4848g4c98g8b0dg70cf6f3b058f" version="1">&lt;br&gt;(该效果随等级提升)你的&lt;LSTag Tooltip="Athletics"&gt;运动技能&lt;/LSTag&gt;检定获得+[1]加值。攻击你的人型生物在进行&lt;LSTag Tooltip="AttackRoll"&gt;攻击骰&lt;/LSTag&gt;判定时会处于&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。&lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;困难地形&lt;/LSTag&gt;对你没有影响。</content>
+	<content contentuid="h9bc35363g4848g4c98g8b0dg70cf6f3b058f" version="1">&lt;br&gt;(该效果随等级提升)你的&lt;LSTag Tooltip="Athletics"&gt;运动技能&lt;/LSTag&gt;检定获得+[1]加值。攻击你的人型生物在进行&lt;LSTag Tooltip="AttackRoll"&gt;攻击骰&lt;/LSTag&gt;判定时会处于&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。&lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;困难地形&lt;/LSTag&gt;对你没有影响。获得野兽标签。</content>
 	<content contentuid="hff103d0ag2a83g4876g9af1g68877249b887" version="1">矮人王的黄金吊坠</content>
 	<content contentuid="he7657a33g6417g4efbga5e5g62bb6f541dff" version="1">从铸造的复杂程度来看，你可以判断这个吊坠在古老的矮人王朝中具有极其重要的地位。当你稍微加热它时，你对其更加赞叹不已，注意到黄金合金的出色耐用性。从内部传来微弱的啪嗒声引起了你的注意。经过广泛的测试，你揭示了吊坠的魔法附魔——它形成了一层保护性的魔法结界，可以减缓来袭的抛射物。这个新发现的知识暗示着它所拥有的力量，如果不加控制，可能会引发更大胆的行为。</content>
 	<content contentuid="h2011c7f0gbb6bg4f18gb0a0gcecec2e756db" version="1">闪耀减速</content>
@@ -161,7 +161,7 @@
 	<content contentuid="hfc773b90g540cg4677gb307g4e4826b613be" version="1">武僧之魂吊坠</content>
 	<content contentuid="h5cf6cc78gcf63g4b4fga20ag0c5f1f670bc6" version="1">你徒劳地试图用手抓住这件首饰，但它不断溜走，仿佛涂了一层油一样。精美切割的翡翠闪耀着调皮的光芒，几乎在嘲笑你试图抓住它的努力。也许这件被附魔的首饰需要特别敏捷的手法？</content>
 	<content contentuid="hb54fd8b9g4fdcg43efg9879g3dd0df2b1ae5" version="1">邪恶灵魂的帮助</content>
-	<content contentuid="h9dbfbc41g5b20g4866g92a8ge31fb77e7c3c" version="1">&lt;br&gt;如果你的&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;值大于15，你不会引发&lt;LSTag Tooltip="OpportunityAttack"&gt;借机攻击&lt;/LSTag&gt;。</content>
+	<content contentuid="h9dbfbc41g5b20g4866g92a8ge31fb77e7c3c" version="1">根据武僧等级增加&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;。</content>
 	<content contentuid="hbb4268d0gfb4eg4b66g9f64g2b61bdf6fae0" version="1">魔法天青石吊坠</content>
 	<content contentuid="h49b81164g3b7ag440fga27fg4953111316ce" version="1">这颗历经沧桑的宝石很容易被辨认出来，它是一块古老的、具有魔力的天青石，对任何试图用魔法摧毁它的行为做出反应。其中一个比较显著的副作用是一旦激活，就会让附近的人陷入疯狂之中。然而，这个吊坠经过某人的改造，减轻了这些副作用的严重性，使其成为你宝贵的资产。</content>
 	<content contentuid="h9bdd68efga20ag402cga6fbg17b809e0fed5" version="1">天青石之怒</content>
@@ -191,7 +191,7 @@
 	<content contentuid="h66d0ba40g5c3eg4812g977dg35faa548cece" version="1">纪念戒指</content>
 	<content contentuid="hd1ddd911g7786g4413g8118g89f18c10e2d7" version="1">费了一些努力，你设法专注地看清了戒指内部的铭文：“从一位当地的巫师中获得魔法加持，请佩戴它带来好运！- O.E.”它似乎确实具有一种轻微的增强生命值的魔法。</content>
 	<content contentuid="h5b082f85gc1b5g4b7cg93d0ga7c17ea4e8f7" version="1">生命灵魂符咒</content>
-	<content contentuid="h31ebf751g35fag41b6ga940gd11612efcc0e" version="1">你的最大&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;增加[1]。该效果随着你的等级增强。</content>
+	<content contentuid="h31ebf751g35fag41b6ga940gd11612efcc0e" version="1">你的最大&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;增加[1]。该效果随着你的等级增强。获得+[2]点&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;属性加值。</content>
 	<content contentuid="h5c0b811cgea25g4498g9648g04a4d048241d" version="1">柳木戒指</content>
 	<content contentuid="h23d9d048gc6b9g4886gbc34ge968429072c3" version="1">你欣赏这枚戒指出色的特点：异常轻巧且令人难以置信的耐用。然而，你无法摆脱一种它可能拥有自然魅力的感觉。很快，当你接触到地面时，野生的藤蔓突然迸发而出，证实了你的直觉！</content>
 	<content contentuid="h9a73fedag36e4g4705g828fg5b200d3e1553" version="1">森林隐士符咒</content>

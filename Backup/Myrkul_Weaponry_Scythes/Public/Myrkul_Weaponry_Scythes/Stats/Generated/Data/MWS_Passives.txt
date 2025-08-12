@@ -1,0 +1,36 @@
+///////////////////////////////////////////////////////////////////////////////// PASSIVES GENERAL /////////////////////////////////////////////////////////////////////////////////
+
+new entry "MWS_Override_Passive"
+type "PassiveData"
+data "DisplayName" "h3ca9555bg4116g4105g9d26ga6071273608c;1"
+data "Description" "hfb98aeeagb65bg4769g8071g366f481704de;1"
+data "DescriptionParams" "Distance(2)"
+data "Icon" "MWS_Passive_Reaper"
+data "Boosts" "AttackSpellOverride(MWS_Target_Scythe_MainHandAttack,Target_MainHandAttack)"
+
+/////////////////////////////////////////////////////////////////////////// PASSIVES SCYTHES ////////////////////////////////////////////////////////////////////////////////
+
+new entry "MWS_MeleeCaster_Passive"
+type "PassiveData"
+data "DisplayName" "h73fd7d07gd4b4g43e3gac07g924a62689637;1"
+data "Description" "hbb804787g2dd6g46a2gbe15g5a4ab685285a;1"
+data "Icon" "MWS_Passive_Caster"
+
+new entry "MWS_Frozen_Passive"
+type "PassiveData"
+data "DisplayName" "h08c2a87fg6b6eg486aga295g1fe4fb10c7d4;1"
+data "Description" "hc1d309cbg9c1eg47d6gaee6gd37d475a716d;1"
+data "DescriptionParams" "DealDamage(LevelMapValue(D4Cantrip),Cold)"
+data "Icon" "MWS_Passive_Frozen"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "AttackedWithPassiveSourceWeapon()"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Constitution,ManeuverSaveDC())):ApplyStatus(MAG_FROST,100,3)"
+data "Boosts" "IF(IsMeleeWeaponAttack() and (HasStatus('MAG_FROST',context.Target) or HasStatus('FROZEN',context.Target) or HasStatus('CHILLED',context.Target) or HasStatus('RAY_OF_FROST',context.Target))):CharacterWeaponDamage(LevelMapValue(D4Cantrip),Cold)"
+
+new entry "MWS_Myrkul_Passive"
+type "PassiveData"
+data "DisplayName" "h22bee7a4ge3e9g43b4gb6f9gafbba90ec6b2;1"
+data "Description" "h488bcb57g2ecag4666g88a6g84f4dc1a90da;1"
+data "DescriptionParams" "DealDamage(LevelMapValue(D4Cantrip),Necrotic)"
+data "Icon" "MWS_Passive_Myrkul"
+data "Boosts" "IF(IsMeleeWeaponAttack() and not Tagged('CONSTRUCT',context.Target) and not Tagged('UNDEAD',context.Target) and not Tagged('GHOST',context.Target)):CharacterWeaponDamage(LevelMapValue(D4Cantrip),Necrotic)"

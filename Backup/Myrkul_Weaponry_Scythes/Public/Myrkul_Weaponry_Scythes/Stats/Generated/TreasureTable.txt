@@ -1,0 +1,37 @@
+new treasuretable "TT_EW_Tutorial_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_MWS_Crate_Base",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_MWS_Crate_Base"
+CanMerge 1
+new subtable "1,1"
+object category "I_MWS_Scythe_Common_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MWS_Scythe_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MWS_Scythe_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MWS_Scythe_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MWS_Scythe_Legendary_A",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_HayChest"
+CanMerge 1
+new subtable "1,1"
+object category "I_MWS_Scythe_Common_A",1,0,0,0,0,0,0,0
+
+new treasuretable "GOB_SpiderPit_RewardSkeleton"
+CanMerge 1
+new subtable "1,1"
+object category "I_MWS_Scythe_Uncommon_A",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_KC_Thrinn"
+CanMerge 1
+new subtable "1,1"
+object category "I_MWS_Scythe_Rare_A",1,0,0,0,0,0,0,0
+
+new treasuretable "SCL_AasimarSurvivor_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_MWS_Scythe_VeryRare_A",1,0,0,0,0,0,0,0

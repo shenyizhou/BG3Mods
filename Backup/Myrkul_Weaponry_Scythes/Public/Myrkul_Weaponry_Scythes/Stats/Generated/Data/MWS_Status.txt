@@ -1,0 +1,19 @@
+///////////////////////////////////////////////////////////// MWS STATUS ///////////////////////////////////////////////////////////////
+
+new entry "MWS_STATUS_UNDEAD"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h5bfe0998g128ag4d8fg9820gba92b9bcac98;1"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "OnApplyFunctors" "IF(not SavingThrow(Ability.Wisdom,SourceSpellDC())):DealDamage(LevelMapValue(D12Cantrip),Necrotic,Magical)"
+
+new entry "MWS_STATUS_UNDEAD_ALLY"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h5bfe0998g128ag4d8fg9820gba92b9bcac98;1"
+data "Description" "h5060b457g0231g409fgb828g033ebc54b2fa;1"
+data "DescriptionParams" "DealDamage(LevelMapValue(D4Cantrip),Necrotic)"
+data "Icon" "MWS_Status_Howl"
+data "StatusPropertyFlags" ""
+data "OnApplyFunctors" "RegainHitPoints(LevelMapValue(D6Cantrip),Undead)"
+data "Boosts" "IF(IsMeleeAttack() or IsUnarmedAttack()):DamageBonus(LevelMapValue(D4Cantrip),Necrotic)"
