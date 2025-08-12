@@ -16,4 +16,6 @@
   <content contentuid="h778d413cg0142g41e5g9e89g645191486c18" version="1">The number required to score a &lt;LSTag Tooltip="CriticalHit"&gt;critical hit&lt;/LSTag&gt; is reduced by 1. Can be learned multiple times.</content>
   <content contentuid="hdde6b8f8gf3f7g4cd5g81e9gd7cbfe304644" version="1">Quick Hands</content>
   <content contentuid="hcd3fb78cgaff7g4eebg874bgd513d6446dc9" version="1">Gain an additional &lt;LSTag Tooltip="BonusAction"&gt;bonus action&lt;/LSTag&gt;. Can be learned multiple times.</content>
+  <content contentuid="cantripmaster" version="1">Cantrip Master</content>
+  <content contentuid="cantripmasterdescript" version="1">You can cast cantrips as an &lt;LSTag Tooltip="Action"&gt;action&lt;/LSTag&gt; instead of a &lt;LSTag Tooltip="BonusAction"&gt;bonus action&lt;/LSTag&gt;.</content>
 </contentList>

@@ -16,4 +16,20 @@
   <content contentuid="h778d413cg0142g41e5g9e89g645191486c18" version="1">&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;所需的点数-1。可重复学习。</content>
   <content contentuid="hdde6b8f8gf3f7g4cd5g81e9gd7cbfe304644" version="1">快手</content>
   <content contentuid="hcd3fb78cgaff7g4eebg874bgd513d6446dc9" version="1">获得一个额外的&lt;LSTag Tooltip="BonusAction"&gt;附赠动作&lt;/LSTag&gt;。可重复学习。</content>
+  <content contentuid="cantripmaster" version="1">戏法大师</content>
+  <content contentuid="cantripmasterdescript" version="1">你可以将戏法从&lt;LSTag Tooltip="BonusAction"&gt;附赠动作&lt;/LSTag&gt;改为&lt;LSTag Tooltip="Action"&gt;动作&lt;/LSTag&gt;施放。</content>
+  <content contentuid="hequnshifazhe" version="1">合群施法者</content>
+  <content contentuid="hequnshifazhedescript" version="1">戏法额外造成等同于你选择的属性调整值的伤害。</content>
+  <content contentuid="hequnshifazhe_strength" version="1">合群施法者（力量）</content>
+  <content contentuid="hequnshifazhe_strength_desc" version="1">戏法额外造成等同于你的&lt;LSTag Tooltip="AbilityModifier_Strength"&gt;力量调整值&lt;/LSTag&gt;的伤害。</content>
+  <content contentuid="hequnshifazhe_dexterity" version="1">合群施法者（敏捷）</content>
+  <content contentuid="hequnshifazhe_dexterity_desc" version="1">戏法额外造成等同于你的&lt;LSTag Tooltip="AbilityModifier_Dexterity"&gt;敏捷调整值&lt;/LSTag&gt;的伤害。</content>
+  <content contentuid="hequnshifazhe_constitution" version="1">合群施法者（体质）</content>
+  <content contentuid="hequnshifazhe_constitution_desc" version="1">戏法额外造成等同于你的&lt;LSTag Tooltip="AbilityModifier_Constitution"&gt;体质调整值&lt;/LSTag&gt;的伤害。</content>
+  <content contentuid="hequnshifazhe_intelligence" version="1">合群施法者（智力）</content>
+  <content contentuid="hequnshifazhe_intelligence_desc" version="1">戏法额外造成等同于你的&lt;LSTag Tooltip="AbilityModifier_Intelligence"&gt;智力调整值&lt;/LSTag&gt;的伤害。</content>
+  <content contentuid="hequnshifazhe_wisdom" version="1">合群施法者（感知）</content>
+  <content contentuid="hequnshifazhe_wisdom_desc" version="1">戏法额外造成等同于你的&lt;LSTag Tooltip="AbilityModifier_Wisdom"&gt;感知调整值&lt;/LSTag&gt;的伤害。</content>
+  <content contentuid="hequnshifazhe_charisma" version="1">合群施法者（魅力）</content>
+  <content contentuid="hequnshifazhe_charisma_desc" version="1">戏法额外造成等同于你的&lt;LSTag Tooltip="AbilityModifier_Charisma"&gt;魅力调整值&lt;/LSTag&gt;的伤害。</content>
 </contentList>
