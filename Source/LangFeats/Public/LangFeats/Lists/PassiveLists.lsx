@@ -5,8 +5,8 @@
     <node id="root">
       <children>
         <node id="PassiveList">
-          <attribute id="Passives" type="LSString" value="LangFeats_HeQunShiFaZhe_Strength;LangFeats_HeQunShiFaZhe_Dexterity;LangFeats_HeQunShiFaZhe_Constitution;LangFeats_HeQunShiFaZhe_Intelligence;LangFeats_HeQunShiFaZhe_Wisdom;LangFeats_HeQunShiFaZhe_Charisma" />
-          <attribute id="UUID" type="guid" value="ab31495f-b341-4339-8540-864deed469d2" />
+          <attribute id="Passives" type="LSString" value="LangFeats_HeQunShiFaZhe_Strength,LangFeats_HeQunShiFaZhe_Dexterity,LangFeats_HeQunShiFaZhe_Constitution,LangFeats_HeQunShiFaZhe_Intelligence,LangFeats_HeQunShiFaZhe_Wisdom,LangFeats_HeQunShiFaZhe_Charisma" />
+          <attribute id="UUID" type="guid" value="3d0b4419-6a60-4212-b9eb-b30fc491cd84" />
         </node>
       </children>
     </node>

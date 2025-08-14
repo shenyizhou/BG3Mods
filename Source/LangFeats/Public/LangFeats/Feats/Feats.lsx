@@ -56,14 +56,13 @@
           <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
           <attribute id="Name" type="FixedString" value="LangFeats_CantripMaster"/>
           <attribute id="PassivesAdded" type="LSString" value="LangFeats_CantripMaster"/>
-          <attribute id="UUID" type="guid" value="a1b2c3d4-e5f6-a7b8-c9d0-e1f2a3b4c5d6"/>
+          <attribute id="UUID" type="guid" value="44306ed5-d6f5-46cd-a75a-e801571bfd4d"/>
         </node>
         <node id="Feat">
-          <attribute id="CanBeTakenMultipleTimes" type="bool" value="true"/>
+          <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
           <attribute id="Name" type="FixedString" value="LangFeats_HeQunShiFaZhe"/>
-          <attribute id="PassivesAdded" type="LSString" value=""/>
-          <attribute id="Selectors" type="LSString" value="SelectPassives(ab31495f-b341-4339-8540-864deed469d2,1)"/>
-          <attribute id="UUID" type="guid" value="b1c2d3e4-f5a6-b7c8-d9e0-f1a2b3c4d5e6"/>
+          <attribute id="Selectors" type="LSString" value="SelectPassives(3d0b4419-6a60-4212-b9eb-b30fc491cd84,1)"/>
+          <attribute id="UUID" type="guid" value="413fedb6-38ca-47ef-94e8-c0687d338243"/>
         </node>
         <node id="Feat">
           <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
@@ -82,6 +81,18 @@
           <attribute id="Name" type="FixedString" value="LangFeats_BoDangFeiDan"/>
           <attribute id="PassivesAdded" type="LSString" value="LangFeats_BoDangFeiDan"/>
           <attribute id="UUID" type="guid" value="e4f5a6b7-c8d9-e0f1-a2b3-c4d5e6f7a8b9"/>
+        </node>
+        <node id="Feat">
+          <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+          <attribute id="Name" type="FixedString" value="LangFeats_GuCiZhiKai"/>
+          <attribute id="PassivesAdded" type="LSString" value="LangFeats_GuCiZhiKai"/>
+          <attribute id="UUID" type="guid" value="1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d"/>
+        </node>
+        <node id="Feat">
+          <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+          <attribute id="Name" type="FixedString" value="LangFeats_ExtraAttack"/>
+          <attribute id="PassivesAdded" type="LSString" value="ExtraAttack"/>
+          <attribute id="UUID" type="guid" value="f5a6b7c8-d9e0-f1a2-b3c4-d5e6f7a8b9c0"/>
         </node>
       </children>
     </node>

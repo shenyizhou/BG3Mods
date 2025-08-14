@@ -21,23 +21,27 @@
   <content contentuid="h2688be97g81b8g4175gaff4gaeedf4b03988" version="1">合群施法者</content>
   <content contentuid="headb6201g3e5fg41e2gacd0gb37fa8a3936a" version="1">戏法额外造成等同于你选择的属性调整值的伤害。被选择的属性增加1。</content>
   <content contentuid="h32cfda0dgc1a8g4813g89d0g25b6aeeaf524" version="1">合群施法者（力量）</content>
-  <content contentuid="h23d592a9g3a8fg4997ga7c3g45177bd6b447" version="1">戏法额外造成等同于你的<LSTag Tooltip="AbilityModifier_Strength">力量调整值</LSTag>的伤害。</content>
+  <content contentuid="h23d592a9g3a8fg4997ga7c3g45177bd6b447" version="1">戏法额外造成等同于你的&lt;LSTag Tooltip="AbilityModifier_Strength"&gt;力量调整值&lt;/LSTag&gt;的伤害。&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag+1。</content>
   <content contentuid="hd854cebcge9c9g4cb8gabdbg8e051f9bb797" version="1">合群施法者（敏捷）</content>
-  <content contentuid="h06b02155g7d19g45b9gb10dg0bd973caa39c" version="1">戏法额外造成等同于你的<LSTag Tooltip="AbilityModifier_Dexterity">敏捷调整值</LSTag>的伤害。</content>
+  <content contentuid="h06b02155g7d19g45b9gb10dg0bd973caa39c" version="1">戏法额外造成等同于你的&lt;LSTag Tooltip="AbilityModifier_Dexterity"&gt;敏捷调整值&lt;/LSTag&gt;的伤害。&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag+1。</content>
   <content contentuid="hee63f83bg732eg4b27gb00fge4b5e9e5e088" version="1">合群施法者（体质）</content>
-  <content contentuid="h76721fc7g2de0g47b9g97d3gef341effd4e0" version="1">戏法额外造成等同于你的<LSTag Tooltip="AbilityModifier_Constitution">体质调整值</LSTag>的伤害。</content>
+  <content contentuid="h76721fc7g2de0g47b9g97d3gef341effd4e0" version="1">戏法额外造成等同于你的&lt;LSTag Tooltip="AbilityModifier_Constitution"&gt;体质调整值&lt;/LSTag&gt;的伤害。&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag+1。</content>
   <content contentuid="hbd2dc0fag9d54g40f2gb4f0g3de869026238" version="1">合群施法者（智力）</content>
-  <content contentuid="he58c3221g4e4eg426agbb1fgfe21ddebb3f5" version="1">戏法额外造成等同于你的<LSTag Tooltip="AbilityModifier_Intelligence">智力调整值</LSTag>的伤害。</content>
+  <content contentuid="he58c3221g4e4eg426agbb1fgfe21ddebb3f5" version="1">戏法额外造成等同于你的&lt;LSTag Tooltip="AbilityModifier_Intelligence"&gt;智力调整值&lt;/LSTag&gt;的伤害。&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag+1。</content>
   <content contentuid="h62bdc4dag19a9g4649g810cgf8ea96022c2f" version="1">合群施法者（感知）</content>
-  <content contentuid="h9d515e4ag73efg48d7ga9d8gd2cc18913730" version="1">戏法额外造成等同于你的<LSTag Tooltip="AbilityModifier_Wisdom">感知调整值</LSTag>的伤害。</content>
+  <content contentuid="h9d515e4ag73efg48d7ga9d8gd2cc18913730" version="1">戏法额外造成等同于你的&lt;LSTag Tooltip="AbilityModifier_Wisdom"&gt;感知调整值&lt;/LSTag&gt;的伤害。&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag+1。</content>
   <content contentuid="h10725b31g2fb3g4252gb34eg866046da03b2" version="1">合群施法者（魅力）</content>
-  <content contentuid="ha6d94a78g4a84g4b91g95f3g3ec9f2aa7997" version="1">戏法额外造成等同于你的<LSTag Tooltip="AbilityModifier_Charisma">魅力调整值</LSTag>的伤害。</content>
-  <content contentuid="hf1a2b3c4gd5e6gf7a8gb9c0gd1e2f3a4b5c6" version="1">半神之印</content>
-  <content contentuid="ha2b3c4d5ge6f7ga8b9gc0d1ge2f3a4b5c6d7" version="1">忽略所有伤害类型的8点&lt;LSTag Tooltip="DamageThreshold"&gt;伤害阈值&lt;/LSTag&gt;。</content>
-  <content contentuid="he4f5a6b7gc8d9ge0f1ga2b3gc4d5e6f7a8b9" version="1">精准射击</content>
-  <content contentuid="hf5a6b7c8gd9e0gf1a2gb3c4gd5e6f7a8b9c0" version="1">使用远程武器攻击时，若&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;结果为10或更低，则重新投掷骰子。</content>
-  <content contentuid="ha6b7c8d9ge0f1ga2b3gc4d5ge6f7a8b9c0d1" version="1">拨挡飞弹</content>
-  <content contentuid="hb7c8d9e0gf1a2gb3c4gd5e6gf7a8b9c0d1e2" version="1">获得2点额外的&lt;LSTag Tooltip="ReactionActionPoint"&gt;反应点数&lt;/LSTag&gt;。解锁拨挡飞弹技能。</content>
-  <content contentuid="hc8d9e0f1ga2b3gc4d5ge6f7ga8b9c0d1e2f3" version="1">拨挡飞弹</content>
-  <content contentuid="hd9e0f1a2gb3c4gd5e6gf7a8gb9c0d1e2f3a4" version="1">使用&lt;LSTag Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;拨挡远程攻击的投射物，并将其反弹回攻击者，造成1d6+&lt;LSTag Tooltip="AbilityModifier_Dexterity"&gt;敏捷调整值&lt;/LSTag&gt;点&lt;LSTag Tooltip="Piercing"&gt;穿刺&lt;/LSTag&gt;伤害。</content>
+  <content contentuid="ha6d94a78g4a84g4b91g95f3g3ec9f2aa7997" version="1">戏法额外造成等同于你的&lt;LSTag Tooltip="AbilityModifier_Charisma"&gt;魅力调整值&lt;/LSTag&gt;的伤害。&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag+1。</content>
+  <content contentuid="hd38cdbfbg25cbg4408g8e76ge35aa6a8f8ec" version="1">半神之印</content>
+  <content contentuid="hb37865b0g702bg4e95gace8gb1fcc18a28d3" version="1">忽略所有伤害类型的8点&lt;LSTag Tooltip="DamageThreshold"&gt;伤害阈值&lt;/LSTag&gt;。</content>
+  <content contentuid="hd5ec8398gfba7g4fcdg8999g396f458bfb40" version="1">精准射击</content>
+  <content contentuid="h85d2e8a7gafeeg46a9gb8b1ge382fcc76fed" version="1">使用远程武器攻击时，若&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;结果为10或更低，则重新投掷骰子。</content>
+  <content contentuid="h5149247eg2b60g40a6gbec9gc19bbe951783" version="1">拨挡飞弹</content>
+  <content contentuid="h335b4fbcge0e0g407cg8df6g0d89ab9f32c8" version="1">获得2点额外的&lt;LSTag Tooltip="ReactionActionPoint"&gt;反应点数&lt;/LSTag&gt;。解锁&lt;LSTag Tooltip="Interrupt_LangFeats_BoDangFeiDan"&gt;拨挡飞弹&lt;/LSTag&gt;技能。</content>
+  <content contentuid="h887404bfg5621g4962gb3d7g0230d1d5ccec" version="1">拨挡飞弹</content>
+  <content contentuid="h231d8875g16d3g40b2gab22ga1d4a2d18635" version="1">使用&lt;LSTag Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;拨挡远程攻击的投射物，并将其反弹回攻击者，造成1d6点&lt;LSTag Tooltip="Piercing"&gt;穿刺&lt;/LSTag&gt;伤害。</content>
+  <content contentuid="h0cbf9078gff66g442ega3d0g874f49b2fb0d" version="1">骨刺之铠</content>
+  <content contentuid="h5212eabdgd752g452dga2a5g435f99e55715" version="1">减少所有类型伤害2点。当受到近战攻击时，对攻击者造成等同于你的&lt;LSTag Tooltip="AbilityModifier_Constitution"&gt;体质调整值&lt;/LSTag&gt;点&lt;LSTag Tooltip="Piercing"&gt;穿刺&lt;/LSTag&gt;伤害（最少1点）。</content>
+  <content contentuid="h0be69602g0103g46c1g83aag87f2b26ac5a3" version="1">额外攻击</content>
+  <content contentuid="hebc6feeage0d0g4d24g84f5g368de7ca29e2" version="1">获得额外的攻击次数。你可以在使用&lt;LSTag Tooltip="Action"&gt;动作&lt;/LSTag&gt;进行攻击时进行一次额外的攻击。</content>
 </contentList>
