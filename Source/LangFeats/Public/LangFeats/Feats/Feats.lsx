@@ -50,25 +50,25 @@
           <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
           <attribute id="Name" type="FixedString" value="LangFeats_MouShaLingGuang"/>
           <attribute id="PassivesAdded" type="LSString" value="LangFeats_MouShaLingGuang"/>
-          <attribute id="UUID" type="guid" value="e1f2a3b4-c5d6-e7f8-a9b0-c1d2e3f4a5b6"/>
+          <attribute id="UUID" type="guid" value="47478763-dfe8-4664-a9c2-d32eb0106c4b"/>
         </node>
         <node id="Feat">
           <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
           <attribute id="Name" type="FixedString" value="LangFeats_KuoDaShangKou"/>
           <attribute id="PassivesAdded" type="LSString" value="LangFeats_KuoDaShangKou"/>
-          <attribute id="UUID" type="guid" value="f2a3b4c5-d6e7-f8a9-b0c1-d2e3f4a5b6c7"/>
+          <attribute id="UUID" type="guid" value="e4c54ead-9331-435f-8aa8-034ee3aabaf3"/>
         </node>
         <node id="Feat">
           <attribute id="CanBeTakenMultipleTimes" type="bool" value="true"/>
           <attribute id="Name" type="FixedString" value="LangFeats_BeiCanZhongJi"/>
           <attribute id="PassivesAdded" type="LSString" value="LangFeats_BeiCanZhongJi"/>
-          <attribute id="UUID" type="guid" value="d7e8f9a0-b1c2-d3e4-f5a6-b7c8d9e0f1a2"/>
+          <attribute id="UUID" type="guid" value="608aa13a-e97a-4e8b-a3b4-06fb312c840d"/>
         </node>
         <node id="Feat">
           <attribute id="CanBeTakenMultipleTimes" type="bool" value="true"/>
           <attribute id="Name" type="FixedString" value="LangFeats_ZhiMingYiJi"/>
           <attribute id="PassivesAdded" type="LSString" value="ImprovedCritical"/>
-          <attribute id="UUID" type="guid" value="f8a9b0c1-d2e3-f4a5-b6c7-d8e9f0a1b2c3"/>
+          <attribute id="UUID" type="guid" value="20befbf7-ad53-46c4-96be-883e872c16a6"/>
         </node>
         <node id="Feat">
           <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>

@@ -31,7 +31,7 @@
   <content contentuid="h62bdc4dag19a9g4649g810cgf8ea96022c2f" version="1">Agonizing Blast (Wisdom)</content>
   <content contentuid="h9d515e4ag73efg48d7ga9d8gd2cc18913730" version="1">Your cantrips deal additional damage equal to your &lt;LSTag Tooltip="AbilityModifier_Wisdom"&gt;Wisdom modifier&lt;/LSTag&gt;, and your Wisdom increases by 1.</content>
   <content contentuid="h10725b31g2fb3g4252gb34eg866046da03b2" version="1">Agonizing Blast (Charisma)</content>
-  <content contentuid="ha6d94a78g4a84g4b91g95f3g3ec9f2aa7997" version="1">Your cantrips deal additional damage equal to your <LSTag Tooltip="AbilityModifier_Charisma">Charisma modifier</LSTag>, and your Charisma increases by 1.</content>
+  <content contentuid="ha6d94a78g4a84g4b91g95f3g3ec9f2aa7997" version="1">Your cantrips deal additional damage equal to your &lt;LSTag Tooltip="AbilityModifier_Charisma"&gt;Charisma modifier&lt;/LSTag&gt;, and your Charisma increases by 1.</content>
   <content contentuid="hd38cdbfbg25cbg4408g8e76ge35aa6a8f8ec" version="1">Demigod's Mark</content>
   <content contentuid="hb37865b0g702bg4e95gace8gb1fcc18a28d3" version="1">Ignore [1] points of &lt;LSTag Tooltip="DamageThreshold"&gt;damage threshold&lt;/LSTag&gt; from all damage types.</content>
   <content contentuid="hd5ec8398gfba7g4fcdg8999g396f458bfb40" version="1">Precision Shot</content>
@@ -41,7 +41,7 @@
   <content contentuid="h5149247eg2b60g40a6gbec9gc19bbe951783" version="1">Deflect Missiles</content>
   <content contentuid="h335b4fbcge0e0g407cg8df6g0d89ab9f32c8" version="1">Gain [1] additional &lt;LSTag Tooltip="ReactionActionPoint"&gt;reaction points&lt;/LSTag&gt;. Automatically deflect ranged attack projectiles and reflect them back at the attacker, dealing [1] &lt;LSTag Tooltip="Piercing"&gt;piercing&lt;/LSTag&gt; damage. This effect increases with level. This ability can be toggled on and off.</content>
   <content contentuid="h887404bfg5621g4962gb3d7g0230d1d5ccec" version="1">Deflect Missiles</content>
-  <content contentuid="h231d8875g16d3g40b2gab22ga1d4a2d18635" version="1">Use your <LSTag Tooltip="ReactionActionPoint">reaction</LSTag> to deflect ranged attack projectiles and throw them back at the attacker, dealing scaling <LSTag Tooltip="Piercing">piercing</LSTag> damage (1d6 at 1st level, 2d6 at 3rd level, and so on).</content>
+  <content contentuid="h231d8875g16d3g40b2gab22ga1d4a2d18635" version="1">Use your &lt;LSTag Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to deflect ranged attack projectiles and throw them back at the attacker, dealing scaling &lt;LSTag Tooltip="Piercing"&gt;piercing&lt;/LSTag&gt; damage (1d6 at 1st level, 2d6 at 3rd level, and so on).</content>
   <content contentuid="h0cbf9078gff66g442ega3d0g874f49b2fb0d" version="1">Bone Spike Armor</content>
   <content contentuid="h5212eabdgd752g452dga2a5g435f99e55715" version="1">Reduce all damage types by [1] points. When hit by melee attacks, deal [2] &lt;LSTag Tooltip="Piercing"&gt;piercing&lt;/LSTag&gt; damage to the attacker. This effect increases with level. This ability can be toggled on and off.</content>
 </contentList>
