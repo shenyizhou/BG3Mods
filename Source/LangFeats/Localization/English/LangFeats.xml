@@ -36,8 +36,12 @@
   <content contentuid="hb37865b0g702bg4e95gace8gb1fcc18a28d3" version="1">Ignore 8 points of <LSTag Tooltip="DamageThreshold">damage threshold</LSTag> from all damage types.</content>
   <content contentuid="hd5ec8398gfba7g4fcdg8999g396f458bfb40" version="1">Precision Shot</content>
   <content contentuid="h85d2e8a7gafeeg46a9gb8b1ge382fcc76fed" version="1">When making ranged weapon attacks, reroll <LSTag Tooltip="AttackRoll">attack rolls</LSTag> of 10 or lower.</content>
+  <content contentuid="h0be69602g0103g46c1g83aag87f2b26ac5a3" version="1">Extra Attack</content>
+  <content contentuid="hebc6feeage0d0g4d24g84f5g368de7ca29e2" version="1">Gain an additional attack. You can make one extra attack when you take the &lt;LSTag Tooltip="Action"&gt;Attack&lt;/LSTag&gt; action.</content>
   <content contentuid="h5149247eg2b60g40a6gbec9gc19bbe951783" version="1">Deflect Missiles</content>
-  <content contentuid="h335b4fbcge0e0g407cg8df6g0d89ab9f32c8" version="1">Gain 2 additional <LSTag Tooltip="ReactionActionPoint">reaction points</LSTag>. Unlock Deflect Missiles ability.</content>
+  <content contentuid="h335b4fbcge0e0g407cg8df6g0d89ab9f32c8" version="1">Toggleable passive ability. When active, gain 2 additional &lt;LSTag Tooltip="ReactionActionPoint"&gt;reaction points&lt;/LSTag&gt; and automatically deflect ranged attack projectiles and reflect them back at the attacker, dealing scaling &lt;LSTag Tooltip="Piercing"&gt;piercing&lt;/LSTag&gt; damage (1d6 at 1st level, 2d6 at 3rd level, and so on).</content>
   <content contentuid="h887404bfg5621g4962gb3d7g0230d1d5ccec" version="1">Deflect Missiles</content>
-  <content contentuid="h231d8875g16d3g40b2gab22ga1d4a2d18635" version="1">Use your <LSTag Tooltip="ReactionActionPoint">reaction</LSTag> to deflect ranged attack projectiles and throw them back at the attacker, dealing 1d6 + <LSTag Tooltip="AbilityModifier_Dexterity">Dexterity modifier</LSTag> <LSTag Tooltip="Piercing">piercing</LSTag> damage.</content>
+  <content contentuid="h231d8875g16d3g40b2gab22ga1d4a2d18635" version="1">Use your <LSTag Tooltip="ReactionActionPoint">reaction</LSTag> to deflect ranged attack projectiles and throw them back at the attacker, dealing scaling <LSTag Tooltip="Piercing">piercing</LSTag> damage (1d6 at 1st level, 2d6 at 3rd level, and so on).</content>
+  <content contentuid="h0cbf9078gff66g442ega3d0g874f49b2fb0d" version="1">Bone Spike Armor</content>
+  <content contentuid="h5212eabdgd752g452dga2a5g435f99e55715" version="1">Toggleable passive ability. When active, reduce all damage by 2 points. When hit by a melee attack, deal scaling &lt;LSTag Tooltip="Piercing"&gt;piercing&lt;/LSTag&gt; damage to the attacker (1d6 at 1st level, 2d6 at 3rd level, and so on).</content>
 </contentList>

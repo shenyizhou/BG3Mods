@@ -1,21 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
+  <content contentuid="hdde6b8f8gf3f7g4cd5g81e9gd7cbfe304644" version="1">快手</content>
+  <content contentuid="hcd3fb78cgaff7g4eebg874bgd513d6446dc9" version="1">获得一个额外的&lt;LSTag Tooltip="BonusAction"&gt;附赠动作&lt;/LSTag&gt;。可重复学习。</content>
   <content contentuid="hf8aea69bg477ag4cc9g93f2g8ed85099c245" version="1">巨人力量</content>
   <content contentuid="h142774b2g27bag49e7g9d4egb4310691b59f" version="1">力量增加至23。10级时力量增加至27。20级时力量增加至31。</content>
   <content contentuid="hd0951908g8168g489cga307g3e1bcd9b81a2" version="1">守护之链</content>
   <content contentuid="h25064b5eg8d83g4f80g8223gfb79a9cb0af7" version="1">获得对所有伤害类型的&lt;LSTag Tooltip="Resistance"&gt;抗性&lt;/LSTag&gt;。</content>
+  <content contentuid="hd38cdbfbg25cbg4408g8e76ge35aa6a8f8ec" version="1">半神之印</content>
+  <content contentuid="hb37865b0g702bg4e95gace8gb1fcc18a28d3" version="1">忽略所有伤害类型的8点&lt;LSTag Tooltip="DamageThreshold"&gt;伤害阈值&lt;/LSTag&gt;。</content>
+  <content contentuid="h0cbf9078gff66g442ega3d0g874f49b2fb0d" version="1">骨刺之铠</content>
+  <content contentuid="h5212eabdgd752g452dga2a5g435f99e55715" version="1">可开关的被动技能。激活时，减少所有伤害2点。当受到近战攻击时，对攻击者造成随等级递增的&lt;LSTag Tooltip="Piercing"&gt;穿刺&lt;/LSTag&gt;伤害（1级时1d6，3级时2d6，以此类推）。</content>
+  <content contentuid="h5149247eg2b60g40a6gbec9gc19bbe951783" version="1">拨挡飞弹</content>
+  <content contentuid="h335b4fbcge0e0g407cg8df6g0d89ab9f32c8" version="1">可开关的被动技能。激活时，获得2点额外&lt;LSTag Tooltip="ReactionActionPoint"&gt;反应点数&lt;/LSTag&gt;，并自动拨挡远程攻击的投射物并反弹回攻击者，造成随等级递增的&lt;LSTag Tooltip="Piercing"&gt;穿刺&lt;/LSTag&gt;伤害（1级时1d6，3级时2d6，以此类推）。</content>
+  <content contentuid="h0be69602g0103g46c1g83aag87f2b26ac5a3" version="1">额外攻击</content>
+  <content contentuid="hebc6feeage0d0g4d24g84f5g368de7ca29e2" version="1">获得额外的攻击次数。你可以在使用&lt;LSTag Tooltip="Action"&gt;动作&lt;/LSTag&gt;进行攻击时进行一次额外的攻击。</content>
   <content contentuid="hbc979f65g1220g44bag9776g97adab8a5a97" version="1">谋杀灵光</content>
   <content contentuid="h3933b2f5g2754g4beegaa86g867c8e4b17a2" version="1">在3米范围内的敌人获得穿刺易伤。可以切换开关此能力。</content>
-  <content contentuid="hd05631bbg8915g4a40g8aefg063e1c49a12e" version="1">泰坦射击</content>
-  <content contentuid="hce01afccge682g42c7g911dg7f25f44b7a49" version="1">你的远程武器攻击造成额外的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;点物理伤害。</content>
   <content contentuid="hd961b2a4g52eeg44dfg91c1g2076b9e989a1" version="1">扩大伤口</content>
   <content contentuid="h580b1639gcfc6g42a6gb255g713d28c48195" version="1">打出&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时额外造成1d6点&lt;LSTag Tooltip="Force"&gt;力场&lt;/LSTag&gt;伤害。</content>
   <content contentuid="h0e6155e7g8fe2g40b2ga343g1325509e760e" version="1">悲惨重击</content>
   <content contentuid="h6a38e0cfgb8acg4ea0gbb8cgcb5cdfe60ca8" version="1">打出&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时，额外造成7点伤害。可重复学习。</content>
   <content contentuid="h90f52acfg2f5dg4582gaf2eg9fdee35c929c" version="1">致命一击</content>
   <content contentuid="h778d413cg0142g41e5g9e89g645191486c18" version="1">&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;所需的点数-1。可重复学习。</content>
-  <content contentuid="hdde6b8f8gf3f7g4cd5g81e9gd7cbfe304644" version="1">快手</content>
-  <content contentuid="hcd3fb78cgaff7g4eebg874bgd513d6446dc9" version="1">获得一个额外的&lt;LSTag Tooltip="BonusAction"&gt;附赠动作&lt;/LSTag&gt;。可重复学习。</content>
+  <content contentuid="hd5ec8398gfba7g4fcdg8999g396f458bfb40" version="1">精准射击</content>
+  <content contentuid="h85d2e8a7gafeeg46a9gb8b1ge382fcc76fed" version="1">使用远程武器攻击时，若&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;结果为10或更低，则重新投掷骰子。</content>
+  <content contentuid="hd05631bbg8915g4a40g8aefg063e1c49a12e" version="1">泰坦射击</content>
+  <content contentuid="hce01afccge682g42c7g911dg7f25f44b7a49" version="1">你的远程武器攻击造成额外的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;点物理伤害。</content>
   <content contentuid="h445cfcd8gcdf0g4c1bgbf1ag5bb6ffe8ac5f" version="1">戏法大师</content>
   <content contentuid="h8bc1ff1fge5b0g4f83g9505g87fe02e2bf58" version="1">你可以将戏法从&lt;LSTag Tooltip="Action"&gt;动作&lt;/LSTag&gt;改为&lt;LSTag Tooltip="BonusAction"&gt;附赠动作&lt;/LSTag&gt;施放。</content>
   <content contentuid="h2688be97g81b8g4175gaff4gaeedf4b03988" version="1">合群施法者</content>
@@ -32,16 +42,4 @@
   <content contentuid="h9d515e4ag73efg48d7ga9d8gd2cc18913730" version="1">戏法额外造成等同于你的&lt;LSTag Tooltip="AbilityModifier_Wisdom"&gt;感知调整值&lt;/LSTag&gt;的伤害。&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag+1。</content>
   <content contentuid="h10725b31g2fb3g4252gb34eg866046da03b2" version="1">合群施法者（魅力）</content>
   <content contentuid="ha6d94a78g4a84g4b91g95f3g3ec9f2aa7997" version="1">戏法额外造成等同于你的&lt;LSTag Tooltip="AbilityModifier_Charisma"&gt;魅力调整值&lt;/LSTag&gt;的伤害。&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag+1。</content>
-  <content contentuid="hd38cdbfbg25cbg4408g8e76ge35aa6a8f8ec" version="1">半神之印</content>
-  <content contentuid="hb37865b0g702bg4e95gace8gb1fcc18a28d3" version="1">忽略所有伤害类型的8点&lt;LSTag Tooltip="DamageThreshold"&gt;伤害阈值&lt;/LSTag&gt;。</content>
-  <content contentuid="hd5ec8398gfba7g4fcdg8999g396f458bfb40" version="1">精准射击</content>
-  <content contentuid="h85d2e8a7gafeeg46a9gb8b1ge382fcc76fed" version="1">使用远程武器攻击时，若&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;结果为10或更低，则重新投掷骰子。</content>
-  <content contentuid="h5149247eg2b60g40a6gbec9gc19bbe951783" version="1">拨挡飞弹</content>
-  <content contentuid="h335b4fbcge0e0g407cg8df6g0d89ab9f32c8" version="1">获得2点额外的&lt;LSTag Tooltip="ReactionActionPoint"&gt;反应点数&lt;/LSTag&gt;。解锁&lt;LSTag Tooltip="Interrupt_LangFeats_BoDangFeiDan"&gt;拨挡飞弹&lt;/LSTag&gt;技能。</content>
-  <content contentuid="h887404bfg5621g4962gb3d7g0230d1d5ccec" version="1">拨挡飞弹</content>
-  <content contentuid="h231d8875g16d3g40b2gab22ga1d4a2d18635" version="1">使用&lt;LSTag Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;拨挡远程攻击的投射物，并将其反弹回攻击者，造成1d6点&lt;LSTag Tooltip="Piercing"&gt;穿刺&lt;/LSTag&gt;伤害。</content>
-  <content contentuid="h0cbf9078gff66g442ega3d0g874f49b2fb0d" version="1">骨刺之铠</content>
-  <content contentuid="h5212eabdgd752g452dga2a5g435f99e55715" version="1">减少所有类型伤害2点。当受到近战攻击时，对攻击者造成等同于你的&lt;LSTag Tooltip="AbilityModifier_Constitution"&gt;体质调整值&lt;/LSTag&gt;点&lt;LSTag Tooltip="Piercing"&gt;穿刺&lt;/LSTag&gt;伤害（最少1点）。</content>
-  <content contentuid="h0be69602g0103g46c1g83aag87f2b26ac5a3" version="1">额外攻击</content>
-  <content contentuid="hebc6feeage0d0g4d24g84f5g368de7ca29e2" version="1">获得额外的攻击次数。你可以在使用&lt;LSTag Tooltip="Action"&gt;动作&lt;/LSTag&gt;进行攻击时进行一次额外的攻击。</content>
 </contentList>

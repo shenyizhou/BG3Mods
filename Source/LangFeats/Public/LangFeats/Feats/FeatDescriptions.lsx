@@ -5,6 +5,13 @@
         <node id="root">
             <children>
                 <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hcd3fb78cgaff7g4eebg874bgd513d6446dc9" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hdde6b8f8gf3f7g4cd5g81e9gd7cbfe304644" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="LangFeats_KuaiShou"/>
+                    <attribute id="FeatId" type="guid" value="c1df78cd-a14d-4768-8267-c2ff4145ddf6"/>
+                    <attribute id="UUID" type="guid" value="2a76b953-d3ab-4ba2-b1d8-e56f65169bf8"/>
+                </node>
+                <node id="FeatDescription">
                     <attribute id="Description" type="TranslatedString" handle="h142774b2g27bag49e7g9d4egb4310691b59f" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hf8aea69bg477ag4cc9g93f2g8ed85099c245" version="1"/>
                     <attribute id="ExactMatch" type="FixedString" value="LangFeats_JuRenLiLiang"/>
@@ -19,18 +26,39 @@
                     <attribute id="UUID" type="guid" value="c9168069-7f96-4ffd-bcec-318a94358d50"/>
                 </node>
                 <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h2b3c4d5eg6f7ag8b9cg0d1eg2f3a4b5c6d7" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8a9b0c1dg2e3fg4a5bg6c7dg8e9f0a1b2c3" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="LangFeats_BanShenZhiYin"/>
+                    <attribute id="FeatId" type="guid" value="8fe321d6-3787-4404-ba9a-da9b370def78"/>
+                    <attribute id="UUID" type="guid" value="d4e5f6a7-b8c9-d0e1-f2a3-b4c5d6e7f8a9"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h9f8e7d6cg5a4bg3c2dg1e0fg9a8b7c6d5e4" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1a2b3c4dg5e6fg7a8bg9c0dg1e2f3a4b5c6" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="LangFeats_GuCiZhiKai"/>
+                    <attribute id="FeatId" type="guid" value="a827f887-6d62-4d75-a7b4-9aea10150f09"/>
+                    <attribute id="UUID" type="guid" value="f7e6d5c4-b3a2-9180-7f6e-5d4c3b2a1908"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h8e9f0a1bg2c3dg4e5fg6a7bg8c9d0e1f2a3" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4b5c6d7eg8f9ag0b1cg2d3eg4f5a6b7c8d9" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="LangFeats_BoDangFeiDan"/>
+                    <attribute id="FeatId" type="guid" value="e5dace96-9984-4c03-ba37-42ccdf1fa2a8"/>
+                    <attribute id="UUID" type="guid" value="f0a1b2c3-d4e5-f6a7-b8c9-d0e1f2a3b4c5"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hebc6feeage0d0g4d24g84f5g368de7ca29e2" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0be69602g0103g46c1g83aag87f2b26ac5a3" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="LangFeats_ExtraAttack"/>
+                    <attribute id="FeatId" type="guid" value="f4b63c71-e43f-4224-a81a-0224eec71714"/>
+                    <attribute id="UUID" type="guid" value="a1b2c3d4-e5f6-a7b8-c9d0-e1f2a3b4c5d6"/>
+                </node>
+                <node id="FeatDescription">
                     <attribute id="Description" type="TranslatedString" handle="h3933b2f5g2754g4beegaa86g867c8e4b17a2" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hbc979f65g1220g44bag9776g97adab8a5a97" version="1"/>
                     <attribute id="ExactMatch" type="FixedString" value="LangFeats_MouShaLingGuang"/>
                     <attribute id="FeatId" type="guid" value="e1f2a3b4-c5d6-e7f8-a9b0-c1d2e3f4a5b6"/>
                     <attribute id="UUID" type="guid" value="a5b6c7d8-e9f0-a1b2-c3d4-e5f6a7b8c9d0"/>
-                </node>
-                <node id="FeatDescription">
-                    <attribute id="Description" type="TranslatedString" handle="hce01afccge682g42c7g911dg7f25f44b7a49" version="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hd05631bbg8915g4a40g8aefg063e1c49a12e" version="1"/>
-                    <attribute id="ExactMatch" type="FixedString" value="LangFeats_TaiTanSheJi"/>
-                    <attribute id="FeatId" type="guid" value="fe5843f6-8153-49e3-b061-ad9e83d49360"/>
-                    <attribute id="UUID" type="guid" value="b3b32907-6f25-466f-9d53-f66879ce4d14"/>
                 </node>
                 <node id="FeatDescription">
                     <attribute id="Description" type="TranslatedString" handle="h580b1639gcfc6g42a6gb255g713d28c48195" version="1"/>
@@ -54,11 +82,18 @@
                     <attribute id="UUID" type="guid" value="c4d5e6f7-a8b9-c0d1-e2f3-a4b5c6d7e8f9"/>
                 </node>
                 <node id="FeatDescription">
-                    <attribute id="Description" type="TranslatedString" handle="hcd3fb78cgaff7g4eebg874bgd513d6446dc9" version="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hdde6b8f8gf3f7g4cd5g81e9gd7cbfe304644" version="1"/>
-                    <attribute id="ExactMatch" type="FixedString" value="LangFeats_KuaiShou"/>
-                    <attribute id="FeatId" type="guid" value="c1df78cd-a14d-4768-8267-c2ff4145ddf6"/>
-                    <attribute id="UUID" type="guid" value="2a76b953-d3ab-4ba2-b1d8-e56f65169bf8"/>
+                    <attribute id="Description" type="TranslatedString" handle="h5c6d7e8fg9a0bg1c2dg3e4fg5a6b7c8d9e0" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1f2a3b4cg5d6eg7f8ag9b0cg1d2e3f4a5b6" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="LangFeats_JingZhunSheJi"/>
+                    <attribute id="FeatId" type="guid" value="3834d468-1de7-4fe6-be64-72c0a6d99c9d"/>
+                    <attribute id="UUID" type="guid" value="c7d8e9f0-a1b2-c3d4-e5f6-a7b8c9d0e1f2"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hce01afccge682g42c7g911dg7f25f44b7a49" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd05631bbg8915g4a40g8aefg063e1c49a12e" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="LangFeats_TaiTanSheJi"/>
+                    <attribute id="FeatId" type="guid" value="fe5843f6-8153-49e3-b061-ad9e83d49360"/>
+                    <attribute id="UUID" type="guid" value="b3b32907-6f25-466f-9d53-f66879ce4d14"/>
                 </node>
                 <node id="FeatDescription">
                     <attribute id="Description" type="TranslatedString" handle="h8bc1ff1fge5b0g4f83g9505g87fe02e2bf58" version="1"/>
@@ -73,13 +108,6 @@
                     <attribute id="ExactMatch" type="FixedString" value="LangFeats_HeQunShiFaZhe"/>
                     <attribute id="FeatId" type="guid" value="413fedb6-38ca-47ef-94e8-c0687d338243"/>
                     <attribute id="UUID" type="guid" value="8fe321d6-3787-4404-ba9a-da9b370def78"/>
-                </node>
-                <node id="FeatDescription">
-                    <attribute id="Description" type="TranslatedString" handle="hebc6feeage0d0g4d24g84f5g368de7ca29e2" version="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h0be69602g0103g46c1g83aag87f2b26ac5a3" version="1"/>
-                    <attribute id="ExactMatch" type="FixedString" value="LangFeats_ExtraAttack"/>
-                    <attribute id="FeatId" type="guid" value="f4b63c71-e43f-4224-a81a-0224eec71714"/>
-                    <attribute id="UUID" type="guid" value="a1b2c3d4-e5f6-a7b8-c9d0-e1f2a3b4c5d6"/>
                 </node>
             </children>
         </node>
