@@ -65,6 +65,24 @@
           <attribute id="Selectors" type="LSString" value="SelectPassives(ab31495f-b341-4339-8540-864deed469d2,1)"/>
           <attribute id="UUID" type="guid" value="b1c2d3e4-f5a6-b7c8-d9e0-f1a2b3c4d5e6"/>
         </node>
+        <node id="Feat">
+          <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+          <attribute id="Name" type="FixedString" value="LangFeats_BanShenZhiYin"/>
+          <attribute id="PassivesAdded" type="LSString" value="LangFeats_BanShenZhiYin"/>
+          <attribute id="UUID" type="guid" value="c2d3e4f5-a6b7-c8d9-e0f1-a2b3c4d5e6f7"/>
+        </node>
+        <node id="Feat">
+          <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+          <attribute id="Name" type="FixedString" value="LangFeats_JingZhunSheJi"/>
+          <attribute id="PassivesAdded" type="LSString" value="LangFeats_JingZhunSheJi"/>
+          <attribute id="UUID" type="guid" value="d3e4f5a6-b7c8-d9e0-f1a2-b3c4d5e6f7a8"/>
+        </node>
+        <node id="Feat">
+          <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+          <attribute id="Name" type="FixedString" value="LangFeats_BoDangFeiDan"/>
+          <attribute id="PassivesAdded" type="LSString" value="LangFeats_BoDangFeiDan"/>
+          <attribute id="UUID" type="guid" value="e4f5a6b7-c8d9-e0f1-a2b3-c4d5e6f7a8b9"/>
+        </node>
       </children>
     </node>
   </region>

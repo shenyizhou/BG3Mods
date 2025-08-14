@@ -31,5 +31,13 @@
   <content contentuid="h62bdc4dag19a9g4649g810cgf8ea96022c2f" version="1">Agonizing Blast (Wisdom)</content>
   <content contentuid="h9d515e4ag73efg48d7ga9d8gd2cc18913730" version="1">Your cantrips deal additional damage equal to your &lt;LSTag Tooltip="AbilityModifier_Wisdom"&gt;Wisdom modifier&lt;/LSTag&gt;, and your Wisdom increases by 1.</content>
   <content contentuid="h10725b31g2fb3g4252gb34eg866046da03b2" version="1">Agonizing Blast (Charisma)</content>
-  <content contentuid="ha6d94a78g4a84g4b91g95f3g3ec9f2aa7997" version="1">Your cantrips deal additional damage equal to your &lt;LSTag Tooltip="AbilityModifier_Charisma"&gt;Charisma modifier&lt;/LSTag&gt;, and your Charisma increases by 1.</content>
+  <content contentuid="ha6d94a78g4a84g4b91g95f3g3ec9f2aa7997" version="1">Your cantrips deal additional damage equal to your <LSTag Tooltip="AbilityModifier_Charisma">Charisma modifier</LSTag>, and your Charisma increases by 1.</content>
+  <content contentuid="hf1a2b3c4gd5e6gf7a8gb9c0gd1e2f3a4b5c6" version="1">Demigod's Mark</content>
+  <content contentuid="ha2b3c4d5ge6f7ga8b9gc0d1ge2f3a4b5c6d7" version="1">Ignore 8 points of <LSTag Tooltip="DamageThreshold">damage threshold</LSTag> from all damage types.</content>
+  <content contentuid="he4f5a6b7gc8d9ge0f1ga2b3gc4d5e6f7a8b9" version="1">Precision Shot</content>
+  <content contentuid="hf5a6b7c8gd9e0gf1a2gb3c4gd5e6f7a8b9c0" version="1">When making ranged weapon attacks, reroll <LSTag Tooltip="AttackRoll">attack rolls</LSTag> of 10 or lower.</content>
+  <content contentuid="ha6b7c8d9ge0f1ga2b3gc4d5ge6f7a8b9c0d1" version="1">Deflect Missiles</content>
+  <content contentuid="hb7c8d9e0gf1a2gb3c4gd5e6gf7a8b9c0d1e2" version="1">Gain 2 additional <LSTag Tooltip="ReactionActionPoint">reaction points</LSTag>. Unlock Deflect Missiles ability.</content>
+  <content contentuid="hc8d9e0f1ga2b3gc4d5ge6f7ga8b9c0d1e2f3" version="1">Deflect Missiles</content>
+  <content contentuid="hd9e0f1a2gb3c4gd5e6gf7a8gb9c0d1e2f3a4" version="1">Use your <LSTag Tooltip="ReactionActionPoint">reaction</LSTag> to deflect ranged attack projectiles and throw them back at the attacker, dealing 1d6 + <LSTag Tooltip="AbilityModifier_Dexterity">Dexterity modifier</LSTag> <LSTag Tooltip="Piercing">piercing</LSTag> damage.</content>
 </contentList>

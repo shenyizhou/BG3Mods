@@ -32,4 +32,12 @@
   <content contentuid="h9d515e4ag73efg48d7ga9d8gd2cc18913730" version="1">戏法额外造成等同于你的<LSTag Tooltip="AbilityModifier_Wisdom">感知调整值</LSTag>的伤害。</content>
   <content contentuid="h10725b31g2fb3g4252gb34eg866046da03b2" version="1">合群施法者（魅力）</content>
   <content contentuid="ha6d94a78g4a84g4b91g95f3g3ec9f2aa7997" version="1">戏法额外造成等同于你的<LSTag Tooltip="AbilityModifier_Charisma">魅力调整值</LSTag>的伤害。</content>
+  <content contentuid="hf1a2b3c4gd5e6gf7a8gb9c0gd1e2f3a4b5c6" version="1">半神之印</content>
+  <content contentuid="ha2b3c4d5ge6f7ga8b9gc0d1ge2f3a4b5c6d7" version="1">忽略所有伤害类型的8点&lt;LSTag Tooltip="DamageThreshold"&gt;伤害阈值&lt;/LSTag&gt;。</content>
+  <content contentuid="he4f5a6b7gc8d9ge0f1ga2b3gc4d5e6f7a8b9" version="1">精准射击</content>
+  <content contentuid="hf5a6b7c8gd9e0gf1a2gb3c4gd5e6f7a8b9c0" version="1">使用远程武器攻击时，若&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;结果为10或更低，则重新投掷骰子。</content>
+  <content contentuid="ha6b7c8d9ge0f1ga2b3gc4d5ge6f7a8b9c0d1" version="1">拨挡飞弹</content>
+  <content contentuid="hb7c8d9e0gf1a2gb3c4gd5e6gf7a8b9c0d1e2" version="1">获得2点额外的&lt;LSTag Tooltip="ReactionActionPoint"&gt;反应点数&lt;/LSTag&gt;。解锁拨挡飞弹技能。</content>
+  <content contentuid="hc8d9e0f1ga2b3gc4d5ge6f7ga8b9c0d1e2f3" version="1">拨挡飞弹</content>
+  <content contentuid="hd9e0f1a2gb3c4gd5e6gf7a8gb9c0d1e2f3a4" version="1">使用&lt;LSTag Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;拨挡远程攻击的投射物，并将其反弹回攻击者，造成1d6+&lt;LSTag Tooltip="AbilityModifier_Dexterity"&gt;敏捷调整值&lt;/LSTag&gt;点&lt;LSTag Tooltip="Piercing"&gt;穿刺&lt;/LSTag&gt;伤害。</content>
 </contentList>
