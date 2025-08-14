@@ -72,13 +72,13 @@
                     <attribute id="DisplayName" type="TranslatedString" handle="h2688be97g81b8g4175gaff4gaeedf4b03988" version="1"/>
                     <attribute id="ExactMatch" type="FixedString" value="LangFeats_HeQunShiFaZhe"/>
                     <attribute id="FeatId" type="guid" value="413fedb6-38ca-47ef-94e8-c0687d338243"/>
-                    <attribute id="UUID" type="guid" value="c2d3e4f5-a6b7-c8d9-e0f1-a2b3c4d5e6f7"/>
+                    <attribute id="UUID" type="guid" value="8fe321d6-3787-4404-ba9a-da9b370def78"/>
                 </node>
                 <node id="FeatDescription">
                     <attribute id="Description" type="TranslatedString" handle="hebc6feeage0d0g4d24g84f5g368de7ca29e2" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h0be69602g0103g46c1g83aag87f2b26ac5a3" version="1"/>
                     <attribute id="ExactMatch" type="FixedString" value="LangFeats_ExtraAttack"/>
-                    <attribute id="FeatId" type="guid" value="f5a6b7c8-d9e0-f1a2-b3c4-d5e6f7a8b9c0"/>
+                    <attribute id="FeatId" type="guid" value="f4b63c71-e43f-4224-a81a-0224eec71714"/>
                     <attribute id="UUID" type="guid" value="a1b2c3d4-e5f6-a7b8-c9d0-e1f2a3b4c5d6"/>
                 </node>
             </children>
