@@ -99,6 +99,13 @@
                     <attribute id="Name" type="FixedString" value="DelayedD8CantripHeighten2"/>
                     <attribute id="UUID" type="guid" value="e794931f-2a27-480f-883d-f45555555555"/>
                 </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="23"/>
+                    <attribute id="Level10" type="LSString" value="27"/>
+                    <attribute id="Level20" type="LSString" value="31"/>
+                    <attribute id="Name" type="FixedString" value="GiantStrengthLevelMap"/>
+                    <attribute id="UUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567890"/>
+                </node>
             </children>
         </node>
     </region>

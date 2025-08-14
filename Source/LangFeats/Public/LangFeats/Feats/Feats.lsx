@@ -31,12 +31,12 @@
         <node id="Feat">
           <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
           <attribute id="Name" type="FixedString" value="LangFeats_GuCiZhiKai"/>
-          <attribute id="PassivesAdded" type="LSString" value="LangFeats_GuCiZhiKai"/>
+          <attribute id="PassivesAdded" type="LSString" value="LangFeats_GuCiZhiKai;LangFeats_GuCiZhiKai_Toggle"/>
           <attribute id="UUID" type="guid" value="a827f887-6d62-4d75-a7b4-9aea10150f09"/>
         </node>
         <node id="Feat">
           <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
-          <attribute id="Name" type="FixedString" value="LangFeats_BoDangFeiDan"/>
+          <attribute id="Name" type="FixedString" value="LangFeats_BoDangFeiDan;LangFeats_BoDangFeiDan_Toggle"/>
           <attribute id="PassivesAdded" type="LSString" value="LangFeats_BoDangFeiDan"/>
           <attribute id="UUID" type="guid" value="e5dace96-9984-4c03-ba37-42ccdf1fa2a8"/>
         </node>
@@ -67,7 +67,7 @@
         <node id="Feat">
           <attribute id="CanBeTakenMultipleTimes" type="bool" value="true"/>
           <attribute id="Name" type="FixedString" value="LangFeats_ZhiMingYiJi"/>
-          <attribute id="PassivesAdded" type="LSString" value="LangFeats_ZhiMingYiJi"/>
+          <attribute id="PassivesAdded" type="LSString" value="ImprovedCritical"/>
           <attribute id="UUID" type="guid" value="f8a9b0c1-d2e3-f4a5-b6c7-d8e9f0a1b2c3"/>
         </node>
         <node id="Feat">
