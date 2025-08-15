@@ -66,7 +66,7 @@
         </node>
         <node id="Feat">
           <attribute id="CanBeTakenMultipleTimes" type="bool" value="true"/>
-          <attribute id="Name" type="FixedString" value="LangFeats_ZhiMingYiJi"/>
+          <attribute id="Name" type="FixedString" value="LangFeats_ImprovedCritical"/>
           <attribute id="PassivesAdded" type="LSString" value="ImprovedCritical"/>
           <attribute id="UUID" type="guid" value="20befbf7-ad53-46c4-96be-883e872c16a6"/>
         </node>

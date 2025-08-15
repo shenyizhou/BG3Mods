@@ -77,7 +77,7 @@
                 <node id="FeatDescription">
                     <attribute id="Description" type="TranslatedString" handle="h778d413cg0142g41e5g9e89g645191486c18" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h90f52acfg2f5dg4582gaf2eg9fdee35c929c" version="1"/>
-                    <attribute id="ExactMatch" type="FixedString" value="LangFeats_ZhiMingYiJi"/>
+                    <attribute id="ExactMatch" type="FixedString" value="LangFeats_ImprovedCritical"/>
                     <attribute id="FeatId" type="guid" value="20befbf7-ad53-46c4-96be-883e872c16a6"/>
                     <attribute id="UUID" type="guid" value="90a3836e-0e40-40eb-b03b-94ee3c1f17ad"/>
                 </node>
