@@ -36,8 +36,8 @@
         </node>
         <node id="Feat">
           <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
-          <attribute id="Name" type="FixedString" value="LangFeats_BoDangFeiDan"/>
-          <attribute id="PassivesAdded" type="LSString" value="LangFeats_BoDangFeiDan;LangFeats_BoDangFeiDan_Toggle"/>
+          <attribute id="Name" type="FixedString" value="LangFeats_DeflectMissiles"/>
+          <attribute id="PassivesAdded" type="LSString" value="LangFeats_DeflectMissiles_Resource;LangFeats_DeflectMissiles"/>
           <attribute id="UUID" type="guid" value="e5dace96-9984-4c03-ba37-42ccdf1fa2a8"/>
         </node>
         <node id="Feat">

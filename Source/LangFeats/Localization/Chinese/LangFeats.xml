@@ -13,9 +13,12 @@
   <content contentuid="h6c39acc8g7500g4a78g87abgc200d545c94a" version="1">受到的所有伤害减少 [1]。</content>
   <content contentuid="hff1c7b59g94bcg4c50g9393g4838f1ade624" version="1">被近战攻击命中时，攻击者受到 [1]。该效果会随着等级提升而增加。可开关切换此能力。</content>
   <content contentuid="h5149247eg2b60g40a6gbec9gc19bbe951783" version="1">拨挡飞弹</content>
-  <content contentuid="h335b4fbcge0e0g407cg8df6g0d89ab9f32c8" version="1">获得 2 点额外&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;。被远程物理攻击命中时，攻击者受到 1d6 穿刺伤害。该效果会随着等级提升而增加。可开关切换此能力。</content>
+  <content contentuid="h335b4fbcge0e0g407cg8df6g0d89ab9f32c8" version="1">获得 2 点额外&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;。使用你的&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;来施展&lt;LSTag Tooltip="LangFeats_Interrupt_DeflectMissiles"&gt;拨挡飞弹&lt;/LSTag&gt;，减少远程武器攻击那里受到的伤害，减少值为 1d10 + 你的敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; + 你的人物等级，并可以施展&lt;LSTag Tooltip="LangFeats_Interrupt_DeflectMissiles_Return"&gt;拨挡飞弹：重定向&lt;/LSTag&gt;。</content>
   <content contentuid="he45ebf33gbc2ag4d6eg99a5g8a109c3f0a45" version="1">获得 [1] 点额外&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;。</content>
-  <content contentuid="h3c68e7c3g5c58g4fafg92f9g3213b7d1c30a" version="1">被远程物理攻击命中时，攻击者受到 [1]。该效果会随着等级提升而增加。可开关切换此能力。</content>
+  <content contentuid="h3c68e7c3g5c58g4fafg92f9g3213b7d1c30a" version="1">使用你的&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;来施展拨挡飞弹，减少远程武器攻击那里受到的伤害，减少值为 1d10 + 你的敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; + 你的人物等级，并可以施展&lt;LSTag Tooltip="LangFeats_Interrupt_DeflectMissiles_Return"&gt;拨挡飞弹：重定向&lt;/LSTag&gt;。</content>
+  <content contentuid="heda21761g743bg47c1g8a8dg602314b97d35" version="1">使用你的&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;，让远程武器攻击造成的伤害减少 1d10 + 你的敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; + 你的人物等级，并可以施展拨挡飞弹：重定向。</content>
+  <content contentuid="hfaabd00ag7c20g4378g9d85g110d5ccd46e2" version="1">拨挡飞弹：重定向</content>
+  <content contentuid="h4a48dd9fgf8ecg4e2aga2d1g9dbcbf841757" version="1">使用你的&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;能力抓住远程武器攻击发出的一个投射物，同时将它反弹回攻击者的方向，造成随等级提升的穿刺伤害。</content>
   <content contentuid="h0be69602g0103g46c1g83aag87f2b26ac5a3" version="1">额外攻击</content>
   <content contentuid="hebc6feeage0d0g4d24g84f5g368de7ca29e2" version="1">发动徒手或武器攻击后可以进行一次额外的免费攻击。来自多个职业的多重攻击不叠加。</content>
   <content contentuid="hbc979f65g1220g44bag9776g97adab8a5a97" version="1">谋杀灵光</content>
