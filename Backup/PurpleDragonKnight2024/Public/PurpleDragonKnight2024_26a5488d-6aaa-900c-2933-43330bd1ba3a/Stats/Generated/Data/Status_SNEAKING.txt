@@ -1,0 +1,6 @@
+new entry "PDK_SNEAKING"
+type "StatusData"
+data "StatusType" "SNEAKING"
+using "SNEAKING"
+data "StillAnimationType" ""
+data "StillAnimationPriority" ""

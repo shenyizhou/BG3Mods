@@ -1,0 +1,5 @@
+new spellset "PurpleDragonCompanionSummonActions"
+add spell "Shout_Dash_PurpleDragon"
+add spell "Shout_Disengage_PurpleDragon"
+add spell "Shout_Hide_PurpleDragon"
+add spell "Shout_Dodge_PurpleDragon"

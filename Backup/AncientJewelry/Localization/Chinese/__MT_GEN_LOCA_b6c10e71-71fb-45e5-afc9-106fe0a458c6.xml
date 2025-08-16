@@ -1,0 +1,505 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h5bb2726cg6840g4bc8g82c0g30bf483ee1b7" version="1">伟大胜利勋章</content>
+	<content contentuid="h52ca3670gf756g4fcfgbd43g04243b4a2268" version="1">在这枚勋章的背面刻有一段铭文：“献给加雷思——来自托马里克。‘为了这场辉煌的胜利，祝你长寿和幸福！’”一颗巨大的红宝石完美地衬托了这件珠宝的构成，有时会闪耀着超自然的光芒。你立刻注意到它具有魔力属性。---加雷思，园桌骑士之一，亚瑟王的侄子《亚瑟王传奇》</content>
+	<content contentuid="h09448023g71dcg4ee3g83c6g53cedadb2afe" version="1">生命之拥</content>
+	<content contentuid="h8bf4bcb6ge88eg4d8bg8333g556333f63140" version="1">&lt;br&gt;你的最大&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;增加了[2]%。你获得+[1]&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;加成。这个效果会随着你的等级而提升。</content>
+	<content contentuid="hb28fe971g1f07g4f2cga587g087023536f2e" version="1">魔法红宝石吊坠</content>
+	<content contentuid="h3204f3f0g1558g4b03g835dga115b575886c" version="1">这个吊坠镶嵌的宝石散发出微弱的深红色光芒。显然它被施加了魔法，赋予佩戴者无比的力量。你从未遇到过如此原始的力量源泉，因此你决定将这个吊坠留在身边。</content>
+	<content contentuid="h37748587gaa1cg4397gad7bg28b4e66d833e" version="1">威力提升</content>
+	<content contentuid="h804d2f2cgb17bg4634gba12gad00465554fd" version="1">&lt;br&gt;&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;增加2，你在 &lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;的&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;上拥有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+	<content contentuid="h3d009b5dg0889g40b5g8880gafd538763d4b" version="1">牛神护身符</content>
+	<content contentuid="hf9c45ab1g46a2g4a5eg96b2g59d22e927b22" version="1">这件保存完好的文物在牛神崇拜者中显然有着巨大的影响力，很可能属于他们的领袖。当你握住这个护身符时，一种坚定不移的决心涌遍全身，清晰地表明了这件珠宝所蕴含的魔力。阿匹斯（英语：Apis）。是古埃及神话中孟斐斯神祇之一。为一公牛形象，其事迹反映于托勒密王朝时期祭司历史学家曼内托的著述中，亦于相关的文物中得到出现，具有重大地宗教影响与历史意义。）</content>
+	<content contentuid="h856b4a41g861bg43beg9909g5a346dab365c" version="1">牛神的恩宠</content>
+	<content contentuid="hd99c524cgbc5eg4ee3g8599ge029687c7b0d" version="1">&lt;br&gt;&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;增加2，你在&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt; 的&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;上拥有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+	<content contentuid="h30d65a20g3f28g4e71ga31egbb47b82ffab5" version="1">森林护卫者吊坠</content>
+	<content contentuid="h5cffd9ecg84d6g4a10g895cgd87b767b517f" version="1">这枚吊坠展示了精巧的精灵工艺和磨损的痕迹，表明它的前任所有者是一名护林人。精美的制作，镶有一颗巨大的祖母绿，这个珠宝散发出一种神秘的力量。当你戴上它时，你感受到风之本身赋予了你行动的青睐。</content>
+	<content contentuid="h1b7f1e21gd4e8g4b9egaba4gee108568afae" version="1">风神的祝福</content>
+	<content contentuid="h8e776e20g7b52g4f45gb750g644a3e51b15d" version="1">&lt;br&gt;&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;增加2，你在&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;的&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;上拥有优势。（风神一般指埃俄罗斯。 埃俄罗斯，是希腊神话中的风神。）</content>
+	<content contentuid="ha66890b6g0ea6g43beg81ecgdde11293b6f6" version="1">大法师的吊坠</content>
+	<content contentuid="h8fe743d9g1bfcg4b56g9b20g6bfc07d42eff" version="1">这个小型吊坠散发出的明显强大气息表明它曾经属于一位强大的魔法师，为其他同行施加了魔法。令人惊奇的是，这个吊坠在佩戴时莫名其妙让你变得巨大。</content>
+	<content contentuid="h651ad8deg1a5dg4c08ga8f7gac868fa05fac" version="1">聪慧之心符咒</content>
+	<content contentuid="h0b8a8589gdc77g48f5ga283g840a924a9e40" version="1">&lt;br&gt;&lt;LSTag Tooltip="Intelligence"&gt;智慧&lt;/LSTag&gt;增加2，你在&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;上拥有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+	<content contentuid="h19770d4bgc011g4b8cg81b7g172f2d786d91" version="1">原初护身符</content>
+	<content contentuid="h534beba8ga1e5g415eg9361g6194e82db4f7" version="1">这件小饰物是用一种已灭绝生物的骨头制作而成，它见证了它古老的起源。从外观上看，这个护身符已经存在了超过一千年。当你将其握在手中时，一股奇特的回声涌动在你内心，似乎在提醒你这件文物曾经属于过去所有者的灵魂的存在。</content>
+	<content contentuid="h8a68fb6dgfef6g41d1g8435g7dc354f97af5" version="1">千古智慧护身符</content>
+	<content contentuid="h5045aa0cgd6ddg487cgadbege7eeb80056b4" version="1">&lt;br&gt;&lt;LSTag Tooltip="Wisdom"&gt;智慧&lt;/LSTag&gt;增加2，你在&lt;LSTag Tooltip="Wisdom"&gt;智慧&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;上拥有 &lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+	<content contentuid="h2b99a3e9g831ag47f8g9d25g8503aa57bdb0" version="1">伟大议会吊坠</content>
+	<content contentuid="hba09c468ga9afg4f44g92ebgca7f629a2bfc" version="1">自古以来，这个吊坠一直是最高等级的大使和外交官的身份的象征，并被作为一种珍贵的传家宝代代相传。其精美的设计反映了古老王朝的要求。当你与这个吊坠接触时，一股深沉的自信涌上心头。</content>
+	<content contentuid="hd082a0b6g0395g4051gb348g8b28ca436b07" version="1">自信精华</content>
+	<content contentuid="hcb57ff26g9497g442eg8edfg6a3eef9ff690" version="1">&lt;br&gt;&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;增加2，你在&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;上拥有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+	<content contentuid="hc4085879g5140g4dceg90a9g995a4b42586c" version="1">古老死灵法师护身符</content>
+	<content contentuid="h5410e55ag1891g4933g951dg518df3ed9601" version="1">当你凝视着这个护身符上镶嵌的逐渐变动的白色沙粒时，一个微小的魔法铭文在它的背面浮现出来：“让所有人知道，这件物品曾属于一个叛徒和被放逐者。这位巫师如此强大，以至于将他可怕的魔法封印在这件珠宝之中——这个选择导致了他的灭亡，因为我们偷走了它并击败了他。”显然，这个文物确实拥有难以置信的力量。</content>
+	<content contentuid="h6cdd09c7g993dg47d8ga569g9beba11f6c23" version="1">黑暗魔法师精华</content>
+	<content contentuid="h16d1f1bag5502g40c1gb4dcgc0d403e12bd5" version="1">&lt;br&gt;你获得恶魔视觉（Devil's Sight）的能力，远程攻击获得+[1]的额外加成，并对心灵伤害具有&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。这个效果会随着你的等级而提升。</content>
+	<content contentuid="h7a57cf3dgfc40g4463g9eafg2e7b37bc1ddf" version="1">龙骑士护身符</content>
+	<content contentuid="hcc6764fbg7ae8g480fga8e7g1e61a0480df8" version="1">一枚精美制作的龙形护身符，来历神秘。它散发着强大的魔力，在其闪烁的眼睛和温暖的触感中体现出来。它很可能是古代文明用来驯服巨龙的工具。历史学家们会为其发现而惊叹不已。</content>
+	<content contentuid="he757039fg3355g4605ga7f3g0def0abd637b" version="1">巨龙的恩宠</content>
+	<content contentuid="h729c22b0ga83cg467fgb52dgedc819c9ea67" version="1">&lt;br&gt;你对火焰伤害具有&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;，并且不会被&lt;LSTag Type="Status" Tooltip="BURNING"&gt;灼烧&lt;/LSTag&gt;。你需要掷骰获得重击的数值减少1点。这个效果可以叠加。</content>
+	<content contentuid="h8fd244dcge9e2g4fa4g825fg90e06d148ab9" version="1">位面干预坠饰</content>
+	<content contentuid="h80471772g14d8g4325gbaa2g9b51ceb168cf" version="1">这件迷人的珠宝让人无法移开目光，凝视其中的深渊。仅仅一眼就足以沉浸在散发出的神秘纯净魔力中，仿佛一瞬间揭示了观察者过去、现在和未来的一切。有一种感觉，这颗卓越的宝石甚至超越了众神自身的创造。</content>
+	<content contentuid="heaa086d8gd9f5g4193gbea5g922f51c7007b" version="1">位面干预</content>
+	<content contentuid="h987c1424g337ag45f6ga097g6daa1cda6e36" version="1">&lt;br&gt;你在所有的&lt;LSTag Tooltip="AttackRoll"&gt;攻击骰&lt;/LSTag&gt;、&lt;LSTag Tooltip="AbilityCheck"&gt;能力检定&lt;/LSTag&gt;或&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;上都拥有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，但是所有骰子的点数减少1。</content>
+	<content contentuid="h9364c363g0d06g4452g8d7aga9d999fda04a" version="1">古代战士手串</content>
+	<content contentuid="ha4168250g3582g4358gac0dg8e485eeeff05" version="1">这些古老的玉珠散发出超凡的能量。当你把它们握在手中时，你不禁感受到震动贯穿全身，仿佛这些珠子传递着它们丰富力量的一部分。这件魔法珠宝肯定曾被一个传奇的战士使用过，使他从各种不可能中最终获得胜利。</content>
+	<content contentuid="h45b26adeg2ec2g4565g9a63g2d21cf1b63f4" version="1">玉珠的共鸣</content>
+	<content contentuid="hcbf200ddg0df5g4a16gaefage52376b13884" version="1">&lt;br&gt;你获得+[2]的行动点数奖励和+[1]的先攻加值。</content>
+	<content contentuid="hc7de8f7dg5ff7g45b7g8971gb8f5aaf16d27" version="1">铜乌鸦护身符</content>
+	<content contentuid="h48a054adg44edg4243g8c3bg091e20a4d365" version="1">这款乌鸦形状的小饰品隐藏着一个深奥的秘密，受脑中那个夺心魔蝌蚪的驱使，你被一股冲动推动着进一步探索。当你的目光注视着乌鸦的眼睛时，一个惊人的变化在你面前展开。你手中的普通护身符经历了惊人的变形，化为一颗灿烂的钻石。与此同时，乌鸦锐利的目光似乎深入到你的灵魂深处，赋予你全新的力量。这件古老的神器的激活方式与你以往遇到的任何其他物品都不同。</content>
+	<content contentuid="h28cd1a6eg465fg430bg9715ga73a73e4358f" version="1">远古乌鸦符咒</content>
+	<content contentuid="h742a2577g2284g442fga2a5g18d8d3f8089c" version="1">&lt;br&gt;你不会受到坠落伤害，并且你的武器攻击额外增加双倍的&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;属性&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;。</content>
+	<content contentuid="h9aeb3128ge1b0g400dg802ag7e5a5f74815b" version="1">败家王子勋章</content>
+	<content contentuid="hc3cecc9cgca0cg4c34gbe7cg40bafd0b6b1e" version="1">凭借其精致的设计、珍贵的宝石和细致入微的工艺，这件珠宝明显是由一位高贵的王子委托制作而成。他显然投入了大量的心血来完善这个勋章，很可能得到了熟练工匠的协助。事实上，很明显，他在这个令人惊叹的珠宝杰作上花费的时间比在从政职责上要多得多。否则，这样的文物本应该存放在皇家宝库中，而不是落入你的手中。</content>
+	<content contentuid="h636c0782g9bc7g4536g9cc8g014f021e8505" version="1">瞬间洞察</content>
+	<content contentuid="h205e3196g7a17g418bg893dgbccb9e819416" version="1">你的&lt;LSTag Tooltip="SpellDifficultyClass"&gt;法术豁免 DC&lt;/LSTag&gt; 提高 +[1]。这个效果可以叠加。</content>
+	<content contentuid="hd7b8b016geeb1g4369ga47dgd1fcd19720d7" version="1">皇宫守卫直觉</content>
+	<content contentuid="h6a113aefg7efag4815g8cb1g0e26e42446e6" version="1">&lt;br&gt;在每个回合开始时，你必须进行一次&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;（豁免 DC [1]）来获得&lt;LSTag Type="Status" Tooltip="NECK13"&gt;“瞬间洞察”&lt;/LSTag&gt;状态，持续[2]个回合。这个效果在持续时间内的每个回合都可以叠加。</content>
+	<content contentuid="h21c69067g2ea5g416dgad9eg9d6ecbf3cde0" version="1">冰火魔神吊坠</content>
+	<content contentuid="heb0da8aagcbd8g4f08g8054g3dd2a5d14549" version="1">当你握住这个看似微小的吊坠时，一种意外的沉重感压在你身上，仿佛它能从你手中脱离出来并将自己扎根于大地之中。在集结力量以克服其中莫测的魔法后，你的注意力被引向一个惊人的发现。从宝石下方开始涌出浓稠的红色液体，而在另一侧却出现了一个微型暴风雪。在你做出反应之前，这两股不可控制的力量汇聚在石头的核心，产生了一次爆炸性的碰撞，释放出前所未有的能量激流。</content>
+	<content contentuid="h273bfafbg1976g4626ga3f1g2f6cd1297d6d" version="1">恐怖毁灭之力</content>
+	<content contentuid="h88e2f215gfafbg4092g92e7gccaaefe312da" version="1">&lt;br&gt;每回合一次，你对所有攻击获得+[1]和+[2]的额外加成，但你的移动速度始终减少[3]。这个效果会随着你的等级而提升。</content>
+	<content contentuid="hdb6dbdf8g3dfcg4932gb31bgb683901b60a5" version="1">古旧女巫护身符</content>
+	<content contentuid="h8cc5d5eeg4276g4f00ga02dg0ceb5dc261ca" version="1">这件古老的小饰品立刻吸引了你的注意，无论是引人入胜的铜铸工艺还是那颗诡异苍白的珍珠，闪烁着一种不健康的绿色光芒。当你触摸护身符时，一股陌生而直击内心的恐惧瞬间从头到脚贯穿你的全身。很明显，这件珠宝蕴藏着强大的黑暗魔法，要驾驭它的力量需要坚定不移的决心。</content>
+	<content contentuid="h524c33b7g51a9g4e64g9993g54d1bde77885" version="1">女巫诅咒</content>
+	<content contentuid="he009d45cge18fg4e67gb216gfbc54af58cca" version="1">&lt;br&gt;你无视所有的&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;效果，但每个属性能力减少1点。</content>
+	<content contentuid="hfad32023g8e77g486aga0d3gc79fbcac9706" version="1">充能闪电吊坠</content>
+	<content contentuid="h34e14e03gcd2bg42cbgae09gffe79da038ec" version="1">当你的手指接触到这个吊坠时，一股突如其来的电流穿过全身！这无疑是一个惊人的小饰品！然而，你意识到忍受这种电击可能是解锁强大魔法附魔的关键。在忍受着一分钟的痛苦之后，你的怀疑开始得到回报，那颗像暗色海浪般的奇异石头开始发出微弱的蓝光，现在看起来已经准备好增强你的法术了。</content>
+	<content contentuid="hdac7d5b2g0afeg473dg95b6g91ccacfd24e4" version="1">闪电护符之力</content>
+	<content contentuid="hae3fe701g5a33g4264gbed6gcab8826596da" version="1">&lt;br&gt;如果你使用闪电法术进行攻击，你的伤害将额外增加[1]，基于你的&lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;法术施展能力调整值&lt;/LSTag&gt;。</content>
+	<content contentuid="hc2bb1d49g4fddg4bfag9863ge01ccae5e48e" version="1">炼金师的酸石</content>
+	<content contentuid="hf98bd199g2abeg4b6agb280ge54874fe3d00" version="1">你的目光顺利地落在一个引人注目的发光石头上。传说中，这样的石头是古代炼金师的创造物，他们将其注入了魔法般的保护力量。其中一则传说讲述了一块附有魔力的炼金石，用来驱散整个冰川！然而，这块石头却带着一股难以忍受的气味，仿佛在催促你重新考虑是否佩戴它。</content>
+	<content contentuid="h0308d0c2g4c27g4be9g8aafg081dc84ab711" version="1">反射技巧</content>
+	<content contentuid="h018ccd09g8095g4c9bg95acg7713b8ebc8c6" version="1">&lt;br&gt;你对酸性伤害具有&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;能力。</content>
+	<content contentuid="h7c6b3b2fg3726g42d3g823eg5621d04a1aef" version="1">紫水晶巫师吊坠</content>
+	<content contentuid="h8f178f18gb4c8g4450gb591g004f47cb58a9" version="1">这个精美的吊坠外观迷人，同时也隐藏着它的神秘魔力。对于有洞察力的眼睛来说，几乎看不见的符文刻在水晶的侧面上变得明显可见。虽然符文通常被认为只具有一些普通的附魔效果，并且可能存在一定的缺陷，但保留这件物品可能会非常有用。</content>
+	<content contentuid="hff05a292gb6ceg4968g97c8gfee876065e1b" version="1">法术校准</content>
+	<content contentuid="hde9b74ecg78d0g4b1fg98b0g6b7c1a4d511b" version="1">&lt;br&gt;你对远程法术的&lt;LSTag Tooltip="AttackRoll"&gt;攻击骰&lt;/LSTag&gt;获得+[1]的加值，但会失去[2]个[3]环的&lt;LSTag Tooltip="SpellSlot"&gt;法术位&lt;/LSTag&gt;。这个效果会随着你的等级而提升。</content>
+	<content contentuid="h6827629fga5e0g4b23gb600g6a6d4ee30313" version="1">精灵女王耳环</content>
+	<content contentuid="h268da6dfge4a7g46e4gacf8g28399ec584be" version="1">这件高贵精致的作品似乎经受了时间的洗礼。宝石微微散发出一种微妙的光芒，暗示着这个物品上蕴含着强大的魔法附魔。更仔细的观察揭示了一些增益效果，毫无疑问地提升了在各种事务中的熟练度，从阴谋到外交。</content>
+	<content contentuid="hd4ceb83eg6bbbg41e7g9d40g7e0fe3934b65" version="1">精灵狡诈</content>
+	<content contentuid="hc73df27eg397eg4a89gb9c8g9aadc5bf76f8" version="1">&lt;br&gt;在所有的&lt;LSTag Tooltip="AbilityCheck"&gt;属性检定&lt;/LSTag&gt;中获得+[1]加值。</content>
+	<content contentuid="heaccf30bg66dag4e3fga6c2gd7f18873e7a5" version="1">玛拉的狼护符</content>
+	<content contentuid="h69c94b0dga6d0g47fag8ee3gb201ff67f998" version="1">即使在接触这件物品之前，你立刻意识到它是一件强大的神器。制造者的身份仍然成谜，但他们对狩猎之神玛拉的奉献是不言而喻的。当佩戴这个护符时，它会赋予你一种野兽般的力量感，这是一份可观的礼物。然而，在与如此残酷的神灵的护符打交道时，你应该谨慎行事。</content>
+	<content contentuid="h1b6f5c2ag4211g4a26gb69agd32c311b7abb" version="1">强力狼护符之力</content>
+	<content contentuid="h9bc35363g4848g4c98g8b0dg70cf6f3b058f" version="1">&lt;br&gt;(该效果随等级提升)你的&lt;LSTag Tooltip="Athletics"&gt;运动技能&lt;/LSTag&gt;检定获得+[1]加值。攻击你的人型生物在进行&lt;LSTag Tooltip="AttackRoll"&gt;攻击骰&lt;/LSTag&gt;判定时会处于&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。&lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;困难地形&lt;/LSTag&gt;对你没有影响。获得野兽标签。</content>
+	<content contentuid="hff103d0ag2a83g4876g9af1g68877249b887" version="1">矮人王的黄金吊坠</content>
+	<content contentuid="he7657a33g6417g4efbga5e5g62bb6f541dff" version="1">从铸造的复杂程度来看，你可以判断这个吊坠在古老的矮人王朝中具有极其重要的地位。当你稍微加热它时，你对其更加赞叹不已，注意到黄金合金的出色耐用性。从内部传来微弱的啪嗒声引起了你的注意。经过广泛的测试，你揭示了吊坠的魔法附魔——它形成了一层保护性的魔法结界，可以减缓来袭的抛射物。这个新发现的知识暗示着它所拥有的力量，如果不加控制，可能会引发更大胆的行为。</content>
+	<content contentuid="h2011c7f0gbb6bg4f18gb0a0gcecec2e756db" version="1">闪耀减速</content>
+	<content contentuid="hb9e56edeg7591g436dgb80cg64a404f3e9fb" version="1">&lt;br&gt;当受到远程攻击时，你所承受的伤害将减少等于你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;的两倍。在所有&lt;LSTag Tooltip="SavingThrow"&gt;豁免投骰&lt;/LSTag&gt;中，你的投骰结果会降低[1]点。</content>
+	<content contentuid="hda4af7d0g7265g47a8g953eg745cf078e2fa" version="1">暮光骑士的徽章</content>
+	<content contentuid="he71b36edge8e7g4190gb7d7g9ae55f530c8f" version="1">当你触摸这个非凡的徽章时，一股令人骨寒的寒气穿透全身。陌生的魔法驱使着你将这个物品固定在心脏下方。但是，一旦你这样做，一股压倒性的末日感笼罩着你。很明显，这件神器不是玩笑：徽章的设计和其附加的强大魔法使人不禁回想起古代骑士的黑暗魔法。</content>
+	<content contentuid="h45f02a60g2eb6g4335g971bg5f381ba77a99" version="1">生命转移的诅咒</content>
+	<content contentuid="hf8a638edgca40g4787g8f5cgd7c602e2b1e5" version="1">&lt;br&gt;在&lt;LSTag Tooltip="MeleeWeaponAttack"&gt;近战武器攻击&lt;/LSTag&gt;中，你造成额外[1]，但你的&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;减少[2]点。该效果会随着你的等级提升而提升。</content>
+	<content contentuid="hc170f4f5g648ag4daag83d4g6f931213998f" version="1">冰霜蜘蛛护符</content>
+	<content contentuid="hbecca459g82dbg48acg9f2cga2d79d09039b" version="1">当你凝视着这个护符时，一种奇特的感觉仿佛从中散发出雪花飘落的幻象，尽管你的眼睛无法完全捕捉到。好奇驱使你触摸了这个物品，但是一旦你的手接触到它，一股灼热而凶残的寒冷就会炙烤你的手掌。很明显，这个古老的神器被某种强大的魔法所束缚，驱使着你进一步研究它。</content>
+	<content contentuid="h2a92a05bgfb1bg46f9g81c8g107984571ed1" version="1">冰霜蜘蛛附体</content>
+	<content contentuid="ha3408907g570cg4463g940bg7f071a209a4c" version="1">&lt;br&gt;你的&lt;LSTag Tooltip="Stealth"&gt;潜行&lt;/LSTag&gt;技能获得+[1]加值。如果你处于遮掩状态下，攻击造成额外[2]点伤害，基于你的&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;。</content>
+	<content contentuid="hb331c082g1662g4085g88fdg47f83f1208ee" version="1">冰雪女王的吊坠</content>
+	<content contentuid="h1d473aafgf378g41bfg865dgb71b180823a0" version="1">将这个吊坠戴在颈间后，一股无可否认的冲动涌上心头，驱使你寻找冰雪。当与一片冻水接触时，强大的魔法能量穿过你的身体。这个吊坠所蕴含的奇特附魔的起源仍然笼罩在神秘之中，但你有理由相信它与一位强大的巫师的逝去有关。据推测，他们的灵魂在死后与这个物品交织在一起，赋予了它不寻常的特性。（超凡特性——《诡秘之主》中是一中设定，超凡生物的遗留物，是超凡序列升级魔药配方的核心成分）</content>
+	<content contentuid="h82f6de8bg134cg47d4g8109gd3c46282abd5" version="1">女王的灵魂</content>
+	<content contentuid="hb5831730gd94fg46f0g878dg6099a010e474" version="1">你的法术攻击&lt;LSTag Tooltip="AttackRoll"&gt;攻击骰&lt;/LSTag&gt;获得+[1]的加值。</content>
+	<content contentuid="he8c34531gee72g47edgbc83g00a3b8224c0c" version="1">冰霜牵引</content>
+	<content contentuid="h09308fdfg6bfag49acgaf2cge27f44065732" version="1">&lt;br&gt;当站在冰冻的表面上时，你获得&lt;LSTag Type="Status" Tooltip="FROZEN_EXTRACTION"&gt;"女王的灵魂"&lt;/LSTag&gt;效果，为使用法术的&lt;LSTag Tooltip="AttackRoll"&gt;攻击骰&lt;/LSTag&gt;投掷提供+[1]的加值。该效果随着你的等级提升而提升。</content>
+	<content contentuid="hf9248910gd1b7g4b90gb00fg87139152ce8a" version="1">眩目光芒吊坠</content>
+	<content contentuid="h225bca71g003ag49afg9866g8ebf7eacf7e7" version="1">这颗明亮的黄宝石散发出的光芒如此刺眼，令人无法逃脱其辉煌的眩光。在终于成功佩戴上这件奇特的珠宝之后，你感受到了太阳能量的本质渗透到你身体中，增强了你的能力。这让你不禁想知道——之前那位佩戴这件珠宝的圣骑士是怎样殒命的呢？</content>
+	<content contentuid="hab9e38c7g5f5ag4a0bg8207g545262abb7f4" version="1">眩目光芒的本质</content>
+	<content contentuid="h5a7998c8g5667g4028gb42ag3c51562c979b" version="1">&lt;br&gt;当你造成光耀伤害时，目标必须进行一次[1]的&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免投骰&lt;/LSTag&gt;，否则将被致盲。你对光耀伤害具有&lt;LSTag Tooltip="Vulnerable"&gt;易伤&lt;/LSTag&gt;属性。致盲的持续时间随着你的等级提升而增加。</content>
+	<content contentuid="h334f24a9g42b0g462egb3bfg2ac564acce71" version="1">潘多拉珠宝匣</content>
+	<content contentuid="hf1e530c1gcc9ag4a78gae3dg3bffb1076854" version="1">该匣子中收纳了费伦大陆上最精美、最稀有的珠宝。</content>
+	<content contentuid="h3edb8bccgad54g4ed5g8525g1378f74cc793" version="1">赤魔法师战斗护符</content>
+	<content contentuid="h6e7c8566g481dg46f5gae3ag4a1af50974fc" version="1">这件物品在外观上令人恐惧，你一瞥之间就能辨别出它具有引人入胜的魔法属性。它很可能是通过与赤魔法师之一的交易而换手，或者是从他们冰冷的尸体中夺取的。你意识到这件珠宝在战斗中可能非常有利。（赤魔法师-FF14中的一种法师职业设定）</content>
+	<content contentuid="h4aacfb15g85d8g4be2g9693g2fc25a35e76b" version="1">血腥护符的未知力量</content>
+	<content contentuid="h33bba3f3geda8g4fc4gb42cg30b517b9c763" version="1">&lt;br&gt;&lt;LSTag Tooltip="Intimidation"&gt;恐吓&lt;/LSTag&gt;能力+[1]。如果你的&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;满格，你会开始燃烧。你的所有攻击造成额外[2]点伤害。该效果随着你的等级提升而增强。</content>
+	<content contentuid="he0afcb53g23adg4573ga82bg198ba3faba3c" version="1">水法师护符</content>
+	<content contentuid="h46671495gc199g4c62g89c4gbdc041918e75" version="1">你对这个佩戴着一颗巨大珍珠的不起眼护符产生了兴趣。它闪耀着海洋的色彩，给人一种海浪欲从中涌出的印象。仔细观察后，你推断出它是用于各种仪式的次要水法师护符之一。难道它可以被用来召唤一场沐浴吗？</content>
+	<content contentuid="hf0cbb66eg4abbg46f4g9188g9fe41129f614" version="1">守护水之符咒</content>
+	<content contentuid="h8da0b360g4104g4309g9977g4d65ad69034c" version="1">&lt;br&gt;当你受到伤害时，你会变得湿润，身边会形成一片[1]半径的水洼。这个效果不会使其他生物变湿。</content>
+	<content contentuid="ha6a1e070gb7b4g4625gb0f4gce0e6600d01b" version="1">侏儒时空机械装置</content>
+	<content contentuid="h97e3dab7gde03g4941g9fd0gb538e542d9e5" version="1">你从未遇到过如此奇妙的设备。它光滑的金属表面、精巧的机械手臂、各种旋钮和阴森昏暗的魔法之光，都显示出侏儒大师的工艺。你感到好奇，于是找个路过的侏儒询问这个物品的性质。他们很高兴地解释说，这是伟大的时空机械装置，能够启动、停止甚至穿越时间本身。然而，这个已经损坏了相当长一段时间了。</content>
+	<content contentuid="hefa418e9g64c3g480dgb73bgb1dc6aa34d0a" version="1">时空魔法的残留能量</content>
+	<content contentuid="h9d22bd79g4a4eg4b21g8e3egaf407c4e2391" version="1">&lt;br&gt;&lt;LSTag Tooltip="History"&gt;历史知识&lt;/LSTag&gt; +[1]，你的移动距离增加[2]。</content>
+	<content contentuid="h3f4e2d19g8a2dg417cg9a5fg043c943932df" version="1">死亡异界护符</content>
+	<content contentuid="h8c6d0f25g4a91g434dgb136g3b1b0ddb98dc" version="1">乍一看，这个护符似乎毫不起眼，被厚厚的污垢包裹着。然而，当它暴露在阳光下时，你会注意到金属并不反射普通的光线，而是散发出一种异界的苍白绿光。好奇驱使你深入研究古老的文献，那里揭示了令人不安的真相。显然，最好不要碰触这件物品，你的直觉建议要么将其丢弃，要么立即出售。</content>
+	<content contentuid="h13c182a6gabf6g4301g966ag1092929dac75" version="1">死神之息</content>
+	<content contentuid="h9ab43e33ge3f5g4187g9f9bg0cd73c1ac0f3" version="1">&lt;br&gt;&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;-[2]。当你对一个人形生物造成等于其最大生命值[1]%或更低的伤害时，他们立即受到[3]。该效果随着你的等级提升而增强。</content>
+	<content contentuid="hc3abaa56gc2e1g4ebdgb789g9fdc8c3e06ca" version="1">星界护符锁链</content>
+	<content contentuid="hc9447952g7da1g4d19g858fg775c9d25c1c4" version="1">当你凝视着这个破碎的古董护符锁链中无尽的虚空时，一种阴险的催眠笼罩住了你。意识到这件物品的危险性，你小心地将其藏在包袋中，它的神秘力量引领着你进一步探索。稍后，在对你毫无戒备的同伴进行更仔细的研究时，你发现了它丰富的历史。曾经是一件强大力量的载体，如今它的残余遗迹散落在世界各地，暗示了星界平面所蕴含的无限潜力，永远逃避着你的掌握。</content>
+	<content contentuid="he791853fg5330g4e4cg9b1eg32bb72b8d068" version="1">破碎的能量传送门</content>
+	<content contentuid="h9e2cf5eeg9609g4969gb2e7g90a12cf8fdf7" version="1">&lt;br&gt;对于造成低于[1]点伤害的攻击，你具有无敌效果，但在&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;中处于&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content>
+	<content contentuid="h201284a9g0a9eg4277g8789gc4cc7be901d0" version="1">萨满风暴护符</content>
+	<content contentuid="ha6335468gd3bcg4690gb34eg7baffb2d29b2" version="1">你迅速辨认出这个护符是部落萨满仪式的重要元素。通常，这类珠宝只有一种朴素的附魔，然而它蕴含了自然精华的痕迹，使它对各种领域的法师都具有价值。</content>
+	<content contentuid="hc945f9a1g80e3g4368gadefge455ccbf81db" version="1">助风符咒</content>
+	<content contentuid="h37126f54g5cc1g47bfg94e3g5101c8dc62f2" version="1">&lt;br&gt;I如果你的法术未命中目标，目标将受到[1]。</content>
+	<content contentuid="h449e7889gd107g4267ga9eag57289dd4ee09" version="1">黎明祭司护符</content>
+	<content contentuid="h0e8bd0b7g75dfg42f2gb2f0g7bca942488f7" version="1">一件无可挑剔的洁净物品！在你的所有旅行中，你从未遇到过如此清澈的珠宝；仿佛一粒灰尘都不敢落在上面。你试图用泥土弄脏这个魔法小装饰品，但它依然完好如初。在其中，一个耀眼的光芒似乎在水晶球内活跃起来，仿佛想要自由释放出来。很显然，除了其自我清洁的特性之外，这个护符还赋予佩戴者光明魔法的力量。</content>
+	<content contentuid="h4f822388gbfceg49a3g950dg4e07ea67b36a" version="1">灼烧之光</content>
+	<content contentuid="h43906867g4f59g4527gbbbfga518ef4e2a9b" version="1">每层该效果增加[1]，对任何攻击生效。</content>
+	<content contentuid="h3590b4bdg40f1g4fccgb6e7ga30ed75cc0fe" version="1">光明的净化力量</content>
+	<content contentuid="h58efea09g1d3ag43b0g9707ga54b33abcd6b" version="1">&lt;br&gt;每当你为盟友治疗时，会施加&lt;LSTag Type="Status" Tooltip="NECK32"&gt;"灼烧之光微粒"&lt;/LSTag&gt;效果于你身上（最多10层），使你能够每层该效果增加[1]点额外伤害。</content>
+	<content contentuid="ha4cbfc80gb64cg4b0ega13bgaa706e45ac9c" version="1">遗忘林地的吊坠</content>
+	<content contentuid="hd5f99e3eg5025g4524gbe1eg30b7a63adb5d" version="1">你无意间发现了一件极为古老的首饰，显然曾经属于德鲁伊林地之一。从它异常保存完好的状态来看，这个护符一定在一个被遗忘的社群的仪式中具有重大意义。包裹在树皮中的绿色石头似乎随着阳光的微光轻轻跳动，给予观看者一种仁慈的感觉。当你伸手触摸它时，自然的力量瞬间涌入你体内。但不禁让人想问一问，这件文物是否导致了它的创造者的命运的衰败？</content>
+	<content contentuid="h03741301g5271g4f62g8223g5abdc2a4f6f9" version="1">植物之友</content>
+	<content contentuid="h15898e29g0238g44b0g8e3ag016eca5928c5" version="1">&lt;br&gt;&lt;LSTag Tooltip="Nature"&gt;自然&lt;/LSTag&gt;+[1]，植被地形不再对你产生影响。</content>
+	<content contentuid="hea20b6f4g12e5g4851g82c7g4f9c4687f46a" version="1">多灵琥珀石</content>
+	<content contentuid="h2bfe661fg0c51g4802gb488gb6e73db8ba18" version="1">这颗琥珀石上有许多裂纹，给你带来持续的不安感。它看起来并不寻常，促使你展开了一系列旨在揭示其隐藏的魔法属性的实验。通过一系列复杂的测试，你做出了惊人的发现——这块石头对缺乏日光的反应异常，从内部散发出深红色的光芒。为了发挥它的魔力潜能，你意识到它必须紧贴你的头部附近。因此，你将一枚无瑕的银吊坠固定在了石头上。</content>
+	<content contentuid="hb2dbb97eg6fb0g4abfga996g8aa229400a9f" version="1">灵魂深红之光</content>
+	<content contentuid="h3e63b9b2g6ef0g454ag8825g062d73765f22" version="1">&lt;br&gt;当你没有暴露在阳光下时，你的&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;增加[1]。该效果随着你的等级提升而增强。</content>
+	<content contentuid="h3fc36c9fgd4abg4bffgba2agde1c05943227" version="1">至尊圣骑士护符</content>
+	<content contentuid="h2c82442dgd0a4g492ag83ceg6a4eee39c46d" version="1">你能清晰地回忆起无数手稿中的传说，每一篇都宣称存在着一个传奇的伟大法器，宣告道：“那些能够聚集至尊圣骑士所有遗物的人，将得以升华为神明。”-而现在，你面前的就是其中之一。它的精美力量环绕着你，而石头内部的明亮光芒强化着你的本质。最让你感到好奇的是，这个护符直到找到你之前一直处于休眠状态。这是命运的巧合，还是注定的安排？</content>
+	<content contentuid="h5cb847abgaf4dg4872g84d3g6d0557459fc8" version="1">神圣之力</content>
+	<content contentuid="h2dc57631gf148g4e70g8131g1feddb41067b" version="1">&lt;br&gt;当攻击一个未受伤的敌人时，你立即回复一半的&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;。你对死灵伤害具有&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
+	<content contentuid="h05307954g7b0ag48a5gba91g5c9ac924ef22" version="1">红光之吊坠</content>
+	<content contentuid="ha5d9bd78g88ddg469dg9663g61555f110ac2" version="1">当你凝视着这颗抛光得无瑕的红宝石时，你能察觉到宝石内部微妙的动作。仔细观察之下，你发现了一群微小的红色仙灵正在进行永无休止的环形舞蹈。受到你的目光惊吓，它们发出嘶嘶声，但很快恢复了镇定，并似乎愿意为你执行魔法。然而，它们究竟如何帮助你，还有待进一步观察。</content>
+	<content contentuid="h6645fe14g464ag4af5g9417g1b067865f093" version="1">红色仙灵魔法</content>
+	<content contentuid="h6a7fd847gdc99g493bg8966g6bac288020a6" version="1">每个回合结束时，你回复[1]。</content>
+	<content contentuid="hb69e9599g7dc7g4128g91eagdb37b9597b6c" version="1">仙灵迷人之舞</content>
+	<content contentuid="h3603ae99ge3ceg41a2g817cg09e1341ed1f7" version="1">&lt;br&gt;当你进入&lt;LSTag Type="Status" Tooltip="RAGE"&gt;狂暴&lt;/LSTag&gt;状态时，你获得&lt;LSTag Type="Status" Tooltip="NECK36"&gt;"红色仙灵魔法"&lt;/LSTag&gt;效果，持续[1]回合，在回合结束时，为自己恢复[2]（效果随你的等级而增强）。</content>
+	<content contentuid="h75be6665ga2c0g48efg8e7aga96b8cd1c011" version="1">宜梦吊坠</content>
+	<content contentuid="ha9e97090gb384g4aaag9400ga7913166368e" version="1">在略微烧焦的吊坠背面上，刻着厚实的字母：“愿佩戴此饰品者皆得心灵宁静”。显然，以往的佩戴者们最终都找到了内心的平静。然而，你对这件法器的激活方式感到困惑。也许最初附魔它的魔法师缺乏相关技术，或者在你获得之前，其他的魔法元素染污了这个吊坠。</content>
+	<content contentuid="h5149523eg4619g4be6g97c3g1f4f1a8bfba1" version="1">平静-火焰魔法</content>
+	<content contentuid="hb54b7e68g2870g46d9g83a0g0dae6dd9e464" version="1">&lt;br&gt;当站在覆盖着灰烬的表面上时，你在维持&lt;LSTag Tooltip="Concentration"&gt;专注&lt;/LSTag&gt;时对于保持集中力的&lt;LSTag Tooltip="SavingThrow"&gt;豁免掷骰&lt;/LSTag&gt;获得&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+	<content contentuid="hfc773b90g540cg4677gb307g4e4826b613be" version="1">武僧之魂吊坠</content>
+	<content contentuid="h5cf6cc78gcf63g4b4fga20ag0c5f1f670bc6" version="1">你徒劳地试图用手抓住这件首饰，但它不断溜走，仿佛涂了一层油一样。精美切割的翡翠闪耀着调皮的光芒，几乎在嘲笑你试图抓住它的努力。也许这件被附魔的首饰需要特别敏捷的手法？</content>
+	<content contentuid="hb54fd8b9g4fdcg43efg9879g3dd0df2b1ae5" version="1">邪恶灵魂的帮助</content>
+	<content contentuid="h9dbfbc41g5b20g4866g92a8ge31fb77e7c3c" version="1">根据武僧等级增加&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;。</content>
+	<content contentuid="hbb4268d0gfb4eg4b66g9f64g2b61bdf6fae0" version="1">魔法天青石吊坠</content>
+	<content contentuid="h49b81164g3b7ag440fga27fg4953111316ce" version="1">这颗历经沧桑的宝石很容易被辨认出来，它是一块古老的、具有魔力的天青石，对任何试图用魔法摧毁它的行为做出反应。其中一个比较显著的副作用是一旦激活，就会让附近的人陷入疯狂之中。然而，这个吊坠经过某人的改造，减轻了这些副作用的严重性，使其成为你宝贵的资产。</content>
+	<content contentuid="h9bdd68efga20ag402cga6fbg17b809e0fed5" version="1">天青石之怒</content>
+	<content contentuid="h078f4a5dg3379g4c03g911egd38a5c21cf10" version="1">每叠加一层此效果，你的&lt;LSTag Tooltip="SpellDifficultyClass"&gt;法术豁免 DC&lt;/LSTag&gt;值增加+[1]，但同时你每回合结束时也会承受 [2] 。</content>
+	<content contentuid="h592ce013gb779g458bg8fc1ge173124ec13c" version="1">调谐的魔法天青石</content>
+	<content contentuid="ha850c6e9gcc15g46f7gaac1g1178e0722887" version="1">&lt;br&gt;当受到法术伤害时，你获得“天青石之怒”效果，使你的&lt;LSTag Tooltip="SpellDifficultyClass"&gt;法术豁免 DC&lt;/LSTag&gt; 值增加 [1]。此外，在回合结束时，你会承受 [2] 。该效果可以叠加。</content>
+	<content contentuid="hc3ed30f7gbc3fg4f03g9835gb60f4a9e9853" version="1">窃思者护身符</content>
+	<content contentuid="h73392d7dgf1a7g485agaf9egb1f81be05609" version="1">这枚护身符中央的迷人珍珠令人难以自拔，沉醉于它所唤起的思绪之中。你摆脱这种迷人的魔力，佩戴上护身符。在那一刻，你感觉到这件神器先前曾窃取了你的思绪，并将其留存在其中。真是个恶作剧！除非你利用这种陌生的魔法来获取自己的利益。</content>
+	<content contentuid="hdfcb6aa1gb62cg4482g8ad1g9c47c0420a1a" version="1">征服弱点的魅力</content>
+	<content contentuid="h3f9935d9gdeb8g4a0bga5f5g3c13905daba4" version="1">&lt;br&gt;如果你的&lt;LSTag Tooltip="Wisdom"&gt;智慧&lt;/LSTag&gt;值大于 15，你在&lt;LSTag Tooltip="Wisdom"&gt;智慧&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityCheck"&gt;属性检定&lt;/LSTag&gt;中获得 +[1] 的加值。该效果随着你的等级提升而增强。</content>
+	<content contentuid="hcb216f91g2f4dg4268gb25dg6588b2f90912" version="1">美丽的钻石吊坠</content>
+	<content contentuid="h06c61283g9704g4127g970eg3a9ca39566dc" version="1">乍一看，这个精美制作的吊坠似乎没有任何特别的属性。你甚至试图咬钻石，结果只是弄掉了一块牙齿。一个普通的小装饰品，人们可能会这样想。然而，它的美丽简直迷人得令人陶醉……</content>
+	<content contentuid="hb7d260b7g15b4g4e3fg9c27g8e5b6635f723" version="1">极致自信</content>
+	<content contentuid="he5bef6fcgc5bbg43degafb2g0d36f4e4fb35" version="1">&lt;br&gt;&lt;LSTag Tooltip="Persuasion"&gt;说服力&lt;/LSTag&gt; +[1]&lt;br&gt;&lt;LSTag Tooltip="Performance"&gt;表演能力&lt;/LSTag&gt; +[1]</content>
+	<content contentuid="hde1952f4ga942g4fa9g8bd6g3e5875d408d9" version="1">侏儒机械戒指</content>
+	<content contentuid="h1d5189f0gd78eg4339g821eg56be439c980e" version="1">乍看之下，它似乎是一件精心制作的机械装置，内部蕴含着微妙的魔法。然而，没有明显的激活标志。突然，你注意到了凹槽和印记——也许这枚戒指还有另一部分？</content>
+	<content contentuid="hca22cca0g5a4bg4f56gab01gc3db1a3a2ad2" version="1">灵巧符咒</content>
+	<content contentuid="hd6f207ccg4b0fg4d31g9dc8gb7bc5d2bec86" version="1">&lt;br&gt;如果你佩戴侏儒机械戒指的第二部分，你将获得+1的&lt;LSTag Tooltip="Acrobatics"&gt;身手灵活度&lt;/LSTag&gt;和+1的&lt;LSTag Tooltip="SleightOfHand"&gt;巧手&lt;/LSTag&gt;技巧。同时，你的身形也会缩小。该效果随着你的等级而增强。</content>
+	<content contentuid="h5e6cb4e8gf564g4489g9aeag757934bbf2b2" version="1">侏儒机械零件</content>
+	<content contentuid="hdd69e646g98c4g4f2dgb6ccg3471695ad095" version="1">在你手中旋转着这个看似无用的铁制物件之后，你得出结论说这个侏儒的手工艺品可能对你没有即时的作用。但谁知道呢？也许还有其他用途。</content>
+	<content contentuid="h036699cag747ag41f8g9d01g7311074ff444" version="1">侏儒戏法</content>
+	<content contentuid="h6223a767gb500g4261gb67ag4968e68d95af" version="1">&lt;br&gt;你的身形变小了一些。</content>
+	<content contentuid="h5841740cgebb8g4080g913fgca25e958f6ec" version="1">恶毒汲命术之戒</content>
+	<content contentuid="h41c435b9ga326g4aedgb41bg3b5604f8fe61" version="1">这枚毫不起眼的戒指让你感到寒意袭上脊梁，仿佛它吸收了前任所有恶意魔法的气息。一旦你佩戴上它，你会不安地意识到在最危急的时刻，你可能会以伤害同伴来求得拯救。这是一个真正可怕的神器。</content>
+	<content contentuid="h8a549642gf148g4d44gb0f1gcd3e7118dcba" version="1">邪恶存在的精华</content>
+	<content contentuid="h1b4aacc1gcd8ag4d7dgb703gef64616c0c67" version="1">&lt;br&gt;当你临近死亡（低于[1]%）时，对盟友造成伤害时恢复[2]。该效果随着你的等级增强。</content>
+	<content contentuid="h66d0ba40g5c3eg4812g977dg35faa548cece" version="1">纪念戒指</content>
+	<content contentuid="hd1ddd911g7786g4413g8118g89f18c10e2d7" version="1">费了一些努力，你设法专注地看清了戒指内部的铭文：“从一位当地的巫师中获得魔法加持，请佩戴它带来好运！- O.E.”它似乎确实具有一种轻微的增强生命值的魔法。</content>
+	<content contentuid="h5b082f85gc1b5g4b7cg93d0ga7c17ea4e8f7" version="1">生命灵魂符咒</content>
+	<content contentuid="h31ebf751g35fag41b6ga940gd11612efcc0e" version="1">你的最大&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;增加[1]。该效果随着你的等级增强。获得+[2]点&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;属性加值。</content>
+	<content contentuid="h5c0b811cgea25g4498g9648g04a4d048241d" version="1">柳木戒指</content>
+	<content contentuid="h23d9d048gc6b9g4886gbc34ge968429072c3" version="1">你欣赏这枚戒指出色的特点：异常轻巧且令人难以置信的耐用。然而，你无法摆脱一种它可能拥有自然魅力的感觉。很快，当你接触到地面时，野生的藤蔓突然迸发而出，证实了你的直觉！</content>
+	<content contentuid="h9a73fedag36e4g4705g828fg5b200d3e1553" version="1">森林隐士符咒</content>
+	<content contentuid="h8be97f15g9982g4af9g9324ge1e7e17be27a" version="1">当你对敌人造成伤害时，你会在他们身下生成藤蔓。</content>
+	<content contentuid="hd1617d03g5a2fg4f55g89fdgb8f50e032c7c" version="1">孔雀石戒指</content>
+	<content contentuid="ha19ad787g1fa0g4c74g8466g6041795b082a" version="1">当你接触到这件珠宝时，你立刻感受到一股平静和智慧注入的能量。无尽深邃的孔雀石图案似乎揭示了新的冥想途径，让你洞察到魔法创造的本质。这个神器无疑是一件宝贵的纪念品！</content>
+	<content contentuid="h8f410befg108ag4f41g9e13g6885991ffe20" version="1">孔雀石的魔力</content>
+	<content contentuid="h825a6231g1a77g4842gadf6gf65ccf96a92f" version="1">&lt;br&gt;&lt;LSTag Tooltip="SpellDifficultyClass"&gt;法术豁免 DC&lt;/LSTag&gt; 值增加 +[1]</content>
+	<content contentuid="h2c7982b0g10a9g431dg924eg9e06d3976394" version="1">"沸腾海洋之心"</content>
+	<content contentuid="h6c3756e1gfc83g4b9eg83b8g5440c3f5a37f" version="1">你曾经听闻过这种神奇的矿石的传说。它被称为“沸腾海洋之心”，是一种强大的魔法矿石，据说曾由一个古老的水下王国在海底深处有限地开采而来。眼前的宝石具有独特的泡沫状结构，在触摸时散发出温暖的感觉，表明存在着各种各样的品种。</content>
+	<content contentuid="h561fb6bcg6188g4777g887cg537ea03c2d30" version="1">沸腾水之守护</content>
+	<content contentuid="hefa90e4bgaed1g47f4g8134ge9024686e773" version="1">你的&lt;LSTag Tooltip="ArmourClass"&gt;AC&lt;/LSTag&gt;增加+[1]。</content>
+	<content contentuid="h1482d1b6ge659g402dg95begc5b56a341079" version="1">沸腾海洋的魔法力量</content>
+	<content contentuid="h364dc1e2ga246g4b03g8087gadfac6f7171b" version="1">&lt;br&gt;你对冰冷伤害获得&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。当你进入水面时，你获得 &lt;LSTag Type="Status" Tooltip="RING07"&gt;"沸腾水之守护"&lt;/LSTag&gt;的效果，使你的&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;增加+[1]。</content>
+	<content contentuid="h0f6683a9ga7dag4210gb9bfgc18e6a08eb79" version="1">愤怒之戒</content>
+	<content contentuid="h5105132egb391g4a18gad67g59a6d36c927c" version="1">当你戴上这个戒指时，你的心突然充满了原由不明的愤怒。但如果你试图感受这个古怪的橡木戒指的魔法力量，它可以被控制并用于对付你的敌人。似乎曾经被一个强大的战斗法师使用过。</content>
+	<content contentuid="he2868093g7c5bg4043gbe5eg6189805c2f99" version="1">步步为营</content>
+	<content contentuid="hd4569e51g264eg4d63ga4ccgf611ef4f9523" version="1">&lt;br&gt;对伤害你的敌人造成[1]。效果随等级提升。</content>
+	<content contentuid="h29ccc0edga224g49afg8112g0b6bded31dcf" version="1">琥珀戒指</content>
+	<content contentuid="h5f6c4846gc5bcg463cg872bg072ba0312e32" version="1">你真的喜欢这枚布满灰尘的琥珀戒指。它似乎具有一种超出你理解的力量，彷彿是种不受限制的魔力。事实上：戴上戒指，你突然间身体变大了很多！你现在能举起沉重的石头！！</content>
+	<content contentuid="h67df49d7g89f0g4134g917cgc54b404b45ca" version="1">变巨术</content>
+	<content contentuid="h1dd906aag59f1g49dag84a5gec7473a6be25" version="1">&lt;br&gt;你增加了自己的体型和重量级别[1]。</content>
+	<content contentuid="hdec9144fgd0feg4b6bgba1ag149428af2a04" version="1">宫廷文臣戒指</content>
+	<content contentuid="h01a35719gdab0g4166g9db6gf0cef9d2e674" version="1">这个富丽堂皇的金属合金无声地诉说着一个故事——这枚戒指是在一个已经失落的先进帝国的皇家铸造厂中打造而成的。珠宝的艺术风格明显表明它是为上层阶级设计的，很可能是贵族集会的宫廷人士所佩戴的。而戒指上的魔法纹章则暗示着，这枚戒指不仅具有装饰性的美感，还隐藏着引人入胜的特殊属性。</content>
+	<content contentuid="h39219573g322ag4145gb1ffg16bbd3408d1f" version="1">流芳百世</content>
+	<content contentuid="h1126c1f4g09eeg4dc5g935fgebe0847a7145" version="1">&lt;br&gt;&lt;LSTag Tooltip="History"&gt;历史学&lt;/LSTag&gt; +[1]&lt;br&gt;&lt;LSTag Tooltip="Religion"&gt;宗教知识&lt;/LSTag&gt; +[1]</content>
+	<content contentuid="hf01c0fe1g8224g4dc1g811fg2d598a64d5b3" version="1">宫廷魔法师之戒</content>
+	<content contentuid="h7a619820g8710g4ea9g94ffg7fef74eb90ca" version="1">古代的皇家戒指之一。它由锡合金制成并镀金，尽管数百年以来有些镀金已经脱落了。根据其微微逸散的魔力，只能推测它曾经属于魔法师。 但戒指上描绘的是谁：国王还是魔法师？</content>
+	<content contentuid="h7ec7d67bg3db5g44f8g8c54g86843f9823e7" version="1">远古魔法纽带</content>
+	<content contentuid="hcbfb45cfg14acg4741g9635ga8d80bd8ff69" version="1">&lt;br&gt;你获得 +[1] 个等级 [1] 的&lt;LSTag Tooltip="SpellSlot"&gt;法术位&lt;/LSTag&gt;。</content>
+	<content contentuid="h869f7780g5507g4d93g9b57g71abfd7dbe59" version="1">原初符文戒指</content>
+	<content contentuid="h4855943eg06c7g4942g8b5dg012cfd40133e" version="1">你似乎偶然间发现了一枚存在最早的魔法戒指之一！虽然它的力量可能不算强大，但它的历史意义着实引人入胜。刻在上面的符文似乎能帮助佩戴者将能量引导到治愈的流动中。</content>
+	<content contentuid="h18c018e2gc0b6g4e64ga238gc4ee7c2ef05e" version="1">符文能量</content>
+	<content contentuid="hb31d233cg6b7fg4686gb51fg7a4a7fcea4c3" version="1">&lt;br&gt;如果你拥有&lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;闪电充能&lt;/LSTag&gt;状态，每当你受到伤害时，你每回合可以恢复[1]。该效果随着你的等级而增强。</content>
+	<content contentuid="h5e6da66agf91eg4a60ga278g4c757c031172" version="1">幽暗地域绯红戒指</content>
+	<content contentuid="hc076eb3bgc781g457dgb14egc46e3c502c72" version="1">一种不祥的直觉警告你，这个戒指是邪恶生物的创造物，但你无法抵挡将其戴在手指上的诱惑。瞬间，你陷入了一个噩梦般的幻境中。从黑暗深处，一个穿着阴影斗篷的黑暗精灵出现，并轻轻触摸你的额头，似乎赋予了你新的能力。当你醒来时，你感到自己变得更加强大，但有一种令人不安的迷雾笼罩着你的记忆，使你难以回忆起你的财物所在。</content>
+	<content contentuid="hfdd1e357ge33eg4513g9b65g4f840a8b652f" version="1">黑暗精灵巫师的精髓</content>
+	<content contentuid="heababb28g3ec8g49eegb1c1gfa4a427e3446" version="1">&lt;br&gt;&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt; +[1]&lt;br&gt;&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt; -[1]</content>
+	<content contentuid="h9f141726gcc5bg4a61ga50dg6d781d379072" version="1">幽暗地域幽蓝戒指</content>
+	<content contentuid="h129a1908g78a4g4272gbd46g307db9a5e3f3" version="1">一种不安的感觉在你心头萦绕，暗示着这个戒指是邪恶生物的创造物。尽管你存有疑虑，但你决定将其戴上手指。就在那一刻，你陷入了一个噩梦般的幻境中，在那里，一个身披黑暗长袍的黑暗精灵从阴影中显现出来，轻轻触碰着你的额头，似乎赋予你全新的能力。当你醒来时，你感到自己获得了提前预知事件的能力，但不知怎么地，你无法解除先前的负担。</content>
+	<content contentuid="ha5ec7dbfgdd1cg463cg9eb2ga4dc0e1d9348" version="1">黑暗精灵巫师的精华</content>
+	<content contentuid="hd99b92d7ga8d5g475ag88a8g83a719bdcec9" version="1">&lt;br&gt;&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt; +[1]&lt;br&gt;&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt; -[1]</content>
+	<content contentuid="h37418003g3f79g4f04g9444g44d4050ebba4" version="1">古老的运动戒指</content>
+	<content contentuid="h2287ed89gc03eg4190ga133g902c47b11828" version="1">从它磨损的外观来看，这枚青铜戒指显然经受住了时间的考验，已经流传了超过十几代人。戒指上装饰着一些你不熟悉的符号，当你将戒指戴在手指上时，这些符号会短暂地闪烁着耀眼的白光，然后消失，留下一股神秘的新力量涌入你体内。</content>
+	<content contentuid="he0274b4egc546g4ef8gb64bg35a3750ec806" version="1">冒名者符咒</content>
+	<content contentuid="he49a391fg87dbg4f8ag8f94g4020e22024de" version="1">&lt;br&gt;你的&lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;跳跃&lt;/LSTag&gt;距离增加 [1]。</content>
+	<content contentuid="hca3295a6g65cdg4786g8710g603904586bde" version="1">助产士戒指</content>
+	<content contentuid="hdba5a550g090dg4801g929egfbd0f00cb05a" version="1">从头饰来看，似乎是一张古代侍女的玉面。 它很可能是精灵助产士用来帮助孕产妇分娩的魔力戒指之一。 你并不是需要生孩子，但戒指上的魔法可能会派上用场。</content>
+	<content contentuid="hb69d118fgd011g4ceag9c63g8462e8336115" version="1">爱怜之抚</content>
+	<content contentuid="hf6c7af2fg3cfeg4501gabf9g25f7f6f6e224" version="1">在你的回合结束时，你会恢复[1]。受到伤害将会中断此效果。</content>
+	<content contentuid="hbaafea21g1a86g4e0agb9fag50f7e38866cb" version="1">轻松分娩的魔法</content>
+	<content contentuid="h7657f8dfgdf0ag485fgbc93g28d14d9b765e" version="1">&lt;br&gt;当你使用法术治疗时,同时对你的目标施加&lt;LSTag Type="Status" Tooltip="RING16"&gt;"爱怜之抚"&lt;/LSTag&gt;效果，持续[2]回合,期间每回合恢复[1]。受到伤害将会中断此效果。</content>
+	<content contentuid="h30e357bagea1fg4693ga1c4ga6a9eafa54d7" version="1">宫廷剑术大师戒指</content>
+	<content contentuid="h0e755bf6gf0afg4b68g960bg1810a1bb08a3" version="1">这枚精美而功能强大的戒指轻松地适应了你手指的大小。当你仔细观察时，你会注意到一丝微弱的魔法气息——这是这件神器曾经的力量的遗迹，很可能曾属于一位贵族宫廷的所有物。你好奇地测试了它的效果：戒指的魔法似乎与你的动作同步，仿佛一位剑术大师的灵魂在帮助你进行攻击。</content>
+	<content contentuid="h8fc58bc8gc3c5g49f0gb982g7509b537c030" version="1">精准剑术魔法</content>
+	<content contentuid="he3ec9e29gceb2g4d67gbd51g04120164e884" version="1">每一层此效果，你在近战攻击中额外造成 [1] 。如果你未命中目标，此效果将移除。</content>
+	<content contentuid="h3d922c05g9ee8g4a5cg9a00g64ad56278c91" version="1">持续攻击符咒</content>
+	<content contentuid="hb84e0a72g469dg4764g9ae8g3dac924a0f41" version="1">&lt;br&gt;每回合一次，当你用近战攻击对敌人造成伤害时，你将获得&lt;LSTag Type="Status" Tooltip="RING17"&gt;"精准剑术魔法"&lt;/LSTag&gt;的效果，使你的近战攻击额外增加 [1] 。这个效果可以叠加，随着你的等级增强，但在未命中时会被移除。</content>
+	<content contentuid="hdb51c4d2g401eg4d2bgb2fag6dd2f9c8a1f7" version="1">风暴召唤者之戒</content>
+	<content contentuid="hc26b6d60g282dg484cgb51bgf91bd381d38b" version="1">这枚古老的戒指令人难以移开目光。戒指中心的凹槽散发出明亮的风暴般的光芒，无疑暗示了它的魔法力量。经过数小时的彻底测试，你推断出这件神器是由一位风暴萨满制作的，他们深度与元素相连，并擅长将其注入到魔法物品中。毫无疑问，这是一件值得进一步探索的迷人物品。</content>
+	<content contentuid="he6abd98fg659dg4526g880cg38f553b1c08e" version="1">风暴精华</content>
+	<content contentuid="h81469e86gb098g4547g9d42gaa10b77a6659" version="1">&lt;br&gt;当你对非大型敌人造成近战伤害时，有 [3]% 的几率通过戒指的雷鸣魔法将他们击退 [2] 的距离。</content>
+	<content contentuid="h45c01a40g0a09g4535gae84g8150db886704" version="1">萝丝女神追随者之戒</content>
+	<content contentuid="h4cb152e2gb5abg42b4gb2cbgaeb404181571" version="1">这枚戒指由一颗深红色的红宝石制成，似乎属于暗黑世界。这枚戒指散发着阴谋、欺骗、死亡的气息。它可能还处于休眠状态，但你已经能感觉到它恶意的魔力正试图挣脱束缚。你肯定这枚戒指会给你带来很多难以预料的惊喜。（萝丝Lolth 原名 阿罗诗Araushnee，原为柯瑞隆·拉瑞斯安的配偶、维伦与伊莉丝翠之母。此外，她也是席文塔姆 的祖母，坎普托（未被她带入国度天宇晶壁系）则是她的面首。）</content>
+	<content contentuid="h3adbe3b0g4b00g49bagb444g1a6859f012c7" version="1">无尽阴谋之精华</content>
+	<content contentuid="h0f564d20g06b4g4c88gb957g20dabd595072" version="1">&lt;br&gt;&lt;LSTag Tooltip="Deception"&gt;欺诈&lt;/LSTag&gt; +[1]。对蜘蛛进行攻击时，你的&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;处于&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content>
+	<content contentuid="hefb2108bg1bf8g4b5cgbeefg9991a9e99706" version="1">耶诺古（豺狼人首领）之戒</content>
+	<content contentuid="h17a46c52g9e22g40ccg8b19g893baf4bf3b5" version="1">这枚戒指的邪恶外观让你深感吸引，仿佛它特别为一个真正可怕的形象而定制。经过深思熟虑，你谨慎地戴上了这枚戒指，起初似乎没有什么变化。然而，随着时间的推移，你注意到一种越来越强烈的烦躁感，最终在一次不幸的事件中，你在愤怒中意外打碎了心爱的瓶子。通过各种测试，显然这个珠宝可能是由一个被放逐的侍奉耶诺古的人创造和附魔的，随后传给了一只扭曲了这个神器魔力的豺狼人，目的只有一个：杀戮。（豺狼人之王耶诺古(Yeenoghu,Prince of Gnolls)是桌面游戏《龙与地下城》所设定的无底深渊第422层领主，绝大多数豺狼人都是它的子民。）</content>
+	<content contentuid="h78b2b66bgd24bg411dg89a8g66ac3f6d812c" version="1">嗜血之力</content>
+	<content contentuid="hd15a55fcg479fg4b86g8157ga08eae40c8b5" version="1">你额外获得 [1] 个&lt;LSTag Tooltip="Action"&gt;行动点&lt;/LSTag&gt;，但进行&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;时会有 [2] 的惩罚。</content>
+	<content contentuid="h213b77bagab3dg4bc9gb832gff5c4bd36272" version="1">嗜血斩杀者之精华</content>
+	<content contentuid="h57ee63c8g54cdg4b41ga459g8c863943f6c6" version="1">&lt;br&gt;当你对敌人造成重击时，你进入&lt;LSTag Type="Status" Tooltip="RING20"&gt;"嗜血狂乱"&lt;/LSTag&gt;状态 [1] 回合，使你能够频繁攻击，但会变得不稳定。</content>
+	<content contentuid="hb379e12ege3a4g431dg9224gbeddf9c9d01a" version="1">毒蛇玛瑙戒指</content>
+	<content contentuid="h4f65f01ag2f72g41cfg98b7gb88655fa4f90" version="1">这枚精致抛光的戒指闪耀着明亮的光芒，与其周围的黑暗形成鲜明对比。近距离观察揭示了精妙的细节，仿佛模仿蛇皮的纹理，巧夺天工地制作而成。乍一看，它似乎是一个普通的小饰品，但当你握住戒指并低声诵唱激活其魔力所需的咒语时，一股强烈而灼热的痛苦穿过你的手掌。很明显，这件神器拥有强大的魔法，并追求对那些冒犯它主人的人进行报复。现在的问题是，你如何能够驾驭它呢？</content>
+	<content contentuid="hed1d5957g6085g424aga202g7d9cf0a3f906" version="1">复仇之毒</content>
+	<content contentuid="h2218a9a2g49ebg4fb1g83aagfafed0c043ca" version="1">每回合你受到由复仇心切的幽灵蝰蛇咬伤，所导致的 [1] ！</content>
+	<content contentuid="h1e3e093cg69d1g42f5g9c6fg9384697588a1" version="1">复仇之毒的诅咒</content>
+	<content contentuid="hcaf53c12g681dg4994g86b6g1c30737d0639" version="1">&lt;br&gt;当你处于&lt;LSTag Tooltip="倒地"&gt;Downed&lt;/LSTag&gt;状态时，杀死你的人会受到&lt;LSTag Type="Status" Tooltip="RING21"&gt;"复仇之毒"&lt;/LSTag&gt;的诅咒，持续 [1] 回合。</content>
+	<content contentuid="hfcdfa8e2g9c95g491egb31fgc33f418a3ca5" version="1">干燥粘液戒指</content>
+	<content contentuid="hb6696cedg1213g4feag9c54gbab03a58da6b" version="1">这枚戒指上的厚重、令人厌恶的绿色粘液让你不敢凝视，本能地警告着你不要接触。如果在粘液下有一个戒指，它无疑已经被某种溶解物侵蚀了。仔细检查后，显然这枚戒指曾经拥有强大的魔法附魔，但在某个时刻，它遇到了一只吞噬了它的蛞蝓。这种神秘的融合似乎为这个神器解锁了全新的可能性。</content>
+	<content contentuid="h6957b7f6gc00cg4f8bgae04g0c99922571c1" version="1">酸液飞溅</content>
+	<content contentuid="h8d147bcbgcd2dg45e6gb15fgd0b6deb83d4d" version="1">每回合，半径 [1] 范围内的所有非盟友生物受到 [2] 。</content>
+	<content contentuid="h3d523085ga75eg43fbgb5f5g4fc5110ce1a1" version="1">酸液</content>
+	<content contentuid="hda5b6097g909eg4715g96f8gcb9d32844742" version="1">当生物距离粘液戒指 [1] 范围内时，它们会受到伤害。</content>
+	<content contentuid="hf2ba4a14g9e92g436dg9b0eg9e5cf26b1588" version="1">酸性回缩</content>
+	<content contentuid="h2cd5c4e3gcc8dg46acgb64bg38ad169bdaa3" version="1">&lt;br&gt;当站在酸性表面上时，你获得&lt;LSTag Type="Status" Tooltip="RING22AURA"&gt;"酸液飞溅"&lt;/LSTag&gt;的效果，对半径为 [1] 范围内的所有非盟友生物造成 [2]。</content>
+	<content contentuid="h4e7862c4gf6fbg48edgbdd3g93835896dde4" version="1">石英戒指</content>
+	<content contentuid="h8bcb0140g163fg4b53gbce8gb3040b8f6039" version="1">显然，这枚戒指是匆忙制作的，以容纳嵌入其中的附魔石英。先前的主人和戒指的目的仍然笼罩在神秘之中，但戒指强大的魔法气息立即显而易见。然而，这种新发现的能量似乎散发着一股你从未遇到过的邪恶力量。被它的力量所吸引，你花了数日时间研究这块石头，它不断揭示出新的魔法奥秘。问题仍然存在，你是否敢于驾驭它的力量？</content>
+	<content contentuid="hd7ba78begcebcg4605g836dg86ff802063bc" version="1">纯净魔法的低语</content>
+	<content contentuid="h4978f780g8766g43b6gbcfcg1c4bb306c8e8" version="1">&lt;br&gt;&lt;LSTag Tooltip="Arcana"&gt;奥术&lt;/LSTag&gt; +[1]。在攻击时，你有 [2]% 的几率给目标造成 [3]，并给自己带来 [4]。这个效果随着你的等级而变化。</content>
+	<content contentuid="h81a95b59g4664g40bbga514g09865a76a5b9" version="1">荷鲁斯-太阳神牧师之戒</content>
+	<content contentuid="h54b18eebgd675g4cb8gb60fg1963e5c462ee" version="1">你紧握着黄金黄水晶戒指，它的重量无法察觉，一种熟悉而又强大的符咒。它不会被划伤或折断；任何试图破坏它的行为都会导致武器毫发无损地反弹开。随着时间的流逝，你意识到黄水晶在直射阳光下最为明亮。在灼热的太阳下戴上它，你突然感受到太阳的能量涌入你的心灵。一个更高的力量评估着你的坚韧，稍作停顿后，在你周围形成了一道充满太阳能量的魔法圆顶。（荷鲁斯-雷Horus-Re 是穆尔霍兰德神系的主神，由荷鲁斯神和拉的显现体雷融合而成。他拥有太阳之主Lord of the Sun，复仇之主Master of Vengeance，穆尔霍兰德统治者Ruler of Mulhorand，诸神的法老Pharaoh of the Gods，（相对次要）普来亚铎保护者Protector of the Priador，塞斯克监督者Overseer of Thesk，参法守卫者Guardian of Semphar）</content>
+	<content contentuid="hb3d22c55gd710g4493gbde8gd9ca5c916317" version="1">太阳能量护罩</content>
+	<content contentuid="hf2fb6bd8gba5eg49acgb6b7g27583ffe6dad" version="1">攻击者需要造成超过 [2] 点伤害才能对你造成伤害。每个回合开始时，你会受到 [3]。这个效果持续的时间取决于你与黄水晶戒指佩戴者之间的距离不超过 [1]。</content>
+	<content contentuid="h480db9a5g3f46g400fgba10g576602f0216a" version="1">倾听太阳的人</content>
+	<content contentuid="hd075ca96gfe0cg4b4cgbee0g2bfb19d77040" version="1">&lt;br&gt;在阳光下，你和半径为 [2] 范围内的盟友获得&lt;LSTag Type="Status" Tooltip="RING24"&gt;"太阳能量护罩"&lt;/LSTag&gt;的效果。你的&lt;br&gt;&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;必须高于 [1] 才能激活该效果。正面和负面效果会随着你的等级而变化。</content>
+	<content contentuid="hbfa58e44g1d71g4094g9fd0g7cc171ea9ed8" version="1">皇家信使之戒</content>
+	<content contentuid="h972bc391ga585g430eg84abg0360b6faf801" version="1">这枚精细抛光的铜戒指描绘着一个风华正茂的英俊年轻人。尽管它是由铜制成，但戒指上却有着精美的设计，显然是在皇家工坊里精心制作而成。它很可能曾经装饰过一位信使的手指，该信使负责传递那些重要国家文件。然而，这件小饰品是否具有任何力量仍然是一个谜。</content>
+	<content contentuid="h5f8cdd8fg4623g4279g86b8g84a5ec42ab78" version="1">轻如鸿毛</content>
+	<content contentuid="hfea293efg1d80g4f45g8669g298f6317299c" version="1">每一层该效果给予你 +[1] 的额外&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级（AC）&lt;/LSTag&gt;。</content>
+	<content contentuid="h659a8dccgc46dg4148g8abag5f7ecf400fc8" version="1">轻如鸿毛之符咒</content>
+	<content contentuid="h88d9b6c0gd628g4921gbbaage3d7d07ccb43" version="1">&lt;br&gt;你的体重级别减少 [2]。当受到敌人的攻击时，你有 [3]% 的几率在你回合开始之前获得&lt;LSTag Type="Status" Tooltip="RING25"&gt;"轻如鸿毛"&lt;/LSTag&gt;的效果。这个效果可以叠加。</content>
+	<content contentuid="h67ee0e0cgac07g4f20gb14cg95da7b7f6fd8" version="1">云雾之戒</content>
+	<content contentuid="hc4caf867g47fdg442cga8d5g69069e375529" version="1">这件奇特的珠宝更像是一个烟环，就像你吹烟时从嘴里吹出的那种，但在光线的照射下，它显露出神秘的本质。在半透明的玻璃般物质中，一缕带着蓝色的异世烟雾旋转，迷住了你的感官。当你将戒指滑到手指上时，你感觉它开始与你自身的生命能量产生共鸣。现在，问题来了——如何唤醒戒指潜藏的力量呢？</content>
+	<content contentuid="hff4cea47gb5c6g4627g9333gf57bcba8f646" version="1">云雾精华</content>
+	<content contentuid="hcb9cc48bg8f40g40d5g8effg843ec4a8c7cf" version="1">&lt;br&gt;当敌人对你造成伤害时，你有 [3]% 的几率在 [2] 个回合内变得&lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;隐形&lt;/LSTag&gt;。你的最大&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;减少 [1]。这些效果和持续时间会随着你的等级而变化。</content>
+	<content contentuid="h3b834799g259eg4e34g9bcfg1d23868e3bcf" version="1">矮人兽人拷问戒指</content>
+	<content contentuid="h2e1c7087g82a2g4826g887eg6864abc494f6" version="1">当你握住这个戒指时，它会剧烈地震颤——你感觉自己的身体开始与这个奇特物品的节奏同步。震动的强度非常显著。这很可能是一枚矮人兽人拷问戒指，通常由行刑者用于更加残酷的处决。你思考着是否有可能调整戒指的附魔，赋予它更实用的属性。毕竟，你并没有打算将其用于拷问……或者你真的没有这样的意图吗？</content>
+	<content contentuid="hd28ab6a2ga3ccg41cag8d26g1ef15fd4d052" version="1">改造后的矮人兽人之力</content>
+	<content contentuid="h668dc7afg1412g4240ga373g6cc1c2d1021e" version="1">&lt;br&gt;在跳跃时，在进行&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之前的一次，你会对起点和着陆点范围内的所有敌人和物体造成 [1] ，并使它们变为&lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒伏&lt;/LSTag&gt;状态。此效果影响半径为 [2]。</content>
+	<content contentuid="hdb86b3bbg7596g4455g88d9gd5b5ac481a1e" version="1">食尸鬼之戒</content>
+	<content contentuid="hcb5a33f1gda20g4b9cga01ag36c42e181610" version="1">这枚戒指散发着令人难以忍受的腐肉气味。尽管你试图清洁它，但那种气味仍然顽固地挥之不去，透露出强大的魔法力量。经过详细调查，发现它与一种恶意的做法有着不可思议的联系，涉及食用人类肉体。显然，戒指上的符咒使佩戴者能够忍受腐烂物质的消化。</content>
+	<content contentuid="h0ca15e4cg37d3g40f1gb1a5ge6dc3d2d3ef1" version="1">食尸鬼之力</content>
+	<content contentuid="h49c7cc3ag9dbfg478bg9c2fg1a946fc0440e" version="1">&lt;br&gt;每当你杀死或对一个人型目标造成重击时，你获得 [1]。这个效果会随着你的等级而增强。</content>
+	<content contentuid="h7091fdb1g0087g4557ga1b6g6256ae96f66e" version="1">星辰梦境之戒</content>
+	<content contentuid="h9e81313bgc5b9g429ag976fg8b3dbbddcf29" version="1">这枚庄重的紫水晶戒指仿佛命运之手将其带到了你面前。直觉促使你将它滑到手指上，你听从了这个奇特的建议。作为回应，戒指散发出耀眼的闪光，将你沐浴在明亮的淡紫色光芒中。片刻之后，你发现自己正在顽强地对抗由这件魔法物品附加的昏昏欲睡感。当你战胜了入睡的冲动时，一股明显的魔法能量通过你全身涌动。</content>
+	<content contentuid="h59719d10gbefeg4879g9c7cg905c0cb9eba9" version="1">星辰滋养之符咒</content>
+	<content contentuid="hf58ca832g6314g4d69g83f2gd42f763a4f00" version="1">&lt;br&gt;你的&lt;LSTag Tooltip="SpellDifficultyClass"&gt;法术豁免 DC&lt;/LSTag&gt;值增加 [1]，但每个战斗回合中必须通过一次 [2] 的&lt;LSTag Tooltip="Wisdom"&gt;智力&lt;/LSTag&gt;LSTag Tooltip="SavingThrow"&gt;豁免投骰&lt;/LSTag&gt;才能避免进入&lt;LSTag Type="Status" Tooltip="SLEEPING"&gt;睡眠&lt;/LSTag&gt;状态。</content>
+	<content contentuid="h65734b41gf750g4ffag9cabg613cde378b99" version="1">王师之戒</content>
+	<content contentuid="hcc367a51gfc45g4036gbcd4gcdd314cdf243" version="1">这枚色彩鲜艳的木质戒指似乎经历了无数次冒险，但仍保持着近乎完美的状态。一种隐隐的奇特感促使你深入探究它的真正本质。在研究众多关于古代神器的文献后，你得出结论，你现在拥有的是一件曾属于一位古老武术大师的魔法遗物。这位大师的身份和他们所练习的武术将永远被历史的迷雾所笼罩。然而，你决心为这个神秘的物品找到一个目的；不管怎样，总会有办法的。</content>
+	<content contentuid="ha200d5d8g9942g4e15gb60ag84171aa78b7e" version="1">掌握的隐秘奥义</content>
+	<content contentuid="h7a7d43b3gb7b7g4310gb60cgde93fb2214da" version="1">&lt;br&gt;你获得&lt;LSTag Tooltip="WeaponProficiency"&gt;简易武器的熟练度&lt;/LSTag&gt;。</content>
+	<content contentuid="h7e95f74dgb845g4d62gb169g08e75eb0bb6c" version="1">部落护符</content>
+	<content contentuid="h67725adag9983g49b5gb3c5g4358f6c2bb63" version="1">这枚精美的戒指以神秘的犀牛形状制作而成，立刻吸引了你的注意。起初，当你第一次戴上它时，并没有什么特别的事情发生。然而，在一次奔跑中，你意外地成为了过去被困在这个法器中的受折磨的灵魂的主人；他们共同存在的力量试图侵蚀你的理智。显然，这是一个非常古老的物品，曾经被一个部落用于像奴隶猎取这样黑暗的目的。现在，你必须找到一种方法来引导和控制这股强大的能量。</content>
+	<content contentuid="h4540e0f8g8d0dg4145g9c5fg0799354da007" version="1">灵魂之怒</content>
+	<content contentuid="h0e87a7f1gc80fg4428gb935g34e296d859fa" version="1">你的近战武器&lt;LSTag Tooltip="AttackRoll"&gt;攻击投骰&lt;/LSTag&gt;获得+[1] 的加值，但每个回合结束时受到 [2]。</content>
+	<content contentuid="hce90bf3bg57deg4ba1g9299gaa119de09734" version="1">远古灵魂能量</content>
+	<content contentuid="h7302c50egdcb4g4b34g8d31gcac818bb673b" version="1">&lt;br&gt;使用&lt;LSTag Type="Spell" Tooltip="Shout_Dash"&gt;冲刺&lt;/LSTag&gt;技能时，你有 [1]% 的几率获得&lt;LSTag Type="Status" Tooltip="RING31"&gt;"灵魂之怒"&lt;/LSTag&gt;效果。这个效果会随着你的等级而增强。</content>
+	<content contentuid="hffc093fagf562g42d4g8f22g13fcf833c741" version="1">烈焰之戒</content>
+	<content contentuid="hc41b7675gec8fg4d27gad35g3d00a253909b" version="1">你被这块宝石所吸引，它的魔法力量显而易见。戒指的材质散发着火焰的强烈能量，宛如地狱之火在宝石中疯狂旋转。毫不犹豫地，你立刻激活了这件古老而强大的神器。</content>
+	<content contentuid="h016bcc8egfbb9g4361g99a4gfe655f47563b" version="1">内心燃烧之力</content>
+	<content contentuid="h2efec210g17a4g406bg8221g7f52032814ab" version="1">生物在身下留下火焰的坑洼，自身被燃烧。如果在此效果结束之前生物死亡，它会引发一个半径为 [2] 的火焰冲击波，对周围区域造成 [1] 。</content>
+	<content contentuid="h26691473g0a56g4119g88f1g1a14cef19e02" version="1">强大火焰之力</content>
+	<content contentuid="h201b6b96g4624g4146g9a2ag74b0285a5f0c" version="1">&lt;br&gt;当你用法术对敌人造成伤害时，有 [1]% 的几率让他们进入&lt;LSTag Type="Status" Tooltip="RING32"&gt;"内心燃烧"&lt;/LSTag&gt;状态，持续 [2] 回合。</content>
+	<content contentuid="h05a0d939gcf73g4329g91ecg94c052965df8" version="1">松针戒指</content>
+	<content contentuid="h4daa73a5gac38g4dd3g9d75g63028d33e553" version="1">最初，这枚由编织的松针制成的精致戒指看起来毫不起眼，既不珍贵也没有魔力。然而，某种力量促使你捡起它并戴在手指上。你戴了它几天，对它似乎没有任何效果感到越来越沮丧。就在考虑要丢弃这个小玩意的时候，松针突然自行排列成一个微小的树灵形象，乞求你不要将她抛弃在尘土飞扬的箱子中，并承诺回报你的帮助。这让你感到困惑，因为你听说过树灵是与树木相连的，那么她怎么会存在于这些松针之中呢？</content>
+	<content contentuid="h30a730d1g7e62g4b33gaab6g88407dbb369e" version="1">幸运树灵的援助</content>
+	<content contentuid="h32d6a2cfga57ag4b55g87c3g7fee5763b69d" version="1">&lt;br&gt;只要你没有受伤，你会对火焰变得&lt;LSTag Tooltip="Vulnerable"&gt;易伤&lt;/LSTag&gt;，并且在远程武器&lt;LSTag Tooltip="AttackRoll"&gt;攻击骰&lt;/LSTag&gt;上获得+[1] 的加值。这个效果会随着你的等级而增强。</content>
+	<content contentuid="h21f5abcegbf22g40f7gbe77ge75f7e8670c1" version="1">人类队长之戒</content>
+	<content contentuid="h8515548eg7c9ag441bgb02bg7a0e378c3032" version="1">这枚精美的戒指以纯银打造，上面镶嵌着一个高度详细的狮头图案，无声地讲述着它先前主人的故事。如此精致的珠宝通常不是普通人能够拥有的。你的推断是合理的：首先，这枚戒指很可能是由人类制作的；其次，它可能曾经佩戴在一位贵族士兵手指上，甚至是城镇警卫队队长的手上。值得注意的是，自从戴上这枚戒指之后，你发现自己的睡眠质量有所提高，并且它对你产生了积极的影响。</content>
+	<content contentuid="hba4ac421g1dc7g4979g9cd0gf469c6225e89" version="1">积极态度</content>
+	<content contentuid="hfea656b2g5d90g44d8gb9efgb20b2c42e53c" version="1">&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt; +[1]</content>
+	<content contentuid="h2579252dg554dg4df0g9e91gdc1f691e287d" version="1">人类的魅力</content>
+	<content contentuid="he5b2a957ge3f1g4477g810bgb7d8ebc69e55" version="1">&lt;br&gt;在一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之后，你会立即获得 [1] 回合的&lt;LSTag Type="Status" Tooltip="RING34"&gt;"积极态度"&lt;/LSTag&gt;效果。效果持续时间随着你的等级而增长。</content>
+	<content contentuid="ha88d91aagd85dg4fb1ga822ge5e35b280386" version="1">长寿之戒</content>
+	<content contentuid="hc9e1dc3eg3936g4545g836ag8dc447d20623" version="1">这枚戒指无需学者也能知道它是精灵的杰作。他们对珠宝制作的掌握以及将艺术与功能融为一体的能力是不可置疑的。戒指坚固的合金甚至可以承受剑的全力冲击，而心形的黄色宝石似乎象征着大自然节奏的本源。当你戴上它时，你感觉到戒指蕴藏着丰富的生命能量，但除非靠近水源，否则它将保持沉睡状态。</content>
+	<content contentuid="h5c55e4begaee6g4f87gb8afgd8b7441f92a8" version="1">生命精华之蓄能器</content>
+	<content contentuid="h4744c137g6482g418cgaf9cg025ba3dc43ee" version="1">当你位于水面上时，有 [2]% 的几率每回合恢复 [1] 。这个效果会随着你的等级而增强。</content>
+	<content contentuid="hbfcf43bbg038bg4952g8b67gaa0d01cc6f2c" version="1">石化之力戒指</content>
+	<content contentuid="h24b6e629g8da9g4c26gb9adge81a67107f96" version="1">这枚附魔戒指很可能源自地下世界的深处。它粗糙的表面和粗略融化的金质内核暗示着它的出处，可能是由矮人、地底侏儒或甚至黑暗精灵制作而成。无论是谁打造了这个非凡的神器，它似乎是为邪恶目的而锻造的，内含着一股恶毒的魔力。</content>
+	<content contentuid="h59f917dfgace5g4912ga07ag052b5fefb483" version="1">岩石之力</content>
+	<content contentuid="h60aedab5gc5f9g4130g8555gc96e04720982" version="1">&lt;br&gt;当在阳光之外时，你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;增加+[2]，但每个战斗回合都被迫进行成功的 &lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;豁免投骰&lt;/LSTag&gt;([1])，以避免永久变为&lt;LSTag Type="Status" Tooltip="PETRIFIED"&gt;石化&lt;/LSTag&gt;状态。</content>
+	<content contentuid="he5fb9bc5g7b95g4bf8g8ceeg15b14aeec069" version="1">巴尔杜尔贵族之戒</content>
+	<content contentuid="h2be4b93cg4170g4cedga392gcf6223ce4c3a" version="1">T这枚古老的戒指以优质的银合金制成，并镶嵌着紫色宝石，与其外观一样令人眼花缭乱。据你所知，这是巴尔杜尔贵族以其残酷而高贵的精致风格而著称的类型。此外，当你戴上它时，这件饰品大大提高了你撒谎的说服力！无疑，这是你收藏中的一件精美之作。</content>
+	<content contentuid="h4121eb91gb735g496dg9906g2bbed8feef29" version="1">天生阴谋家的魅力</content>
+	<content contentuid="h91cc148bga3b5g4691gb04egd6f1580b1096" version="1">&lt;br&gt;你在&lt;LSTag Tooltip="Deception"&gt;欺骗&lt;/LSTag&gt;检定上获得&lt;LSTag Tooltip="Proficiency"&gt;熟练项&lt;/LSTag&gt;和&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+	<content contentuid="haa485490g0252g44d7gb7d5ge0303a020289" version="1">游侠夏伦蒂之戒</content>
+	<content contentuid="h0ad3eb1fg7725g4cf8g8cccg55678b45e0a7" version="1">这枚戒指上的暗淡绿色宝石也许已经褪色，但在合适的人手中仍然蕴藏着强大的力量。深入研究这件神器的魔法，你揭开了它引人入胜的历史。它曾属于一位名叫夏兰缇尔的人物，而戒指内部的附魔是埃尔明斯特亲自赋予她的奖赏，以表彰她过去的功绩。</content>
+	<content contentuid="hc26b0db2gfebdg41c4gafa9g330c1a7eeeb1" version="1">碎袭魅力</content>
+	<content contentuid="he5bab3e3ga968g4b97ga7efg1599253b321d" version="1">&lt;br&gt;如果你的“敏捷”属性大于或等于[1]，则需要掷骰重击的点数减少 [2]。这个效果可以叠加。</content>
+	<content contentuid="hb4b9ee86g3a69g48a2ga102gc6f806c1cc3a" version="1">无形沙漠之戒</content>
+	<content contentuid="h31174792g70fag4602gb40cga1da35368d89" version="1">这枚戒指在完全黑暗中散发出明亮的光芒，给周围环境增添了一种飘渺的辉光。仿佛这件魔法之物永远捕捉了灼热的沙漠阳光、晴朗湛蓝的天空和大地之势，不再映照当前世界。你被戒指精致的刻面所吸引，感觉它像是通往某个遥远而未被玷污的领域的门户。经过仔细检查，可以安全地假设它的特性可以被利用，让你能够利用它强大的力量。</content>
+	<content contentuid="h3907c229gaa54g44d8gb8ccgb3ca42ade46c" version="1">净化之魔法</content>
+	<content contentuid="h453b56dagc371g4e21g9ca8g60b83cbd9bfd" version="1">&lt;br&gt;当你踩在任何地面上时，这枚戒指的魔法会将其传送到虚无之中，消失不见。</content>
+	<content contentuid="h6fede46ag6116g4a79ga5bbgbbba351d2d76" version="1">无上权能之戒</content>
+	<content contentuid="ha6653cdag9717g48fcgbd6cg1dce47d780fe" version="1">乍一看，这枚纤细的戒指，勉强能够戴在你最细小的手指上，镶嵌着一颗娇小的桃色蛋白石，似乎毫无能量。然而，你拒绝被欺骗，因为普通的戒指往往会显示出磨损的痕迹，而这枚戒指依然保存完好。你低声念了几句咒语，如你所猜测的那样，戒指潜藏的力量展现出来，增强了你的魔法技能。</content>
+	<content contentuid="h21aa0a3cg17f0g4ddbgaa8cg86c3be0a810a" version="1">无上权能之魅力</content>
+	<content contentuid="hce0879a2gb850g4e34gb1efg0f1b6cc2057c" version="1">&lt;br&gt;当使用&lt;LSTag Tooltip="Cantrip"&gt;戏法&lt;/LSTag&gt;施放火焰、寒冷或闪电伤害时，你造成额外的[1]。这个效果会根据你的等级而增强。</content>
+	<content contentuid="h69628c5fg8e87g48bfgaf6cg2f1932593c88" version="1">博德巫师之戒</content>
+	<content contentuid="hb6e15eb3g9e56g471fg8f93gef845051a054" version="1">这枚碧绿色的戒指以其精致的外观散发出独特的魔法能量。它看起来是一个相对较新的神器，可能起源于博德之门。仔细检查戒指内部，你发现刻有字母的雕纹：“由奥伯伦制作和附魔。”无论这位奥伯伦是谁，他都值得高度赞赏，因为这件作品真正展示了惊人的工艺水平。</content>
+	<content contentuid="ha26a8779ged99g4e1agb998g37d2403aeadb" version="1">心灵增强</content>
+	<content contentuid="h9ca10ce0g565eg4a34gb7f7g8b6739d77b89" version="1">只要这个生物距离博得巫师之戒的佩戴者在[1]以内，它们的&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;增加+[2]，&lt;LSTag Tooltip="SpellDifficultyClass"&gt;法术豁免 DC&lt;/LSTag&gt;增加+[3]。</content>
+	<content contentuid="hbd3367b5g5354g4a5ag82ceg11cc4b21a156" version="1">魔法心灵光环</content>
+	<content contentuid="ha86ba185gca7fg4a15gbaaagff6d23092648" version="1">&lt;br&gt;如果你的&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;属性大于或等于[1]，半径为[2]的范围内的所有非敌对生物将获得&lt;LSTag Type="Status" Tooltip="RING41"&gt;"心灵增强"&lt;/LSTag&gt;效果。</content>
+	<content contentuid="h3ff1fad4g4f9cg4974ga250gf1c798b0f225" version="1">石榴石戒指</content>
+	<content contentuid="hb8cd7508g7f65g44b9gabc0g69d53be13a17" version="1">你仔细观察着戒指上精细的熔铸图案，并推断出这枚戒指一定是由高级工匠制作而成，可能与皇室关系密切。当你戴上戒指时，一阵关于费伦政治事务的意识涌上心头，同时大量有关重要历史事件的思绪也开始充斥你的脑海。这真是一个令人着迷的发现！</content>
+	<content contentuid="hb82c5c53g40a4g4736gbf3egfb86b1fd7adc" version="1">一扇通往历史的魔法之窗</content>
+	<content contentuid="h2a008412gc70ag4480g880fgf3c7525dad7c" version="1">&lt;br&gt;&lt;LSTag Tooltip="历史"&gt;History&lt;/LSTag&gt;技能 +[1]。该效果会随着你的等级提升而增强。</content>
+	<content contentuid="h0ad2c73bg8126g419eg9362g8c1d54070d1c" version="1">地狱之戒</content>
+	<content contentuid="h161ad084gaed0g421bgbf55g569f3472ed35" version="1">看来你遇到了一件来自九层地狱阿佛努斯的受诅咒神器。当你抓住这枚戒指时，光滑的水晶内部的邪恶火焰猛烈涌动。这件神器的巨大重量逼迫着你的皮肤，引发微弱的灼烧感。然而，一旦你将它戴在手指上，所有的不适感都消失了。现在，你只剩下思考如何激活这个魔鬼般的小玩意了。</content>
+	<content contentuid="h28b97c45g962fg499dg8b96gcc6cc9ba29e6" version="1">地狱之湖</content>
+	<content contentuid="he9744ebcg32f0g4071g9408ge26fed70c849" version="1">&lt;br&gt;每次进行&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后，当你处于LSTag Type="Status" Tooltip="BURNING"&gt;燃烧&lt;/LSTag&gt;状态时，在半径为[1]的范围内召唤地狱火湖，持续[2]回合。地狱火对你无效。持续时间会随着你的等级增加而延长。</content>
+	<content contentuid="h6a6d853egb338g43d8gb1e5ga9399c71fbfa" version="1">月亮女神塞伦涅之银戒</content>
+	<content contentuid="hf2ead5f3g6319g4752gb96ag35b4113c66f6" version="1">这枚耀眼的戒指，镶嵌着无数光滑闪耀的月亮宝石，散发着强大的魔法气息。它给你一种明显的感觉，仿佛天堂之手亲自恩赐了这件神器，并留下了它的痕迹。当你戴上戒指时，它在你的心灵中共鸣，涌动着坚定的思绪，给出了你长期以来苦苦探寻答案的问题的解决方案。（塞伦涅（Selûne）掌管着月亮的力量，此种神秘的天体之力可以推动潮汐、制约兽化人、引导所有重复循环的周期，甚至可以影响人们的理智。身为最古老的神祇，塞伦涅伴随着第一道宁静的清冷月光诞生。就像月亮一样，这位静谥的银色女士拥有许多形象。她有时看来朦胧不清，似乎沉浸在对那场古老悲剧（她被迫与妹妹战斗）的无尽哀思之中；有时则以闪耀着高雅光辉的柔软身形愉悦的起舞。虽然她身为惯于改变的无序（阵营）神祇，但塞伦涅对一件事所抱持的立场永远也不会转变－就是与她黑暗的双胞胎妹妹之间永不停歇的战争。这两位女神在创造托瑞尔星球之时，为了是否应该创造生命而争执。当塞伦涅自行创造太阳为生命带来温暖后，两位女神就开始为了万物众生的最终命运展开永恒之战。）</content>
+	<content contentuid="h0ee08ed7gf75fg4938g881bgd32bc7fd8ee9" version="1">月之祝福</content>
+	<content contentuid="hee50cebdg75c4g4136gae25ged993241b441" version="1">&lt;br&gt;你的&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;属性最多增加[1]点。</content>
+	<content contentuid="he0f6b01cgfd93g4642g980dg9d9f3265e9b9" version="1">复原之戒</content>
+	<content contentuid="h389356abg698cg46d1gafc9g428311ae5ca9" version="1">你的目光聚焦在这枚钢质戒指上，上面镶嵌着一颗不起眼的黄色宝石。它散发出耀眼的光芒，显露出一层抛光的表面，在新涂上的漆下面，宝石隐藏的深处似乎蕴藏着难以捉摸的神秘，立即勾起了你的好奇心。然而，这个看似有魔力的神器却对你试图掌握其力量的尝试显得有所抵抗。也许它的秘密只能由更擅长魔法的使用者来揭示？</content>
+	<content contentuid="h5402e67fgcda8g4f9aga8d8g00223cedb607" version="1">神秘的谜团</content>
+	<content contentuid="hdc339112g2483g443cgb2c3g140d5a3035e8" version="1">&lt;br&gt;有[1]%的几率，在&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;后恢复所有职业&lt;LSTag Tooltip="SpellSlot"&gt;法术位&lt;/LSTag&gt;。</content>
+	<content contentuid="hfa34c354gf3aag4265g925dg6d0d3421aa93" version="1">裳缇亚追随者之戒</content>
+	<content contentuid="h0cc0e7c0gd6d1g4a50g9d85g31b11f77a1fe" version="1">根据传说，这位伟大的母亲被视为丰收和温馨家庭的守护者。你毫不犹豫地辨认出了戒指上神明的象征，并且好奇地，它立刻让你感到温暖和满足。郁郁葱葱的田野和肥沃的土壤的迷人美景在你眼前展开，带来难以抑制的喜悦之泪。很可能这枚戒指曾经属于一位乡村领主，他利用它的魔力应对艰难的季节。（大地母亲忽悠着你。——贝恩·血蹄，于半人马炖锅裳缇亚Chauntea 是国度天宇出现的第四位神明，由塞伦涅与莎尔合力创造，一开始，她代表了国度天宇的一切物质，但后来她将注意力集中在了托瑞尔星球。据说，除了利维坦、凯梅利恩、狼群外，拉芮也是她的孩子。年轻的洛山达神则是她最近的情人。她的头衔：伟大之母The Great Mother，谷物女神the Grain Goddess，金色女神the Golden Goddess，万物塑造者She Who Shapes All，森林之母the Forest Mother，荒野与深土的守卫者Guardian of the Wilds and Deeps，荒野保卫者Keeper of the Wild）</content>
+	<content contentuid="hb2b44ed2g58e8g4cbagabc5gd7eb6d670910" version="1">伟大母亲的庇佑</content>
+	<content contentuid="h71e3f5cbgf2edg4150gaa40g326907e94eb9" version="1">&lt;br&gt;你对死灵伤害具有 &lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。当你踩在泥土上时，[1]半径范围内会长出茂密的花丛，不会减慢你的速度。</content>
+	<content contentuid="hdd4d0990g0cb2g4f5cga309ge14f0f8d87f4" version="1">骑士之戒</content>
+	<content contentuid="h5b2d2d9bg8ce5g43caga8a2g4adaf8a656dd" version="1">你发现了这枚戒指，它似乎由一种非凡的合金制成，并镶有明亮闪耀的赤玉石。虽然对这种矿物很熟悉，但你从未见过它散发出如此强烈的光芒，明显暗示着魔法的存在。通过仔细的观察，你发现这件珠宝的切割和镶嵌风格是特定人类王国独有的。有趣的是，看起来这个魔法加持是在戒指最初制作后很长时间才施加的，这让你推测可能是国王奖励给一位杰出的骑士，他在加持之前已经佩戴了很多年。</content>
+	<content contentuid="h0a096fcdgac06g4d18ga284gb64ad7a98203" version="1">自鸣得意</content>
+	<content contentuid="hff3f8868gedd8g4d5fg947eged93e90d3082" version="1">在进行&lt;LSTag Tooltip="AbilityCheck"&gt;属性检定&lt;/LSTag&gt;时，你的骰子点数额外增加[1]~[2]。当你受到攻击时，这个效果会消失。</content>
+	<content contentuid="h1fc7d593g902dg468cgacccgf136f7ce403c" version="1">自信之志</content>
+	<content contentuid="h2f7c842cg9c9cg4b8cg8bfbgc04c0c1ea85d" version="1">&lt;br&gt;当你击败一个敌人时，有[1]%的几率使你获得&lt;LSTag Type="Status" Tooltip="RING47"&gt;"自鸣得意"&lt;/LSTag&gt;状态，持续[2]回合。这个效果的持续时间会随着你的等级增加而延长。</content>
+	<content contentuid="hb3d77bf7gec82g49fagb5efgf54d2055b2ff" version="1">古代皇帝之戒</content>
+	<content contentuid="h49f49160ga441g47a1g83d4g5466ffa43c2f" version="1">你在厚厚的尘土和干裂的泥泞下发现了这枚戒指，但一旦你清理干净，光滑抛光的碧玉镶嵌显露出来。你认为这是一个重大的发现，计划以更高的价格出售给一个毫不知情的买家。然而，这枚戒指坚持的呼唤折磨着你，迫使你将其戴上。厌倦了持续的召唤，你最终屈服了，并体验到一种觉醒——解锁了古老的六指拳技术的秘密。然而，当你摘下戒指时，对这个迷人技术的知识从你的记忆中消失了。</content>
+	<content contentuid="h4da98af5g18d9g4348gbc38gb9938abbf38f" version="1">六指拳法</content>
+	<content contentuid="h6ee7d617g7602g418cgaedbg9167ee013851" version="1">每场战斗一次，即使你未命中，你也可以用徒手攻击对敌人造成[1]。这个效果会随着你的等级增加而提升。</content>
+	<content contentuid="h380b2a44g7178g4252gbf82gd65aee380c88" version="1">邪恶之戒</content>
+	<content contentuid="h3aaa9907gc142g424fgab3ag5674b318acc1" version="1">从它的外观来看，很难期待这枚充满不祥气息的珠宝会带来什么好事。果不其然，当你尝试激活戒指的力量时，它迅速而邪恶地"渗透"进入你体内，注入你阴险的能量，仿佛将自己与你的身体紧密相连！这枚戒指似乎拥有自己的意志，甚至在一刻钟也不愿屈服于你的意图。对于一个经验丰富的法师来说，这是一个危险的小玩意儿 —— 但你还是决定保留这个被诅咒的神器。</content>
+	<content contentuid="heb38fd1eg7c2cg4a8bg933ega9ac1a64be6c" version="1">腐朽的执念</content>
+	<content contentuid="hfc2fedaeg0c86g49c6g9a01gee86158dd2cb" version="1">每回合开始时，这个生物受到[1]。</content>
+	<content contentuid="hf53f0de1g14cag40degb18fg8be1cca875dc" version="1">黑暗的执念</content>
+	<content contentuid="hd1bc48f2gcbf5g482bg8d4bg15722a786596" version="1">这个生物在&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;上受到[1]点的惩罚。</content>
+	<content contentuid="h10cdb9f5g28d8g4e2ag88f9gabf1ac2852cf" version="1">诅咒之藤蔓</content>
+	<content contentuid="h01152e61g5947g4029gba7ag02638323f36a" version="1">每回合开始时，这个生物在自身周围[1]的范围内召唤出诅咒藤蔓，持续[2]回合。</content>
+	<content contentuid="hcc62df2dg95edg4ae0gaf9ag160066d9f54c" version="1">不可避免的灭亡执念</content>
+	<content contentuid="h10f020f8gab82g494dg875fg95ee0afe2e0c" version="1">当应用这个效果时，该生物受到[1]，并在该效果消失时受到[2]。</content>
+	<content contentuid="h8f5bab12g2c5dg47ccg8743ge19a2efc2634" version="1">戒指的意志</content>
+	<content contentuid="h043e4e33gbc0cg4cb4g9902g0220f29d5939" version="1">你的&lt;LSTag Tooltip="HitPoints"&gt;最大生命值&lt;/LSTag&gt;增加+[2]。当你攻击敌人时，这枚戒指有一定几率释放其邪恶精华。这些效果会随着你的等级而变化。</content>
+	<content contentuid="hac6d7d61g3a46g4b2fg8220g8676e0b96c2b" version="1">神秘命运之戒</content>
+	<content contentuid="h659f4420g3c6ag49b3gb6acgbc03f3302b4a" version="1">这枚古老而纤细的玉戒经历了岁月的洗礼，它的金属上布满了深深的划痕，玉石也严重龟裂。显然，这件珠宝已经经历了超过千年的时间，仍然异常坚韧。在一瞬间的冲动中，你决定用锤子敲击戒指。令你惊讶的是，锤子几乎没有留下任何痕迹，戒指似乎毫发无损。突然间，神器散发出浓密的治愈之雾，奇迹般地修复着你的旧伤。</content>
+	<content contentuid="h0778cb97gfb37g4737g9244gc2bee91c52cc" version="1">自我牺牲的魅力</content>
+	<content contentuid="h9eb86334g956dg456dga320g560f5869eadc" version="1">&lt;br&gt;当你受到伤害时，这枚戒指有[2]%的几率释放出一股恢复活力的雾气，立即治愈半径为[1]范围内的所有生物。</content>
+	<content contentuid="h0117d59cgf04eg4b0bgbea5g154010a21da0" version="1">彩虹珍珠戒指</content>
+	<content contentuid="hbee40a44g1f63g4a2dg9e60gaf0fa51807d4" version="1">仔细观察这枚戒指，你无法不注意到它强大的魔力。嗯，在这件珠宝上，金属散发出七彩斑斓的光芒，就算是一个瞎子也难以忽视！但你最注意到的是粉黄色的色调，很可能是魔法的原始来源。不幸的是，你缺乏足够的经验来确定这个神器的创造者是谁，但有一件事你确信无疑——这枚戒指会根据佩戴者情绪的变化而产生反应，注入了神奇的抗性魔法。</content>
+	<content contentuid="h007a5cb8g5508g4c94gb2c5gfc7ab92546e9" version="1">奇迹魔法</content>
+	<content contentuid="ha0489cffg5621g4028gb3ccg1cea98354940" version="1">&lt;LSTag Tooltip="SavingThrow"&gt;豁免投骰&lt;/LSTag&gt; +[1]。这个效果会随着你的等级增加而提升。</content>
+	<content contentuid="h9755cf5dge954g4dffg8c4fg459a035bb688" version="1">彩虹符咒</content>
+	<content contentuid="hee35d345gbebeg46f9g8cd5g4d10b72a93b9" version="1">&lt;br&gt;当你受到任何效果影响时，有[1]%的几率获得&lt;LSTag Type="Status" Tooltip="RING51"&gt;"奇迹魔法"&lt;/LSTag&gt;状态，持续[3]回合，并立即恢复[2]。这个效果的强度和持续时间会随着你等级增加而提升。</content>
+	<content contentuid="hb9805d85g9e66g4acdgb63egf3aa5b0dc025" version="1">寺庙住持戒指</content>
+	<content contentuid="h21c4dde7g7dbeg4da0g9027g88cb57c13047" version="1">这枚戒指中罕见的蓝色大理石，为其真正起源提供了微妙的线索。随后，你深入研究古老的文本，揭示出加工这种石头所涉及的工艺只能归功于某个神明的虔诚信徒，而这位神明早已被人遗忘。这枚戒指附带一种能够召唤庙宇不朽守护者的魔法。当你意识到抵御者显然在丧生前未能发动其力量时，你不禁发出了讥讽的笑声。</content>
+	<content contentuid="h16c86d3egb008g4326gb771g10f66c889bf5" version="1">魔法守卫者</content>
+	<content contentuid="h9081b75cg7aa2g4bc1g8944g3149f3fabdc6" version="1">召唤寺庙守护者</content>
+	<content contentuid="h44989e7bgb1f3g40eaga984g45cd8daf1c1a" version="1">作为寺庙戒指的持有者，你拥有召唤两名出色的不朽近战守护者的能力，他们以非凡的战斗技巧而闻名，并将前来保护你。</content>
+	<content contentuid="h509d7404gfc71g451cgb195g4260c9b8c6c8" version="1">魅力大师之戒</content>
+	<content contentuid="h85ad2aabgf50cg4a21g932egbcf86fab8fdf" version="1">你凝视着这枚华丽的戒指，上面镶嵌着一颗巨大的紫色蓝宝石，让人感受到一种无法否认的命运感。然而，你的关注并不仅仅停留在命运的揣测上，而是对其中无疑存在的魔力秘密探究的强烈渴望。在尝试了各种可能的咒语后，你感到彻底的沮丧。但随后，一个意外使得一个路过的市民无意中与你碰撞 - 使他瞬间成为了你的忠实盟友。这个发现促使你进一步深入实验，最终发现这种魔法会对佩戴者身上的恶意影响作出回应，迫使恶人与其受害者结盟。创造这件神器的人，对人类的本性可以说非常的了解。（莫非他也读过戴尔·卡耐基《人性的弱点》）</content>
+	<content contentuid="h651df09fg6af1g407eg8b2cgc2c314b0f588" version="1">化敌为友</content>
+	<content contentuid="h21d51d2agdb5dg453ag98fag467eec8d486f" version="1">当你受到人型敌人的攻击时，它必须成功进行一次&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;([2])，否则成为你的&lt;LSTag Type="Status" Tooltip="DOMINATE_PERSON"&gt;盟友&lt;/LSTag&gt;直至[1]个回合。这种效果的持续时间会随着你的等级提升而变化。</content>
+	<content contentuid="h617f7adbgf325g467dg86dfg2af1808d37ce" version="1">托帕石之星戒指</content>
+	<content contentuid="hb895c095g6cb7g4717gae14ge3cf1bd24db5" version="1">你发现了一枚难以置信美丽而精致的戒指：绕在高贵的金属上的小型绿松石托帕石似乎在你戴上它时更加明亮耀眼。对于制作这枚戒指的工匠的技艺感到惊叹之余，你立刻注意到了其中的魔法咒语。你的一位同伴立刻注意到他们曾经听说过一个类似的神器：那是一枚古老而非常美丽的托帕石之星戒指，赋予佩戴者准确致命打击的祝福。现在，只有一种方法可以确定它是否是正确的戒指。</content>
+	<content contentuid="h5de13080g6a6cg4bd8g84c2g315148bd1cea" version="1">致命打击</content>
+	<content contentuid="h26da059dg98eag4342g92acgf1aac5f0d602" version="1">你的下一次武器攻击将造成双倍重击伤害。</content>
+	<content contentuid="hd899d281g9a95g4b97g8be4g6ab4da1b9215" version="1">致命打击</content>
+	<content contentuid="hd53d5e6eg6087g4660g97c1ga2bebe6b7d90" version="1">使用武器造成重击时，你获得一个&lt;LSTag Type="Status" Tooltip="RING54"&gt;"致命打击"&lt;/LSTag&gt;状态。</content>
+	<content contentuid="h53216df6g9246g4c1cgab37gc92479db43d8" version="1">神话中的将军之戒</content>
+	<content contentuid="hdfaf0317gac2ag44e8g942agc210e99d71b2" version="1">一枚普通的金属戒指，外观并不出众。在你好好看清戒指之前，它不小心掉进了水中！当你捡起它时，你注意到里面慢慢浮现出文字：“愿那位在最困难的时刻不失勇气的人受到保护，远离邪恶的战士军队。”这是一个有趣的短语，但它可能意味着什么？没有人会在钢铁戒指上留下魔法铭文，而且这显然是非常强大的魔法之力才能做到的。</content>
+	<content contentuid="hc28f2629g9f85g4005ga58bg15380000102b" version="1">钢铁意志</content>
+	<content contentuid="h057e6a5fgc314g4537g9ecbgc4adc29f63d3" version="1">&lt;br&gt;当你的&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;低于[1]%时，你无视对你造成的一半钝击、劈砍或刺穿伤害，并额外获得+[2]点&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;属性加值。</content>
+	<content contentuid="h319618e4g95d1g4350gbd8dgafcb495946f6" version="1">雪巨人之戒</content>
+	<content contentuid="h2061ad78g464eg48b7gba06gf4d106796ba5" version="1">当周围的一切都冻结时，很容易推断出这件物品的神奇本质。最初你并没有打算将这枚超大的水晶戒指据为己有，但这枚戒指所迸发的诱惑使你难以抗拒。这枚戒指是如此之大，你得像手镯一样戴在手肘上。一旦戴上，你立刻感到寒冷的束缚消退，仿佛你成了冰霜的传导者。奇怪的是，你的同伴们也有类似的感觉。然而，毫无疑问，现在冰霜偏爱你，在战斗中帮助着你。这样的戒指并非可以轻易获得；很可能有人付出了许多生命的代价，才得以从先前的主人手中夺得这件神器。</content>
+	<content contentuid="h1452d6b8g4202g4953g8d60g0a034a81c75e" version="1">冰霜亲和体质</content>
+	<content contentuid="he5770228g2ba2g4f11gafb2g12f7648d3362" version="1">当你在与水晶戒指佩戴者距离[1]内时，你获得对冰冷伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;，+[3]的&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;移动速度，并且在你周围[2]范围内冻结地面。这片冰面不会使你陷入&lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒地&lt;/LSTag&gt;状态。</content>
+	<content contentuid="h7de4168cgc370g41bdgb0a6g650f7707e3a7" version="1">冰霜支援光环</content>
+	<content contentuid="hf8ee3832g407eg4debg9fccg920e3ff85c99" version="1">&lt;br&gt;你获得了一个光环，作用范围为[1]码内的你和你的盟友，使所有受影响者成为&lt;LSTag Type="Status" Tooltip="RING56"&gt;"冰霜导体"&lt;/LSTag&gt;。站在冰冻表面上会使你获得+[2] &lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;。</content>
+	<content contentuid="h48377a80gfac7g4436g9993g433ba5e1bdd3" version="1">渥金标记戒指</content>
+	<content contentuid="hda370371g4bf9g4956g8deag6cf103f82697" version="1">你得到了一枚被施以神奇魔法的华丽戒指，它肯定会大有用处！乍看之下，显然这不是一般的戒指，而是受到财富女神沃金的祝福。使用纯金和光洁的淡黄色柱石在制作致敬这位女神的神器时是非常精致的标志。然而，这枚戒指背后的附魔师似乎具有一种幽默感，因为当你佩戴该戒指时，任何一个在你周围失去生命的个体的脚下都会突然出现原本属于别人的金子。显然，这件神器并不是为了普通的小贩而设计的……（渥金Waukeen-商人之友Merchant's Friend，贸易女神Goddess of Trade，贸易商的保护者Protector of Traders-渥金是切森塔地区中产阶级最受欢迎的神灵。作为商旅的守护者，她受到了行商人士的崇拜，他们将她的崇拜传播至南方的杜尔帕。）</content>
+	<content contentuid="h8cabde83ga89cg4d45ga022gf68f6afdfdde" version="1">魔法袋（他人的黄金）</content>
+	<content contentuid="h1b1571ddga09eg4fe4g8c8egf5c0a06e1716" version="1">魔法窃取</content>
+	<content contentuid="hdd14b85fgc4d2g4ea2gb68ag7b70c7dacbf9" version="1">&lt;br&gt;当你对敌人造成致命打击时，这枚戒指有[1]%的几率将别人的金币传送到尸体脚下的一个魔法袋中。</content>
+	<content contentuid="hac002180g3586g4072gb82fgf2adb497e3fd" version="1">远古魔法之戒</content>
+	<content contentuid="hc257487agbff3g42e1gad34gd5572d0468e0" version="1">这枚戒指相当诡异。那颗血红色的破裂宝石似乎被强行随意地镶嵌在金属底座中，而这个底座在它数百年的世界漫游中变得相当破旧。这件魔法神器散发着一种你无法驾驭的、难以理解的古老力量。然而它就在那里，封存在这枚蓬乱的准备被驯服的古董戒指中。这是一种你发现……越来越难以拒绝的诱惑？</content>
+	<content contentuid="h76ec7df3gfcd7g4f07g943fg24d00914f6ce" version="1">败者之勇</content>
+	<content contentuid="hacb032c6g4f2bg45dfgba52g0c8828c84210" version="1">你对生物的下次攻击即使未命中也将造成[1]。</content>
+	<content contentuid="hf9506d07g62c9g4600g82e4ge103c2b4e4a2" version="1">远古魔法的力量</content>
+	<content contentuid="h3cd04e1bg0c54g4fe3g8bfbgfb6d436112d6" version="1">当你用武器攻击未命中时，你会立即对目标造成[1]，并获得&lt;LSTag Type="Status" Tooltip="RING58"&gt;"败者之勇"&lt;/LSTag&gt;，该状态持续到你的下一次攻击。</content>
+	<content contentuid="hfcc187bdg93ddg4a57gbb51gcbda26084ba8" version="1">宁和曙光戒指</content>
+	<content contentuid="hd377c7abg3fdcg40d4ga3a7g21f77f4a30e8" version="1">你可以无限地思考这枚戒指的起源，讨论它是由古代德鲁伊、强大的巫师还是僧侣打造的。然而，时间和耐心都是匮乏的。主要目标是揭示如何激活这枚华丽的戒指，上面镶嵌着一个完美切割的玫瑰红尖晶石。你很清楚这件神器散发出一种舒缓的光环，但尽管进行了数十个小时的实验，激活方法仍然难以捉摸。想到“夜晚是智慧之母”，你决定在就寝时戴上这枚戒指。 令你惊讶的是，当你醒来时，你和你的同伴都感到了一股类似黎明阳光般力量的涌动！</content>
+	<content contentuid="h0312b606gdb67g4996g9677g474d554f0605" version="1">宁和魔法</content>
+	<content contentuid="he56b3478g802eg47b4g8c51g1f40b62d1d19" version="1">当你在距离“宁和曙光戒指”佩戴者[1]码范围内时，你会获得+[2] &lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;，而攻击你的人在&lt;LSTag Tooltip="AttackRoll"&gt;攻击骰&lt;/LSTag&gt;上会处于&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content>
+	<content contentuid="hb4597019gc4d0g4415g9518gb9a4504be757" version="1">黎明曙光</content>
+	<content contentuid="h2345e30dg40ecg4477g9782g4bdafb79ab97" version="1">&lt;br&gt;在进行完一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之后，你获得一个光环，作用于你和在[2]范围内的盟友身上，并为[1]个回合赋予&lt;LSTag Type="Status" Tooltip="RING59"&gt;"宁和魔法"&lt;/LSTag&gt;的效果。</content>
+	<content contentuid="hf69d3e08gd198g4e56g8f99g17fc392323be" version="1">兽王之戒</content>
+	<content contentuid="hbd971e0bgda51g4dfbg8862g70e41996cf17" version="1">你拿起这枚看起来很有趣的戒指，立刻意识到这件魔法小玩意能为你带来多少帮助。当你将它拿到挠挠跟前时，里面镶嵌的绿色晶体开始发出更明亮的光芒，你开始明白，戴上这枚戒指后，你能更清楚地渗透野兽的思维，并向其发号施令。</content>
+	<content contentuid="h1b246468g5620g426egaf03gbd53160dac6f" version="1">服从符咒</content>
+	<content contentuid="h0c2740ffg067fg414fga337g1a711b11e27f" version="1">&lt;br&gt;战斗开始时，你的盟友野兽获得&lt;LSTag Type="Status" Tooltip="RING60_2"&gt;"精神控制"&lt;/LSTag&gt;状态，持续[1]回合。效果会在每三个等级后增加。</content>
+	<content contentuid="h967c917ege654g4255g89fegf2914450e901" version="1">精神控制</content>
+	<content contentuid="h36690dbdgbd78g4339gae2fg1908ac5acdcc" version="1">这个生物的攻击由兽王指挥。它的&lt;LSTag Tooltip="AttackRoll"&gt;攻击骰&lt;/LSTag&gt;获得+[1]。每三个等级后效果增加。</content>
+	<content contentuid="ha8b9b943g4f91g4257ga7d6g6660567104dd" version="1">纪念戒指</content>
+	<content contentuid="h117d67fcga89ag498fg8857g2ca82b4ed177" version="1">这枚戒指相当巨大。你似乎几乎无法戴上它，甚至连抬起都很困难。然而，有种直觉告诉你，原因是这枚戒指上的魔法锁，只有经过长时间的冥想才能打开。果不其然，在冥想之后，你轻松地抬起了这枚戒指，并且在戴上它时，你感到身体突然变得轻盈。</content>
+	<content contentuid="hcc73adc7g7f2cg40dbgb8c0g2d39b3f914bb" version="1">轻巧拳击</content>
+	<content contentuid="hfc120f93g6eecg4d9eg8ce9gcc7cc82ccfab" version="1">&lt;br&gt;当你用徒手攻击对敌人造成伤害时，你有[1]%的几率恢复一个&lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;气点&lt;/LSTag&gt;。</content>
+	<content contentuid="h306525d8gd7c6g4784gbbbag41c4c447a9b0" version="1">静谧探路者之戒</content>
+	<content contentuid="h1c5ca89fg02fbg46c2gbd7bg32cebeb453c5" version="1">你欣赏着这个闪亮的小饰品：一个经过数千年磨损的铸铜基座，以及一颗粗糙的黑宝石组成了这件珠宝。这枚戒指似乎对战士有着巨大的裨益，但多年来它的能力已经变得相当微弱。</content>
+	<content contentuid="hab8a70fcg5076g4728g867dg938ca0161c4a" version="1">黑石咒符</content>
+	<content contentuid="hfb01ce5fg8777g4fd4g878bga70720ec58d1" version="1">&lt;br&gt;你在战斗中使用远程武器时，第一次攻击总是能够命中。</content>
+	<content contentuid="hcbcd7bcbgce41g4b1dg9452gd48731f598ff" version="1">魔法射击</content>
+	<content contentuid="h6f44e439g2669g4edfgb3fcge929203a3492" version="1">你的下一次远程武器攻击保证命中敌人。</content>
+	<content contentuid="h7cb1f29cg8851g4ee5gb5bag9faa861ea6dc" version="1">褐色狩猎之戒</content>
+	<content contentuid="hc175609eg224bg4650g8d4cg648939877574" version="1">这枚戒指是一件相当美丽的魔法艺术品。透明的树脂宝石镶嵌在坚固的橡木底座上，似乎从内部散发出明亮的绯红色光芒，邀请你进入古老意识的黑暗深处，一个曾经不舍昼夜领导褐色狩猎的强大存在。你无法拒绝尝试戴上这枚美丽的戒指带来的愉悦感。</content>
+	<content contentuid="h1a22a998g9556g4cafgbc28g2735b4142019" version="1">猎犬符咒</content>
+	<content contentuid="haf9b3460gf082g4d38g951eg16b6aa187413" version="1">&lt;br&gt;&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;减少[1]。在&lt;LSTag Type="Status" Tooltip="RAGE"&gt;狂怒&lt;/LSTag&gt;状态下对敌人造成伤害时，你恢复[2]%的&lt;LSTag Tooltip="MovementSpeed"&gt;移动点数&lt;/LSTag&gt;。</content>
+	<content contentuid="h958fcc65ged6eg4dc7g81c0g273cbaa18cbd" version="1">梦幻翡翠之戒</content>
+	<content contentuid="hf79348d7g34d4g4056ga124g7c2429def76e" version="1">当你把这枚黄铜小饰品戴在手指上，你突然感到一种渐进的感觉。这种感觉无法描述：就好像你的灵魂试图被聚集成一个球，然后从这个球中塑造成奇异的史前动物形态。随着时间的推移，你开始注意到，对灵魂的练习并不是徒劳的，它赋予了你非凡的魔法能力。</content>
+	<content contentuid="h9b0e1ae4g09bfg4e20g8a63g6870e5a88736" version="1">灵魂雕塑</content>
+	<content contentuid="h8dce628cg6522g442fgaba7ga1396f597c6f" version="1">&lt;br&gt;在战斗中，每个回合你会获得一个&lt;LSTag Type="Status" Tooltip="RING64"&gt;"位面灵魂增强"&lt;/LSTag&gt;充能。</content>
+	<content contentuid="h4f4620bag7712g4a92ga587g58b2e9d98a4e" version="1">位面灵魂增强</content>
+	<content contentuid="h6015dc79g14feg4a50g866cg6b931b7453cc" version="1">每个回合结束时损失[1]。长休时不会解除该效果。</content>
+	<content contentuid="hb515e79bg55bdg44d8g8b24g6db4c39ab275" version="1">满足灵魂</content>
+	<content contentuid="h5417e177gb5edg478bg8712g25c3b2666c6a" version="1">+[1]到 &lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;，&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt; 和 &lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt; 直到你施放第一个法术。</content>
+	<content contentuid="hade3c18age740g4574g899bga703f8b3216c" version="1">风暴之辅</content>
+	<content contentuid="h42a13461g82f7g44a6gb00dg2230d7fb7372" version="1">&lt;br&gt;你的法术&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;获得+[1]~[2]。</content>
+	<content contentuid="h8d2605c2ge902g4e9fgb832g2a6baccc262d" version="1">吸收灵魂能量</content>
+	<content contentuid="h8c0c1cd9g7ce4g41d6ga188g0c3d743e0d61" version="1">&lt;br&gt;获得&lt;LSTag Type="Status" Tooltip="RING64"&gt;"位面灵魂增强"&lt;/LSTag&gt;的[1]层充能后，你吸收它们并在[2]回合内达到&lt;LSTag Type="Status" Tooltip="RING64_2"&gt;满足&lt;/LSTag&gt;状态。</content>
+	<content contentuid="h1858c9cfg6c85g4c0dg9cccg639e359fc52c" version="1">致命一击之戒</content>
+	<content contentuid="hc352c9b2g07d3g4222g98b5g7f51c930506c" version="1">如果你说，你发现了一枚能改变一个人命运的戒指，谁会相信呢？这枚戒指确实非常奇特：一块宇宙黑石，镶嵌在高贵而古老的金属中，似乎散发着宇宙的能量。某个非常强大的魔法师将恒星本身囚禁在这块石头里，但你却无法充分利用它的力量。你的技能只能迫使戒指稍微引导一下你的攻击力量。</content>
+	<content contentuid="h375f5808g426fg4e5bga536g602e6e17fcd7" version="1">恒星之力</content>
+	<content contentuid="hf31863efgc43eg4636gb6bagace3660d6653" version="1">你在触发近战重击时（包括法术），额外增加一个伤害骰，但所有骰子的点数减少[1]。</content>
+	<content contentuid="hdfdd6031g5edeg4db1g8846g5297cc95beaf" version="1">勇敢冒险家之戒</content>
+	<content contentuid="h2bb86fa9gdb9bg45a4gb53fgcf8c9329aaa5" version="1">这颗美丽的多面火焰宝石用它那没有灵魂但相当明亮的眼睛凝视着你，似乎吸进了周围所有的热量。你注意到戒指的金属表面覆盖着一层微薄的灰尘。看来这件魔法物品的主人曾经遇到过不止一个麻烦，而这枚戒指帮助他应对了很多会喷火的生物。或者是为了避免把肉放在火上烤得过熟？尽管如此，岁月的消磨也体现在了这枚戒指上面，现在它显然已经不再处于最佳状态。</content>
+	<content contentuid="hba06c72cg7187g4fabg8f4dg8aa5f6fa47ae" version="1">防御火咒</content>
+	<content contentuid="h7236b62ag87b8g41e0gac58g2a601d2d25a5" version="1">&lt;br&gt;在战斗中受到来自生物或火焰的伤害时，你获得&lt;LSTag Type="Status" Tooltip="RING66"&gt;"不稳定火焰保护"&lt;/LSTag&gt; [1]层充能。有小概率额外获得[1]~[2]层充能。</content>
+	<content contentuid="h20aa6772gb4b2g4289gaa77g0926f6c5ce61" version="1">不稳定火焰保护</content>
+	<content contentuid="h74e5c232g6710g474egb49bg7a361a206714" version="1">每层效果会使你受到的伤害减少[1]。如果层数超过[3]，效果会消失，并在你脚下出现一个半径为[2]的火池。</content>
+</contentList>
