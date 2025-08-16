@@ -1,47 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
+  <content contentuid="hdde6b8f8gf3f7g4cd5g81e9gd7cbfe304644" version="1">Quick Hands</content>
+  <content contentuid="hcd3fb78cgaff7g4eebg874bgd513d6446dc9" version="1">Gain an additional &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt;. This feat can be learned multiple times.</content>
   <content contentuid="hf8aea69bg477ag4cc9g93f2g8ed85099c245" version="1">Giant Strength</content>
-  <content contentuid="h142774b2g27bag49e7g9d4egb4310691b59f" version="1">The mountains tremble! Strength increases to [1]. This effect increases with level.</content>
+  <content contentuid="h142774b2g27bag49e7g9d4egb4310691b59f" version="1">The mountains tremble! &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; increases to 23. This effect increases with level.</content>
   <content contentuid="hd0951908g8168g489cga307g3e1bcd9b81a2" version="1">Guardian Chain</content>
   <content contentuid="h25064b5eg8d83g4f80g8223gfb79a9cb0af7" version="1">Gain &lt;LSTag Tooltip="Resistance"&gt;resistance&lt;/LSTag&gt; to all damage types.</content>
-  <content contentuid="hbc979f65g1220g44bag9776g97adab8a5a97" version="1">Aura of Murder</content>
-  <content contentuid="h3933b2f5g2754g4beegaa86g867c8e4b17a2" version="1">Enemies within [1] range become vulnerable to piercing damage, unless they have resistance or immunity to piercing damage. This ability can be toggled on and off.</content>
-  <content contentuid="hd05631bbg8915g4a40g8aefg063e1c49a12e" version="1">Titan Shooting</content>
-  <content contentuid="hce01afccge682g42c7g911dg7f25f44b7a49" version="1">Your ranged weapon attacks deal additional &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt;&lt;LSTag Tooltip="AbilityModifier"&gt;modifier&lt;/LSTag&gt; physical damage.</content>
-  <content contentuid="hd961b2a4g52eeg44dfg91c1g2076b9e989a1" version="1">Widen Wounds</content>
-  <content contentuid="h580b1639gcfc6g42a6gb255g713d28c48195" version="1">When you score a &lt;LSTag Tooltip="CriticalHit"&gt;critical hit&lt;/LSTag&gt;, deal an additional [1] &lt;LSTag Tooltip="Force"&gt;force&lt;/LSTag&gt; damage. This effect increases with level.</content>
-  <content contentuid="h0e6155e7g8fe2g40b2ga343g1325509e760e" version="1">Tragic Critical</content>
-  <content contentuid="h6a38e0cfgb8acg4ea0gbb8cgcb5cdfe60ca8" version="1">When you score a &lt;LSTag Tooltip="CriticalHit"&gt;critical hit&lt;/LSTag&gt;, you deal an additional 7 damage. Can be learned multiple times.</content>
-  <content contentuid="h90f52acfg2f5dg4582gaf2eg9fdee35c929c" version="1">Improved Critical</content>
-  <content contentuid="h778d413cg0142g41e5g9e89g645191486c18" version="1">When making attack rolls, the number required to trigger a &lt;LSTag Tooltip="CriticalHit"&gt;critical hit&lt;/LSTag&gt; is reduced by 1. This effect can stack. Can be learned multiple times.</content>
-  <content contentuid="hdde6b8f8gf3f7g4cd5g81e9gd7cbfe304644" version="1">Quick Hands</content>
-  <content contentuid="hcd3fb78cgaff7g4eebg874bgd513d6446dc9" version="1">Gain an additional &lt;LSTag Tooltip="BonusAction"&gt;bonus action&lt;/LSTag&gt;. Can be learned multiple times.</content>
-  <content contentuid="h445cfcd8gcdf0g4c1bgbf1ag5bb6ffe8ac5f" version="1">Cantrip Master</content>
-  <content contentuid="h8bc1ff1fge5b0g4f83g9505g87fe02e2bf58" version="1">You can cast cantrips as a &lt;LSTag Tooltip="BonusAction"&gt;bonus action&lt;/LSTag&gt; instead of an &lt;LSTag Tooltip="Action"&gt;action&lt;/LSTag&gt;.</content>
-  <content contentuid="h2688be97g81b8g4175gaff4gaeedf4b03988" version="1">Agonizing Blast</content>
-  <content contentuid="headb6201g3e5fg41e2gacd0gb37fa8a3936a" version="1">Your cantrips deal additional damage equal to your chosen ability modifier, and that ability score increases by 1.</content>
-  <content contentuid="h32cfda0dgc1a8g4813g89d0g25b6aeeaf524" version="1">Agonizing Blast (Strength)</content>
-  <content contentuid="h23d592a9g3a8fg4997ga7c3g45177bd6b447" version="1">Your cantrips deal additional damage equal to your &lt;LSTag Tooltip="AbilityModifier_Strength"&gt;Strength modifier&lt;/LSTag&gt;, and your Strength increases by 1.</content>
-  <content contentuid="hd854cebcge9c9g4cb8gabdbg8e051f9bb797" version="1">Agonizing Blast (Dexterity)</content>
-  <content contentuid="h06b02155g7d19g45b9gb10dg0bd973caa39c" version="1">Your cantrips deal additional damage equal to your &lt;LSTag Tooltip="AbilityModifier_Dexterity"&gt;Dexterity modifier&lt;/LSTag&gt;, and your Dexterity increases by 1.</content>
-  <content contentuid="hee63f83bg732eg4b27gb00fge4b5e9e5e088" version="1">Agonizing Blast (Constitution)</content>
-  <content contentuid="h76721fc7g2de0g47b9g97d3gef341effd4e0" version="1">Your cantrips deal additional damage equal to your &lt;LSTag Tooltip="AbilityModifier_Constitution"&gt;Constitution modifier&lt;/LSTag&gt;, and your Constitution increases by 1.</content>
-  <content contentuid="hbd2dc0fag9d54g40f2gb4f0g3de869026238" version="1">Agonizing Blast (Intelligence)</content>
-  <content contentuid="he58c3221g4e4eg426agbb1fgfe21ddebb3f5" version="1">Your cantrips deal additional damage equal to your &lt;LSTag Tooltip="AbilityModifier_Intelligence"&gt;Intelligence modifier&lt;/LSTag&gt;, and your Intelligence increases by 1.</content>
-  <content contentuid="h62bdc4dag19a9g4649g810cgf8ea96022c2f" version="1">Agonizing Blast (Wisdom)</content>
-  <content contentuid="h9d515e4ag73efg48d7ga9d8gd2cc18913730" version="1">Your cantrips deal additional damage equal to your &lt;LSTag Tooltip="AbilityModifier_Wisdom"&gt;Wisdom modifier&lt;/LSTag&gt;, and your Wisdom increases by 1.</content>
-  <content contentuid="h10725b31g2fb3g4252gb34eg866046da03b2" version="1">Agonizing Blast (Charisma)</content>
-  <content contentuid="ha6d94a78g4a84g4b91g95f3g3ec9f2aa7997" version="1">Your cantrips deal additional damage equal to your &lt;LSTag Tooltip="AbilityModifier_Charisma"&gt;Charisma modifier&lt;/LSTag&gt;, and your Charisma increases by 1.</content>
   <content contentuid="hd38cdbfbg25cbg4408g8e76ge35aa6a8f8ec" version="1">Demigod's Mark</content>
-  <content contentuid="hb37865b0g702bg4e95gace8gb1fcc18a28d3" version="1">Ignore [1] points of &lt;LSTag Tooltip="DamageThreshold"&gt;damage threshold&lt;/LSTag&gt; from all damage types.</content>
-  <content contentuid="hd5ec8398gfba7g4fcdg8999g396f458bfb40" version="1">Precision Shot</content>
-  <content contentuid="h85d2e8a7gafeeg46a9gb8b1ge382fcc76fed" version="1">When making ranged weapon attacks, reroll &lt;LSTag Tooltip="AttackRoll"&gt;attack rolls&lt;/LSTag&gt; of [1] or lower.</content>
+  <content contentuid="hb37865b0g702bg4e95gace8gb1fcc18a28d3" version="1">Ignore all damage of 8 points or less from all damage types.</content>
+  <content contentuid="h0cbf9078gff66g442ega3d0g874f49b2fb0d" version="1">Bone Spike Armor</content>
+  <content contentuid="h5212eabdgd752g452dga2a5g435f99e55715" version="1">Reduce all damage taken by 2 points. When hit by melee attacks, the attacker takes 1d6 piercing damage. This effect increases with level. This ability can be toggled on and off.</content>
+  <content contentuid="h6c39acc8g7500g4a78g87abgc200d545c94a" version="1">Reduce all damage taken by [1] points.</content>
+  <content contentuid="hff1c7b59g94bcg4c50g9393g4838f1ade624" version="1">When hit by melee attacks, the attacker takes [1]. This effect increases with level. This ability can be toggled on and off.</content>
+  <content contentuid="h5149247eg2b60g40a6gbec9gc19bbe951783" version="1">Deflect Missiles</content>
+  <content contentuid="h335b4fbcge0e0g407cg8df6g0d89ab9f32c8" version="1">Gain 2 additional &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction points&lt;/LSTag&gt;. Use your &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to reduce damage from ranged weapon attacks by 1d10 + your Dexterity &lt;LSTag Tooltip="AbilityModifier"&gt;modifier&lt;/LSTag&gt; + your character level, and cast &lt;LSTag Type="Spell" Tooltip="LangFeats_Projectile_Deflect_Missiles"&gt;Deflect Missiles: Redirect&lt;/LSTag&gt; at the attacker.</content>
+  <content contentuid="he45ebf33gbc2ag4d6eg99a5g8a109c3f0a45" version="1">Gain [1] additional &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction points&lt;/LSTag&gt;.</content>
+  <content contentuid="heda21761g743bg47c1g8a8dg602314b97d35" version="1">Use your &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to reduce damage from ranged weapon attacks by 1d10 + your Dexterity &lt;LSTag Tooltip="AbilityModifier"&gt;modifier&lt;/LSTag&gt; + your character level, and cast &lt;LSTag Type="Spell" Tooltip="LangFeats_Projectile_Deflect_Missiles"&gt;Deflect Missiles: Redirect&lt;/LSTag&gt; at the attacker.</content>
+  <content contentuid="hfaabd00ag7c20g4378g9d85g110d5ccd46e2" version="1">Deflect Missiles: Redirect</content>
+  <content contentuid="h4a48dd9fgf8ecg4e2aga2d1g9dbcbf841757" version="1">Use your &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; ability to catch a projectile from a ranged weapon attack and redirect it back at the attacker, dealing scaling [1] damage.</content>
   <content contentuid="h0be69602g0103g46c1g83aag87f2b26ac5a3" version="1">Extra Attack</content>
   <content contentuid="hebc6feeage0d0g4d24g84f5g368de7ca29e2" version="1">After making an unarmed or weapon attack, you can make one additional free attack. Multiple attacks from different classes do not stack.</content>
-  <content contentuid="h5149247eg2b60g40a6gbec9gc19bbe951783" version="1">Deflect Missiles</content>
-  <content contentuid="h335b4fbcge0e0g407cg8df6g0d89ab9f32c8" version="1">Gain [1] additional &lt;LSTag Tooltip="ReactionActionPoint"&gt;reaction points&lt;/LSTag&gt;. Automatically deflect ranged attack projectiles and reflect them back at the attacker, dealing [1] &lt;LSTag Tooltip="Piercing"&gt;piercing&lt;/LSTag&gt; damage. This effect increases with level. This ability can be toggled on and off.</content>
-  <content contentuid="h887404bfg5621g4962gb3d7g0230d1d5ccec" version="1">Deflect Missiles</content>
-  <content contentuid="h231d8875g16d3g40b2gab22ga1d4a2d18635" version="1">Use your &lt;LSTag Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to deflect ranged attack projectiles and throw them back at the attacker, dealing scaling &lt;LSTag Tooltip="Piercing"&gt;piercing&lt;/LSTag&gt; damage (1d6 at 1st level, 2d6 at 3rd level, and so on).</content>
-  <content contentuid="h0cbf9078gff66g442ega3d0g874f49b2fb0d" version="1">Bone Spike Armor</content>
-  <content contentuid="h5212eabdgd752g452dga2a5g435f99e55715" version="1">Reduce all damage types by [1] points. When hit by melee attacks, deal [2] &lt;LSTag Tooltip="Piercing"&gt;piercing&lt;/LSTag&gt; damage to the attacker. This effect increases with level. This ability can be toggled on and off.</content>
+  <content contentuid="hbc979f65g1220g44bag9776g97adab8a5a97" version="1">Aura of Murder</content>
+  <content contentuid="h3933b2f5g2754g4beegaa86g867c8e4b17a2" version="1">Enemies within 3m range become vulnerable to piercing damage, unless they have resistance or immunity to piercing damage. This ability can be toggled on and off.</content>
+  <content contentuid="hd961b2a4g52eeg44dfg91c1g2076b9e989a1" version="1">Widen Wounds</content>
+  <content contentuid="h580b1639gcfc6g42a6gb255g713d28c48195" version="1">When you score a &lt;LSTag Tooltip="CriticalHit"&gt;critical hit&lt;/LSTag&gt;, deal an additional 1d6 force damage (Type A additional damage). This effect increases with level.</content>
+  <content contentuid="h988baf40gdbdbg4f6bga778g51839c24a144" version="1">When you score a &lt;LSTag Tooltip="CriticalHit"&gt;critical hit&lt;/LSTag&gt;, deal an additional [1] force damage (Type A additional damage). This effect increases with level.</content>
+  <content contentuid="h0e6155e7g8fe2g40b2ga343g1325509e760e" version="1">Tragic Critical</content>
+  <content contentuid="h6a38e0cfgb8acg4ea0gbb8cgcb5cdfe60ca8" version="1">When you score a &lt;LSTag Tooltip="CriticalHit"&gt;critical hit&lt;/LSTag&gt;, deal an additional 7 damage (Type B additional damage). This feat can be learned multiple times.</content>
+  <content contentuid="h90f52acfg2f5dg4582gaf2eg9fdee35c929c" version="1">Improved Critical</content>
+  <content contentuid="h778d413cg0142g41e5g9e89g645191486c18" version="1">When making &lt;LSTag Tooltip="AttackRoll"&gt;attack rolls&lt;/LSTag&gt;, the number required to trigger a &lt;LSTag Tooltip="CriticalHit"&gt;critical hit&lt;/LSTag&gt; is reduced by 1. This effect can stack. This feat can be learned multiple times.</content>
+  <content contentuid="hd5ec8398gfba7g4fcdg8999g396f458bfb40" version="1">Precision Shot</content>
+  <content contentuid="h85d2e8a7gafeeg46a9gb8b1ge382fcc76fed" version="1">When you roll 10 or lower on &lt;LSTag Tooltip="AttackRoll"&gt;attack rolls&lt;/LSTag&gt; with ranged weapons, you must reroll and use the new result.</content>
+  <content contentuid="hd05631bbg8915g4a40g8aefg063e1c49a12e" version="1">Titan Shot</content>
+  <content contentuid="hce01afccge682g42c7g911dg7f25f44b7a49" version="1">Your ranged weapon attacks deal additional damage equal to your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;modifier&lt;/LSTag&gt;.</content>
+  <content contentuid="h445cfcd8gcdf0g4c1bgbf1ag5bb6ffe8ac5f" version="1">Cantrip Master</content>
+  <content contentuid="h8bc1ff1fge5b0g4f83g9505g87fe02e2bf58" version="1">Cantrips that consume an &lt;LSTag Tooltip="Action"&gt;action&lt;/LSTag&gt; now consume a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; instead. This ability can be toggled on and off.</content>
+  <content contentuid="h2688be97g81b8g4175gaff4gaeedf4b03988" version="1">Agonizing Blast</content>
+  <content contentuid="headb6201g3e5fg41e2gacd0gb37fa8a3936a" version="1">Cantrips deal additional damage equal to your chosen ability &lt;LSTag Tooltip="AbilityModifier"&gt;modifier&lt;/LSTag&gt;. The chosen ability score increases by 1.</content>
+  <content contentuid="h32cfda0dgc1a8g4813g89d0g25b6aeeaf524" version="1">Agonizing Blast (Strength)</content>
+  <content contentuid="h23d592a9g3a8fg4997ga7c3g45177bd6b447" version="1">Cantrips deal additional damage equal to your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;modifier&lt;/LSTag&gt;. &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; increases by 1.</content>
+  <content contentuid="hd854cebcge9c9g4cb8gabdbg8e051f9bb797" version="1">Agonizing Blast (Dexterity)</content>
+  <content contentuid="h06b02155g7d19g45b9gb10dg0bd973caa39c" version="1">Cantrips deal additional damage equal to your &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;modifier&lt;/LSTag&gt;. &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; increases by 1.</content>
+  <content contentuid="hee63f83bg732eg4b27gb00fge4b5e9e5e088" version="1">Agonizing Blast (Constitution)</content>
+  <content contentuid="h76721fc7g2de0g47b9g97d3gef341effd4e0" version="1">Cantrips deal additional damage equal to your &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;modifier&lt;/LSTag&gt;. &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; increases by 1.</content>
+  <content contentuid="hbd2dc0fag9d54g40f2gb4f0g3de869026238" version="1">Agonizing Blast (Intelligence)</content>
+  <content contentuid="he58c3221g4e4eg426agbb1fgfe21ddebb3f5" version="1">Cantrips deal additional damage equal to your &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;modifier&lt;/LSTag&gt;. &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; increases by 1.</content>
+  <content contentuid="h62bdc4dag19a9g4649g810cgf8ea96022c2f" version="1">Agonizing Blast (Wisdom)</content>
+  <content contentuid="h9d515e4ag73efg48d7ga9d8gd2cc18913730" version="1">Cantrips deal additional damage equal to your &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;modifier&lt;/LSTag&gt;. &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; increases by 1.</content>
+  <content contentuid="h10725b31g2fb3g4252gb34eg866046da03b2" version="1">Agonizing Blast (Charisma)</content>
+  <content contentuid="ha6d94a78g4a84g4b91g95f3g3ec9f2aa7997" version="1">Cantrips deal additional damage equal to your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;modifier&lt;/LSTag&gt;. &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; increases by 1.</content>
 </contentList>
