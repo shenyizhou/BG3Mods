@@ -1,0 +1,17 @@
+new equipment "LEGI_Dark_Pact_1_Cambion_Male"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_DoomAxe"
+
+
+new equipment "LEGI_Dark_Pact_2_Cambion_Male"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "ThunderousGlaive"
+
+new equipment "LEGI_Dark_Pact_3_Cambion_Male"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "LEGI_MAG_Infernal_Longsword"
+add equipmentgroup
+add equipment entry "LEGI_MAG_TheCrimson_Shortsword"

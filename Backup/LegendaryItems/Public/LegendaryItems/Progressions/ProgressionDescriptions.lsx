@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="322"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <attribute id="Hidden" type="bool" value="true"/>
+                    <attribute id="PassivePrototype" type="FixedString" value="LEGI_Dark_Pact_Toggle"/>
+                    <attribute id="Type" type="FixedString" value="LEGI_Dark_Pact_Toggle"/>
+                    <attribute id="UUID" type="guid" value="d93dee8a-20cc-4d15-bfcd-2bab9ac88030"/>
+                </node>
+             </children>
+        </node>
+    </region>
+</save>

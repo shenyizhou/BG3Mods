@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="322" lslib_meta="v1,bswap_guids" />
+	<region id="root">
+		<node id="root">
+			<children>
+				<node id="ProgressionDescription">
+					<attribute id="Hidden" type="bool" value="True" />
+					<attribute id="PassivePrototype" type="FixedString" value="LEGI_Dark_Pact_Toggle" />
+					<attribute id="Type" type="FixedString" value="LEGI_Dark_Pact_Toggle" />
+					<attribute id="UUID" type="guid" value="d93dee8a-20cc-4d15-cdbf-ab2bc89a3080" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
