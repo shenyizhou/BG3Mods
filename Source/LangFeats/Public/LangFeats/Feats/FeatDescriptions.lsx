@@ -19,6 +19,27 @@
                     <attribute id="UUID" type="guid" value="9237fa51-616b-4294-a7e2-9ddf57f54bfa"/>
                 </node>
                 <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h4cbfeb20gf142g4c3bga4e6gcf9c4acb88e6" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9a8b72a0gf46dg433ag9a02gf0785a95b7bc" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="LangFeats_TiYunZong"/>
+                    <attribute id="FeatId" type="guid" value="c3d4e5f6-a7b8-9012-cdef-345678901234"/>
+                    <attribute id="UUID" type="guid" value="c3d4e5f6-a7b8-9012-cdef-345678901234"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hc0decce3g35ecg4ef6gaeb1g69746c6100ba" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h18c06e21gd830g46dfg8b98g36dc52717f77" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="LangFeats_YiWeiDuJiang"/>
+                    <attribute id="FeatId" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567890"/>
+                    <attribute id="UUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567890"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="he42f3386g62d7g4d28gbeefgc6a99e526e86" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf635c638g7c69g4197gbe5cg6e9d011c993f" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="LangFeats_LingBoWeiBu"/>
+                    <attribute id="FeatId" type="guid" value="b2c3d4e5-f6a7-8901-bcde-f23456789012"/>
+                    <attribute id="UUID" type="guid" value="b2c3d4e5-f6a7-8901-bcde-f23456789012"/>
+                </node>
+                <node id="FeatDescription">
                     <attribute id="Description" type="TranslatedString" handle="h25064b5eg8d83g4f80g8223gfb79a9cb0af7" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hd0951908g8168g489cga307g3e1bcd9b81a2" version="1"/>
                     <attribute id="ExactMatch" type="FixedString" value="LangFeats_ShouHuZhiLian"/>
