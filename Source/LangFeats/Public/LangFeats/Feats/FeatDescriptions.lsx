@@ -22,22 +22,22 @@
                     <attribute id="Description" type="TranslatedString" handle="h4cbfeb20gf142g4c3bga4e6gcf9c4acb88e6" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h9a8b72a0gf46dg433ag9a02gf0785a95b7bc" version="1"/>
                     <attribute id="ExactMatch" type="FixedString" value="LangFeats_TiYunZong"/>
-                    <attribute id="FeatId" type="guid" value="c3d4e5f6-a7b8-9012-cdef-345678901234"/>
-                    <attribute id="UUID" type="guid" value="c3d4e5f6-a7b8-9012-cdef-345678901234"/>
+                    <attribute id="FeatId" type="guid" value="5fbd2575-6ac0-43b9-bc26-717accdbd1df"/>
+                    <attribute id="UUID" type="guid" value="ac2ca0c4-cdf8-4237-ba14-d141b18155f7"/>
                 </node>
                 <node id="FeatDescription">
                     <attribute id="Description" type="TranslatedString" handle="hc0decce3g35ecg4ef6gaeb1g69746c6100ba" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h18c06e21gd830g46dfg8b98g36dc52717f77" version="1"/>
                     <attribute id="ExactMatch" type="FixedString" value="LangFeats_YiWeiDuJiang"/>
-                    <attribute id="FeatId" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567890"/>
-                    <attribute id="UUID" type="guid" value="a1b2c3d4-e5f6-7890-abcd-ef1234567890"/>
+                    <attribute id="FeatId" type="guid" value="8df4954c-f999-44b4-b0fc-82958332fa75"/>
+                    <attribute id="UUID" type="guid" value="ed134fb9-df2d-4df9-abf4-3c858e566e8d"/>
                 </node>
                 <node id="FeatDescription">
                     <attribute id="Description" type="TranslatedString" handle="he42f3386g62d7g4d28gbeefgc6a99e526e86" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hf635c638g7c69g4197gbe5cg6e9d011c993f" version="1"/>
                     <attribute id="ExactMatch" type="FixedString" value="LangFeats_LingBoWeiBu"/>
-                    <attribute id="FeatId" type="guid" value="b2c3d4e5-f6a7-8901-bcde-f23456789012"/>
-                    <attribute id="UUID" type="guid" value="b2c3d4e5-f6a7-8901-bcde-f23456789012"/>
+                    <attribute id="FeatId" type="guid" value="643ed7cf-63d9-409b-8175-374279af6df4"/>
+                    <attribute id="UUID" type="guid" value="c863b27a-739d-4b4b-9503-5ffdad35c077"/>
                 </node>
                 <node id="FeatDescription">
                     <attribute id="Description" type="TranslatedString" handle="h25064b5eg8d83g4f80g8223gfb79a9cb0af7" version="1"/>
