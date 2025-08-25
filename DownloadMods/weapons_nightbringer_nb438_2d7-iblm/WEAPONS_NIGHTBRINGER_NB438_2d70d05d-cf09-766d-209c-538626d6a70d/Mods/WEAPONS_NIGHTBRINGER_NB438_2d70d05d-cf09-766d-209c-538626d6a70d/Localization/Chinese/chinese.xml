@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h66362ae1g8d99gd80dg1c97ga7a0bdd1cb8a" version="6">破碎双剑 沃拉克·诺克斯</content>
+  <content contentuid="hb753c091gd143g6ce5gc4a4gd930ec7078f0" version="6">被时间粉碎却从未真正失落，这把剑刃静静沉睡，其破碎的锋刃承载着远古虚空之力的回响。</content>
+  <content contentuid="h0f0b688fg9270gef84g69f1g7f125c0dfe9f" version="7">破碎双剑 沃拉克·苏尔</content>
+  <content contentuid="h87f3d5f6g1256g49b1g1336g9e886842400e" version="7">虽已破碎，但它的存在仍在吞噬周围的光芒，渴望重新完整。</content>
+  <content contentuid="h670afe30g3d58gf1d5gd1f2gc10a5829c364" version="1">强化重击</content>
+  <content contentuid="h707d767bg0c89ge1ffg4250g0c61de8ab1fa" version="2">进行&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;所需的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;数值降低1。如果目标的&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;低于50%，此降低效果额外增加1。此效果可以叠加。</content>
+  <content contentuid="h3bd2990eg4a22g52a1gce20gec5b09493957" version="2">突然推进</content>
+  <content contentuid="ha8419d67ga3e0gca9dgee8fgde6d625efde0" version="2">将&lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;夜幕降临&lt;/LSTag&gt;的射程扩展至[1]。</content>
+  <content contentuid="hf61d49b7g2975g67e2g5db5g2a050138b1c4" version="4">低语之痕</content>
+  <content contentuid="h6f8bed0bgec5ag8fccgffc5g1a3b52bf33d0" version="4">一把诞生于痛苦的武器，其弦线回响着被遗忘痛苦的幽灵低语。</content>
+  <content contentuid="h2a8cc9e9gc386gfc0cg0ec1g6f9e56fe7552" version="1">伏击者</content>
+  <content contentuid="h09c12323g7e88gcb3dge49ag97f340826fd4" version="5">先攻检定获得+[1]加值。此加值在角色5级和10级时增加。</content>
+  <content contentuid="h8b326443gb5b6ga39cg68e7g93159d290824" version="1">伤害加值在角色5级和10级时增加[1]。</content>
+  <content contentuid="h51affd69g7fd0g532fg08a4g558e7ab40cd9" version="1">平衡</content>
+  <content contentuid="h6b098f01g27e6g49e9g4c58g95959bbf3d5f" version="5">装备时，你的&lt;LSTag Tooltip="AttackRoll"&gt;攻击&lt;/LSTag&gt;和武器伤害检定受到-2减值。此减值在角色5级和10级时减少1。此效果不会叠加。</content>
+  <content contentuid="h45f03f12ged4dg07d2ga23dgbf02b991212d" version="1">平衡</content>
+  <content contentuid="h3d47e5e1gc6ccgff97g11d1g0a0c4f232b17" version="1">平衡</content>
+  <content contentuid="h7c238ac1gfc1eg03c5g6c8ag09ee937f1126" version="1">装备时，你的&lt;LSTag Tooltip="AttackRoll"&gt;攻击&lt;/LSTag&gt;和武器伤害检定受到-2减值。在角色5级和10级时，减值减少1。此效果不会叠加。</content>
+  <content contentuid="haab457fega143gc43dg2042gb8e1f1a43b69" version="1">削弱</content>
+  <content contentuid="h3aa7fa33gd46ag0aa4g7c4cg9f3f688de81a" version="2">装备时，你的&lt;LSTag Tooltip="AttackRoll"&gt;攻击&lt;/LSTag&gt;受到-2减值，武器伤害受到-5减值。在角色5级和10级时，&lt;LSTag Tooltip="AttackRoll"&gt;攻击&lt;/LSTag&gt;减值减少1。此效果不会叠加。</content>
+  <content contentuid="haedb2446g7e7dg4ac4g04adga2e7b495d620" version="1">削弱</content>
+  <content contentuid="h92b3eec4g0410g8a58g8007gcdaa7926dedb" version="1">装备时，你的&lt;LSTag Tooltip="AttackRoll"&gt;攻击&lt;/LSTag&gt;受到-2减值，武器伤害受到-5减值。在角色5级和10级时，&lt;LSTag Tooltip="AttackRoll"&gt;攻击&lt;/LSTag&gt;减值减少1。此效果不会叠加。</content>
+  <content contentuid="h1521ea95ga43bgce59gbb08gf6d0953650d7" version="1">破碎双剑 沃拉克·诺克斯（削弱版）</content>
+  <content contentuid="h083d3b19g6164g12d0gf665gec50fefe12ce" version="1">被时间粉碎却从未真正失落，这把剑刃静静沉睡，其破碎的锋刃承载着远古虚空之力的回响。</content>
+  <content contentuid="h6a6d9638ge26cg3ae8gbec1g9addf81e4dc4" version="1">破碎双剑 沃拉克·苏尔（削弱版）</content>
+  <content contentuid="hc0d81372g46c6g953cgde4dga1c824cc04b7" version="1">虽已破碎，但它的存在仍在吞噬周围的光芒，渴望重新完整。</content>
+  <content contentuid="h879fcc18g98d7g3910g2cbdg5ce0bafbc8e7" version="2">低语之痕（削弱版）</content>
+  <content contentuid="hab8ac2a5g6c15g518cg5f4eg50d95b1ce5a3" version="2">一把诞生于痛苦的武器，其弦线回响着被遗忘痛苦的幽灵低语。</content>
+  <content contentuid="h829eae0cgf410gb68eg8e0fg9ed8335fcc8e" version="3">夜使武器（旧版本）</content>
+  <content contentuid="hf0b8730cg0d39gb11dgad3bg81436eb6e78a" version="2">包含夜使武器的旧版本。</content>
+  <content contentuid="h7298524cga8a2gdf2egbcb8g5eb162368fac" version="4">夜使武器（新版本）</content>
+  <content contentuid="had5d5bb4g1cf2g5c99g4aedgc265c5b43981" version="4">包含夜使武器的新版本。</content>
+  <content contentuid="h26ce411fgb3b7gc8f9g7ca8gf4fb5df9b992" version="2">破碎双剑 沃拉克·苏尔</content>
+  <content contentuid="h400c9936gb1d8g3c55gac6dg3b25e8a3e541" version="2">虽已破碎，但它的存在仍在吞噬周围的光芒，渴望重新完整。</content>
+  <content contentuid="hfbcf19f2g7f70ga50ag34aag989390fd22bb" version="1">快速拔刀</content>
+  <content contentuid="h679ec5b7g63f4g36acg097dg320fc907eaf4" version="2">装备此武器不消耗行动点。</content>
+  <content contentuid="h58e5664bg9ad9gdbb2g8421gfa6c3c6e1220" version="1">破碎双剑 沃拉克·诺克斯</content>
+  <content contentuid="h98554a2eg438cgd217g116fg00d354153145" version="1">被时间粉碎却从未真正失落，这把剑刃静静沉睡，其破碎的锋刃承载着远古虚空之力的回响。</content>
+  <content contentuid="h630de52bg38adgeba6ge370gdd07b7782b05" version="6">低语之痕</content>
+  <content contentuid="hc23029ecgdf2eg2dc4g8079geba853705bd4" version="1">夜幕降临（远程）</content>
+  <content contentuid="h86cf74a7gdf83gad92g26dagc50ed4757db2" version="1">目标必须被&lt;LSTag Type="Status"Tooltip="NIGHTBRAND_NB438"&gt;夜之烙印&lt;/LSTag&gt;影响，同时你在[1]范围内有盟友或对其拥有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。用此攻击杀死生物会给予你[1]移动力和1回合的&lt;LSTag Type="Status"Tooltip="DARKACCELERATION_NB438"&gt;黑暗加速&lt;/LSTag&gt;。</content>
+  <content contentuid="ha24129bfgd9e6gc4f5g291agbbaee504d51d" version="1">伤害在每个奇数角色等级时增加[1]。</content>
+  <content contentuid="h16f3c0a8g5df1g9e7eg1eb6g2a2ceba1d017" version="3">低语回响</content>
+  <content contentuid="hf8c96445gd7efg95d0g6fe9g8b6558cf2af3" version="1">变形：梦魇生物</content>
+  <content contentuid="h0f6caf1ag0862g39a6g8e3dg5bd3c5aa61d3" version="1">以自己或盟友为目标，将其变形为梦魇生物。这会使&lt;LSTag Type="Status" Tooltip="ABYSSVEINSET_NB438"&gt;深度连接&lt;/LSTag&gt;的剩余持续时间减少1回合。</content>
+  <content contentuid="h4587c58bg17fegec45gc3a5g4b409415d02e" version="1">变形：梦魇生物</content>
+  <content contentuid="ha3938578g9d7bg7a33g13a9g938dd9ff0aa3" version="2">以盟友为目标，将其变形为梦魇生物。</content>
+  <content contentuid="hce54125fgc3bcgbfd4gf111g7af5bf544a37" version="2">梦境杀手</content>
+  <content contentuid="hed4173bdgae47gc678g2433gfabb580a9b3d" version="2">进行&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;所需的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;数值降低1。在&lt;LSTag Type="Status" Tooltip="NIGHTMAREREALM_NB438"&gt;梦魇领域&lt;/LSTag&gt;内时，此降低效果额外增加1。此效果可以叠加。</content>
+  <content contentuid="h921b33d2g366cg2f51g5074g54de51c5f36b" version="2">一把在折磨中锻造的武器，其弦线与被遗忘痛苦的幽灵低语产生共鸣。</content>
+  <content contentuid="h2b470f48gf91eg775fge4b7g9ac44db1b74b" version="2">每一支射出的弩矢都承载着曾经失落之声的回响。</content>
+  <content contentuid="h90f176dbg4f25ge043ga970g15f0aaddead4" version="10">梦境粉碎</content>
+  <content contentuid="h58f01515g11aeg581fg2600g64b4ce74f4db" version="10">这把长矛不仅刺穿血肉，更刺穿心灵本身，每一击都粉碎着意义和信念。</content>
+  <content contentuid="h074a966bg5ccbg268bg6018g42e382042d66" version="2">夜之居民</content>
+  <content contentuid="h082b0374g88d4g9041g5683g374f8b36116d" version="10">在&lt;LSTag Type="Status" Tooltip="NIGHTMAREREALM_NB438"&gt;梦魇领域&lt;/LSTag&gt;之外，此武器的攻击和伤害检定受到-10减值。命中时，你恢复等同于你魅力调整值的生命值。此武器使用你的&lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;施法能力调整值&lt;/LSTag&gt;进行&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;，其武器伤害类型为力场。</content>
+  <content contentuid="h53a9a84fgb660g07e4gb3c8g16675654cc57" version="1">扭曲节拍</content>
+  <content contentuid="h0be29681gc389g7c35ge94dg40a87fcb60be" version="2">每场战斗一次，当你杀死敌人时，你立即获得一个额外的&lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;行动&lt;/LSTag&gt;在本回合使用。</content>
+  <content contentuid="h37ccb487gaceag9183gb16fg617feb148aa7" version="1">扭曲节拍</content>
+  <content contentuid="hd168a659gaab0g3390g4979ge6504616cacd" version="1">本回合可以进行一次额外&lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;行动&lt;/LSTag&gt;。</content>
+  <content contentuid="h54da578dgab30gf0c3g944ag1da9534d35ca" version="1">变形：梦魇生物</content>
+  <content contentuid="h5788dfa8g4bd6g632cgaa0agaa26e4296e89" version="1">以自己或盟友为目标，将其变形为梦魇生物。这会使&lt;LSTag Type="Status" Tooltip="ABYSSVEINSET_NB438"&gt;深度连接&lt;/LSTag&gt;的剩余持续时间减少1回合。</content>
+  <content contentuid="h37f64244g0563gda78gfed2g5d0b6c709b9d" version="2">心灵震荡</content>
+  <content contentuid="h73670b78g92bdg076bg056fgc24bcbba1198" version="3">只能在&lt;LSTag Type="Status" Tooltip="NIGHTMAREREALM_NB438"&gt;梦魇领域&lt;/LSTag&gt;内使用。通过梦境血管，你释放出一股扭曲现实本身的梦魇能量。[1]范围内的盟友变为梦魇生物，而敌人被恐惧抓住并陷入&lt;LSTag Type="Status" Tooltip="DAZED"&gt;眩晕&lt;/LSTag&gt;。</content>
+  <content contentuid="h4cbf7ad9g790bg7648g94f1g608e6975eba4" version="2">治疗效果在每个奇数等级时额外增加[1]。</content>
+  <content contentuid="hef577865gde5agff4egeb76g64e8b6f4a6f7" version="1">暗影锻造武器</content>
+</contentList>
