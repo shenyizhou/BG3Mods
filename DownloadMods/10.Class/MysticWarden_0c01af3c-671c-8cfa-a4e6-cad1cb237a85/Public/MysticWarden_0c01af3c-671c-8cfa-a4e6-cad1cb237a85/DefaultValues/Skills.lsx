@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Arcana;History;Investigation;Persuasion;Religion;Medicine;Insight"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="8ef39dbf-30cc-4cbb-94dd-d05c57bd6024"/>
+                    <attribute id="UUID" type="guid" value="383fcc48-297f-462b-844d-637a7d01958c"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

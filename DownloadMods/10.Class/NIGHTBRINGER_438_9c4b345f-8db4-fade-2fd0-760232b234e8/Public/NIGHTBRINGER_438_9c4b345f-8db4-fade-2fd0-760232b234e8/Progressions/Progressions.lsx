@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="400"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(HeavyArmor);Proficiency(Shields);Proficiency(SimpleWeapons);Proficiency(MartialWeapons)"/>
+                    <attribute id="IsMulticlass" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1;Expertise;ShadowforgedBlade_NB438;SpawnOfDarkness_NB438;Nightvision_NB438;Nightfall_KillEffect_NB438;RemoveStatusOnCombatEnd_NB438;RemoveStatusOnKIll_NB438"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(2248ed2e-da10-4f45-a313-8acc0cef7403);AddSpells(efdd15a1-8861-46a5-851a-bc64c595874c,,,,AlwaysPrepared);SelectSkillsExpertise(f974ebd6-3725-4b90-bb5c-2b647d41615d,2);AddSpells(0ce6a64d-aee7-412a-8722-9543066fef58,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="b01bbeda-5ab9-4ebf-989d-5df718a83186"/>
+                    <attribute id="UUID" type="guid" value="2f5fbf95-60d8-4aa3-99ef-4f8c3997b9d3"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1);ProficiencyBonus(SavingThrow,Charisma);ProficiencyBonus(SavingThrow,Constitution);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(HeavyArmor);Proficiency(Shields);Proficiency(SimpleWeapons);Proficiency(MartialWeapons)"/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1;Expertise;SpawnOfDarkness_NB438;Nightvision_NB438;Nightfall_KillEffect_NB438;RemoveStatusOnCombatEnd_NB438;RemoveStatusOnKIll_NB438"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(efdd15a1-8861-46a5-851a-bc64c595874c,,,,AlwaysPrepared);AddSpells(2248ed2e-da10-4f45-a313-8acc0cef7403);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectSkills(ed664663-93b9-4070-a54b-3c7b19c0e7b4,3);SelectSkillsExpertise(f974ebd6-3725-4b90-bb5c-2b647d41615d,2);AddSpells(0ce6a64d-aee7-412a-8722-9543066fef58,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="b01bbeda-5ab9-4ebf-989d-5df718a83186"/>
+                    <attribute id="UUID" type="guid" value="8a35acbc-25af-43e9-bedb-60afec85af2a"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1)"/>
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Name" type="LSString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ShadesEmbrace_NB438;SummonNightEyeI_NB438"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(f72657f2-70ae-425e-883a-b54b71fb0a4e,,,,AlwaysPrepared);"/>
+                    <attribute id="TableUUID" type="guid" value="b01bbeda-5ab9-4ebf-989d-5df718a83186"/>
+                    <attribute id="UUID" type="guid" value="7f27d0ea-0efd-420e-9b9c-b6c4588abb8b"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ActionResource(SpellSlot,2,2)"/>
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel2;EchoOfOblivion_NB438;EchoOfOblivion_Trigger_NB438"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(84638940-aeba-4835-a668-0d2d6ce63955,,,,AlwaysPrepared);AddSpells(87e9c330-b11f-45d5-9ccd-e4e4cbdb01b1)"/>
+                    <attribute id="TableUUID" type="guid" value="b01bbeda-5ab9-4ebf-989d-5df718a83186"/>
+                    <attribute id="UUID" type="guid" value="12c3e8dd-d975-4c47-84ce-08c4ced59813"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2)"/>
+                    <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="Name" type="LSString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="PassivesAdded" type="LSString" value="NightPiercer_NB438"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(28de18b4-0dc4-4b1a-b543-a9e79da6f036,1,0,,,,AlwaysPrepared);SelectPassives(8a693626-e688-4191-95ec-1cddd74fe71a,1,FightingStyle)"/>
+                    <attribute id="TableUUID" type="guid" value="b01bbeda-5ab9-4ebf-989d-5df718a83186"/>
+                    <attribute id="UUID" type="guid" value="89d32f58-3ec5-4ea3-8e2f-783689b1773d"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2);ActionResource(SpellSlot,2,3)"/>
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="Name" type="LSString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel3;NightEyeAndShadowShift_Unlock_NB438;SummonNightEyeII_NB438;ExtraAttack"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(bd1f5f30-5122-4024-942a-70683dd71b17,,,,AlwaysPrepared);AddSpells(e8fa7302-1546-402d-b2c4-0ab547a37920)"/>
+                    <attribute id="TableUUID" type="guid" value="b01bbeda-5ab9-4ebf-989d-5df718a83186"/>
+                    <attribute id="UUID" type="guid" value="fbbf195a-ca01-471e-a36d-4868c787873f"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,3)"/>
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="Name" type="LSString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Expertise"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSkillsExpertise(f974ebd6-3725-4b90-bb5c-2b647d41615d,2);"/>
+                    <attribute id="TableUUID" type="guid" value="b01bbeda-5ab9-4ebf-989d-5df718a83186"/>
+                    <attribute id="UUID" type="guid" value="519f95b5-bd64-4686-a8ab-275aca6c0233"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,3);ActionResource(SpellSlot,2,4)"/>
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel4;EnigmaticFlow_Cancel_NB438;EnigmaticFlow_Cooldown_NB438;EnigmaticFlow_Cooldown_ShortRest_NB438"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(d9f8e3c3-3e44-4aab-a5f0-2bc0824374b6,,,,AlwaysPrepared);AddSpells(d2100dff-6d66-4c05-b19b-422c6ddbe348);"/>
+                    <attribute id="TableUUID" type="guid" value="b01bbeda-5ab9-4ebf-989d-5df718a83186"/>
+                    <attribute id="UUID" type="guid" value="9b891fb1-450b-496c-b067-552719845484"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4)"/>
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="Name" type="LSString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="PassivesAdded" type="LSString" value="DarkAmplification_NB438"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(f7250936-1226-4da6-a473-f824135eb1f3,1,ShadowMimicry)"/>
+                    <attribute id="TableUUID" type="guid" value="b01bbeda-5ab9-4ebf-989d-5df718a83186"/>
+                    <attribute id="UUID" type="guid" value="fb77053d-b74d-4f85-a18c-28c38d619421"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4);ActionResource(SpellSlot,2,5)"/>
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Name" type="LSString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel5"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(a70bc820-d943-44f0-aff5-8e601f356d31);SelectPassives(8a693626-e688-4191-95ec-1cddd74fe71a,1,FightingStyle);"/>
+                    <attribute id="TableUUID" type="guid" value="b01bbeda-5ab9-4ebf-989d-5df718a83186"/>
+                    <attribute id="UUID" type="guid" value="3480da9c-e100-416d-84bf-619db93e497f"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5)"/>
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="Name" type="LSString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="PassivesAdded" type="LSString" value="SummonNightEyeIII_NB438;NightEyeAndShadowShift_UnlockLevel_10_NB438"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(2331df86-126a-4623-8816-40f15b3db888,,,,AlwaysPrepared);"/>
+                    <attribute id="TableUUID" type="guid" value="b01bbeda-5ab9-4ebf-989d-5df718a83186"/>
+                    <attribute id="UUID" type="guid" value="6048de55-8b1e-4cf4-99f1-c80cf04f1357"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5);ActionResource(SpellSlot,2,6)"/>
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel6;ReliableTalent;ExtraAttack_2"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="ExtraAttack"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(748207db-e6b3-47c7-8051-058a85f01fbf)"/>
+                    <attribute id="TableUUID" type="guid" value="b01bbeda-5ab9-4ebf-989d-5df718a83186"/>
+                    <attribute id="UUID" type="guid" value="fdfa414f-732f-4f3f-83f1-c082306b4575"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,6)"/>
+                    <attribute id="Level" type="uint8" value="12"/>
+                    <attribute id="Name" type="LSString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="b01bbeda-5ab9-4ebf-989d-5df718a83186"/>
+                    <attribute id="UUID" type="guid" value="255049b2-9de2-4246-b869-518b073aeb51"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,6);ActionResource(SpellSlot,2,7)"/>
+                    <attribute id="Level" type="uint8" value="13"/>
+                    <attribute id="Name" type="LSString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel7"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="b01bbeda-5ab9-4ebf-989d-5df718a83186"/>
+                    <attribute id="UUID" type="guid" value="3275b4f0-dcaa-4f7c-9f37-9f6ea4699b62"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,7)"/>
+                    <attribute id="Level" type="uint8" value="14"/>
+                    <attribute id="Name" type="LSString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(f7250936-1226-4da6-a473-f824135eb1f3,1,ShadowMimicry)"/>
+                    <attribute id="TableUUID" type="guid" value="b01bbeda-5ab9-4ebf-989d-5df718a83186"/>
+                    <attribute id="UUID" type="guid" value="0eccbcc4-7c2d-4005-b869-e48674966b7a"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,7);ActionResource(SpellSlot,2,8)"/>
+                    <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Name" type="LSString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel8"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="b01bbeda-5ab9-4ebf-989d-5df718a83186"/>
+                    <attribute id="UUID" type="guid" value="55f08fbe-8344-40cb-94f1-82998bf4cd9c"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,8)"/>
+                    <attribute id="Level" type="uint8" value="16"/>
+                    <attribute id="Name" type="LSString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="b01bbeda-5ab9-4ebf-989d-5df718a83186"/>
+                    <attribute id="UUID" type="guid" value="bfcad933-29ef-45f3-a4fb-7ac8a8b14e4f"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,8);ActionResource(SpellSlot,2,9)"/>
+                    <attribute id="Level" type="uint8" value="17"/>
+                    <attribute id="Name" type="LSString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel9"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(f7250936-1226-4da6-a473-f824135eb1f3,1,ShadowMimicry)"/>
+                    <attribute id="TableUUID" type="guid" value="b01bbeda-5ab9-4ebf-989d-5df718a83186"/>
+                    <attribute id="UUID" type="guid" value="06185b9b-4eb4-4878-8ff9-a07a06aa3d45"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,9)"/>
+                    <attribute id="Level" type="uint8" value="18"/>
+                    <attribute id="Name" type="LSString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="b01bbeda-5ab9-4ebf-989d-5df718a83186"/>
+                    <attribute id="UUID" type="guid" value="1fa73835-90f0-4d47-a3df-4cd980af29a2"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,9);ActionResource(SpellSlot,2,10)"/>
+                    <attribute id="Level" type="uint8" value="19"/>
+                    <attribute id="Name" type="LSString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel10"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="b01bbeda-5ab9-4ebf-989d-5df718a83186"/>
+                    <attribute id="UUID" type="guid" value="09103644-7dd5-4eb6-82a9-3eaef3b70b8c"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,10)"/>
+                    <attribute id="Level" type="uint8" value="20"/>
+                    <attribute id="Name" type="LSString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(f7250936-1226-4da6-a473-f824135eb1f3,1,ShadowMimicry)"/>
+                    <attribute id="TableUUID" type="guid" value="b01bbeda-5ab9-4ebf-989d-5df718a83186"/>
+                    <attribute id="UUID" type="guid" value="de88f4fb-512e-44ab-8e01-2f7ba5432cff"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

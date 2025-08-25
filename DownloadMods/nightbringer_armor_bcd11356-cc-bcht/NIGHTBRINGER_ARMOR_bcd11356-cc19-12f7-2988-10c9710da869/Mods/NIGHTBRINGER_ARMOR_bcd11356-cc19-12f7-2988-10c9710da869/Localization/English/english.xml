@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h111e274dg8488gc2cbgbd9fgc2aa1f96c9fb" version="2">Avatar of Destruction</content>
+  <content contentuid="h54ec853aga238gbf99gdaa1gd6245760f8d0" version="2">´Transformation: Nightmare Creature</content>
+  <content contentuid="hae9bf127g36c1g49d2g42a5g6b5521b3f9d0" version="19">saddas</content>
+  <content contentuid="ha12d38fcge30dg8d86g17c0gb8a7ffea7ad4" version="1">Transformation Skin</content>
+  <content contentuid="h46495fe6g30aag01bfg0ba9g58b1dc964f49" version="14">Master of the House</content>
+  <content contentuid="h036b09d3g203bg483cga609g38334103e809" version="2">Wail of the Underworld</content>
+  <content contentuid="h80ed75bdg2b55g6b76gc16ag4829fd9730c0" version="5">Unleash a soul-rending scream that instills terror in nearby enemies and marks them with &lt;LSTag Type="Status" Tooltip="NIGHTBRAND_NIGHTEYE_NB438"&gt;Nightbrand&lt;/LSTag&gt; for 2 turns.</content>
+  <content contentuid="h61a4bf7age3b6g1befg4212g1da8a17cd86c" version="2">Nightmare Storm</content>
+  <content contentuid="h9d69afc8gf9aeg25c3gdd33gae06f096bc29" version="1">Shadow Shift</content>
+  <content contentuid="h2200af3ag76a4gcb82g6954gffed57456fd4" version="1">hidden</content>
+  <content contentuid="h02a05bd5gbb8eg32a2gbcd7ga985cedea8d2" version="4">Obsidian Mirror</content>
+  <content contentuid="h5b2e7712g22e7g2a82g5c3dg7c0d2539367d" version="4">When an ally is attacked, you can use your &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reaction&lt;/LSTag&gt; to activate &lt;LSTag Type="Spell" Tooltip="Target_BloodrootVengeance_NB438"&gt;Touch of the First Dream&lt;/LSTag&gt;.</content>
+  <content contentuid="hdd328a5cga3adg2996geeb5g37ab22f0d11d" version="6">Touch of the First Dream</content>
+  <content contentuid="hd27bd90egb335g84d3g7d9egc8de87bc2847" version="6">Boundless Presence</content>
+  <content contentuid="h0453cdbdg0ca8g88e0g7e2fgd5b4d4b5a6fb" version="11">Your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; is reduced by 10. When an ally is attacked, you can use your &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reaction&lt;/LSTag&gt; to activate &lt;LSTag Type="Spell" Tooltip="Target_BloodrootVengeance_NB438"&gt;Touch of the First Dream&lt;/LSTag&gt;.</content>
+  <content contentuid="h480dcc9eg68a1g826dg3ef3g35b35eee85a8" version="8">Dreamvein Leathers</content>
+  <content contentuid="he617fbf0ga325gf945gd8ffg303eb97d0fec" version="8">Passed down by an ancient cult long forgotten. These leathers were never meant to shield the body, but to open a channel. The wearer forges a silent covenant with a force beyond comprehension, bestowing a haunting insight that all threads of existence converge in a single heart, the First Dream.</content>
+  <content contentuid="h94a7a44dg06fag54ecg0ea1gdef637de2127" version="7">Dreamvein Cloak</content>
+  <content contentuid="hd3751fa7g6e50g54d3gd33bg93a6b63d1b51" version="7">As the final breath escapes, one who has glimpsed beyond the veil becomes a passage through which a realm of twisted reality seeps in.</content>
+  <content contentuid="hc0559838g62c5gbf2dgdc3dg24432b66fddf" version="12">Dreamvein Gloves</content>
+  <content contentuid="hdeb68a89g58b4g3081g01e1gb757b2d03f59" version="12">Your awareness drifts along unseen threads, granting you an unsettling omnipresence. However, with your guard dispersed, you leave plenty openings to exploit. </content>
+  <content contentuid="h6c9e689eg0003g065egd63fg68a291692b9e" version="7">Dreamvein Diadem</content>
+  <content contentuid="hbce566bcgecd5gd70eg4d75gdf09f53fa28b" version="7">Forged from tarnished silver and crowned with a single blackstone, rumored to be the fossilized eye of an ancient being. Its wearers report strange, shifting visions and fragments of forgotten truths.</content>
+  <content contentuid="h2c6a9473g03ebg6ce4gf294gac29575ee3dc" version="1">Astarion's Underwear</content>
+  <content contentuid="h9abaa461gd177g8518g6f30g0b7fe7855af7" version="1">Embroidered into the cloth: 'If you're reading this, you managed to bed or behead me. Either way, you got lucky.'</content>
+  <content contentuid="ha944160ag0fc6g1402g13e5g27dd28c02e88" version="1">Silver Amulet</content>
+  <content contentuid="h4b96601fg6845gb778gc8ceg235c0ee7ed4b" version="1">Chunky and a little dated, but made entirely of hammered silver.</content>
+  <content contentuid="hffcf5bbeg79b8g60efg0205g7ae48cf1df9c" version="2">Deep Connection</content>
+  <content contentuid="h0f41fa0eg9675g810bg69a8gaf091033db8c" version="1">Abyss Vein</content>
+  <content contentuid="h963df43ag556cg375egd315ge8aba4cde813" version="1">sadds</content>
+  <content contentuid="ha31d8340gcff9gd691gc44bgaff6338494c1" version="8">You emerge from a shadowy well pushing the enemy [1] away and awaken their deepest fear. Gain 1 turn of &lt;LSTag Type="Status" Tooltip="ABYSSVEINSET_NB438"&gt;Deep Connection&lt;/LSTag&gt;.</content>
+  <content contentuid="h50df36deg8302g1a62g65d5g2e2994e7df28" version="1">h08a3c817g8538g4b6dg925cgb218f2efb8e1:4:Affected entity is utterly enamelled in ice and is &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;incapacitated&lt;/LSTag&gt;. If it is dealt Bludgeoning, Thunder, or Force damage, the ice shatters, ending the condition.</content>
+  <content contentuid="hb5d3d337g8367g4681g1a34gc426a4ed25e5" version="2">h2d5dfa44g1072g4641g942dg29646c79e85a:2:When your ally is about to be hit by a foe, you can use your &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to make it automatically miss. Used once per &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="h84b00b64gecd2g6e3cg595cg6b94e298369f" version="2">Fleeting Shadow</content>
+  <content contentuid="h85569d15g266ag74e8ge4f0g311a4c4ca614" version="2">Your &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; score is set to a minimum of 16. This minimum increases to 18 at level 5 and to 20 at level 10.</content>
+  <content contentuid="h68d768b8g41d0g8b73ga8bfg690ea92677b6" version="1">A hunger without age coils through your thoughts, longing to drown the world in a hellish nightmare.</content>
+  <content contentuid="h2b5087f5g41e2gdf49g2e6eg323bf2d64e0b" version="3">Vessel of the First Dream</content>
+  <content contentuid="h05765a7cg2927g7fb1gc326g182109b2d871" version="8">You open your heart like a wound to receive the echo of a will far beyond this world. Become &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to all damage types.</content>
+  <content contentuid="h940305adgb668g7a2cg1aa6ge31c05abd9e3" version="1">Transformation: Nightmare Creature</content>
+  <content contentuid="h34645658g33b0ga224g5dc0g14f851af5042" version="4">Target yourself or an ally to transform them into a Nightmare Creature. This reduces the remaining duration of &lt;LSTag Type="Status" Tooltip="ABYSSVEINSET_NB438"&gt;Deep Connection&lt;/LSTag&gt; by 1 turn.</content>
+  <content contentuid="h689531fcg63e0g23adgc827g3df3fb3f11bf" version="3">Your flesh warps with unnatural purpose as a buried will surfaces. An ancient will, void of mercy, devoted solely to the art of annihilation.&lt;br&gt;&lt;br&gt;Nightmare Creatures are immune to most conditions.</content>
+  <content contentuid="ha86cd6d7gf45fg6f59g70b3gc95a7f1deb0c" version="1">Transformation: Nightmare Creature</content>
+  <content contentuid="h887504d6ge947g3097gce3agfd39577f8094" version="1">Empty</content>
+  <content contentuid="hbf4981d6g290cg9086g45bdgce6579f7e604" version="8">Nightmare Creature</content>
+  <content contentuid="h66f61edcg0806g4250g85e7g591ad99395a5" version="1">End Transformation</content>
+  <content contentuid="h9bf84d41gcf22gf9d0g1a34gdf7757b758ee" version="1">Dispel the nightmare form, restoring your true self.</content>
+  <content contentuid="h0ee4d240g353agd569g540agc448d90f2a7e" version="5">Unleash three ripples of dark energy, calling forth a surge of otherworldly lightning. Enemies are knocked &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;, and you gain &lt;LSTag Type="Status"Tooltip="DARKACCELERATION_NB438"&gt;Dark Acceleration&lt;/LSTag&gt; and &lt;LSTag Type="Status"Tooltip="ECHOOFOBLIVION_UNLOCKED_NB438"&gt;Echo of Oblivion&lt;/LSTag&gt; until the end of your next turn.&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Status" Tooltip="DAZED"&gt;Dazed&lt;/LSTag&gt; enemies become &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralyzed&lt;/LSTag&gt; for 1 turn.</content>
+  <content contentuid="h484c32c9g8423g4afbg01c0ga6f1bade0044" version="1">Target must be afflicted by &lt;LSTag Type="Status"Tooltip="NIGHTBRAND_NB438"&gt;Night Brand&lt;/LSTag&gt;, while you have an ally within [1] or &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against it. Killing a creature with this attack grants you [1] movement and 1 turn of &lt;LSTag Type="Status"Tooltip="DARKACCELERATION_NB438"&gt;Dark Acceleration&lt;/LSTag&gt;. </content>
+  <content contentuid="h20d71091g0fc4g6b52gfe35g0d4bfe3d699b" version="4">You vanish into a swirling vortex of shadows, reappearing in an unoccupied space within your sight.  </content>
+  <content contentuid="hf1579f8bgc7acg1b89gae6cg572f03aba57c" version="1">h1a6d1639gf83ag4825g9159gf1dacf7f2c04:4:At the start of a round, you can reduce the weapon's additional attack bonus by [1] to increase your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; by [1].</content>
+  <content contentuid="h29c3dd76g580cga486g1e87g4785b2afa24e" version="3">Sacrament of Flesh</content>
+  <content contentuid="h70d148d8g803fgdcc5ge44dgd42c673c1df3" version="5">Each wound is an offering, a whisper across dimensions that feeds a slumbering will. You always take additional [1] damage.</content>
+  <content contentuid="h24538940gfb29g6579g3e89ga2ea3a9ce025" version="2">Final Breath</content>
+  <content contentuid="hc693f39ag167fgf231ge47cg57e08aeff1b0" version="1">sdasd</content>
+  <content contentuid="heacba740ga9d3g9530gd763g7bcdb2ec5d22" version="3">Dreamvein Confluence</content>
+  <content contentuid="he9e65282ga111ge0d2g7356gd64b7e20492a" version="1">sadads</content>
+  <content contentuid="hd53ecf05gfa16g2567g2f09g4486ee7b13a5" version="5">Dreamvein Confluence</content>
+  <content contentuid="h430ecdd6g21e6gc277gbd40g13dd7619e849" version="9">Once per battle, if you reach 0 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, you regain [1] instead of becoming &lt;LSTag Tooltip="Downed"&gt;Downed&lt;/LSTag&gt; and summon &lt;LSTag Type="Status" Tooltip="NIGHTMAREREALM_NB438"&gt;Nightmare Realm&lt;/LSTag&gt; for 2 turns.</content>
+  <content contentuid="h836ca470gcd2eg6d80g4e6fg60eef086a335" version="1">Nightmare Realm</content>
+  <content contentuid="h88587f79ga6d5gf53egf42eg84dc98396805" version="1">Nightmare Realm</content>
+  <content contentuid="hab0aca62g2ac5gca06g9743gb9e3587384d1" version="5">Suffer the effects of &lt;LSTag Type="Status" Tooltip="BLACK_TENTACLES"&gt;Black Tentacles&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="CAGEOFDARKNESS_NB438"&gt;Cage of Darkness&lt;/LSTag&gt;. Nightbringer, Nighteye, Nightmare Creatures and the wearer of the Dreamvein Leathers are unaffected.</content>
+  <content contentuid="hf41a264dg234cgfb63g0088gec00c7550788" version="2">Dreamseer</content>
+  <content contentuid="h18c9acc1g9a38g2805gb65ag0988ef281e8f" version="2">Lucid Dream</content>
+  <content contentuid="h7f670aadg112ag18fag4b2egfd5303e21feb" version="2">Inside of &lt;LSTag Type="Status" Tooltip="NIGHTMAREREALM_NB438"&gt;Nightmare Realm&lt;/LSTag&gt; you can use actions and bonus actions interchangeably. </content>
+  <content contentuid="h82e7ba9eg6d2fg61c1g75f7gf1c852696afb" version="2">Lucid Dream: Depleted</content>
+  <content contentuid="h8774a0e5ga24cgef2aga281gd294816604c3" version="2">You cannot benefit more from &lt;LSTag Type="Status" Tooltip="NIGHTMARESANCTUARY_NB438"&gt;Lucid Dream&lt;/LSTag&gt; this turn.</content>
+  <content contentuid="h95e98798g0175gbf72g3f22gf771a93aa62d" version="2">Lucid Dream</content>
+  <content contentuid="hd89125fag7b38gd046g01ceg9a315bd4e608" version="2">You can use actions and bonus actions interchangeably. </content>
+  <content contentuid="hb71578bbge4a8g9448gc4e4g52865f2e2f57" version="4">Lucid Dream</content>
+  <content contentuid="h7ccc7d31g741dg5b7bg460cg9c0825c57408" version="2">You can use actions and bonus actions interchangeably. </content>
+  <content contentuid="hb0cd8006g35c2g5e85gf004ge59528fdfb3e" version="2">Lucid Dream: Depleted</content>
+  <content contentuid="h95d52d37gcb96g4815gba30g05bab3d2b60d" version="2">You cannot benefit more from &lt;LSTag Type="Status" Tooltip="NIGHTMARESANCTUARY_NB438"&gt;Lucid Dream&lt;/LSTag&gt; this turn.</content>
+  <content contentuid="h0923b8bdgf60fg2d21g8bd3g771b851991f3" version="1">Trasn</content>
+  <content contentuid="h0c42466bg264dg487cgd984g1f7c696d6ade" version="1">sdsd</content>
+  <content contentuid="hb39bc13eg0730gb26fgeb2agcc3a25e1ef2e" version="2">You gain an additional &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reaction&lt;/LSTag&gt; per turn. </content>
+  <content contentuid="h3a7518f6gaf3fga854g667fgaab52e11e1eb" version="8">Conjure a field of darkness, filled with grasping tentacles. Creatures inside suffer the effects of &lt;LSTag Type="Status" Tooltip="BLACK_TENTACLES"&gt;Black Tentacles&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="CAGEOFDARKNESS_NB438"&gt;Cage of Darkness&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Nightbringer, Nighteye, Nightmare Creatures and the wearer of the Dreamvein Leathers are unaffected.</content>
+  <content contentuid="h10af4610g8fb7g7e80g3906g98ed97e8424f" version="3">Twisted Rhythm</content>
+  <content contentuid="h3ccdfc8cg628dg8753g4bdag3f411e4803ca" version="2">Can only be used inside of &lt;LSTag Type="Status" Tooltip="NIGHTMAREREALM_NB438"&gt;Nightmare Realm&lt;/LSTag&gt;. Immediately gain an extra &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;Action&lt;/LSTag&gt; to use this turn.</content>
+  <content contentuid="hf5c22de6g45e1g2013gebb8g0c807a4ea631" version="1">Twisted Rythm</content>
+  <content contentuid="haf369946g7795g0cd2gc706g108e0349f6c1" version="1">Can take an extra &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;Action&lt;/LSTag&gt; this turn.</content>
+  <content contentuid="h07869dbbgd530g9473g04c9g7c16b4098005" version="1">Your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; is reduced by 10.</content>
+  <content contentuid="h57bd1c8dg2186g4cb2g1985g6b1480b64677" version="3">Dreamvein Walkers</content>
+  <content contentuid="h34c48270g4672gca7dg388bgc08e58c77363" version="2">Beacon in the Nightmare</content>
+  <content contentuid="h5e79b905g457dg15c2g5c4eg84a68e99fe32" version="4">Allies within [1] can't be &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt;, gain &lt;LSTag Type="Passive" Tooltip="Nightvision_NB438"&gt;Darkvision&lt;/LSTag&gt; up to a range of [1] and while inside the &lt;LSTag Type="Status" Tooltip="NIGHTMAREREALM_NB438"&gt;Nightmare Realm&lt;/LSTag&gt;, they ignore its effects.</content>
+  <content contentuid="h0f1b301eg0b0ag04e2gbe73g305331a6cdc2" version="2">Beacon in the Nightmare</content>
+  <content contentuid="haaac0a1ag38e1gd83fgb095gd412783d4f2c" version="2">Ndjjda</content>
+  <content contentuid="h8fbdd937g362egfc56gd4fbg313f5e043685" version="1">asds</content>
+  <content contentuid="h4f87abaeg522cg487dgd04ag8d87d5943c67" version="3">Dreamstrider</content>
+  <content contentuid="h56454305g2b83g27b6ga61ag0f50a8873e77" version="1">adsda</content>
+  <content contentuid="h998cd849ga8bbg7331g5f19gf66e78eac3b3" version="2">Your steps are guided by a higher will, and through your devotion you shepherd others beyond the encroaching nightmare.</content>
+  <content contentuid="h0d187589g00bagb9e8g0146gfeeecc8c9d03" version="2">Beacon in the Nightmare</content>
+  <content contentuid="h56b6340cg8b94g200cga69bg9e64db4b4802" version="1">dsads</content>
+  <content contentuid="ha449b411gc741g09d3g5407g7e1e94cad271" version="4">Allies within [1] can't be &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt;, gain &lt;LSTag Type="Passive" Tooltip="Nightvision_NB438"&gt;Darkvision&lt;/LSTag&gt; up to a range of [1] and while inside the &lt;LSTag Type="Status" Tooltip="NIGHTMAREREALM_NB438"&gt;Nightmare Realm&lt;/LSTag&gt;, they ignore its effects.</content>
+  <content contentuid="hcc26c63dg156cgb55fg0e0eg7761b43e317c" version="3">You can't be &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt;, gain &lt;LSTag Type="Passive" Tooltip="Nightvision_NB438"&gt;Darkvision&lt;/LSTag&gt; up to a range of [1] and while inside the &lt;LSTag Type="Status" Tooltip="NIGHTMAREREALM_NB438"&gt;Nightmare Realm&lt;/LSTag&gt;, you ignore its effects.</content>
+  <content contentuid="h2ecbb392g607bg85c9gfe39gc31e124c5c12" version="1">Deep Connection</content>
+  <content contentuid="h42d247a5gb599g8e83g852egcd34753b5eea" version="1">A hunger without age coils through your thoughts, longing to drown the world in a hellish nightmare.</content>
+  <content contentuid="hb536018ag22edgf69fg3feeg9ab560f975cd" version="1">Your &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; increases by [1].</content>
+  <content contentuid="hdf849277g255fg87f8g6d8cg3cb7c7bd13d6" version="1">Claw</content>
+  <content contentuid="h792ec80bg4053g8f95g399eg9314aee175c2" version="1">Lash out with mighty talons.</content>
+  <content contentuid="hcaa35e4eg0872g1bc5gde62gfd67ec0ce52e" version="1">Reliquary of the First Dream</content>
+  <content contentuid="h3d43c7a5g6ed3g6d5eg96d6gc1792c6d2856" version="1">Sealed by the vanished Cult of the Dreamvein Weavers, this reliquary holds the vestments once worn to commune with a higher will. The Nightbringers have long forgotten their lineage, yet within these sacred relics, echoes of their lost purpose still stir.</content>
+  <content contentuid="h6e6ec18dgbe1egd963geefagbacc232543b1" version="1">hf93a1bdeg5b93g491ag9e4cgeafb8fd3e223:7:Cure your target of &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Poison&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralysis&lt;/LSTag&gt; or &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blindness&lt;/LSTag&gt;.</content>
+  <content contentuid="h09e536d6g21b9g8bacg9617geded650bce15" version="9">Nightmare Creature</content>
+  <content contentuid="h4c75f00age688g6cf8gc0bcgba8b1f0c9316" version="9">Visage of the Dead God</content>
+  <content contentuid="ha966a886g7d61g7bdeg810ag1921ee0c7a33" version="1">Allies within [1] can't be &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt;, gain &lt;LSTag Type="Passive" Tooltip="Nightvision_NB438"&gt;Darkvision&lt;/LSTag&gt; up to a range of [1] and while inside the &lt;LSTag Type="Status" Tooltip="NIGHTMAREREALM_NB438"&gt;Nightmare Realm&lt;/LSTag&gt;, they ignore its effects.</content>
+  <content contentuid="he2b09193g4533g5b9cgf47eg713884beb5de" version="1">Once per battle, if you reach 0 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, you regain [1] instead of becoming &lt;LSTag Tooltip="Downed"&gt;Downed&lt;/LSTag&gt; and summon &lt;LSTag Type="Status" Tooltip="NIGHTMAREREALM_NB438"&gt;Nightmare Realm&lt;/LSTag&gt; for 2 turns.</content>
+</contentList>

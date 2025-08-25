@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="LevelMapValues">
+        <node id="root">
+            <children>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="1d8"/>
+                    <attribute id="Level10" type="LSString" value="3d8"/>
+                    <attribute id="Level17" type="LSString" value="4d8"/>
+                    <attribute id="Level5" type="LSString" value="2d8"/>
+                    <attribute id="Name" type="FixedString" value="AVIceShotScale"/>
+                    <attribute id="PreferredClassUUID" type="guid" value="10020f3e-2ac8-4bee-a423-bf1b47bad4ce"/>
+                    <attribute id="UUID" type="guid" value="c8f8191e-d0ef-44cb-922f-033931caeb75"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="1"/>
+                    <attribute id="Level11" type="LSString" value="3"/>
+                    <attribute id="Level17" type="LSString" value="4"/>
+                    <attribute id="Level6" type="LSString" value="2"/>
+                    <attribute id="Name" type="FixedString" value="AVDervishScale"/>
+                    <attribute id="PreferredClassUUID" type="guid" value="10020f3e-2ac8-4bee-a423-bf1b47bad4ce"/>
+                    <attribute id="UUID" type="guid" value="a2a4ca99-c4b2-4450-8b0c-39d0b6f1e821"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="1d4"/>
+                    <attribute id="Level11" type="LSString" value="1d8"/>
+                    <attribute id="Level17" type="LSString" value="1d10"/>
+                    <attribute id="Level6" type="LSString" value="1d6"/>
+                    <attribute id="Name" type="FixedString" value="DervishDamageScale"/>
+                    <attribute id="PreferredClassUUID" type="guid" value="10020f3e-2ac8-4bee-a423-bf1b47bad4ce"/>
+                    <attribute id="UUID" type="guid" value="7f013a65-064b-4d32-95b1-a0611d5a1a96"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="2"/>
+                    <attribute id="Level10" type="LSString" value="4"/>
+                    <attribute id="Level15" type="LSString" value="5"/>
+                    <attribute id="Level20" type="LSString" value="6"/>
+                    <attribute id="Level5" type="LSString" value="3"/>
+                    <attribute id="Name" type="FixedString" value="AVJudgeScale"/>
+                    <attribute id="PreferredClassUUID" type="guid" value="10020f3e-2ac8-4bee-a423-bf1b47bad4ce"/>
+                    <attribute id="UUID" type="guid" value="9f203013-c738-4cc2-821b-772f507131da"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="1d8"/>
+                    <attribute id="Level10" type="LSString" value="1d12"/>
+                    <attribute id="Level17" type="LSString" value="2d6"/>
+                    <attribute id="Level5" type="LSString" value="1d10"/>
+                    <attribute id="Name" type="FixedString" value="AVEldritchScale"/>
+                    <attribute id="PreferredClassUUID" type="guid" value="10020f3e-2ac8-4bee-a423-bf1b47bad4ce"/>
+                    <attribute id="UUID" type="guid" value="6f0c9ae9-8796-4095-a2de-24db4f9efaac"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

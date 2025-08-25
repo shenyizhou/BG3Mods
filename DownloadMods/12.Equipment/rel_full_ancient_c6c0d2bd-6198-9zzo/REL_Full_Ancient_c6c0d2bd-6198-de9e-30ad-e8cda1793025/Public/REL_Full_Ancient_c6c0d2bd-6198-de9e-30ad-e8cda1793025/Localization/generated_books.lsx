@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="3" revision="0" build="302" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="TranslatedStringKeys">
+		<node id="TranslatedStringKeys">
+			<children>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="hd6591663g38d8g4434g835ag944157dde742" version="1" />
+					<attribute id="UUID" type="FixedString" value="905ff09c-17d9-407d-aeb2-aac64b6f60ad" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h18689acdg9138g4f76gb180g55d18df885e9" version="1" />
+					<attribute id="UUID" type="FixedString" value="b874c21a-bd79-4143-8c55-439cf4f8c0aa" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h7f99e6edga2ecg433dga40ag03afa3182b4e" version="1" />
+					<attribute id="UUID" type="FixedString" value="d7bc91f4-b7a1-4896-8683-979d0bf96ee9" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h1b609b4bg03feg38d2gb8b9gfb526756f697" version="1" />
+					<attribute id="UUID" type="FixedString" value="AMP_Tutorial_Salvage_Station" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h3d532e04gfa87gaf32gbc97g00e5fe596b5f" version="1" />
+					<attribute id="UUID" type="FixedString" value="AMP_Tutorial_Generation_Station" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h60dde044g9f58gd182gef3ega23f20b9f816" version="1" />
+					<attribute id="UUID" type="FixedString" value="AMP_Tutorial_Reward_Container" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h935930a0g76e8g99a3g1011g5c693bf80252" version="1" />
+					<attribute id="UUID" type="FixedString" value="AMP_Tutorial_System_Introduction" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="hbca90baeg779ag0a11g1bd3gdf799e9a01e4" version="1" />
+					<attribute id="UUID" type="FixedString" value="AMP_Crystal_Arcanum_Help" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h0ff2d5d1gad0cgd018gfaccg233fda535f3c" version="1" />
+					<attribute id="UUID" type="FixedString" value="AMP_Crystal_Empyreum_Help" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h695d19cfg8508gafbfg6b9fgb10a8259f58b" version="1" />
+					<attribute id="UUID" type="FixedString" value="AMP_Crystal_Opus_Help" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h7292b149gd864g2ccfg71d1g9375d95666b3" version="1" />
+					<attribute id="UUID" type="FixedString" value="AMP_Crystal_Immortalis_Help" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h5b8e2a9fg4c61g4d73g9f2bg6a5c8e2b7f14" version="1" />
+					<attribute id="UUID" type="FixedString" value="5b8e2a9f-4c61-4d73-9f2b-6a5c8e2b7f14" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="ha3f7c4e1bg8d52g496eg7c1ag4f8a3e5c2b6" version="1" />
+					<attribute id="UUID" type="FixedString" value="a3f7c4e1-8d52-496e-7c1a-4f8a3e5c2b6" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h3e1669f2gbcc5g2342g9368gcbaa2dbf12f5" version="1" />
+					<attribute id="UUID" type="FixedString" value="AMP_General_Mod_Welcome" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h8fbe0748g1bf4g768ag1572gceb2f3b9ee7e" version="1" />
+					<attribute id="UUID" type="FixedString" value="AMP_Salvage_Instructions_Detailed" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h44c93f6dg1ca4g2d2eg17d2g270288483d9e" version="1" />
+					<attribute id="UUID" type="FixedString" value="AMP_Generation_Instructions_Detailed" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h3057befdg1431gb061geadbg0d5195484ee5" version="1" />
+					<attribute id="UUID" type="FixedString" value="AMP_Troubleshooting_Help" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="hd3dece51g1d65gfdfdgb802gc53d4ee5fc32" version="1" />
+					<attribute id="UUID" type="FixedString" value="AMP_Advanced_Tips" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

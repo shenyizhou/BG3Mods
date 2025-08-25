@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h66362ae1g8d99gd80dg1c97ga7a0bdd1cb8a" version="6">Broken Twinsword Vorrak'Nox</content>
+  <content contentuid="hb753c091gd143g6ce5gc4a4gd930ec7078f0" version="6">Shattered by time yet never truly lost, this blade lies dormant, its fractured edge carrying echoes of an ancient voidborn power.</content>
+  <content contentuid="h0f0b688fg9270gef84g69f1g7f125c0dfe9f" version="7">Broken Twinsword Vorrak'Sul</content>
+  <content contentuid="h87f3d5f6g1256g49b1g1336g9e886842400e" version="7">Though broken, its presence still drinks the light from its surroundings, yearning to be whole once more.</content>
+  <content contentuid="h670afe30g3d58gf1d5gd1f2gc10a5829c364" version="1">Improved Critical</content>
+  <content contentuid="h707d767bg0c89ge1ffg4250g0c61de8ab1fa" version="2">The number you need to &lt;LSTag Tooltip="AttackRoll"&gt;roll&lt;/LSTag&gt; for a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; is reduced by 1. This reduction increases by an additional 1 if the target has less than 50% &lt;LSTag Tooltip="HitPoints"&gt;Hit Points&lt;/LSTag&gt;. This effect can stack.</content>
+  <content contentuid="h3bd2990eg4a22g52a1gce20gec5b09493957" version="2">Sudden Advance</content>
+  <content contentuid="ha8419d67ga3e0gca9dgee8fgde6d625efde0" version="2">Extends range of &lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;Nightfall&lt;/LSTag&gt; to [1].</content>
+  <content contentuid="hf61d49b7g2975g67e2g5db5g2a050138b1c4" version="4">Whispering Scar</content>
+  <content contentuid="h6f8bed0bgec5ag8fccgffc5g1a3b52bf33d0" version="4">A weapon born of suffering, its string echoing with the ghostly whispers of forgotten pain.</content>
+  <content contentuid="h2a8cc9e9gc386gfc0cg0ec1g6f9e56fe7552" version="1">Ambusher</content>
+  <content contentuid="h09c12323g7e88gcb3dge49ag97f340826fd4" version="5">Gain a +[1] bonus to Initiative Rolls. Bonus increases at character levels 5 and 10.</content>
+  <content contentuid="h8b326443gb5b6ga39cg68e7g93159d290824" version="1">The bonus damage increases by [1] at character levels 5 and 10.</content>
+  <content contentuid="h51affd69g7fd0g532fg08a4g558e7ab40cd9" version="1">Balancing</content>
+  <content contentuid="h6b098f01g27e6g49e9g4c58g95959bbf3d5f" version="5">While equipped, you suffer a -2 penalty to &lt;LSTag Tooltip="AttackRoll"&gt;Attack&lt;/LSTag&gt; and weapon damage rolls. The penalty decreases by 1 at character levels 5 and 10. This effect does not stack.</content>
+  <content contentuid="h45f03f12ged4dg07d2ga23dgbf02b991212d" version="1">Balancing</content>
+  <content contentuid="h3d47e5e1gc6ccgff97g11d1g0a0c4f232b17" version="1">Balancing</content>
+  <content contentuid="h7c238ac1gfc1eg03c5g6c8ag09ee937f1126" version="1">While equipped, you suffer a -2 penalty to &lt;LSTag Tooltip="AttackRoll"&gt;Attack&lt;/LSTag&gt; and weapon damage rolls. At character levels 5 and 10, the penalty decreases by 1. This effect does not stack.</content>
+  <content contentuid="haab457fega143gc43dg2042gb8e1f1a43b69" version="1">Nerf</content>
+  <content contentuid="h3aa7fa33gd46ag0aa4g7c4cg9f3f688de81a" version="2">While equipped, you suffer a -2 penalty to &lt;LSTag Tooltip="AttackRoll"&gt;Attack&lt;/LSTag&gt; and -5 to weapon damage rolls. At character levels 5 and 10, the penalty to &lt;LSTag Tooltip="AttackRoll"&gt;Attack&lt;/LSTag&gt; decreases by 1. This effect does not stack.</content>
+  <content contentuid="haedb2446g7e7dg4ac4g04adga2e7b495d620" version="1">Nerf</content>
+  <content contentuid="h92b3eec4g0410g8a58g8007gcdaa7926dedb" version="1">While equipped, you suffer a -2 penalty to &lt;LSTag Tooltip="AttackRoll"&gt;Attack&lt;/LSTag&gt; and -5 to weapon damage rolls. At character levels 5 and 10, the penalty to &lt;LSTag Tooltip="AttackRoll"&gt;Attack&lt;/LSTag&gt; decreases by 1. This effect does not stack.</content>
+  <content contentuid="h1521ea95ga43bgce59gbb08gf6d0953650d7" version="1">Broken Twinsword Vorrak'Nox (Nerfed)</content>
+  <content contentuid="h083d3b19g6164g12d0gf665gec50fefe12ce" version="1">Shattered by time yet never truly lost, this blade lies dormant, its fractured edge carrying echoes of an ancient voidborn power.</content>
+  <content contentuid="h6a6d9638ge26cg3ae8gbec1g9addf81e4dc4" version="1">Broken Twinsword Vorrak'Sul (Nerfed)</content>
+  <content contentuid="hc0d81372g46c6g953cgde4dga1c824cc04b7" version="1">Though broken, its presence still drinks the light from its surroundings, yearning to be whole once more.</content>
+  <content contentuid="h879fcc18g98d7g3910g2cbdg5ce0bafbc8e7" version="2">Whispering Scar (Nerfed)</content>
+  <content contentuid="hab8ac2a5g6c15g518cg5f4eg50d95b1ce5a3" version="2">A weapon born of suffering, its string echoing with the ghostly whispers of forgotten pain.</content>
+  <content contentuid="h829eae0cgf410gb68eg8e0fg9ed8335fcc8e" version="3">Nightbringer Weapons (Old Versions)</content>
+  <content contentuid="hf0b8730cg0d39gb11dgad3bg81436eb6e78a" version="2">Contains the older version of the Nightbringer Weapons.</content>
+  <content contentuid="h7298524cga8a2gdf2egbcb8g5eb162368fac" version="4">Nightbringer Weapons (New Version)</content>
+  <content contentuid="had5d5bb4g1cf2g5c99g4aedgc265c5b43981" version="4">Contains the new version of the Nightbringer Weapons.</content>
+  <content contentuid="h26ce411fgb3b7gc8f9g7ca8gf4fb5df9b992" version="2">Broken Twinsword Vorrak'Sul</content>
+  <content contentuid="h400c9936gb1d8g3c55gac6dg3b25e8a3e541" version="2">Though broken, its presence still drinks the light from its surroundings, yearning to be whole once more.</content>
+  <content contentuid="hfbcf19f2g7f70ga50ag34aag989390fd22bb" version="1">Quickdraw</content>
+  <content contentuid="h679ec5b7g63f4g36acg097dg320fc907eaf4" version="2">This weapon can be equipped without consuming an action point.</content>
+  <content contentuid="h58e5664bg9ad9gdbb2g8421gfa6c3c6e1220" version="1">Broken Twinsword Vorrak'Nox</content>
+  <content contentuid="h98554a2eg438cgd217g116fg00d354153145" version="1">Shattered by time yet never truly lost, this blade lies dormant, its fractured edge carrying echoes of an ancient voidborn power.</content>
+  <content contentuid="h630de52bg38adgeba6ge370gdd07b7782b05" version="6">Whispering Scar</content>
+  <content contentuid="hc23029ecgdf2eg2dc4g8079geba853705bd4" version="1">Nightfall (Ranged)</content>
+  <content contentuid="h86cf74a7gdf83gad92g26dagc50ed4757db2" version="1">Target must be afflicted by &lt;LSTag Type="Status"Tooltip="NIGHTBRAND_NB438"&gt;Night Brand&lt;/LSTag&gt;, while you have an ally within [1] or &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against it. Killing a creature with this attack grants you [1] movement and 1 turn of &lt;LSTag Type="Status"Tooltip="DARKACCELERATION_NB438"&gt;Dark Acceleration&lt;/LSTag&gt;. </content>
+  <content contentuid="ha24129bfgd9e6gc4f5g291agbbaee504d51d" version="1">Damage increases by [1] at every odd-numbered character level.</content>
+  <content contentuid="h16f3c0a8g5df1g9e7eg1eb6g2a2ceba1d017" version="3">Whispering Echo</content>
+  <content contentuid="hf8c96445gd7efg95d0g6fe9g8b6558cf2af3" version="1">Transformation: Nightmare Creature</content>
+  <content contentuid="h0f6caf1ag0862g39a6g8e3dg5bd3c5aa61d3" version="1">Target yourself or an ally to transform them into a Nightmare Creature. This reduces the remaining duration of &lt;LSTag Type="Status" Tooltip="ABYSSVEINSET_NB438"&gt;Deep Connection&lt;/LSTag&gt; by 1 turn.</content>
+  <content contentuid="h4587c58bg17fegec45gc3a5g4b409415d02e" version="1">Transformation: Nightmare Creature</content>
+  <content contentuid="ha3938578g9d7bg7a33g13a9g938dd9ff0aa3" version="2">Target an ally to transform them into a Nightmare Creature. </content>
+  <content contentuid="hce54125fgc3bcgbfd4gf111g7af5bf544a37" version="2">Dreamkiller</content>
+  <content contentuid="hed4173bdgae47gc678g2433gfabb580a9b3d" version="2">The number you need to &lt;LSTag Tooltip="AttackRoll"&gt;roll&lt;/LSTag&gt; for a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; is reduced by 1. This reduction increases by an additional 1 inside of &lt;LSTag Type="Status" Tooltip="NIGHTMAREREALM_NB438"&gt;Nightmare Realm&lt;/LSTag&gt;. This effect can stack.</content>
+  <content contentuid="h921b33d2g366cg2f51g5074g54de51c5f36b" version="2">A weapon forged in torment, its string resonating with the ghostly murmurs of long-forgotten agony.</content>
+  <content contentuid="h2b470f48gf91eg775fge4b7g9ac44db1b74b" version="2">Each bolt loosed carries the echo of a voice once lost.</content>
+  <content contentuid="h90f176dbg4f25ge043ga970g15f0aaddead4" version="10">Dreamshatter</content>
+  <content contentuid="h58f01515g11aeg581fg2600g64b4ce74f4db" version="10">The spear pierces not just flesh but the mind itself, fracturing meaning and belief with every strike.</content>
+  <content contentuid="h074a966bg5ccbg268bg6018g42e382042d66" version="2">Night Dweller</content>
+  <content contentuid="h082b0374g88d4g9041g5683g374f8b36116d" version="10">Outside the &lt;LSTag Type="Status" Tooltip="NIGHTMAREREALM_NB438"&gt;Nightmare Realm&lt;/LSTag&gt;, this weapon suffers a -10 penalty to attack and damage rolls. On hit, you heal for an amount equal to your Charisma modifier. This weapon uses  your &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Spellcasting Ability Modifier&lt;/LSTag&gt; for &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and it's weapon damage type is Force.  </content>
+  <content contentuid="h53a9a84fgb660g07e4gb3c8g16675654cc57" version="1">Twisted Rythm</content>
+  <content contentuid="h0be29681gc389g7c35ge94dg40a87fcb60be" version="2">Once per combat, when you kill an enemy, you immediately gain an additional &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;Action&lt;/LSTag&gt; to use this turn.</content>
+  <content contentuid="h37ccb487gaceag9183gb16fg617feb148aa7" version="1">Twisted Rythm</content>
+  <content contentuid="hd168a659gaab0g3390g4979ge6504616cacd" version="1">Can take an extra &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;Action&lt;/LSTag&gt; this turn.</content>
+  <content contentuid="h54da578dgab30gf0c3g944ag1da9534d35ca" version="1">Transformation: Nightmare Creature</content>
+  <content contentuid="h5788dfa8g4bd6g632cgaa0agaa26e4296e89" version="1">Target yourself or an ally to transform them into a Nightmare Creature. This reduces the remaining duration of &lt;LSTag Type="Status" Tooltip="ABYSSVEINSET_NB438"&gt;Deep Connection&lt;/LSTag&gt; by 1 turn.</content>
+  <content contentuid="h37f64244g0563gda78gfed2g5d0b6c709b9d" version="2">Mindquake</content>
+  <content contentuid="h73670b78g92bdg076bg056fgc24bcbba1198" version="3">Can only be used inside of &lt;LSTag Type="Status" Tooltip="NIGHTMAREREALM_NB438"&gt;Nightmare Realm&lt;/LSTag&gt;. Through the Dreamvein, you unleash a surge of nightmarish energy that warps reality itself. Allies within [1] become Nightmare Creatures, while enemies are seized by dread and left &lt;LSTag Type="Status" Tooltip="DAZED"&gt;Dazed&lt;/LSTag&gt;.</content>
+  <content contentuid="h4cbf7ad9g790bg7648g94f1g608e6975eba4" version="2">The healing increases by an additional [1] at each odd-numbered level.</content>
+  <content contentuid="hef577865gde5agff4egeb76g64e8b6f4a6f7" version="1">Shadowforged Weapon</content>
+</contentList>

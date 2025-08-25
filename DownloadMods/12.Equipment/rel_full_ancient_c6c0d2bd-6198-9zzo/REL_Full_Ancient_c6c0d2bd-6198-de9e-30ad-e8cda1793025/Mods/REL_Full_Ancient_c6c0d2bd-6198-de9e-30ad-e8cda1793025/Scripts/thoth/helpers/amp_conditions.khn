@@ -1,0 +1,88 @@
+-- AMP Custom Conditions for UnlockSpellVariant
+-- This file contains custom Khonsu conditions for AMP mod
+
+-- Check if spell is a leveled spell (spell that is not a cantrip/focus)
+-- Used for UnlockSpellVariant to ensure only leveled spells are affected
+function IsLeveledSpell()
+    return HasSpellFlag(SpellFlags.Spell) & ~HasCantripSpellLevel()
+end
+
+-- Alternative version with more explicit checks
+function IsLeveledSpellStrict()
+    return HasSpellFlag(SpellFlags.Spell) & 
+           ConditionResult(context.HitDescription.SpellLevel >= 1) & 
+           (HasUseCosts('SpellSlot') | HasUseCosts('WarlockSpellSlot'))
+end
+
+-- Check if status is a gameplay-affecting status (not technical)
+-- Combines status groups and specific statuses that can't be grouped
+function IsGameplayStatus()
+    return StatusId('BURNING') |
+           StatusId('MAG_FROST') |
+           StatusHasStatusGroup(context.StatusId, 'SG_Condition') |
+           StatusHasStatusGroup(context.StatusId, 'SG_Blinded') |
+           StatusHasStatusGroup(context.StatusId, 'SG_Charmed') |
+           StatusHasStatusGroup(context.StatusId, 'SG_Cursed') |
+           StatusHasStatusGroup(context.StatusId, 'SG_Disease') |
+           StatusHasStatusGroup(context.StatusId, 'SG_Frightened') |
+           StatusHasStatusGroup(context.StatusId, 'SG_Invisible') |
+           StatusHasStatusGroup(context.StatusId, 'SG_Poisoned') |
+           StatusHasStatusGroup(context.StatusId, 'SG_Restrained') |
+           StatusHasStatusGroup(context.StatusId, 'SG_Stunned') |
+           StatusHasStatusGroup(context.StatusId, 'SG_Polymorph') |
+           StatusHasStatusGroup(context.StatusId, 'SG_Paralyzed') |
+           StatusHasStatusGroup(context.StatusId, 'SG_Petrified') |
+           StatusHasStatusGroup(context.StatusId, 'SG_Rage') |
+           StatusHasStatusGroup(context.StatusId, 'SG_Taunted') |
+           StatusHasStatusGroup(context.StatusId, 'SG_Dominated') |
+           StatusHasStatusGroup(context.StatusId, 'SG_Confused') |
+           StatusHasStatusGroup(context.StatusId, 'SG_Mad') |
+           StatusHasStatusGroup(context.StatusId, 'SG_HexbladeCurse') |
+           StatusHasStatusGroup(context.StatusId, 'SG_Sleeping')
+end
+
+-- Check if entity size is equal or smaller than specified size
+-- Inverted version of SizeEqualOrGreater for checking own size
+function SizeEqualOrSmaller(size, entity)
+    entity = entity or context.Source
+    return ConditionResult(entity.Size ~= Size.None and entity.Size.value <= size.value)
+end
+
+-- Check if spell is Fireball, Flame Strike or their variants
+-- Used for Fire Mastery effect in AMP_Artificers_Boost22
+function IsFireMasterySpell()
+    return SpellId('Projectile_Fireball') | 
+           SpellId('Target_FlameStrike') |
+           IsSpellChildOrVariantFromContext('Projectile_Fireball') |
+           IsSpellChildOrVariantFromContext('Target_FlameStrike')
+end
+
+function IsTeleportSpell()
+    return SpellId('Target_MistyStep')
+	  | SpellId('Target_MistyStep_3')
+	  | SpellId('Target_MistyStep_Githyanki')
+	  | SpellId('Target_SupernaturalAttraction')
+	  | SpellId('Target_WildMagic_Teleport')
+	  | SpellId('Target_EtherealJaunt')
+	  | SpellId('Target_UNI_MistyStep_DrowCommander_Amulet')
+	  | SpellId('Target_UNI_MistyStep_NightWalkers')
+	  | SpellId('Target_UND_MushroomHunter_MistyStep')
+	  | SpellId('Target_LOW_RamazithsTower_MistyStep')
+	  | SpellId('Target_LOW_IronThrone_Omeluum_Teleport')
+	  | SpellId('Target_END_Daisy_Teleport')
+	  | SpellId('Target_END_VossEncounter_GithMistyStep')
+	  | SpellId('Target_WYR_Circus_TeleportBoots_MistyStep')
+end
+
+-- Check if entity has Constitution score of 0 or lower
+-- Used for death/weakness effects that check creature vitality
+function HasZeroConstitution(entity)
+    entity = entity or context.Target
+    return ConditionResult(entity.Constitution < 1)
+end
+
+-- Alternative version that checks specifically for exactly 0 Constitution
+function HasExactlyZeroConstitution(entity)
+    entity = entity or context.Target
+    return ConditionResult(entity.Constitution == 0)
+end

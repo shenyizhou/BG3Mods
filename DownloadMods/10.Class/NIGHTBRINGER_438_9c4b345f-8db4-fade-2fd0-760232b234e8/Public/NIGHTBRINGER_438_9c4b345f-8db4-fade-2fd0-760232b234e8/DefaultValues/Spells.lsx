@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Target_MinorIllusion;Target_Guidance;Target_CageOfDarkness_NB438"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="NB438Cantrips"/>
+                    <attribute id="TableUUID" type="guid" value="b01bbeda-5ab9-4ebf-989d-5df718a83186"/>
+                    <attribute id="UUID" type="guid" value="45738c67-c48e-4690-8738-fdf6cd6fe167"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="TacticalEvasion"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="Vanguard Fighting Styles"/>
+                    <attribute id="TableUUID" type="guid" value="8ef39dbf-30cc-4cbb-94dd-d05c57bd6024"/>
+                    <attribute id="UUID" type="guid" value="476d1c96-4087-4616-96bd-f305ba9e4895"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="AVConduitStaff"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="Eldritch Implemenets List"/>
+                    <attribute id="TableUUID" type="guid" value="0b6fa1bf-8eb1-4629-9edd-c0e227786596"/>
+                    <attribute id="UUID" type="guid" value="81d5e0b1-2388-488f-97ab-98e0e7bd6138"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="DervishStrikeOneEvocation,DervishStrikeOneAbjuration,DervishStrikeOneEnchantment"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="Dervish Flourish Options"/>
+                    <attribute id="TableUUID" type="guid" value="70c3da63-573f-4248-abbd-19c4e21ff08b"/>
+                    <attribute id="UUID" type="guid" value="e0978ea8-224c-45f9-b000-d3b698463b19"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

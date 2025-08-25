@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h2a3a2846g5578g46b1g981dg68462bab1ccf" version="3">每次短休后，若你的&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;低于50%时受到伤害，可获得[1]点&lt;LSTag Tooltip="TemporaryHitPoints"&gt;临时生命值&lt;/LSTag&gt;。</content>
+	<content contentuid="h880d522egcdc1g46bfg9ef9g32bb1eeae3c1" version="1">必须完成一次短休。</content>
+	<content contentuid="h8c06cc4agbc14g4507gb72cg2e8c5db16f05" version="3">若持用者为真魂者或带有至上真神烙印，其&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;获得+[1]加值。</content>
+	<content contentuid="hb02b1f0fg420dg413cg8022gf742c792e60f" version="3">若持用者为真魂者或带有至上真神烙印，所受法术伤害减少[1]点。</content>
+</contentList>

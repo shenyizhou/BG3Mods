@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ActionResourceDefinitions">
+    <node id="root">
+      <children>
+        <node id="ActionResourceDefinition">
+					<attribute id="Description" type="TranslatedString" handle="h87c9d35ag7914g4efegb53cgf06381ff4b6e" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h9a3262d9g1cf8g40d2gae47ga2703e761c79" version="1" />
+                    <attribute id="IsHidden" type="bool" value="false" />
+					<attribute id="MaxLevel" type="uint32" value="0" />
+					<attribute id="Name" type="FixedString" value="SecondWindUse" />
+					<attribute id="ReplenishType" type="FixedString" value="ShortRest" />
+					<attribute id="ShowOnActionResourcePanel" type="bool" value="false" />
+					<attribute id="UUID" type="guid" value="4300d54b-ab5d-43f7-ada1-6e50a8264aef" />
+				</node>
+        <node id="ActionResourceDefinition">
+					<attribute id="Description" type="TranslatedString" handle="h67664a60g6424g4409gb7f8ge9c93dcd6cdb" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h67664a60g6424g4409gb7f8ge9c93dcd6cdb" version="1" />
+                    <attribute id="IsHidden" type="bool" value="true" />
+					<attribute id="MaxLevel" type="uint32" value="0" />
+					<attribute id="Name" type="FixedString" value="PDKCompanionUse" />
+					<attribute id="ReplenishType" type="FixedString" value="ShortRest" />
+					<attribute id="ShowOnActionResourcePanel" type="bool" value="false" />
+					<attribute id="UUID" type="guid" value="c5191a86-6dd6-4d7d-a383-9ac1755c7bff" />
+				</node>
+        <node id="ActionResourceDefinition">
+					<attribute id="Description" type="TranslatedString" handle="h67664a60g6424g4409gb7f8ge9c93dcd6cdb" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h67664a60g6424g4409gb7f8ge9c93dcd6cdb" version="1" />
+                    <attribute id="IsHidden" type="bool" value="true" />
+					<attribute id="MaxLevel" type="uint32" value="0" />
+					<attribute id="Name" type="FixedString" value="PDKDummyResource" />
+					<attribute id="ReplenishType" type="FixedString" value="Never" />
+					<attribute id="ShowOnActionResourcePanel" type="bool" value="false" />
+					<attribute id="UUID" type="guid" value="d8e4c82a-a5ec-4683-b14d-5dda14fc2e2f" />
+				</node>
+        <node id="ActionResourceDefinition">
+					<attribute id="Description" type="TranslatedString" handle="h7f4b928eg775ag4bd0gb19ag804e179aacaa" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hc0643814gd0efg4f66gaea7ge6552b07e034" version="1" />
+                    <attribute id="IsHidden" type="bool" value="false" />
+					<attribute id="MaxLevel" type="uint32" value="0" />
+					<attribute id="Name" type="FixedString" value="GravityBreathUse" />
+					<attribute id="ReplenishType" type="FixedString" value="Rest" />
+					<attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
+					<attribute id="UUID" type="guid" value="ecae19aa-3d84-438f-bd15-e7b9d8733a5f" />
+				</node>
+        <node id="ActionResourceDefinition">
+					<attribute id="Description" type="TranslatedString" handle="h67664a60g6424g4409gb7f8ge9c93dcd6cdb" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h67664a60g6424g4409gb7f8ge9c93dcd6cdb" version="1" />
+                    <attribute id="IsHidden" type="bool" value="true" />
+					<attribute id="MaxLevel" type="uint32" value="0" />
+					<attribute id="Name" type="FixedString" value="RallyingSurgeAttack" />
+					<attribute id="ReplenishType" type="FixedString" value="Never" />
+					<attribute id="ShowOnActionResourcePanel" type="bool" value="false" />
+					<attribute id="UUID" type="guid" value="644c3e37-ae0e-4f63-8859-e7b4ea932da3" />
+				</node>
+      </children>
+    </node>
+  </region>
+</save>

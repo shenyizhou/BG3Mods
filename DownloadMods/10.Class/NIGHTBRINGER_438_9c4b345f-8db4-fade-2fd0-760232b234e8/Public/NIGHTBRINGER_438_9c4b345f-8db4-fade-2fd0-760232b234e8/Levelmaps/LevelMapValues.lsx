@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="400"/>
+    <region id="LevelMapValues">
+        <node id="root">
+            <children>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="1d4"/>
+                    <attribute id="Level10" type="LSString" value="5d4"/>
+                    <attribute id="Level11" type="LSString" value="6d4"/>
+                    <attribute id="Level12" type="LSString" value="6d4"/>
+                    <attribute id="Level13" type="LSString" value="7d4"/>
+                    <attribute id="Level14" type="LSString" value="7d4"/>
+                    <attribute id="Level15" type="LSString" value="8d4"/>
+                    <attribute id="Level16" type="LSString" value="8d4"/>
+                    <attribute id="Level17" type="LSString" value="9d4"/>
+                    <attribute id="Level18" type="LSString" value="9d4"/>
+                    <attribute id="Level19" type="LSString" value="10d4"/>
+                    <attribute id="Level2" type="LSString" value="1d4"/>
+                    <attribute id="Level20" type="LSString" value="10d4"/>
+                    <attribute id="Level3" type="LSString" value="2d4"/>
+                    <attribute id="Level4" type="LSString" value="2d4"/>
+                    <attribute id="Level5" type="LSString" value="3d4"/>
+                    <attribute id="Level6" type="LSString" value="3d4"/>
+                    <attribute id="Level7" type="LSString" value="4d4"/>
+                    <attribute id="Level8" type="LSString" value="4d4"/>
+                    <attribute id="Level9" type="LSString" value="5d4"/>
+                    <attribute id="Name" type="FixedString" value="Nightfall_NB438"/>
+                    <attribute id="UUID" type="guid" value="3f07793a-ebb8-45d4-9dda-daeb23967a04"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="1d10"/>
+                    <attribute id="Level10" type="LSString" value="5d10"/>
+                    <attribute id="Level11" type="LSString" value="6d10"/>
+                    <attribute id="Level12" type="LSString" value="6d10"/>
+                    <attribute id="Level13" type="LSString" value="7d10"/>
+                    <attribute id="Level14" type="LSString" value="7d10"/>
+                    <attribute id="Level15" type="LSString" value="8d10"/>
+                    <attribute id="Level16" type="LSString" value="8d10"/>
+                    <attribute id="Level17" type="LSString" value="9d10"/>
+                    <attribute id="Level18" type="LSString" value="9d10"/>
+                    <attribute id="Level19" type="LSString" value="10d10"/>
+                    <attribute id="Level2" type="LSString" value="1d10"/>
+                    <attribute id="Level20" type="LSString" value="10d10"/>
+                    <attribute id="Level3" type="LSString" value="2d10"/>
+                    <attribute id="Level4" type="LSString" value="2d10"/>
+                    <attribute id="Level5" type="LSString" value="3d10"/>
+                    <attribute id="Level6" type="LSString" value="3d10"/>
+                    <attribute id="Level7" type="LSString" value="4d10"/>
+                    <attribute id="Level8" type="LSString" value="4d10"/>
+                    <attribute id="Level9" type="LSString" value="5d10"/>
+                    <attribute id="Name" type="FixedString" value="EchoOfOblivion_NB438"/>
+                    <attribute id="UUID" type="guid" value="a5516869-48d4-4258-a4cb-a99272e47734"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="2d10"/>
+                    <attribute id="Level10" type="LSString" value="10d10"/>
+                    <attribute id="Level11" type="LSString" value="12d10"/>
+                    <attribute id="Level12" type="LSString" value="12d10"/>
+                    <attribute id="Level13" type="LSString" value="14d10"/>
+                    <attribute id="Level14" type="LSString" value="14d10"/>
+                    <attribute id="Level15" type="LSString" value="16d10"/>
+                    <attribute id="Level16" type="LSString" value="16d10"/>
+                    <attribute id="Level17" type="LSString" value="18d10"/>
+                    <attribute id="Level18" type="LSString" value="18d10"/>
+                    <attribute id="Level19" type="LSString" value="20d10"/>
+                    <attribute id="Level2" type="LSString" value="2d10"/>
+                    <attribute id="Level20" type="LSString" value="20d10"/>
+                    <attribute id="Level3" type="LSString" value="4d10"/>
+                    <attribute id="Level4" type="LSString" value="4d10"/>
+                    <attribute id="Level5" type="LSString" value="6d10"/>
+                    <attribute id="Level6" type="LSString" value="6d10"/>
+                    <attribute id="Level7" type="LSString" value="8d10"/>
+                    <attribute id="Level8" type="LSString" value="8d10"/>
+                    <attribute id="Level9" type="LSString" value="10d10"/>
+                    <attribute id="Name" type="FixedString" value="EchoOfOblivion_Critical_NB438"/>
+                    <attribute id="UUID" type="guid" value="a014c56f-5440-443d-a624-8381edb34bef"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="1d6"/>
+                    <attribute id="Level10" type="LSString" value="3d6"/>
+                    <attribute id="Level11" type="LSString" value="3d6"/>
+                    <attribute id="Level12" type="LSString" value="3d6"/>
+                    <attribute id="Level13" type="LSString" value="3d6"/>
+                    <attribute id="Level14" type="LSString" value="3d6"/>
+                    <attribute id="Level15" type="LSString" value="4d6"/>
+                    <attribute id="Level16" type="LSString" value="4d6"/>
+                    <attribute id="Level17" type="LSString" value="4d6"/>
+                    <attribute id="Level18" type="LSString" value="4d6"/>
+                    <attribute id="Level19" type="LSString" value="4d6"/>
+                    <attribute id="Level2" type="LSString" value="1d6"/>
+                    <attribute id="Level20" type="LSString" value="4d6"/>
+                    <attribute id="Level3" type="LSString" value="1d6"/>
+                    <attribute id="Level4" type="LSString" value="1d6"/>
+                    <attribute id="Level5" type="LSString" value="2d6"/>
+                    <attribute id="Level6" type="LSString" value="2d6"/>
+                    <attribute id="Level7" type="LSString" value="2d6"/>
+                    <attribute id="Level8" type="LSString" value="2d6"/>
+                    <attribute id="Level9" type="LSString" value="2d6"/>
+                    <attribute id="Name" type="FixedString" value="DarkwingsFavor_NB438"/>
+                    <attribute id="UUID" type="guid" value="baafe46b-0583-4ef5-bf38-f039aba82ae2"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

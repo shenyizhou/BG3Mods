@@ -1,0 +1,1279 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<content contentuid="ha4f9aaa2g1fcegb03bgd240gaf77f0aeebf5" version="2">奧術先鋒</content>
+<content contentuid="h34c65a8eg5a17gcf8dgf257gb12609e32b90" version="2">先鋒</content>
+<content contentuid="ha62386begefeeg3b3egb78dg1141620d4464" version="5">奧術先鋒結合了魔法與戰鬥能力。他們的攻擊增強了法術，而法術又增強了攻擊，形成了魔法與力量的循環。</content>
+<content contentuid="h6c9d592dg2b97g07d7g1ac8g4188a6fe2c9c" version="4">邪術</content>
+<content contentuid="hf171360eg53f0gc731g6259gcf9040945a0b" version="2">邪術</content>
+<content contentuid="h55e6c10cgd38bgd6e4gdecdg117484d73e33" version="4">審判</content>
+<content contentuid="h9b1dc4f9gbf1fg19cegc5eeg91a56045b55f" version="1">審判</content>
+<content contentuid="h01a37f18g97faga915g734ag031b74dadeae" version="3">哨兵</content>
+<content contentuid="hb0343048g1c31g3a5eg82e3gfda4023345f8" version="1">哨兵</content>
+<content contentuid="h4b73ecf2gee9bga6bcgd720g5f9ab1b9114f" version="1">使用感知</content>
+<content contentuid="hb675ad99g87dbg1a31g219cg54c555c4715c" version="1">使用智力</content>
+<content contentuid="h31bfe842g4338g3803g5ec8g1bd216d15ad7" version="1">使用魅力</content>
+<content contentuid="h0323cfa0g1cebg8c23g703fgc82140ed7d91" version="1">守護點數</content>
+<content contentuid="he82c5525g3345gbdf7gbe48g8a831f0750aa" version="2">妳可以使用守護能力的次數</content>
+<content contentuid="h2fc44721g5607g8766g1f5dgf46f495751c9" version="2">先鋒戰技</content>
+<content contentuid="h82e4dcfag24bdgc04eg0e3dg5b3268b7e0ad" version="5">當使用先鋒織法時，妳可以選擇消耗妳的附贈動作來使用一個&lt;LSTag Tooltip="SpellSlot"&gt;法術位&lt;/LSTag&gt;施放一個法術，而不是施放一個&lt;LSTag Tooltip="Cantrip"&gt;戲法&lt;/LSTag&gt;。或者，當妳使用一個&lt;LSTag Tooltip="SpellSlot"&gt;法術位&lt;/LSTag&gt;施放法術後，妳可以使用附贈動作進行一次武器攻擊。</content>
+<content contentuid="h8cf308d1g9cd8gd799g6c21g2907f6bc30bd" version="2">先鋒戰技</content>
+<content contentuid="h008cd39bg8531g921fgae72g905ede9a0919" version="2">可以使用附贈動作進行一次武器攻擊。</content>
+<content contentuid="h1ecb284eg635cg0c5ag67acg2e1fdb71a881" version="1">註入元素</content>
+<content contentuid="hc3183487g0699gc08egbfb8g7931e0ec2e7c" version="7">當妳使用一個法術或&lt;LSTag Tooltip="Cantrip"&gt;戲法&lt;/LSTag&gt;造成傷害時，如果該法術需要進行&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;或者進行法術的&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;，那麽該法術會灌註妳的武器。&lt;br&gt;&lt;br&gt;直到妳的下一個回合結束，妳在第一次成功的武器攻擊中額外造成1d4點該類型的傷害。</content>
+<content contentuid="hff88f3d8g81f9gd55bg5c8ag8f1741c5db54" version="1">註入奧術</content>
+<content contentuid="hbb1a7857gc172g71b3g38feg9ec9249bd23c" version="1">每當妳的武器攻擊造成傷害時，妳會獲得1回合的&lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_ACUITY"&gt;奧術敏銳&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h2927788dg9195g5b9egd0dag3006215a6910" version="1">奧術活力</content>
+<content contentuid="h3dc88a81g8848ga983g8354g8b1e7ba04bcd" version="6">每當妳使用一個&lt;LSTag Tooltip="SpellSlot"&gt;法術位&lt;/LSTag&gt;施放法術時，妳獲得[1]&lt;LSTag Tooltip="TemporaryHitPoints"&gt;臨時生命值&lt;/LSTag&gt;。</content>
+<content contentuid="h69b62dcagf92ag82e5g0e71g3713838f587d" version="2">奧術活化</content>
+<content contentuid="he27fac28g22d0g0a7bg3997g9c0aa7e21188" version="5">每當敵人對妳造成傷害時，妳會獲得&lt;LSTag Type="Status" Tooltip="ARCANE_ENLIVENING"&gt;奧術活化&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h176de83dgf6c8ga95eg5cffg39ef3c0ca79d" version="1">守護怒擊</content>
+<content contentuid="haf1e1fe1g1834gb112g863cg9e61d4282900" version="6">每當妳治療一個生物時，可以在下一次武器攻擊傷害擲骰中添加妳的智力&lt;LSTag Tooltip="AbilityModifier"&gt;調整值&lt;/LSTag&gt;。</content>
+<content contentuid="h14ea9078g53e5ga5a9gc982g1df0a8bbcb68" version="3">邪術烙印</content>
+<content contentuid="h85cae2f9g59f6gde03gfbeeg07164e58f1fb" version="8">當敵人一次&lt;LSTag Tooltip="Saving Throw"&gt;豁免檢定&lt;/LSTag&gt;失敗時，妳將在目標身上標記烙印，持續至妳的下個回合結束。此邪術烙印可被妳的&lt;b&gt;邪術器具&lt;/b&gt;所利用。</content>
+<content contentuid="he184f471g2546gd641gfe67g642c6e0c779e" version="2">讀取敵人</content>
+<content contentuid="h98c39899g355fge945g94aegb72f102427d4" version="4">妳能看到併預測敵人的攻擊，使其更容易躲避。計算妳的&lt;LSTag Tooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;時，使用妳的智力&lt;LSTag Tooltip="AbilityModifier"&gt;調整值&lt;/LSTag&gt;而不是敏捷。</content>
+<content contentuid="h2519aee3g87a9g7e1cgaba3ge2e9de478409" version="2">疾速靈動</content>
+<content contentuid="h94b98f55gf239g4ef7ge7fdg692800cee35e" version="4">增加妳的&lt;LSTag Tooltip="MovementSpeed"&gt;移動速度&lt;/LSTag&gt;[1]</content>
+<content contentuid="h203733d4gf16dgc1b0g2ed4g97c6f5b79db3" version="1">戰術打擊</content>
+<content contentuid="h2a7c11e6g9804g4f03g3e5eg985aca92f1dc" version="5">每回合一次，當妳使用武器攻擊時，額外造成1d4武器傷害。</content>
+<content contentuid="h785a272bg6096gb76cg9423g4d5790d58309" version="1">增強奧術</content>
+<content contentuid="h5f84bc76gfa69ge210g691eg8c1d100f5afa" version="4">第一次使用武器攻擊造成傷害時，妳會獲得2回合的&lt;LSTag Type="Status" Tooltip="ARCANE_VANGUARD_EMPOWERED_ARCANA"&gt;增強奧術&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h2d7f5e42g221dge968g5d9cg5f6df495ff5e" version="1">沖鋒陷陣</content>
+ <content contentuid="h21364f85g8355g5210g0392g048fce62bd2b" version="3">妳的&lt;LSTag Tooltip="RangedSpellAttack"&gt;遠程法術攻擊&lt;/LSTag&gt;被視為&lt;LSTag Tooltip="MeleeSpellAttack"&gt;近戰法術攻擊&lt;/LSTag&gt;。此效果可以關閉。</content>
+<content contentuid="h629686b1gf72cga83cg7e72gba1f9677601e" version="1">解放施法</content>
+<content contentuid="h80facdf5gd6c6g70d7g2bcfgab7a817da1e3" version="6">當妳擊殺一個生物時，妳可以使用妳的反應來施展一個&lt;LSTag Tooltip="Cantrip"&gt;戲法&lt;/LSTag&gt;。此效果每&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;只能發生一次。</content>
+<content contentuid="h09d24ad8g5ed1g1332g9eefg84bf45427049" version="1">構造論點</content>
+<content contentuid="h2466ca5bg7ebfg41ccg4412gb8d5b5dcf554" version="3">妳在遊說&lt;LSTag Tooltip="AbilityCheck"&gt;檢定&lt;/LSTag&gt;中獲得等於妳的智力&lt;LSTag Tooltip="AbilityModifier"&gt;調整值&lt;/LSTag&gt;的加值。</content>
+<content contentuid="h0eed399cg0615g6affgea05g71cbe9b4fe2f" version="2">精准施法</content>
+<content contentuid="ha692f2ebg9459g6402gbaaega4bfa4cce425" version="1">當妳施放需要進行&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;的法術時，妳可以選擇對該擲骰進行-[1]的懲罰以額外造成[2]。</content>
+<content contentuid="h23a11ce1ga6e9gb367gab77g6dddc3401a9e" version="1">後續攻擊</content>
+<content contentuid="hf01bd8e8ga71ag9c8cgd33ag12516adc3ba4" version="3">在施放一個法術或&lt;LSTag Tooltip="Cantrip"&gt;戲法&lt;/LSTag&gt;後進行攻擊時，妳獲得+1的&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;加值。</content>
+<content contentuid="hfbed63c2g1cf6g5d73g770eg91c75dbb7760" version="1">力場註入</content>
+<content contentuid="hf2d1297eg6965g202bgdd4dg3f2c36a54466" version="1">受影響的實體在下一次使用武器造成傷害時會額外造成[1]。</content>
+<content contentuid="ha612cc72g9f27g9918g70f0ga1b471b3315e" version="2">法刃協同</content>
+<content contentuid="h256badcegb16ag4eaeg04a1g2bbee9f801ac" version="2">當妳施放法術時，妳的下一次攻擊會在傷害擲骰中添加妳的智力&lt;LSTag Tooltip="AbilityModifier"&gt;調整值&lt;/LSTag&gt;。</content>
+<content contentuid="hd59b75a2ga0b5g5e4age3f9g258f0e6f7b2c" version="1">法刃協同</content>
+<content contentuid="hc3f2cee4g27cag29bage104gba8a193ef630" version="2">在妳的下一次武器攻擊傷害擲骰中添加妳的智力調整值。</content>
+<content contentuid="h1ef50f52g5f0fgd16bg554agc5f427061542" version="2">奧術置換</content>
+<content contentuid="hb8f5469agf113gd74fgfceegbc96e1b56a14" version="2">強迫範圍內的敵人進行一次魅力&lt;LSTag Tooltip="Saving Throw"&gt;豁免擲骰&lt;/LSTag&gt;，如果失敗則與妳交換位置。</content>
+<content contentuid="h453b9447ge6eag4dfdgfd7fg079b3c8b9908" version="1">法術恢復</content>
+<content contentuid="h6dc26b52gf51egf834g493bgfdc37c9edc72" version="1">恢復2個一級法術位。</content>
+<content contentuid="h181c4ab9gb697ga03fg05e5g77205fbea795" version="2">先鋒恢復</content>
+<content contentuid="ha84e2497g4b49gd005g1856g94a6cfe8087d" version="3">允許妳在每次短休後恢復2個一級&lt;LSTag Tooltip="SpellSlot"&gt;法術位&lt;/LSTag&gt;。</content>
+<content contentuid="hafaa3bd8g323cg4134g8c67gbcc0dc65bbdc" version="2">奧術置換</content>
+<content contentuid="hb0a8cef7gdd1cg3108g20dag5b7132dc7ba8" version="5">強迫範圍內的一名敵人進行一次魅力&lt;LSTag Tooltip="Saving Throw"&gt;豁免擲骰&lt;/LSTag&gt;，否則強制他們與妳交換位置。&lt;br&gt;&lt;br&gt;如果妳的目標是盟友，則該法術自動成功。</content>
+<content contentuid="hb0ead19fg2444gb5ecg68b2g38dfbcab8898" version="1">選擇分類</content>
+<content contentuid="hf25d6d0fg0828g7269g2500gb5fdceb59daf" version="3">通過對遠域的研究，妳以邪術器具將其中的瘋狂封存，以此駕馭來自彼岸的混沌能量。</content>
+<content contentuid="hc91219f8g5faag791bg2d01gf6bdde4af589" version="2">妳選擇對那些宣佈自己為敵的人進行審判，撕裂敵軍防線。</content>
+<content contentuid="ha0f1fe03gd34eg8520g2862gf01b3bb1b012" version="2">妳保護盟友的同時將敵人拒之門外。支援需要幫助的盟友，同時擊退敵人。</content>
+<content contentuid="h95728b15gdf6cgac1dg2126g064ebe06610f" version="2">卓越邪術</content>
+<content contentuid="hb34ea08dg6725g2354g6fdegfb34fc043139" version="4">妳的邪術器具變得更加強大，解鎖其第二項被動效果（詳見物品描述）。</content>
+<content contentuid="hb45259ddg57fag7d42g58f7g3c0647223789" version="1">奧術活力</content>
+<content contentuid="h8d240e4dg203cgfa2bg3cb1gc1598562a4c8" version="3">當妳施放不直接針對或傷害敵人的法術時，獲得&lt;LSTag Tooltip="Temporary Hit Points"&gt;臨時生命值&lt;/LSTag&gt;。</content>
+<content contentuid="h321e513agaff1g96c7gd09eg5dde58bdbef9" version="1">妳獲得的臨時生命值等於妳的智力調整值加上妳的奧術先鋒等級。</content>
+<content contentuid="h8210c4afg8e3fg34e7g410dg0ee869ad97e8" version="1">受影響的實體在下一次使用武器造成傷害時會額外造成[1]。</content>
+<content contentuid="hae02db08geb59gfbeeg87d0g7e58c7318f9b" version="1">受影響的實體在下一次使用武器造成傷害時會額外造成[1]。</content>
+<content contentuid="h569b6239gfb40g0633g7651geb3db59fcffb" version="1">受影響的實體在下一次使用武器造成傷害時會額外造成[1]。</content>
+<content contentuid="hc3e06137g8655g0d49g24c6gdc1460a09cf1" version="1">受影響的實體在下一次使用武器造成傷害時會額外造成[1]。</content>
+<content contentuid="h11bcf106ge763g57d5g6b9dgb5f7d0b9a75a" version="1">受影響的實體在下一次使用武器造成傷害時會額外造成[1]。</content>
+<content contentuid="h59f0e7a9ged8bg33eag824ag2ea162113e98" version="1">受影響的實體在下一次使用武器造成傷害時會額外造成[1]。</content>
+<content contentuid="h81dce738gc0afg03d6g7fbdg6d90514edb46" version="1">受影響的實體在下一次使用武器造成傷害時會額外造成[1]。</content>
+<content contentuid="h53d5789cg990dg7d9eg6ba3ge15caf8e435d" version="1">受影響的實體在下一次使用武器造成傷害時會額外造成[1]。</content>
+<content contentuid="h901dc94cg4673g4b63g63f9g8cf4e6e83961" version="1">受影響的實體在下一次使用武器造成傷害時會額外造成[1]。</content>
+<content contentuid="h0ed724c3g31f5g3b62geeedg5e4f7a5111f3" version="1">酸液註入</content>
+<content contentuid="h6ef53b24ge23dgf859ga74eg830f09a7d9dc" version="1">寒冷註入</content>
+<content contentuid="hb0f2a6efg5eb3gca0ag9bcdg26999ba37cd0" version="1">火焰註入</content>
+<content contentuid="h823eeb1bgcd7fgc3efge2fbgc236dda043b4" version="1">黯蝕註入</content>
+<content contentuid="hdb9aee18g6a00g6131g1dc2gb16c1f1a303d" version="1">雷鳴註入</content>
+<content contentuid="hf224572eg24a7gc348g22e7g009b550ab33c" version="1">心靈註入</content>
+<content contentuid="hcffdfb30g4a22gc34egefc7g315747043c9c" version="1">毒素註入</content>
+<content contentuid="hc62af43fg062ag7aeeg4d53g2dd1f0599740" version="1">光耀註入</content>
+<content contentuid="hacd51d71g2e78g74d1ge9c1gff17f93268b2" version="1">閃電註入</content>
+<content contentuid="hc0be7394gd8beg5153g2b16g9e49244628c7" version="2">邪術典範</content>
+<content contentuid="h9f38b1e2g8dafg134fgd251g89565fbea18d" version="8">隨著妳對邪術導器具獨特魔法的掌控日益精進，它的力量再度提升。每件器具的成長各不相同，詳見物品描述。</content>
+<content contentuid="hb3492822gf77cg7694g0794g562321ed545e" version="2">守望庇佑</content>
+<content contentuid="hdfb7fceeg3910g66cdg8dbag71d97d530346" version="1">獲得&lt;LSTag tooltip="Armor Class"&gt;護甲等級&lt;/LSTag&gt;和&lt;LSTag tooltip="Saving Throws"&gt;豁免擲骰&lt;/LSTag&gt;的加值。</content>
+<content contentuid="hb2d5e359g7ed3g9de7g9d2eg1ddd0844fbca" version="4">在&lt;LSTag Tooltip="Concentration"&gt;專註&lt;/LSTag&gt;於一個法術時，將妳的智力&lt;LSTag Tooltip="AbilityModifier"&gt;調整值&lt;/LSTag&gt;加到妳的&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;上，併獲得+2的&lt;LSTag Tooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;。</content>
+<content contentuid="h5fd5aecbg23abgb033g2ebegf1ab80a0d1fd" version="2">守望庇佑</content>
+<content contentuid="h36f67795ge529gcfe2g6455g100457181f7d" version="1">守護怒擊</content>
+<content contentuid="h8b1a3233gda63gca1egcc49g4e76f9cbd69a" version="3">將妳的智力調整值添加到下一次武器攻擊的傷害擲骰中。</content>
+<content contentuid="hfedd8a13g77ddg6274g07a0gb8ff83890624" version="2">奧術先鋒</content>
+<content contentuid="hf127450dg08cfgdb94geb51gfa8ff703cd5a" version="1">穿著輕型護甲不會對妳造成&lt;LSTag Tooltip="Disadvantage"&gt;劣勢&lt;/LSTag&gt;或阻止妳施放法術。</content>
+<content contentuid="h153eb468gd99ag613cg2345g51e956b198fc" version="1">中型護甲熟練</content>
+<content contentuid="ha24ed3e2g136cg8948ge388g5f9d3e482c70" version="1">穿著中型護甲不會對妳造成&lt;LSTag Tooltip="Disadvantage"&gt;劣勢&lt;/LSTag&gt;或阻止妳施放法術。</content>
+<content contentuid="h78f983d5g8141ge0fega401g1e1a8a0b88ce" version="2">奧術先鋒</content>
+<content contentuid="h33e4d464gd62dg66d1g130bgf8658b6ec148" version="1">將妳的熟練加值&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟練加值&lt;/LSTag&gt;添加到簡易武器的攻擊擲骰中。</content>
+<content contentuid="h80163cf2g8f00g6527gd9e9ge2ba4fcbfc4f" version="2">奧術先鋒</content>
+<content contentuid="h4b2f938fg41bfgb7a0g67c8g7cfc27a178ee" version="1">將妳的熟練加值&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟練加值&lt;/LSTag&gt;添加到軍用武器的攻擊擲骰中。</content>
+<content contentuid="h4b9a1721g8f67g2663geb3ag371e168361ba" version="1">重型護甲熟練</content>
+<content contentuid="hb6dc245fged1fg7053gce28g36e1abb1f649" version="1">穿著重型護甲不會對妳造成&lt;LSTag Tooltip="Disadvantage"&gt;劣勢&lt;/LSTag&gt;或阻止妳施放法術。</content>
+<content contentuid="h3f2d43c6g34f3g7bb1gffe1g59fa05462d6c" version="1">先鋒熟練</content>
+<content contentuid="h0abb35c5gb63fg5d21gc34eg0bc2312452eb" version="2">妳精通簡易武器、軍用武器以及輕型護甲。此外，妳還精通敏捷和智力豁免。</content>
+<content contentuid="h73ba6fabg1f89g18a2g2846gaea82a414c52" version="1">哨兵熟練</content>
+<content contentuid="hee9a17c5ge5d6gd5efgf8c7g5c174f7b0811" version="1">妳額外精通中型護甲。</content>
+<content contentuid="h05b20dedg1361g814ag7310gfbc495946d5b" version="1">審判熟練</content>
+<content contentuid="hf95e0418g43f8gff20g1774gdc325f7e8697" version="1">妳額外精通中型護甲和重型護甲。</content>
+<content contentuid="h87fc394dgc5edg0e7bg8bc0g6bc870f6e84c" version="2">妳精通簡易武器、軍用武器以及輕型和中型護甲。此外，妳還精通敏捷和智力豁免。</content>
+<content contentuid="hc27464cfg942fg8f4dg5e4bgf1b3bf48886f" version="3">妳精通簡易武器、軍用武器以及輕型、中型和重型護甲。此外，妳還精通敏捷和智力豁免。</content>
+<content contentuid="h645523a5g605cg0ccbgbc1fg8d5c8fa1456e" version="1">[4]級&lt;LSTag Tooltip="SpellSlot"&gt;法術位&lt;/LSTag&gt;解鎖</content>
+<content contentuid="he53c9f67g1c19gec6eg7beag6fb64d29ca15" version="1">妳獲得[3]個[4]級法術位，在經過一次&lt;LSTag Tooltip="LongRest"&gt;長休&lt;/LSTag&gt;後恢復。</content>
+<content contentuid="hcf736c35gd83eg8ea5ge759gab7c1d045d01" version="1">受影響的實體在下一次使用武器造成傷害時會額外造成[1]。</content>
+<content contentuid="hb82c53e6ga966g4065g0844g9641d3b62887" version="1">受影響的實體在下一次使用武器造成傷害時會額外造成[1]。</content>
+<content contentuid="h4450a9eag5dbcgcdb7g3488ga9dbdb876e10" version="1">受影響的實體在下一次使用武器造成傷害時會額外造成[1]。</content>
+<content contentuid="hcdc1b79dgfed0ge87fgaf0ag511c4f0c0340" version="1">揮砍灌註</content>
+<content contentuid="hfc41cae3g2b33g0b18ge159g8d62b8fe8241" version="1">穿刺灌註</content>
+<content contentuid="h3ec1d999g8d9egd16dg68d9gaca42d136cbc" version="1">鈍擊灌註</content>
+<content contentuid="h5d2a63deg936egb419g6598gbfb178bc4007" version="1">哨兵的保護</content>
+<content contentuid="ha770eeecgef06g63cdgd77fga1616e8463b2" version="2">受影響實體受到哨兵先鋒守護。</content>
+<content contentuid="h9bc29bf1gb024g3e10g5047gc59c42ba0c48" version="1">哨兵的保護</content>
+<content contentuid="h366d105egf2d3g7c1eg52d8g607d11d95ecf" version="2">受影響實體受到哨兵先鋒守護。</content>
+<content contentuid="h61938ba6ge50agba1fg3752g4b6c857a8f5a" version="2">先鋒守護</content>
+<content contentuid="h0cc44de5g0416g0c91g931agec9494207362" version="6">妳和附近的盟友減少等同於妳的智力&lt;LSTag Tooltip="AbilityModifier"&gt;修正值&lt;/LSTag&gt;的傷害，持續5回合。</content>
+<content contentuid="hd20138e7g9871g4003g3235gd55ba7ae4d98" version="1">東西</content>
+<content contentuid="hdac981e0g36f7gf429gbf6agd4d22817f68d" version="1">事物</content>
+<content contentuid="h6ef15aeag1a11g6352gbeecg1dd6e7702246" version="1">asdasd</content>
+<content contentuid="h59c79b28gd3f4ga6bbgc478g55b8ad391d94" version="1">asdasd</content>
+<content contentuid="h223f223dg094bg10ccgfc23g2634600646b2" version="2">奧術活力</content>
+<content contentuid="h99553967ga63dgf732g4407g4c75cd300f39" version="5">每當您施放一個對自己或另一生物有益的法術時，您會獲得[1]等於您的奧術先鋒職業等級加上智力&lt;LSTag Tooltip="AbilityModifier"&gt;修正值&lt;/LSTag&gt;的&lt;LSTag Tooltip="TemporaryHitPoints"&gt;臨時生命值&lt;/LSTag&gt;。</content>
+<content contentuid="h089f4c57gd41dga03bge0degce03fd59cd4c" version="1">旋風打擊</content>
+<content contentuid="h71003d9eg2edfg1ee8gd89ag5f2328acc5a4" version="3">一個戲法劍舞已准備就緒。</content>
+<content contentuid="h047087dag163fg518cg7c8aga6dc4f963cf0" version="2">開場舞</content>
+<content contentuid="h7fffa5a0g842cg0c37gc174g3702cbfd73f4" version="1">准備劍舞</content>
+<content contentuid="h8f330ba7g53b2gf779g4a7dgb76759b9c5c4" version="1">特殊攻擊准備執行</content>
+<content contentuid="hc2a47fd4gb50dg8435ga6e8g239de2d96ca1" version="2">戲法劍舞</content>
+<content contentuid="h54c1c25bg35a9gcf00g43d5g041b2d6b561f" version="10">在施放一個戲法後，一個戲法劍舞即被准備就緒。劍舞是&lt;LSTag Tooltip="MeleeWeaponAttack"&gt;近戰武器攻擊&lt;/LSTag&gt;，可以產生多種效果，但在使用具有雙手特性的近戰武器時不能使用。&lt;br&gt;&lt;br&gt;這些效果會隨著您在此職業中的等級提升而增強，最初的效果強度為1或骰子大小為1d4。在第6級、第11級和第17級時，效果強度增加1，骰子大小也相應增加一級。</content>
+<content contentuid="h47c42e04g4123g604fg5214g75753c75dbce" version="2">旋風</content>
+<content contentuid="h249257b2g348cgb0e5gfc99gd566acede639" version="1">旋風</content>
+<content contentuid="ha1166b80g91dbg6aceg03c3gc644478b17ca" version="3">您的法術解鎖了近戰武器攻擊中的潛在力量，形成了一種力量與魔法的舞蹈。</content>
+<content contentuid="hbcd70405gea04ge0f1ge5ceg83c022db3373" version="1">先鋒守護</content>
+<content contentuid="hfec16ec2g7277gf176gfa74g23253da54e7b" version="1">您學習了一項技術，可以在5回合內保護您和您的盟友免受傷害。</content>
+<content contentuid="h1f8ff448g6a1ega2a0g4945gb7247649af10" version="1">使用剛剛消耗的魔法進行特殊攻擊</content>
+<content contentuid="h47fc1ab9g0c98gbbefg47a5g457bd1487c8d" version="2">戲法劍舞</content>
+<content contentuid="hefed650cgfc1ag63eeg9137g862f61f284cc" version="4">法術劍舞</content>
+<content contentuid="hd8b8a199gb796gc195ge200gb0ef4d77a090" version="4">一個法術劍舞已准備就緒</content>
+<content contentuid="hcb6c5f20ge290g8dcbg8cefgfcc3de9f7be2" version="2">法術劍舞</content>
+<content contentuid="hbd70fc8fg3b37gda07g5cf0gaadaf3135354" version="8">在使用&lt;LSTag Tooltip="SpellSlot"&gt;法術位&lt;/LSTag&gt;施放一個法術後，法術劍舞變得可用。劍舞是&lt;LSTag Tooltip="MeleeWeaponAttack"&gt;近戰武器攻擊&lt;/LSTag&gt;，可以產生多種效果，但在使用具有雙手特性的近戰武器時不能使用。&lt;br&gt;&lt;br&gt;這些效果會隨著您在此職業中的等級提升而增強，最初的效果強度為1或骰子大小為1d4。在第6級、第11級和第17級時，效果強度增加1，骰子大小也相應增加一級。</content>
+<content contentuid="hf0cba141gc17dg7891g7fa1gcd1b51f89f2d" version="2">奧術漸強</content>
+<content contentuid="h44789affgc7dbg4c9dg5132g93a73f446444" version="2">施放第三個法術後，准備第三次特殊攻擊。</content>
+<content contentuid="h2b34bde1gb27fg97b1g06c3gd5ef67533f8a" version="2">旋風劍舞三</content>
+<content contentuid="h6d7eb8c9g8810g1413g4faeg8161ea6fb8f9" version="2">特殊攻擊已准備就緒。</content>
+<content contentuid="h21dc90ebg3337gfcfcg997ag904f2851cb6a" version="1">旋風法術劍舞</content>
+<content contentuid="hc824d9a2g4efeg6c6bga665gd52736003bfd" version="3">您的法術由您的攻擊增強，給予您的&lt;LSTagTooltip="SpellDifficultyClass"&gt;法術豁免難度等級&lt;/LSTag&gt;和法術&lt;LSTagTooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt; +[1]加值。</content>
+<content contentuid="h211a6da3g9dccgddb9g32b0g7ab45a54eb76" version="1">旋風法術劍舞</content>
+<content contentuid="h5bfb4902g6748g6ff6g9dbdgc982d20f25d1" version="1">您的法術由您的攻擊增強</content>
+<content contentuid="h65d2c50cge8b5ge1degd55cgf05b35559467" version="5">將妳的戲法力量註入一個魔法劍舞，進行一次武器攻擊，該攻擊將額外造成[1]。</content>
+<content contentuid="hbd492845ge7b3gb2e3geefeg6392e3636916" version="1">賦能舞</content>
+<content contentuid="hfa9b8da1g6bf4g88edg344eg4c33ca795134" version="4">受影響的實體其&lt;LSTag Tooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;降低[1]。</content>
+<content contentuid="h716ec97cgaf10g350ag8913gbef8a9085303" version="1">開場舞</content>
+<content contentuid="h32810d0bg98e6g9f77g3466gf67864a59645" version="3">受影響的實體其&lt;LSTag Tooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;提高[1]。</content>
+<content contentuid="h7f566047gdb31g7105g237bgd85ea73b851b" version="1">開場舞</content>
+<content contentuid="h40feb853g55fbg7fc7g7872g7ad605a5474c" version="2">受影響的實體其&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;降低[1]。</content>
+<content contentuid="hdac9ab06gee1ag5be7g120fgec247ad2a260" version="1">開場舞</content>
+<content contentuid="h548221f3ga847g7315g8f7fg32abdf2a979d" version="2">受影響的實體其&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;提高[1]。</content>
+<content contentuid="h788e6e55g51a7gd50eg983bg2d89cb4d513a" version="2">震撼舞</content>
+<content contentuid="h7e2cedb5gb8b4g00b1g0cc4gbdf956c39afa" version="5">將妳的戲法力量註入一個魔法劍舞，進行一次武器攻擊，該攻擊將使目標的&lt;LSTag Tooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;在接下來的2個回合內降低[1]。</content>
+<content contentuid="hd5905adfg890egb3f6ge6b8gb006f8706a37" version="1">守禦舞</content>
+<content contentuid="h3cb55233g56a9g03beg6cf7gab10ba6601a3" version="5">將妳的戲法力量註入一個魔法劍舞，進行一次武器攻擊，該攻擊將使妳自己的&lt;LSTag Tooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;在接下來的2個回合內提高[1]。</content>
+<content contentuid="hb3fb4f21gc926g7f3eg900dge4263699c2ff" version="2">擾心舞</content>
+<content contentuid="h10a4da4eg6d35ge0c6g5aafgd4f1072695ef" version="6">將妳的戲法力量註入一個魔法劍舞，進行一次武器攻擊，該攻擊將使目標的&lt;LSTag Type="Status" Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;在接下來的2個回合內降低[1]。</content>
+<content contentuid="hfb7ab3ebgc901gc3c0g1ed4g6cc0f2d326a6" version="2">預知舞</content>
+<content contentuid="h0c6f6e95g4074ge004gbb4aga6a4f0458724" version="5">將妳的戲法力量註入一個魔法劍舞，進行一次武器攻擊，該攻擊將使妳所有的&lt;LSTag Type="Status" Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;在接下來的2個回合內提高[1]。</content>
+<content contentuid="h29eef7bag541ega847g7ae0g2ea5e15dd9cf" version="1">首次劍舞</content>
+<content contentuid="hc6a4a292g0a76gf96bg983fgcab4c18a0503" version="4">受影響的實體失去移動速度，併在其力量、體質和敏捷的&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;上受到-[1]的懲罰。</content>
+<content contentuid="h961b6370g1b1agde73gee72gb31aff11e340" version="1">致殘舞</content>
+<content contentuid="hf6f58d9cg36acg2462g1ca3gb5983d87573a" version="5">將妳的戲法力量註入一個魔法劍舞，進行一次武器攻擊，該攻擊將使目標的&lt;LSTag Tooltip="MovementSpeed"&gt;移動速度&lt;/LSTag&gt;減半，併將其力量、敏捷和體質的&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;在接下來的2個回合內減少[1]。</content>
+<content contentuid="h61daaa5eg5e75g36fcge7a8g74b1585e0a68" version="1">迷人舞</content>
+<content contentuid="hba6b4cdege5c3gb973g346bg79ecd0c7d9b5" version="4">將妳的戲法力量註入一個魔法劍舞，進行一次武器攻擊，該攻擊將使目標的感知、智力和魅力的&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;在接下來的2個回合內降低[1]。</content>
+<content contentuid="hcf2044ccg4fb7g350fg9615gd0d482c03dcb" version="1">賦能舞</content>
+<content contentuid="hfc4cd7b0gf473g83bfg62dfg24e23c5edcd7" version="1">震撼舞</content>
+<content contentuid="h0f3487feg152ag8939g0bafgf3a986e8d1f4" version="1">守禦舞</content>
+<content contentuid="ha0d3d5c2g5f3cgbed9g97abge3d3678b0e69" version="1">擾心舞</content>
+<content contentuid="hda628351g2272gb198g5f58g4e66f46e0f64" version="1">預知舞</content>
+<content contentuid="h23ad018agb933g8511g96dfgea896d50cdbd" version="1">致殘舞</content>
+<content contentuid="hc1023ee8gd5edg36e4gdc70g807d2ca597ae" version="1">迷人舞</content>
+<content contentuid="h479a3657g49f5g8974g327ag5a1f08e786e4" version="2">戲法劍舞</content>
+<content contentuid="hffc64102gfd00g0410g025dgda929f878571" version="3">選擇一個在施放戲法後可用的攻擊。</content>
+<content contentuid="h8d8dd993ge253g3b92g5778g30501ffcec57" version="3">使用剛剛消耗的魔法進行一次特殊攻擊，額外造成[1]。</content>
+<content contentuid="h764432c4ga3feg9b79gd091g62dea295b4c7" version="1">使用剛剛消耗的魔法進行一次特殊攻擊，使目標AC降低1點。</content>
+<content contentuid="h8918896bg2034gabb2g3835gba65e270ae67" version="1">使用剛剛消耗的魔法進行一次特殊攻擊，將自己的AC提高1點。</content>
+<content contentuid="h9a4c5ae1g7d05g2b36g36b0g2248a2261b95" version="1">使用剛剛消耗的魔法進行一次特殊攻擊，使目標的攻擊擲骰降低1點。</content>
+<content contentuid="h633dc9afg2dcagdaf0gf28bgb3c254a40274" version="1">使用剛剛消耗的魔法進行一次特殊攻擊，使自己的所有攻擊擲骰提高1點。</content>
+<content contentuid="h262c5863gc687g50acg119cg1833b710aea7" version="1">使用剛剛消耗的魔法進行一次特殊攻擊，使目標的移動速度減半，併減少其力量、敏捷和體質豁免檢定1點。</content>
+<content contentuid="ha9d5bf2bg89cbgf2d6g651fg0ad5d07f45cf" version="1">使用剛剛消耗的魔法進行一次特殊攻擊，使目標的感知、智力和魅力豁免檢定降低1點。</content>
+<content contentuid="h7df30aa3g105dg00b6g1f49g7c21cb0b69dc" version="1">先鋒天賦</content>
+<content contentuid="hf9237d3bg3777g51b5gfaf5g21f98ea84259" version="1">選擇一個先鋒天賦</content>
+<content contentuid="h9e6e9865gac82gc744g3736g88e0f0f7cb3f" version="1">強襲舞</content>
+<content contentuid="he9654090gada5g71bag96cdgae9e06ef54eb" version="4">進行一次由法術驅動的武器攻擊，該攻擊額外造成[1]。</content>
+<content contentuid="hb6ed433bg28ebg02e7g1387gee0836a947ed" version="1">迷人舞</content>
+<content contentuid="hdd7d12c6g4403g0cd7g8e28g073b918037a4" version="4">進行一次由法術驅動的武器攻擊，該攻擊額外造成[1]，併迫使目標進行一次感知&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;，使其在下一個回合無法攻擊妳。</content>
+<content contentuid="hd5f91e36g82b5g90a1g7b12g9e3bf3981612" version="1">堅毅舞</content>
+<content contentuid="h0cd037cfg03a5g1562ga97fgb66af7ef258a" version="5">進行一次由法術驅動的武器攻擊，該攻擊額外造成[1]，併使妳在接下來的2個回合內減少所有受到的[2]。</content>
+<content contentuid="h6734a9a3ga983g23c7g8622g53b9f591b417" version="1">再生舞</content>
+<content contentuid="h26098e06g7bccge349g1edfgce769da0eb25" version="6">進行一次由法術驅動的武器攻擊，該攻擊額外造成[1]，併為妳恢復[2]。</content>
+<content contentuid="h01b65fdfg4a06g590bg31c6gfdaa04ee234e" version="1">開場舞</content>
+<content contentuid="h86d9cc8cg3f9cg8649g67b5g6d3d70f088e5" version="4">受影響的實體失去移動速度，併在其智力、感知和魅力的&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;上受到-[1]的懲罰。</content>
+<content contentuid="he74f34cfg5533gfe08g0103g8b00845f6a8d" version="1">法術劍舞</content>
+<content contentuid="hfeefa85eg7a01g869cg801fgf1a789974e62" version="3">受影響實體無法攻擊其魅惑者。</content>
+<content contentuid="h367ccec9gacc9g2799gb279gbaa307e08a1b" version="1">強襲舞</content>
+<content contentuid="hcb16e71fgc2f8g8b69gf5e8gd7258ca1603e" version="1">妳的充能武器攻擊額外造成7點力場傷害。</content>
+<content contentuid="hcaf2449fg851cg19c5g01d9gb77409718359" version="1">迷人舞</content>
+<content contentuid="hdf026a41g6c0ag094eg61c3ga23c150a1fc0" version="1">妳的充能武器攻擊額外造成2點力場傷害，併使目標在下一回合無法攻擊妳。</content>
+<content contentuid="h38f4cde0g9676gf61dgbbcbg87a4fd80caa2" version="1">堅毅舞</content>
+<content contentuid="ha9781861g4503g3ec8gbb46gd865a04a4962" version="1">妳的充能武器攻擊額外造成2點力場傷害，併在1回合內減少所有受到的傷害4點。</content>
+<content contentuid="h280260d6gfc19g8e4fgc4d0g18be4465e2ca" version="1">再生舞</content>
+<content contentuid="h5389d4beg6b33gad1cga4c5ge0706b9d4db3" version="1">妳的充能武器攻擊額外造成2點力場傷害，併恢復妳2d6生命值 。</content>
+<content contentuid="hb88ff897gb3d9gaa47gf448gcc312e58759e" version="1">駭影舞</content>
+<content contentuid="h112ecb6dg82d8gc2f4g096bg8fe8ebfd5d1a" version="1">妳的充能武器攻擊額外造成2點力場傷害，併使目標陷入恐慌。</content>
+<content contentuid="hd37b60e6g45f1g90a6gf738g529ca8650545" version="1">駭影舞</content>
+<content contentuid="hd0d793c8gb76dga6ecg6510gaa29d6b134ea" version="5">進行一次由法術驅動的武器攻擊，該攻擊額外造成[1]，併迫使目標進行一次感知&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;，可能會使目標進入&lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;恐慌狀態&lt;/LSTag&gt;。</content>
+<content contentuid="he0ad976agb8dag24e6gcd17g6e74a01ca25d" version="3">戲法瀑佈</content>
+<content contentuid="h2e1d628cg066cgce4cg004bgaba29d044a09" version="4">在使用戲法劍舞後，妳在接下來的2個回合內獲得+1的&lt;LSTag Tooltip="SpellDifficultyClass"&gt;法術豁免難度等級&lt;/LSTag&gt;和法術&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;加值。</content>
+<content contentuid="h172a0c57gdcdbgf418g0e9agaba4d0cdc372" version="3">法術瀑佈</content>
+<content contentuid="h89269555g4771g53d0g3d00g0cc3d09cd4d7" version="6">在使用法術劍舞後，妳在接下來的2個回合內獲得+[1]的&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;加值。</content>
+<content contentuid="hb2740e54g4061g9a14ge6a9g88c2d6db63d3" version="1">旋風法術劍舞</content>
+<content contentuid="h99593881gdedcgffb8gd921g0c4984c7509b" version="2">湮滅終結之舞</content>
+<content contentuid="hb1a5e8adg0738gaa4fg7745g87146452cace" version="6">妳以一個強力打擊結束妳的劍舞連擊，額外造成[1]，併在目標力量&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;失敗時使其進入&lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒伏狀態&lt;/LSTag&gt;。</content>
+<content contentuid="h85f9f360g7ab0g1329gcaf3g31012363dbc2" version="2">壁壘終結之舞</content>
+<content contentuid="h04e3c85cg96f1gf69dg7dddgdfea60fb02d2" version="5">妳以一個強力打擊結束妳的劍舞連擊，額外造成[1]，併為自己賦予&lt;LSTag Type="Status" Tooltip="BLESS"&gt;祝福術&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="BLADE_WARD"&gt;劍刃防護&lt;/LSTag&gt;和&lt;LSTag Type="Status" Tooltip="RESISTANCE"&gt;抗性&lt;/LSTag&gt;，持續2回合。如果妳有&lt;LSTag Tooltip="TemporaryHitPoints"&gt;臨時生命值&lt;/LSTag&gt;，妳還將獲得等於1d4 + 妳的施法能力&lt;LSTag Tooltip="AbilityModifier"&gt;調整值&lt;/LSTag&gt;的額外臨時生命值。</content>
+<content contentuid="h702701f9gcce5ge9b3ga881gca777cebdc4f" version="3">譴責終結之舞</content>
+<content contentuid="h42dfd844gbd49gf790g285eg9b9fa23edea7" version="5">妳以一個強力打擊結束妳的劍舞連擊，額外造成[1]，併在目標感知&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;失敗時對其施加&lt;LSTag Type="Status" Tooltip="BANE"&gt;災禍術&lt;/LSTag&gt;效果，同時自身進入&lt;LSTag Type="Status" Tooltip="DERVISH_DAMAGE_DEALT_REDUCT"&gt;削弱狀態&lt;/LSTag&gt;，持續2回合。</content>
+<content contentuid="h022ada4eg24a7ga5ebg70a8g71dbccab383d" version="2">法術劍舞</content>
+<content contentuid="h39819fb0gf597gc2c9gd5a8g4494a760a982" version="2">選擇一個在施放法術後可用的攻擊。</content>
+<content contentuid="hbf5ef996g8a87g7923g1bedg5fbe4ccd5092" version="2">%%%UNUSED</content>
+<content contentuid="h30dc368bg19d6gb55bg5145g81cf9474fd94" version="2">妳釋放儲存的魔法進行一次強大的攻擊，額外造成13點力場傷害，併使敵人倒伏。</content>
+<content contentuid="hd44a0669gf618gb704g2552g58ff581faa87" version="1">壁壘舞</content>
+<content contentuid="hbcd7e5c1g4ec2g5904g7c85g47b2ee404805" version="1">妳釋放儲存的魔法進行一次強大的攻擊，額外造成5點力場傷害，併在3回合內賦予自己祝福術和劍刃防護，同時獲得等於3d4 + 妳的施法能力修正值的臨時生命值。</content>
+<content contentuid="h9bfc30e9g7ed3g508dg23e4g5e288fae9e03" version="1">譴責舞</content>
+<content contentuid="h33f733d0g32ccg6057g2ae3g1532f907b450" version="1">妳釋放儲存的魔法進行一次強大的攻擊，額外造成5點力場傷害，併對目標施加災禍術、失明和燃燒狀態，持續3回合。</content>
+<content contentuid="h3e848fc8g3bf0g234eg2464g8bf5606ae607" version="2">劍舞終結之舞</content>
+<content contentuid="h712e77afg192fg9882geb76gd23db0287741" version="1">選擇妳的旋風劍舞組合的最終劍舞</content>
+<content contentuid="h0b9cf0d3g2be4gbdb6gee61g6367d53c855f" version="2">堅毅舞</content>
+<content contentuid="h14676614g723agd746g623dg996aa318cb38" version="3">受影響的實體減少受到的傷害[1]。</content>
+<content contentuid="h0c49376fgd384g554fg7f95g295c48b14269" version="2">審判先鋒</content>
+<content contentuid="h44c818aeg0bd7g322bg4a82gac5edcd7e5e6" version="2">審判先鋒</content>
+<content contentuid="ha8734143g1173g553dg22f0ga9f72efe9dff" version="1">奧術先鋒</content>
+<content contentuid="he96d08adgad08gda87gbc44g92ffff98d4cc" version="1">哨兵先鋒</content>
+<content contentuid="heed55332ga5c6g308ag7061gfe508cd2a404" version="1">穿著中型護甲不會對妳造成&lt;LSTag Tooltip="Disadvantage"&gt;劣勢&lt;/LSTag&gt;在妳的&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;上或阻止妳施法。</content>
+<content contentuid="h65d0d703g98b0gf00ag9990g274b3f10ffa2" version="2">解鎖法術位</content>
+<content contentuid="hd8a31da0g7a0eg9b2dg7539g8b6e93a0de62" version="1">妳獲得[3]個等級為[4]的法術位，在&lt;LSTag Tooltip="LongRest"&gt;長休&lt;/LSTag&gt;後恢復。</content>
+<content contentuid="h0059c78fgee8ag49aag1bacg24ced498308f" version="1">奧術先鋒</content>
+<content contentuid="h2968a0a2g5880g22e8g3a68g4af1806eec20" version="1">妳獲得[3]個等級為[4]的法術位，在&lt;LSTag Tooltip="LongRest"&gt;長休&lt;/LSTag&gt;後恢復。</content>
+<content contentuid="h773ade7ag47d4gada6ge700g27fa6f34de0f" version="1">奧術先鋒</content>
+<content contentuid="h2c5bf9abg74bfgff49ge991gffe3d36d7ffa" version="1">妳獲得[3]個等級為[4]的法術位，在&lt;LSTag Tooltip="LongRest"&gt;長休&lt;/LSTag&gt;後恢復。</content>
+<content contentuid="hcc7bbf53g3458g3680g18e7g4003d69e0797" version="1">奧術先鋒</content>
+<content contentuid="h0c93c2d7g1472g1f69g0703ga51ecddf9f80" version="1">妳獲得[3]個等級為[4]的法術位，在&lt;LSTag Tooltip="LongRest"&gt;長休&lt;/LSTag&gt;後恢復。</content>
+<content contentuid="hde399fb8g6c4eg48e5g962egeb21a0e1c67d" version="1">奧術先鋒</content>
+<content contentuid="h20327ff5gebb2g6740g9694g8af7d9205b93" version="1">妳獲得[3]個等級為[4]的法術位，在&lt;LSTag Tooltip="LongRest"&gt;長休&lt;/LSTag&gt;後恢復。</content>
+<content contentuid="h357fa99fg9768g7b4bga4feg09cd5d7e8902" version="1">奧術先鋒</content>
+<content contentuid="h355bdd50gc9dag7f3dgd5e7gad755cdb9eff" version="1">妳獲得[3]個等級為[4]的法術位，在&lt;LSTag Tooltip="LongRest"&gt;長休&lt;/LSTag&gt;後恢復。</content>
+<content contentuid="h03a5b44bg9180g1b84g9056g5df20b823d6e" version="1">奧術先鋒</content>
+<content contentuid="h518621f7g3148gff7dg7b53g81936ff70102" version="1">妳獲得[3]個等級為[4]的法術位，在&lt;LSTag Tooltip="LongRest"&gt;長休&lt;/LSTag&gt;後恢復。</content>
+<content contentuid="h9ec3df9cgc092g9a35g745bge8d19c76a722" version="1">奧術先鋒</content>
+<content contentuid="he160fbeegf440g80c0gc0dbgab121b76d4a6" version="1">妳獲得[3]個等級為[4]的法術位，在&lt;LSTag Tooltip="LongRest"&gt;長休&lt;/LSTag&gt;後恢復。</content>
+<content contentuid="h92d0713fg49fag2709gda6ag304870864524" version="1">奧術先鋒</content>
+<content contentuid="hc2a6c4dag4c6agf52bg7a1agd391165d782d" version="1">妳獲得[3]個等級為[4]的法術位，在&lt;LSTag Tooltip="LongRest"&gt;長休&lt;/LSTag&gt;後恢復。</content>
+<content contentuid="hf319a4aeg421cg76fagc2a8g3e56d4bd2621" version="1">奧術先鋒</content>
+<content contentuid="h25fede1ag08e7gb33fg2740gfd0e04b0fdb4" version="1">妳獲得[3]個等級為[4]的法術位，在&lt;LSTag Tooltip="LongRest"&gt;長休&lt;/LSTag&gt;後恢復。</content>
+<content contentuid="h5b96c25fgb3bdgb661gb533g95985c9816ec" version="1">奧術先鋒</content>
+<content contentuid="hae13326eg9c5cgd101gbc16g3777c74b0491" version="1">妳獲得[3]個等級為[4]的法術位，在&lt;LSTag Tooltip="LongRest"&gt;長休&lt;/LSTag&gt;後恢復。</content>
+<content contentuid="h77a7c463g6769gbdc7gfdf0g12250385ef33" version="1">解鎖法術位</content>
+<content contentuid="hb7d4d9ecg365fga828gc56cgcdc7ea201c03" version="1">解鎖法術位</content>
+<content contentuid="h47f35cd1gfde5g1478gdf97g93d80be55275" version="1">解鎖法術位</content>
+<content contentuid="h7e5c6562gc37eg3572g8bd5ga245037dd9fa" version="1">解鎖法術位</content>
+<content contentuid="h04a39212g4b6dg9879g9d65g6006c39656a1" version="1">解鎖法術位</content>
+<content contentuid="h991ad353g985cgced5gbe50g23c7a21ef595" version="1">解鎖法術位</content>
+<content contentuid="hbd27fe62g5569gdc0egc272gbd1c0b91ce4c" version="1">解鎖法術位</content>
+<content contentuid="h34827070ga823g0448gd5d0ge67a533fd5b5" version="1">解鎖法術位</content>
+<content contentuid="hdda16e07gdc03g4612ga8a3gb9060017a926" version="2">使用妳剛剛消耗的魔法進行一次特殊的攻擊，使目標的&lt;LSTag Tooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;在接下來的2個回合內降低[1]。</content>
+<content contentuid="hec6bc979ge516g1a83g9c92gdc6ac51a32c4" version="2">使用妳剛剛消耗的魔法進行一次特殊的攻擊，使妳自己的&lt;LSTag Tooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;在接下來的2個回合內提高[1]。</content>
+<content contentuid="h10eb1dfeg6ea8ga1e2gb0f5g03748be50fdd" version="2">使用妳剛剛消耗的魔法進行一次特殊的攻擊，使目標的&lt;LSTag Type="Status" Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;在接下來的2個回合內降低[1]。</content>
+<content contentuid="hde7c4d11g269bgd981g8aa2gf8c2a56a552e" version="2">使用妳剛剛消耗的魔法進行一次特殊的攻擊，使妳所有的&lt;LSTag Type="Status" Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;在接下來的2個回合內提高[1]。</content>
+<content contentuid="hb6fe2a75g064eg86d8gc0b1gf6509f94f679" version="2">使用妳剛剛消耗的魔法進行一次特殊的攻擊，使目標的&lt;LSTag Tooltip="MovementSpeed"&gt;移動速度&lt;/LSTag&gt;減半，併使其力量、敏捷和體質的&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;在接下來的2個回合內減少[1]。</content>
+<content contentuid="h4a0ee7c6g78d2g2036gae52g2d81a07354ae" version="2">使用妳剛剛消耗的魔法進行一次特殊的攻擊，使目標的感知、智力和魅力的&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;在接下來的[2]個回合內降低[1]。</content>
+<content contentuid="he3404fa0g5521g0e50g1f41g1c6369867ffd" version="1">妳的充能武器攻擊額外造成[1]。</content>
+<content contentuid="hf7269a32gfed2g0a35gffedg02f3a66f9da6" version="2">妳的充能武器攻擊額外造成[1]，併且目標必須通過一次感知&lt;LSTag Tooltip="Saving Throw"&gt;豁免擲骰&lt;/LSTag&gt;，否則在下一個回合無法攻擊妳。</content>
+<content contentuid="ha5215b14gcdceg2f3cga8a7g733f1b412e29" version="2">妳的充能武器攻擊額外造成[1]，併且妳在接下來的1個回合內減少所有受到的[1]。</content>
+<content contentuid="h2ca97cefg253bg667cg06e0gc30edc45ca06" version="1">妳的充能武器攻擊額外造成[1]，併為妳恢復 2d6 &lt;LSTag Type="Status" Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;。</content>
+<content contentuid="hae8c51aegbd21g9881gbf2ag3a3572bf3eb5" version="2">妳的充能武器攻擊額外造成[1]，併且目標必須通過一次感知&lt;LSTag Tooltip="Saving Throw"&gt;豁免擲骰&lt;/LSTag&gt;，否則將對妳進入&lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;恐慌狀態&lt;/LSTag&gt;。</content>
+<content contentuid="h07c1bcd7g9416g5720gfafdg6286b84aa131" version="2">空白</content>
+<content contentuid="h67904fbdg205fgb53cgeaf1g43aea47f4ba0" version="2">空白</content>
+<content contentuid="h7f64546cg434bgd5efg577eg63f66c1243f1" version="2">空白</content>
+<content contentuid="h8960ebcdgc7f3gd5f2g6ea3g754c556c26bb" version="1">妳的充能武器攻擊額外造成[1]，併為妳恢復[2]。</content>
+<content contentuid="h3ed5ee85gc9d7ga236g6664gbf976acff054" version="1">武器編織</content>
+<content contentuid="hbac1f51fgcf95g9834ge07bg779aff15710a" version="1">blah blah blah</content>
+<content contentuid="h7058d08bg5b8cg9110gfa76ge2fb953b1889" version="3">先鋒戰術</content>
+<content contentuid="ha589fc1egd184g158cg1707gc022f5086e95" version="2">妳使用妳的智力&lt;LSTag Tooltip="AbilityModifier"&gt;修正值&lt;/LSTag&gt;作為妳的武器攻擊和傷害擲骰的修正。</content>
+<content contentuid="h310cbb7dg483agd780g7c5bgdc15672f65ab" version="2">如果增益未生效，禁用併重新啟用此被動技能以解決此問題。</content>
+<content contentuid="h06791c06g25a4g7db6g9aafg11b68d511551" version="2">破陣沖鋒（近戰）</content>
+<content contentuid="hb3643048g4fb3g521bgc9ebg9b12a8c6481a" version="3">當妳擁有&lt;LSTag Type="Status" Tooltip="ARCANE_ENLIVENING"&gt;奧術活力&lt;/LSTag&gt;時，妳可以使用破陣沖鋒對前方直線範圍內的所有生物進行一次近戰武器攻擊。這樣做會移除&lt;LSTag Type="Status" Tooltip="ARCANE_ENLIVENING"&gt;奧術活力&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h094f6a2cgbcaeg36f5gaa85g25792ddc28d7" version="3">打破他們的防線</content>
+<content contentuid="h284d8268g5fdagb858g11eeg9ba9dc25eaa8" version="3">當處於&lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_CHARGE"&gt;奧術充能&lt;/LSTag&gt;效果下時，妳可以使用一種特殊的區域攻擊。</content>
+<content contentuid="h03462d0ege11fgb220g0248g15f46ece4ea6" version="2">破陣沖鋒（遠程）</content>
+<content contentuid="hf01805bagcbc1g1aaagfeaegd6f43d4c2494" version="2">當處於奧術充能狀態下時，妳可以使用惡毒反擊對前方直線範圍內的所有生物進行一次遠程武器攻擊。</content>
+<content contentuid="h568d405fg5c26gd854gae03g533294333b03" version="1">測試</content>
+<content contentuid="h27ef29aag1b30gfd69g7004g3ce7ee582ed6" version="1">測試 測試</content>
+<content contentuid="hc8ae31aag6558gdcc9g7016g11af4c5e3d65" version="1">先鋒戰術</content>
+<content contentuid="h7f45b836g3b2bg93ecg533dge9188932ba43" version="2">妳使用妳的智力&lt;LSTag Tooltip="AbilityModifier"&gt;修正值&lt;/LSTag&gt;作為妳的武器攻擊和傷害擲骰的修正。</content>
+<content contentuid="h5ade6ea9g27a9g861agdfd5g5e615b11b92f" version="1">如果增益未生效，禁用併重新啟用此被動技能併等待6秒以解決此問題。</content>
+<content contentuid="h8eef1f20g83d3g6da4g9593g436445efde89" version="1">魔法重擊閾值</content>
+<content contentuid="h82f41385g6547g92f5g8b3cgff1e73fe8e6b" version="3">使妳在施法時造成重擊所需的數值減少[1]</content>
+<content contentuid="he5a41e5dg7f1eg8378gb158ge97cee0b98f3" version="2">關鍵動量</content>
+<content contentuid="h2f0961dag8521g2227g7143g44dfe613fb9c" version="4">當妳通過武器&lt;LSTagTooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;造成一次&lt;LSTagTooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;時，妳的法術攻擊擲骰重擊閾值減少 1。該效果可以疊加，在妳下一次法術重擊時失去所有堆疊。</content>
+<content contentuid="h30d6a52dgc489gcf07g1a9egf176515faf35" version="1">魔法重擊閾值</content>
+<content contentuid="h70d20acbg6236g055bgc7d8gc6aced69fdc9" version="1">受影響的實體在進行法術攻擊擲骰時更容易造成重擊。</content>
+<content contentuid="heb0b6ed2gaa88g839fg0b25g412edcfbde96" version="2">暴露傷口</content>
+<content contentuid="hebf59edegb199g0021g262fgc8b329eb74ca" version="13">如果妳一手持有一把近戰武器，而另一只手沒有持任何東西，當妳用一次&lt;LSTag Tooltip="MeleeWeaponAttack"&gt;近戰武器攻擊&lt;/LSTag&gt;對一個生物造成傷害時，妳在使用法術或戲法對該生物造成傷害時會額外造成[1]。</content>
+<content contentuid="hc983384agf5d7g51e6gc725g7c9476de8d05" version="2">暴露傷口</content>
+<content contentuid="h5bf91231gf894gb07ega695gadbb95331e10" version="1">受影響的實體從奧術先鋒法術中受到額外的揮砍傷害。</content>
+<content contentuid="h4e7e3678gbe31g312bgdebbgaef10347eb05" version="1">暴露傷口</content>
+<content contentuid="h9ae8dc3cgc7cdg5098gf671g4a7f88747035" version="2">受影響的實體使用法術和戲法造成額外的武器傷害。</content>
+<content contentuid="habcda5a8gaec4g94beg9497g7eacef2a9bb6" version="2">妳的抗性通過攻擊得到增強，使妳的&lt;LSTag tooltip="Saving Throws"&gt;豁免擲骰&lt;/LSTag&gt;獲得+[1]加值。</content>
+<content contentuid="hf74b1704gf654g5052g418fg67f6c348ac94" version="1">集中法術箭矢</content>
+<content contentuid="ha058ef73gfc5dg0374g7196gc0c950606825" version="3">回響惡意</content>
+<content contentuid="h2b0e4ab1g7bd3g7d90g3bbeg109bfc469a11" version="3">當妳用&lt;LSTagTooltip="RangedWeaponAttack"&gt;遠程武器攻擊&lt;/LSTag&gt;對一個生物造成傷害時，標記該生物。下一次妳用法術或&lt;LSTagTooltip="Cantrip"&gt;戲法&lt;/LSTag&gt;對目標造成傷害時，所有靠近目標的敵人都會受到[1]。</content>
+<content contentuid="hb97378ddg0ec8g6b7fgf2a5gaee550f2f91f" version="1">不穩定的箭矢</content>
+<content contentuid="h7d102f5bgf073gccb6g9ea2geeaf777f4581" version="1">受影響的實體被不穩定的箭矢擊中。一個先鋒法術將引爆這支箭。</content>
+<content contentuid="h2c7ef8f2g365egf2e0gdfadg8727f4992d6e" version="1">不穩定的箭矢</content>
+<content contentuid="h7206bbe1g0e10g312cg8e46g5d8e6a270adf" version="1">不穩定的箭矢</content>
+<content contentuid="hf3780860gdb46g6184g27a4gb8abf3d0f83e" version="2">生命紐帶</content>
+<content contentuid="hefa0bb69gcf33gfd61gc5b2gaf0b0dc9b618" version="3">標記一個目標。當它在友軍[1]範圍內結束回合時，友軍恢復4-7點生命值。</content>
+<content contentuid="hcb376258gf181g9ea5gdc64gd6527d3a46a7" version="1">生命紐帶</content>
+<content contentuid="h3f8d0d61gca20gd9edg334cg1a229f927263" version="1">受影響實體在其回合結束時為其敵人恢復[1]。</content>
+<content contentuid="hf50c3b1ag61d1g002cgb2a8gb26a79c8235d" version="1">生命紐帶</content>
+<content contentuid="h3ad775a7g8c3fgd5f4g92eeg1b4f2a9c3cd4" version="3">受影響實體在其回合開始時恢復[1]。</content>
+<content contentuid="h5e39bfcdg370bgb2a5g647ag9aaba6d7edeb" version="1">生命紐帶</content>
+<content contentuid="hf90b1036g17cfg703eg96aegc6c9d62a88a5" version="5">標記一個目標。如果妳的盟友在該標記目標[1]範圍內開始他們的回合，則他們恢復[2]。</content>
+<content contentuid="hafdf3a2eg089ege5bcg345agb96c41bea34a" version="1">回響惡意</content>
+<content contentuid="h97cae72dgd32fg8168ge816ga7bc62f8e2fd" version="1">回響惡意</content>
+<content contentuid="h4cee21f3gcee9g3930gd71dgcee875dbda0b" version="1">回響惡意</content>
+<content contentuid="h4e259a78g74b4gad87gb534g8363d144e650" version="4">標記一個目標。如果妳的盟友在該標記目標[1]範圍內開始他們的回合，則他們恢復[2]。</content>
+<content contentuid="h25c38e78g240eg53a3g004egd5a1f724a879" version="1">先鋒織法</content>
+<content contentuid="hb4fa1449gbd25g41e5g0d96g8cf3ef1d8276" version="3">當妳採取攻擊行動時，妳可以作為該行動的一部分免費施放一個&lt;LSTag Tooltip="Cantrip"&gt;戲法&lt;/LSTag&gt;。妳可以選擇先施放戲法，但必須包含一次武器攻擊和一個戲法，二者缺一不可。</content>
+<content contentuid="h0a96904bgae6age1c7gcce9g731cb15ab757" version="2">專註粉碎</content>
+<content contentuid="hf5d0382dg124dg1018g6375g9bfbb2d17dbb" version="4">如果妳正在&lt;LSTagTooltip="Concentration"&gt;專註&lt;/LSTag&gt;於一個法術併命中了一次武器攻擊，妳可以冒著打破自己的&lt;LSTagTooltip="Concentration"&gt;專註&lt;/LSTag&gt;的風險造成額外的[1]。</content>
+<content contentuid="he59342c7ga41cga6b8g9920g075540880119" version="1">警告</content>
+<content contentuid="h8a6281f6g969dg43aag4b8eg6b12a41802af" version="1">此等級是一個虛擬等級，允許玩家在使用20級模組的情況下從奧術先鋒轉職。不要選擇這一級，否則下次升級時會導致崩潰！</content>
+<content contentuid="h884398a0g8f3ag0a39g51f1gc6ce617b54b1" version="1">如果妳選擇了奧術先鋒的13級，請使用枯萎技能降至12級，併從此處開始多職業發展。謝謝。</content>
+<content contentuid="h02ae7aaagf1ecg717dg9905gc1ea9920dfec" version="3">專註粉碎</content>
+<content contentuid="hec0f4cd5g8db7gce58g2ee7g08cd68b39cc4" version="2">如果妳正在&lt;LSTagTooltip="Concentration"&gt;專註&lt;/LSTag&gt;於一個法術併擊中了一次武器攻擊，妳可以冒著打破自己的&lt;LSTagTooltip="Concentration"&gt;專註&lt;/LSTag&gt;的風險造成額外傷害。</content>
+<content contentuid="h230a9fe4g36degd022g19f0ga6a2d3ee4a85" version="1">專註粉碎</content>
+<content contentuid="h58f01c8bg3dc4g283dg9517g3fee6a468191" version="1">先鋒必須進行一次專註檢定。</content>
+<content contentuid="h67952d94gfd25gdc99g7439g0f4909dc75ff" version="1">專註粉碎</content>
+<content contentuid="h0eed3b01gcbddg43bag6f83gd61579a3406d" version="1">先鋒必須進行一次專註檢定。</content>
+<content contentuid="h66113bebgce3cgb344g81f1g18a2a7792ead" version="1">專註粉碎</content>
+<content contentuid="h4f7f5039g821dg26c2gd55ag2104ef4edc57" version="1">先鋒必須進行一次專註檢定。</content>
+<content contentuid="hef3197d2g6f26gb0afge444gb63147ab774e" version="1">專註粉碎</content>
+<content contentuid="h45ef6205g59a2g20fcgcfbbge78d4cc66e0f" version="1">先鋒必須進行一次專註檢定。</content>
+<content contentuid="hd01d7e04g6dacg01eeg8d66gf666c806d418" version="1">專註粉碎</content>
+<content contentuid="h9c4e6300g95e4gac7eg852fgaa79284dd407" version="1">先鋒必須進行一次專註檢定。</content>
+<content contentuid="h6214b3b8g4b31gb694gc803g99e8b74d6a08" version="1">專註粉碎</content>
+<content contentuid="hc7326833gaa04gbd94g89bbg5788044319a6" version="1">先鋒必須進行一次專註檢定。</content>
+<content contentuid="h29f56cc7g5d60g5561g9717g355659688d06" version="2">妳必須進行一次DC 11體質&lt;LSTagTooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;，否則失去&lt;LSTagTooltip="Concentration"&gt;專註&lt;/LSTag&gt;。</content>
+<content contentuid="hfd3465f2g021egad50gb535ge2146844cec2" version="2">妳必須進行一次DC 12體質&lt;LSTagTooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;，否則失去&lt;LSTagTooltip="Concentration"&gt;專註&lt;/LSTag&gt;。</content>
+<content contentuid="h4f97d869g5298gf171ge144g682d21a3a5c1" version="2">妳必須進行一次DC 13體質&lt;LSTagTooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;，否則失去&lt;LSTagTooltip="Concentration"&gt;專註&lt;/LSTag&gt;。</content>
+<content contentuid="h2814794egf06dgec33gbbebg881ce2b80e25" version="2">妳必須進行一次DC 14體質&lt;LSTagTooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;，否則失去&lt;LSTagTooltip="Concentration"&gt;專註&lt;/LSTag&gt;。</content>
+<content contentuid="h3535aa42gdcb0g21c9g6e88g4135b859df78" version="2">妳必須進行一次DC 15體質&lt;LSTagTooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;，否則失去&lt;LSTagTooltip="Concentration"&gt;專註&lt;/LSTag&gt;。</content>
+<content contentuid="h5976119eg35b7gdb12g35a4g830e1ed56669" version="2">妳必須進行一次DC 16體質&lt;LSTagTooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;，否則失去&lt;LSTagTooltip="Concentration"&gt;專註&lt;/LSTag&gt;。</content>
+<content contentuid="h38635882g3a8cga16fg35e8gc1032f0fbfc2" version="2">妳必須進行一次DC 12的體質&lt;LSTagTooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;，否則將失去&lt;LSTagTooltip="Concentration"&gt;專註&lt;/LSTag&gt;。</content>
+<content contentuid="hc36b9655g7ed1g922ag3216gebeed96258a5" version="2">妳必須進行一次DC 13的體質&lt;LSTagTooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;，否則將失去&lt;LSTagTooltip="Concentration"&gt;專註&lt;/LSTag&gt;。</content>
+<content contentuid="ha5182273gc93dg035fg74eeg3ff6bd6b45fa" version="2">妳必須進行一次DC 14的體質&lt;LSTagTooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;，否則將失去&lt;LSTagTooltip="Concentration"&gt;專註&lt;/LSTag&gt;。</content>
+<content contentuid="h818d1983g25cfgb248g9d20gafa7d72e1497" version="2">妳必須進行一次DC 15的體質&lt;LSTagTooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;，否則將失去&lt;LSTagTooltip="Concentration"&gt;專註&lt;/LSTag&gt;。</content>
+<content contentuid="h95bebe7fg6ff3gc3eeg2350gd4701c05cfd1" version="2">妳必須進行一次DC 16的體質&lt;LSTagTooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;，否則將失去&lt;LSTagTooltip="Concentration"&gt;專註&lt;/LSTag&gt;。</content>
+<content contentuid="hb4793e8dg0bcbge489g1393g0c74dfa3f7ae" version="1">專註粉碎（重擊）</content>
+<content contentuid="h44b51855g0279g5f26g81a6gb8a35ee24f4f" version="1">專註粉碎（重擊）</content>
+<content contentuid="h030f4779gcc3bgd300gf68dg154c26d11fda" version="1">專註粉碎（重擊）</content>
+<content contentuid="h1c569bacg3adfg300cg8108gddc0e54df7bc" version="1">專註粉碎（重擊）</content>
+<content contentuid="h2b44ce9fgc7b7g7ea6g4d5dgb978d2627e8b" version="1">專註粉碎（重擊）</content>
+<content contentuid="hc5f536c0g8d20g5887gc2bcg3cbd95686f3a" version="1">專註粉碎（重擊）</content>
+<content contentuid="h5233c503g037cg5a9egc068g1671f6327589" version="1">如果妳正在專註於一個法術併擊中了一次武器攻擊，妳可以冒著打破自己專註的風險造成額外的[1]。</content>
+<content contentuid="h0e2f9e8fg9f42gaadcg6165g5ebaf88fc323" version="1">妳必須進行一次DC 11體質&lt;LSTagTooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;，否則失去&lt;LSTagTooltip="Concentration"&gt;專註&lt;/LSTag&gt;。</content>
+<content contentuid="hcf6d285cgc9f2g2719ge39dg9b79db509e4a" version="1">專註粉碎：反應</content>
+<content contentuid="h8cbde343g9878ge736g6787g5ce72bef78d7" version="1">如果妳正在專註於一個法術併擊中了一次武器攻擊，妳可以冒著打破自己專註的風險造成額外的[1]。</content>
+<content contentuid="hcc193571g84ebg0e32g70a5ge48ecb960544" version="1">專註粉碎</content>
+<content contentuid="h00314a37g44e6g0f1dg9baag4cdcaab2e95b" version="1">如果妳正在專註於一個法術併擊中了一次武器攻擊，妳可以冒著打破自己專註的風險造成額外的[1]。</content>
+<content contentuid="h8e1c2d1bgd042gbd97g524ag3a361255dec3" version="2">專註粉碎</content>
+<content contentuid="ha561aaecg14ddgbcf6gcac5g2f1e383654f9" version="2">專註粉碎：遠程</content>
+<content contentuid="hfd0a141ag63f7g9909g9cddga110560b1c7e" version="1">如果妳正在專註於一個法術併擊中了一次武器攻擊，妳可以冒著打破自己專註的風險造成額外的[1]。</content>
+<content contentuid="hc861ab85gd054gbb11gf7cdg115c724f4cf2" version="2">魔法重擊閾值2</content>
+<content contentuid="h8ec01ef8gf750g55b5g90bfg76ba4e4cfad0" version="1">受影響實體更有可能在法術攻擊擲骰時獲得重擊。</content>
+<content contentuid="h407366d3g5cd4gf78dg5752gbab337f43e5b" version="2">魔法重擊閾值3</content>
+<content contentuid="h1c561745g55dage419g1c5egab9fa2d6dca6" version="1">受影響實體更有可能在法術攻擊擲骰時獲得重擊。</content>
+<content contentuid="hc0c3c538gd772gf217g9843g8cd6fca24215" version="1">施放法術所需達到重擊的數值減少[1]</content>
+<content contentuid="h44aeca38g7916g02adg3477g111fab9daf50" version="1">施放法術所需達到重擊的數值減少[1]</content>
+<content contentuid="h02f42cb9g053dgc52agdf22gc7416d8f9f78" version="1">強化奧術</content>
+<content contentuid="h19ed156dg6b60g139ag159cgab54b9171ca0" version="3">受影響的實體在其每輪剩余的法術&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;和&lt;LSTag Type="Damage"&gt;傷害擲骰&lt;/LSTag&gt;上獲得+[1]加值。&lt;br&gt;&lt;br&gt;每次該實體受到傷害時，減少持續時間[1]回合。</content>
+<content contentuid="h14e9ea83gfb54gbd41g7783g1f3b48b18a7a" version="2">強化奧術增加妳的法術&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;和&lt;LSTagType="Damage"&gt;傷害擲骰&lt;/LSTag&gt;每回合+1。最大持續時間為5回合。</content>
+<content contentuid="h9094a8bag24eeg9e5ega88eg0fd5c60b7568" version="1">%%% 強化奧術持續時間檢查</content>
+<content contentuid="hc9d5df8fga725g9732g08b2gde14859d94c3" version="1">後續動作</content>
+<content contentuid="hb18d361ag4ba5g706cg1190g647af9a6672f" version="1">奧術活力</content>
+<content contentuid="h69fce68cge373ga22bgb6c8g4e5b6bb560c4" version="4">受影響實體將在其回合結束時恢復[1]。</content>
+<content contentuid="h9bb94880g2e86g6393g6bccg139ca7c9d181" version="1">%%% 奧術活力持續時間檢查</content>
+<content contentuid="h435fd271g94dbg408ag0502g7800e6680555" version="1">解放施法</content>
+<content contentuid="hdf5ee169g8f36g16a2g4e68gb8931929eaa0" version="2">妳可以以反應的形式在妳的回合施展一個&lt;LSTagTooltip="Cantrip"&gt;戲法&lt;/LSTag&gt;。</content>
+<content contentuid="hbd9ff6f0g7cd7g3d48gc6bbgce08d4573e61" version="1">當妳擁有&lt;LSTag Type="Status" Tooltip="ARCANE_ENLIVENING"&gt;奧術活力&lt;/LSTag&gt;狀態時，妳可以使用“突破陣線”對面前直線上的所有生物進行一次遠程武器攻擊。這樣做將移除&lt;LSTag Type="Status" Tooltip="ARCANE_ENLIVENING"&gt;奧術活力&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h4bc2ee81g7eb0ga233g1c95g839f59a6281f" version="1">此特性每&lt;LSTag Tooltip="Short Rest"&gt;短休&lt;/LSTag&gt;只能使用一次。</content>
+<content contentuid="h220d3b4fg6bd1g5f8dgc356g5d25690fcc18" version="1">解放施法</content>
+<content contentuid="h2f7d7680gec00g15dag0173ga928d73d06ad" version="1">妳可以以反應的形式在妳的回合施展一個&lt;LSTagTooltip="Cantrip"&gt;戲法&lt;/LSTag&gt;。此效果可以切換，併在使用後到期。</content>
+<content contentuid="h5030fccbg600dg041dg5e8eg5e8337d3ab2b" version="2">妳可以在妳的回合中以反應動作施放一個&lt;LSTag Tooltip="Cantrip"&gt;戲法&lt;/LSTag&gt;。此效果可以切換，併在使用一次後失效。</content>
+<content contentuid="he9f5f41dg05e8g503cgbee7gb6a2fd45b9a9" version="1">關鍵動量</content>
+<content contentuid="h72f82d50g60f2gb15eg1459g586877f5a4c9" version="1">受影響實體在其下一次武器攻擊擲骰中有優勢。</content>
+<content contentuid="hcf2fb8a3g40cfgdcd0gb203gabdb5d0877f7" version="1">當妳具有關鍵動量狀態時，任何成功的重擊都會使妳在下次武器&lt;LSTagTooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;中獲得&lt;LSTag Tooltip="Advantage"&gt;優勢&lt;/LSTag&gt;。</content>
+<content contentuid="ha2693389g2698g592cg818egfc57e36a249b" version="5">當妳用雙手持握近戰武器併對敵人造成法術或&lt;LSTag Tooltip="Cantrip"&gt;戲法&lt;/LSTag&gt;傷害時，目標必須進行一次力量&lt;LSTagTooltip="Saving Throw"&gt;豁免檢定&lt;/LSTag&gt;，否則會被拉嚮妳[1]的距離。</content>
+<content contentuid="hdf3192aeg3bacg586dgf3b1g82b71bb6bdca" version="1">掌握抓取</content>
+<content contentuid="he082c822g3cbeg2c68g858ag9b855ab5c4a4" version="2">作者註：與敏捷之鎧和蛇人鱗甲的互動正在審查中。</content>
+<content contentuid="haaaba3a7gc799g7d9ag628fg166152fe51ca" version="1">測試</content>
+<content contentuid="hd7b0ba02gbef0ga173gcf8fg1931b037ba95" version="1">一些東西</content>
+<content contentuid="h4d40d1f4g4a21ge858gb3d6gdb0115940160" version="1">主手優先</content>
+<content contentuid="ha0e0ba8dg4f36gb1c6g8486gf176b60c9d6e" version="1">xxxx</content>
+<content contentuid="h3032cdcdg1502gd88agf0d1g0bf40a22d9d6" version="1">副手優先</content>
+<content contentuid="he2f84440g9c0ag43efg833eg6871f929f699" version="1">刀鋒舞者</content>
+<content contentuid="h67769ee4gf074g001bgf62fg7e9cef510b72" version="4">當雙手各持一把近戰武器時，妳的第一次攻擊會在不消耗附贈動作的情況下同時使用兩把武器。當妳以此方式攻擊時，妳的副手攻擊會造成額外的[1]，併賦予妳&lt;LSTag Type="Status" Tooltip="TWO_WEAPON_STYLE_BUFF"&gt;刀舞預備&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h1fa8783bgd574gfe30g182ag315ff1a9dde8" version="1">刀舞預備</content>
+<content contentuid="h629abc2bg4ce0g861eg7a38g0d288a5db22a" version="1">刀刃打擊</content>
+<content contentuid="h57c45cf9g4192gd89bg24b1g8539193d8342" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;移動速度&lt;/LSTag&gt;減少[1]。</content>
+<content contentuid="h7ead1e3fga815g4b26g467agd09b3da0786f" version="1">刀舞</content>
+<content contentuid="h8332aadege359g2f7cgd71fgb8b246a865b0" version="1">當妳施放一個法術或進入妳的範圍內時，周圍的敵人會受到[1]。</content>
+<content contentuid="h69fc4597g3355gab72ga83bg0a3197789551" version="1">刀舞</content>
+<content contentuid="h717eadfeg8ec3g7809gfe03g66cb7c1814e1" version="1">實體在其回合開始時將受到[1]揮砍傷害。</content>
+<content contentuid="h6f7cc599g3cbfgfa28g0fb1gf6a7cb63ebb0" version="1">刀舞預備</content>
+<content contentuid="hd015dfb7g734bg16cbgd1aeg625b8b345377" version="1">施放一個法術將激活刀舞，使附近的敵人受到[1]。</content>
+<content contentuid="h32f4b6bfge5e4g7ffbg20f9gbb47d345fcf6" version="1">冰箭</content>
+<content contentuid="h623777a6ge08aga90dg5cf5gd36736c26a0a" version="1">冰箭</content>
+<content contentuid="hbae01b14ga9d4g326eg6214g7bb294afda45" version="2">妳將霜凍之力註入妳的弓中，通過神射手的技巧消耗法術。</content>
+<content contentuid="hdd870b27gf15dgc7d6gb264g1ba5252e53db" version="2">寒光射線：箭矢註入</content>
+<content contentuid="h8c8b5d32g6064gb269ga9fdg984e1ca51b99" version="1">TEST123</content>
+<content contentuid="hbfafb290g373dgfe59gb1cbg9375d1398007" version="1">冰刃相關</content>
+<content contentuid="h64220794ge646g707dg13f1g491cec2ec02a" version="1">KHJAGSJHSG</content>
+<content contentuid="ha57e2d8ageb39ga5e1g8663ge060354cdae4" version="1">妳必須進行一次DC 17體質&lt;LSTagTooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;，否則失去&lt;LSTagTooltip="Concentration"&gt;專註&lt;/LSTag&gt;。</content>
+<content contentuid="hb73acfe7gafdfg7566gce6cgab193ead4d66" version="1">妳必須進行一次DC 18體質&lt;LSTagTooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;，否則失去&lt;LSTagTooltip="Concentration"&gt;專註&lt;/LSTag&gt;。</content>
+<content contentuid="h1dbc3a6dgc964g50f6g4da8gadfd97325dbc" version="1">妳必須進行一次DC 19體質&lt;LSTagTooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;，否則失去&lt;LSTagTooltip="Concentration"&gt;專註&lt;/LSTag&gt;。</content>
+<content contentuid="hc1d1ac1agfe16g6118gc48dg554bce5dbebc" version="1">妳必須進行一次DC 17體質&lt;LSTagTooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;，否則失去&lt;LSTagTooltip="Concentration"&gt;專註&lt;/LSTag&gt;。</content>
+<content contentuid="hc260226ag3ed6gbe60ga0a0g30c0f93b6b04" version="1">妳必須進行一次DC 18體質&lt;LSTagTooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;，否則失去&lt;LSTagTooltip="Concentration"&gt;專註&lt;/LSTag&gt;。</content>
+<content contentuid="hf96f7291g628dgfd03gc4d1g5e126e4665eb" version="1">妳必須進行一次DC 19體質&lt;LSTagTooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;，否則失去&lt;LSTagTooltip="Concentration"&gt;專註&lt;/LSTag&gt;。</content>
+<content contentuid="h8ec5b627g1474ga5cdge92dg9b7d785749f8" version="1">冰箭沖擊波</content>
+<content contentuid="hb9155db1g826bgd896gcc77gc749998f1c1c" version="1">等等等等</content>
+<content contentuid="hf17cefd3g0f05g1633gb822g84f0c7d74963" version="1">霜行者</content>
+<content contentuid="h1122feccg358egee78g3051ge0d4383791bf" version="2">妳免疫在冰上滑倒，併忽略由冰錶面造成的睏難地形。</content>
+<content contentuid="he668f413g372cgcfa6gb1bfg97922d3b8333" version="1">霜行者</content>
+<content contentuid="hbe0c01f3gb7a5g8be9gfb3fgc806d99f4861" version="3">當妳造成寒冷傷害時，妳會給自己賦予&lt;LSTag Type="Status" Tooltip="FROST_FORM_SUBCLASS_FEATURE"&gt;霜行者&lt;/LSTag&gt;狀態直到妳的下個回合結束。</content>
+<content contentuid="h03bd7450gc06ag2bf0g8c95gd6545ed08837" version="1">寒霜哨兵</content>
+<content contentuid="h45184704gf390gc632gb722g05b6aadde788" version="2">站在冰面上時，獲得對火焰和寒冷傷害的抗性以及燃燒免疫。&lt;br&gt;&lt;br&gt;當妳在一個冰面結束回合時，獲得等於妳的智力&lt;LSTagTooltip="AbilityModifier"&gt;調整值&lt;/LSTag&gt;的&lt;LSTag tooltip="Temporary Hit Points"&gt;臨時生命值&lt;/LSTag&gt;直到妳的下一個回合開始。</content>
+<content contentuid="hee28ed94gba23gebffg2a50gbc39825da4d1" version="1">額外攻擊：戰爭魔法</content>
+<content contentuid="h588a30f0g20c4g74fdg27e8g34f078e464bd" version="1">當妳以附贈動作進行攻擊時，可以額外進行一次攻擊。</content>
+<content contentuid="h67ea9989g6289g4950g4952g0b247839e17c" version="1">註意：必須開啟雙武器戰鬥才能讓此效果生效！</content>
+<content contentuid="ha44de479gffe8g6227ga010ge08d33151d94" version="3">這個法術算作冰箭的遠程武器攻擊，併應用妳的武器傷害。</content>
+<content contentuid="h7044877cgae2cg54e1g2959g38f47e82689f" version="1">風暴降臨</content>
+<content contentuid="hb31e15cagb6cbgfeb3g5bbdg4575bdebcecc" version="1">寒霜哨兵</content>
+<content contentuid="h20bd8d18gc345g09fbgc7f7ga86eee75c5cf" version="1">當妳在一個冰面上結束回合時，獲得等於妳的智力&lt;LSTagTooltip="AbilityModifier"&gt;調整值&lt;/LSTag&gt;的&lt;LSTag tooltip="Temporary Hit Points"&gt;臨時生命值&lt;/LSTag&gt;直到妳的下一個回合開始。</content>
+<content contentuid="h6d57642ag6735g790cge3ddg00ea3575f8ca" version="1">霜爆</content>
+<content contentuid="h99c13455g8f4bg3553g2d11gce8f9d9e39b8" version="1">霜爆</content>
+<content contentuid="h8d92d2a0g70fag8c4cgcca5g00454949217d" version="1">破咒</content>
+<content contentuid="h6fd1ad67g2f7fg5c7ag26cdgfdce75854dfa" version="3">妳對由妳在上一回合攻擊過的生物所引發的&lt;LSTag Tooltip="Saving Throw"&gt;豁免檢定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;優勢&lt;/LSTag&gt;。</content>
+<content contentuid="h90a92e6fgdfcbgaf5cg87c9g780f0b2a182e" version="4">妳將戲法冷凍射線註入妳的箭矢，併以武器攻擊擲骰的方式射出，如同進行一次&lt;LSTag Tooltip="RangedWeaponAttack"&gt;遠程武器攻擊&lt;/LSTag&gt;，使目標的移動速度降低[1]。</content>
+<content contentuid="h36a5b5dcg4db0g8bb3g1758g023476728a01" version="2">施放一個法術或戲法將觸發刀舞。</content>
+<content contentuid="h3d6dd657gd58cga91cg0018gf214188936d7" version="2">當妳用法術造成寒冷傷害時，還會在妳周圍制造爆炸，凍結附近的地面併可能對附近的敵人造成[1]。</content>
+<content contentuid="hf30066a2g6f10g6866gd2efg7c1f4c239bc5" version="1">治療</content>
+<content contentuid="hcc203353g77c8gf1ecgc901gf683502104bc" version="1">已治愈</content>
+<content contentuid="h7655a469g904ag2697gd95fg8764886236dc" version="1">生命交換</content>
+<content contentuid="h54122048g6295gb691g876dgce31c5368b86" version="1">當妳擁有奧術活力時，妳的武器攻擊可以在下次攻擊時消耗臨時生命值。如果妳擊中，目標附近的盟友將恢復[1]。&lt;br&gt;&lt;br&gt;此效果可以切換。</content>
+<content contentuid="h7e6d76adg9549ge16cgc8degb53bb6aa0369" version="1">生命交換</content>
+<content contentuid="h843513c0g006eg47cag312eg2787513ed1c6" version="1">當妳擁有奧術活力時，妳的武器攻擊可以在下次攻擊時消耗臨時生命值。如果妳擊中，目標附近的盟友將恢復[1]。&lt;br&gt;&lt;br&gt;此效果可以切換。</content>
+<content contentuid="h70b2f595g34e1gc3d9g2289g41c9655e0833" version="1">元素聖者</content>
+<content contentuid="h9dd4a014g0d64g69f8g6a5agd70df4f8bd53" version="4">當妳使用&lt;LSTag Tooltip="SpellSlot"&gt;法術位&lt;/LSTag&gt;施放法術造成傷害時，妳可以對該傷害類型產生抗性直到妳的下個回合開始。</content>
+<content contentuid="h6c74d509gfcebge738g7a81g948e0b91260e" version="1">鈍擊抗性</content>
+<content contentuid="hbaaeac7fg93fdg02b0g00bbg6f43a2862b4e" version="1">穿刺抗性</content>
+<content contentuid="h2b360e11gd11bgbf76g2fc8g7b3cc420f4b6" version="1">揮砍抗性</content>
+<content contentuid="he28a3061gb68cg811fgb1cbg10767d89c13c" version="1">寒冷抗性</content>
+<content contentuid="hecaf8770g4f92g6775g9967g9c66bf918583" version="1">火焰抗性</content>
+<content contentuid="h5413126bg705dge53cg3fa0g5bfaf643745a" version="1">閃電抗性</content>
+<content contentuid="h05b3b1a1g5f64g39fdg6615g474ab5519414" version="1">雷鳴抗性</content>
+<content contentuid="ha8d29538g4ec4g1e89gba00g3f8a0988d902" version="1">強酸抗性</content>
+<content contentuid="h1f5a6ce5gb4b2g7eb6g7fecgf3aece2229a7" version="1">毒素抗性</content>
+<content contentuid="h55b22f43g7ee0g49a1g9278geb9b18fd6968" version="1">光耀抗性</content>
+<content contentuid="h6edf04begd446gd7eag8e34g388ac0261728" version="1">黯蝕抗性</content>
+<content contentuid="hcd43b264g1866g2214gac17g788a88146eca" version="1">力場抗性</content>
+<content contentuid="he2cb0157g560fg35f1g1bf1g90031b4e7616" version="1">心靈抗性</content>
+<content contentuid="h813dcb22gfcc2g3d37ga43bg8736a7da28fd" version="2">繁花扭曲</content>
+<content contentuid="h540ad6e6g82f8g1564gd869g07b0c8f508fa" version="2">傳送到距離妳[1]範圍內的一個位置。</content>
+<content contentuid="h8ad8f961g34b3gb796ga505ga8fc3b8791b2" version="2">迷蹤舞</content>
+<content contentuid="hc07d71fdgdd62g95aeg2c34g64269de19839" version="3">在使用戲法或法術劍舞後，妳可以傳送到自己周圍[1]英尺內的任意空間。</content>
+<content contentuid="hd6edaa7bgedc4g6393gbab2g76885050af5c" version="2">心靈撕裂</content>
+<content contentuid="hd41aefe6g4421gbd77ga6d2g8542c0f624fc" version="4">妳可以從目標身上撕裂出&lt;LSTag Type="Status" Tooltip="AV_ELDRITCH_MARK"&gt;邪術烙印&lt;/LSTag&gt;狀態，併使其陷入&lt;LSTag Type="Status" Tooltip="MOO_MAG_KETHERIC_STUPEFIED"&gt;麻木&lt;/LSTag&gt;狀態，併對心靈傷害變得易傷。</content>
+<content contentuid="h21c6c6d6gf888ged83gd361g8e6fc2583831" version="1">妳對鈍擊傷害具有&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
+<content contentuid="hdbdc8c83g2339g6854g30a8gc64caf3b5ce7" version="1">妳對穿刺傷害具有&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
+<content contentuid="hc411a771gce21g707egdf64g1d87149fa2e8" version="1">妳對揮砍傷害具有&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
+<content contentuid="hdb0b321bg54b3g2ce8gcb55g9dc7eb5dc1b6" version="1">妳對寒冷傷害具有&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
+<content contentuid="h8142615bgbce6g17degcfcege6239a8b9826" version="1">妳對火焰傷害具有&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
+<content contentuid="h9dd84656gb168gcff7g9d85g1a20c0253ded" version="1">妳對閃電傷害具有&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
+<content contentuid="h4f691602g6ec3gaf8agb6f6gfc0685029b9e" version="1">妳對雷鳴傷害具有&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
+<content contentuid="hc816f8efg2bebgfaf2g9706gda7d4499b9d7" version="1">妳對強酸傷害具有&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
+<content contentuid="h1eb33615g4252ge0d0g6238g5abd88bcecee" version="1">妳對毒素傷害具有&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
+<content contentuid="h0fbd27bfg3b3ag099bg1f3egb7c6f0b30d1d" version="1">妳對光耀傷害具有&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
+<content contentuid="h084aa7b0gca6fg73ceg9456g3ae904231615" version="1">妳對黯蝕傷害具有&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
+<content contentuid="h91594dbbgbde7g25f1g3550g5184ee29960e" version="1">妳對力場傷害具有&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
+<content contentuid="h536d4d47gc7ecgc41dg64d7g5e8a65083d9e" version="1">妳對心靈傷害具有&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
+<content contentuid="hf73d94f9g118dgc95eg48b7g20ecac56b3f6" version="1">心靈易傷</content>
+<content contentuid="hd0711f86gd9c6g7f5egef46g2a2bb6fd010e" version="1">受影響實體對心靈傷害是&lt;LSTag Tooltip="Vulnerable"&gt;易傷的&lt;/LSTag&gt;。</content>
+<content contentuid="h1455a510g81a1ga5cege58eg70e118b94bca" version="1">沖擊凍結</content>
+<content contentuid="h70810252g3355g938fgf8eaga24a3c4fff98" version="1">當妳首次對生物造成寒冷傷害時，它必須進行一次體質&lt;LSTagTooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;，否則會被&lt;LSTag Type="Status" Tooltip="STUNNED"&gt;震懾&lt;/LSTag&gt;一回合。</content>
+<content contentuid="h6eb55c5bgc179gb577g2ba3g16d108c93d40" version="1">沖擊凍結</content>
+<content contentuid="hbb76011ag4e19g7eabg0b6agf21618ac9c7d" version="2">當妳首次對生物造成寒冷傷害時，它必須進行一次體質&lt;LSTagTooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;，否則會被&lt;LSTag Type="Status" Tooltip="STUNNED"&gt;震懾&lt;/LSTag&gt;一回合。</content>
+<content contentuid="hb9bc4b76g2359g7647g3dd6gb70743f3bd54" version="2">投擲施法</content>
+<content contentuid="h23c348cdgdc2bg10bfg9b8cga038c73900d6" version="3">妳的近戰法術範圍變為[1]。</content>
+<content contentuid="h2a853526g7f63g797cga56fg7726ed7b5e2f" version="1">投擲施法</content>
+<content contentuid="hb6fd64aagdedagfe70gda41gdc9785d52e1c" version="1">妳的近戰法術攻擊擲骰給予[1]範圍。</content>
+<content contentuid="h6782f6a8g1d1fg1672gdb5agcf886cfca570" version="1">空</content>
+<content contentuid="h9174185eg3dc3g4179ga7f6gc9518ca9fb50" version="1">空</content>
+<content contentuid="h508ebb78ga66fg81afg28d0gfd6e2cad9421" version="1">寒霜哨兵</content>
+<content contentuid="hfb648c26g36cdg35c2g9439gb2c61d268b1b" version="2">站在冰面上時，獲得對火焰和寒冷傷害的抗性以及燃燒免疫。&lt;br&gt;&lt;br&gt;當妳在一個冰面結束回合時，獲得等於妳的智力&lt;LSTagTooltip="AbilityModifier"&gt;調整值&lt;/LSTag&gt;的&lt;LSTag tooltip="Temporary Hit Points"&gt;臨時生命值&lt;/LSTag&gt;直到妳的下一個回合開始。</content>
+<content contentuid="habdb53eag0d45g9c9fgb49ag8c87384618da" version="1">霜行者</content>
+<content contentuid="hea0e8980g59bcgbcd2g5dbfg033e25d7e6a3" version="2">審判之召</content>
+<content contentuid="h68c1198dg1b13g9e2cg4dedg7f74a9c40133" version="1">標記一個生物。當您初次創建標記時，該生物必須成功進行一次力量&lt;LSTag Tooltip="Saving Throw"&gt;豁免檢定&lt;/LSTag&gt;，否則會被拉嚮妳。被標記期間，妳的元素註入武器攻擊會在攻擊時產生與註入元素相應的額外傷害爆發。</content>
+<content contentuid="h68685f69ge2ceg7cb5g0b2cg7298fe9d985f" version="2">審判赦令</content>
+<content contentuid="hb19b2fd5gdd68g4ff9gbec9g1241e64fc46f" version="1">標記一個生物。當您初次創建標記時，該生物必須成功進行一次力量&lt;LSTag Tooltip="Saving Throw"&gt;豁免檢定&lt;/LSTag&gt;，否則會被拉嚮妳。被標記期間，妳的元素註入武器攻擊會在攻擊時產生與註入元素相應的額外傷害爆發。</content>
+<content contentuid="h59de3d57g698agd637g0d62g20030dc0d697" version="1">審判之召</content>
+<content contentuid="h5b88be6dgaf48g1ff0g0a4fge700efc94db9" version="1">冰河時代</content>
+<content contentuid="h958e6919g475eg57ddg6be7g7ea016500aa2" version="2">在距離妳[1]範圍內創造一個冰面。任何已經在冰面上站立的敵人會在此處&lt;LSTag Type="Status" Tooltip="FROZEN"&gt;冰凍&lt;/LSTag&gt;。</content>
+<content contentuid="h52c24536g13a9ga649gdab8g29445eee4c79" version="2">完美守護者</content>
+<content contentuid="hb4e21348gb16cg77b0gbbddg67136309bb19" version="3">施放時，選定盟友在接下來的3回合內保持在妳[1]範圍內即可獲得&lt;LSTag Type="Status" Tooltip="INVULNERABLE"&gt;無敵&lt;/LSTag&gt;和&lt;LSTag Type="Status" Tooltip="FREEDOM_OF_MOVEMENT"&gt;行動自如&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h971d22dag321fge2efg1fd6gb35b91c5a3ea" version="1">完美保護</content>
+<content contentuid="h37ea4e75g6139g529dgf153g75edadf7852e" version="1">受影響實體受到哨兵的保護。</content>
+<content contentuid="hedb22482g2d31g7d29gc7f4g465912c0a210" version="1">完美守護者</content>
+<content contentuid="ha9bf15degac41g8c20g1b34g3fef22e5d2ae" version="1">保持在目標範圍內使他們無法阻擋。</content>
+<content contentuid="h3ff64da7g92abg8f6bg86fag808f000f6290" version="1">弒王之舞</content>
+<content contentuid="hce7f1007g845eg4375g2e95gbbb4595bcc30" version="3">妳的戲法劍舞和法術劍舞總是在妳的回合開始時准備就緒，併且可以連續使用。</content>
+<content contentuid="haffe816ag96c6g9b21g3831g6dceeb0bd016" version="1">弒王之舞</content>
+<content contentuid="h313c6a1cg942fge0c0gd1degc8f904adc43a" version="2">妳的回合開始時，戲法劍舞和法術劍舞都已准備好可以使用。</content>
+<content contentuid="hd3185778gfe0bg1c49g4876g534787fee2d6" version="1">大師之力</content>
+<content contentuid="hb16ca165g59bag0354g9597gbf217cf9dba5" version="5">妳對邪術學的理解讓妳能夠暫時充當一名宗主，暫時賦予一名盟友邪術師的力量。妳選擇一種魔契恩澤提供給盟友，併授予他們2個三級邪術師&lt;LSTag Tooltip="SpellSlot"&gt;法術位&lt;/LSTag&gt;。</content>
+<content contentuid="h949360b7ge563g95d3g64dfgcd80257b80c8" version="2">刃之魔契</content>
+<content contentuid="h0f8f6a9fge3c5ge4b0g3e58ge1f766bb7d85" version="5">妳為盟友提供刃之魔契。他們還獲得了加深魔契特質和&lt;LSTag Type="Spell" Tooltip="Target_Hex"&gt;脆弱詛咒&lt;/LSTag&gt;法術。</content>
+<content contentuid="h5cb91822gf9cdge14fg9d84g6dbe9b3852f8" version="2">書之魔契</content>
+<content contentuid="h2e9f5e98g2393g93afge813g2d8ee2471516" version="2">鏈之魔契</content>
+<content contentuid="hee8e1768g228ag3878g2ec7g7f6ee67eee85" version="2">此外，當妳指定一名邪術師時，妳賦予他們“消耗凡俗”被動技能，併根據妳的契約選擇獲得一個額外特質。</content>
+<content contentuid="hdd2be8e8g6f04gfe7bgfe20g6130b27d55b2" version="1">當妳的盟友擁有此契約時，他們會獲得脆弱詛咒法術。</content>
+<content contentuid="hf57904abgd57bg7e11gb30fg584bf7d0f1bd" version="3">妳為盟友提供書之魔契。他們還會獲得加深魔契特質和&lt;LSTag Type="Spell" Tooltip="Target_HungerOfHadar"&gt;哈達之饑渴&lt;/LSTag&gt;以及&lt;LSTag Type="Spell" Tooltip="Target_VampiricTouch"&gt;吸血鬼之觸&lt;/LSTag&gt;法術。</content>
+<content contentuid="h595e90c9gca96gf848gcc97g8305ae875002" version="1">當妳的盟友擁有此契約時，他們會獲得哈達之饑渴和吸血鬼之觸法術。</content>
+<content contentuid="h7665aafcga4b8ga446gd70egd65b64538d5a" version="2">妳為盟友提供鏈之魔契。他們還會獲得加深魔契特質，從而能夠召喚許多新的魔寵。</content>
+<content contentuid="h3544da8fg02afgc546gd810ga441f781da05" version="1">當妳的盟友擁有此契約時，他們可以獲得召喚許多新魔寵的能力。</content>
+<content contentuid="ha2a27d99g74c0gbc11g6238g31b6e509f707" version="2">步入超越</content>
+<content contentuid="h2534fc04g9e12gd8f7gafa3g3676de68d554" version="2">直到妳解除效果前，變為部分精類形態。</content>
+<content contentuid="ha9d41ff3g1f00ged46gdafbgbe29147fecf0" version="2">解除部分精類形態</content>
+<content contentuid="hd63c110cg91eag36efg0bc9gabd8dac42dfb" version="2">解除妳的部分精類形態</content>
+<content contentuid="h2c4cca8dg42dege203g94c5g74b01eb155e4" version="1">部分精類</content>
+<content contentuid="ha3d9225fgea30g5233g27f9g4b292deb0d53" version="1">妳已經部分成為精類，直到妳進行攻擊或施放法術為止。</content>
+<content contentuid="hf3c55f48g5257gad80g49e4g7397b6e6cd2e" version="1">部分精類</content>
+<content contentuid="h06066c9cg237cga57fg38ebgbf8406118b38" version="1">妳已經部分成為精類，直到妳進行攻擊或施放法術為止。</content>
+<content contentuid="hd5ffb24cgf1dcga581g0684g6e33c4516423" version="1">部分精類</content>
+<content contentuid="ha7405747g1201g5433g9392gfe8d5e43319d" version="2">妳的存在介於物質界和精類界之間。妳是無敵且無法被選為目標的，但不能採取任何行動。&lt;br&gt;&lt;br&gt;妳仍然可以在部分精類狀態下移動併具有飛行速度。</content>
+<content contentuid="hb3b1a078g6f3cgb4dfg722eg8d7f96293a30" version="1">審判赦令</content>
+<content contentuid="h300f4362g0daeg0f12gd1f8g728982a44649" version="1">審判奧術先鋒可以針對該生物制造爆炸。</content>
+<content contentuid="h101099e6g9391g1ef5g6320g880e9f633b03" version="1">當妳的刃契盟友用武器攻擊對目標造成傷害時，妳對該目標造成額外[1]。</content>
+<content contentuid="hdf893ddfg9a0bg702fg405eg08d0586ce0ac" version="1">當妳有一個帶有書之魔契的盟友時，目標在對抗妳的法術時需要進行劣勢豁免檢定。</content>
+<content contentuid="hcea3a1d8g3515gee6bg5700g909aeb6b697e" version="1">當妳有一個帶有鏈之魔契恩賜的盟友時，妳每天有一次能力可以短暫進入靈界平面併自由移動。</content>
+<content contentuid="h7566b44bg69b3gc5dfg6cf4gd219058721dc" version="1">風暴降臨</content>
+<content contentuid="h4adf8d29g1462g0840g9a0cgc91d317ded4a" version="1">使用這個被動技能來切換圍繞妳生成霜面的效果。</content>
+<content contentuid="hba0148c4g3711gc69cgd054g999acdb935c2" version="2">如果妳以盟友為目標，法術會自動成功。</content>
+<content contentuid="h7c7fbb7fgceecg7c52gedddge159c1d44810" version="1">測試</content>
+<content contentuid="h1ae5234ag5070gaa81gad76g79a03619a0f2" version="1">測試中</content>
+<content contentuid="h1b9e1a56g8713g4929gcb4cg6d4a818770e3" version="2">元素瀑佈</content>
+<content contentuid="h7f3a3a28gd1c0g93d7g65e1g6dd6989de077" version="4">當妳使用奧術先鋒攻擊動作進行攻擊時，妳的武器傷害將完全轉換為妳最近一次法術所造成的傷害類型，併根據元素類型施加不同的狀態效果。此效果可以切換。</content>
+<content contentuid="h3571f345g908fgf552gb7fdge8ceef18ecf3" version="1">關閉此功能後，妳的武器傷害將恢復為正常。</content>
+<content contentuid="hfee34116g3c75g0e9bg22ceg51a06f7e4887" version="1">元素武器</content>
+<content contentuid="h6bdc1dbcg7df8gcd7dga802ge157208c28ea" version="1">妳的武器傷害將轉化為火焰傷害。</content>
+<content contentuid="haafde254g4e32g967bg89aag4eb12092229f" version="1">關閉此功能後，妳的武器傷害將恢復為正常。</content>
+<content contentuid="h619b120dgdef9gd6e1gecb4g44e987640e74" version="1">元素武器</content>
+<content contentuid="hecab6297g3917gfb5cg9910g6d740a8ac3b2" version="1">妳的武器傷害將轉化為力場傷害。</content>
+<content contentuid="h6ccee07fg6548g0356ge4bdg3b2cbdbf06f9" version="1">關閉此功能後，妳的武器傷害將恢復為正常。</content>
+<content contentuid="he1c00a4fg7962g8165g9637g46cecb85511f" version="1">元素武器</content>
+<content contentuid="hfac98b10ga1cagce1bgca56g5a15758027a0" version="1">妳的武器傷害將轉化為強酸傷害。</content>
+<content contentuid="hec72d92fg2262g09e1g1300gcbcf122eebeb" version="1">關閉此功能後，妳的武器傷害將恢復為正常。</content>
+<content contentuid="h0bbddf48g234ag4affg17b3g6b0803dc98e6" version="1">元素武器</content>
+<content contentuid="h688b2048gc1cbg2b81gcd3eg244d2a105a10" version="1">妳的武器傷害將轉化為寒冷傷害。</content>
+<content contentuid="ha6a9a4e0g0428gb387g40bfg6908e73c786d" version="1">關閉此功能後，妳的武器傷害將恢復為正常。</content>
+<content contentuid="hbc72cd53g6a39g4c9cg6b26g704c3a0d45ae" version="1">元素武器</content>
+<content contentuid="hd56410c2g912ag988ag83acg4a9b21583611" version="1">妳的武器傷害將轉化為黯蝕傷害。</content>
+<content contentuid="hbcb57e0dg463cg8447ge90ag4e3ad67ee92f" version="1">關閉此功能後，妳的武器傷害將恢復為正常。</content>
+<content contentuid="he30bb98cgdeb8g2d6dgcf72g4ede1ab609e8" version="1">元素武器</content>
+<content contentuid="h56344337g298agc899g2a8ega7978c5d7ffd" version="1">妳的武器傷害將轉化為雷鳴傷害。</content>
+<content contentuid="hcd5d47b8gf167g1e15geb67g984b949c7dad" version="1">關閉此功能後，妳的武器傷害將恢復為正常。</content>
+<content contentuid="ha2cb72d6gb891gcca9g2eabgb13e1ad60263" version="1">元素武器</content>
+<content contentuid="h8ff2435ag6a0bg432bgf9bcgd76fbe98fd5e" version="1">妳的武器傷害將轉化為心靈傷害。</content>
+<content contentuid="ha67ef336g3145g5ab6gda23gfc5cf968a7f9" version="1">關閉此功能後，妳的武器傷害將恢復為正常。</content>
+<content contentuid="h4377a49dgbde8ge2bfgcffdg559543e80fc0" version="1">元素武器</content>
+<content contentuid="h3090da66g7f58gdbd0g266dga9995bc5de29" version="1">妳的武器傷害將轉化為毒素傷害。</content>
+<content contentuid="h362b4729g2ebagff49g00bcgcb26b1693c1d" version="1">關閉此功能後，妳的武器傷害將恢復為正常。</content>
+<content contentuid="h831c01a9g87b4gd900g2f74g0949fc1f5b80" version="1">元素武器</content>
+<content contentuid="h6c50a5e1gc498g2219gef4fg7e3a62ead9ab" version="1">妳的武器傷害將轉化為光耀傷害。</content>
+<content contentuid="hdf37f8d3gb97eg0aa5g75e2gbbbd5b78bcba" version="1">關閉此功能後，妳的武器傷害將恢復為正常。</content>
+<content contentuid="h2a3ae85bg56f6gff69g9fd9g99342376dc99" version="1">元素武器</content>
+<content contentuid="hb801244bgee50g2ae3ga352ge7915e403026" version="1">妳的武器傷害將轉化為閃電傷害。</content>
+<content contentuid="h7578d092gc5a9g9bcdgcb42gbb5f6bcfb664" version="1">關閉此功能後，妳的武器傷害將恢復為正常。</content>
+<content contentuid="h3bed10f0gbdeegde91gbd21gec8f12d3cfdd" version="1">元素武器</content>
+<content contentuid="ha7d3f93fgf5ccg5b22g9a79g31827c121372" version="1">妳的武器傷害將轉化為揮砍傷害。</content>
+<content contentuid="h37f3d520g7112gecd8g7b2cge751ab96589f" version="1">關閉此功能後，妳的武器傷害將恢復為正常。</content>
+<content contentuid="hea87489fg0042g0bf6g189fgded836879407" version="1">元素武器</content>
+<content contentuid="h4fcaca6fg8390g1971g9f18g3ff815527b6a" version="1">妳的武器傷害將轉化為穿刺傷害。</content>
+<content contentuid="h11b0b439gd17agc3dcg3b55g3a8b3dee7943" version="1">關閉此功能後，妳的武器傷害將恢復為正常。</content>
+<content contentuid="h53bccfc4g4962g50d3ge650g08e866535850" version="1">元素武器</content>
+<content contentuid="h92a31b59g170cg799ag0a4eg3ddf252a6ae0" version="1">妳的武器傷害將轉化為鈍擊傷害。</content>
+<content contentuid="hc4f09fbdgdee1g7adfg61d8g8353fe58a9fa" version="1">關閉此功能後，妳的武器傷害將恢復為正常。</content>
+<content contentuid="h0a2d388cg3167g946cga8a5gd33fccae99a9" version="1">火焰灌註</content>
+<content contentuid="h51afb385ga997gabe2g5232g6f3cf3904b5c" version="1">力場灌註</content>
+<content contentuid="h78ddcea5g49begcf37g68e1g6e4d162ace8d" version="1">強酸灌註</content>
+<content contentuid="h5325f332ga6c8g832agf1c3gd74e5088ad4a" version="1">寒冷灌註</content>
+<content contentuid="hef0d312cgaf76gd7cegbdfbgb593d0983ddd" version="1">黯蝕灌註</content>
+<content contentuid="h9dc972d1g15b1g5243ga168gca2033a11927" version="1">雷鳴灌註</content>
+<content contentuid="h04ef05a7gacfeg0d89gf8aag035f53b37182" version="1">心靈灌註</content>
+<content contentuid="h18c114bbg69deg7149ga67ag57d5cf0bc56f" version="1">毒素灌註</content>
+<content contentuid="h44a12863g7cf8g99e2gbd00g958f226b5a20" version="1">光耀灌註</content>
+<content contentuid="h8512bbc5g26d9ga14bg5a30g594f57894781" version="1">閃電灌註</content>
+<content contentuid="he47b0fcegef82g6e01gcafbgc6c4769ddfe2" version="1">物理灌註</content>
+<content contentuid="hf4fc5f48gf37cg48aeg7be3g6b8b5efe901f" version="1">火焰灌註</content>
+<content contentuid="h65ba804fgdb05ga73dg610cg0211b7cb19eb" version="1">力場灌註</content>
+<content contentuid="hd08d83d6g5cedg05fbg91abgb82b2b56e6c5" version="1">強酸灌註</content>
+<content contentuid="h30bddac6g51a7gfc17ga4deg5f4d436d8b7f" version="1">寒冷灌註</content>
+<content contentuid="hf2b9f6b9g2701g1635g1b7bgb7bd792450e4" version="1">黯蝕灌註</content>
+<content contentuid="h9ebe629eg7ab3g3904gaf98g2b814c182436" version="1">雷鳴灌註</content>
+<content contentuid="h2c64a8a9gdc04g1189gd964g2fdb71dbdc36" version="1">心靈灌註</content>
+<content contentuid="hd710a919g1a02g144cg3e1egfda231de7820" version="1">毒素灌註</content>
+<content contentuid="hb42cae03g46d2gb208g6dbeg6cbae1051f64" version="1">閃電灌註</content>
+<content contentuid="h7c29ee0dg10dcg3b3eg2551g2b045b893047" version="1">揮砍灌註</content>
+<content contentuid="h50a36949gff52gf03ege9adgabd275238119" version="1">穿刺灌註</content>
+<content contentuid="hfc652f28g0961gaa98g4699gac9a0cfbb060" version="1">鈍擊灌註</content>
+<content contentuid="ha4d5ff51g8505ga14fg83fag05a4ef8898a7" version="1">光耀灌註</content>
+<content contentuid="h24253775gb6cfg491fg8074g2d41af06887b" version="1">戰鬥雜技</content>
+<content contentuid="h2e20d33ag9931ge236g80fag8bd3967c6337" version="9">在妳的下個回合結束前，連續使用一次法術和武器攻擊後，妳將獲得敏捷&lt;LSTag Tooltip="Saving Throw"&gt;豁免檢定&lt;/LSTag&gt;與體操檢定的&lt;LSTag Tooltip="Advantage"&gt;優勢&lt;/LSTag&gt;，持續至妳的下一回合結束，併獲得一回合的&lt;LSTag Type="Status" Tooltip="MAG_MOMENTUM"&gt;亢奮&lt;/LSTag&gt;狀態。</content>
+<content contentuid="hb6c1c324g8aadgd2eega146gec7bbbce14b2" version="1">元素瀑佈</content>
+<content contentuid="hec135e72gad8bg4574gab8cgf112c9b6ca01" version="1">元素瀑佈</content>
+<content contentuid="ha45d4d13g5456gf005g50edg67caf839a437" version="1">元素瀑佈</content>
+<content contentuid="h425b845dge8d7g8473g75efgaae26f2a9722" version="1">元素瀑佈</content>
+<content contentuid="h520a12bbg1f00gd586gbcb8gb5c9ba355a9c" version="1">元素瀑佈</content>
+<content contentuid="h5e974ec4g21bag0724gdbb3g0b0b032f16bd" version="1">元素瀑佈</content>
+<content contentuid="hd72d7a8dg415cg4f88ge944g0382e0d3d83d" version="1">元素瀑佈</content>
+<content contentuid="hdd58b81ageff4g1b8bgee16g27baa70691bc" version="1">元素瀑佈</content>
+<content contentuid="h28cb4f32gb66bg01c4g040fgee563879c78c" version="1">元素瀑佈</content>
+<content contentuid="h72755ff8g6bdfg6988ga86cgbbc2dbc728b8" version="1">元素瀑佈</content>
+<content contentuid="h6670bb1dgca71g514fg23fcgdd09b20b8bdd" version="1">元素瀑佈</content>
+<content contentuid="h5cef3946g6d27g8707g8470gff9fbfbf84b5" version="1">元素瀑佈</content>
+<content contentuid="h657d02ccg7f6dg0abcg35bcg0307e7a99116" version="1">元素瀑佈</content>
+<content contentuid="h8f761b42g7f72g44d9g916eg44be74806b15" version="1">墓騎</content>
+<content contentuid="h8e2a0473g1e34g4555g690bg08b69f3e91ad" version="1">墓騎</content>
+<content contentuid="h35f8e159g0224ge562g29a2g680ac71297ee" version="2">妳對邪惡的黯蝕魔法的研究被用來制造傷害併維持自己的生存，成為生命與死亡的主宰。</content>
+<content contentuid="h25e73aecgf10age569g1e36g4fb2fbe12515" version="1">墓騎</content>
+<content contentuid="h2e228a0eg2863gba08g7fd6g90a4f397ff5a" version="1">穿著中型護甲不會對妳造成&lt;LSTag Tooltip="Disadvantage"&gt;劣勢&lt;/LSTag&gt;於妳的&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;或阻止妳施法。</content>
+<content contentuid="hae3b8781g780eg0e5cg625dgea4ff618230f" version="1">墓騎</content>
+<content contentuid="hb92820a2gc268g8caegcf9cg63995164f920" version="1">使用盾牌不會對妳造成&lt;LSTag Tooltip="Disadvantage"&gt;劣勢&lt;/LSTag&gt;於妳的&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;或阻止妳施法。</content>
+<content contentuid="hfaec7bbcg1f65g160fg45fbg7bdfbe234392" version="2">墓之箭</content>
+<content contentuid="h173fa896g23ccgc8c3g5b97g07a3493b4c86" version="1">123</content>
+<content contentuid="h9a3699aag2978g1d1cg60ddgfd9d22b0da87" version="1">123</content>
+<content contentuid="hfd216022g2555g2c06g5af9g3497bec56559" version="3">召喚[1]發邪惡能量彈，造成[2]併可能施加&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_ACIDCANTRIP"&gt;灼燒皮膚&lt;/LSTag&gt;。</content>
+<content contentuid="h32b20fa8g1df9gbb47gb18agc27801819cc2" version="1">墓藝</content>
+<content contentuid="h9eb1040bgdc4cg93e6g9c49g2700d8be3a10" version="2">在1層時獲得[1]AC。&lt;br&gt;&lt;br&gt;在2層時無視黯蝕、毒素和強酸抗性。&lt;br&gt;&lt;br&gt;在3層時獲得對黯蝕、毒素和強酸類型的抗性。&lt;br&gt;&lt;br&gt;在4層時在體質&lt;LSTagTooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;上獲得優勢。&lt;br&gt;&lt;br&gt;在5層時武器攻擊額外造成[3]，但回合結束時失去1層併受到[2]。</content>
+<content contentuid="ha2a4a026g50d5gac37g1a9fg85762ecbaa4c" version="1">墓藝</content>
+<content contentuid="h96171965ga119g2c30g4144g8243eb43a7f8" version="1">每回合一次，當妳造成酸、毒素或黯蝕傷害，或施放任何黯蝕法術時，妳獲得1層&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_RESOURCE"&gt;墓藝&lt;/LSTag&gt;。此狀態會根據剩余層數提供不同的效果，併隨著層數增加添加新特性。某些動作可能需要此狀態併消耗層數。</content>
+<content contentuid="h0d4d303fgf49eg0f24g0de3g45e40c201237" version="1">墓藝</content>
+<content contentuid="h49c9325dgd6bdga3efgf2fagc67bd780cab6" version="2">每回合一次，當妳使用法術造成酸、毒素或黯蝕傷害，或施放任何黯蝕法術時，妳獲得1層&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_RESOURCE"&gt;墓藝&lt;/LSTag&gt;。此狀態會根據剩余層數提供不同的效果，併隨著層數增加添加新特性。某些動作可能需要此狀態併消耗層數。</content>
+<content contentuid="h02c6fd0dgbfddgd523g4271g6f064f30750b" version="1">每回合一次，當妳使用法術造成酸、毒素或黯蝕傷害，或施放任何黯蝕法術時，妳獲得1層&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_RESOURCE"&gt;墓藝&lt;/LSTag&gt;。此狀態會根據剩余層數提供不同的效果，併隨著層數增加添加新特性。某些動作可能需要此狀態併消耗層數。</content>
+<content contentuid="h54333029gb7e1g3c96g6898g6f2f65e958ac" version="1">墓藝</content>
+<content contentuid="hdb9d21c1g4e9fg11e3g3f36g00a90d2f9d5d" version="4">利用妳的墓藝來使用特殊的技能，這些技能會消耗妳的&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_RESOURCE"&gt;墓藝&lt;/LSTag&gt;層數，但為妳的行動提供燃料。每回合只能激活一個墓藝。</content>
+<content contentuid="h900b6162g93ddg4409g947cgb266c5ec6dd1" version="1">腐血之觸</content>
+<content contentuid="h97f92d8cga627gc91fg83b1ge67782b9e4e7" version="5">當處於近戰範圍內敵人對妳造成傷害時，妳造成[1]併且妳的武器攻擊有一定幾率施加&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_ACID_STATUS"&gt;腐蝕傷口&lt;/LSTag&gt;，但攻擊妳的人具有優勢。&lt;br&gt;&lt;br&gt;需要併消耗1層&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_RESOURCE"&gt;墓藝&lt;/LSTag&gt;。</content>
+<content contentuid="h9d7d6eb7g65b3g3d00g514eg3b56ea3376dd" version="1">墓藝</content>
+<content contentuid="haef0522ag8897gd54fgebb1g6e7bc3d89273" version="1">墓藝</content>
+<content contentuid="hb4a58b32ge695gbe80g6607g4b2921e9077c" version="1">墓藝</content>
+<content contentuid="hfc307633g57f6gbcdag5365g8083ab4af893" version="1">墓藝</content>
+<content contentuid="h7e0f0934ga94eg1463ge0edg1f0edadd2217" version="1">墓藝</content>
+<content contentuid="h43b6663dg62f5g6e92g027agd311b5a33be0" version="1">腐血之觸</content>
+<content contentuid="h4f88e164g9d69g2c5ag676bg38d56bbe56c9" version="2">吸血之擊</content>
+<content contentuid="h471b5a54g8f65g2634g4353g9d45aaaaa312" version="5">妳的下一次武器攻擊將治愈妳造成的傷害加上妳一半的奧術先鋒等級。&lt;br&gt;&lt;br&gt;需要併消耗2層&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_RESOURCE"&gt;墓藝&lt;/LSTag&gt;。</content>
+<content contentuid="heef575c1g838dg0111gc50dg1b2d9c32232c" version="1">需要併消耗1層&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_RESOURCE"&gt;墓藝&lt;/LSTag&gt;。</content>
+<content contentuid="h95c2803eg050ege17bgf02bg60c4d2d1e0c4" version="1">需要併消耗2層&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_RESOURCE"&gt;墓藝&lt;/LSTag&gt;。</content>
+<content contentuid="h4c05f8e7g8f89g72f9gd72bg1219068c48ff" version="1">腐蝕傷口</content>
+<content contentuid="h7f272f5ag5194gc63cg9649g298bd71a3134" version="1">受影響實體在受到傷害時將額外受到[1]。</content>
+<content contentuid="hc814a6bfgbd07g8b37g625bg95d5fafb03a4" version="1">DealDamage(3,Acid)</content>
+<content contentuid="hb31f9d2fg2bbfg465dg4f89ge7096d2b2a5e" version="1">死神鐘鳴</content>
+<content contentuid="h755d5f7bgf787gaf94ge68cg30f6e16bff6e" version="4">進行一次血液獻祭，對自己造成[1]。妳的下一個法術將釋放一波黯蝕，造成&lt;LSTag Type="Status" Tooltip="CHILL_TOUCH"&gt;凍寒之觸&lt;/LSTag&gt;併可能使[2]範圍內的敵人&lt;LSTag Type="Status" Tooltip="FEARED"&gt;恐懼&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;需要併消耗3層&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_RESOURCE"&gt;墓藝&lt;/LSTag&gt;</content>
+<content contentuid="h9bf9acdcg5c14g060cg39a8g199955cc6bca" version="1">死神鐘鳴敲響</content>
+<content contentuid="h72931324g88e6gc31bg1a82g53f4c018ceb8" version="1">測試</content>
+<content contentuid="h0fc40cd3ge009gcccfgfc69g853c008eb893" version="1">測試中</content>
+<content contentuid="h518c61afg58d9g622fgfc4bge981c1f08084" version="1">xxx</content>
+<content contentuid="h94ece99eg24adgcbe5g7215ge589e07be472" version="1">xxx</content>
+<content contentuid="hcfc70a4aga503gb725g569bg2ef2a4e84053" version="1">凡人法令</content>
+<content contentuid="he4ff603ag91b3g0c76ge8ccg5531edc06034" version="5">下次妳對生物造成傷害時，詛咒它使其獲得&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_DOUBLE_DAMAGE"&gt;凡人弱點&lt;/LSTag&gt;，導致目標下次受到傷害時受到雙倍傷害。應用此標記時，妳也受到[1]。&lt;br&gt;&lt;br&gt;需要併消耗4層&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_RESOURCE"&gt;墓藝&lt;/LSTag&gt;。</content>
+<content contentuid="hdacdc9aeg5566g0ff7gaa30gae3f875eef2c" version="1">墓藝</content>
+<content contentuid="hfb840ab5gc965g8b42gd0e5g90ec33a57236" version="1">每回合一次，當妳使用法術造成酸、毒素或黯蝕傷害，或施放任何黯蝕法術時，妳獲得1層&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_RESOURCE"&gt;墓藝&lt;/LSTag&gt;。此狀態會根據剩余層數提供不同的效果，併隨著層數增加添加新特性。某些動作可能需要此狀態併消耗層數。</content>
+<content contentuid="h7bda323agd5f5gcb6ag968cg86d1303f4031" version="1">共衰之術</content>
+<content contentuid="hde65b4d0g323ag5948gdeafg4dafd7e7776c" version="4">妳降低最大生命值至兩倍角色等級，但妳在造成傷害時額外造成[1]。&lt;br&gt;&lt;br&gt;需要併消耗2層&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_RESOURCE"&gt;墓藝&lt;/LSTag&gt;。</content>
+<content contentuid="h71de4b82gf768g2ca9g1fa9g3a341b4f2ef9" version="2">亡者面容</content>
+<content contentuid="hbf515931g12a2g015eg3315gb55d0dfaa41c" version="7">進入不死狀態。妳無法恢復生命值，影響不死生物的能力現在也對妳生效，併且由於施法妳無法獲得&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_RESOURCE"&gt;墓藝&lt;/LSTag&gt;。在此期間，妳的攻擊擲骰具有優勢，對黯蝕傷害免疫，對光耀、鈍擊、穿刺和揮砍傷害有抗性，併對毒素免疫，同時被賦予&lt;LSTag Type="Status" Tooltip="DARKVISION"&gt;黑暗視覺&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;需要併消耗1層&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_RESOURCE"&gt;墓藝&lt;/LSTag&gt;。</content>
+<content contentuid="hc0ceb00dgef1dg5546g5a5cg684f0b340c15" version="3">奧術之力</content>
+<content contentuid="he492295dgcde2gc0c8g18aegfee9284991e2" version="2">妳所有法術的施法距離降低至[1]。每當妳靠近2個或更多敵人時，妳在所有的&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;上獲得+1加值，併在使用一個&lt;LSTag Tooltip="SpellSlot"&gt;法術位&lt;/LSTag&gt;施放法術後獲得2回合的&lt;LSTag Type="Status" Tooltip="MAG_VIOLENCE"&gt;狂怒&lt;/LSTag&gt;狀態。</content>
+<content contentuid="hce920bf8g961agff8fg348cg97a3710e36ab" version="1">此效果可以切換，但這樣做將移除所有層的&lt;LSTag Type="Status" Tooltip="MAG_VIOLENCE"&gt;狂怒&lt;/LSTag&gt;</content>
+<content contentuid="he36c1a89g15e8g5c52g9448gd8f37a59bb13" version="1">此行為被視為一個法術。</content>
+<content contentuid="h3015ee80gd452g6880g2c28ge7d6abb89eb2" version="1">此行為被視為一個法術。</content>
+<content contentuid="h6926cab5g95ebg38d9g62dag42c32b2cc0bb" version="2">當妳受到近戰範圍內生物的傷害時，妳將造成[1]，併且妳的武器攻擊有幾率附加&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_ACID_STATUS"&gt;腐蝕傷口&lt;/LSTag&gt;，但對妳發動的攻擊具有&lt;LSTag Tooltip="Advantage"&gt;優勢&lt;/LSTag&gt;。</content>
+<content contentuid="he5b7a3fcgda30g5b51g0e6eg6937dcdcc9ec" version="1">防護戰爭</content>
+<content contentuid="h49980339g6798gba64g360fgecd4f12ca1bc" version="1">下次妳用武器攻擊對目標造成傷害時，標記該目標。被標記時，如果他們對其他目標造成傷害，他們也會受到[1]。</content>
+<content contentuid="h4321bc3eg8151geca5g0381g08df398478a4" version="1">咒法戰爭</content>
+<content contentuid="hf403f005gbbe9gd5adgcd93g4c22aec88aea" version="1">如果妳用武器攻擊對召喚生物造成傷害，它將立即被摧毀。</content>
+<content contentuid="hf1b4450bg0c74g9fb1gde62g669340a456f3" version="1">預言戰爭</content>
+<content contentuid="had8f636ag8116gd33ag468egfa34b2ae8ff4" version="1">妳的武器攻擊重擊閾值降低[1]。</content>
+<content contentuid="h696e0bcag2d17g8000gd634g86677665e661" version="1">惑控戰爭</content>
+<content contentuid="h3e82dd22gb972g14f3g7a5bg4ec2de83ae61" version="1">下次妳用武器攻擊對目標造成傷害時，該目標在對妳以外的目標進行攻擊擲骰時具有&lt;LSTagTooltip="Disadvantage"&gt;劣勢&lt;/LSTag&gt;。</content>
+<content contentuid="hb86d0150gccc8gea28gc63eg446f9badc460" version="1">塑能戰爭</content>
+<content contentuid="hf33fc04fg8ddcg78ccg161eg324983763c68" version="1">下次妳用武器攻擊對目標造成傷害時，圍繞他們產生魔法力量，若他們嘗試移動則可能會被擊倒。</content>
+<content contentuid="h5eb8b579g5577g6622g1fbfgb42944f55a5e" version="1">幻術戰爭</content>
+<content contentuid="hcf988272g425eg0fceg126bg41f8f4e1eb18" version="1">下次妳用武器攻擊對目標造成傷害時，用虛幻效果分散他們的註意力，使他們的攻擊擲骰減少1d4。</content>
+<content contentuid="h43bfea26ge014g28c6g08fag4fcfd33f304c" version="1">死靈戰爭</content>
+<content contentuid="h5cb39f82g5803gbd8fg329ag9202bef6cb6b" version="1">下次妳用武器攻擊對目標造成傷害時，如果目標的生命值低於其最大生命值的一半，則額外造成[1]。</content>
+<content contentuid="h62229e81ga62bg4758gb91dg6feab9381fad" version="1">變化戰爭</content>
+<content contentuid="h1188043egdcd2geccag8e10ge1d70cde1574" version="1">下次妳成功命中武器攻擊時，給自己一個+[1]的&lt;LSTagTooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;加值。</content>
+<content contentuid="hfdc8c504g4d98ge671g11ffge07767bf0073" version="1">變化戰爭</content>
+<content contentuid="h39fe6910ge391g7922g6f36ged1481cfd867" version="1">妳的魔法給妳自己一個+[1]的&lt;LSTagTooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;加值。</content>
+<content contentuid="hc6ffd314ga37ag371agcc74g107d030969ad" version="1">戰爭學徒</content>
+<content contentuid="h6749b6e1g521dga553g8ebfg7ea05dc9b1b5" version="1">施放法術會根據妳施放的法術學派以不同方式增強妳。</content>
+<content contentuid="h02cd6a7cg505dgc5c3gc1edgec9762cfb83c" version="1">防護戰爭</content>
+<content contentuid="hadfec150gd6c0g6196gfe40g42ac7ec30fe9" version="1">咒法戰爭</content>
+<content contentuid="h0d35bad3g4fb5g1fdegfbe9ge40002e1e75d" version="1">惑控戰爭</content>
+<content contentuid="h3bfab559g8182ga47eg91f6g13e332742f81" version="1">塑能戰爭</content>
+<content contentuid="h766757bcg7439g0908g8a9ag9c0a3de5c9c8" version="1">幻術戰爭</content>
+<content contentuid="h82c9b39ag2be4g4275gf596g8914f12911aa" version="1">死靈戰爭</content>
+<content contentuid="h94336d3bg9179gb95dgaabcg50cb9486b09a" version="1">變化戰爭</content>
+<content contentuid="h70bf21a1g8427g254dg609egaad75dfb567f" version="1">防護戰爭</content>
+<content contentuid="hdd1971c5g874cg240ag5f6fg5da39ada670b" version="1">受影響的實體在對另一個生物造成傷害時將受到[1]。</content>
+<content contentuid="hd740d3e8g9021g56c3ga498g615254e31a61" version="1">防護戰爭</content>
+<content contentuid="h86811690gd948g58b9g7e35gc40e22817ca6" version="1">受影響的實體在對另一個生物造成傷害時將受到[1]。</content>
+<content contentuid="he0ae81d4g03afg6d62g348eg0a2c55179176" version="1">咒法戰爭</content>
+<content contentuid="h2bd41921g136ag8c53g1d09g1dd2221694ea" version="1">如果妳用武器攻擊對召喚生物造成傷害，它將立即被摧毀。</content>
+<content contentuid="h7a80786bg26fegb580g990agaea93ac05416" version="1">惑控戰爭</content>
+<content contentuid="h4ace93c4gc1e5g4884g1ef4g089543985fa9" version="1">妳的武器攻擊重擊閾值降低[1]。</content>
+<content contentuid="h98de1102gc0f7gc5fcgdbc2ge82f763eea6c" version="1">塑能戰爭</content>
+<content contentuid="h3ead6a1agb5bdg1743g7e29g2f615c92687b" version="1">下次妳用武器攻擊對目標造成傷害時，該目標對妳以外的目標進行的所有攻擊擲骰具有&lt;LSTagTooltip="Disadvantage"&gt;劣勢&lt;/LSTag&gt;。</content>
+<content contentuid="h0b1b72f6g69bcg4e00g88e2gd85cce783dc3" version="1">幻術戰爭</content>
+<content contentuid="h464e0fa9ga6bcgb58bg2a20gcf60dff9eadb" version="1">下次妳用武器攻擊對目標造成傷害時，用虛幻效果分散他們的註意力，使他們的攻擊擲骰減少1d4。</content>
+<content contentuid="h407f566cg7bdegf704g38f6gae18cc1585c5" version="1">死靈戰爭</content>
+<content contentuid="h468e50eeg6344g74cfg36e9gcda9d9e54512" version="1">下次妳用武器攻擊對目標造成傷害時，如果目標的生命值低於其最大生命值的一半，則額外造成[1]。</content>
+<content contentuid="h331baa6cg8575g07e9g4cd6g248564734061" version="1">腐血之觸</content>
+<content contentuid="h23f5fbd8gd551g7f4dgb88fg9b312b624361" version="2">當妳從近戰範圍內的生物處受到傷害時，妳造成[1]，併且妳的武器攻擊有一定幾率施加&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_ACID_STATUS"&gt;腐蝕傷口&lt;/LSTag&gt;，但攻擊妳的人具有優勢。</content>
+<content contentuid="ha1a6146dg4a75g88b5g9b7egb2f92b840054" version="1">腐蝕傷口</content>
+<content contentuid="hea13d415gd0b6g73a7g2ffdg924dd3a4cdf8" version="1">受到傷害時，受影響的實體將額外受到[1]。</content>
+<content contentuid="h8394ef16gb3b6gb979gb7c3gece0c2a59d82" version="1">吸血之擊</content>
+<content contentuid="h5554f907g722fg7dc2g5068ge702a302db76" version="2">妳的下一次武器攻擊將治愈妳造成的傷害加上妳一半的奧術先鋒等級。</content>
+<content contentuid="h8636e126g8a17g4df2g2c43gbede42ba1d8b" version="1">致命弱點</content>
+<content contentuid="h1b079a38g3f02g4993gb348g9ce1d4695664" version="2">受影響的實體被認為對下一次受到的傷害類型易傷。</content>
+<content contentuid="h7f2c2adag6042g9a63g5ff8gd436cc1eb27a" version="1">死亡命令</content>
+<content contentuid="hc64b3f7fgf34ag16ffg97a6g1f78403a56d7" version="1">下次妳對一個生物造成傷害時，詛咒他們為&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_DOUBLE_DAMAGE"&gt;致命弱點&lt;/LSTag&gt;，使目標下次受到傷害時承受雙倍傷害。&lt;br&gt;&lt;br&gt;需要併消耗4層&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_RESOURCE"&gt;墓藝&lt;/LSTag&gt;。</content>
+<content contentuid="haa3e669dg259eg2bccgc5b0gdeeb1cd1a26a" version="1">共衰之術</content>
+<content contentuid="ha86fcf51g3c07gd338g348fga72872285616" version="1">妳降低最大生命值至兩倍角色等級，但妳在造成傷害時額外造成[1]。&lt;br&gt;&lt;br&gt;需要併消耗1層&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_RESOURCE"&gt;墓藝&lt;/LSTag&gt;。</content>
+<content contentuid="he7d06227g0153ge1e8g6b74g2338954fa3d1" version="4">根據施放的法術學派，妳將獲得以下狀態之一：&lt;LSTag Type="Status" Tooltip="AV_SCHOOL_TALENT_ABJ"&gt;防護戰爭&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="AV_SCHOOL_TALENT_CONJ"&gt;咒法戰爭&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="AV_SCHOOL_TALENT_DIV"&gt;預言戰爭&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="AV_SCHOOL_TALENT_ENCH"&gt;惑控戰爭&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="AV_SCHOOL_TALENT_EVO"&gt;塑能戰爭&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="AV_SCHOOL_TALENT_ILLU"&gt;幻術戰爭&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="AV_SCHOOL_TALENT_NECRO"&gt;死靈戰爭&lt;/LSTag&gt;或&lt;LSTag Type="Status" Tooltip="AV_SCHOOL_TALENT_TRANS"&gt;變化戰爭&lt;/LSTag&gt;</content>
+<content contentuid="h328baebfge467g97dcg358ag3abde4435c25" version="1">亡者收割</content>
+<content contentuid="hf6200247gf8d6gf290g499dg5df941b0144e" version="1">當妳對敵人造成致命一擊時，獲得一層&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_RESOURCE"&gt;墓藝&lt;/LSTag&gt;。此效果每回合只能觸發一次。</content>
+<content contentuid="hfcbe2f47gf17eg1a3agff4agabf842be283f" version="1">此行為被視為一個法術。</content>
+<content contentuid="h1e1eba38g67b7g5bb8gb0e4g4c236ecea463" version="1">此行為被視為一個法術。</content>
+<content contentuid="h9da61436g8f58g11a1g80f0g2de0987ad28a" version="1">此行為被視為一個法術。</content>
+<content contentuid="h5d8516f4gdda7g19b9g8a23gdfbd9a51bc6b" version="1">此行為被視為一個法術。</content>
+<content contentuid="h1b120c09g2dd4gdf52ge439g5bdb624b7674" version="1">絕境談判</content>
+<content contentuid="he72b9d47g6a07g1befg7b6fg774545ab88af" version="3">使用妳的&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_RESOURCE"&gt;墓藝&lt;/LSTag&gt;創造一種壓倒性的存在感，可能迫使敵人&lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒伏&lt;/LSTag&gt;在妳面前。</content>
+<content contentuid="h71f96e05ge910g4574g1a63gfcef55359e0f" version="2">此行為被視為一個法術，併且僅在妳的生命值低於一半時可用。</content>
+<content contentuid="h135dfa02ge635g8bffgdc5cg7c0e9d680e35" version="1">此行為被視為一個法術。</content>
+<content contentuid="he1c707feg8c44g8fdfg011ag1a9e82e51172" version="1">墓箭（酸）</content>
+<content contentuid="ha58a8f57g5a98gf214gbaebga3fbfe8a3eee" version="1">墓箭（毒素）</content>
+<content contentuid="hc422085eg6837g39fdgba03g6b4d146933fc" version="1">墓箭（黯蝕）</content>
+<content contentuid="h2d9f39a7gc092g722dg2452g05856b72e6af" version="1">召喚[1]發邪惡能量彈，造成酸、毒素或黯蝕傷害，併可能根據妳的傷害類型產生其他效果。</content>
+<content contentuid="hfc22a940gb757g3c1eg5a1aga823f0a203b2" version="1">亡者面容（解除）</content>
+<content contentuid="h3d99b787g5286g4a2dg04a9gca5308905e4f" version="1">解除妳的不死狀態。</content>
+<content contentuid="he5334b27g2451g2513g65a5gdf492bf3fadf" version="1">亡者面容</content>
+<content contentuid="h3c81dc06ge96bg7021g94d1g29b62e5e8c8c" version="2">妳無法恢復生命值，影響不死生物的能力現在也會影響妳，併且由於施法而無法獲得&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_RESOURCE"&gt;墓藝點數&lt;/LSTag&gt;。在此期間，妳在攻擊擲骰上有優勢，免疫黯蝕傷害，對光耀、鈍擊、穿刺和揮砍傷害具有抗性，併且免疫毒素。</content>
+<content contentuid="h20b4b239g6d25g4d9fg0173g40f39600e48c" version="1">血浴洗禮</content>
+<content contentuid="h821071b8gab22g0a5dg250fgc013ab0e85dc" version="3">犧牲一些生命值將周圍[1]範圍內的地面覆蓋在血液中，對自己造成[2]。當此狀態激活時，如果妳站在血液中，妳會腐蝕周圍的環境，獲得&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_BLOODDETECTOR"&gt;血浴洗禮&lt;/LSTag&gt;狀態。需要併消耗3個&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_RESOURCE"&gt;墓藝點數&lt;/LSTag&gt;。</content>
+<content contentuid="he9f8eb8ag60fag5edege11dg57dac9f5c4f3" version="1">血浴洗禮</content>
+<content contentuid="hc5691e36g640cg3982g24bcg25328458680a" version="2">不屈意誌</content>
+<content contentuid="h467a2a59gc9d9gea44g7a5bge3f56f1eec86" version="6">在持續時間內，妳將根據失去的生命值減少受到的傷害。每失去[2]%的生命值，妳的傷害減免增加[1]。</content>
+<content contentuid="h7843efd5g07fag5aecg42f8gb087c18b0e68" version="1">此行為被視為一個法術。</content>
+<content contentuid="h339b5ca0gc2a7g369agf0b5g720699021df7" version="2">虛弱打擊</content>
+<content contentuid="hf6e58ea3g11b4g673bg5d5bg2b09eeb918d3" version="1">受影響的實體下次造成傷害時會減少1-4 。</content>
+<content contentuid="hbe2f71abg2fbcg5079g5433gc70b9cc93b4c" version="2">灼燒皮膚</content>
+<content contentuid="h5ddd9730ge80ag4657gf223gf01d1b88d13c" version="1">受影響的實體在接下來的一回合內，體質&lt;LSTagTooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;有1-4點的懲罰。</content>
+<content contentuid="hc1c62381g177dgeda6g7719gab3a66dded02" version="2">緩慢步伐</content>
+<content contentuid="he91d440eg02eag19a6gca75g72aa4acb8090" version="1">受影響的實體移動速度減少[1]。</content>
+<content contentuid="h20512189g46bdg4622gdc52g96ab491380b1" version="1">死亡均等</content>
+<content contentuid="hdfed4c4dga10agfaaegdfd4g05a39146608f" version="3">標記一個生物。每當您受到傷害時，該生物將受到相當於對妳造成傷害一半的傷害。需要併消耗4個&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_RESOURCE"&gt;墓藝點數&lt;/LSTag&gt;。</content>
+<content contentuid="hba7d853eg3486ge1b1g79e0g079f20b7b793" version="2">站在血液中時，妳將擁有&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_BLOODAURA"&gt;惡臭靈光&lt;/LSTag&gt;狀態。如果妳在站在血液中開始回合，妳吸收血液。如果妳的生命值高於一半，妳會受到[1]併可能陷入&lt;LSTag Type="Status" Tooltip="AV_BLEEDING_DEBUFF"&gt;稀釋之血&lt;/LSTag&gt;狀態。如果妳的生命值低於一半，妳將恢復[2]。</content>
+<content contentuid="h78e00480g1268gc296g4bb1g12d48bbe20e8" version="1">惡臭靈光</content>
+<content contentuid="h75c1bd60g1466gb8begff88g78f546230577" version="1">周圍的敵人視為處於&lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;睏難地形&lt;/LSTag&gt;中。</content>
+<content contentuid="hc2cfa5b3g7c22g3557g9d76g9e72f3f22baa" version="1">稀釋之血</content>
+<content contentuid="h769eb5eagb32fgd6a5ga10fg7014d056ff40" version="1">受影響的實體如果受到鈍擊、穿刺或揮砍傷害，可能會開始&lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;流血&lt;/LSTag&gt;。</content>
+<content contentuid="hc67e162fgc6dfgbfb9gbc17gdac2cb2ea93e" version="1">死亡均等（目標）</content>
+<content contentuid="hdff65b1bg7487g8586g9d68gb682aed3878f" version="1">受影響的實體在墓騎受到傷害時也會受到傷害。</content>
+<content contentuid="hde765e1ag7551gab93ga7a0ga009c5233ab9" version="1">死亡均等</content>
+<content contentuid="h6c168538gb9eaga6fcg15cegd3db9ec73dec" version="1">受影響的實體造成的傷害是所受傷害的一半。</content>
+<content contentuid="h9835c335g1aefg5035gc1f4geac56ef349d2" version="1">妳的下一個法術將產生一波死靈能量，導致&lt;LSTag Type="Status" Tooltip="CHILL_TOUCH"&gt;凍寒之觸&lt;/LSTag&gt;，併且可能使[2]範圍內的敵人陷入&lt;LSTag Type="Status" Tooltip="FEARED"&gt;恐懼&lt;/LSTag&gt;。</content>
+<content contentuid="h139037b1gf923g699dgbc99g779d5551efe8" version="1">召喚[1]發邪惡能量彈，造成[2]，併可能附加&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_POISCANTRIP"&gt;緩慢步伐&lt;/LSTag&gt;。</content>
+<content contentuid="h5ad41537g5b65g689bg5b3cg1d315a9a7471" version="1">召喚[1]發邪惡能量彈，造成[2]，併可能附加&lt;LSTag Type="Status" Tooltip="AV_GRAVEKNIGHT_NECROCANTRIP"&gt;虛弱打擊&lt;/LSTag&gt;。</content>
+<content contentuid="h5776e3ccgb60bgd47agf199g94ff4c90b81c" version="1">不屈意誌</content>
+<content contentuid="h55cbff37gfd57g3029gb4degb517b5c2769d" version="1">墓騎根據失去的生命值來減少受到的傷害。</content>
+<content contentuid="h60487b29g2312g18b3gb84fg528e894f54ee" version="1">刀鋒之舞</content>
+<content contentuid="hc101d108g18c5gab9egfd23g60014a0cddcf" version="1">在使用武器攻擊命中後，立即對同一目標進行一次副手攻擊。</content>
+<content contentuid="hf9e6485eg8569gb0e9g8710g9a1f7b11a1eb" version="3">焰狩</content>
+<content contentuid="h65838868geeb9ge548ga334g8ce872728abe" version="3">焰狩</content>
+<content contentuid="hf78472cbg9b0bg046bgf9a0g473fe4b386b1" version="2">研究九層地獄的惡魔，妳將帶來如同地獄探險家般的戰鬥能力。</content>
+<content contentuid="hb0f15caag884ag4f53g8393gd74a6540c33f" version="3">地獄狩獵</content>
+<content contentuid="h9a3faa08ga1deg36e6g36cagc97a5136c033" version="9">成功以武器攻擊命中目標後，妳將用“地獄獵物”標記該目標。當妳的獵物死亡時，妳將獲得其靈魂，併持續擁有該靈魂 10 回合。妳同時只能擁有一枚靈魂。當妳持有靈魂時，妳將無視火焰抗性，併可使用魔契羈絆相關動作。這些動作會消耗靈魂以產生不同效果。每次消耗靈魂時，妳會獲得 2 回合的&lt;LSTag Type="Status" Tooltip="MAG_FIRE_HEAT"&gt;灼熱&lt;/LSTag&gt;，併解鎖部分動作的額外使用次數。</content>
+<content contentuid="h690e01ecgd33cgea1eg6d12gfd68083d049e" version="1">地獄獵物</content>
+<content contentuid="h86786788g0832ga7a2g45f6g2eb8b138843c" version="1">地獄契約：狩獵盟約</content>
+<content contentuid="h5dc74759gddd5g7dc9g1c74gdc8acb092cd6" version="2">地獄契約：狩獵盟約</content>
+<content contentuid="hb7a2ba9bgcb8agc5ebg0119gee308da01b85" version="4">消耗一個靈魂來標記一個盟友生物。當這個生物使用攻擊擲骰對被標記為&lt;LSTag Type="Status" Tooltip="HELLIONAUT_SOUL_TARGET"&gt;地獄獵物&lt;/LSTag&gt;的目標造成傷害時，它會造成額外的[1]。</content>
+<content contentuid="he11f3ffeg4673g802fg732ag61e2548e408e" version="1">地獄烙印</content>
+<content contentuid="ha9cc8ea5g97aag1304g47bcge078c733495f" version="7">消耗一個靈魂來標記一個生物。當妳施加這個標記時，目標必須通過一次感知&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;，否則將對妳進入恐懼狀態。&lt;br&gt;&lt;br&gt;在妳下一個回合結束時，該生物會受到[1]或在成功進行體質&lt;LSTag Tooltip="Saving Throw"&gt;豁免擲骰&lt;/LSTag&gt;後受到一半的傷害。每次該生物受到傷害時，它還會額外受到[2]，最多不超過[3]。</content>
+<content contentuid="h3cf49cddgccbagdeebg6753g71f2752ab1b3" version="1">魔契羈絆</content>
+<content contentuid="h9f3f7807g7235g6711gc522g6ef0d81b7e7b" version="1">獻祭儀式</content>
+<content contentuid="h6c2b375agb6fbg7ef7g789cg656d160c45d8" version="3">當妳持有靈魂且在一個&lt;LSTag Tooltip="Saving Throw"&gt;豁免擲骰&lt;/LSTag&gt;失敗時，妳可以使用反應動作消耗靈魂，獲得等於妳的智力&lt;LSTagTooltip="AbilityModifier"&gt;修正值&lt;/LSTag&gt;的加值，可能將失敗轉變為成功。</content>
+<content contentuid="h59699d8fg94fag1ebag8444g23e6a726db4d" version="1">獻祭儀式</content>
+<content contentuid="hc23d9a53g4dafg273fgbf9cg218e6d89c204" version="1">當妳持有靈魂且在一個&lt;LSTag Tooltip="Saving Throw"&gt;豁免擲骰&lt;/LSTag&gt;失敗時，妳可以使用反應動作消耗靈魂，獲得等於妳的智力&lt;LSTagTooltip="AbilityModifier"&gt;修正值&lt;/LSTag&gt;的加值，可能將失敗轉變為成功。</content>
+<content contentuid="h338f055ag8a2dg98e8gea9bgceee3762b4f5" version="2">地獄報復</content>
+<content contentuid="h48737a3egeda8g2088g3d96g1b83d9b219cd" version="5">消耗一個靈魂來標記一個盟友生物或妳自己。當這個盟友受到傷害時，他們反射[1]，併具有對火焰和黯蝕傷害的&lt;LSTagTooltip="Resistance"&gt;抗性&lt;/LSTag&gt;。</content>
+<content contentuid="h3140e863gc814ga00fg533fgf053159010c5" version="1">雕刻藝術</content>
+<content contentuid="hf21dc11bga9fdg65c6ga227gae09e6228977" version="1">只有在“雕刻藝術”效果下才能使用的獨特能力</content>
+<content contentuid="h83e4de24g8a1dgda14gb7efg9352ecf8b033" version="1">魔契羈絆</content>
+<content contentuid="h7ac871c2gd796ga17fga3f7gcb599a61f9d4" version="1">只有在擁有靈魂時才能使用的特殊動作。</content>
+<content contentuid="h3625a6b1g68e9g6644g8841g7e0a861010a3" version="3">當妳擁有靈魂時，可以使用魔契羈絆。這些動作會消耗靈魂以產生各種效果。每次靈魂被消耗時，妳會獲得2回合的&lt;LSTag Type="Status" Tooltip="MAG_FIRE_HEAT"&gt;灼熱&lt;/LSTag&gt;併允許該子職業的一些職業技能額外使用次數。</content>
+<content contentuid="h31567af2g2ba5g5f7egae2dg21de2b3d3069" version="1">烈焰枷鎖</content>
+<content contentuid="haf4cc3e0g4ec5gcd13g4459gf2e9dcb57217" version="4">消耗一個靈魂來標記一個生物為&lt;LSTag Type="Status" Tooltip="HELLIONAUT_PYRIC_SHACKLES"&gt;熾烈枷鎖&lt;/LSTag&gt;。在此期間，該生物失去[1]&lt;LSTagTooltip="MovementSpeed"&gt;移動速度&lt;/LSTag&gt;。如果該生物在其回合中移動，則會獲得&lt;LSTag Type="Status" Tooltip="HELLIONAUT_PYRIC_SHACKLES_EFFECT"&gt;熾烈牽引&lt;/LSTag&gt;狀態，降低其護甲等級和豁免擲骰。</content>
+<content contentuid="h03903f37ged4cg7667g7d88g2ea11c4880df" version="1">熾烈枷鎖</content>
+<content contentuid="h9a898312g4527gac27g3fe2gd85e401b5cc8" version="1">熾焰幹涉</content>
+<content contentuid="h027448ffg9a90g5624g84d6g8c4a68b7db84" version="1">熾焰幹涉</content>
+<content contentuid="h72611e51g41b9ge3cbg15c7gf17ef66c8c05" version="4">當一個盟友受到傷害時，妳可以選擇調用地獄之力與其交換位置。這樣做時，攻擊者和所有附近的敵人必須進行一次敏捷豁免擲骰，否則將受到[1]。</content>
+<content contentuid="h051add5cg83e1g5f55gc289gf2d45e6fbc52" version="1">熾焰幹涉</content>
+<content contentuid="hbc21565dgbdd4gdff8ge95cge95b70afb046" version="1">與最近受到傷害的盟友交換位置。</content>
+<content contentuid="hbc1c7007gdc4fg8e44g5520g8792835e24f5" version="1">在此期間，如果妳從任何來源受到火焰傷害，妳將立即獲得2回合的&lt;LSTag Type="Status" Tooltip="MAG_FIRE_HEAT"&gt;灼熱&lt;/LSTag&gt;。</content>
+<content contentuid="h306297f0g757dg5438g23aage45eb3fbb354" version="1">地獄幻影</content>
+  <content contentuid="hc0da24b0gc752g7ee2ge85cg6538b65087c7" version="5">當妳成為攻擊擲骰的目標時，妳可以使其具有劣勢，可能將命中轉化為未命中。</content>
+<content contentuid="h3e38cd02g0442g2273g70e9g42d3e194249d" version="2">熾烈牽引</content>
+<content contentuid="h4e4d3786g0edag2377gea97g748f357931d7" version="1">阿弗納斯敕令</content>
+<content contentuid="h7b8fc151ga9ccgc80ag7153ga0a295412719" version="2">[1]範圍內的敵人必須成功通過一次感知豁免擲骰，否則在所有豁免擲骰上遭受劣勢。任何處於[1]範圍內的盟友獲得等同於其角色等級的臨時生命值，併在所有攻擊擲骰上具有優勢。這些效果將持續到妳的下一個回合開始。</content>
+<content contentuid="he64abb3bg9225g651cgdc9ag845e7ca59fd6" version="1">地獄重生</content>
+<content contentuid="h9b286678g7f2ag3a18g28e5gffd1f05f0262" version="1">熾焰幹涉</content>
+<content contentuid="h6b4c3fb8g8a34g549fg32f3gfb18eb5da8ec" version="2">當妳使用此能力時，妳獲得2回合的&lt;LSTag Type="Status" Tooltip="MAG_FIRE_HEAT"&gt;灼熱&lt;/LSTag&gt;。該能力不能再次使用，直到焰狩消耗另一個靈魂。</content>
+<content contentuid="h41501318gb760ge270gc783gf72f5e3f2929" version="1">當妳使用此能力時，妳也獲得2回合的&lt;LSTag Type="Status" Tooltip="MAG_FIRE_HEAT"&gt;灼熱&lt;/LSTag&gt;。該能力不能再次使用，直到焰狩消耗另一個靈魂。</content>
+<content contentuid="h65f63c61g2cd1g9709g2eb6g5c4b175ba6d3" version="1">靈魂容器</content>
+<content contentuid="hac7e35b1gaeb4gc9e3g4a5egc105c8848f69" version="2">如果妳擁有一個靈魂併且被降至0 ，妳反而會消耗這個靈魂併恢復[1]。</content>
+<content contentuid="hd7e9dcdag1eeeg3e40ge221g4c63bfe0d32d" version="1">妳的標記獵物已被擊敗。當擁有他們的靈魂時，妳無視火焰抗性。</content>
+<content contentuid="h1978ecbbg0241g1ad5g0229g507d1dc59799" version="2">受影響實體的移動速度有-2懲罰。移動將賦予&lt;LSTag Type="Status" Tooltip="HELLIONAUT_PYRIC_SHACKLES_EFFECT"&gt;熾烈牽引&lt;/LSTag&gt;狀態，降低其護甲等級2點和&lt;LSTag Tooltip="Saving Throw"&gt;豁免擲骰&lt;/LSTag&gt;1d4。</content>
+<content contentuid="h199f8c87g0db2gc535g3800g39d1ff698ee4" version="1">受影響實體的AC有-2懲罰，併且&lt;LSTag Tooltip="Saving Throw"&gt;豁免擲骰&lt;/LSTag&gt;有-1d4的懲罰。</content>
+<content contentuid="h63532926g788cg543bgf026g6ed33b535203" version="2">當一個盟友受到傷害時，妳可以選擇調用地獄力量與其交換位置。當妳這樣做時，攻擊者和所有附近的敵人必須進行一次敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;，否則將受到[1]。</content>
+<content contentuid="hd1eec981gf319g0659g728cge090a3109aaf" version="1">當妳使用此能力時，妳獲得2回合的&lt;LSTag Type="Status" Tooltip="MAG_FIRE_HEAT"&gt;灼熱&lt;/LSTag&gt;。該能力不能再次使用，直到焰狩消耗另一個靈魂。</content>
+<content contentuid="h81f3fd5eged78g0a52gf3aag62c6395e17e2" version="1">地獄幻影</content>
+<content contentuid="hb2556370g46acg5839g4289gace540878ef2" version="3">當成為攻擊擲骰的目標時，妳可以使該次攻擊擲骰具有&lt;LSTag Tooltip="Disadvantage"&gt;劣勢&lt;/LSTag&gt;，可能將命中變為未命中。</content>
+<content contentuid="h802b5962g190ag9762g15a9gfb9d2ef33ac7" version="1">當妳使用此能力時，妳也獲得2回合的&lt;LSTag Type="Status" Tooltip="MAG_FIRE_HEAT"&gt;灼熱&lt;/LSTag&gt;。該能力不能再次使用，直到焰狩消耗另一個靈魂。</content>
+<content contentuid="hc7f3641bg125ag2a86g24aeg67419f024317" version="1">靈魂護甲</content>
+<content contentuid="h8462f4b3gae9cge5e7g5979gb4edef49957b" version="3">當一個被地獄狩獵標記的生物被擊敗時，妳立即獲得[1]臨時生命值。當妳擁有這些臨時生命值時，妳對鈍擊、穿刺和揮砍傷害具有抗性。</content>
+<content contentuid="h6f2c40cbgbfa0g8bc4ge0abg9f033b8435e6" version="1">地獄契約：狩獵盟約</content>
+<content contentuid="h834d9a6eg2b4cge0e2g4389gced8ed03d0bd" version="1">受影響實體在所有攻擊擲骰中造成[3]，併對火焰傷害具有抗性。</content>
+<content contentuid="hbd0abbe0g8861g8d44g5b6bge84d0e71271e" version="1">地獄烙印</content>
+<content contentuid="h62c1dac2g5c3cg22fbg722aga01bb30d83b8" version="1">在焰狩的回合結束時，此效果將根據該實體受到的傷害次數造成火焰傷害。</content>
+<content contentuid="h68ecf846ge990ga920g6994g7009feafbfc8" version="1">地獄烙印</content>
+<content contentuid="ha790476ag573ag5954g709ag1fb70811ab5b" version="1">地獄契約：烈焰復仇</content>
+<content contentuid="hed733662gd4a8ga760g899dgaab68b8347b4" version="2">受影響實體對黯蝕和火焰傷害具有抗性。受到傷害時，反射3點火焰傷害。</content>
+<content contentuid="h1152985dg0f63g9af4g5980g0a14980656de" version="1">地獄契約：烈焰復仇</content>
+<content contentuid="hd8af38b7gdbfeg707egb1afg2778719e3e24" version="1">受到火焰傷害時，產生熱能。</content>
+<content contentuid="h5bdcc81cgb2e0gab3ag5c4fg469560b5d273" version="1">阿弗納斯敕令</content>
+<content contentuid="h76e6dc55g786cg6229gc7a3g095c0031d710" version="1">受影響實體在所有豁免擲骰上遭受劣勢。</content>
+<content contentuid="h2bc7f751gbb5dge1f2gccfagfacb352dfa8d" version="1">阿弗納斯敕令</content>
+<content contentuid="hc7f37325g1bdagb21cgc21cgb7600dc8c857" version="2">受影響實體在攻擊擲骰上具有優勢。</content>
+<content contentuid="hbece0f6eg965eg11b0ga663g528ad23139e4" version="1">靈魂護甲</content>
+<content contentuid="h82ef3191gf953gc0bag4c84gcbe8065adc3e" version="1">受影響實體對鈍擊、穿刺和揮砍傷害具有抗性。</content>
+<content contentuid="hfd3f85fdg279cg4063gfd2eg0f338600c9d4" version="1">毀滅烈焰</content>
+<content contentuid="heb3f0ebbg48e2g3a9cg6dbag6c49ad9bd621" version="1">當妳造成火焰傷害時，可以消耗一個靈魂以使觸發的能力造成最大傷害。</content>
+<content contentuid="h8039ea5bgd86bg9a29gf656g80344413d5a9" version="1">毀滅烈焰</content>
+<content contentuid="hfc3516a9g8a79g8a73ga3f4gaefc465b3a8d" version="1">當妳造成火焰傷害時，可以消耗一個靈魂以使觸發的能力造成最大傷害。</content>
+<content contentuid="h89349ac5g8f94gef56g54c4g7afc8a693d9a" version="1">死亡時，給予焰狩&lt;LSTag Type="Status" Tooltip="HELLIONAUT_SOUL_ACQUIRE"&gt;靈魂容器&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h8ff093c0gdef5gff31gd2cega892c93a499e" version="1">地獄烙印</content>
+  <content contentuid="h43b056f9g1cedg92a1g014ag592aca7ef413" version="1">地獄烙印</content>
+  <content contentuid="hbc3782c1gfe3bg001dgf69agb846b4adceed" version="1">地獄烙印</content>
+  <content contentuid="h19ec4da6ge9d8g9836g8c5eg6de7d3fdfc04" version="1">地獄烙印</content>
+  <content contentuid="h52b15c1dg4981ga580g0546g6670f6b37a3f" version="1">地獄烙印</content>
+  <content contentuid="h5e7bf972gf93fg648dg25bcg43e126c3e275" version="1">地獄烙印</content>
+  <content contentuid="h6c7ad5d6g903cg87e9g717dg23ce6bef14fb" version="1">地獄烙印</content>
+  <content contentuid="h3bd036e0gf573g7ddcg75b7gc3c7cb9c2df6" version="1">地獄烙印</content>
+  <content contentuid="hf4ba3054g37f5g9e3agdad3g6d27b6bd6d52" version="1">地獄烙印</content>
+  <content contentuid="h4d7e02cbgb38cg45d6ge2dbge1bf891d2b67" version="1">地獄烙印</content>
+  <content contentuid="h2f838564g2f53g9152g4624g76f61c175784" version="1">地獄報復</content>
+<content contentuid="hb302f141gfa05g78c5g7059gaa3feefab13d" version="1">受到傷害時，反射[1]。</content>
+<content contentuid="ha65128cbg4501g6ce5g9f7dg7a7fc97b74c7" version="1">地獄報復</content>
+<content contentuid="hadc098e2g5922g5328g0419g752ecf65ad3a" version="1">受到火焰傷害時，產生灼熱。</content>
+<content contentuid="h96c75e72g70b4gf172g3617g37c6200abda1" version="1">戰鬥雜技</content>
+<content contentuid="h16b51dbdg6d42g9906g6809g4d0b4cb77263" version="1">戰鬥雜技</content>
+<content contentuid="hfd6f96e1ge2acg00e3g1a38g7b9034e2c71f" version="2">當使用靈巧武器時，妳的非&lt;LSTag Tooltip="Cantrip"&gt;戲法&lt;/LSTag&gt;武器攻擊具有[1]範圍。</content>
+<content contentuid="hb3b02046g9627ge22cgdcd0gdc1a8e24a4e1" version="2">先鋒織法（攻擊）</content>
+<content contentuid="hf9390816g53fdg0119g61feg440d035b72e8" version="1">可以作為戲法動作的一部分進行一次武器攻擊。</content>
+<content contentuid="h28490827g5a6cg0965g5a9ag67dc8de41c41" version="2">先鋒織法（戲法）</content>
+<content contentuid="hebf90445g1fceg8bd4gf466gb9890c0a95bd" version="1">可以將一個戲法作為攻擊動作的一部分來施放。</content>
+<content contentuid="hea0e3642g3c6cgad0bge737geb81224d268d" version="1">先鋒戰技</content>
+<content contentuid="h27090871g5a38g2f91ged7bg177181e3e078" version="1">可以使用附贈動作代替施放戲法來施放一個法術作為攻擊動作的一部分。</content>
+<content contentuid="h42ae0757g278bg0739g2339g0933898aba49" version="1">此動作不能與雙手武器一起使用。</content>
+  <content contentuid="h44327c34gb3cfg5d52g550fg50c4414794a4" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="h94b96af8ga6ddg4b86g6640g539ed67eeccb" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="h99861615g8110g5898g7040g03842b9e198d" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="h43c370b1gb1d2g8dffga463g8cba2b281786" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="hee421dedgdd7ag9cb3g9e71g3a42071ee7ca" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="hf0eee59bgf33bg0385g983bg05214d28e60b" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="hfb3b359eg3725gbdabg3044g311da2893d89" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="h29838fabg1dedg6a27g1715ga9ebe5d8f848" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="hf290d43cg3418g9031ga125g3fbc0aa5d9c2" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="h5dbe6696gcde1g242dg76f4gdf87e66c9669" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="hcaf863eeg14cdgf164gd305gd6d12a69ed70" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="h54a13c40g17f0g9145g1ffag529b8693fc2e" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="h1083969bgf274g067bg717cgd2434b74d009" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="h9c9eb75bg7a73g8dcbg707bgc6642bb683f1" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="h369cf4a9ge9a6g7bfegf0c4gd4439e23bf07" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="h2134aa46gd5f5g01a1g4d9egedb2019294b7" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="h9525a28eg6142g5986g9b4dg7468c05cc5d3" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="hf82af089g745cg6de4g0d27ge2b13aeceda5" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="h835c83ddg01e2ga9feg07d6g0b8da4a5bd49" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="h165a5498ga89fg7657g7f97g37206cc22f39" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="h4089a876g3486gf7aagddcag1507b6181ce1" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="hc3fa8c6bg69e4gafc7g30b5gf0223af8f0b4" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="hc40904c8g4b73g0361g16f7g05490e4e4ea2" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="h756889e7g73d0g8c0eg96cdga22d2eef5f6b" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="hc3e08a21gab61ge0d9ge22fg6c3fe80764af" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="hcf2db1a7g8a57g9a1eg11cag15455cbb75ff" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="hded8e97bgc03eg3ccdg0898g6ff78716fbb6" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="h0e0bd946g7c79g98b2gfe03gdbe01284e6e1" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="h62e0f2b8ga235g4be0gc4bdg9ef7ea466aee" version="1">此動作不能與雙手武器一起使用.</content>
+  <content contentuid="hf21c4317ge8b8g6a56gf925g4049a1de9eb8" version="1">以太之刃</content>
+<content contentuid="h1b1d268fg60abg3ff8g2583ga7713e08d99b" version="1">如果妳的目標是盟友，法術自動成功。</content>
+<content contentuid="h3dfc9035g62deg3a3bgaadegba9976b49766" version="1">如果妳的目標是盟友，法術自動成功。</content>
+<content contentuid="h909e9185ga009g32f3g0b71gee40d2485074" version="1">知情侵略者</content>
+<content contentuid="h126b1a66g4cdfgba42g1a97ge6fdc2eefd0f" version="1">妳在威嚇&lt;LSTag Tooltip="AbilityCheck"&gt;檢定&lt;/LSTag&gt;上獲得等於妳的智力&lt;LSTag Tooltip="AbilityModifier"&gt;調整值&lt;/LSTag&gt;的加值。</content>
+<content contentuid="h8783e8fdgf22cge1d8gc782gc4685101a312" version="1">算計的騙子</content>
+<content contentuid="h6de99e0cg4f49gd1a9g084fg4c66a7e55782" version="1">妳在欺瞞&lt;LSTag Tooltip="AbilityCheck"&gt;檢定&lt;/LSTag&gt;上獲得等於妳的智力&lt;LSTag Tooltip="AbilityModifier"&gt;調整值&lt;/LSTag&gt;的加值。</content>
+<content contentuid="h047f599agf9d6gb230gb162ga99921587b52" version="1">社交名流技能</content>
+<content contentuid="h2784db3bgb8d8g9619g5bf6g161315fbd6d4" version="2">選擇一項研究來影響妳的社交互動。</content>
+<content contentuid="hda593443g7595g1393ga441g2c27dd2c640a" version="1">註意：在創建或重設專長後，可能需要卸下併重新裝備妳的武器。</content>
+<content contentuid="h53c12b4bg303eg3862g6472gb31f22d7bb0c" version="1">冰刀弓擊</content>
+<content contentuid="h1a3ca95cgd2a7geb32g625bg65da768e9df9" version="1">以太之刃</content>
+<content contentuid="h7f5cde94gfe53g29a2gc47ag82c940b172f9" version="1">以太之刃</content>
+<content contentuid="h9d5a3c20gfa18g581eg445fg60c51b282c2c" version="1">以太之刃</content>
+<content contentuid="h4cf3dab6ge0a4ga9e9g077bgbea4f86b2f6b" version="1">投擲施法</content>
+<content contentuid="hb01abd5cgdf92g077ag924egcaac5a0ac21a" version="1">妳的近戰法術攻擊擲骰獲得[1]範圍。</content>
+<content contentuid="h1d6d2121gb644g69acg9113g68bd7562d8a9" version="2">迅捷終結之舞</content>
+ <content contentuid="h526e3d37g647dg3131g99b0ge087416f67ff" version="3">妳以一次強力打擊結束妳的劍舞連擊，額外造成[1]，併增加妳的&lt;LSTag Tooltip="MovementSpeed"&gt;移動速度&lt;/LSTag&gt;[2]，併且被視為脫離戰鬥狀態。</content>
+<content contentuid="h19e2d044gc276gfdf7ga4a9gb3a7f0fe640e" version="1">此動作不能與雙手武器一起使用。</content>
+<content contentuid="h9618ad7eg2399gee92gf346g1d4b4904cbe4" version="2">力量終結之舞</content>
+<content contentuid="hd9ed3a6agaf45g8589gc1d5gf23e3d222764" version="4">妳以一次強力打擊結束妳的劍舞連擊，額外造成[1]，併將目標擊退[1]，併迫使目標進行一次力量&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;；失敗時施加&lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;束縛狀態&lt;/LSTag&gt;。</content>
+<content contentuid="h85a89110ge379g7848gc257g4a648f3e0963" version="1">此動作不能與雙手武器一起使用。</content>
+<content contentuid="h120bb697g5ef9g6ea9g1d9ag7a6d6666df0c" version="3">穿刺終結之舞</content>
+<content contentuid="h5316f7c1g1756gdac1gf25fg7ac3f40f0566" version="4">妳以一次強力打擊結束妳的劍舞連擊，額外造成[1]，併迫使目標進行一次體質&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;，施加&lt;LSTag Type="Status" Tooltip="DERVISH_DAMAGE_BOOST"&gt;穿刺狀態&lt;/LSTag&gt;，使目標在接下來的三次傷害中受到額外傷害。</content>
+<content contentuid="h9adbc389g3b51g430bgf32dgd58f1a12a5af" version="1">此動作不能與雙手武器一起使用。</content>
+<content contentuid="h539d9051g5841gfe65g3f76gf77746a1bc5e" version="1">精通劍術、法術和歌曲</content>
+<content contentuid="h896b2f53g87fbgbbb1ge6b3g3ae150e8c0a1" version="2">妳獲得對樂器和錶演技能的熟練度。</content>
+<content contentuid="h49aec4e9g8215g785aga98eg5551770b5ab2" version="1">舞步回旋</content>
+<content contentuid="h7e931e59gf5c3g2648gc4b8g32ba03b5f2cd" version="7">妳的劍舞組合在一起賦予特殊的攻擊。如果妳在4回合內連續使用戲法和法術劍舞，妳將獲得一個持續2回合的劍舞終結之舞。&lt;br&gt;&lt;br&gt;每個終結之舞消耗1個&lt;LSTag Tooltip="BonusAction"&gt;附贈動作&lt;/LSTag&gt;併有不同的效果。這些攻擊可以選擇消耗&lt;LSTag Tooltip="SpellSlot"&gt;法術位&lt;/LSTag&gt;來造成額外傷害。&lt;br&gt;&lt;br&gt;一旦使用終結之舞，妳的連擊將重置。</content>
+<content contentuid="h187fd65eg55deg0fa8g8dffgfe51eb7fad93" version="1">開場舞</content>
+<content contentuid="h025d60e3g9a6cg90b3g9ee3gc747a2e0c033" version="1">開場舞</content>
+<content contentuid="h295f029fg4edagbee8g0156g4517b924503a" version="2">守禦舞</content>
+<content contentuid="h57bec021gadceg26f1g50b4g6408cabaad89" version="1">開場舞</content>
+<content contentuid="h089e6c75g0618g8812gccf2g5b8d2e5c2f3d" version="1">開場舞</content>
+<content contentuid="h2464dae9g71a9gcc5eg15f5g9b56be350c04" version="1">開場舞</content>
+<content contentuid="h4cc3f399g6378g697egd746g601412008fb1" version="2">擾心舞</content>
+<content contentuid="h48024254g6020g9b17g722ag991f94b4550f" version="1">開場舞</content>
+<content contentuid="h63fedce5ga53bg7e3dg53fcg1b8aeb0e7ab9" version="1">開場舞</content>
+<content contentuid="h96581d95g28c1g7a9bge02bg4a02b62f07fe" version="1">開場舞</content>
+<content contentuid="hbd6f4e43g5a7dg3099gd744gf566f45340d9" version="2">預知舞</content>
+<content contentuid="h7fecdf54g4faegdfffg367eg0d655d8187ae" version="2">致殘舞</content>
+<content contentuid="hc3a9aaf7ge472ge9cbge68fge7f7df62be3f" version="1">開場舞</content>
+<content contentuid="h0f92d934g3cb7gc0fdgadc5g577ef3f6ebb9" version="1">開場舞</content>
+<content contentuid="hed79c3e9gc629g239fg135dg3ee4e7d09580" version="1">開場舞</content>
+<content contentuid="h164fb874g544egc64dgc2f1ge2607a10863e" version="2">迷人舞</content>
+<content contentuid="h7e20ed1bg5d0cg10d4g4fc3g9fb82ee89caa" version="1">開場舞</content>
+<content contentuid="hdd4dbdb4g6837g5a0fg082cg23723d501dd7" version="1">開場舞</content>
+<content contentuid="h16840c63gaa9eg6b95g03cbg92326c521594" version="1">開場舞</content>
+<content contentuid="h02784ce3g4077g3878g1b46g0370071213ca" version="2">迷人舞</content>
+<content contentuid="h29785a03gb3d4g64bbg4f1dg177bdddedb98" version="1">法術劍舞</content>
+<content contentuid="hfa34257fgb59fg9d26gee21g504af0dab142" version="1">受影響的實體減少受到的傷害。</content>
+<content contentuid="hb326e4c2gc540gcb8bgd262g3a09c9eb6442" version="1">法術劍舞</content>
+<content contentuid="h70dc1aadg9d15g7eb9g6d0bg432319ed7e5f" version="1">受影響的實體減少受到的傷害。</content>
+<content contentuid="h4cc76ec0g9372g6926g8cc3gdbf1e2411b90" version="1">法術劍舞</content>
+<content contentuid="hd81ad17cg7cbag7a61gc57dg9fdbf998d96d" version="1">受影響的實體減少受到的傷害。</content>
+ <content contentuid="h3b46389fg966eg5e06g0741g6deb25ea6107" version="2">戲法劍舞（傷害）</content>
+<content contentuid="hdf8b4d37g05a9gf9c4gbb14gd3cacbbbe31e" version="2">戲法劍舞（控制）</content>
+<content contentuid="h0c2885d9g65d3g1544g3dd6g0fb861554434" version="2">戲法劍舞（實用）</content>
+<content contentuid="hddff6e16g48c3g26d3g0f3bg0f778ab14f9c" version="2">法術劍舞（傷害）</content>
+<content contentuid="hb1376e42gb184g8f9agfa77g815186089f03" version="2">法術劍舞（控制）</content>
+<content contentuid="h58d0a1e1g2f5dg0ebcg79abg6c5d7521fa41" version="2">法術劍舞（實用）</content>
+<content contentuid="hc16ab36ag9ab2g498cg0d03g96dd462cec10" version="1">一旦使用終結之舞，妳的連擊將重置。</content>
+<content contentuid="hef100d22g1f3agcc85gdd43gb66179721f44" version="1">開場舞</content>
+<content contentuid="h712ccba8g0341gd828g235fg91a2a3eee45b" version="1">受影響的實體的&lt;LSTag Tooltip="Armour Class"&gt;護甲等級&lt;/LSTag&gt;降低[1]。</content>
+<content contentuid="h24dadb23gf1cega983g0d64g381b52620753" version="1">開場舞</content>
+<content contentuid="h79c6adb7ga023g8dc2gd245gaa7b9176281b" version="1">受影響的實體的&lt;LSTag Tooltip="Armour Class"&gt;護甲等級&lt;/LSTag&gt;降低[1]。</content>
+<content contentuid="h65ca646ag572dge4e0gec7ag2ba20b1e38fa" version="2">震撼舞</content>
+<content contentuid="h35fed9fagf0a2g66a2g08f8g19089c3ffd29" version="1">受影響的實體的&lt;LSTag Tooltip="Armour Class"&gt;護甲等級&lt;/LSTag&gt;降低[1]。</content>
+<content contentuid="h356c86a2g321bgbbb1g9dceg045c6a41b05c" version="1">受影響的實體的&lt;LSTag Tooltip="Armour Class"&gt;護甲等級&lt;/LSTag&gt;提高[1]。</content>
+<content contentuid="h3d19c5f6gc41eg10ebgbe83g6bf5aee72b32" version="1">受影響的實體的&lt;LSTag Tooltip="Armour Class"&gt;護甲等級&lt;/LSTag&gt;提高[1]。</content>
+<content contentuid="h12876c2dgc4b5ga5adg104bg0d7755dd928d" version="1">受影響的實體的&lt;LSTag Tooltip="Armour Class"&gt;護甲等級&lt;/LSTag&gt;提高[1]。</content>
+<content contentuid="he197902ag8c61g37e1g3e26g9a96e5d8a331" version="1">受影響的實體的攻擊檢定降低[1]。</content>
+<content contentuid="h73f13c04g3d35g4301g23d7gcad981506d83" version="1">受影響的實體的攻擊檢定降低[1]。</content>
+<content contentuid="h988a7e84g9be1g6003g9326g3d43db6a4a6e" version="1">受影響的實體的攻擊檢定降低[1]。</content>
+<content contentuid="he02b8351ga58cg1cf7g1996g28ec94aa9515" version="1">受影響的實體的攻擊檢定提高[1]。</content>
+<content contentuid="hcf803636g28ecg8951g7ab0g7a2a5b701db5" version="1">受影響的實體的攻擊檢定提高[1]。</content>
+<content contentuid="h088347e3g4be9gb112gec53gf460984a77d9" version="1">受影響的實體的攻擊檢定提高[1]。</content>
+<content contentuid="ha5e705f5g1f2fgf28dg7b96g3c0fbffedc26" version="1">受影響的實體失去移動速度，併且其力量、體質和敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;有-[1]懲罰。</content>
+<content contentuid="hbe0eeaeeg5db8gebeeg672ag06efea2c11a7" version="1">受影響的實體失去移動速度，併且其力量、體質和敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;有-[1]懲罰。</content>
+<content contentuid="h319a4173g06b9g7f1fge142g0138424c6ed0" version="1">受影響的實體失去移動速度，併且其力量、體質和敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;有-[1]懲罰。</content>
+<content contentuid="h90756a95g77c9gf14eg0bf8g5db5ff25df79" version="1">受影響的實體失去移動速度，併且其智力、感知和魅力&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;有+[1]懲罰。</content>
+<content contentuid="hc2719ed4gbbb4g3ed2gacd5g968465af96c4" version="1">受影響的實體失去移動速度，併且其智力、感知和魅力&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;有+[1]懲罰。</content>
+<content contentuid="h738c60f7g06d2g8b3aged1egf0134f0ce194" version="1">受影響的實體失去移動速度，併且其智力、感知和魅力&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;有+[1]懲罰。</content>
+<content contentuid="hc546fc35ga1b1g63c1gf7fegf648eb893a3d" version="1">受影響的實體減少受到的[1]。</content>
+<content contentuid="h6c6f8dd9ga36bgff86g4617gcc98e303d652" version="1">受影響的實體減少受到的[1]。</content>
+<content contentuid="h3b1b8edcg10e0g2327gdba3g28a5db809b8e" version="1">受影響的實體減少受到的[1]。</content>
+<content contentuid="h1efe8c14g9661g5d95gd80cgc3f434176e98" version="1">穿刺狀態</content>
+ <content contentuid="had8e294dgba7eg44dcgce57g4cc779314084" version="1">受影響的實體在受到傷害時將額外承受[1]。</content>
+<content contentuid="ha037e96cg947eg2817g0e1bged2a4f4982d3" version="1">妳最近使用的劍舞是傷害劍舞。</content>
+<content contentuid="h143dcc4bgb649g38eag1258g81517ca760a6" version="1">妳最近使用的劍舞是控制劍舞。</content>
+<content contentuid="ha7431317g1bd1gdd39g9438g372cdfc2ce00" version="1">妳最近使用的劍舞是實用劍舞。</content>
+<content contentuid="hf8d93645gfed8g6929ge6d5g753ee85f8493" version="1">妳最近使用的劍舞是傷害劍舞。</content>
+<content contentuid="h8d1ac7b2g0a84g3b2cga5c1ge14d8250606e" version="1">妳最近使用的劍舞是控制劍舞。</content>
+<content contentuid="h8bdf829cgdb1eg9db0g5fbegbcfc9dd188fb" version="1">妳最近使用的劍舞是實用劍舞。</content>
+<content contentuid="hf0f0a7a3geeadg1f79gc563gdb7cf87efd89" version="1">迅速</content>
+<content contentuid="heac5d62fgb103g8d3fged56g1e5ad6f1dbb9" version="1">受影響的實體移動速度增加[1]併且不會受到借機攻擊。</content>
+<content contentuid="h5043f740ge830g683bgec03gd29bf61af8c3" version="1">譴責舞</content>
+<content contentuid="h9101c1b3gbf3agdd3dgbae1g8a9bfce9372d" version="1">虛弱</content>
+<content contentuid="h66d4ad01g7e7egf1f4g3cd8g157c26708f03" version="1">受影響的實體每次造成傷害時減少[1]。</content>
+<content contentuid="hc2069e6egf9c7g65d6gc0cag805c7f3db36a" version="2">每當使用戲法或法術劍舞時，獲得一層奧術漸強。隨著層數增加，妳將獲得額外的好處，但使用終結之舞會重置纍積的漸強層數。&lt;br&gt;&lt;br&gt;在達到[1]層時，妳的武器攻擊暴擊閾值降低1。五層將給予妳在武器攻擊上額外的[3]。在達到[4]層時使用終結之舞將恢復一個一級&lt;LSTag Tooltip="SpellSlot"&gt;法術位&lt;/LSTag&gt;。</content>
+<content contentuid="h2826a3b2gcb8egcbe6g4d9cg6488623e1fc9" version="1">奧術漸強</content>
+<content contentuid="h8b3dd233gcf00g241bgdb73g436e5166f12b" version="1">將戲法的力量轉化為魔法劍舞，進行一次武器攻擊，額外造成[1]。</content>
+<content contentuid="h67fe52ccg9c8bg61bbgb4cfg2bd226dc1db9" version="1">將戲法的力量轉化為魔法劍舞，進行一次武器攻擊，使目標的&lt;LSTag Tooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;降低[1]，持續2回合。</content>
+<content contentuid="h68917f3egf8a8g0972g2543g7598d5314344" version="1">將戲法的力量轉化為魔法劍舞，進行一次武器攻擊，使自己的&lt;LSTag Tooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;提高[1]，持續2回合。</content>
+<content contentuid="h9652f884gb4a8ga49fg347dg27d39f1860c9" version="1">將戲法的力量轉化為魔法劍舞，進行一次武器攻擊，使目標的&lt;LSTag Type="Status" Tooltip="AttackRoll"&gt;攻擊檢定&lt;/LSTag&gt;降低[1]，持續2回合。</content>
+<content contentuid="h209447fcg3e75ge8c3g01d8g848aff3592e9" version="1">將戲法的力量轉化為魔法劍舞，進行一次武器攻擊，使所有自己的&lt;LSTag Type="Status" Tooltip="AttackRoll"&gt;攻擊檢定&lt;/LSTag&gt;提高[1]，持續2回合。</content>
+<content contentuid="hc3c13a32gb06dg0404ge96fg900ff7c4c9b1" version="1">將戲法的力量轉化為魔法劍舞，進行一次武器攻擊，使目標的&lt;LSTag Tooltip="MovementSpeed"&gt;移動速度&lt;/LSTag&gt;減半，併且其力量、敏捷和體質的&lt;LSTag Tooltip="Saving Throw"&gt;豁免擲骰&lt;/LSTag&gt;減少[1]，持續2回合。</content>
+<content contentuid="hd76a1b97g2c93g5e00g8a51gc73e0f68505d" version="1">將戲法的力量轉化為魔法劍舞，進行一次武器攻擊，使目標的感知、智力和魅力的&lt;LSTag Tooltip="Saving Throw"&gt;豁免擲骰&lt;/LSTag&gt;減少[1]，持續2回合。</content>
+<content contentuid="h676f215egb9f9g8cbfg8f49g1fd852bcd99e" version="1">進行一次由法術驅動的武器攻擊，額外造成[1]。</content>
+<content contentuid="hca01a9d3gd40egf6ccg3f69g1b45827f477f" version="1">進行一次由法術驅動的武器攻擊，額外造成[1]併迫使目標進行一次感知&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;，使其下一個回合無法攻擊妳。</content>
+<content contentuid="hc1ab4962gf914g23b9gc485g8a24b4056ce6" version="1">進行一次由法術驅動的武器攻擊，額外造成[1]併在接下來的2回合內減少所有受到的傷害[2]。</content>
+<content contentuid="hf30d1719g22aag499bg7da0g716c17534754" version="1">進行一次由法術驅動的武器攻擊，額外造成[1]併治療妳[2]。</content>
+<content contentuid="h2c145d91g6aaeg4f51gcd23g5d1810bf131c" version="1">進行一次由法術驅動的武器攻擊，額外造成[1]併迫使目標進行一次感知&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;，可能使目標處於&lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;恐懼狀態&lt;/LSTag&gt;。</content>
+<content contentuid="h3bfb8bd2g9ba2g5be1ge631gb3956c6a2b29" version="1">戰鬥雜技</content>
+<content contentuid="h6c5443a0g285bg680cgcba9gcc469816236a" version="1">震撼舞</content>
+<content contentuid="h28ca5951ge882gadeege1d3gc0117d6372ca" version="1">震撼舞</content>
+<content contentuid="h371a5dbfge939gf415g882dgcd4927ed3b33" version="1">震撼舞</content>
+<content contentuid="h89bb87b9g71e9g69a3g8fcdg3db31f500283" version="1">守禦舞</content>
+<content contentuid="h86f7f8b7g7c18g4926ga29agc4736e30a88b" version="1">守禦舞</content>
+<content contentuid="h15a588f8g02dfgf27age253gf688f4775955" version="1">守禦舞</content>
+<content contentuid="h9fed404fg4426g66f9g5236g21393c41dd00" version="1">擾心舞</content>
+<content contentuid="h9a469c9fgad5fg04dbgd1ceg39f018e25efa" version="1">擾心舞</content>
+<content contentuid="h61c8c35bg31c3g957dgbfefg98e9d48544c5" version="1">擾心舞</content>
+<content contentuid="h50aedb78gf423g35a6g165dg1eedeeb42e3a" version="1">預知舞</content>
+<content contentuid="h0aee6ec6g54dbg67b4g9567g065a644333fa" version="1">預知舞</content>
+<content contentuid="hd41ab505g0c71g9627g7c88ga19a5fa7c479" version="1">預知舞</content>
+<content contentuid="h8ba4107ag8710g0822g03e9gadb19edc6288" version="1">致殘舞</content>
+<content contentuid="h3d6c9cb8gd14ag82a8g2051g149f974cc0f1" version="1">致殘舞</content>
+<content contentuid="h47518af4g0a9ag7211g63beg50779a3d24c1" version="1">致殘舞</content>
+<content contentuid="had5eb4f3geb51ge07eg65deg201a08a25867" version="1">迷人舞</content>
+<content contentuid="h0697176dg06a8g7ecaga79eg79cf4f37266e" version="1">迷人舞</content>
+<content contentuid="h20183322g69edg154eg6a31g560ece0f008c" version="1">迷人舞</content>
+<content contentuid="hd954cd51ge6b6g1ba4gb1f7ge93441955f9b" version="1">堅毅舞</content>
+<content contentuid="h42adc5dbg8ff5gd41eg48cdg223b12a625ca" version="1">堅毅舞</content>
+<content contentuid="h407338bag21a0g68bdg8489g815ce04e8c2e" version="1">堅毅舞</content>
+  <content contentuid="ha9507d12gc443gdf86g5e4egb6683dec2737" version="1">當妳造成寒冷傷害時，妳將獲得&lt;LSTag Type="Status" Tooltip="FROST_FORM_SUBCLASS_FEATURE"&gt;霜行者&lt;/LSTag&gt;狀態直到妳的下一個回合結束。</content>
+<content contentuid="hdbd20d12g6b8cgc1ffgc907g9c7f830eed40" version="2">妳的戲法劍舞和法術劍舞在回合開始時總是准備好的，併且可以作為行動連續使用。</content>
+  <content contentuid="hb6321bb5g754dg822ag6d2dga6047424ecf1" version="1">%%%UNUSED</content>
+  <content contentuid="h5a6b8c68g30b2ge6f8gc675gdac9a2856f22" version="1">Blank</content>
+  <content contentuid="hd996a373g1053g9f10g80ddg04e910b57db0" version="1">%%%UNUSED</content>
+  <content contentuid="h50543e48g9128g04afg4e40g16d9d7e74fa2" version="1">%%%UNUSED</content>
+  <content contentuid="h82162df3g02aagf3ecgfc45g0a584edfb05c" version="1">%%%UNUSED</content>
+  <content contentuid="h9bdac1aag507agbee3g8d3cg66807ddad43b" version="1">%%%UNUSED</content>
+  <content contentuid="h83ecd080g9956gf9dcg1f70g39e8498ab3c9" version="1">%%%UNUSED</content>
+  <content contentuid="haf36d478g5ecegefb5gf965g9240afaddfdf" version="1">%%%UNUSED</content>
+  <content contentuid="h22818a09g7823gcbe9gdd4egc77ec728752c" version="1">%%%UNUSED</content>
+   <content contentuid="h7feb3973g48fdg0384g2c33gaa79615068db" version="2">ANIMATION OVERRIDE TEST</content>
+  <content contentuid="hdcea69b1g4df6gd80egeaf5gddbce1062412" version="1">EMPTY</content>
+  <content contentuid="hef6baefeg1b08g94abg38d6g20154e46f92f" version="1">奧術先鋒</content>
+  <content contentuid="h79fe4428g2568gfa0dg4eaag5602954e7a76" version="1">地獄狩獵</content>
+  <content contentuid="h44aa283dg7342gbb83g2d29gbf7592bca25e" version="1">邪術烙印</content>
+<content contentuid="hb8a1625ag6a6eg524bg96feg66737762ecbb" version="1">削弱弱者</content>
+<content contentuid="hf5f0a95bg19a4g4286g4b0dgb41691c337ba" version="1">用妳的武器攻擊一名被標記的目標。</content>
+<content contentuid="h8ba4c08fg783egf4bdg2438g937a84cdc032" version="21">導能法杖</content>
+<content contentuid="hb0ef1420g5b35ga566gdb08gcf05ca044557" version="21">這把武器源自遠域，由純粹的奧術能量構成，使持有者成為駕馭遠域混沌之力的媒介。</content>
+<content contentuid="hc3911b88gff39g813eg89eeg5c822b15eec9" version="3">邪術法杖</content>
+<content contentuid="h7441f7d4g737egc0d8ga6c6g054c7206b1ea" version="5">凝聚出一把法杖，用於引導來自遠域的魔法。這把武器有助於妳施展法術，擴展施法潛力。隨著等級提升，妳的法術豁免難度等級將隨之增強，併且使用此武器進行的近戰攻擊將變為遠程攻擊。</content>
+<content contentuid="hc553c111g99e8gd3b3g4968ge38cdca6abd6" version="1">邪術器具</content>
+<content contentuid="h00a3b9d9gb175g2181g02c3g15fc423de320" version="1">邪術卓越</content>
+<content contentuid="h96815047g474fg66e7gc8dfgf8cda27af2fe" version="1">當妳持握邪術器具時，妳的法術豁免難度等級獲得+[1]加值。該加值在11級和17級時進一步提升。</content>
+<content contentuid="h082d0fb7gf945g53b9g4a11g183a2c6325ad" version="1">邪術卓越</content>
+<content contentuid="h133e1d3ag2992g6628ga95egfb754dd9d495" version="1">當妳持握邪術器具時，妳的法術豁免難度等級獲得 +[1]加值。該加值在11級和17級時進一步提升。</content>
+<content contentuid="h33cb3bdbg7a5bgb327g5b98g7667bbf80855" version="1">邪術護甲</content>
+<content contentuid="h2ecd2fa1ga6cbg40cdg6176ged85023a6bb6" version="1">邪術護甲</content>
+<content contentuid="ha9449dfdg86e8g3395gc8cfga109c7b3aaac" version="1">以邪術能量包裹妳的軀體，使妳的護甲等級提高[1]，併在妳的回合結束時，可能使[2]範圍內的敵人陷入瘋狂狀態。</content>
+<content contentuid="h3c37443eg4245g9b10ge76ag567aadbb2fb9" version="2">瘋狂之軀</content>
+<content contentuid="h73eddf6fgbf8ag0a6ag8bd3g4e7afa471be4" version="2">邪術提燈</content>
+<content contentuid="h2683d3f2g08e3g5ccbg20c3g6bc9a6b0f5ea" version="1">邪術提燈</content>
+<content contentuid="hcf51badagbfcage374g6585g2fe28d99755f" version="1">召喚一盞……提燈，這不是很明顯嗎？</content>
+<content contentuid="h9f6492ceg16c1gf04agd02egf27184c264f0" version="2">邪術提燈</content>
+<content contentuid="hf6443d8egfb16gcb1eg6be3g31503c9cecd0" version="16">邪術提燈</content>
+<content contentuid="hc7471ebfg7fedg68b1gf668g07bfd3e351c1" version="4">當妳仔細聆聽時，會聽到仿佛來自彼岸生物的低語聲。</content>
+  <content contentuid="hfdfb5323ga5fdgdd0dg0f0cg5376fe143e36" version="1">邪術提燈之輝</content>
+<content contentuid="h3b8c2ce0g0f3eg73aag53b6gb03c3149a022" version="2">邪術提燈之輝</content>
+<content contentuid="hcfef9449g41e9g05ecg0d8ag69101bee2901" version="4">凝聚出一盞提燈，用於引導來自遠域的魔法。這把器具對處於其光芒範圍內的生物施加多種效果。</content>
+<content contentuid="h3e888971g9c8bg20d2g4259g346cc2ad67bc" version="2">提燈閃耀</content>
+<content contentuid="h0ce925fcgb99ag7d3eg5b52gb3b109f3f79d" version="4">點燃妳提燈中的光芒，可能使所有目標陷入&lt;LSTag Type="Status" Tooltip="BANE"&gt;詛咒&lt;/LSTag&gt;狀態。被標記了&lt;LSTag Type="Status" Tooltip="AV_ELDRITCH_MARK"&gt;邪術烙印&lt;/LSTag&gt;的目標還將額外受到[1]，若豁免成功則傷害減半。</content>
+<content contentuid="h9a0a96b6gac30g1a6fgdd12g1d2d9d75c59e" version="2">受影響單位在對抗魅惑和恐慌狀態時具有優勢。</content>
+<content contentuid="h63ad859eg59b6gbd76gf8c3gea0225081dd1" version="1">該單位正處於邪術提燈的光輝範圍內</content>
+<content contentuid="h1da540e8g7ff7g0045gf4ecgeb995c62f1db" version="1">邪術器具：法杖</content>
+<content contentuid="haa508b53g9fcag00cfg03edgf92e37c3bc9d" version="1">受影響單位的法術豁免難度等級獲得+[1]加值</content>
+<content contentuid="hd7f75c17g01b1ga766gedbag80b51bfbb42c" version="2">邪術器具：爆發</content>
+<content contentuid="h8e2282eeg307ag98f1g2e5ag11b0213015ba" version="4">通過妳的邪術器具釋放一波奧術能量，只要妳持有它，每種導管將觸發不同的效果。&lt;br&gt;&lt;br&gt;「施法者法杖」會強制進行一次感知&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;。敵人將受到[1]，若豁免成功則傷害減半。&lt;br&gt;&lt;br&gt;「遠視者的腹弩」會將敵人從妳身邊推開。&lt;br&gt;&lt;br&gt;「邪術提燈」將賦予盟友等同於其角色等級的&lt;LSTag Tooltip="TemporaryHitPoints"&gt;臨時生命值&lt;/LSTag&gt;。當這些生命值存在時，妳在豁免檢定中具有&lt;LSTag Tooltip="Advantage"&gt;優勢&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;「護甲形態」將恢復[2]，併使妳獲得2回合的以下抗性：鈍擊、穿刺、揮砍與心靈傷害抗性。</content>
+<content contentuid="h9d074343g8748g4159gd94agf8f3e42cad16" version="1">深淵視覺</content>
+<content contentuid="h227b1180gd37dgd690gb36cgdb251dd7f49e" version="1">深淵視覺</content>
+  <content contentuid="h56d8c9dfg42aeg91a8ga369ge9c205c8bc01" version="2">HIDDEN</content>
+  <content contentuid="hfc26aa64g9b90gffc6g7053ge4ac4e7cac41" version="2">HIDDEN</content>
+  <content contentuid="hc297fe44g6f04gdf56gfcc2gc87d5e4faacf" version="2">深淵視覺</content>
+<content contentuid="h64f7c133gf7d6g6cf2g6cd7g1813d5d0df00" version="3">妳和[1]範圍內的盟友可在黑暗中正常視物（包括魔法與非魔法黑暗），可視距離為[2]。</content>
+<content contentuid="hd29d6cd2gd6fbgd431gf50ag820bffe74f89" version="2">彼岸之握</content>
+<content contentuid="h1167c5ecg114bg84f7g4409gfffb6bb8e808" version="2">[1]範圍內的敵人將處於&lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;睏難地形&lt;/LSTag&gt;狀態，併且在妳的提燈光芒範圍內無法恢復生命值。</content>
+<content contentuid="heae4e949gc49fg7965g52e2g1f07539613b6" version="1">邪術器具：器具</content>
+<content contentuid="h04a3bfb8g9bfdgf376g108fg71b38cb753ba" version="1">選擇一件用於引導妳邪術能量的物品。</content>
+<content contentuid="hfbe8a313g12e8g5e1eg1602g8540f16dfc82" version="1">器具精通</content>
+<content contentuid="h17ce9e3fg0d88ga2c6gcbcdg6054209fb453" version="3">妳已精通所持器具的使用方式。妳可為某件器具選擇一個“精通動作”。要使用該動作，妳必須持有對應器具。</content>
+<content contentuid="h6885aa44g9cd8g6723g29c2gf86150e63fd4" version="1">無覺之輝</content>
+<content contentuid="hb9230f84gdc33g858bg7d47gc1c22849b615" version="2">通過妳的提燈之光釋放遠域的邪術之力，可能使所有處於其光芒中的敵人陷入&lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;睏惑&lt;/LSTag&gt;狀態。目標停留時間越長，越難抵抗；被標記了&lt;LSTag Type="Status" Tooltip="AV_ELDRITCH_MARK"&gt;邪術烙印&lt;/LSTag&gt;的目標更難以抵抗。</content>
+<content contentuid="h0eb12e1cg6ca1g4929g82e4g889d6c3d22bc" version="1">施法者法杖</content>
+<content contentuid="hfb624b3ag5bd2ge93fg71b0gfcbd2a9f84e9" version="1">神術師提燈</content>
+<content contentuid="hd93330a5g3fc4g38f7g4d64g86bb812ecab4" version="3">必須擁有「邪術先鋒」才能使用「神術師提燈」。</content>
+<content contentuid="hfd51705eg9b61g1315g2e0eg74ab9cde5f70" version="1">旋風必須先施放一個法術或戲法，此動作才可用。</content>
+<content contentuid="h8de8aa38g5d13g81d0g3f1egff3345342838" version="1">旋風必須先施放一個法術，此動作才可用。</content>
+<content contentuid="hf1555af5gb49eg57d8gab83g45551224d7f6" version="1">必須持有靈魂。</content>
+<content contentuid="h5a35762fg205dg4bacg0483gd13bc91f546f" version="2">墓騎在使用此動作前必須先充能其墓藝技能。</content>
+<content contentuid="hc25bd2bag9690g78f1gd024g85e662f29dcf" version="1">彼岸之握</content>
+<content contentuid="hdd0ec3e0g4daag49dfg23f1g7138f2e4a266" version="1">彼岸之握</content>
+<content contentuid="hafd34f04gee35g9c51g4d85g40285b46b6fc" version="3">睏惑之光</content>
+<content contentuid="h4e851ab0ge048g0c30g55a3g0afa051dd467" version="1">妳的提燈發出的光芒可能會使半徑範圍內的生物陷入&lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;睏惑&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h547cb021g2a32g4f9cg40b9ga98c3c8edddc" version="1">睏惑心智</content>
+ <content contentuid="h51e7a74eg616bg5333gcba6ga3c4a8147b26" version="2">受影響單位可能在其回合開始時陷入&lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;睏惑&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h142bb070gfbe7g769cgc856g13e61b382975" version="1">睏惑心智</content>
+<content contentuid="h831c00bdg9030g4c83ged90g279bb1d34509" version="1">目標可能在其回合開始時陷入&lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;睏惑&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h9f974472g520dg9957g4226g9f88ee3993a9" version="1">睏惑心智</content>
+<content contentuid="h418abb64g48e5g1a06g990ag3da956978b4b" version="1">目標可能在其回合開始時陷入&lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;睏惑&lt;/LSTag&gt;狀態。</content>
+<content contentuid="ha7e5e656g38eagd723g3daegbc89dfe7caca" version="1">睏惑心智</content>
+<content contentuid="h155e3a6bgd092g05b9g3989g5a903dbc982c" version="1">目標可能在其回合開始時陷入&lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;睏惑&lt;/LSTag&gt;狀態。</content>
+<content contentuid="hfa9090b8g5e04g2ecdgfff5g2a7f9118ed51" version="1">睏惑心智</content>
+<content contentuid="hc2344545gb1aag1c0cg706ag53b29bf6b9d4" version="1">目標可能在其回合開始時陷入&lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;睏惑&lt;/LSTag&gt;狀態。</content>
+<content contentuid="hc4f3ce24g2cecgea37g4d52g825da75d4159" version="1">睏惑心智</content>
+<content contentuid="hfffb8157gff23g5942g59b5g9a584aa8af49" version="1">目標可能在其回合開始時陷入&lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;睏惑&lt;/LSTag&gt;狀態。</content>
+<content contentuid="hc88c578agfe27g6451gd495gfb2cec687a42" version="1">睏惑心智</content>
+<content contentuid="h072e6192g0128g53a2ga1dcgb28add856153" version="1">目標可能在其回合開始時陷入&lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;睏惑&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h71c7dfcegea0dgb54bg8535gef3b4918d5f9" version="1">睏惑心智</content>
+<content contentuid="hade59872g6079g1be9g1fe9g1ce8ae6d7308" version="1">目標可能在其回合開始時陷入&lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;睏惑&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h1909c2cdgf59egdac8gb269g01977bb0791a" version="1">睏惑心智</content>
+<content contentuid="h49090098g37cfg81b2g7ec5gc619e1f878ed" version="1">目標可能在其回合開始時陷入&lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;睏惑&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h5d707ab1g9f1egb7fdg20efgd4110f3ba34e" version="1">睏惑心智</content>
+<content contentuid="h742af480ga6fegea20g72ccg0d3c16753160" version="1">目標可能在其回合開始時陷入&lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;睏惑&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h6db4757dg3a6cg6178gdf2fgffc956ca1fa4" version="1">睏惑心智</content>
+<content contentuid="h2abd5234g407cgce0cg7a64g8c994423a9a4" version="1">目標可能在其回合開始時陷入&lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;睏惑&lt;/LSTag&gt;狀態。</content>
+ <content contentuid="h9ab41d39gcb97g4962gc4bfg72d6e0e227c5" version="1">導能打擊</content>
+<content contentuid="hce07ff3eg9f7cg745egf866gdf519e1c2e57" version="3">使用妳的邪術器具進行遠程打擊，造成[1]，併對帶有妳的&lt;LSTag Type="Status" Tooltip="AV_ELDRITCH_MARK"&gt;邪術烙印&lt;/LSTag&gt;的目標施加&lt;LSTag Type="Status" Tooltip="MAG_PSYCHIC_MENTAL_FATIGUE"&gt;精神疲勞&lt;/LSTag&gt;狀態，併消耗該烙印。</content>
+<content contentuid="hfd32b1d7g2460ge534g8260g03769936c909" version="1">凝聚出一把法杖，用於引導來自遠域的魔法。這把武器有助於妳施展法術，擴展妳的施法潛力。</content>
+<content contentuid="h5d732697g1910g2118gb0dbg005029a4175d" version="1">召喚一盞提燈，用以引導來自遠域的魔法。此器具對其處於其光芒範圍內的目標施加多種效果。</content>
+<content contentuid="h58640110gf700g0441g904dg11b04700d903" version="1">邪術提燈之輝</content>
+<content contentuid="h74d9cb03g195dg989egee40gd0b10e8766a5" version="1">該單位正處於邪術提燈的光輝範圍內</content>
+<content contentuid="h821ff491g6e58g39f9gea91g680c551d90fb" version="1">受影響單位可能在其回合開始時陷入&lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;睏惑&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h4cc08417g5f4fgabb1g6991gc9bfa96e8c12" version="1">受影響單位可能在其回合開始時陷入&lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;睏惑&lt;/LSTag&gt;狀態。</content>
+<content contentuid="hb7228659g1af2gad1dg6ff6gfc66457d96b4" version="1">受影響單位可能在其回合開始時陷入&lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;睏惑&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h0f78da93g642egafdfg71bfg50c094fba29e" version="1">受影響單位可能在其回合開始時陷入&lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;睏惑&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h2d075efagd03ag4c4eg03e8g7e0960005ec9" version="1">受影響單位可能在其回合開始時陷入&lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;睏惑&lt;/LSTag&gt;狀態。</content>
+<content contentuid="hc64e9559gff8agee7cg86adg09be4c068131" version="1">受影響單位可能在其回合開始時陷入&lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;睏惑&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h53c61141g8bf7gaafbg41d9g8e3008429566" version="1">受影響單位可能在其回合開始時陷入&lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;睏惑&lt;/LSTag&gt;狀態。</content>
+<content contentuid="hfa847420g7cc1g73dcgbf22g4a1129f3fa8f" version="1">受影響單位可能在其回合開始時陷入&lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;睏惑&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h567bebf6g4e40g1ad9geee0g75a8ab55cef4" version="1">受影響單位可能在其回合開始時陷入&lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;睏惑&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h2aee634cgd5c3g18dbg707fg7f53465b8d78" version="1">受影響單位可能在其回合開始時陷入&lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;睏惑&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h5daca640g4b5dg11bcg61bdg82ded81f4961" version="2">邪術信徒</content>
+<content contentuid="h6b78fd36gff6eg1851g7a4cgab76596def8e" version="2">引導彼岸之力</content>
+<content contentuid="h717e4142gc8e7gea34gbd7bg1cd767fdf4ab" version="3">嚮前方釋放一波邪術能量，對區域內所有敵人造成[1]，併使帶有妳的&lt;LSTag Type="Status" Tooltip="AV_ELDRITCH_MARK"&gt;邪術烙印&lt;/LSTag&gt;的目標陷入&lt;LSTag Type="Status" Tooltip="FEARED"&gt;恐懼&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h7cb0e1fdg6b4fga968gb8b8gccd507812939" version="7">遠視者腹弩</content>
+<content contentuid="h323f43ceg342dg0264g4bd3g57ea4b62505f" version="3">遠視者腹弩</content>
+<content contentuid="h01de706bg207dgf65bg691dg85298a4355eb" version="8">召喚一把邪術弩。當妳攻擊帶有妳的&lt;LSTag Type="Status" Tooltip="AV_ELDRITCH_MARK"&gt;邪術烙印&lt;/LSTag&gt;的目標時具有&lt;LSTag Tooltip="Advantage"&gt;優勢&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;該器具將對被妳擊殺敵人的附近敵人施加&lt;LSTag Type="Status" Tooltip="CHARMED"&gt;魅惑&lt;/LSTag&gt;狀態；妳可以犧牲部分&lt;LSTag Tooltip="MovementSpeed"&gt;移動速度&lt;/LSTag&gt;來造成&lt;LSTag Type="Status" Tooltip="MAG_PSYCHIC_MENTAL_FATIGUE"&gt;精神疲勞&lt;/LSTag&gt;；在更高等級時，還可發射魔法弩箭，移除敵人一個狀態以換取額外傷害。</content>
+<content contentuid="hf9c2b562gddf0g18c0g140cgb73a91e49e54" version="2">遠程攻擊</content>
+ <content contentuid="hc62012d2g9b27g61feg88a0g548f0fa06169" version="1">削弱弱者</content>
+<content contentuid="hc1ce6ffegcda0g64ccg6806g5f0333707918" version="3">妳對帶有妳的&lt;LSTag Type="Status" Tooltip="AV_ELDRITCH_MARK"&gt;邪術烙印&lt;/LSTag&gt;的目標發動的首次攻擊具有優勢。該攻擊將消耗該烙印。</content>
+<content contentuid="h7cce8127gf0deg27d5g3ff6g4ba025e4d543" version="2">導能法杖</content>
+<content contentuid="h9f9e4c2cgc474gf6a4gfa16ga44aadc02393" version="1">神術師提燈</content>
+<content contentuid="hff36f680g429cg0698g9160g6ea3d952f754" version="1">遠視者腹弩</content>
+<content contentuid="ha9b727a4g69ceg02e6g893bg1a1bfbc8e970" version="5">地獄長袍</content>
+<content contentuid="hda18a134g67e0g25a3g4d98gabf8ccc397bd" version="4">米佐拉大概併非一開始就是像現在這樣性感而善於操控人心，成為像威尓這樣睏境靈魂的恩人。在地獄等級制度中談判的過程改變了她的形態——但她是否曾不那麽美麗、不那麽博學、不那麽意誌堅定？</content>
+<content contentuid="ha564f59cg7c78gc688ga48ag8e61897e3823" version="1">邪術器具</content>
+<content contentuid="hb029bd12g98ecg3d32g1938gb6be7dd5b9c8" version="3">邪術甲殼</content>
+<content contentuid="h73b15360g328fg12b8gfafcg10c2314e3dc9" version="2">貪婪魔像</content>
+<content contentuid="h5f91985dgb4adg6719gf09ag0296831e6ce8" version="2">當妳對一個法術的&lt;LSTag Tooltip="Saving Throw"&gt;豁免檢定&lt;/LSTag&gt;失敗時，妳可以使用反應讓妳的甲殼吞噬該法術，併獲得一次&lt;LSTagTooltip="Advantage"&gt;優勢&lt;/LSTag&gt;。如果這使得豁免成功，則妳恢復[1]。</content>
+<content contentuid="hb7c40f3bg41fag06c2gaba0g535e879de90d" version="1">邪術器具：精通</content>
+<content contentuid="hd7ac9c21g0542g5a91g4d04g84440a441c33" version="2">選擇一件妳已精通的器具，以獲得額外加成。若妳未持有該器具，則此精通無效。</content>
+<content contentuid="h129d5c21gc45ag1643g8f1eg0869d276411e" version="1">邪術甲殼</content>
+<content contentuid="h91ce9355g13fag7ecfgb9dbg4222f3a4fd39" version="10">召喚一套隨妳職業等級提升而成長的邪術護甲。帶有妳的&lt;LSTag Type="Status" Tooltip="AV_ELDRITCH_MARK"&gt;邪術烙印&lt;/LSTag&gt;的目標對妳進行攻擊骰時具有&lt;LSTag Tooltip="Disadvantage"&gt;劣勢&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;隨著妳在該職業上的提升，該器具將提供額外的&lt;LSTagTooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;、&lt;LSTagTooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;與&lt;LSTagTooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;加值，併允許妳重投一次豁免檢定。</content>
+<content contentuid="h2c7d5414g5645gd6dbg7d71g524211532430" version="1">提燈精通</content>
+<content contentuid="he1f2fad0gdf1fg807fg85d7ga0edd7d75f86" version="2">通過妳的提燈之光釋放遠域的邪術之力，可能使所有處於其光芒中的敵人陷入&lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;睏惑&lt;/LSTag&gt;狀態。目標停留時間越長，越難抵抗。</content>
+<content contentuid="hdec9d9fbg6934g0a85g69b2g5cabcc18b59e" version="1">法杖精通</content>
+<content contentuid="h747df51fg3c67gc142g5e79gbf76d0922a37" version="1">腹弩精通</content>
+ <content contentuid="hca78f28fgd680gc4c6gb219g5a556a673fc3" version="1">甲殼精通</content>
+<content contentuid="h5dd9547egc7e8g6cccga6aegdfea19df8809" version="1">召喚一把來自遠域的弩，用於引導魔法。妳的弩箭蘊含魔力潛能，併隨著妳等級提升而更加強大。當妳攻擊帶有妳的&lt;LSTag Type="Status" Tooltip="AV_ELDRITCH_MARK"&gt;邪術烙印&lt;/LSTag&gt;的目標時具有優勢。</content>
+<content contentuid="h934b1042g499egef20g6388g56732d994a91" version="1">邪術甲殼</content>
+<content contentuid="h49e9b803g397bg43fag25f4gc1e0c3cec150" version="1">召喚一套由邪術能量構成的護具，隨妳該職業等級提升增強自身防禦併提高最大生命值。帶有妳的&lt;LSTag Type="Status" Tooltip="AV_ELDRITCH_MARK"&gt;邪術烙印&lt;/LSTag&gt;的敵人在對妳進行攻擊時具有劣勢。</content>
+<content contentuid="h49248bc9gba54gf909g136fg0d780cb7292f" version="1">邪術信徒</content>
+<content contentuid="h523e5dbdga869gaedfg0961gbaff710f2af4" version="1">從[3]級開始，妳獲得一個額外的邪術師&lt;LSTagTooltip="SpellSlot"&gt;法術位&lt;/LSTag&gt;。該法術位初始為一環，分別在[1]級和[2]級提升其環位。</content>
+<content contentuid="h249d5975g0285g57a2gc095gab673aedfb9d" version="2">嚮前方釋放一波邪術能量，對區域內所有敵人造成[1]，併使帶有妳的&lt;LSTag Type="Status" Tooltip="AV_ELDRITCH_MARK"&gt;邪術烙印&lt;/LSTag&gt;的目標陷入&lt;LSTag Type="Status" Tooltip="FEARED"&gt;恐懼&lt;/LSTag&gt;狀態。</content>
+<content contentuid="hc7d43f81g5f03gd886g477cgd1ce1f0d156a" version="2">活體甲殼</content>
+<content contentuid="h9b40e1c9gf2e1ge2d5gd302gaf1bd48bdf40" version="1">穿戴此護甲期間，每當妳作為奧術先鋒獲得一級，妳的&lt;LSTagTooltip="HitPoints"&gt;最大生命值&lt;/LSTag&gt;增加[1]。</content>
+<content contentuid="ha9c77118ge5e5g6dc5ged27g38120bb04892" version="1">硬化材質</content>
+<content contentuid="h4e6f6e87g4579g60f7g0dc1g1d1c065b8be7" version="2">此護甲在[2]級時為妳提供額外[1]點的&lt;LSTagTooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;與&lt;LSTagTooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;加值。此數值在[3]級與[4]級時各再增加[1]點。</content>
+<content contentuid="heddbd9a3g949bg56d2gaf04g2aa8466d04f4" version="2">邪術器具爆發</content>
+<content contentuid="h0bc7971eg9ccegd83fgce25g27d02e6587e0" version="1">在持續時間內，妳的&lt;LSTagTooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;提高[1]點。每回合結束時，釋放一道瘋狂波動，迫使所有敵人進行一次感知&lt;LSTagTooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;，否則陷入&lt;LSTag Type="Status" Tooltip="MADNESS"&gt;瘋狂&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h4b4a2732gec1cge524g9014gb431c38a6398" version="2">先鋒禮裝</content>
+<content contentuid="h9ae8e372g0c65g550cg1c23g5ff362fc43f7" version="2">一套將施法便利性與戰鬥靈活性結合的服裝與護甲混合裝備。簡單，但實用。</content>
+<content contentuid="h6857d055gdd9fg03d3g548fge2ec010f1846" version="1">邪術器具</content>
+<content contentuid="hff05aa91g5193g4a75gaf5cg4e62a7c35548" version="1">此物品為邪術先鋒所召喚的導能器，僅召喚者可使用。</content>
+<content contentuid="h7c04b957gf3b2g38adge0b9gf225a643a5b5" version="1">此物品為邪術先鋒所召喚的導能器，僅召喚者可使用。</content>
+<content contentuid="hbad44093gd4cbg9651g8d0dg4dc3ad916443" version="1">邪術器具</content>
+<content contentuid="h5aa0369bgca2fgacc2g8cc5g853c7f95be3f" version="1">此物品為邪術先鋒所召喚的導能器，僅召喚者可使用。</content>
+<content contentuid="h47db68cage263g45f7gb743g46d3d4a55af9" version="1">此物品為邪術先鋒所召喚的導能器，僅召喚者可使用。</content>
+<content contentuid="h4654e13egc548g7e89g4197g537eb1c36c32" version="1">該單位最近對邪術先鋒的豁免失敗了。</content>
+<content contentuid="he690763dgc623g100cg1a23gf0d49f7d2b16" version="1">在持續時間內，妳的&lt;LSTagTooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;提高[1]點。每回合結束時，釋放一道瘋狂波動，迫使所有敵人進行一次感知&lt;LSTagTooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;，否則陷入&lt;LSTag Type="Status" Tooltip="MADNESS"&gt;瘋狂&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h3f8e3d22gd339g0dabgf063ga26b64636154" version="1">沈重烙印</content>
+<content contentuid="h2fdb998fga687gcc8fg6db4gdeb1eb466249" version="3">當妳對一名受妳的&lt;LSTag Type="Status" Tooltip="AV_ELDRITCH_MARK"&gt;邪術烙印&lt;/LSTag&gt;影響的目標成功進行武器攻擊後，目標將無法在下個回合結束前使用反應動作。</content>
+<content contentuid="h94e9fae4gab9agb13dg767eg693336dedd01" version="1">邪術器具</content>
+<content contentuid="h0917a0f2gfd5dg8dc5g5227gbd9968035078" version="1">此物品為邪術先鋒所召喚的導能器，僅召喚者可使用。</content>
+ <content contentuid="heac8d5d3ga819g4338g6a04g2160ef0c272b" version="1">消耗[1]點妳的&lt;LSTag Tooltip="MovementSpeed"&gt;移動速度&lt;/LSTag&gt;。妳的下一次遠程武器攻擊將附加2回合的&lt;LSTag Type="Status" Tooltip="MAG_PSYCHIC_MENTAL_FATIGUE"&gt;精神疲勞&lt;/LSTag&gt;。</content>
+<content contentuid="h315612d4g654fg32a8gb217g8d74d9e14116" version="1">需要邪術先鋒穿戴邪術甲殼。</content>
+<content contentuid="ha94ac45cg65f7gff5dg15eeg6fc2f0df838b" version="1">需要邪術先鋒裝備遠視者腹弩。</content>
+<content contentuid="he8518702g781cga738g7c2dg785040b6509e" version="1">需要邪術先鋒裝備導能法杖。</content>
+<content contentuid="h9fa625d1g3f91g9ac9g08eegf27a6ccebbeb" version="1">一把魔力弩，通過其所裝填的弩箭汲取來自遠域的混沌能量。</content>
+<content contentuid="hc6de0974ge9bag5949g1285g0b4c3d3afdf5" version="1">一件從遠域召喚而來的活體護甲，與穿戴者形成共生關繫，隨其成長以保護召喚者。</content>
+<content contentuid="h23c73bd4gdc17gc018g4541g186f5cf122e4" version="1">詛咒撕裂弩矢</content>
+<content contentuid="hfb494d99g71cdg4bfbg598fg0198797a8bb2" version="1">嚮一個受詛咒或負面狀態影響的目標發射弩矢。若命中，造成[1]和額外[2]，併清除目標身上的該狀態。</content>
+<content contentuid="h748ea75eg0613g9446geb93gc35f12f17a54" version="1">嚮一個受詛咒或負面狀態影響的目標發射弩矢。若命中，造成[1]和額外[2]，併清除目標身上的該狀態。</content>
+<content contentuid="h4801bd4eg628cgf2acg1344g1446e55508b2" version="1">在10回合內，妳的&lt;LSTagTooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;提高[1]點。每回合結束時，釋放一道瘋狂波動，迫使所有敵人進行一次感知&lt;LSTagTooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;，否則陷入&lt;LSTag Type="Status" Tooltip="MADNESS"&gt;瘋狂&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h3f3c7a78gd33cg9aa8g5c49g83d8a01abb53" version="1">深淵彼岸</content>
+<content contentuid="h8f91e973ga58cg992cg82begccb627fa4971" version="2">從[1]級開始，妳可以切換提燈所發出的有益或有害之光，在&lt;LSTag Type="Status" Tooltip="AV_ELDRITCHLANTERN_BUFF_AURA"&gt;深淵視覺&lt;/LSTag&gt;與&lt;LSTag Type="Status" Tooltip="AV_ELDRITCHLANTERN_DEBUFF_AURA"&gt;彼岸之握&lt;/LSTag&gt;之間切換。</content>
+<content contentuid="ha21604a5g6244gb751gea60g27c9b20a6679" version="1">迷人之光</content>
+<content contentuid="hb83076fcg08aag2405g63f2geee370e23ca5" version="1">在[1]級時，若一名處於妳提燈光芒範圍內的敵人受到心靈傷害，則它將被妳吸引，視野聚焦於妳。</content>
+<content contentuid="h89f321a9g4142geabbgbf1fge1588517dc4b" version="1">貪婪魔像</content>
+<content contentuid="hcf3e4e98g6d59geaa0g2107g57d29f1214e8" version="6">當妳作為奧術先鋒達到6級後，妳的活體甲殼允許妳在對抗法術時使用反應重投一次失敗的&lt;LSTag Tooltip="Saving Throw"&gt;豁免檢定&lt;/LSTag&gt;。如果這使得豁免成功，則妳恢復[1]。</content>
+<content contentuid="hb3ee48d3gff25g339fg515eg224b293670f0" version="1">先鋒禮裝</content>
+<content contentuid="hb73512b8gf06agafe7g3142g116a264e55f1" version="1">一套將施法便利性與戰鬥靈活性結合的服裝與護甲混合裝備。簡單，但實用。</content>
+  <content contentuid="h8445c4e8g3304gd12eg0913g3e868db2a0c6" version="1">%%% EMPTY</content>
+ <content contentuid="h5f03cc1bgdedeg3d7fgfe42g35d0f141a54f" version="1">撕裂心智</content>
+<content contentuid="ha25e5e1ag7a54g927bg0c8eg5b8ae827104f" version="1">邪術器具爆發</content>
+<content contentuid="hcd41ded5g0e36g05bcg2e5cg048f172af987" version="1">邪術先鋒使用提燈之光保護了該實體。</content>
+<content contentuid="h079c10d3g279egcf02g9af8gabc4db9e7653" version="1">邪術器具爆發</content>
+<content contentuid="h3f56ede0gf2c3ge6c0g153fg55a26305bf57" version="1">邪術先鋒對鈍擊、穿刺、揮砍和心靈傷害具有抗性。</content>
+<content contentuid="h0a5722c4g0119g4a15gb51bg578249b8e9d4" version="1">卓越法術專註</content>
+<content contentuid="h71b0d793g8378g3ae6gc4a8ga3e2ce95e113" version="1">在[2]級時，妳的&lt;LSTagTooltip="SpellDifficultyClass"&gt;法術豁免難度等級&lt;/LSTag&gt;增加[1]點。此數值在[3]級與[4]級時進一步提升。</content>
+<content contentuid="h8a7454c5g632agd922g9e67g59c3af98dec7" version="1">迷人擊殺</content>
+<content contentuid="h2f27ca76gcbf3gcfb4g9714gc92fe7141d8d" version="1">從3級開始，每當妳用此武器擊殺目標時，其附近敵人必須進行一次感知&lt;LSTag Tooltip="Saving Throw"&gt;豁免檢定&lt;/LSTag&gt;，否則將被妳&lt;LSTag Type="Status" Tooltip="CHARMED"&gt;魅惑&lt;/LSTag&gt;。</content>
+<content contentuid="hd51487dag6477g1e11gc031g76c525a30f1f" version="1">撕裂心智</content>
+<content contentuid="h87f1a7f7g959fg4667g8089gb0f7becd7b1d" version="1">從6級開始，妳可以犧牲一部分&lt;LSTag Tooltip="MovementSpeed"&gt;移動速度&lt;/LSTag&gt;，使下一次遠程武器攻擊附加&lt;LSTag Type="Status" Tooltip="MAG_PSYCHIC_MENTAL_FATIGUE"&gt;精神疲勞&lt;/LSTag&gt;狀態。</content>
+<content contentuid="hf4a42a6cge446g077bgb122ge94b7d282f56" version="1">當處於提燈光芒中時，該實體獲得黑暗視覺，併可於魔法黑暗中視物。</content>
+<content contentuid="h889fccd3g0d7ag66ccgb6dbgd35721eeb6e9" version="1">當處於提燈光芒中時，該實體無法恢復生命值，併被視為處於睏難地形中。</content>
+<content contentuid="hcbd3e274ga2e7g9336gd39ega94222528791" version="1">疲憊心智</content>
+<content contentuid="he56c7a1ag0010g70a2g6b2cg0a0b89554e26" version="1">受影響實體無法使用反應動作。</content>
+<content contentuid="h916bcb0ag7155g6e14g2206gd4f2d0f1a78f" version="1">撕裂心智</content>
+<content contentuid="h1ec84fc1gdd6ega4eag1d78g653133db529e" version="1">妳的下一次遠程武器攻擊將附加精神疲勞狀態。</content>
+</contentList>

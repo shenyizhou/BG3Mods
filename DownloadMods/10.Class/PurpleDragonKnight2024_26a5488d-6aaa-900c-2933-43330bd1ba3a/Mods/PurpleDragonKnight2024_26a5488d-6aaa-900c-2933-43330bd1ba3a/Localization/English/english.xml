@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<content contentuid="h98067f8bg190dg44ddgbc8fg014a6918ac8d" version="1">Purple Dragon Knight</content>
+	<content contentuid="h278262dfg078dg4915g95d8gaec1fe876eb4" version="1">The Purple Dragon Knights are paragons of valor and leadership who partner with amethyst dragons. Such knights aspire to protect the innocent and rally fellow adventurers to the causes of justice and freedom. These knights psionically bond with an amethyst dragon hatchling, irrevocably transforming both dragon and knight and allowing the dragon to grow in strength alongside its partner.</content>
+	<content contentuid="h67664a60g6424g4409gb7f8ge9c93dcd6cdb" version="1">Amethyst Dragon Companion</content>
+	<content contentuid="hbc8f85d3g2e39g483dg8694g06212f0b90b6" version="1">Call forth a bonded amethyst dragon that can fly and reposition enemies with its &lt;LSTag Type="Spell" Tooltip="Zone_GravityBreath"&gt;breath attack&lt;/LSTag&gt;. The dragon will grow and gain new abilities as you gain levels in this class.</content>
+	<content contentuid="heb80f501g3818g4b12ga846ge3871a323a42" version="1">You can revive your fallen dragon companion by expending the use of your &lt;LSTag Type="Spell" Tooltip="Shout_SecondWind"&gt;Second Wind&lt;/LSTag&gt; ability or taking a &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="he5e05173gda03g4582gb54fg47adc65d6ca4" version="1">Amethyst Dragon</content>
+	<content contentuid="hccecbf53g538eg4f83g8649g73ab3a5b6503" version="1">Rend</content>
+	<content contentuid="hae796afbgecf0g468agaf55g4349ae79c581" version="1">Attack a target with your claws.</content>
+	<content contentuid="h130276e6g816bg4c81g8453ga2878dcc4558" version="1">Stalwart Bond</content>
+	<content contentuid="hd84fee33g350bg42abg87bdg13775199ba49" version="1">Entity's &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; is equal to that of its bonded Knight. In addition, half of the Knight's Proficiency Bonus is added to any &lt;LSTag Tooltip="AbilityCheck"&gt;ability check&lt;/LSTag&gt; or &lt;LSTag Tooltip="SavingThrow"&gt;saving throw&lt;/LSTag&gt; the entity makes.&lt;br&gt;&lt;br&gt;The Knight's &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; modifier is applied to the entity's &lt;LSTag Tooltip="ArmorClass"&gt;AC&lt;/LSTag&gt;, spell save &lt;LSTag Tooltip="DifficultyClass"&gt;DC&lt;/LSTag&gt;, &lt;LSTag Tooltip="AttackRoll"&gt;attack rolls&lt;/LSTag&gt;, and attack damage.</content>
+	<content contentuid="hc81aa04bg6999g408cgbe59g85416b29cdfb" version="1">Your &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; modifier is applied to the dragon's abilities and defenses.</content>
+	<content contentuid="h9d7c3016g6376g4f41g910ag3241429d15a0" version="1">Dodge</content>
+    <content contentuid="h87128534gb376g494cg912cg69bc3f27ffdc" version="1">Until the start of your next turn, any &lt;LSTag Tooltip="AttackRoll"&gt;attack rolls&lt;/LSTag&gt; made against you has &lt;LSTag Tooltip="Disadvantage"&gt;disadvantage&lt;/LSTag&gt;, and you make Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;saving throws&lt;/LSTag&gt; with &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt;. You lose this benefit if you are either incapacitated or immobilized.</content>
+	<content contentuid="hc81a9a89g45a1g4367g8511g8a14a3082212" version="1">Flight: Hover</content>
+	<content contentuid="hdbb28256gb1d6g40bdga726gd6c4158443bd" version="1">Hover in the air to avoid &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;difficult terrain&lt;/LSTag&gt; and most surfaces.</content>
+	<content contentuid="hbde39d6dg60b9g44f1g9bc8g71d1b5f80411" version="1">Hovering</content>
+	<content contentuid="h4380a820gb5b5g4a2dgb56fgec5cf2dfe8c6" version="1">Suspended in the air.</content>
+	<content contentuid="h294d4374gb1c6g4445g9a01gbcd3ba9e366c" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You must land to attack.</content>
+	<content contentuid="h91b775f9g64cbg4c6dgace5g67bd9ba421ec" version="1">Gravity Breath</content>
+	<content contentuid="hc0643814gd0efg4f66gaea7ge6552b07e034" version="1">Breath Weapon</content>
+	<content contentuid="h784f6ffag597bg44f9g9aadg052369784d60" version="1">Unleash a localized shift in gravity that can push or pull creatures inside the affected area.</content>
+	<content contentuid="h7f4b928eg775ag4bd0gb19ag804e179aacaa" version="1">Amethyst dragons can breathe a cone of energy that shifts gravity.</content>
+	<content contentuid="h1b4d09b5gf9d4g4ca0gabacgd823bdd8a517" version="1">Must land to attack.</content>
+	<content contentuid="hbc5b9236gf364g440fgbf01gf41bc550a368" version="1">Gravity Breath: Push</content>
+	<content contentuid="h57b694ccg86a2g4bc2g810eg750447e57ba8" version="1">Push a target [1] away from you.</content>
+	<content contentuid="hf9fd7b5cg86aag4cb6gba9dg64de8b970cec" version="1">Gravity Breath: Pull</content>
+	<content contentuid="hc3bd4470g7699g4aeag8bc4gd0a18e56503b" version="1">Pull a target [1] toward you.</content>
+	<content contentuid="he3e5629egf92ag413fg8df7gdd9fe12e421a" version="1">Shared Second Wind</content>
+	<content contentuid="h7149dca8g689bg4ee7g948dgd6048b116961" version="1">When you use your &lt;LSTag Type="Spell" Tooltip="Shout_SecondWind"&gt;Second Wind&lt;/LSTag&gt; ability, your bonded dragon companion regains [1] plus [2] and one use of its &lt;LSTag Type="Spell" Tooltip="Zone_GravityBreath"&gt;Gravity Breath&lt;/LSTag&gt;.</content>
+	<content contentuid="hd5717c4dg80bfg43edg85f9gaf171b90ba1e" version="1">Regain hit points and one use of your &lt;LSTag Type="Spell" Tooltip="Zone_GravityBreath"&gt;Gravity Breath&lt;/LSTag&gt;.</content>
+	<content contentuid="h935a9bfcge498g4c03g93a1ga931545f15fd" version="1">Dragon Mount</content>
+	<content contentuid="head8a631g7254g46efg87e0gbed339e65df1" version="1">Your bonded dragon has grown to Medium size, and can carry you for brief distances.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Your dragon will stop hovering for the turn it carries you.</content>
+	<content contentuid="hf9dfe1f9g5c30g4794gac23g383df68dadc4" version="1">Improved Gravity Breath</content>
+	<content contentuid="hb3be0e42g004cg465egab65g84d8d9a50454" version="1">Your bonded dragon's &lt;LSTag Type="Spell" Tooltip="Zone_GravityBreath"&gt;Gravity Breath&lt;/LSTag&gt; can be used [1] times per day, increases to a [2] cone, and deals [3] to a target that fails its &lt;LSTag Tooltip="SavingThrow"&gt;saving throw&lt;/LSTag&gt;.</content>
+	<content contentuid="hde014cf6g0ab0g4fa2gb2d0g3c243c9a3802" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Your dragon will stop hovering for the turn it carries you.</content>
+	<content contentuid="ha93aee47g0476g4187gbc0eg30f4ffa8f00a" version="1">Flight: Carry Knight</content>
+	<content contentuid="hfd2c8291gdfbag4e06g9126gc2a534645330" version="1">Take to the sky, moving your bonded knight to a space within [1].</content>
+	<content contentuid="hc06bccbega3ecg4878gb062g8c02d5adc5f1" version="1">Must be bonded knight.</content>
+	<content contentuid="h7d44ae38geb8fg45b4ga238g90bdf0d3111f" version="1">Must be Medium or smaller size.</content>
+	<content contentuid="h80be15bdg2a85g4c42g8b43gd1ac06093f9d" version="1">Rallying Surge</content>
+	<content contentuid="hff00ecdeg4ac9g4754ga3e3g8d1e602229cb" version="1">Rallying Surge: Advance</content>
+	<content contentuid="ha680cc05g6b19g4472gb0c8gcf4034507c6d" version="1">Rallying Surge: Retreat</content>
+	<content contentuid="h7f49f61dg8a93g4240gac6dg498077bca554" version="1">When you use your &lt;LSTag Type="Spell" Tooltip="Shout_ActionSurge"&gt;Action Surge&lt;/LSTag&gt; ability, up to three allies can use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to either attack or move.</content>
+	<content contentuid="hce5bfc81g1e32g424bg92aagd6bd345557de" version="1">Direct an ally within [1] to attack a nearby foe.</content>
+	<content contentuid="hafe76117g36b3g48e8ga9c7g2891253f9998" version="1">Direct an ally within [1] to move to a space near you. They will not provoke an &lt;LSTag Tooltip="OpportunityAttack"&gt;opportunity attack&lt;/LSTag&gt;.</content>
+	<content contentuid="h7d9791deg5b94g48c7g96c2gf078c062459c" version="1">Has already been rallied.</content>
+	<content contentuid="hbde61db4g259fg4ae2gbca9g811804fe0d9e" version="1">Must have enemy in range.</content>
+	<content contentuid="h8735b6eagbdcag44e7gb0ebg68c54dc50f8f" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; The ally must have an enemy in range of its active weapon or unarmed strike.</content>
+	<content contentuid="h9091d8f7g1a74g4846g98a4gb4ccd9bbb722" version="1">Make an attack with a weapon or unarmed strike against a target within range in response to a Purple Dragon Knight's &lt;LSTag Type="Spell" Tooltip="Shout_ActionSurge"&gt;Action Surge&lt;/LSTag&gt;.</content>
+	<content contentuid="h3ba8440bgd707g461fg8841gdc79e7cda448" version="1">Move to a new location in response to a Purple Dragon Knight's &lt;LSTag Type="Spell" Tooltip="Shout_ActionSurge"&gt;Action Surge&lt;/LSTag&gt; without provoking an &lt;LSTag Tooltip="OpportunityAttack"&gt;opportunity attack&lt;/LSTag&gt;.</content>
+	<content contentuid="h39e2233eg3101g433cg934dgf7d49231e717" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; The ally must have an unobstructed path to you.</content>
+	<content contentuid="h8ebbf2dbg4be4g45fbg825ag94a88f2c8ec5" version="1">Must be closer to ally.</content>
+	<content contentuid="h14fb24d2ge59dg4949g9809ge4467d7de708" version="1">Change Shape</content>
+	<content contentuid="he9ed267eg3196g4b1cgb52dgd5096412d6cb" version="1">Magically alter your size and shape to ease overland travel.</content>
+	<content contentuid="h08dba440g7aabg4e1fgb4a8g15be528ed276" version="1">Superior Mount</content>
+	<content contentuid="h8def71f0g5513g4868gbcfeg030385138746" version="1">Your bonded dragon has grown to Large size and has increased speed. It can carry you for brief distances and attack while maintaining its ability to &lt;LSTag Type="Passive" Tooltip="Hover_PurpleDragon"&gt;hover&lt;/LSTag&gt;.</content>
+	<content contentuid="hf12303ebgab3eg400bg9319g2b1d67893510" version="1">Your bonded dragon's &lt;LSTag Type="Spell" Tooltip="Zone_GravityBreath"&gt;Gravity Breath&lt;/LSTag&gt; can be used [1] times per day.</content>
+	<content contentuid="hfc19ff60g9eeeg4ecbg824ag099a8d609b54" version="1">Tandem Attack</content>
+	<content contentuid="h890b01c5g21afg48f6g9e5dgc9e83e012c54" version="1">As part of your attack action, command your bonded dragon to use its &lt;LSTag Type="Spell" Tooltip="Target_Rend_PurpleDragon"&gt;Rend&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="Zone_GravityBreath_2"&gt;Gravity Breath&lt;/LSTag&gt;.</content>
+	<content contentuid="hf0cd7702g8f5ag4fc0g9e2bgb3437914abe9" version="1">Tandem Attack: Rend</content>
+	<content contentuid="h41ab2777g6fd5g4630g9256g150ea290658b" version="1">As part of your attack action, forego one attack to command your bonded dragon to use its &lt;LSTag Type="Spell" Tooltip="Target_Rend_PurpleDragon"&gt;Rend&lt;/LSTag&gt; ability against an enemy within range.</content>
+	<content contentuid="h824cdf56gd847g4c7cg8190gcd25e5627b6c" version="1">On your turn, you can forego one or more of your attacks to command your bonded dragon to attack a nearby foe.</content>
+	<content contentuid="hc7d5f1fbg830dg4f51g9fd7gef6f5845fd54" version="1">Not in melee range of dragon.</content>
+	<content contentuid="hb589118cgdc53g4500gbd25g35e935ff19a9" version="1">Tandem Attack: Gravity Breath</content>
+	<content contentuid="h6f4773a2gcaeeg43cegb82ag9b2f5eb0a2ba" version="1">As part of your attack action, forego two attacks to command your bonded dragon to use its &lt;LSTag Type="Spell" Tooltip="Zone_GravityBreath_2"&gt;Gravity Breath&lt;/LSTag&gt; ability against an enemy within range.</content>
+	<content contentuid="hac5db74fg89ebg48d3g8b30g88796b4bcbc9" version="1">Not in breath range of dragon.</content>
+	<content contentuid="hffed0b25g3610g4226gb4dcgaf503870086c" version="1">Enduring Commander</content>
+	<content contentuid="hc0cf5237g98abg412eg81eag519ca56e27f1" version="1">You and your bonded dragon have &lt;LSTag Tooltip="Resistant"&gt;resistance&lt;/LSTag&gt; to Force and Psychic damage.</content>
+	<content contentuid="hda06eac5gc8e9g4f90gad70geb7332d6b6d1" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; This will count as two attacks for the purpose of determining how many remaining attacks you can make as part of your &lt;LSTag Type="Passive" Tooltip="ExtraAttack"&gt;extra attack&lt;/LSTag&gt; ability.</content>
+</contentList>

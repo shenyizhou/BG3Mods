@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <content contentuid="h98067f8bg190dg44ddgbc8fg014a6918ac8d" version="1">紫龙骑士</content>
+    <content contentuid="h278262dfg078dg4915g95d8gaec1fe876eb4" version="1">紫龙骑士是勇气与领导力的典范，与紫晶龙缔结契约。这些骑士立志守护无辜，号召同伴为正义与自由而战。通过心灵羁绊与紫晶幼龙建立不可逆的联结，使龙与骑士共同成长。</content>
+    <content contentuid="h67664a60g6424g4409gb7f8ge9c93dcd6cdb" version="1">紫晶龙伴</content>
+    <content contentuid="hbc8f85d3g2e39g483dg8694g06212f0b90b6" version="1">召唤契约紫晶龙，可飞行并使用&lt;LSTag Type="Spell" Tooltip="Zone_GravityBreath"&gt;重力吐息&lt;/LSTag&gt;改变敌人站位。紫龙会随职业等级成长并获得新能力</content>
+    <content contentuid="heb80f501g3818g4b12ga846ge3871a323a42" version="1">可通过消耗&lt;LSTag Type="Spell" Tooltip="Shout_SecondWind"&gt;回气&lt;/LSTag&gt;能力或进行&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;复活龙伙伴</content>
+    <content contentuid="he5e05173gda03g4582gb54fg47adc65d6ca4" version="1">紫晶龙</content>
+    <content contentuid="hccecbf53g538eg4f83g8649g73ab3a5b6503" version="1">撕裂</content>
+    <content contentuid="hae796afbgecf0g468agaf55g4349ae79c581" version="1">用龙爪攻击目标</content>
+    <content contentuid="h130276e6g816bg4c81g8453ga2878dcc4558" version="1">坚定羁绊</content>
+    <content contentuid="hd84fee33g350bg42abg87bdg13775199ba49" version="1">共享骑士的&lt;LSTag Tooltip="ProficiencyBonus"&gt;熟练加值&lt;/LSTag&gt;，其&lt;LSTag Tooltip="AbilityCheck"&gt;属性检定&lt;/LSTag&gt;与&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;额外获得半数熟练加值&lt;br&gt;&lt;br&gt;骑士的&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;调整值影响紫龙的&lt;LSTag Tooltip="ArmorClass"&gt;AC&lt;/LSTag&gt;、法术&lt;LSTag Tooltip="DifficultyClass"&gt;DC&lt;/LSTag&gt;、&lt;LSTag Tooltip="AttackRoll"&gt;攻击骰&lt;/LSTag&gt;与伤害</content>
+    <content contentuid="hc81aa04bg6999g408cgbe59g85416b29cdfb" version="1">你的&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;调整值影响紫龙能力与防御</content>
+    <content contentuid="h9d7c3016g6376g4f41g910ag3241429d15a0" version="1">闪避</content>
+    <content contentuid="h87128534gb376g494cg912cg69bc3f27ffdc" version="1">直至下回合开始：攻击你的目标具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;，你的敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免&lt;/LSTag&gt;获得&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。失能或受困时失效</content>
+    <content contentuid="hc81a9a89g45a1g4367g8511g8a14a3082212" version="1">飞行：悬停</content>
+    <content contentuid="hdbb28256gb1d6g40bdga726gd6c4158443bd" version="1">空中悬停时无视&lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;困难地形&lt;/LSTag&gt;与多数地表效果</content>
+    <content contentuid="hbde39d6dg60b9g44f1g9bc8g71d1b5f80411" version="1">悬停状态</content>
+    <content contentuid="h4380a820gb5b5g4a2dgb56fgec5cf2dfe8c6" version="1">悬浮于空中</content>
+    <content contentuid="h294d4374gb1c6g4445g9a01gbcd3ba9e366c" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; 必须着陆才能攻击</content>
+    <content contentuid="h91b775f9g64cbg4c6dgace5g67bd9ba421ec" version="1">重力吐息</content>
+    <content contentuid="hc0643814gd0efg4f66gaea7ge6552b07e034" version="1">吐息武器</content>
+    <content contentuid="h784f6ffag597bg44f9g9aadg052369784d60" version="1">释放局部重力场，推动或拉拽区域内生物</content>
+    <content contentuid="h7f4b928eg775ag4bd0gb19ag804e179aacaa" version="1">紫晶龙可喷吐改变重力的能量锥</content>
+    <content contentuid="h1b4d09b5gf9d4g4ca0gabacgd823bdd8a517" version="1">必须着陆攻击</content>
+    <content contentuid="hbc5b9236gf364g440fgbf01gf41bc550a368" version="1">重力吐息：推离</content>
+    <content contentuid="h57b694ccg86a2g4bc2g810eg750447e57ba8" version="1">将目标推离[1]尺</content>
+    <content contentuid="hf9fd7b5cg86aag4cb6gba9dg64de8b970cec" version="1">重力吐息：牵引</content>
+    <content contentuid="hc3bd4470g7699g4aeag8bc4gd0a18e56503b" version="1">将目标拉近[1]尺</content>
+    <content contentuid="he3e5629egf92ag413fg8df7gdd9fe12e421a" version="1">共享回气</content>
+    <content contentuid="h7149dca8g689bg4ee7g948dgd6048b116961" version="1">使用&lt;LSTag Type="Spell" Tooltip="Shout_SecondWind"&gt;回气&lt;/LSTag&gt;时，龙伙伴恢复[1]+[2]生命值并获得&lt;LSTag Type="Spell" Tooltip="Zone_GravityBreath"&gt;重力吐息&lt;/LSTag&gt;次数+1</content>
+    <content contentuid="hd5717c4dg80bfg43edg85f9gaf171b90ba1e" version="1">恢复生命值并获得&lt;LSTag Type="Spell" Tooltip="Zone_GravityBreath"&gt;重力吐息&lt;/LSTag&gt;次数+1</content>
+    <content contentuid="h935a9bfcge498g4c03g93a1ga931545f15fd" version="1">巨龙骑乘</content>
+    <content contentuid="head8a631g7254g46efg87e0gbed339e65df1" version="1">契约紫龙成长至中型，可短途载你飞行&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; 载人时本回合无法悬停</content>
+    <content contentuid="hf9dfe1f9g5c30g4794gac23g383df68dadc4" version="1">强化重力吐息</content>
+    <content contentuid="hb3be0e42g004cg465egab65g84d8d9a50454" version="1">契约紫龙的&lt;LSTag Type="Spell" Tooltip="Zone_GravityBreath"&gt;重力吐息&lt;/LSTag&gt;每日可用[1]次，范围扩大至[2]锥，失败豁免者受[3]伤害</content>
+    <content contentuid="hde014cf6g0ab0g4fa2gb2d0g3c243c9a3802" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; 载人时本回合无法悬停</content>
+    <content contentuid="ha93aee47g0476g4187gbc0eg30f4ffa8f00a" version="1">飞行：载运骑士</content>
+    <content contentuid="hfd2c8291gdfbag4e06g9126gc2a534645330" version="1">携带契约骑士飞往[1]尺内位置</content>
+    <content contentuid="hc06bccbega3ecg4878gb062g8c02d5adc5f1" version="1">必须是契约骑士</content>
+    <content contentuid="h7d44ae38geb8fg45b4ga238g90bdf0d3111f" version="1">必须为中型或更小体型</content>
+    <content contentuid="h80be15bdg2a85g4c42g8b43gd1ac06093f9d" version="1">号令万军</content>
+    <content contentuid="hff00ecdeg4ac9g4754ga3e3g8d1e602229cb" version="1">号令万军：推进</content>
+    <content contentuid="ha680cc05g6b19g4472gb0c8gcf4034507c6d" version="1">号令万军：撤退</content>
+    <content contentuid="h7f49f61dg8a93g4240gac6dg498077bca554" version="1">使用&lt;LSTag Type="Spell" Tooltip="Shout_ActionSurge"&gt;动作如潮&lt;/LSTag&gt;时，至多三名盟友可用&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;攻击或移动</content>
+    <content contentuid="hce5bfc81g1e32g424bg92aagd6bd345557de" version="1">指挥[1]尺内盟友攻击邻近敌人</content>
+    <content contentuid="hafe76117g36b3g48e8ga9c7g2891253f9998" version="1">指挥[1]尺内盟友移动至你附近，不触发&lt;LSTag Tooltip="OpportunityAttack"&gt;借机攻击&lt;/LSTag&gt;</content>
+    <content contentuid="h7d9791deg5b94g48c7g96c2gf078c062459c" version="1">已被激励</content>
+    <content contentuid="hbde61db4g259fg4ae2gbca9g811804fe0d9e" version="1">必须有敌人在范围内</content>
+    <content contentuid="h8735b6eagbdcag44e7gb0ebg68c54dc50f8f" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; 盟友需在持有武器或徒手攻击范围内有敌人</content>
+    <content contentuid="h9091d8f7g1a74g4846g98a4gb4ccd9bbb722" version="1">响应紫龙骑士&lt;LSTag Type="Spell" Tooltip="Shout_ActionSurge"&gt;动作如潮&lt;/LSTag&gt;，对范围内目标发动武器或徒手攻击</content>
+    <content contentuid="h3ba8440bgd707g461fg8841gdc79e7cda448" version="1">响应紫龙骑士&lt;LSTag Type="Spell" Tooltip="Shout_ActionSurge"&gt;动作如潮&lt;/LSTag&gt;移动至新位置，不触发&lt;LSTag Tooltip="OpportunityAttack"&gt;借机攻击&lt;/LSTag&gt;</content>
+    <content contentuid="h39e2233eg3101g433cg934dgf7d49231e717" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; 盟友需有到达你的畅通路径</content>
+    <content contentuid="h8ebbf2dbg4be4g45fbg825ag94a88f2c8ec5" version="1">需更靠近盟友</content>
+    <content contentuid="h14fb24d2ge59dg4949g9809ge4467d7de708" version="1">形体变换</content>
+    <content contentuid="he9ed267eg3196g4b1cgb52dgd5096412d6cb" version="1">魔法改变体型以方便长途跋涉</content>
+    <content contentuid="h08dba440g7aabg4e1fgb4a8g15be528ed276" version="1">非凡坐骑</content>
+    <content contentuid="h8def71f0g5513g4868gbcfeg030385138746" version="1">契约紫龙成长至大型且速度提升，可短途载人并保持&lt;LSTag Type="Passive" Tooltip="Hover_PurpleDragon"&gt;悬停&lt;/LSTag&gt;状态下攻击</content>
+    <content contentuid="hf12303ebgab3eg400bg9319g2b1d67893510" version="1">契约紫龙的&lt;LSTag Type="Spell" Tooltip="Zone_GravityBreath"&gt;重力吐息&lt;/LSTag&gt;每日可用[1]次</content>
+    <content contentuid="hfc19ff60g9eeeg4ecbg824ag099a8d609b54" version="1">联合攻击</content>
+    <content contentuid="h890b01c5g21afg48f6g9e5dgc9e83e012c54" version="1">作为攻击动作部分，命令契约紫龙使用&lt;LSTag Type="Spell" Tooltip="Target_Rend_PurpleDragon"&gt;撕裂&lt;/LSTag&gt;或&lt;LSTag Type="Spell" Tooltip="Zone_GravityBreath_2"&gt;重力吐息&lt;/LSTag&gt;</content>
+    <content contentuid="hf0cd7702g8f5ag4fc0g9e2bgb3437914abe9" version="1">联合攻击：撕裂</content>
+    <content contentuid="h41ab2777g6fd5g4630g9256g150ea290658b" version="1">放弃一次攻击，命令契约紫龙对范围内敌人使用&lt;LSTag Type="Spell" Tooltip="Target_Rend_PurpleDragon"&gt;撕裂&lt;/LSTag&gt;</content>
+    <content contentuid="h824cdf56gd847g4c7cg8190gcd25e5627b6c" version="1">你的回合可放弃攻击次数指挥契约紫龙攻击</content>
+    <content contentuid="hc7d5f1fbg830dg4f51g9fd7gef6f5845fd54" version="1">紫龙未在近战范围内</content>
+    <content contentuid="hb589118cgdc53g4500gbd25g35e935ff19a9" version="1">联合攻击：重力吐息</content>
+    <content contentuid="h6f4773a2gcaeeg43cegb82ag9b2f5eb0a2ba" version="1">放弃两次攻击，命令契约紫龙对范围内敌人使用&lt;LSTag Type="Spell" Tooltip="Zone_GravityBreath_2"&gt;重力吐息&lt;/LSTag&gt;</content>
+    <content contentuid="hac5db74fg89ebg48d3g8b30g88796b4bcbc9" version="1">不在吐息范围内</content>
+    <content contentuid="hffed0b25g3610g4226gb4dcgaf503870086c" version="1">不折将官</content>
+    <content contentuid="hc0cf5237g98abg412eg81eag519ca56e27f1" version="1">你与契约紫龙获得&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;：力场与心灵伤害</content>
+    <content contentuid="hda06eac5gc8e9g4f90gad70geb7332d6b6d1" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; 这将消耗两次&lt;LSTag Type="Passive" Tooltip="ExtraAttack"&gt;额外攻击&lt;/LSTag&gt;次数</content>
+</contentList>

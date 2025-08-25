@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="400"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="NB438 Fighting Style"/>
+                    <attribute id="Passives" type="LSString" value="FightingStyle_GreatWeaponFighting,FightingStyle_Dueling,FightingStyle_TwoWeaponFighting,FightingStyle_Defense,FightingStyle_Protection,FightingStyle_Archery"/>
+                    <attribute id="UUID" type="guid" value="8a693626-e688-4191-95ec-1cddd74fe71a"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="NB438 Shadow Imitation 1"/>
+                    <attribute id="Passives" type="LSString" value="FeralInstinct,BrutalCritical,ImprovedCritical,Indomitable,FastHands,Assassinate_Resource,Assassinate_Ambush,UncannyDodge,Evasion,StillnessOfMind,ClarifiedMortality,MistyEscape,PotentCantrip"/>
+                    <attribute id="UUID" type="guid" value="001d6bae-f4ad-4a16-92d7-a44369a9a3ff"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="NB438 Shadow Mimicry"/>
+                    <attribute id="Passives" type="LSString" value="UnlockHexslinger_NB438,UnlockActionSurge_NB438,UnlockTank_NB438,UnlockMiracleHands_NB438,UnlockDivineSmite_NB438,UnlockMetaMagic_NB438"/>
+                    <attribute id="UUID" type="guid" value="f7250936-1226-4da6-a473-f824135eb1f3"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

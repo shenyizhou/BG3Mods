@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Target_ShockingGrasp;Projectile_FireBolt;Projectile_RayOfFrost;Target_MageHand"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="WardenCantrips"/>
+                    <attribute id="TableUUID" type="guid" value="8ef39dbf-30cc-4cbb-94dd-d05c57bd6024"/>
+                    <attribute id="UUID" type="guid" value="8bd9c5b5-3e07-4c94-bee3-23de17c17b99"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Shout_ArmorOfAgathys;Zone_BurningHands;Zone_ColorSpray;Target_Command_Container;Shout_FalseLife;Target_Heroism;Target_Longstrider;Target_MageArmor;Projectile_WitchBolt"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="WardenSpells1"/>
+                    <attribute id="TableUUID" type="guid" value="8ef39dbf-30cc-4cbb-94dd-d05c57bd6024"/>
+                    <attribute id="UUID" type="guid" value="8110dd7a-a478-4202-abd0-edf4fb1a9f19"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Target_HealingWord;Target_CureWounds;Target_ShieldOfFaith;Projectile_GuidingBolt;Target_Bless;Target_Sanctuary"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="SentinelSpells1"/>
+                    <attribute id="TableUUID" type="guid" value="6e69e6db-5739-4bef-bb5c-2578e73344d7"/>
+                    <attribute id="UUID" type="guid" value="c0138355-5af2-4f56-9759-a297462e1562"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Target_Bane;Target_DissonantWhispers;Target_Hex;Target_CauseFear"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="EldritchSpells1"/>
+                    <attribute id="TableUUID" type="guid" value="0b6fa1bf-8eb1-4629-9edd-c0e227786596"/>
+                    <attribute id="UUID" type="guid" value="96fbf550-1c5a-41ea-a7f8-d2904008e24e"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Projectile_EnsnaringStrike_Container;Projectile_HailOfThorns;Projectile_IceKnife;Shout_Shield_Wizard;"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="JudgementSpells1"/>
+                    <attribute id="TableUUID" type="guid" value="9991a960-f2ac-4803-8970-3bc7a994ae5a"/>
+                    <attribute id="UUID" type="guid" value="7d195aac-f475-420d-adb1-1043d6e13ad1"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Shout_ArmsOfHadar;Shout_HellishRebuke;Target_Hex;Projectile_RayOfSickness"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="GraveknightSpells1"/>
+                    <attribute id="TableUUID" type="guid" value="cba2d6a1-c3ea-4596-8065-0f22a5b569f1"/>
+                    <attribute id="UUID" type="guid" value="6e65e971-dd45-4bc0-b0b7-d201a82c8f3b"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

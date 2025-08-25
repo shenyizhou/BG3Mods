@@ -1,0 +1,455 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h421b617bga714g94b3gd847g6428e0acb377" version="1">NIGHTBRINGER_NB438</content>
+  <content contentuid="h3ec54cb5gc844g7a1egc163gfc4871d8fe44" version="1">Nightbringer</content>
+  <content contentuid="h346e7f98g48fdg5383ge50eg09f443d1fa8f" version="1">Fighter</content>
+  <content contentuid="h5e9ea82dg2cf4ge71dg582dgef2d14178aa3" version="1">Fighters have mastered the art of combat, wielding weapons with unmatched skill and wearing armour like a second skin.</content>
+  <content contentuid="h64084c2eg9f34g251cg9fc2g91dffa42c438" version="1">Summon: Night Eye</content>
+  <content contentuid="h0910b7cbg26f5g3495g94f0g79a6e1fc00ca" version="13">Night Eye</content>
+  <content contentuid="hfea72427gde95ga581g66ccg36c2fdf482f2" version="3">Unleash a surge of dark energy, propelling enemies [1] away. You get &lt;LSTag Type="Status"Tooltip="DARKRESONANCE_NB438"&gt;Dark Resonance&lt;/LSTag&gt; for [2] turn.</content>
+  <content contentuid="hd3418440gcd2bg33d9g4dc7ge26c186b8272" version="1">Dark Burst (Ranged)</content>
+  <content contentuid="h4ff08c13gf6a6gbab1g6212g1eaaee2dab63" version="1">Dark Burst (Melee)</content>
+  <content contentuid="hb5befd5agd80cg9d2fg70a8g08b7a10523d3" version="1">Cage of Darkness</content>
+  <content contentuid="h18af3d0bgb5dbg3d35ged84g5540d0c547d2" version="6">Create a sphere of blackness, teeming with malevolent energy. The area is &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;, creatures within are &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt; and afflicted with &lt;LSTag Type="Status" Tooltip="NIGHTBRAND_NB438"&gt;Night Brand&lt;/LSTag&gt;.</content>
+  <content contentuid="h9614445dg996fg2347g1333ge0274833b468" version="1">Creatures starting their turn in the area take [1]. Creatures ending their turn in the area possibly take [2].&lt;br&gt;&lt;br&gt;The area is &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;.</content>
+  <content contentuid="haf8ede49gec98g59d3g2cbfg326054197bd5" version="1">Dark Burst</content>
+  <content contentuid="h92bc184fg6599gb66eg1430ga628052a004d" version="1">Dark Burst (Ranged)</content>
+  <content contentuid="h61920911g1bebg20ddg1b91g4c0f5404230e" version="1">Nightfall</content>
+  <content contentuid="h57cc6b16gd1d4gdaa6g1b8fga733f3a7e666" version="1">Shadow Shift</content>
+  <content contentuid="h33412466gc3acgd6c6g0807g62b329b88442" version="2">Dark Rift (Melee)</content>
+  <content contentuid="h0bd65860gca94gcdd4gd2d9g13c80c67ca47" version="1">Dark Rift</content>
+  <content contentuid="he568443fgacabg92d3g03a2gaec9f04bf36f" version="1">Dark Rift (Ranged)</content>
+  <content contentuid="h4b3932f2g0d52g2131ga51bgf345c99f29ac" version="1">Midnight Hunt</content>
+  <content contentuid="h19cfe21cgccefg6fd3gf736gd9c0cdeb39a0" version="1">Nightfall (Echo)</content>
+  <content contentuid="h83a54061ge07cg591cgbc71g2d48ccd5c79c" version="1">Devouring Night</content>
+  <content contentuid="hb1e341eag847bg05f1gac56gf63bed92451a" version="6">Crack open a rift in the void, pulling enemies towards it and inflict 1 turn of &lt;LSTag Type="Status" Tooltip="NIGHTBRAND_NIGHTEYE_NB438"&gt;Night Brand&lt;/LSTag&gt;. You gain &lt;LSTag Type="Status" Tooltip="UMBRALBULWARK_NB438"&gt;Umbral Bulwark&lt;/LSTag&gt; for every target hit.</content>
+  <content contentuid="h94849dfagbce1g3286g7585g58e8eeac474c" version="1">Dark Burst (Ranged)</content>
+  <content contentuid="he80f8e4fg7ba7g3b3bgd6b2gbd714590a86e" version="2">Shadowfeather's Curse</content>
+  <content contentuid="h1c22de65g5307g05e3g1d58gee2e64aa6489" version="2">Summon: Shadow Image</content>
+  <content contentuid="h16598563g6227g6a8ag6c2agc4792c53ffae" version="2">Shadowforged Blade</content>
+  <content contentuid="h72092fffg08b4g8ebbg9738gb0080a5d5260" version="1">Nightvision</content>
+  <content contentuid="h584a805ag1565gf489g2530g55798eb3c50e" version="1">Night Piercer</content>
+  <content contentuid="hc738ed0egc680gd9f4gff62gf5a1381798ad" version="1">Deadly Precision</content>
+  <content contentuid="h75ce1216g102eg1697gc1d4g1c80f7c9f93b" version="1">Umbral Echo</content>
+  <content contentuid="he179b78dg1d5agc823gba5agfa9d9daeb2c6" version="3">Darkwing's Favor</content>
+  <content contentuid="h2b9a8a9fgb931g91afg3436gab3ae82d890e" version="1">Cage of Darkness</content>
+  <content contentuid="h84db0c7cge1c1g276ag5fb5gfa2a52d21bcd" version="1">Darkwing's Favor</content>
+  <content contentuid="heec131e0g03d1gdefeg1867gc9bc2769efef" version="1">Replenish an expended &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt; of any level. </content>
+  <content contentuid="h48051f99gcb83g60f7gfd06g6d11686ae0a8" version="1">Spell Slot Restoration</content>
+  <content contentuid="h836ab832g1f13g1eb9g7c92gc83a80e81295" version="1">Replenish an expended &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt; of any level. </content>
+  <content contentuid="h6d2898c1ge7c9gd1a8g44f0gb8392fb8293f" version="1">Darkwing's Favor</content>
+  <content contentuid="h4518fcf7gd023gbe88gb051g5e93f79be2f9" version="1">Unlock Spell Slots</content>
+  <content contentuid="h7149fb59g753bg2148g5219g456282b2682e" version="1">You gain [3] Level [4] spell slot(s), which are restored on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="hceede7efg53ddg150bg36b2g8b0c829e823e" version="1">Unlock Spell Slots</content>
+  <content contentuid="h96e044cag570dgc985g9bf6gade84412570d" version="1">You gain [3] Level [4] spell slot(s), which are restored on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="h3064bacag6cbbg7dcdgaaf4g6dcc52584b24" version="1">Unlock Spell Slots</content>
+  <content contentuid="hd5f38a5cgda8agfbadgd391g2ae76aa15eb0" version="1">You gain [3] Level [4] spell slot(s), which are restored on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="ha84f47adg15fbg5de9gd2eag6a7972d095cd" version="1">Unlock Spell Slots</content>
+  <content contentuid="h0422f2a3ga513g75b4gd39fg11d25ba239fc" version="1">You gain [3] Level [4] spell slot(s), which are restored on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="haa9bbb7bg9beeg02c8g8beaga2a7f45b8fdb" version="1">Unlock Spell Slots</content>
+  <content contentuid="haffa8f6cg497eg853bg8a53g66c4cddc2b4c" version="1">You gain [3] Level [4] spell slot(s), which are restored on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="ha90ebb67g964bga6b1g06efgc6097b64869e" version="1">Unlock Spell Slots</content>
+  <content contentuid="h8d0841c8ge8c4g388dgb579g84adbc3edd03" version="1">You gain [3] Level [4] spell slot(s), which are restored on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="h0244b128gfcbbg5af6g2778g871d67bb000b" version="1">Unlock Spell Slots</content>
+  <content contentuid="h8cc73325ge5ebgcf58gb899g383e4120086b" version="1">You gain [3] Level [4] spell slot(s), which are restored on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="h8ca14fc3gb754g51d4g4e50g6eeb5c1123e1" version="1">Unlock Spell Slots</content>
+  <content contentuid="h0c599645g4430g80cdg0f81gc50e77101667" version="1">You gain [3] Level [4] spell slot(s), which are restored on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="hfb25fb90g6a27gc838ge50ag3607908e5b17" version="1">Unlock Spell Slots</content>
+  <content contentuid="h00d6fdfbgffe4gb919g5a7bg7b087efd5676" version="1">You gain [3] Level [4] spell slot(s), which are restored on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="he29af73cg9d5ag1372gb6d0g348e844ce40c" version="1">Unlock Spell Slots</content>
+  <content contentuid="h86475951g232dg63bdg7bf2ge86e748ca91d" version="1">You gain [3] Level [4] spell slot(s), which are restored on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="h00831b6egb1b0gce41g9b66gaf03f1911645" version="1">Unlock Spell Slots</content>
+  <content contentuid="h55ebd328g1f2bg203ag5c77g8e1033ced911" version="1">You gain [3] Level [4] spell slot(s), which are restored on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="h43182496gd5e6gd01dg9ecdg9d250609e12e" version="1">Unlock Spell Slots</content>
+  <content contentuid="h573962a1gf4d7g7540g0a8agd954310449cc" version="1">You gain [3] Level [4] spell slot(s), which are restored on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="h2accdcc2g8e19g5fc3g1fb1g99d686ce949c" version="1">Unlock Spell Slots</content>
+  <content contentuid="hf9363368g1019ga2d0g40efg4b2fa473a47e" version="1">You gain [3] Level [4] spell slot(s), which are restored on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="hb5bafce5g01a3ge09cgc3eagd1187c59389e" version="1">Unlock Spell Slots</content>
+  <content contentuid="hac348bdcg22e2gd9eag1013gb76688a5c74c" version="1">You gain [3] Level [4] spell slot(s), which are restored on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="h22f849afg2a1fg9e3cg4670g14adb0b630b2" version="1">Unlock Spell Slots</content>
+  <content contentuid="h06489ebag26c1g1234gca7agc9a13e7b1df4" version="1">You gain [3] Level [4] spell slot(s), which are restored on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="he2bc31e6g4792g54f6g1a1cg4906230b2973" version="1">Unlock Spell Slots</content>
+  <content contentuid="h870efe42g4213g7f32g08bbg8691ab46a182" version="1">You gain [3] Level [4] spell slot(s), which are restored on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="h6adc3f63g75d4g5dbfg5fbcg1c17329f1d50" version="1">Unlock Spell Slots</content>
+  <content contentuid="h0cf8ae13gab8ag2522ge811gdce3a417f644" version="1">You gain [3] Level [4] spell slot(s), which are restored on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="hd5e17f7eg5509g7d2cg4596g3d72d34cf1b6" version="1">Unlock Spell Slots</content>
+  <content contentuid="h269aadf3g35b4g145cge7f9g9bd7fe82e570" version="1">You gain [3] Level [4] spell slot(s), which are restored on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="hedb35e3agafa2g9572g9071g040eac83d5d8" version="1">Unlock Spell Slots</content>
+  <content contentuid="he5b7da30g1cb9gb1c8g9586gf58ef94bbe45" version="1">You gain [3] Level [4] spell slot(s), which are restored on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="ha0cb6b04gbd41gb76bg8585gd197de685ceb" version="1">Unlock Spell Slots</content>
+  <content contentuid="h07a44558g2e81gff92g8c17gdbf03d40966a" version="1">You gain [3] Level [4] spell slot(s), which are restored on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="he4c2a3bcgdbf0gf652gccc8gd85c31a09857" version="1">A sphere of blackness, teeming with malevolent energy. Creatures starting their turn in or entering the area take [1]. The area is &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;, and creatures within are &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt;. You are not affected and get &lt;LSTag Type="Status" Tooltip="CAGEOFDARKNESS_SELFBUFF_NETHERBLADE"&gt;Shadow Veil&lt;/LSTag&gt; instead.</content>
+  <content contentuid="h304ed807g4e9bg7da6g6606g42616fb4b61d" version="3">Vulnerable (Dark Resonance)</content>
+  <content contentuid="h814c2926g87e3gf216gb076g7ea114f56879" version="1">&lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to Force damage.</content>
+  <content contentuid="h931d6e07gc1c2g975cgb1deg2b57e7489a8a" version="3">Night Brand (Terrain)</content>
+  <content contentuid="h06e6697fg846egeca1g734dgf67543958a92" version="2">Takes [1] per turn. </content>
+  <content contentuid="he8ec983egf345g94d4g6f32g55c075d6eea8" version="2">Dark Resonance</content>
+  <content contentuid="hb69d917age799gf0fbg2852g05325c84132f" version="1">Enemies within [1] become &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to Force damage.</content>
+  <content contentuid="hec97459bge2b9g36c2g0fc6g3402479da420" version="2">Darkwing's Favor</content>
+  <content contentuid="hf35f5ac1g41c7g485dga8d5g4bb76742c888" version="6">Call forth a unique raven which can mark enemies with &lt;LSTag Type="Status" Tooltip="NIGHTBRAND_NIGHTEYE_NB438"&gt;Night Brand&lt;/LSTag&gt; and grants &lt;LSTag Type="Passive" Tooltip="DarkwingsFavor_NB438"&gt;Darkwing's Favor&lt;/LSTag&gt;.</content>
+  <content contentuid="hfbe3cc13ge7e8g2029gf7f9g5b856c0c7da8" version="12">You and other &lt;LSTag Type="Status" Tooltip="SPAWNOFDARKNESS_NB438"&gt;Spawns of Darkness&lt;/LSTag&gt; are unaffected. </content>
+  <content contentuid="h655830a1g507eg751dg200eg1e378f1faa63" version="1">Night Eye gains improved stats and unlocks new spells at Level 5 and 11.</content>
+  <content contentuid="habc97c52g2d91gb0b0g750dgf2e23cdbf232" version="1">h71ba116bg9023g4e4agb118ge8dd25611a91:2:Transformed into a blue jay, able to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt; for 5 rounds.</content>
+  <content contentuid="hf4b9105eg8da2gba37g8e40gb412e3ea2509" version="5">Night Brand </content>
+  <content contentuid="h95575236g2980gb8d8gdd4eg7889901b94cc" version="1">asdg</content>
+  <content contentuid="h2e0bd203g3d83g96c4ge845gb42ee03d3f0f" version="1">h46ffe4b1gd070g484eg94a4g0d14439ea36c:3:You gain a +[1] bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Spell Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SpellDifficultyClass"&gt;Spell Save DC&lt;/LSTag&gt;. </content>
+  <content contentuid="hd2ce9026gbbcfga351g54bcg4fdbc0f33184" version="8">Your Dexterity &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; is added twice to your &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;. Allies within 3 meters gain the &lt;LSTag Type="Status" Tooltip="DARKWINGSFAVOR_BUFF_NB438"&gt;Darkwing's Favor&lt;/LSTag&gt;.</content>
+  <content contentuid="h1caf2655gdcc5gfd4dg4b8bg092eb7c1723d" version="17">Emits a cold aura that awakens the full potential of  Shadowborn creatures. Your Dexterity &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; is added twice to your &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;. Allies within 4 meters, when attacking with &lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;Nightfall&lt;/LSTag&gt;, add their Charisma Modifier to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and deal additional [1].</content>
+  <content contentuid="h97b07683g6f7dg5d50gdbacg59611c9b1982" version="1">Bonus Increases by +1 at Level 5 and 11</content>
+  <content contentuid="h7567b65eg23aagad5eg4d54gb0988a698a10" version="3">Shadowforged Weapon</content>
+  <content contentuid="h5248d264gc557g0e4eg7917gcf83a5a67774" version="4">You infuse all your equipped weapons with the essence of darkness. &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; use your &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Spellcasting Ability Modifier&lt;/LSTag&gt; and your weapon damage type becomes Force.  </content>
+  <content contentuid="h6d8bd620gf26eg39a7gd40cg2e9ae82381bb" version="7">You infuse all your equipped weapons with the essence of darkness. &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; use your &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Spellcasting Ability Modifier&lt;/LSTag&gt; and your weapon damage type becomes Force.  </content>
+  <content contentuid="h52d956bcgef51gca17gb4fdg77541e451f54" version="16">Amplify the darkness within to unleash a surge of energy around you, propelling enemies [1] away and inflict 1 turn of &lt;LSTag Type="Status" Tooltip="NIGHTBRAND_NIGHTEYE_NB438"&gt;Night Brand&lt;/LSTag&gt;. You gain &lt;LSTag Type="Status" Tooltip="UMBRALBULWARK_NB438"&gt;Umbral Bulwark&lt;/LSTag&gt; for every target hit.</content>
+  <content contentuid="hd15973f5g8599g995eg11b0g3dee4605a2f3" version="12">Amplify the darkness within to unleash a surge of energy, propelling enemies [1] away and inflict 1 turn of &lt;LSTag Type="Status" Tooltip="NIGHTBRAND_NIGHTEYE_NB438"&gt;Night Brand&lt;/LSTag&gt;. You gain &lt;LSTag Type="Status" Tooltip="UMBRALBULWARK_NB438"&gt;Umbral Bulwark&lt;/LSTag&gt; for every target hit.</content>
+  <content contentuid="hda0714bfg5dbfg3893ga27cgd487e950d9b5" version="3">Umbral Bulwark</content>
+  <content contentuid="h070a5f54gf8d6g33b4ge90dg292f939445b9" version="8">You gain a bonus of +1 to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. This effect can stack up to 10 times.</content>
+  <content contentuid="h80938942g4ad8g23a3gdef9gd65a9df538a5" version="2">%%% Umbral Bulwark Duration Check</content>
+  <content contentuid="ha7c3356cgab6eg9487gb537g1e67358e957d" version="1">Applies 1 extra turn of &lt;LSTag Type="Status"Tooltip="DARKRESONANCE_NB438"&gt;Dark Resonance&lt;/LSTag&gt; at Level 5 and 11.</content>
+  <content contentuid="h33f59075g71d9gcbbdg3ecagfb53bd883a7e" version="1">Applies 1 extra turn of &lt;LSTag Type="Status"Tooltip="DARKRESONANCE_NB438"&gt;Dark Resonance&lt;/LSTag&gt; at Level 5 and 11.</content>
+  <content contentuid="h9fa00fa3gda7dg20c7gf158g895aea2deea9" version="1">Applies 1 extra turn of &lt;LSTag Type="Status"Tooltip="DARKRESONANCE_NB438"&gt;Dark Resonance&lt;/LSTag&gt; at Level 5 and 11.</content>
+  <content contentuid="h4ca59ca5gede8gdca5gd954g446f4a155586" version="1">Applies 1 extra turn of &lt;LSTag Type="Status"Tooltip="DARKRESONANCE_NB438"&gt;Dark Resonance&lt;/LSTag&gt; at Level 5 and 11.</content>
+  <content contentuid="h4bbb5b40ga8d4gbe35g93c1g9c83d57ef6db" version="2">You can see normally in darkness, both magical and non-magical, to a distance of [1].</content>
+  <content contentuid="h3873fbf7g94ecg83d4gcb5dgdf143c6eea68" version="17">Night Eye</content>
+  <content contentuid="h1f5d8048gf622g02dcg8cf8g2ce8809cb8dc" version="3">Inflicts [1] target(s) with &lt;LSTag Type="Status" Tooltip="NIGHTBRAND_NIGHTEYE_NB438"&gt;Night Brand&lt;/LSTag&gt;.</content>
+  <content contentuid="h9dcc7f81g5d4cge648g9041gd210dd6e6e22" version="1">Takes [1] per turn. </content>
+  <content contentuid="h1788884cg07b2g9cf9ga0e4g6132168d4f60" version="9">Target must be afflicted by &lt;LSTag Type="Status"Tooltip="NIGHTBRAND_NIGHTEYE_NB438"&gt;Night Brand&lt;/LSTag&gt;, while you have an ally within [1] or &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against it. Killing a creature with this attack grants you [1] movement and 1 turn of &lt;LSTag Type="Status"Tooltip="DARKACCELERATION_NB438"&gt;Dark Acceleration&lt;/LSTag&gt;. </content>
+  <content contentuid="h8515fe9egf33bg6515g974agdf05b2b09b7f" version="3">You vanish into a swirling vortex of shadows, reappearing in an unoccupied space within your sight. Your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; affects how far you can teleport.</content>
+  <content contentuid="h898f1c3dgcb27gb36bg10c7gb4188a17b52c" version="1">Target radius increases by 6m at Level 5 and 10</content>
+  <content contentuid="h082efd19g0a85g02c4geb98g4a98d360ef58" version="1">Nightfall</content>
+  <content contentuid="h28ab6bd1g156fgd69egc427g4e849439db87" version="3">You have a [1] bonus to your &lt;LSTag Tooltip="MovementSpeed"&gt;Movement&lt;/LSTag&gt; to use for this turn. This effect can stack.</content>
+  <content contentuid="hc1328b2fg372eg4605g8a3cg1b3cbedebb05" version="1">Unleash a surge of dark energy, propelling enemies [1] away. You get &lt;LSTag Type="Status"Tooltip="DARKRESONANCE_NB438"&gt;Dark Resonance&lt;/LSTag&gt;.</content>
+  <content contentuid="he585fbc5gf286g7936g6595gfea2a65e839c" version="5">Crack open a rift in the void, pulling enemies towards it and inflict 1 turn of &lt;LSTag Type="Status" Tooltip="NIGHTBRAND_NIGHTEYE_NB438"&gt;Night Brand&lt;/LSTag&gt;. You gain &lt;LSTag Type="Status" Tooltip="UMBRALBULWARK_NB438"&gt;Umbral Bulwark&lt;/LSTag&gt; for every target hit.</content>
+  <content contentuid="h618f76a1ge5e9g69a0g4423gece5745b1f21" version="6">Crack open a rift in the void, pulling enemies towards you and inflict 1 turn of &lt;LSTag Type="Status" Tooltip="NIGHTBRAND_NIGHTEYE_NB438"&gt;Night Brand&lt;/LSTag&gt;. You gain &lt;LSTag Type="Status" Tooltip="UMBRALBULWARK_NB438"&gt;Umbral Bulwark&lt;/LSTag&gt; for every target hit.</content>
+  <content contentuid="hcffb69f1gabd4gb2cdg924cgd26e1ca27369" version="3">Your attacks ignore &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to Force damage.</content>
+  <content contentuid="h34c7537cg7527g7b0dg7147g44b5238970ee" version="4">Umbral Surge</content>
+  <content contentuid="haa775aa3g168fgc806g15a1g61b465e6ffdf" version="3">Can take an extra &lt;LSTag Type="ActionResource" Tooltip="BonusAction"&gt;Bonus Action&lt;/LSTag&gt; this turn.</content>
+  <content contentuid="h514836dag8057gbce3g584ag2a764db600e2" version="1">Umbral Barrier</content>
+  <content contentuid="h76427df1gf4ceg1eeegdf86g37e8eeb55dae" version="1">You gain +[1] to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;.</content>
+  <content contentuid="ha3c77e25g71b8g5157ga885g913c81285a6c" version="1">&lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;Nightfall&lt;/LSTag&gt; always lands a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; and rolls an extra damage dice in addition to the usual critical damage dice.</content>
+  <content contentuid="h228ec504g198cg58cfg9935g50cf30e420df" version="9">Night Eye</content>
+  <content contentuid="hdb905bccg9b6egd19dg94cfge7534d0cf6aa" version="2">Cage of Darkness (Night Eye)</content>
+  <content contentuid="hf3500fd8gdc5bgb278g80c9g012a4289b747" version="1">Create a sphere of blackness, teeming with malevolent energy. Creatures starting their turn in or entering the area take [1]. The area is &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;, and creatures within are &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt;. </content>
+  <content contentuid="h180960b1g0d95ga3bcgf487g1ae776187f1b" version="1">You and Night Eye are not affected and gain &lt;LSTag Type="Status" Tooltip="CAGEOFDARKNESS_SELFBUFF_NB438"&gt;Umbral Aura&lt;/LSTag&gt; instead.</content>
+  <content contentuid="h10182f04g9468g967cg13d4g739afa4485b7" version="1">Aura of Ruin</content>
+  <content contentuid="h8eb61796gb914g9333g3f3fgfc224f2a5e31" version="2">You and nearby allies roll an additional damage die when landing a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; with a melee Weapon.</content>
+  <content contentuid="h653dc1a5ge2d1ga83eg2c01gc9745d46a77e" version="2">Darkwing's Favor</content>
+  <content contentuid="hdadc1c95ga23eg9551gfdd8gd97e9dd0301f" version="6">When attacking with &lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;Nightfall&lt;/LSTag&gt;, add your Charisma Modifier to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and deal additional [1].</content>
+  <content contentuid="h99348a27g6c14g99b9gee03ge6304381b135" version="4">While inside &lt;LSTag Type="Spell" Tooltip="Target_CageOfDarkness_NB438"&gt;Cage of Darkness&lt;/LSTag&gt; enemies within [1] become &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to Force damage. This effect lasts until you kill a creature or combat ends.</content>
+  <content contentuid="hf4c8df27g9d09g41b4g173fg3601a876f965" version="1">Aura of Ruin</content>
+  <content contentuid="hbc675d37gd590gf224g8994g3ced8150d773" version="1">Umbral Echo</content>
+  <content contentuid="h620d9eebg9a7bg7377gddcdg0216ab00e179" version="1">Once per turn, if you land a killing blow with &lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt; you can perform &lt;LSTag Type="Spell" Tooltip="Target_NightfallEcho_NB438"&gt;Nightfall (Echo)&lt;/LSTag&gt; without cost.</content>
+  <content contentuid="h31a938d4g8943g0bbfg4296gc998d4f94549" version="1">A follow up attack that can hit anyone.</content>
+  <content contentuid="hf83247d8g91ecgae51gd4afg818002c4f987" version="11">Shadow Image</content>
+  <content contentuid="h4bd1d06cg1969gf78egcdb2g546a877bf2ef" version="1">Cage of Darkness</content>
+  <content contentuid="hce588ab2gce29g06cag476bg7f13f063ee97" version="1">Create a sphere of blackness, teeming with malevolent energy. Creatures starting their turn in or entering the area take [1]. The area is &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;, and creatures within are &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt;. </content>
+  <content contentuid="h48439a53gf678gd78egd9a0gb724de91cb1a" version="1">You and Night Eye are not affected and gain &lt;LSTag Type="Status" Tooltip="CAGEOFDARKNESS_SELFBUFF_NB438"&gt;Umbral Aura&lt;/LSTag&gt; instead.</content>
+  <content contentuid="hbc8c4a61g2d24ge143g3085g2de0956eb455" version="2">Final Umbral Erruption</content>
+  <content contentuid="h69e48be5gcad8g5b99gb5ffgbf2499425adc" version="3">Dismiss yourself from your summoner's service leaving behind a &lt;LSTag Type="Spell" Tooltip="Target_CageOfDarkness_NB438"&gt;Cage of Darkness&lt;/LSTag&gt; for 2 turns without using the summoner's concentration.</content>
+  <content contentuid="h51521836ge1e5g8b1ag74bdg1ab3ce503a86" version="1">You and Night Eye are not affected and gain &lt;LSTag Type="Status" Tooltip="CAGEOFDARKNESS_SELFBUFF_NB438"&gt;Umbral Aura&lt;/LSTag&gt; instead.</content>
+  <content contentuid="hc6ba0ea6g3109g6d12g4447g4c4c4a3f2cce" version="4">A cursed sigil burned into the soul, marking the creature as prey.</content>
+  <content contentuid="hc2390892g38f6g5c85gb32bg7d6d6a92cf74" version="4">A cursed sigil burned into the soul, marking the creature as prey.</content>
+  <content contentuid="h96d640bbgc41eg882ega0b3g6f022cd47d80" version="1">Spawn of Darkness</content>
+  <content contentuid="h6d01fa73g8ae6g1dd5gdeb6ga62c0724dac9" version="1">Born of pure shadow, these creatures wield a profound mastery over darkness, effortlessly bending it to their will.</content>
+  <content contentuid="haf11f717gfb0dgccc7gf5e2g1bfe21da35a0" version="2">The area is &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;, creatures within are &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt; and afflicted with &lt;LSTag Type="Status" Tooltip="NIGHTBRAND_NB438"&gt;Night Brand&lt;/LSTag&gt;.</content>
+  <content contentuid="hf778c111g8190g8113gbcb1g746fca029821" version="10">Amplify the darkness within to unleash a surge of energy, propelling enemies [1] away and inflict 1 turn of &lt;LSTag Type="Status" Tooltip="NIGHTBRAND_NIGHTEYE_NB438"&gt;Night Brand&lt;/LSTag&gt;. You gain &lt;LSTag Type="Status" Tooltip="UMBRALBULWARK_NB438"&gt;Umbral Bulwark&lt;/LSTag&gt; for every target hit.</content>
+  <content contentuid="h056468bcg8318geaa9g192dgbc476d1a654d" version="1">h0003f45dg0cd8g4cccg966fg766f3949baf8:2:After scoring a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;, use your &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Bonus Action&lt;/LSTag&gt; to make an additional attack.</content>
+  <content contentuid="h6d6adceegcc60g8dd6g37degf53ad86a6f3c" version="7">Envoys cloaked in mystery with unsettling motives, yet the Nightbringers' eerie grace mesmerize even the most righteous.</content>
+  <content contentuid="h952748fag6787gabcdg45e3g2e57c42b0c9e" version="1">MysticScoundrel</content>
+  <content contentuid="h798ebebcge482g0f12ge0bdgc99268d358c9" version="1">Dark Acceleration</content>
+  <content contentuid="h68e77a76gbe7dgb4f4g9287g6250a42cfe90" version="5">You can cast Nightbringer cantrips as &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Bonus Action&lt;/LSTag&gt;. Does not stack.</content>
+  <content contentuid="hccc11c8dga97ega744g16fbgff3818f0fa78" version="7">You can see normally in darkness, both magical and non-magical, to a distance of [1]. </content>
+  <content contentuid="h053edd44gb3b8g8680g5e51g846d1daa85e0" version="1">Spawn Of Darkness</content>
+  <content contentuid="he978598dgd25agb06dgb300g9dffd21912fe" version="1">Echo of Oblivion</content>
+  <content contentuid="hd24f2c29ge510gbef3gadccg3248c9a6d9ca" version="9">After killing a creature with &lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;Nightfall&lt;/LSTag&gt;, you can enhance your next &lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;Nightfall&lt;/LSTag&gt; attack, dealing an additional [1]. Only one attack can be enhanced at a time and the effect does end with combat. &lt;br&gt;&lt;br&gt;The bonus damage increases by [2] at every odd-numbered character level.</content>
+  <content contentuid="hd2af5048g5243g7036g6f2cgd7136a71fa6a" version="1">%%% EMPTY</content>
+  <content contentuid="hdfd4263dg0bb8g9225g15dbg05bd152c43a1" version="1">Damage increases by [1] at every odd-numbered character level.</content>
+  <content contentuid="h9964c0aeg1b96g9e38g578bgaea5fd6badd4" version="5">Damage increases by [1] at every odd-numbered character level.</content>
+  <content contentuid="h25df325dgd469g2ea5g4df1g0db02452253b" version="1">Damage increases by [1] at every odd-numbered character level.</content>
+  <content contentuid="h6c8daa70gb64cg5f3cg55e5g8c183cc23596" version="1">Echo of Oblivion</content>
+  <content contentuid="hf985288dg23efg14edg381agdc1428980073" version="3">You can enhance your next &lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;Nightfall&lt;/LSTag&gt; attack increasing it's damage.</content>
+  <content contentuid="ha320fea6g1f10gdc19g8978gf2399e64d882" version="2">Echo of Oblivion </content>
+  <content contentuid="h336669e4g1cd6g52eag6a49ge20abf518709" version="7">Can be used after killing a creature with &lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;Nightfall&lt;/LSTag&gt;. Increases the damage of your next &lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;Nightfall&lt;/LSTag&gt; attack (if it's not a killing blow) by [1].</content>
+  <content contentuid="hffbccbf2ga2ffg3781gb2f3g9f9042481440" version="1">Echo of Oblivion (Critical)</content>
+  <content contentuid="h6c367851g7496g9521g0fc2g397daa82a51c" version="4">Can be used after killing a creature with &lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;Nightfall&lt;/LSTag&gt;. Increases the damage of your next &lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;Nightfall&lt;/LSTag&gt; attack (if it's not a killing blow) by [1], if it lands as a critical hit.</content>
+  <content contentuid="h312d64c8gd36egc8cag4ed7gcb614b4fd736" version="1">Damage increases by [1] at every odd-numbered character level.</content>
+  <content contentuid="hdb93c935g3141g0bfbg42a6gd7ee96f7c922" version="3">Range increases by 3m at character levels 5 and 10</content>
+  <content contentuid="ha0f763b2gf07bg6b08g5ef6g18d0b84aa09b" version="2">Enigmatic Flow</content>
+  <content contentuid="h559d8494g2a7fg6905gf26bg3ce59f4341e5" version="5">Once per short rest, after killing a creature with &lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;Nightfall&lt;/LSTag&gt;, you may cast an illusion or enchantment spell without expending an action until combat ends.</content>
+  <content contentuid="hfe2be770gb7cdgf21eg1b08g5a2b0dd86d6c" version="2">Shadow's Whisper</content>
+  <content contentuid="h35d16980gf7eagf32bg15efg1844eddaa8cf" version="1">An eerie, unseen force subtly manipulates reality, making you more likely to succeed in any task. Add half of your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; (rounded down) to &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt; that you are not &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; in.</content>
+  <content contentuid="hc04be52bgb1b7g81b3gf502g30cddc170a21" version="1">Night Walker</content>
+  <content contentuid="ha1eef8acgdedega723ge148ge92fd6751799" version="1">You can use &lt;LSTag Type="Spell" Tooltip="Target_ShadowShift_NB438"&gt;Shadow Shift&lt;/LSTag&gt;. It's range increases by 3m at character level 5 and 10.</content>
+  <content contentuid="hd999a1fbg4ac3g923dgb30eg786cf013009f" version="1">Summon Night Eye I</content>
+  <content contentuid="h45fa1bb5g221dg6664g7779g82a2d57fe906" version="1">At character levels 5 and 10, the bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and damage increases by +[1] and [2], respectively.</content>
+  <content contentuid="h91483945g28bbg06abg4447g532e660091d3" version="2">Call forth a unique raven which can mark enemies with &lt;LSTag Type="Status" Tooltip="NIGHTBRAND_NIGHTEYE_NB438"&gt;Night Brand&lt;/LSTag&gt; and grants &lt;LSTag Type="Passive" Tooltip="DarkwingsFavor_NB438"&gt;Darkwing's Favor&lt;/LSTag&gt;.</content>
+  <content contentuid="h10cf8510gbcd3g4abfg2a64gdb9240ab27bb" version="1">Shadow Shift (Night Eye)</content>
+  <content contentuid="hcdc04dabg7857g83f0g82dcg3d46d86c1cdc" version="2">You vanish into a swirling vortex of shadows, reappearing in an unoccupied space within your sight. Your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; affects how far you can teleport.</content>
+  <content contentuid="hbd99a8a1gfeafgecbcgdca8gaaa68fdb83eb" version="2">Range increases by 3m at character levels 5 and 10</content>
+  <content contentuid="hf31d41bcg64cagea24g9e1ag533144f9261b" version="3">The bonus damage increases by [1] at character levels 5 and 10.</content>
+  <content contentuid="h6eb146cfg1521g7d2egc028g0129b8462a6d" version="1">Gains an additional target at character levels 5 and 10.</content>
+  <content contentuid="h96f882f8ga9daga492g83afg0eb807eaf28d" version="1">Summon Night Eye II</content>
+  <content contentuid="h4c742f20gf82cgd769ge793gb347f80b15e5" version="3">Night Eye gains improved stats and once per short rest it can cast &lt;LSTag Type="Spell" Tooltip="Target_CageOfDarkness_NightEye_NB438"&gt;Cage of Darkness&lt;/LSTag&gt;, without using the summoner's concentration.</content>
+  <content contentuid="hf802258agc84cg7d5ag5bddgc58461180be5" version="1">Create a sphere of blackness, teeming with malevolent energy. The area is &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;, creatures within are &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt; and afflicted with &lt;LSTag Type="Status" Tooltip="NIGHTBRAND_NB438"&gt;Night Brand&lt;/LSTag&gt;.</content>
+  <content contentuid="h6f77c411g4ae2g0957g817fg9fcf76bcc8c0" version="1">Shadow Shift</content>
+  <content contentuid="hb2729c4cgfd3dg7e96gf260g11a1c6538059" version="1">You vanish into a swirling vortex of shadows, reappearing in an unoccupied space within your sight.</content>
+  <content contentuid="h3810048fg1262g655dg223ag3142824dfc3e" version="1">Range increases by 3m at  character level 10</content>
+  <content contentuid="h4c828548g4c03gab28gdaedgfa04245e6be0" version="1">Shadow Shift (Night Eye)</content>
+  <content contentuid="hbd7b1385gd3f8gd73bgd549g8b0cc7e06ad7" version="1">You vanish into a swirling vortex of shadows, reappearing in an unoccupied space within your sight.</content>
+  <content contentuid="h5f31fad0g4095g83bag584dgcde7c0f70c5a" version="1">Range increases by 3m at  character level 10</content>
+  <content contentuid="hbab70e35g4cf7g58bag8d8age043aa871925" version="11">A dark maelstrom engulfs the target and caster, pulling them through the fabric of space to a nearby, unoccupied location. The target is inflicted with &lt;LSTag Type="Status"Tooltip="NIGHTBRAND_NIGHTEYE_NB438"&gt;Night Brand&lt;/LSTag&gt;. For 2 turns, until you kill a creature, when you roll Force damage, you deal maximum damage.</content>
+  <content contentuid="hfe55932ag2f3fg3853gcb61gd62b633600a2" version="1">%%% EMPTY</content>
+  <content contentuid="he93d05e1g6057ge352g7d9dgdf33bd719745" version="1">While under the effect of &lt;LSTag Type="Status" Tooltip="DARKACCELERATION_NB438"&gt;Dark Acceleration&lt;/LSTag&gt;, this spell has no cost and grants you an extra &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Bonus Action&lt;/LSTag&gt; to use on this turn.</content>
+  <content contentuid="h0aaedd81gce5fg29a9g5e2dg6c0edec3b664" version="2">Swift Spell</content>
+  <content contentuid="h55e95737g1259g0500g6441gb8a804098986" version="4">You can cast an Illusion or Enchantment Spell without using an action.</content>
+  <content contentuid="h3bd74c12ga5a5ge927gcb07g776aa67f590a" version="1">Quickening Incantation</content>
+  <content contentuid="h50b74fb1g5bb4g21bbge90ag70d726bf841c" version="1">You can cast Illusion and Enchantment Spells as a bonus action.</content>
+  <content contentuid="h4fe8d6ceg51b1g6d8bgafb0gf088ad00fcc5" version="1">Vulner</content>
+  <content contentuid="h636415c2g2e49g1998g6123g8206b8be2a1d" version="1">Devouring Night</content>
+  <content contentuid="ha388bd67gef15gce2ege14dgdd714a0313a5" version="2">Until you kill a creature, when you roll Force damage, you deal maximum damage.</content>
+  <content contentuid="h81ea5da9g6e31ge1b9gcf89g376c888cc1cc" version="2">In this turn, until you kill a creature, when you roll Force damage, you deal maximum damage.</content>
+  <content contentuid="he683bfd3g536agf170g1312g3af47ded4fae" version="1">Dark Amplification</content>
+  <content contentuid="h3cbb4f00g4761gacecg3f83gee8530289992" version="3">Your control over darkness has deepened. &lt;LSTag Type="Spell" Tooltip="Target_CageOfDarkness_NB438"&gt;Cage of Darkness&lt;/LSTag&gt; can target 2 areas now.</content>
+  <content contentuid="h26ad01dbg73d7gce60g47caga1bb82edb775" version="2">he0a1651bgd70eg4847g8a5eg9b219d1751a1:1:When you make an unarmed attack, use an improvised weapon, or throw something, your Strength &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; is added twice to the damage and &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+  <content contentuid="h4558c13cge0d4g3fc3g1ca9g66ebd59aca69" version="2">Conjure two ethereal replicas of yourself. They are dismissed after 1 turn and can use &lt;LSTag Type="Spell" Tooltip="Shout_FinalUmbralErruption_NB438"&gt;Final Umbral Erruption&lt;/LSTag&gt;.</content>
+  <content contentuid="hf9054646g890agc7eag606dgae29de629121" version="1">Summon Night Eye III</content>
+  <content contentuid="hf72d2632g7b8bgb4f4g925eg697e71eac812" version="3">Night Eye gains improved stats and once per short rest it can cast &lt;LSTag Type="Spell" Tooltip="Target_SummonShadowImage_NB438"&gt;Summon: Shadow Image&lt;/LSTag&gt;.</content>
+  <content contentuid="hf74d5a3fg9188gadd6g5db2g88e723621c42" version="1">Shadow Shift</content>
+  <content contentuid="h60679a9fg2cd8g0868g9825gf918a47f3d04" version="1">You vanish into a swirling vortex of shadows, reappearing in an unoccupied space within your sight.</content>
+  <content contentuid="hc771b32dgfcbdg5872g4df4gf882bc04552b" version="1">Shadow Shift (Night Eye)</content>
+  <content contentuid="h1c9ab5ddg8ff8gb843gfbefg9ab838868bd5" version="1">You vanish into a swirling vortex of shadows, reappearing in an unoccupied space within your sight.</content>
+  <content contentuid="hf4bd8017gf1c3gf34bg8ba0g66428141596e" version="2">Nightwalker I</content>
+  <content contentuid="h026b87b0g4a9cg4261g1014ga86adcad1308" version="2">Increases radius of Shadow Shift by 3m.</content>
+  <content contentuid="h523e8b5bg085eg7fb6g8cc3gd1f6654d0957" version="1">Nightwalker II</content>
+  <content contentuid="h08b17402gf83fg2b85g071egdf7ae365e15d" version="1">Increases radius of Shadow Shift by 3m.</content>
+  <content contentuid="h5ab54d2bg8795g5ad6g3c29g2453c78e4fde" version="2">Shadowforged Weapon</content>
+  <content contentuid="he050a5eegcc06gfa0agd09dg744a3e65e4ef" version="3">You infuse all your equipped weapons with the essence of darkness. &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; use your &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Spellcasting Ability Modifier&lt;/LSTag&gt; and your weapon damage type becomes Force.  </content>
+  <content contentuid="h02809a72g218bgd477gad32g160a7b8d49fd" version="1">Cage of Darkness</content>
+  <content contentuid="h0e155483g92f9g08d6gbbc0g19ffa98d5601" version="1">Create a sphere of blackness, teeming with malevolent energy. The area is &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;, creatures within are &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt; and afflicted with &lt;LSTag Type="Status" Tooltip="NIGHTBRAND_NB438"&gt;Night Brand&lt;/LSTag&gt;.</content>
+  <content contentuid="h972ac019g6ba5g6e83ga966ge2f4941f9301" version="1">Cage of Darkness</content>
+  <content contentuid="h5d81687dg2208g1a79g7746g30a54c00e045" version="1">Create a sphere of blackness, teeming with malevolent energy. The area is &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;, creatures within are &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt; and afflicted with &lt;LSTag Type="Status" Tooltip="NIGHTBRAND_NB438"&gt;Night Brand&lt;/LSTag&gt;.</content>
+  <content contentuid="hde5f6fd1ga317gbae5ga510g15b2fcfbacc4" version="1">Cage of Darkness</content>
+  <content contentuid="h32c00816g0eecgd027g8fc4g207479aa1912" version="1">Create a sphere of blackness, teeming with malevolent energy. The area is &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;, creatures within are &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt; and afflicted with &lt;LSTag Type="Status" Tooltip="NIGHTBRAND_NB438"&gt;Night Brand&lt;/LSTag&gt;.</content>
+  <content contentuid="h66a0b58egbbecg53eege414gdf58ad8e369f" version="1">Gains an additional target area at character levels 5 and 10.</content>
+  <content contentuid="h01584d8cgbf1dg5f77ge6c0g5039f6023450" version="1">Shadowfeather's Curse</content>
+  <content contentuid="hc3691debg8412g39dfgab46g6b44d3912f60" version="1">Inflicts [1] target(s) with &lt;LSTag Type="Status" Tooltip="NIGHTBRAND_NIGHTEYE_NB438"&gt;Night Brand&lt;/LSTag&gt;.</content>
+  <content contentuid="hedf9c141g0b63g86bage1eag1d38d9003c5f" version="1">Gains an additional target at character levels 5 and 10.</content>
+  <content contentuid="hc7684efdg4677g11begcf54g86da4f5ab88a" version="3">Nightfall (Offhand)</content>
+  <content contentuid="h58667162g5a65g47f1g14b4g981b3cd97d23" version="2">Target must be afflicted by &lt;LSTag Type="Status"Tooltip="NIGHTBRAND_NIGHTEYE_NB438"&gt;Night Brand&lt;/LSTag&gt;, while you have an ally within [1] or &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against it. Killing a creature with this attack grants you [1] movement and 1 turn of &lt;LSTag Type="Status"Tooltip="DARKACCELERATION_NB438"&gt;Dark Acceleration&lt;/LSTag&gt;. </content>
+  <content contentuid="hfaaedd03g3b5fgb4e6g33edg3e7e17e5fb36" version="1">Damage increases by [1] at every odd-numbered character level.</content>
+  <content contentuid="hd1924221ge5cbg5a8dgef41gc3205b9539bd" version="2">Aetherial Annihilation</content>
+  <content contentuid="h49938de0g521egedb3gdf94g42a2062eedc3" version="10">A strike that bends reality, collapsing space into a singularity of darkness. Enemies are pulled towards the area and become &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralyzed&lt;/LSTag&gt;. Can only be used while under the effect of &lt;LSTag Type="Status"Tooltip="DARKACCELERATION_NB438"&gt;Dark Acceleration&lt;/LSTag&gt;.</content>
+  <content contentuid="h7fd132e6g86e8gfaa2g3bb1gfc47d1ffd035" version="1">Damage increases by [1] at every odd-numbered character level.</content>
+  <content contentuid="h5f1a27fegf995gaae2g0ae4gade3689a9d12" version="1">h19acb846g9b95g402egbf92g24d1a3a7d9f9:2:Hurl freezing energy that damages the target and creates a frosty surface to knock creatures &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;. </content>
+  <content contentuid="h75255e25g2308gb86agc171g616ad4f24dc5" version="1">Gains an additional target area at character levels 5 and 10.</content>
+  <content contentuid="h317765fcgbda3g932eg950bgc89c6fe99519" version="2">Dismiss Shadowforged Weapon</content>
+  <content contentuid="h57630cbag8e95gcb1cg584bg0c9ccf813d38" version="1">%%% Remove Shadowforged Blade</content>
+  <content contentuid="h8466bad7g8dabga7b3gfa1ag24e35562bdb3" version="2">Removes the &lt;LSTag Type="Status" Tooltip="SHADOWFORGEDBLADE_NB438"&gt;Shadowforged Blade&lt;/LSTag&gt; effect of equipped weapons.</content>
+  <content contentuid="h98dacc3cg987bg7cdfgaeaage048f9fb808c" version="2">Shadowforged Weapon</content>
+  <content contentuid="h2ef424b1g5b9egbfe6g365cg92ef3fc11656" version="2">You infuse all your equipped weapons with the essence of darkness. &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; use your &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Spellcasting Ability Modifier&lt;/LSTag&gt; and your weapon damage type becomes Force.  </content>
+  <content contentuid="hd3cc6d44g23c0gb8ddga80fg518448f66ac4" version="1">Final Umbral Erruption</content>
+  <content contentuid="h39fac0a1gd768gaf8fgb553g4583d9dbff78" version="1">Dismiss yourself from your summoner's service leaving behind a &lt;LSTag Type="Spell" Tooltip="Target_CageOfDarkness_NB438"&gt;Cage of Darkness&lt;/LSTag&gt; for 2 turns without using the summoner's concentration.</content>
+  <content contentuid="hcb3aaa62gd5cegcbdcgc081g33a5d2c69ba6" version="3">Tenebris Sigil</content>
+  <content contentuid="h82651007g51d1g924cg8085g1c27629ed673" version="2">The target becomes &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to Force damage.</content>
+  <content contentuid="h5972e8f5g20e9g9819gd2f0gbccfdb028ee0" version="4">Gains an additional target at character levels 5 and 10.</content>
+  <content contentuid="h3891f733g158cg0bb3g4a89gb07654321ec9" version="3">Tenebris Sigil</content>
+  <content contentuid="ha26a22b5g3a20g2b31gedc3g1a0c745e0c7b" version="2">&lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to Force damage.</content>
+  <content contentuid="h326fcb39g041dgc9a2g3b40g55e39ee0db46" version="1">Fatewoven Remnant</content>
+  <content contentuid="h5065e72fg3b6eg07a9g477ega6b5ac54eb79" version="4">Shadows bind the broken steel, reforging fate itself. This weapon deals an additional [1].</content>
+  <content contentuid="h8ec4a0f3g9d9cgbcf7g6d82gce155cbc1f6d" version="1">Fatewoven Remnant</content>
+  <content contentuid="ha2562569g5e7cg54ecgfb1dgaa66d52081a2" version="2">Casting &lt;LSTag Type="Status" Tooltip="SHADOWFORGEDBLADE_NB438"&gt;Shadowforged Blade&lt;/LSTag&gt; on this weapon mends the fractured steel, restoring its former grandeur and power. This weapon  deals additional [1].</content>
+  <content contentuid="h814808e8g9665g0f68g20f1g0c4d28723d51" version="3">Nightfall (Ranged)</content>
+  <content contentuid="h1f6593aag43b2gf623g5a98g2a737ddb0b0f" version="2">Target must be afflicted by &lt;LSTag Type="Status"Tooltip="NIGHTBRAND_NIGHTEYE_NB438"&gt;Night Brand&lt;/LSTag&gt;, while you have an ally within [1] or &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against it. Killing a creature with this attack grants you [1] movement and 1 turn of &lt;LSTag Type="Status"Tooltip="DARKACCELERATION_NB438"&gt;Dark Acceleration&lt;/LSTag&gt;. </content>
+  <content contentuid="he1a46a04g2036g5e40g9eadgcc9bc8214004" version="4">Gains an additional target at character levels 5 and 10 and damage increases by [1] at every odd-numbered character level.</content>
+  <content contentuid="h0192ffe0gd09fg6ff1g9f37g9f23e5cf2195" version="1">Shadowfeather's Curse</content>
+  <content contentuid="h2b23eac0g7e9egf85eg7cfcgdd9871abd86e" version="1">Inflicts [1] target(s) with &lt;LSTag Type="Status" Tooltip="NIGHTBRAND_NIGHTEYE_NB438"&gt;Night Brand&lt;/LSTag&gt;.</content>
+  <content contentuid="h2d4921c9g4e6cg6265g280dgad4f01b73bfc" version="3">Gains an additional target at character levels 5 and 10.</content>
+  <content contentuid="hf5e833edg0a6ag479bgfc60g0e0f17923805" version="1">Aetherial Annihilation</content>
+  <content contentuid="h61888532g48f5gfe83g45b2gfdebe72c62f3" version="1">A strike that bends reality, collapsing space into a singularity of darkness. Enemies are &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralyzed&lt;/LSTag&gt;. Can only be used while under the effect of &lt;LSTag Type="Status"Tooltip="DARKACCELERATION_NB438"&gt;Dark Acceleration&lt;/LSTag&gt;.</content>
+  <content contentuid="h7b3a3620g4300ge45dga000g91b6d4c520fd" version="1">Nullpoint Arrow</content>
+  <content contentuid="h01874cbeg4002ge6f1gf41fg3a58cf0b9002" version="1">Nullpoint Arrow</content>
+  <content contentuid="ha8015e51gabe1g1d30g730dgcdd27ea39ef5" version="2">Your next &lt;LSTag Tooltip="RangedWeaponAttack"&gt;Ranged Weapon Attack&lt;/LSTag&gt; is a guaranteed &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.</content>
+  <content contentuid="hcf13fa0dga6d0gfd1age618gbfc2f5db6fb0" version="1">From the depths of the void, the arrow finds its mark, silent and inevitable, absolute. Your next &lt;LSTag Tooltip="RangedWeaponAttack"&gt;Ranged Weapon Attack&lt;/LSTag&gt; is a guaranteed &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.</content>
+  <content contentuid="h6f3d0f61gce6egf2dfge503gff6b4b14df89" version="1">Nullpoint Arrow</content>
+  <content contentuid="hf51685a1g6412g5b89gf722gc24df1614edd" version="1">Your next &lt;LSTag Tooltip="RangedWeaponAttack"&gt;Ranged Weapon Attack&lt;/LSTag&gt; is a guaranteed &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.</content>
+  <content contentuid="h397436fagb3a8gcce6g40aeg1fee753515b5" version="1">%%% EMPTY</content>
+  <content contentuid="hf9771eafg832eg9113g028bgbb87b01969ca" version="1">The bonus damage increases by [1] at character levels 5 and 10.</content>
+  <content contentuid="h98ebfdacg2831ga3a1g1458gb652ed944297" version="1">The infused weapons are not bound to the inventory and can be shared.</content>
+  <content contentuid="h2dc38897g1d6cg1b74g6b3bga5ac873f6092" version="1">The infused weapons are not bound to the inventory and can be shared.</content>
+  <content contentuid="h2a430128gd0bbg5a53gfdfagfc41a8f10dd6" version="1">Swift Spell</content>
+  <content contentuid="hae86e0feg9668gf361g999dgab76cf24f360" version="1">You can cast an Illusion or Enchantment Spell without using an action.</content>
+  <content contentuid="hdce62154gddf3g33d7g44a7g57a9c943a949" version="1">Night Brand</content>
+  <content contentuid="h1c6297d0g26b6g2713g5fe1g6d4002ed6bbd" version="1">A cursed sigil burned into the soul, marking the creature as prey.</content>
+  <content contentuid="h5da8ac23g1c38g759cg5f78g58807ccc0370" version="1">%%% EMPTY</content>
+  <content contentuid="h57c48005g944ag4c12g48a8g37718766d606" version="1">Enigmatic Flow</content>
+  <content contentuid="h2a74928dg1382gf658ge037ge34f757c2ecc" version="1">Once per short rest, after killing a creature with &lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;Nightfall&lt;/LSTag&gt;, you may cast an illusion or enchantment spell without expending an action until combat ends.</content>
+  <content contentuid="h4dcdf0dag83c2g6a85gbb97g0f263e133006" version="1">Enigmatic Flow</content>
+  <content contentuid="hae432810g08bfg1cbcgcbd9gd7a55d733db4" version="1">Once per short rest, after killing a creature with &lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;Nightfall&lt;/LSTag&gt;, you may cast an illusion or enchantment spell without expending an action until combat ends.</content>
+  <content contentuid="hef9d9528gc637g36bfg6116gf2930732191c" version="1">Final Hour</content>
+  <content contentuid="h79d9381eg763cg76fbg5784g90e533e60ac2" version="2">Unleash a scream of pure rage, ascending in dark power as waves of torment inflict all nearby enemies with &lt;LSTag Type="Status"Tooltip="NIGHTBRAND_NB438"&gt;Night Brand&lt;/LSTag&gt; leaving them &lt;LSTag Type="Status"Tooltip="DAZED"&gt;Dazed&lt;/LSTag&gt; for 2 turns. You gain 1 turn of &lt;LSTag Type="Status"Tooltip="DARKACCELERATION_NB438"&gt;Dark Acceleration&lt;/LSTag&gt; and &lt;LSTag Type="Status"Tooltip="ECHOOFOBLIVION_UNLOCKED_NB438"&gt;Echo of Oblivion&lt;/LSTag&gt;</content>
+  <content contentuid="haefb7838gc7c3g5083g8e39g6458abe04ef7" version="2">Shadow Imitation I</content>
+  <content contentuid="h4c2804b3g578dg4236g4b15gbe2c934728b4" version="2">Every action leaves an imprint in the Plane of Shadows. Your intuitive bond with this realm allows you to read the memories woven into shadow and mimic others’ strengths.</content>
+  <content contentuid="h0a495b7eg7467gce7cg39fdge4c856ae645a" version="3">Shadowblood Inheritance</content>
+  <content contentuid="hda8d19c8g4a66gb410gedc2gfdf8f3a0e904" version="6">Inherit the legacy of a legendary Nightbringer.</content>
+  <content contentuid="h3d9c2cffgec4eg4bc1gc742gd16f09e8f080" version="7">Blackfinger Morvus</content>
+  <content contentuid="hc47e7871g0dbfg910cgc44ag97635570fc4f" version="7">You unlock &lt;LSTag Type="Passive" Tooltip="Assassinate_Ambush"&gt;Assassinate: Ambush&lt;/LSTag&gt;, &lt;LSTag Type="Passive" Tooltip="Assassinate_Resource"&gt;Assassin's Alacrity&lt;/LSTag&gt;, &lt;LSTag Type="Passive" Tooltip="TheShadowItself_NB438"&gt;The Shadow Itself&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Target_FingerOfShattering_NB438"&gt;Finger of Shattering&lt;/LSTag&gt;.</content>
+  <content contentuid="hc1110c3cgd217g8a4bg377bg382d13b59c82" version="6">Inquisitor Orun Velgrave</content>
+  <content contentuid="hf9c2ab19ga0d1g50c6g318bg50f093d6fd47" version="6">You unlock &lt;LSTag Type="Passive" Tooltip="RelentlessPursuit_NB438"&gt;Relentless Pursuit&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_ActionSurge"&gt;Action Surge&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Target_JudgementDescription_NB438"&gt;Judgement&lt;/LSTag&gt;. </content>
+  <content contentuid="h4f9a201dgfa96g23f1g381dg183f2156b08d" version="1">%%% EMPTY</content>
+  <content contentuid="h00ec0e62g37e9g69f7gc80bg0e26fc5a175b" version="7">Elros Kaan, First of the Favoured</content>
+  <content contentuid="h4960f8a4gbeb8gfa63g0243gd13644f33be1" version="6">You unlock [1] &lt;LSTag Type="ActionResource" Tooltip="SorceryPoint"&gt;Sorcery Points&lt;/LSTag&gt;, &lt;LSTag Type="Passive" Tooltip="Metamagic_Twinned"&gt;Twinned Spell&lt;/LSTag&gt;, &lt;LSTag Type="Passive" Tooltip="Metamagic_Distant"&gt;Distant Spell&lt;/LSTag&gt;, &lt;LSTag Type="Passive" Tooltip="Metamagic_Quickened"&gt;Quickened Spell&lt;/LSTag&gt; and &lt;LSTag Type="Passive" Tooltip="NightfallMetaMagic_NB438"&gt;Augmented Nightfall&lt;/LSTag&gt;.</content>
+  <content contentuid="h653dbf42g1c8cg332cg944cg6c23fba391d2" version="1">Call forth a unique raven which can mark enemies with &lt;LSTag Type="Status" Tooltip="NIGHTBRAND_NB438"&gt;Night Brand&lt;/LSTag&gt; and grants &lt;LSTag Type="Passive" Tooltip="DarkwingsFavor_NB438"&gt;Darkwing's Favor&lt;/LSTag&gt;.</content>
+  <content contentuid="h19992977g1b85g82c8g24a8g27f9c2d33a7b" version="1">Metamagic: Twinned Spell</content>
+  <content contentuid="h4f988237g7b7fg11ccg9f4bg985c9611cc5e" version="1">Spells that only target 1 creature can target an additional creature.&lt;br&gt;&lt;br&gt;Costs 1 Sorcery Point per &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt; level used. &lt;LSTag Tooltip="Cantrip"&gt;Cantrips&lt;/LSTag&gt; also cost 1 Sorcery Point.</content>
+  <content contentuid="h3a9454a3g3b0ag2dafgec53gf955657c5ffb" version="1">For spells that don't shoot a projectile, the targets need to be close enough together.</content>
+  <content contentuid="h10341930g57a0gdd70gff50g7e2033adba81" version="1">%%% EMPTY</content>
+  <content contentuid="haf0e8cd8gb759g602fg83edg8a9b739ec1f2" version="1">%%%EMPTY</content>
+  <content contentuid="h06344a96ge7cfg11e4g555dgf46589a9658e" version="1">%%%EMPTY</content>
+  <content contentuid="h5a2792f4gbbe5ge7e2gf1eag0fd20c9b9da1" version="1">fasfafs</content>
+  <content contentuid="ha88c688ag942fgfe2bgefd8g9c827cbad990" version="1">Metamagic: Twinned Spell</content>
+  <content contentuid="h6a8031f2g5572gc3b5g49degf55eb99be97a" version="2">%%%EMPTY</content>
+  <content contentuid="h63da0d8dg806bgb5a9g7ef6gef9f77340752" version="1">Spells that only target 1 creature can target an additional creature.&lt;br&gt;&lt;br&gt;Costs 1 Sorcery Point per &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt; level used. &lt;LSTag Tooltip="Cantrip"&gt;Cantrips&lt;/LSTag&gt; also cost 1 Sorcery Point.</content>
+  <content contentuid="h16a8e481gc813gf6edga4a6g13e8b80f8271" version="1">For spells that don't shoot a projectile, the targets need to be close enough together.</content>
+  <content contentuid="h28a22dc9g9a74g56dfgcc32ga5fade507a15" version="1">%%%EMPTY</content>
+  <content contentuid="h4df3c79dg6793gdfd9g0024gb1cc1ff54661" version="2">Twinned Spell</content>
+  <content contentuid="hf1c07f3ege99ag3a69g2777gd26fcdf98073" version="2">Shoot 1 additional projectile.</content>
+  <content contentuid="h1dbd100egab5cg1b7fg3439gee2796c935e1" version="1">Shadow Mimicry: Rogue</content>
+  <content contentuid="h2953c641gc3bcgd57fg760cgbf2de4a4c35b" version="1">Divine Smite</content>
+  <content contentuid="h4a86bdbeg94b0gd1efgef4bg762b97b23786" version="1">blabla</content>
+  <content contentuid="h9c7de474gaf36gc3d2gd22ag30bf35c2e3bb" version="5">Starblade Saint Sel'varis</content>
+  <content contentuid="h18fc8c48gb9bcg2986g37b2gc3874390071b" version="6">Starblade Communion</content>
+  <content contentuid="h75bc7f3cg98ebg694eg580cg69b5aee620de" version="10">You take [1] damage each turn. &lt;br&gt;&lt;br&gt;Whenever you attack with &lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;Nightfall&lt;/LSTag&gt; you deal an additional [2] and can cast &lt;LSTag Type="Spell" Tooltip="Target_ChaliceHeal_NB438"&gt;Starlight Benediction&lt;/LSTag&gt;.</content>
+  <content contentuid="h5d89fb65g8fecgd6d6gfc78g254a0f960c05" version="4">You take [1] damage each turn. &lt;br&gt;&lt;br&gt;Whenever you attack with &lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;Nightfall&lt;/LSTag&gt; you deal an additional [2] and can cast &lt;LSTag Type="Spell" Tooltip="Target_ChaliceHeal_NB438"&gt;Starlight Benediction&lt;/LSTag&gt;.</content>
+  <content contentuid="hf5800759g4f05gb2b4g51bdg2abb100ef225" version="4">Dismiss Starblade Communion</content>
+  <content contentuid="hbd483ca9ge636g64e8gdb90g63df7f097c72" version="7">End &lt;LSTag Type="Spell" Tooltip="Shout_StarryFormChalice_NB438"&gt;Starblade Communion&lt;/LSTag&gt;.</content>
+  <content contentuid="h604c0968gbdf8gd324g3f3eg52f06cb239d4" version="1">%%% EMPTY</content>
+  <content contentuid="h46c1f86dg5207gba12g0a28gd422976959cf" version="2">h456fce0ag1cb6g4901gaf2dg2ceced7ad5eb:1:Teleport into the shadows. The next spell you cast that turn will benefit from &lt;LSTag Type="Passive" Tooltip="Metamagic_Distant"&gt;Distant Spell&lt;/LSTag&gt; without costing any Sorcery Points.</content>
+  <content contentuid="h5fc4189egb91cg6303g887cgbc76a113d9e7" version="2">Metamagic: Augmented Nightfall</content>
+  <content contentuid="h1f9a180ag0ea2g881ega8e7g485a8618dbd4" version="6">&lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;Nightfall&lt;/LSTag&gt; targets up to 2 creatures within [1] and costs a bonus action instead of an action. &lt;br&gt;&lt;br&gt;Costs [2] Sorcery Points. </content>
+  <content contentuid="h7cc93523ge413g232bgeccdg642d2a87dfd3" version="1">Augmented Nightfall</content>
+  <content contentuid="hbba717c2g2568g3eb6g05edg99bb87c95cc1" version="6">Target up to two creatures within 12m.</content>
+  <content contentuid="h7ad42309g52e1g8760g0de3ge05729418f0e" version="1">Judgement</content>
+  <content contentuid="he353e297gae31gfbb5g1179gfd74805b6e23" version="2">Increases the damage of your next &lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;Nightfall&lt;/LSTag&gt; attack (if it's not a killing blow) by [1].</content>
+  <content contentuid="hd82aad96g6e13gff4dg8335g7bbae09f03ac" version="1">Judgement</content>
+  <content contentuid="hb622a9c7g74fdgb0c1g4f8cg666f7a87f238" version="1">Judgement</content>
+  <content contentuid="h8084c4acgdfb8g8a0eg5aeeg3ee4d26f394b" version="6">Enhance your next &lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;Nightfall&lt;/LSTag&gt; to deal an additional [1]. Can be upcast to increase the bonus damage.</content>
+  <content contentuid="h8d46592fg032bg9734gd125gea16b9ccb187" version="2">Judgement (Critical)</content>
+  <content contentuid="hf74003ddgfa79gb151g3c3cg0f57bf4cf07f" version="1">Increases the damage of your next &lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;Nightfall&lt;/LSTag&gt; attack (if it's not a killing blow) by [1], if it lands as a critical hit.</content>
+  <content contentuid="h38a1f225g3889g4b41g2f7dg8ce5400633df" version="5">Starlight Benediction</content>
+  <content contentuid="ha8b5bcc0g4341gfa22g8df8gdcc69f3f6713" version="4">A radiant grace envelops the target, restoring their vitality and granting them &lt;LSTag Type="Status" Tooltip="STARLIGHTBENEDICTION_NB438"&gt;Champion of Light&lt;/LSTag&gt; for 2 turns. The amount of healing scales with your charisma &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Must be used on the same turn it gets activated.</content>
+  <content contentuid="ha5706246g561agbcd6gf41bg3e5be3a8d1fc" version="1">Must be used on the same turn it gets activated.</content>
+  <content contentuid="hfd3ac7d3g00fbg96c2gfb89gf99b07a3c1f7" version="1">%%% EMPTY</content>
+  <content contentuid="hbf8edab4g1e41g4292gd2e5gb5bab65b5e61" version="1">%%% Empty</content>
+  <content contentuid="he6e347cag0257g7299ge1e2g57afc583f095" version="3">You unlock &lt;LSTag Type="Passive" Tooltip="MiracleHands_NB438"&gt;Miracle Hands&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_LightOfTheFirstFountain_NB438"&gt;Light of the First Fountain&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Shout_StarryFormChalice_NB438"&gt;Starblade Communion&lt;/LSTag&gt;.</content>
+  <content contentuid="h9fffbccbg9dedg7879gc22cgddf85b0e1b2e" version="2">Starblade Communion</content>
+  <content contentuid="hc28db7b2geb9ag913cg741dg7cf9649bbd74" version="3">Shadowblood Inheritance: Malgor, Lord of the Abyss</content>
+  <content contentuid="hd102e7afga691g5c12g83f6g422c256d9c60" version="1">%%% EMPTY</content>
+  <content contentuid="h19b62a5bgd237gd974g1432g5eccda7b1ff3" version="1">Giant's Rage</content>
+  <content contentuid="h741bdb22g3bb3g38a9g5cc5gdb9d85b64281" version="1">Enter a &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt; and increase in size. Your Rage damage bonus is doubled on Throw attacks.</content>
+  <content contentuid="h55f8ab7cgb1aegbf63ga5deg7b396b76d467" version="1">asasf</content>
+  <content contentuid="he6cb5de2gce34ga1c8gb901g38d76876332f" version="1">&lt;LSTag Type="Status" Tooltip="RAGE"&gt;Raging&lt;/LSTag&gt; and increased in size. Deals an additional [1] damage with melee and improvised weapons, and [2] damage when throwing objects.&lt;br&gt;&lt;br&gt;Also has Resistance to physical damage and Advantage on Strength &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot cast or concentrate on spells.</content>
+  <content contentuid="h2ec2f9a6ge209gdff5g9ba5gecdb90a1452b" version="2">Dark Authority</content>
+  <content contentuid="h5ebafa00g3a91ga2e0ge644g7b16dfeeeae4" version="3">Your melee attacks deal an additional [1] and inflict &lt;LSTag Type="Status" Tooltip="NIGHTBRAND_NIGHTEYE_NB438"&gt;Night Brand&lt;/LSTag&gt; for 1 turn.</content>
+  <content contentuid="h70c0a3abga47dg1d39g1f27g78c0e3d414c2" version="1">You unlock &lt;LSTag Type="Passive" Tooltip="FeralInstinct"&gt;Feral Instinct&lt;/LSTag&gt;, &lt;LSTag Type="Passive" Tooltip="BrutalCritical"&gt;Brutal Critical&lt;/LSTag&gt;, &lt;LSTag Type="Passive" Tooltip="ImprovedCritical"&gt;Improved Critical&lt;/LSTag&gt;, &lt;LSTag Type="Passive" Tooltip="RecklessAttack"&gt;Reckless Attack&lt;/LSTag&gt; and &lt;LSTag Type="Passive" Tooltip="NightbrandOnAttack_NB438"&gt;Dark Authority&lt;/LSTag&gt;.</content>
+  <content contentuid="h38a09015g4c8dg2d5eg11e4gaa17e38c5600" version="1">Shadowblood Inheritance: Vorrak’s Final Witness</content>
+  <content contentuid="h5cc11aaeg6764g91e4g03d5g548b1346148c" version="1">%%% EMPTY</content>
+  <content contentuid="h9c4e2f11g1c3dg3c58g697fg0c12862b972e" version="2">Voidcoil Leash</content>
+  <content contentuid="h9144889ag0ea3g47a1g29d4g9e67aaeaa0e7" version="5">Shoot [1] eldritch tendrils, each inflicting 1 turn of &lt;LSTag Type="Status" Tooltip="NIGHTBRAND_NIGHTEYE_NB438"&gt;Night Brand&lt;/LSTag&gt; and pulling enemies toward you.</content>
+  <content contentuid="h272082c7gf77ag9e62gdc6dge2070566f8e5" version="2">Malrik, the Crowned Hexslinger</content>
+  <content contentuid="h7822e035g6694g458dg2743g2dc04f040274" version="1">%%% EMPTY</content>
+  <content contentuid="h43297a26gbe07g4571gf55bg5a1e45377b5f" version="2">Tormenting Coil</content>
+  <content contentuid="hb9162861g95a9g7e5bg7bebg027ef28fbdee" version="5">When you cast &lt;LSTag Type="Spell" Tooltip="Projectile_MagicMissile_NB438"&gt;Voidcoil Leash&lt;/LSTag&gt;, add your Charisma &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; to the damage it deals.</content>
+  <content contentuid="hc8b13960g8ab1ga2a1g7d7dg995327b0b9e6" version="5">You unlock &lt;LSTag Type="Passive" Tooltip="ClarifiedMortality"&gt;Mortal Reminder&lt;/LSTag&gt;, &lt;LSTag Type="Passive" Tooltip="MistyEscape_NB438"&gt;Misty Escape&lt;/LSTag&gt;, &lt;LSTag Type="Passive" Tooltip="CrownOfCruelty_NB438"&gt;Crown of Cruelty&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Projectile_MagicMissile_NB438"&gt;Voidcoil Leash&lt;/LSTag&gt;.</content>
+  <content contentuid="h2e5d6c6cg5e60g3785gf404ge42d0d0fd889" version="1">%%% EMPTY</content>
+  <content contentuid="hdb768ac2gfe17g2785g6059gecb61efabac7" version="2">Dark Challenge</content>
+  <content contentuid="hc5893282gc242gacb4gf4a6gf4f11adccabf" version="1">Challenge the enemies around you, compelling them to attack only you. Any attacks they might make against other targets have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+  <content contentuid="hee2c0ef1g3ad1gaaefgc32bg50e4bd01153b" version="1">%%% EMPTY</content>
+  <content contentuid="hb6d995dbg4c88g8705g9494gb3bdf5ba74f8" version="1">%%% EMPTY</content>
+  <content contentuid="hbd45f6faga914g4ff5g7e10gad5351cf61ef" version="1">Dark Challenge</content>
+  <content contentuid="hfd4d4035gfa08gec5cg048agc62874c21e53" version="1">Affected entity is compelled to attack the challenger. Any attacks made against creatures other than the challenger have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Condition ends if the entity moves [1] away from the challenger.</content>
+  <content contentuid="hd758d365g1aa6g18fbgd7a1g5fc9aa10ad7f" version="3">Kaelen, Warden of the Eternal Night</content>
+  <content contentuid="h667aace1g0b6egc6b7g0228g39be1c52ffdb" version="5">Eternal Night’s Aegis</content>
+  <content contentuid="h53a35c96gd58bgb010g2098g2463154be477" version="4">Enemies have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against you. When a creature hits you with a melee attack, it becomes afflicted with &lt;LSTag Type="Status" Tooltip="NIGHTBRAND_NIGHTEYE_NB438"&gt;Night Brand&lt;/LSTag&gt; for 2 turns. You also reduce all incoming damage by 2.</content>
+  <content contentuid="h1fa61c2fg2801g0622g150fg46512916bc44" version="4">Vow of the Eternal Night</content>
+  <content contentuid="h154a1daag9600g34a2g0946g76e8cd198d3b" version="3">When an ally within [1] of you takes damage, use your reaction to heal them by [2] (scales with Charisma) at the cost of taking [3] yourself.</content>
+  <content contentuid="heb83c380g55b6g059dg4ae7g7dadd4596bf3" version="1">Voidguard's Vow</content>
+  <content contentuid="hd5f21007ge9e5g237dg5d5fg25e13b3a0b8f" version="2">When an ally within [1] of you takes damage, use your reaction to heal them by [2] (scales with Charisma) at the cost of taking [3] yourself.</content>
+  <content contentuid="hf3d1c1b5gd90cg8615g1520g2ac3067d5869" version="3">Vow of the Eternal Night</content>
+  <content contentuid="h0f89813eg64beg1c98gb384g0d942811be78" version="2">When an ally within [1] of you takes damage, use your reaction to heal them by [2] (scales with Charisma) at the cost of taking [3] yourself.</content>
+  <content contentuid="h55a74703g36e7ga317g9725ga7bf65d16ced" version="2">Eternal Guardians</content>
+  <content contentuid="h39a0a00dg626ag33f4g6037g52cc9403d415" version="6">Call forth dark spirits to protect the area around you. Nearby enemies take [1] and [2] per turn and their &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; is halved.</content>
+  <content contentuid="h04150f02ge500g5f62g611bg8835f703a2f4" version="1">Nearby enemies take [1] and [2] per turn, and their &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; is halved.</content>
+  <content contentuid="h36aee6c7g62bfgdf7dg8012g71516b672e65" version="2">Eternal Guardians Aura</content>
+  <content contentuid="h2afffa9cg3930gc69bg5a4fg200bf6ab5db2" version="4">Dark Spirits protect the affected entity.&lt;br&gt;&lt;br&gt;Nearby enemies take [1] and [2] per turn and their &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; is halved.&lt;br&gt;&lt;br&gt;The caster can't become &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt; while concentrating on this spell.&lt;br&gt;&lt;br&gt;On a successful save, targets still take half damage.</content>
+  <content contentuid="h0152abc0gd120gcf3bg0c69g5a3b6a7e33cf" version="2">Eternal Guardians </content>
+  <content contentuid="h27299c63gc7d8gfe7agc508gac57a77035bf" version="4">Dark Spirits assail the affected entity.&lt;br&gt;&lt;br&gt;Takes [1] and [2] per turn, and &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; is halved.&lt;br&gt;&lt;br&gt;Still takes half damage on successful Saving Throw.&lt;br&gt;&lt;br&gt;Removed upon leaving the area.</content>
+  <content contentuid="h7bfe9258gb372g8112gddd8g30a7085db30d" version="1">%%% EMPTY</content>
+  <content contentuid="h35362191g7680gde99g7576g53ad5ad69a17" version="4">You unlock &lt;LSTag Type="Passive" Tooltip="TemptationOfTheVoid_NB438"&gt;Eternal Night's Aegis&lt;/LSTag&gt;, &lt;LSTag Type="Passive" Tooltip="VoidguardsVow_NB438"&gt;Vow of the Eternal Night&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_ShadowGuardians_NB438"&gt;Eternal Guardians&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Shout_DarkChallenge_NB438"&gt;Dark Challenge&lt;/LSTag&gt;.</content>
+  <content contentuid="h52717355gc5c3gf2aag5cf5gabe95947b51d" version="1">%%%Empty</content>
+  <content contentuid="h017d561fg67c5g905dg2568gec1cbf54cecf" version="2">Predator's Ecstasy</content>
+  <content contentuid="ha8f73898g74ccg10ebg650bg637ee8a18505" version="1">You have 1 stack.</content>
+  <content contentuid="h568689f0g325fgb5b5g7cf4gbbdaa83ad9c8" version="2">Predator's Ecstasy</content>
+  <content contentuid="h49c94363gbeb9gaef5g2701ge1b7b7851ba1" version="1">%%%Empty</content>
+  <content contentuid="h7cb62555g78efgde6fg0f2eg951d4afbf07c" version="2">Predator's Ecstasy</content>
+  <content contentuid="h662f5b65g9f7eg7365gd5aag6d6b942f10b9" version="3">Shoot 2 additional projectiles.</content>
+  <content contentuid="hdd17041dg6942g1b87g5ad6gdf23d2df1491" version="2">Predator's Ecstasy</content>
+  <content contentuid="h0b19bdd2g67f1ge69bg7a3ag7471abda2b17" version="6">Shoot 3 additional projectiles.</content>
+  <content contentuid="hcf3b503fg5c60g3599g9b39g98829d1400d9" version="1">%%%Empty</content>
+  <content contentuid="h1f51d04ag656dg9d6egb5e8gc4cbb68d8730" version="2">Predator's Ecstasy</content>
+  <content contentuid="h919e5bdcgef7egf3degc7a3g68fe99d9d6a7" version="4">Shoot 4 additional projectiles.</content>
+  <content contentuid="h1b69eeb4gd729gc6c4g64ceg08bd86fb07a9" version="1">%%%Empty</content>
+  <content contentuid="h0d1382adg85beg8cb3gc105g1d3c9ebdf63e" version="1">%%%Empty</content>
+  <content contentuid="ha86b6c19ga80bg91d6ge057gf066294e1736" version="2">Predator's Ecstasy</content>
+  <content contentuid="h1a29c84ag1169g2088gde73g2283a7dcab59" version="3">Shoot 5 additional projectiles.</content>
+  <content contentuid="h23a93869g13b4gb4eeg6208ge5f2384c3db6" version="1">%%%Empty</content>
+  <content contentuid="h9d574a0bg5037ga1c2gd72eg41fe0c4236d3" version="2">Predator's Ecstasy</content>
+  <content contentuid="h9e6e0e78gd608gf8c8gc961g5845ba4c6382" version="3">Shoot 6 additional projectiles.</content>
+  <content contentuid="hfc407339gf4feg11bfg1254gc9f4c1d33b82" version="1">%%%Empty</content>
+  <content contentuid="h7ea30699gd402g5c3cgcb34g4feb95cfb1d8" version="2">Predator's Ecstasy</content>
+  <content contentuid="h94ae3ac3g61b5gc10dg6330ga9e04c01424d" version="3">Shoot 7 additional projectiles.</content>
+  <content contentuid="h420d1bfbg3e26g2865g6120gb9a21f090176" version="1">%%%Empty</content>
+  <content contentuid="h036e9b33g05dagd3a4gf0d7g91729207e22b" version="2">Predator's Ecstasy</content>
+  <content contentuid="h483e9d32geb59g71dagde6agc2cfb06fa5f3" version="3"> Shoot 8 additional projectiles.</content>
+  <content contentuid="hbe1ad882gd457gd74cg7e67gad418986d727" version="2">Predator's Ecstasy</content>
+  <content contentuid="ha2f9214eg22aag50e7g0044gd9f6f4dc0bb9" version="4">Shoot 9 additional projectiles.</content>
+  <content contentuid="h2ca38b1egdc26g127bg76c0g7fa9389e1373" version="1">%%%Empty</content>
+  <content contentuid="h6fc0f9d3ge491g01e2g4d1eg0ce066592ec8" version="1">%%%Empty</content>
+  <content contentuid="h8c2424fdg7170gc11cg761egc0be581d9af0" version="2">Predator's Ecstasy</content>
+  <content contentuid="hdc618cadgb5d1g9caag423ag269cc07baae8" version="3">Shoot 10 additional projectiles.</content>
+  <content contentuid="h527bd38bgaaa9gc1eegaa0ag6bb787e14062" version="2">Shoot 1 additional projectile.</content>
+  <content contentuid="h960d294fg00bfg0d03g96ffge5b2e99c5f70" version="1">Crown of Cruelty</content>
+  <content contentuid="h0dee8954ge9dcg9e2cgd80dgce14fb3d8cf3" version="6">Each time you attack with &lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;Nightfall&lt;/LSTag&gt;, you gain a stack of &lt;LSTag Type="Status" Tooltip="PREDATORSECSTASYCOUNTER_NB438"&gt;Predator's Ecstasy&lt;/LSTag&gt;. Your next &lt;LSTag Type="Spell" Tooltip="Projectile_MagicMissile_NB438"&gt;Voidcoil Leash&lt;/LSTag&gt; shoots additional projectiles equal to your current stacks. &lt;br&gt;&lt;br&gt;You can accumulate up to 10 stacks. All stacks are lost when you cast &lt;LSTag Type="Spell" Tooltip="Projectile_MagicMissile_NB438"&gt;Voidcoil Leash&lt;/LSTag&gt; or after a long rest.</content>
+  <content contentuid="he9f6b0a8g6b33gcef0g885cgdd8f263f6352" version="2">With each strike against their prey, the entity is overtaken by an intoxicating surge of dark power.</content>
+  <content contentuid="ha3132966g42a3g5f2ag288fg5770deed44a3" version="1">sddas</content>
+  <content contentuid="ha3b7866cg6d3bga844g301bg29678d555396" version="2">Starblade Communion</content>
+  <content contentuid="hebc0ed48g6ee8gf747gd3a6g0b02ecf38bf1" version="2">You take [1] every turn and &lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;Nightfall&lt;/LSTag&gt; deals additional [2]. </content>
+  <content contentuid="h327d86a0gf2aeg99f6gfaf2gecf5fce4e0e3" version="4">Lasts until combat ends or until you cast &lt;LSTag Type="Spell" Tooltip="Shout_DismissStarryFormChalice_NB438"&gt;Dismiss Starblade Communion&lt;/LSTag&gt;. The additional damage scales with your Charisma &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;. </content>
+  <content contentuid="h0c98f9beg6729g02e0g001ag4b94351b91cd" version="1">Darkwing's Favor</content>
+  <content contentuid="h1868e63eg9346g4c36g7ef4g6198742e5d0a" version="1">When attacking with &lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;Nightfall&lt;/LSTag&gt;, add your Charisma Modifier to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and deal additional [1].</content>
+  <content contentuid="h694604c3gac62g0848g3592g77fc40da90ed" version="1">The bonus damage increases by [1] at character levels 5 and 10.</content>
+  <content contentuid="hf600611bg5d2fgaeefgc292g06e63a20d63a" version="1">Light of the First Fountain</content>
+  <content contentuid="h3925aac2g3b5ag963cg4ca9g92f50d3a6bf8" version="1">You and your allies are revitalised as though you would have taken a &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="h90bc767ag1d26g0004g8182gbbe1a057262d" version="1">When attacking with &lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;Nightfall&lt;/LSTag&gt;, add their Charisma Modifier to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and deal additional [1].</content>
+  <content contentuid="hf0e6db62g493fg0fc4g6935g24951508f174" version="1">The bonus damage increases by [1] at character levels 5 and 10.</content>
+  <content contentuid="hd2532752g544cg6e5bgafd5gcfb6ca99d602" version="1">Miracle Hands</content>
+  <content contentuid="h743cb5b1gc2c9g6ad6gb415gd5e6268e57b7" version="5">When you cast healing on a target, they regain additional &lt;LSTag Tooltip="HitPoints"&gt;Hit Points&lt;/LSTag&gt; equal to your Charisma &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; and you regain [1].</content>
+  <content contentuid="h3c896348g3a5ag2dd7g6f12g1adfcc6a8f07" version="1">Miracle Hands</content>
+  <content contentuid="h2e9d6658g3030g084eg9c1dg9d0cba23d167" version="1">When casting a healing spell, the target regains additional &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; equal to your Charisma &lt;LSTag Tooltip="AbilityModifier"&gt; and you regain [1].</content>
+  <content contentuid="h2eaf963fg57bdg1cb9g2d7ag33500b2dcb12" version="1">Starlight Benediction</content>
+  <content contentuid="h32b485e2g2ee7g358cgc327gb2607d8c4b2d" version="1">Starlight Benediction</content>
+  <content contentuid="hc52da783g31f8gd200g7f2eg9518f4c9f979" version="1">Champion of Light</content>
+  <content contentuid="h8b2e89d2gcd0fg287fg138ag3f3b601bdfc5" version="2">Your melee attacks inflict 2 turns of &lt;LSTag Type="Status" Tooltip="MAG_RADIANT_RADIATING_ORB"&gt;Radiating Orb&lt;/LSTag&gt;.</content>
+  <content contentuid="h6c5ec1c4gafcdgf9fcgebefg30164c1e59ac" version="1">Finger of Shattering</content>
+  <content contentuid="h1bb2917dg3568g8cbeg6b70g3b976b535629" version="4">You unleash corruptive energy through your touch, shattering the target’s life force.&lt;br&gt;&lt;br&gt;While out of combat, teleport to an enemy, dealing force damage equal to half of its maximum &lt;LSTag Tooltip="HitPoints"&gt;Hit Points&lt;/LSTag&gt;. This attack cannot miss and counts as if you had used &lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;Nightfall&lt;/LSTag&gt;.</content>
+  <content contentuid="h076525e9g067ag05a7g1e27g6c4f484924e2" version="1">Relentless Pursuit</content>
+  <content contentuid="h9d7d4d91g3eb0g5164g7b81gee6b862a34ba" version="1">Gain an additional bonus action.</content>
+  <content contentuid="h44d499f5ga228g5903g7be4g10fae947df94" version="1">%%% EMPTY</content>
+  <content contentuid="hde3761aegbf33g129bgb7a9gff047192d009" version="1">Through &lt;LSTag Type="Passive" Tooltip="MiracleHands_NB438"&gt;Miracle Hands&lt;/LSTag&gt; Healing, you also gain &lt;LSTag Type="Status" Tooltip="STARLIGHTBENEDICTION_NB438"&gt;Champion of Light&lt;/LSTag&gt; for 2 turns when healing a creature other than yourself.</content>
+  <content contentuid="h931c07f1gaf65g7c45gbbeegc1f9ce24fc66" version="1">Voidcoil Shackles</content>
+  <content contentuid="h39e23853g9b09g57fag65f0gf3ecd2aea911" version="1">Shoot [1] eldritch tendrils, each inflicting 1 turn of &lt;LSTag Type="Status" Tooltip="NIGHTBRAND_NIGHTEYE_NB438"&gt;Night Brand&lt;/LSTag&gt;, pulling enemies toward you and on critical hit &lt;LSTag Type="Status" Tooltip="CRIPPLED"&gt;Maim&lt;/LSTag&gt; them for 1 turn.</content>
+  <content contentuid="h14a6148dg40deg897ag2599g129da1a9d7f8" version="2">Shoot additional projectiles depending on the number of &lt;LSTag Type="Status" Tooltip="PREDATORSECSTASYCOUNTER_NB438"&gt;Predator's Ecstasy&lt;/LSTag&gt; stacks.</content>
+  <content contentuid="h84f9b94eg07a5g776fg639ag5cc906099ba4" version="1">Judgement</content>
+  <content contentuid="hef97f0ddg60e9g6e24gf87fgdc23f5f24a79" version="3">Unleash an enhanced &lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;Nightfall&lt;/LSTag&gt; attack, smiting your enemies with lightning.</content>
+  <content contentuid="h33b1674cgf405g72b2g0bcag5f700c1d60eb" version="1">Judgement</content>
+  <content contentuid="he8f264b7gcdb9g5738gc328gc3324f85f071" version="3">Unleash an enhanced &lt;LSTag Type="Spell" Tooltip="Target_Nightfall_NB438"&gt;Nightfall&lt;/LSTag&gt; attack, smiting your enemies with lightning. </content>
+  <content contentuid="h0d6f3caegd7d9gfe85g14b7gde0b29b76ff7" version="1">or SpellId('Target_Judgement_1_NB438') or SpellId('Target_Judgement_2_NB438') or SpellId('Target_Judgement_3_NB438') or SpellId('Target_Judgement_4_NB438') or SpellId('Target_Judgement_5_NB438') or SpellId('Target_Judgement_6_NB438')</content>
+</contentList>

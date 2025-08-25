@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="ClassDescriptions">
+        <node id="root">
+            <children>
+                <node id="ClassDescription">
+                    <attribute id="BaseHp" type="int32" value="10"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_NIGHTBRINGER_438"/>
+                    <attribute id="Description" type="TranslatedString" handle="h6d6adceegcc60g8dd6g37degf53ad86a6f3c" version="7"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3ec54cb5gc844g7a1egc163gfc4871d8fe44" version="1"/>
+                    <attribute id="HpPerLevel" type="int32" value="6"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MulticlassSpellcasterModifier" type="double" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="6"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="b01bbeda-5ab9-4ebf-989d-5df718a83186"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Fighter"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="6"/>
+                    <attribute id="UUID" type="guid" value="ae2e07fa-5857-4150-be30-0dc230ab3bbf"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="1ae7017c-4884-4a43-bc4a-742fa0d201c0"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="1671b4bf-4f47-4bb7-9cb9-80bb1f6009d5"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

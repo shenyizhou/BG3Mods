@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hf127450dg08cfgdb94geb51gfa8ff703cd5a" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hfedd8a13g77ddg6274g07a0gb8ff83890624" version="3"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Proficiency(LightArmor)"/>
+                    <attribute id="ProgressionTableId" type="guid" value="8ef39dbf-30cc-4cbb-94dd-d05c57bd6024"/>
+                    <attribute id="Type" type="FixedString" value="ArcaneVanguard"/>
+                    <attribute id="UUID" type="guid" value="61a46867-f03b-4557-90a7-767757f11494"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="ha24ed3e2g136cg8948ge388g5f9d3e482c70" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0c49376fgd384g554fg7f95g295c48b14269" version="3"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Proficiency(MediumArmor)"/>
+                    <attribute id="ProgressionTableId" type="guid" value="9991a960-f2ac-4803-8970-3bc7a994ae5a"/>
+                    <attribute id="Type" type="FixedString" value="JudgmentVanguard"/>
+                    <attribute id="UUID" type="guid" value="b7970321-0f09-42cb-8364-cef4b1d87d88"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h33e4d464gd62dg66d1g130bgf8658b6ec148" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h78f983d5g8141ge0fega401g1e1a8a0b88ce" version="3"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Proficiency(SimpleWeapons)"/>
+                    <attribute id="ProgressionTableId" type="guid" value="8ef39dbf-30cc-4cbb-94dd-d05c57bd6024"/>
+                    <attribute id="Type" type="FixedString" value="ArcaneVanguard"/>
+                    <attribute id="UUID" type="guid" value="d64eda5d-0821-4a57-92f9-6e6262fbe9e6"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h4b2f938fg41bfgb7a0g67c8g7cfc27a178ee" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h80163cf2g8f00g6527gd9e9ge2ba4fcbfc4f" version="3"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Proficiency(MartialWeapons)"/>
+                    <attribute id="ProgressionTableId" type="guid" value="8ef39dbf-30cc-4cbb-94dd-d05c57bd6024"/>
+                    <attribute id="Type" type="FixedString" value="ArcaneVanguard"/>
+                    <attribute id="UUID" type="guid" value="800a5fae-0159-412c-9d46-0804bfe92f88"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hb6dc245fged1fg7053gce28g36e1abb1f649" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h44c818aeg0bd7g322bg4a82gac5edcd7e5e6" version="2"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Proficiency(HeavyArmor)"/>
+                    <attribute id="ProgressionTableId" type="guid" value="9991a960-f2ac-4803-8970-3bc7a994ae5a"/>
+                    <attribute id="Type" type="FixedString" value="JudgmentVanguard"/>
+                    <attribute id="UUID" type="guid" value="e5fcceae-fb78-4619-904f-1ac0bc2540bf"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="he53c9f67g1c19gec6eg7beag6fb64d29ca15" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h77a7c463g6769gbdc7gfdf0g12250385ef33" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,2,1)"/>
+                    <attribute id="ProgressionTableId" type="guid" value="8ef39dbf-30cc-4cbb-94dd-d05c57bd6024"/>
+                    <attribute id="Type" type="FixedString" value="ArcaneVanguard"/>
+                    <attribute id="UUID" type="guid" value="56d4aa24-58bb-4580-8186-e1e6f8b8a2d1"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hffc64102gfd00g0410g025dgda929f878571" version="3"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h479a3657g49f5g8974g327ag5a1f08e786e4" version="2"/>
+                    <attribute id="SelectorId" type="FixedString" value="DervishFlourish"/>
+                    <attribute id="UUID" type="guid" value="026ffed6-9a20-4a0a-8429-9eb6355fae78"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hf9237d3bg3777g51b5gfaf5g21f98ea84259" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7df30aa3g105dg00b6g1f49g7c21cb0b69dc" version="1"/>
+                    <attribute id="SelectorId" type="FixedString" value="VanguardTalents"/>
+                    <attribute id="UUID" type="guid" value="29f9270a-f424-4215-9b30-eedaa9d92063"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h39819fb0gf597gc2c9gd5a8g4494a760a982" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h022ada4eg24a7ga5ebg70a8g71dbccab383d" version="3"/>
+                    <attribute id="SelectorId" type="FixedString" value="DervishFlourishTwo"/>
+                    <attribute id="UUID" type="guid" value="b26bb215-63fc-4498-8af9-4a87e877a46c"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h712e77afg192fg9882geb76gd23db0287741" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3e848fc8g3bf0g234eg2464g8bf5606ae607" version="2"/>
+                    <attribute id="SelectorId" type="FixedString" value="DervishFlourishThree"/>
+                    <attribute id="UUID" type="guid" value="393d9761-53f4-4f62-b068-cb6356aadf3e"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="heed55332ga5c6g308ag7061gfe508cd2a404" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="he96d08adgad08gda87gbc44g92ffff98d4cc" version="2"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Proficiency(MediumArmor)"/>
+                    <attribute id="ProgressionTableId" type="guid" value="6e69e6db-5739-4bef-bb5c-2578e73344d7"/>
+                    <attribute id="Type" type="FixedString" value="SentinelVanguard"/>
+                    <attribute id="UUID" type="guid" value="a6638cfb-e948-4ee2-8d57-ac809a8d799a"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hd8a31da0g7a0eg9b2dg7539g8b6e93a0de62" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h65d0d703g98b0gf00ag9990g274b3f10ffa2" version="2"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,1,1)"/>
+                    <attribute id="ProgressionTableId" type="guid" value="8ef39dbf-30cc-4cbb-94dd-d05c57bd6024"/>
+                    <attribute id="Type" type="FixedString" value="ArcaneVanguard"/>
+                    <attribute id="UUID" type="guid" value="c76609dd-b826-4027-a1a4-60f154511cea"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h2968a0a2g5880g22e8g3a68g4af1806eec20" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb7d4d9ecg365fga828gc56cgcdc7ea201c03" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,2,2)"/>
+                    <attribute id="ProgressionTableId" type="guid" value="8ef39dbf-30cc-4cbb-94dd-d05c57bd6024"/>
+                    <attribute id="Type" type="FixedString" value="ArcaneVanguard"/>
+                    <attribute id="UUID" type="guid" value="7e5781d4-8c64-4238-9727-6fc64b182340"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h2c5bf9abg74bfgff49ge991gffe3d36d7ffa" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h47f35cd1gfde5g1478gdf97g93d80be55275" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,1,2)"/>
+                    <attribute id="ProgressionTableId" type="guid" value="8ef39dbf-30cc-4cbb-94dd-d05c57bd6024"/>
+                    <attribute id="Type" type="FixedString" value="ArcaneVanguard"/>
+                    <attribute id="UUID" type="guid" value="616dacb7-f4c9-400b-822e-2816aa053d7e"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h0c93c2d7g1472g1f69g0703ga51ecddf9f80" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7e5c6562gc37eg3572g8bd5ga245037dd9fa" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,2,3)"/>
+                    <attribute id="ProgressionTableId" type="guid" value="8ef39dbf-30cc-4cbb-94dd-d05c57bd6024"/>
+                    <attribute id="Type" type="FixedString" value="ArcaneVanguard"/>
+                    <attribute id="UUID" type="guid" value="58ea4042-d185-48ae-9648-515c8fd36c86"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h20327ff5gebb2g6740g9694g8af7d9205b93" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h04a39212g4b6dg9879g9d65g6006c39656a1" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,1,3)"/>
+                    <attribute id="ProgressionTableId" type="guid" value="8ef39dbf-30cc-4cbb-94dd-d05c57bd6024"/>
+                    <attribute id="Type" type="FixedString" value="ArcaneVanguard"/>
+                    <attribute id="UUID" type="guid" value="dd4e0d0b-472a-4af9-8533-84bdc5f971d8"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h355bdd50gc9dag7f3dgd5e7gad755cdb9eff" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h991ad353g985cgced5gbe50g23c7a21ef595" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,1,4)"/>
+                    <attribute id="ProgressionTableId" type="guid" value="8ef39dbf-30cc-4cbb-94dd-d05c57bd6024"/>
+                    <attribute id="Type" type="FixedString" value="ArcaneVanguard"/>
+                    <attribute id="UUID" type="guid" value="cdc627b2-e959-4362-88c0-827d46ebd672"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h518621f7g3148gff7dg7b53g81936ff70102" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hbd27fe62g5569gdc0egc272gbd1c0b91ce4c" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,1,5)"/>
+                    <attribute id="ProgressionTableId" type="guid" value="8ef39dbf-30cc-4cbb-94dd-d05c57bd6024"/>
+                    <attribute id="Type" type="FixedString" value="ArcaneVanguard"/>
+                    <attribute id="UUID" type="guid" value="52c0605a-82c9-4c6f-9a01-b32b72b78455"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="he160fbeegf440g80c0gc0dbgab121b76d4a6" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h34827070ga823g0448gd5d0ge67a533fd5b5" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,1,6)"/>
+                    <attribute id="ProgressionTableId" type="guid" value="8ef39dbf-30cc-4cbb-94dd-d05c57bd6024"/>
+                    <attribute id="Type" type="FixedString" value="ArcaneVanguard"/>
+                    <attribute id="UUID" type="guid" value="904aee06-2357-43f1-9567-6d381ac984bd"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h2e228a0eg2863gba08g7fd6g90a4f397ff5a" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h25e73aecgf10age569g1e36g4fb2fbe12515" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Proficiency(MediumArmor)"/>
+                    <attribute id="ProgressionTableId" type="guid" value="cba2d6a1-c3ea-4596-8065-0f22a5b569f1"/>
+                    <attribute id="Type" type="FixedString" value="Graveknight"/>
+                    <attribute id="UUID" type="guid" value="8f0733bc-833a-4b15-a2cd-9d2663ba305e"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hb92820a2gc268g8caegcf9cg63995164f920" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hae3b8781g780eg0e5cg625dgea4ff618230f" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Proficiency(Shields)"/>
+                    <attribute id="ProgressionTableId" type="guid" value="cba2d6a1-c3ea-4596-8065-0f22a5b569f1"/>
+                    <attribute id="Type" type="FixedString" value="Graveknight"/>
+                    <attribute id="UUID" type="guid" value="4d1f99f5-038a-4233-9e29-d107cb782b46"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hf21dc11bga9fdg65c6ga227gae09e6228977" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3140e863gc814ga00fg533fgf053159010c5" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="GravenArts"/>
+                    <attribute id="ProgressionTableId" type="guid" value="cba2d6a1-c3ea-4596-8065-0f22a5b569f1"/>
+                    <attribute id="SelectorId" type="FixedString" value="GravenArts"/>
+                    <attribute id="Type" type="FixedString" value="Graveknight"/>
+                    <attribute id="UUID" type="guid" value="7b7c31d4-fb3d-4e9c-baee-0b22f5f72641"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h7ac871c2gd796ga17fga3f7gcb599a61f9d4" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h83e4de24g8a1dgda14gb7efg9352ecf8b033" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="908d9dfc-fdcc-4f20-83bc-b1478eca059c"/>
+                    <attribute id="SelectorId" type="FixedString" value="FiendishBonds"/>
+                    <attribute id="UUID" type="guid" value="45b343be-aba2-40e9-ac08-b93332c0f948"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h2784db3bgb8d8g9619g5bf6g161315fbd6d4" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h047f599agf9d6gb230gb162ga99921587b52" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="8ef39dbf-30cc-4cbb-94dd-d05c57bd6024"/>
+                    <attribute id="SelectorId" type="FixedString" value="SocialiteSkill"/>
+                    <attribute id="UUID" type="guid" value="39dc0846-8333-423e-a937-6befe6e56ca4"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h04a3bfb8g9bfdgf376g108fg71b38cb753ba" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="heae4e949gc49fg7965g52e2g1f07539613b6" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="0b6fa1bf-8eb1-4629-9edd-c0e227786596"/>
+                    <attribute id="SelectorId" type="FixedString" value="AVEldritchImplements"/>
+                    <attribute id="Type" type="FixedString" value="EldritchVanguard"/>
+                    <attribute id="UUID" type="guid" value="d489da79-f144-4238-acbd-a0ba74bec1e5"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hd7ac9c21g0542g5a91g4d04g84440a441c33" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb7c40f3bg41fag06c2gaba0g535e879de90d" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="0b6fa1bf-8eb1-4629-9edd-c0e227786596"/>
+                    <attribute id="SelectorId" type="FixedString" value="AVImplementMastery"/>
+                    <attribute id="Type" type="FixedString" value="EldritchVanguard"/>
+                    <attribute id="UUID" type="guid" value="6f39d9dc-0789-44d1-bb6c-49c639955d8a"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

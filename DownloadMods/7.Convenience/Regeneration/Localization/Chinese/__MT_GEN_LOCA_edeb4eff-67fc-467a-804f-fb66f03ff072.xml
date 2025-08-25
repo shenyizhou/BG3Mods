@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hc87cee881fbb4861b1f93fbd2e039a1131e5" version="1">长休息</content>
+	<content contentuid="h73e9cf8849d34ecda41d3e7976cff3b71fbe" version="1">短休息</content>
+	<content contentuid="he874ba4c59e143ed8c4d3785c59e9baf614c" version="1">重置"每次长休息"冷却时间所需的回合数。战斗中的1回合等于战斗外的6秒。</content>
+	<content contentuid="h0cef559a30244dd8aa3bfca732f63fba12cg" version="1">重置"每次短休息"冷却时间所需的回合数。</content>
+	<content contentuid="hcf9429081ab849e7ab3385e2d985bfbb6964" version="1">启用再生功能</content>
+	<content contentuid="h269b008330d04c329acc2f2d1a3a994960ge" version="1">启用或禁用再生功能。&lt;br&gt;如果启用，您仍可以通过将回合计时器设置为0来禁用单个设置。&lt;br&gt;战斗中的1回合等于战斗外的6秒。</content>
+	<content contentuid="h26345964c2904270ae5e6e293656b9d452c3" version="1">在战斗中启用再生功能。</content>
+	<content contentuid="h0f30154b1b92453d8d3d57147985108a35eb" version="1">在战斗外启用再生功能。</content>
+	<content contentuid="hcbee81e4598e4de986b20ce6d79a9e1682b4" version="1">战斗再生</content>
+	<content contentuid="hadd8e8a3d8704755a5b6e30267995002g414" version="1">战斗外再生</content>
+	<content contentuid="h8969059267ee4ad0986e5d95ab1e396deee7" version="1">模组资源</content>
+	<content contentuid="h3166b0b4fc5e41b4908b0b305df98d31cb0d" version="1">打开模组再生设置</content>
+	<content contentuid="hbde969b89bcc4879bfff93a4800707bbdg9e" version="1">启用或禁用再生功能。&lt;br&gt;如果启用，您仍可以通过将回合计时器设置为0来禁用单个设置。&lt;br&gt;战斗中的1回合等于战斗外的6秒。</content>
+	<content contentuid="hc87cee881fbb4861b1f93fbd2e039a1131e5" version="1">长休息</content>
+	<content contentuid="h73e9cf8849d34ecda41d3e7976cff3b71fbe" version="1">短休息</content>
+	<content contentuid="he874ba4c59e143ed8c4d3785c59e9baf614c" version="1">重置"每次长休息"冷却时间所需的回合数。战斗中的1回合等于战斗外的6秒。</content>
+	<content contentuid="h0cef559a30244dd8aa3bfca732f63fba12cg" version="1">重置"每次短休息"冷却时间所需的回合数。</content>
+	<content contentuid="hcf9429081ab849e7ab3385e2d985bfbb6964" version="1">启用再生功能</content>
+	<content contentuid="h269b008330d04c329acc2f2d1a3a994960ge" version="1">启用或禁用再生功能。&lt;br&gt;如果启用，您仍可以通过将回合计时器设置为0来禁用单个设置。&lt;br&gt;战斗中的1回合等于战斗外的6秒。</content>
+	<content contentuid="h26345964c2904270ae5e6e293656b9d452c3" version="1">在战斗中启用再生功能。</content>
+	<content contentuid="h0f30154b1b92453d8d3d57147985108a35eb" version="1">在战斗外启用再生功能。</content>
+	<content contentuid="hcbee81e4598e4de986b20ce6d79a9e1682b4" version="1">战斗再生</content>
+	<content contentuid="hadd8e8a3d8704755a5b6e30267995002g414" version="1">战斗外再生</content>
+	<content contentuid="h8969059267ee4ad0986e5d95ab1e396deee7" version="1">模组资源</content>
+	<content contentuid="h3166b0b4fc5e41b4908b0b305df98d31cb0d" version="1">打开模组再生设置</content>
+	<content contentuid="hbde969b89bcc4879bfff93a4800707bbdg9e" version="1">启用或禁用再生功能。&lt;br&gt;如果启用，您仍可以通过将回合计时器设置为0来禁用单个设置。&lt;br&gt;战斗中的1回合等于战斗外的6秒。</content>
+</contentList>

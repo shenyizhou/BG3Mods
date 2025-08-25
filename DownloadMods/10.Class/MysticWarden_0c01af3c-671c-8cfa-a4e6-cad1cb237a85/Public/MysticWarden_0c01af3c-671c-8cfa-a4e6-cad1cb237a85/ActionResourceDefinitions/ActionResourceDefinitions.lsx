@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="ActionResourceDefinitions">
+        <node id="root">
+            <children>
+                <node id="ActionResourceDefinition">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8445c4e8g3304gd12eg0913g3e868db2a0c6" version="1"/>
+                    <attribute id="IsHidden" type="bool" value="true"/>
+                    <attribute id="IsSpellResource" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Interrupt_VoraciousMalivoreCharge"/>
+                    <attribute id="PartyActionResource" type="bool" value="false"/>
+                    <attribute id="ReplenishType" type="FixedString" value="ShortRest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+                    <attribute id="UUID" type="guid" value="1f19e3b0-0841-4962-bfa8-81da9eb7dfc2"/>
+                    <attribute id="UpdatesSpellPowerLevel" type="bool" value="false"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

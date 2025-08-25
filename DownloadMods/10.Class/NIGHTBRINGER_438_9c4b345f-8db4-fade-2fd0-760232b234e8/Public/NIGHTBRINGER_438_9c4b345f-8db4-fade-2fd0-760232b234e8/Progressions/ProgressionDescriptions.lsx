@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="400"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h421b617bga714g94b3gd847g6428e0acb377" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ProficiencyBonus(LightArmor)"/>
+                    <attribute id="Type" type="FixedString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="UUID" type="guid" value="da62ec97-9c21-4010-9192-42edd77f31a3"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h7149fb59g753bg2148g5219g456282b2682e" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4518fcf7gd023gbe88gb051g5e93f79be2f9" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,1,1)"/>
+                    <attribute id="Type" type="FixedString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="UUID" type="guid" value="5773b144-7d56-4d8c-85da-3d87dfd5e9fc"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h96e044cag570dgc985g9bf6gade84412570d" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hceede7efg53ddg150bg36b2g8b0c829e823e" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,2,1)"/>
+                    <attribute id="Type" type="FixedString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="UUID" type="guid" value="aea6bb97-7f79-4b1b-bfdc-82746da112e2"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hd5f38a5cgda8agfbadgd391g2ae76aa15eb0" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3064bacag6cbbg7dcdgaaf4g6dcc52584b24" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,1,2)"/>
+                    <attribute id="Type" type="FixedString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="UUID" type="guid" value="ca301c05-d560-4413-b9fe-89f388911e31"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h0422f2a3ga513g75b4gd39fg11d25ba239fc" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha84f47adg15fbg5de9gd2eag6a7972d095cd" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,2,2)"/>
+                    <attribute id="Type" type="FixedString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="UUID" type="guid" value="271665a6-f794-4906-b5b9-2a96ce5131fd"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="haffa8f6cg497eg853bg8a53g66c4cddc2b4c" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="haa9bbb7bg9beeg02c8g8beaga2a7f45b8fdb" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,1,3)"/>
+                    <attribute id="Type" type="FixedString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="UUID" type="guid" value="03092f67-dae6-4276-936f-47032695b252"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h8d0841c8ge8c4g388dgb579g84adbc3edd03" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha90ebb67g964bga6b1g06efgc6097b64869e" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,2,3)"/>
+                    <attribute id="Type" type="FixedString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="UUID" type="guid" value="7e986d04-f763-401a-af0a-9bb72206f3b0"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h8cc73325ge5ebgcf58gb899g383e4120086b" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0244b128gfcbbg5af6g2778g871d67bb000b" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,1,4)"/>
+                    <attribute id="Type" type="FixedString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="UUID" type="guid" value="5871af81-ff66-44f0-a5e6-5310200f121f"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h0c599645g4430g80cdg0f81gc50e77101667" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8ca14fc3gb754g51d4g4e50g6eeb5c1123e1" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,2,4)"/>
+                    <attribute id="Type" type="FixedString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="UUID" type="guid" value="9e73f33c-51ee-4c51-a11f-bea552da71c9"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h00d6fdfbgffe4gb919g5a7bg7b087efd5676" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hfb25fb90g6a27gc838ge50ag3607908e5b17" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,1,5)"/>
+                    <attribute id="Type" type="FixedString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="UUID" type="guid" value="c56cf408-a408-4dae-ac79-d429375c59fc"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h86475951g232dg63bdg7bf2ge86e748ca91d" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="he29af73cg9d5ag1372gb6d0g348e844ce40c" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,2,5)"/>
+                    <attribute id="Type" type="FixedString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="UUID" type="guid" value="e9250dd4-a333-40e5-aa33-d680e0a578e4"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h55ebd328g1f2bg203ag5c77g8e1033ced911" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h00831b6egb1b0gce41g9b66gaf03f1911645" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,1,6)"/>
+                    <attribute id="Type" type="FixedString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="UUID" type="guid" value="a84c3cf4-5afa-4b19-99db-3ab80ad01b26"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h573962a1gf4d7g7540g0a8agd954310449cc" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h43182496gd5e6gd01dg9ecdg9d250609e12e" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,2,6)"/>
+                    <attribute id="Type" type="FixedString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="UUID" type="guid" value="e076f246-7f96-427d-ad54-f4028fce2ed3"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hf9363368g1019ga2d0g40efg4b2fa473a47e" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2accdcc2g8e19g5fc3g1fb1g99d686ce949c" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,1,7)"/>
+                    <attribute id="Type" type="FixedString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="UUID" type="guid" value="38d41e7c-edba-48f1-88c9-8be63f751dd2"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hac348bdcg22e2gd9eag1013gb76688a5c74c" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb5bafce5g01a3ge09cgc3eagd1187c59389e" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,2,7)"/>
+                    <attribute id="Type" type="FixedString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="UUID" type="guid" value="c8187271-0c0b-45bd-b7b7-35125e849ea0"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h06489ebag26c1g1234gca7agc9a13e7b1df4" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h22f849afg2a1fg9e3cg4670g14adb0b630b2" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,1,8)"/>
+                    <attribute id="Type" type="FixedString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="UUID" type="guid" value="89e55218-b9a9-4cd2-a629-4fb90da95958"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h870efe42g4213g7f32g08bbg8691ab46a182" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="he2bc31e6g4792g54f6g1a1cg4906230b2973" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,2,8)"/>
+                    <attribute id="Type" type="FixedString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="UUID" type="guid" value="507e2742-ecdf-4431-9b63-4b362255f092"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h0cf8ae13gab8ag2522ge811gdce3a417f644" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6adc3f63g75d4g5dbfg5fbcg1c17329f1d50" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,1,9)"/>
+                    <attribute id="Type" type="FixedString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="UUID" type="guid" value="e6db255f-93dc-4844-b92c-e789d6d523af"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h269aadf3g35b4g145cge7f9g9bd7fe82e570" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd5e17f7eg5509g7d2cg4596g3d72d34cf1b6" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,2,9)"/>
+                    <attribute id="Type" type="FixedString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="UUID" type="guid" value="a34ac5d5-0bd6-4c67-a510-fc26d70e40d0"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="he5b7da30g1cb9gb1c8g9586gf58ef94bbe45" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hedb35e3agafa2g9572g9071g040eac83d5d8" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,1,10)"/>
+                    <attribute id="Type" type="FixedString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="UUID" type="guid" value="60d30c54-85a9-4c16-8695-8b332ae05483"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h07a44558g2e81gff92g8c17gdbf03d40966a" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha0cb6b04gbd41gb76bg8585gd197de685ceb" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(SpellSlot,2,10)"/>
+                    <attribute id="Type" type="FixedString" value="NIGHTBRINGER_NB438"/>
+                    <attribute id="UUID" type="guid" value="68886f73-656e-4949-9ff7-b3d99425274e"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hda8d19c8g4a66gb410gedc2gfdf8f3a0e904" version="6"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0a495b7eg7467gce7cg39fdge4c856ae645a" version="3"/>
+                    <attribute id="SelectorId" type="FixedString" value="ShadowMimicry"/>
+                    <attribute id="UUID" type="guid" value="02c032a3-0a7c-4ba4-9363-691f311e2f6d"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,379 @@
+<contentList date="26/10/2020 01:10">
+  <content contentuid="h37514dc8g973ag4156g8383g5bf7ba44054d" version="1">魔法水滴</content>
+<content contentuid="hbdc2841dga7aeg4e6dgb7c0g333297ab6155" version="1">当你不处于&lt;LSTag Type="Status" Tooltip="WET"&gt;湿润&lt;/LSTag&gt;状态时，你的&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;减少&lt;b&gt;[1]&lt;/b&gt;。而当你处于&lt;LSTag Type="Status" Tooltip="WET"&gt;湿润&lt;/LSTag&gt;状态时，你的&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;增加&lt;b&gt;[2]&lt;/b&gt;。</content>
+<content contentuid="hcc5598b8geadbg4decgaebfgf1fe04d628c1" version="1">附魔冰刺</content>
+<content contentuid="h56591518gf664g4d79gab69g7bc5265d253c" version="1">在&lt;LSTag Type="Spell" Tooltip="Target_MageArmor"&gt;魔法护甲&lt;/LSTag&gt;效果持续期间，你的法术和戏法如果造成&lt;b&gt;[1]&lt;/b&gt;，则可以对目标施加&lt;LSTag Type="Status" Tooltip="WEAPON34"&gt;深层出血&lt;/LSTag&gt;状态&lt;i&gt;（即使目标免疫流血）&lt;/i&gt;。</content>
+<content contentuid="hbe6dd597g22a1g4c89ga03dg11391febb782" version="1">小型水元素</content>
+<content contentuid="h65d4cdb3g6e1dg4f54ga4a2g9180c89e6fd3" version="1">召唤一个擅长在任何距离上造成&lt;b&gt;[1]&lt;/b&gt;的小型水元素。</content>
+ <content contentuid="h7a13b994gd956g466bga0b3ga3aed7adf2ab" version="1">弱者的支配</content>
+<content contentuid="hae929212g0cc9g4dfag9912gf08c7625daa5" version="1">当你使用&lt;LSTag Type="Spell" Tooltip="Shout_Champion_Challenge"&gt;捍卫挑战&lt;/LSTag&gt;时，受影响的敌人也会进入&lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;恐慌&lt;/LSTag&gt;状态，持续&lt;b&gt;[1]&lt;/b&gt;回合。</content>
+<content contentuid="h24d5e050gcce9g492dg897fge25bf9aaa1a2" version="1">致盲惩罚</content>
+<content contentuid="h14531d06gf79ag4e97ga5a5g546171c8311f" version="1">当一名敌人在&lt;b&gt;近战范围&lt;/b&gt;内对你&lt;b&gt;攻击未命中&lt;/b&gt;时，你立即对其施展&lt;LSTag Type="Spell" Tooltip="Target_AMP_Smite_Blinding"&gt;致盲斩&lt;/LSTag&gt;——并消耗一次&lt;LSTag Type="ActionResource" Tooltip="ChannelOath"&gt;引导誓言&lt;/LSTag&gt;充能。</content>
+<content contentuid="h9d837f60g6ce8g42d4gb096geb1846dbc495" version="1">大型水元素</content>
+<content contentuid="hcf966e8bgd552g4771gba12gec6a11d16cda" version="1">召唤一个擅长远程造成&lt;b&gt;[1]&lt;/b&gt;的大型水元素。</content>
+<content contentuid="h12d43b61ga14bg43bfgbb10gb531f0802b2f" version="1">冬日吐息</content>
+<content contentuid="h5a723dacga48cg4d7bgbbbagdf51a0ed7c83" version="1">你的法术或戏法若造成&lt;b&gt;[1]&lt;/b&gt;，则&lt;b&gt;同时&lt;/b&gt;造成&lt;b&gt;[2]&lt;/b&gt;。</content>
+<content contentuid="h9936810fg8df2g4d1bgbb30g2bb7f0d0fe6f" version="1">当你受到&lt;b&gt;[1]&lt;/b&gt;时，对攻击者造成&lt;b&gt;[2]&lt;/b&gt;。</content>
+<content contentuid="h4025396eg68d8g4a7ag9641gb6bf4c2b3225" version="1">你的&lt;b&gt;近战&lt;/b&gt;攻击若造成&lt;b&gt;[1]&lt;/b&gt;，则&lt;b&gt;同时&lt;/b&gt;造成&lt;b&gt;[2]&lt;/b&gt;。</content>
+<content contentuid="h692c2cd0g9edbg499bga2d2g96f625dd7aef" version="1">你使用&lt;b&gt;升环法术&lt;/b&gt;进行的攻击若造成&lt;b&gt;[1]&lt;/b&gt;，则&lt;b&gt;同时&lt;/b&gt;造成&lt;b&gt;[2]&lt;/b&gt;。</content>
+<content contentuid="h501bc9dfg0522g4637g8248g6d42fe601b4f" version="1">你的&lt;b&gt;徒手&lt;/b&gt;攻击&lt;b&gt;同时&lt;/b&gt;造成&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="h23940932g0662g4cf7g8cbfg916744cb573a" version="1">你的&lt;b&gt;投掷&lt;/b&gt;攻击&lt;b&gt;同时&lt;/b&gt;造成&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="h15525d08g9756g4167g9ef8gd66c6bd81b40" version="1">当你当前生命值低于&lt;b&gt;[2]%&lt;/b&gt;时，你的攻击&lt;b&gt;同时&lt;/b&gt;造成&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="h1d8ae7a2g1786g4663gb20ag06857f653ce1" version="1">当你当前生命值高于&lt;b&gt;[2]%&lt;/b&gt;时，你的攻击&lt;b&gt;同时&lt;/b&gt;造成&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="hc06f2fd6ge748g4b6aga6a7g7b810fd7435f" version="1">当你当前生命值低于&lt;b&gt;[3]%&lt;/b&gt;时，你的法术或戏法若造成&lt;b&gt;[1]&lt;/b&gt;，则&lt;b&gt;同时&lt;/b&gt;造成&lt;b&gt;[2]&lt;/b&gt;。</content>
+<content contentuid="h2310f382gbcb3g43b3g912ag928aba4882e4" version="1">当你当前生命值高于&lt;b&gt;[3]%&lt;/b&gt;时，你的法术或戏法若造成&lt;b&gt;[1]&lt;/b&gt;，则&lt;b&gt;同时&lt;/b&gt;造成&lt;b&gt;[2]&lt;/b&gt;。</content>
+<content contentuid="h2915d88cgb7b6g4678g88eagb90d2cbbd37a" version="1">当你攻击一名敌人&lt;b&gt;未命中&lt;/b&gt;时，仍对其造成&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="h7fe43e4dgffcfg4f9bg8b46g2db1f25339ca" version="1">当你攻击一名敌人&lt;b&gt;严重失误&lt;/b&gt;时，仍对其造成&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="hc6ad8785g5cc6g4ec8g987fg13f3d53576ed" version="1">当你处于&lt;LSTag Type="Status" Tooltip="STATUS"&gt;状态&lt;/LSTag&gt;影响下时，你的攻击&lt;b&gt;同时&lt;/b&gt;造成&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="hbad50d1dge5d8g4a0eg9d08g450db15b9930" version="1">勇士韧性</content>
+<content contentuid="h762875c1g8871g4575g921cgeb13ee10dcd1" version="1">当你穿着&lt;LSTag Tooltip="ArmourProficiency"&gt;重甲&lt;/LSTag&gt;并持有一面&lt;b&gt;盾牌&lt;/b&gt;时，你所受到的所有伤害减少&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="h6b59a3dbgf4d1g4172gb3acg6ad0ea28316a" version="1">天界要塞</content>
+<content contentuid="h107efa4cgd728g45f1gbd3ag1878ac725b5b" version="1">灵能之握</content>
+<content contentuid="h16873f45g95a5g4f84g941dg3ab7d371492e" version="1">灵能力量将&lt;b&gt;[1]&lt;/b&gt;范围内的所有有价值的物品传送至穿戴者身上。&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt;此特性可在被动效果界面中切换。</content>
+<content contentuid="hf5f03431g6f2fg45b7ga888g38bff853b057" version="1">灵能头盔</content>
+<content contentuid="he5638188g909dg4eb9g963fg301ff4c5b9bf" version="1">当汝颤栗之手将紫黑头盔覆于额上，天地界限骤然模糊——似北境冰原消融于春潮，又若驾意志之舟横渡星界。指尖沁入骨髓的寒意中，头盔深处非人之灵正编织「灵能魔网」，将汝思与命运之语相连。此神器究竟赐予汝何等古远权能？答案藏于心灵低语之间。</content>
+<content contentuid="hef6f326aga252g48d7g912cg233e24efbb34" version="1">帕拉莫诺夫笔记</content>
+<content contentuid="h91e8ed28gc9ffg422dgbe6cgf607e0b272de" version="1">必读！</content>
+<content contentuid="h7f99e6edga2ecg433dga40ag03afa3182b4e" version="1">你好！本合集为最终扩展包“更强构筑”中的新装备部分。让我简要说明我为何要制作它。&lt;b&gt;进度平衡&lt;/b&gt;许多玩家经常在 mod.io 的模组页面留言（你也可以在那里找到我，请用英文提问）抱怨：即便这个模组具有随机性，他们也很少能组合出强力的构筑。这可以理解——毕竟随机池中的协同机制并不够集中。想象一下：1200 件物品，几乎每一件都有独特的机制。这会影响角色成长的节奏，因此必须让协同更密集、更饱和。正因如此，我决定专注于装备系统，最终新增超过 +1000 件新的神器——而且要在最短时间内完成。&lt;b&gt;时间资源&lt;/b&gt;不言而喻，我是独自一人开发此模组，没人协助。为了加速内容发布，我需要压缩某些任务，留待以后处理。例如，我还没能统一披风图标的格式，也没能完成几个旧神器的新特效。我打算在这里也采取同样的策略：从流程中剔除过于耗时的操作，只保留最重要的部分。&lt;b&gt;最重要的部分&lt;/b&gt;游戏体验始终是最重要的。你想看到更多适合你喜爱的协同的新物品；你也希望看到很多。因此，在最终扩展中，我会尽量减少新资产的使用，比如图标、独特名称或风味文本。这些是最费时的部分，需要深入的创意过程。重点只放在玩法组件上，即真正使这件物品成为有用的魔法神器的内容。我当然不介意添加大量新物品到合集中。但只要我还是唯一的创作者，这个过程就不会快，因此在这种形式下并不划算。&lt;b&gt;帮助&lt;/b&gt;我仍在收集玩家投票（链接见模组描述中的 Google 表单），以确定在完成合集之前应该优先开发哪些协同。大多数是我愿意加入的想法，这是我的创作愿景，但当然我也考虑其他协同并将其加入调查中。你可以帮忙选择几个你喜欢的选项，告诉我你是如何感受这个游戏的。谢谢。也感谢你使用 BG3 Revolution。</content>
+<content contentuid="h6ea5de53g647fg4d09ga4b0g904ca4db08f7" version="1">查看新物品</content>
+<content contentuid="h5a8533c8g0d6fg4d79gb623g6851770d7c93" version="1">召唤来自新扩展包的全新神器。新物品使用现有神器的素材。&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt;如果你看到了这些物品，它们将不会再在世界中随机出现了！&lt;/b&gt;</content>
+ <content contentuid="h4d38d22bgc59ag42a7g9fa2gf2befae05187" version="1">蕾拉瓦的寒冰壁垒</content>
+<content contentuid="h4ce464fdgcc68g4de2ga705g168e6356070f" version="1">呼唤冬之子民的强大守护者，在你对敌人造成伤害前处于无敌状态。</content>
+<content contentuid="h281e8278g9315g4deeg8ee7gb02091295a5f" version="1">受影响单位无法被敌方攻击或法术选为目标。但仍然会受到影响范围较大的法术伤害。若受影响单位发动攻击或对其他生物造成伤害，则此效果结束，并获得&lt;LSTag Type="Status" Tooltip="AMP_SANCTUARY_BLOCK"&gt;寒冰壁垒冷却&lt;/LSTag&gt;状态，持续&lt;b&gt;[1]&lt;/b&gt;回合。</content>
+<content contentuid="h68b3c4bfg2df0g4f55gab6ag69b56c4f8183" version="1">寒冰壁垒冷却</content>
+<content contentuid="hff18f573ga14ag4b8bga224g37e05283d001" version="1">受影响单位无法再次获得&lt;LSTag Type="Status" Tooltip="AMP_SANCTUARY"&gt;寒冰壁垒&lt;/LSTag&gt;状态。</content>
+<content contentuid="hb2ab5877g9c6fg4bbeg8fc8gc4fd1b1a0040" version="1">女王面纱</content>
+<content contentuid="h2d803397gb43eg4629g87d5gc1583985a4b9" version="1">当你周围&lt;b&gt;[1]&lt;/b&gt;范围内没有&lt;b&gt;盟友&lt;/b&gt;时，获得对&lt;b&gt;[2]&lt;/b&gt;、&lt;b&gt;冰冻地面&lt;/b&gt;效果以及&lt;LSTag Type="Status" Tooltip="WET"&gt;潮湿&lt;/LSTag&gt;状态的&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;。</content>
+<content contentuid="hf0f32c46g1d71g4652g98bag217acbbb1888" version="1">你对&lt;b&gt;[1]&lt;/b&gt;具有&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;，不会在&lt;b&gt;冰面&lt;/b&gt;上滑倒，也不会进入&lt;LSTag Type="Status" Tooltip="WET"&gt;潮湿&lt;/LSTag&gt;状态。</content>
+<content contentuid="hd379c44fg4257g488bgb380gf1679a4446cd" version="1">寒意饱和</content>
+<content contentuid="h76de04e2g319cg49e0g9428ga8f8ff6d9333" version="1">当你站在&lt;b&gt;冰冻地面&lt;/b&gt;上时，每回合结束时恢复&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="hafa4f12dg1189g498agb32ega6f9bf023ab7" version="1">当你站在&lt;b&gt;冰冻地面&lt;/b&gt;上时，持续恢复&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="hbf45a25ag1bfbg4880g8cb9g3934a11c66ca" version="1">死神降临</content>
+<content contentuid="h3f5e42begf7a8g4bbcga7b7gd6602cdf89db" version="1">附魔投掷</content>
+ <content contentuid="hbb01a358gce46g4cd6g9c70gd66813a425a2" version="1">不稳定运动</content>
+<content contentuid="h396fb289g6d31g4171g997bge73718490885" version="1">使用&lt;LSTag Type="Spell" Tooltip="Throw_Telekinesis"&gt;心灵遥控&lt;/LSTag&gt;时，你可以花费一个&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应点数&lt;/LSTag&gt;来触发自身的一次&lt;LSTag Tooltip="WildMagic"&gt;狂野魔法&lt;/LSTag&gt;爆发。</content>
+<content contentuid="h9115f109ge56ag4f65g838eg9e38b3538d1c" version="1">在移动目标后触发一次&lt;LSTag Tooltip="WildMagic"&gt;狂野魔法&lt;/LSTag&gt;爆发。</content>
+<content contentuid="hf0a98364g780cg449ag8670gc419e56d95a0" version="1">%%% 请为不同文化背景选择合适的名字，Jack Bones 仅适用于美国观众 %%%</content>
+<content contentuid="h2e8ffb67gd5afg4e07gbc2fg28389a02ac78" version="1">骨戏先生</content>
+<content contentuid="h96111e77g7211g4448gb5c9gf693444b14b0" version="1">召唤骨戏先生</content>
+<content contentuid="h0dc18304gacdfg4795ga2b7g5d27e263e0ef" version="1">从附近的一具尸体中召唤出一个渴望掌声的骷髅决斗者。</content>
+<content contentuid="h66c93f54g0e96g473eg8daeg20104cfab6a8" version="1">幽魂戏袍</content>
+<content contentuid="h341afd5eg336ag4786gb0eeg3b18ce70c3cd" version="1">骨戏先生以戏台残幕缝此邪袍，魂缚其中，永求掌声。近尸而穿，其幽影复现，终场谢幕——观众却只鼓掌三秒。</content>
+<content contentuid="hbb333835g9ef0g4f11gb74agd27e158dcaaf" version="1">抢夺聚光灯</content>
+<content contentuid="h79a94c73gcc0ag4cf5g9c67g484afd279a93" version="1">每当一个&lt;b&gt;亡灵生物&lt;/b&gt;在你周围&lt;b&gt;[1]&lt;/b&gt;范围内死亡时，会触发一次半径为&lt;b&gt;[2]&lt;/b&gt;的&lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;困惑&lt;/LSTag&gt;波动。</content>
+<content contentuid="hfab0bd82g8cfbg45dfgb965g66504d36aaca" version="1">即兴表演秀</content>
+<content contentuid="h39f5db86g96afg4c48g9ff3ge5feac49d5a2" version="1">黑场救场王</content>
+<content contentuid="h28e86fc9g99fbg4e8dg91f6gd5dc8f855b98" version="1">专注风暴</content>
+<content contentuid="h6f6658f7gdf22g4952ga5c7g3a03c09a4d84" version="1">凝雷圣徽</content>
+<content contentuid="h64af2da9g175cg4b84ga7d9gae42f2cc6555" version="1">风暴之子观雷百日，终被天火所焚，唯余熔金圣徽。其内封印最后一道雷霆——传说萨满临终前喃喃：“雷电之间，自有舞步。”</content>
+  <content contentuid="h4da9dcd4gc58dg49d9gb6cagefbfd5b7a2e6" version="1"></content>
+  <content contentuid="h745f0ee6g2bb9g45b0gbd54g600b7253dc3b" version="1">%%% DONT TOUCH STUFF BELOW, STILL IN DEVELOPMENT!!!! %%%</content>
+  <content contentuid="h54f68c4cgd309g4761gac91ga0d888e90af7" version="1">Valerian's Artful Boots</content>
+  <content contentuid="h32994387ga95ag4f98g94cbg911d6ded6b2d" version="1"></content>
+  <content contentuid="hc2685098gae65g4834g8dbeg2f049cc405e6" version="1">Revolietti's Mastery</content>
+  <content contentuid="hc63bd2ffg8a4cg4699g9f1dgbb2d9656cc77" version="1">You cannot be knocked prone and are not slowed on difficult terrain. You do not provoke opportunity attacks while carrying a bow.</content>
+  <content contentuid="h2fea3bbag1bb5g436ag8fdfgb29362ed0483" version="1">Crown of the Vludber "Bugbear"</content>
+  <content contentuid="h5108686egdeebg4c36gb8a7g29bff87d0a74" version="1">Vludber, the only halfling to become an honorary chieftain of the Spine of the World bugbear tribe, possessed a unique gift of tailoring his jokes to any audience, be it a noble assembly or a troll's den. The bugbears still perform his 'Laughing Giant Dance' during important ceremonies, though none have achieved the mastery of the original.</content>
+  <content contentuid="hc23f2ccfgc308g42d5g80f4g48c85c2a99d0" version="1">Amazing Jokes</content>
+  <content contentuid="h9173ac24ga40cg4cf3ga6ceg4672e12ee9c2" version="1">When you use actions, all enemies within 5m around you must pass an Intelligence saving throw (4) or be overcome with terrible laughter for 2 turns. [Charisma +1(22)]</content>
+  <content contentuid="hff70d244g19abg4ec9ga7c3g9795648f2cfc" version="1">Ring of the Mustached Githzerai</content>
+  <content contentuid="hf6dce18fg9714g44d6ga50ag043c6fd3c390" version="1"></content>
+  <content contentuid="h7ed93ec7gd75bg4117g9b2fgdfe9477f7041" version="1">Githzerai Saturation</content>
+  <content contentuid="h29caaa06g9240g4720gb533g63e710348334" version="1">If you are a githyanki or disguised as one, accumulate Astral Tirelessness each turn in combat. After accumulating 10 charges, you can spend them to restore a rage charge. [Strength +1(22)]</content>
+  <content contentuid="hac7ef674ge1a3g4e65gb205g63dec159e17b" version="1">Astral Tirelessness</content>
+  <content contentuid="ha3da4117g6fa7g416bg9269g887d40d74533" version="1">If you are not wearing armor and a shield, gain +2 to Armor Class.</content>
+  <content contentuid="hee85e200gc7c6g4a90gb2beg745ee6f59f92" version="1">Truant's Diplomat Hat</content>
+  <content contentuid="h760d6e29g7aafg4704g9630g0bf3a10383e4" version="1">This elegant plumed hat belonged to a famous northern diplomat whose peace negotiations saved more lives than the swords of the greatest heroes. Neverwinter tavern regulars remember how visitors would forget their initial purposes, spending hours in conversations with a man who valued every opinion, regardless of the speaker's origins.</content>
+  <content contentuid="h73ecc0efg64ebg4145g9263gb4a8e266093f" version="1">Quick Acrobatics</content>
+  <content contentuid="ha10fc6cbg8068g43dcg99d1g4d842a159963" version="1">-1 to damage. [Jump without spending resources]</content>
+  <content contentuid="h7b267c00gc67ag4d96g8005g1de7cbf3e6ca" version="1">Lord Jeaniv's Ring</content>
+  <content contentuid="h124cb44agb175g4321ga9edg4b1c405598c1" version="1"></content>
+  <content contentuid="h8a9cf0e6gd739g4319ga407gbfcf73a71adf" version="1">Shadow Breath</content>
+   <content contentuid="hf6cb4b8dgcf4bg4463gab0ag0e0ac393875e" version="1">All burning objects within 15m of you are instantly extinguished. Constitution increases for each turn spent in shadows during combat, up to +3.</content>
+
+ <content contentuid="h81923b83gdb35g4de1ga0c7g2ea36786494e" version="1">共鸣长靴</content>
+<content contentuid="h291147ddgb74cg434cg9152gff7fdef08951" version="1">这双古老的长靴由研究变化魔法极限的耐瑟法师打造。其创造者自愿将自己石化，但他的意志仍持续在岩石中回响，产生强大的震动，足以粉碎敌人。鞋底特别嵌有厚重的金属板，以增强这种效果。</content>
+<content contentuid="h9a880ed5g25f3g4f88gbb66g292d4fc6a806" version="1">深层共鸣</content>
+<content contentuid="h99f41936gc99fg412dg9082gc63539dba2d8" version="1">当你处于&lt;LSTag Type="Status" Tooltip="PETRIFIED"&gt;石化状态&lt;/LSTag&gt;时，在每回合开始时，你的石质躯体会产生强烈的震动，对&lt;b&gt;[2]&lt;/b&gt;范围内所有敌人造成&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="hbe559570g68a2g429dga935g2f1d97d9e831" version="1">强烈的震动从石化躯体中扩散，形成破坏性的音波。</content>
+ 
+ <content contentuid="he83b9ae8g9392g1af1geedfgbfa00fbb2dce" version="13">多索菲尼亚</content>
+
+<content contentuid="h80d47a3cg88adg4c68gbe6agcc8aae2a568c" version="3">当你击杀一名生物后，你可以施放一个&lt;b&gt;任意环位&lt;/b&gt;的法术，而无需消耗或拥有对应的&lt;LSTag Tooltip="SpellSlot"&gt;法术位&lt;/LSTag&gt;。</content>
+
+<content contentuid="hf1cdef74g3fb1g27ceg860ag680d595bf77c" version="1">瑞朗古迪尔</content>
+<content contentuid="hd7a62e41gf8cag70e0ga642g8df112f274d0" version="1">魔法符文包裹着这把纤细的单手锤，几乎整个表面都散发着明亮的蓝色光芒。当你第一次触碰它的握柄时，你立刻缩回了手——它会电人！但适应之后，你甚至发现它还有轻微的按摩效果。在你尝试解读的所有符文中，你只能翻译出一个词：“瑞朗古迪尔”，至于它到底意味着什么，你就不得而知了。</content>
+<content contentuid="h8be4e186g1dc7g996cg3d5dgeaec3f7ddd9e" version="1">瑞朗古迪尔的放电</content>
+<content contentuid="hb1feaa23g54c8gec34g3870g10a23cb90c2c" version="1">当你获得超过&lt;b&gt;[1]&lt;/b&gt;个&lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;闪电充能&lt;/LSTag&gt;后，你的下一次任意类型的攻击将被充能，并会在&lt;b&gt;[2]&lt;/b&gt;半径内引发爆炸，对所有生物造成&lt;b&gt;[4]&lt;/b&gt;，并使地表带电。受影响的生物可以通过成功的敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;(&lt;b&gt;[3]&lt;/b&gt;) 来使伤害减半。</content>
+
+<content contentuid="h9a0f33e3g0712g9b26gdc1agd68629fcaa0f" version="1">共鸣先驱者</content>
+<content contentuid="he06a808cg25dbgb270g623eg3551dee64436" version="1">这把雕花剑的每一面都闪耀着黄金般的光泽，刀刃打磨得极为锋利，以至于你在战斗中甚至能听到它发出的轻快乐音。</content>
+<content contentuid="hcf55ff67g948bgde71gd1b4g2a37a835beff" version="1">不稳定的节奏</content>
+<content contentuid="h705015bbga0ebg47f1g14d2g919ea5eee163" version="1">使用这把剑与敌人交战时，你会获得&lt;b&gt;[1]&lt;/b&gt;层&lt;LSTag Type="Status" Tooltip="CADENCE_STACK"&gt;节奏&lt;/LSTag&gt;，提升武器伤害。</content>
+<content contentuid="hbb09afdeg01b1g7ce0g5bb5gad839e82fc67" version="1">节奏</content>
+<content contentuid="hf1b6e256gd200g58ffgbc54gb6f513b511d3" version="1">每拥有一层该效果&lt;b&gt;+[1]&lt;/b&gt;武器伤害，&lt;br&gt;&lt;br&gt;若你在攻击时拥有超过&lt;b&gt;[2]&lt;/b&gt;层此效果，你将释放一段共鸣旋律，对&lt;b&gt;[4]&lt;/b&gt;范围内的所有生物造成&lt;b&gt;[3]&lt;/b&gt;。受影响的生物可通过成功的敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;(&lt;b&gt;[5]&lt;/b&gt;) 使伤害减半。</content>
+
+<content contentuid="hebd94a74gecdag42a6g84a2gcabce935669d" version="1">在命中目标时，若使用&lt;b&gt;投掷攻击&lt;/b&gt;或&lt;b&gt;徒手攻击&lt;/b&gt;，使用者将获得&lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;闪电充能&lt;/LSTag&gt;&lt;b&gt;x[1]&lt;/b&gt;。</content>
+
+  <content contentuid="h76636ffeg4de8g4306gb561gd37d9c0cc64c" version="1">苍翠守望胸甲</content>
+<content contentuid="h78fbbea1gfd55g4af6ga5c1g0156406e860a" version="1">千百年来，“翠绿守望者”始终在森达斯森林中默默值守。那里的远古花粉凝结成护甲，其坚固程度甚至超越秘银。他们的不朽使命是：镇压“腐朽之心”——这颗源自原始森林的堕落种子，在幽深禁地的林间脉动着邪恶的生命。</content>
+<content contentuid="h12e91714g9731g4795g802bga5fa82471259" version="1">远古花粉结界</content>
+<content contentuid="h551c78a8g1c24g4509g9c73g45dfa5134a98" version="1">如果你在自己的回合中没有&lt;LSTag Tooltip="MovementSpeed"&gt;移动&lt;/LSTag&gt;，则在你的回合结束时恢复&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="hcc4fd6a3g3feag4c33gb83agaee1dfa42274" version="1">移动后效果移除。每回合结束时恢复&lt;b&gt;[1]&lt;/b&gt;。</content>
+
+ <content contentuid="hb4d543dfg057eg472eg9034g49ebdcc3b4c7" version="1">罗坎德拉之礼袍</content>
+<content contentuid="ha7b94c86gff55g47e6ga299g9ec749e1158d" version="1">古泰瑞玛的死灵祭司以一千名在极乐中死去的殉道者的裹尸布为材，织就了这件圣袍。每一根丝线都跳动着“死亡能量”——那是他们将虚无视为解脱时所释放的极致喜悦。穿戴此袍者，将成为生者与感恩亡魂之间的桥梁。</content>
+<content contentuid="h16df256dg1294g474eg85cfgd3c505754bf2" version="1">亡魂牧者</content>
+<content contentuid="hb4c70a9ag2d8fg4a4ag9ffbgb1ae872071c9" version="1">若一名敌人成功抵抗了你的&lt;b&gt;死灵系法术&lt;/b&gt;，你将恢复一个&lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;动作&lt;/LSTag&gt;。&lt;br&gt;&lt;b&gt;+ [1]&lt;/b&gt;至&lt;LSTag Tooltip="SpellDifficultyClass"&gt;法术豁免难度等级&lt;/LSTag&gt;。</content>
+<content contentuid="hf6ed83c6g0208g4fc9g9e1bg414a99916c8b" version="1">死灵饱和</content>
+<content contentuid="h13fd0edag2f74g4040gb0b0ga6bbf820489b" version="1">在你的回合开始时，只要你还有&lt;LSTag Type="ActionResource" Tooltip="ChannelDivinity"&gt;引导神力&lt;/LSTag&gt;充能次数，恢复 &lt;b&gt;[1]&lt;/b&gt;&lt;i&gt;（即使你是&lt;b&gt;不死生物&lt;/b&gt;)&lt;/i&gt;。&lt;br&gt;&lt;br&gt;效果受你的&lt;LSTag Tooltip="Wisdom"&gt;感知调整值&lt;/LSTag&gt;影响。</content>
+
+  <content contentuid="h1f6139fbg61fdg47afg8b81geafc4cf163e0" version="1">大法师卡兰德罗斯之袍</content>
+<content contentuid="h9eafddadge9adg4f25g9b89g538de6433e2c" version="1">当卡兰德罗斯大法师突破至远域界，追寻那“原初方程”之时，现实本身因他的傲慢而震颤退避。他的长袍化作了一个活着的悖论——丝线由可能性本身织就，在凡人感知之外的光谱中不断变幻。那些曾穿戴过它的人声称：他们看见了无名色彩，听见了尚未施展的咒语低语。</content>
+<content contentuid="h57d9659dg7d1bg4be8gafa1g8a0d9466316e" version="1">重击涌流</content>
+<content contentuid="h870a038cga882g4cb7g9241ga4b70e4fd4a2" version="1">当你以&lt;b&gt;法术或戏法&lt;/b&gt;造成一次&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时，有较低几率随机恢复&lt;b&gt;[1]~[2]&lt;/b&gt;环的&lt;LSTag Tooltip="SpellSlot"&gt;法术位&lt;/LSTag&gt;。</content>
+<content contentuid="he010d034gfabag4a7bg8b23g883edab5e84a" version="1">现实扭曲</content>
+<content contentuid="heb116c9dg806ag45e9gac8ag15ea5e93e374" version="1">当一名敌人对你造成&lt;b&gt;严重失误&lt;/b&gt;时，狂野魔法的混乱将扭曲现实——你的下一次攻击将变为&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;。</content>
+<content contentuid="h5aec9d33g75ccg4743g9274g58ba3875cdb7" version="1">狂野魔法已扭曲现实——你的下一次攻击将是一次&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;。</content>
+
+ <content contentuid="hb726acb6g36ebg4975g9acdg849b7a09e0d0" version="1">猩红宫廷礼袍</content>
+<content contentuid="headd82f3g2852g43edga8ddg14f2f0ca586c" version="1">在阴影笼罩的拉文洛夫城堡大厅中，九个古老的贵族血脉曾自愿献上他们的子嗣，以鲜血圣化这件礼袍。盲眼先知以无月丝绸为经纬，从自愿者血管中抽出丝线，每一针每一线皆是对永恒之夜的祷言。这件长袍铭记着它的洗礼——那被诅咒的一夜，凡人之躯成为了遥远的梦。</content>
+<content contentuid="h9b695233g963cg4728gb59eg3d01806fae0d" version="1">血裔传承</content>
+<content contentuid="h7d159547ga2a1g47daga8cagaad8db406b8e" version="1">当你使用&lt;LSTag Type="Spell" Tooltip="Target_VampireBite_Astarion"&gt;吸血鬼之噬&lt;/LSTag&gt;或&lt;LSTag Type="Spell" Tooltip="Target_VampiricTouch"&gt;吸血鬼之触&lt;/LSTag&gt;造成伤害时，还会额外造成&lt;b&gt;[1]&lt;/b&gt;。</content>
+
+ <content contentuid="h98994d1egfc8fg438bg81b1g4221894fd28a" version="1">盖尔格的追忆</content>
+<content contentuid="ha3abaa9dga4cbg4ee4g80c4g87269b52bed9" version="1">“于是，这场对‘背叛者’盖尔格人的光荣战役就此结束。”——这是胜利者在史书中所写的。但真相随他们一同死去：他们是农夫、诗人、医者。就连统帅阿利尔加斯特的儿子也深知这一点——他曾秘密娶了一位盖尔格女子为妻，在战火吞噬一切之前，学习着他们温柔的生活方式。当她与族人一同葬身火海，他花了十二年破碎的时光试图复活死者。仪式失败了，却留下这件诅咒斗篷——由灰烬与哀恸织成，承载着那些无辜被害者的残片。</content>
+<content contentuid="h21db9c4ag7868g490ag8f2eg68b80da39211" version="1">召唤盖尔格之灵</content>
+<content contentuid="h92c07046gc0f9g4e93gb1c7g9498a3f48274" version="1">召唤一位盖尔格祖先的幽魂，寻求为其族人伸张正义。这幻影在世人遗忘的世界中挣扎存留，力量随之逐渐衰弱。</content>
+<content contentuid="h9ab0147fg0123g4102g8f64g7e6aa7cfc195" version="1">召唤盖尔格之灵</content>
+<content contentuid="h39636e1fge694g444eg99d1ga56da12a285a" version="1">一个悲伤的盖尔格灵魂出现在施术者身旁，带着灭绝种族的绝望怒火与你的敌人作战。每一回合，它的存在都愈发脆弱。</content>
+<content contentuid="hb589b088g072fg49afg81b0g1de6577fd2cb" version="1">失落的遗产</content>
+<content contentuid="h682f0e1eg6402g45fcg8b98gce1b734026a2" version="1">如果你是&lt;b&gt;人类&lt;/b&gt;或&lt;b&gt;半精灵&lt;/b&gt;&lt;i&gt;（或伪装成其中之一）&lt;/i&gt;，获得&lt;b&gt;+[1]&lt;/b&gt;&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;当你或盟友受到攻击时，你可以消耗一点&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;，召唤出一名悲伤的格赫格英灵。</content>
+<content contentuid="h4929ba65g946ag4ec8g8340gc033f026aefa" version="1">格赫格先祖</content>
+<content contentuid="h69664df9g4551g47e5ga975ga0cc3048f1b4" version="1">被遗忘者</content>
+
+  <content contentuid="he413d503ga1a5g4792gbdf2g0aa6a820a1b2" version="1">铁炉堡壁垒</content>
+<content contentuid="h73a9b30dg9465g4664g9056ge9811bc3a3d7" version="1">在秘银厅最深处的熔炉中，液态秘银如江河奔涌，伟大的铁匠们在此用受克兰格丁亲赐祝福的陨铁铸就了这件护甲。每一片板甲皆经龙焰锻打，以石巨人的眼泪淬火而成。银须家族将它赠予最伟大的英豪——那些曾在孤独黑暗中挺身而出，并最终取胜的勇士。</content>
+<content contentuid="hd3f0d7fbg213ag4eedga1d0gf02a8da9f87d" version="1">克兰格丁的祝福</content>
+<content contentuid="hba3a3bb4g0815g4505gb419g281bb838da13" version="1">你永久获得&lt;LSTag Type="Status" Tooltip="MAG_BLADE_WARD"&gt;剑刃防护&lt;/LSTag&gt;状态效果。</content>
+
+  <content contentuid="ha60da59ag519cg4a11ga802g05f94f74affe" version="1">德丝帕娜的战勋甲</content>
+<content contentuid="h0a7579fagee9fg41e0ga1bcg43863792f56b" version="1">瓦伦·德斯帕娜在梅利达伦竞技场中并未赢得荣耀——而是被流放。百年的佣兵生涯中，她战胜了上百名敌人，而从每一个倒下的对手身上，她都取下一片护甲。在骷髅港的熔炉中，这些碎片被重新锻造，成为这套不可思议的战甲：每一块金属都被重塑重组，既如暗影丝般灵动，又如秘银般坚韧。“每一块板甲，”她曾说，“都是我夺走的生命；每一段生命，都是一堂血的教训。”</content>
+<content contentuid="h9ec8ed32gb4a0g46fega6c4g8f8cb89e4eb8" version="1">佣兵之锋</content>
+<content contentuid="hc7c92b5bgb6b0g4b23gb688gbb586adb954b" version="1">如果你是&lt;b&gt;卓尔精灵&lt;/b&gt;&lt;i&gt;（或伪装成其中之一）&lt;/i&gt;，获得&lt;b&gt;+[1]&lt;/b&gt;&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;、&lt;b&gt;+[3]&lt;/b&gt;至&lt;LSTag Tooltip="AttackRolls"&gt;武器攻击掷骰&lt;/LSTag&gt;，以及&lt;b&gt;+[2]%&lt;/b&gt;的跳跃距离加成。此外，作为&lt;b&gt;卓尔精灵&lt;/b&gt;穿戴此护甲时，还获得对&lt;LSTag Tooltip="OpportunityAttack"&gt;借机攻击&lt;/LSTag&gt;的免疫，以及减少&lt;b&gt;[2]%&lt;/b&gt;的坠落伤害。</content>
+
+  <content contentuid="hfda22347gf29bg4183g9bdcga0bd05e1e21b" version="1">囚徒悖论</content>
+<content contentuid="h82b80865g2251g4538g9722gc36d800e9c8a" version="1">第847号案例：囚犯在B-12号牢房中发现一处维度裂隙。该个体开始以指数级速度复制面包。事件爆发时，现场堆积了14吨烘焙食品。但该囚犯却因饥饿濒临死亡——未触碰任何一片面包。备注：此长袍附有咒术，一旦穿戴便无法移除。建议用于屡教不改的惯犯。 —— 水晶深渊监狱档案中的皱巴巴纸条</content>
+<content contentuid="h8fe55478g8240g4925g85aagedbc5bb1f57e" version="1">面包崩坏</content>
+<content contentuid="he054cd16ged7ag46efgba4bgc92ca2780bbb" version="1">备用计划</content>
+<content contentuid="hbec7d13ag7e25g4233g87f4gb46e2430cfe6" version="1">当你在战斗中的&lt;LSTag Tooltip="HitPoints"&gt;生命值百分比&lt;/LSTag&gt;低于&lt;b&gt;[1]%&lt;/b&gt;时，所有位于你&lt;b&gt;[2]&lt;/b&gt;范围内的敌人必须进行一次成功的&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;(&lt;b&gt;[3]&lt;/b&gt;)，否则将陷入&lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;麻痹&lt;/LSTag&gt;状态，持续&lt;b&gt;[4]&lt;/b&gt;回合。&lt;br&gt;&lt;br&gt;每场战斗中最多触发一次。</content>
+<content contentuid="hb3011a8eg9e01g44b2ga56eg50126092e10d" version="1">紧急协议</content>
+<content contentuid="h97fc88e8g1619g4b37gb247g3ea50af9acb3" version="1">使受诅咒长袍穿戴者周围&lt;b&gt;[1]&lt;/b&gt;半径内所有生物陷入麻痹状态。</content>
+<content contentuid="h354c8ce8gc347g46c4g972fg9095bee5fea4" version="1">穿帮了！</content>
+<content contentuid="h8a68bf9ag88dag4969ga82eg9feab587f6f0" version="1">宇宙正义的天平向你倾斜——这件被诅咒的长袍已与你的灵魂融为一体。一旦披上，&lt;b&gt;无法通过任何凡间手段移除&lt;/b&gt;。就把它当作你的红字耻辱章、羞耻印记、或是宇宙亲笔写的那张“踢我”便条吧。</content>
+
+ <content contentuid="h4ade7f0fg72deg40a7g8306g7444dee48007" version="1">冬爵加冕之甲</content>
+<content contentuid="he1c81ea5g2a56g43ecgab3dg709435fa0637" version="1">在众神踏足托瑞尔之前，在火焰尚不知温暖为何物之时，第一寒冬降临了。从它的核心之中，升起了“绝对零度王座”，其上端坐着“无名之王”——既非生者，亦非亡灵，而是介于两者之间的存在。他的全身板甲由星辰仍在梦中时坠落的陨冰锻造而成，每一片都是具象化的宇宙寒冬。</content>
+<content contentuid="hc82b37c7g96e6g4b46g9af3g86b53c5fffe4" version="1">墓穴之握</content>
+<content contentuid="h76c0e5feg29a2g4f68g8102g25a1d70e6e36" version="1">当你造成&lt;b&gt;[1]&lt;/b&gt;时，你还会额外造成&lt;b&gt;[2]&lt;/b&gt;。&lt;br&gt;你将化身&lt;LSTag Type="Status" Tooltip="AMP_NECROMANCER_UNDEAD_FORM"&gt;无名之王&lt;/LSTag&gt;。</content>
+<content contentuid="h7b68076dg02e7g4a2agb0c8g814106943245" version="1">永恒寒冬</content>
+<content contentuid="h7e4538c1g8164g4334g948ege0425b39bad2" version="1">当踏上&lt;b&gt;冰冻表面&lt;/b&gt;时，可在一次战斗中&lt;b&gt;&lt;/b&gt;使用一次&lt;LSTag Type="Spell" Tooltip="Wall_AMP_WallOfIce_Free"&gt;冰墙术&lt;/LSTag&gt;而无需消耗法术位。</content>
+<content contentuid="h06d2405fg3028g4e1bg8070g830ef1799452" version="1">无名之王形态</content>
+<content contentuid="h3a75c51ag1db9g42f0g8345gdd6aeb7cb8b2" version="1">你的血肉经历了类似巫妖的低阶转化。你获得对&lt;b&gt;[1]&lt;/b&gt;的&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;，对&lt;b&gt;[2]&lt;/b&gt;的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;，且不会受到以下状态影响：&lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;麻痹&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="POISONED"&gt;中毒&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;流血&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="SLEEPING"&gt;睡眠&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="CHARMED"&gt;魅惑&lt;/LSTag&gt;，以及其他通常不影响不死生物的状态。你也无法使用生者的手段为自己恢复生命。</content>
+
+ <content contentuid="hf8261620gaa82g4dd4ga179gb1de6425d25a" version="1">行刑者的热忱</content>
+<content contentuid="h4b6dff61gdd68g4826gbb00g99af04ba576f" version="1">你在战斗中使用&lt;LSTag Type="Spell" Tooltip="Target_MistyStep"&gt;迷踪步&lt;/LSTag&gt;时无需消耗资源。</content>
+
+ <content contentuid="h4744ffafg2b4bg4253g8c9ag47c54ce0ce7f" version="1">在钢铁容器内部，发光的精华在古老得无法记忆的纹路中旋转。齿轮状的封印上刻着工匠的标记——铭文符文诉说着转化与束缚，那种力量萃取自垂死星辰的呼吸。微弱的温暖透过强化玻璃散发出来，仿佛其中之物仍在梦回锻造它时的熔炉。</content>
+
+ <content contentuid="h7a8c4f92g0e1bg4d58g9ac3g6b9d2e47c851" version="1">毒藤精萃</content>
+<content contentuid="hf3b829a1g6c47g4e92gb815gd04f7a6c9263" version="1">毒性激流</content>
+<content contentuid="h2d5e6f18gb9c4g45a7g8e20g3f8b1d457e92" version="1">当你使用&lt;b&gt;武器&lt;/b&gt;攻击造成&lt;b&gt;[1]&lt;/b&gt;时，目标必须成功通过一次&lt;b&gt;体质&lt;/b&gt; &lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;，否则你将恢复一个&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;该效果的&lt;LSTag Tooltip="DifficultyClass"&gt;难度等级&lt;/LSTag&gt;取决于你的&lt;b&gt;战技豁免难度等级&lt;/b&gt;。&lt;br&gt;&lt;br&gt;每回合最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  
+ <content contentuid="h8a6f3c94gb729g4e51gd847gf2b8e9c45a73" version="1">液态星火萃酿</content>
+<content contentuid="hc8f4e729g5a1bg4d63g9e47g82b3c6f95d18" version="1">火花传导</content>
+<content contentuid="h9a7d2c41gb456g4e89ga293gf74e8b1c6d95" version="1">&lt;b&gt;每回合&lt;/b&gt;战斗中，获得&lt;LSTag Type="Status" Tooltip="AMP_FREE_CAST"&gt;充能催化剂&lt;/LSTag&gt;，使你可以不消耗&lt;LSTag Tooltip="SpellSlot"&gt;法术位&lt;/LSTag&gt;来施放你的&lt;b&gt;下一个&lt;/b&gt;&lt;b&gt;升环法术&lt;/b&gt;。</content>
+<content contentuid="he3b8f927g4c58g4a72gb184gd9f5a8e4c631" version="1">充能催化剂</content>
+<content contentuid="h6d1a5f38g7e92g4b65gc047ga8b2d3f67e94" version="1">你的&lt;b&gt;下一个&lt;/b&gt;&lt;b&gt;升环法术&lt;/b&gt;&lt;b&gt;不消耗&lt;/b&gt;&lt;LSTag Tooltip="SpellSlot"&gt;法术位&lt;/LSTag&gt;。当你&lt;b&gt;施放法术时&lt;/b&gt;，承受&lt;b&gt;[1]&lt;/b&gt;。</content>
+  
+  <content contentuid="hf5e9d172ga483g4c67gb920ge7a6c8f41d59" version="1">豺狼人三指浓缩膏</content>
+<content contentuid="h4f7a8b29gc15dg4e68ga047gd3b9f5c28e71" version="1">沸腾狂怒</content>
+<content contentuid="ha2e6d948g73b1g4c92gb865ge8f4a7d35c96" version="1">当你受到任何&lt;b&gt;疯狂&lt;/b&gt;状态影响时，你的&lt;b&gt;徒手攻击&lt;/b&gt;&lt;b&gt;必定&lt;/b&gt;为&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;。</content>
+  
+ <content contentuid="h2c7b8e41gd596g4f84ga038gf9e2c5a73b64" version="1">液化天马泪萃露</content>
+<content contentuid="hb3c7f684ga928g4d51ge739gf6a4c8b91e27" version="1">不稳跃迁</content>
+<content contentuid="hd8f2a157gb634g4e78ga492gc5e9d7f43b86" version="1">立即在战斗中与目标生物交换位置。如果目标成功通过一次&lt;b&gt;智力&lt;/b&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt; &lt;b&gt;([1])&lt;/b&gt;，则&lt;b&gt;你&lt;/b&gt;陷入&lt;LSTag Type="Status" Tooltip="STUNNED"&gt;震慑状态&lt;/LSTag&gt;。</content>
+
+ <content contentuid="ha5c8f294gb716g4e83gd629gf7e3a9c48b65" version="1">黑曜石粉蒸馏液</content>
+<content contentuid="h9e4f2a81gc627g4d59gb703ge8c5f9a46b84" version="1">地狱爆发</content>
+<content contentuid="hd7c6e391gb548g4f72ga829gf6d4a8c25e97" version="1">每当你在战斗中受到&lt;b&gt;任何状态效果&lt;/b&gt;时，在你周围生成持续 &lt;b&gt;[2]&lt;/b&gt;回合的&lt;b&gt;[1]&lt;/b&gt;地狱火&lt;b&gt;地表&lt;/b&gt;。</content>
+
+ <content contentuid="hf2d8e675ga439g4c61gb705gd9e3f8a27b94" version="1">米格斯位面萃取物</content>
+<content contentuid="h8b4c7a26gd187g4f92ge638gf5a2c9e84d71" version="1">米盖萨瑞姆</content>
+<content contentuid="he7f9c421gb653g4a84gd927ga6b8f4c59e38" version="1">当你对一名&lt;b&gt;受伤敌人&lt;/b&gt;造成伤害时，你会受到&lt;b&gt;[1]&lt;/b&gt;。</content>
+
+ <content contentuid="h4a7e9c63gb285g4f14gd639ge8c7f5a92b48" version="1">原初勇毅酊剂</content>
+<content contentuid="hc9f5d182ga647g4e39gb574gf2e8c6a71d93" version="1">液体勇气</content>
+<content contentuid="h6b8a4e75gd394g4c62ge187ga9f3d5c48b76" version="1">当你处于&lt;b&gt;醉酒&lt;/b&gt;状态时，使用&lt;b&gt;徒手攻击&lt;/b&gt;触发&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;所需的掷骰数值降低&lt;b&gt;[1]&lt;/b&gt;。</content>
+
+ <content contentuid="ha3546042g072dg42dcga90cg4c7d6c83bd8e" version="1">液化构装魂萃酿</content>
+<content contentuid="habbfb66age714g4bcag9f7eg5c49bbecb5d5" version="1">石像鬼之息</content>
+<content contentuid="h3b73ae32gc634g4572g8248gdd998eff3286" version="1">当你&lt;b&gt;未命中&lt;/b&gt;一名&lt;b&gt;敌人&lt;/b&gt;时，所有位于&lt;b&gt;[1]&lt;/b&gt;内（包括你自己）的生物必须进行一次成功的&lt;b&gt;力量&lt;/b&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;（&lt;b&gt;[2]&lt;/b&gt;），否则将陷入&lt;LSTag Type="Status" Tooltip="PETRIFIED"&gt;石化状态&lt;/LSTag&gt;持续 &lt;b&gt;[3]&lt;/b&gt;回合。</content>
+
+ <content contentuid="h263e5e67gd822g4576g929fg1599cf950e9a" version="1">蛊惑者之耳精华</content>
+<content contentuid="h51b4e66agc1bcg494eg80ceg849b6c010ae0" version="1">迷人共鸣</content>
+<content contentuid="h0ab03f0fg170eg4a5fgb45bg75caf1e1412f" version="1">你对造成伤害的生物自动施加&lt;LSTag Type="Status" Tooltip="CHARMED"&gt;魅惑&lt;/LSTag&gt;效果——若其&lt;b&gt;感知&lt;/b&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;失败，则持续 &lt;b&gt;[1]&lt;/b&gt;回合。&lt;br&gt;&lt;br&gt;&lt;LSTag Tooltip="DifficultyClass"&gt;难度等级&lt;/LSTag&gt;取决于你的&lt;b&gt;战技豁免难度等级&lt;/b&gt;。</content>
+
+  <content contentuid="hae1851c6g90e1g4573g8a60g66530f43c931" version="1">浓缩闪光萃液</content>
+<content contentuid="haa78760agec20g4938g8f07gf6aabb4bbdc7" version="1">发光精灵光环</content>
+<content contentuid="h10b8c3c5g0d56g49fag822bg9343bb192354" version="1">当一名位于你&lt;b&gt;[1]&lt;/b&gt;范围内的生物受到&lt;b&gt;[2]&lt;/b&gt;时，它必须进行一次成功的&lt;b&gt;体质&lt;/b&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;（&lt;b&gt;[3]&lt;/b&gt;），否则将获得&lt;LSTag Type="Status" Tooltip="MAG_RADIANT_RADIATING_ORB"&gt;光耀法球&lt;/LSTag&gt;状态，持续&lt;b&gt;[4]&lt;/b&gt;回合。</content>
+
+ <content contentuid="hb981a7e2gada3g42d2gb9acg804ed1ab42c9" version="1">陈年蟹髓酊剂</content>
+<content contentuid="h2d7a3826g7549g4cb2ga6eegbd29874c120c" version="1">驭水者漩涡</content>
+<content contentuid="hed14a15fg0511g4cddg8179g927f88a26409" version="1">你所有的&lt;b&gt;升环法术&lt;/b&gt;在造成效果时也会使目标进入&lt;LSTag Type="Status" Tooltip="WET"&gt;湿润&lt;/LSTag&gt;状态，持续&lt;b&gt;[1]&lt;/b&gt;回合。</content>
+
+  <content contentuid="h14f22844g2fd3g4413gb122gcac125b58fb0" version="1">邪魔肝萃精</content>
+<content contentuid="h9130569dg8788g44d4gbdcdgace726b057cb" version="1">血契</content>
+<content contentuid="h4264ec2bg6e6fg42d1gb95cg9a3e23d13b52" version="1">当一名友方的&lt;b&gt;邪魔&lt;/b&gt;位于你&lt;b&gt;[2]&lt;/b&gt;范围内时，你们双方都会&lt;b&gt;额外&lt;/b&gt;造成&lt;b&gt;[1]&lt;/b&gt;，适用于所有伤害来源。</content>
+<content contentuid="hd3284920g983dg4661gbde8g5dfa5e1f5743" version="1">邪魔赋能</content>
+<content contentuid="h909a8ce7gf338g4f56g948cg1cb18e2cbe42" version="1">你也会对所有伤害来源&lt;b&gt;额外&lt;/b&gt;造成&lt;b&gt;[1]&lt;/b&gt;。</content>
+
+  <content contentuid="h1aab2cb8ga09dg4d41ga13ag5407f29bf1ed" version="1">妖精荒野特等蒸馏液</content>
+<content contentuid="h85a8aaf0gf61eg46b1g9540g5af7542eb545" version="1">精神崩解</content>
+<content contentuid="hb13b9931gfd75g4ef2gb31agb0d4598d2b78" version="1">当你造成&lt;b&gt;[1]&lt;/b&gt;时，目标必须进行一次成功的&lt;b&gt;感知&lt;/b&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;（&lt;b&gt;[2]&lt;/b&gt;），否则将陷入&lt;LSTag Type="Status" Tooltip="CONFUSED"&gt;困惑&lt;/LSTag&gt;状态，持续 &lt;b&gt;[3]&lt;/b&gt; 回合。</content>
+
+ <content contentuid="h2969d37cgcf83g4a30gbb16gb37818c09248" version="1">碎魂晶末</content>
+<content contentuid="h51dbc20bg51d7g4f29ga3ccg12ad429187fc" version="1">被诅咒的战士</content>
+<content contentuid="hb440d7e3g10e5g4b2dg9628gb5e6ac643381" version="1">当你受到任何&lt;b&gt;诅咒&lt;/b&gt;影响时，你的&lt;b&gt;近战武器攻击&lt;/b&gt;&lt;b&gt;额外&lt;/b&gt;造成&lt;b&gt;[1]&lt;/b&gt;。（伤害类型取决于你装备的武器）&lt;i&gt;&lt;/i&gt;</content>
+
+ <content contentuid="h6b5f40bag3a90g49d8g92b7gc57ff528d7fb" version="1">净炼卓尔肾萃液</content>
+<content contentuid="h5e049d6cg09fag4823ga70bg3a63b3adacd6" version="1">蛛网滋生</content>
+<content contentuid="hd0225d72gad01g4542gb6e0g527dc861ea1f" version="1">每当你使一个生物陷入&lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;束缚&lt;/LSTag&gt;状态时，在附近生成一个持续&lt;b&gt;[2]&lt;/b&gt;回合、半径为&lt;b&gt;[1]&lt;/b&gt;的&lt;b&gt;蛛网&lt;/b&gt;地表。</content>
+
+  <content contentuid="h2f3c2359gbb0dg40a0gb068gba4c1fb6ffe7" version="1">花野萃酿</content>
+<content contentuid="h133d8811g9aceg41a1g89e8g87f886d2a2ab" version="1">自然的反抗</content>
+<content contentuid="hf9955a97g1645g46cagb4e9g53251e640100" version="1">当你站在&lt;b&gt;茂密的花丛&lt;/b&gt;中时，你&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/Lag&gt;&lt;LSTag Type="Status" Tooltip="STUNNED"&gt;震慑状态&lt;/LSTag&gt;。</content>
+
+  <content contentuid="h66d197acgb8aag499dg85a6g3604ced3dd42" version="1">食尸鬼之眼蒸馏液</content>
+<content contentuid="hc4c7daabg815bg4dcagb31dg252d1bd105f0" version="1">幽影视觉</content>
+<content contentuid="h1c4d5712gb9c7g4c5dgbe27g533955fa664d" version="1">当你击杀一个生物后，获得&lt;b&gt;[1]&lt;/b&gt;回合的&lt;LSTag Type="Status" Tooltip="AMP_DEVILS_SIGHT_STATUS"&gt;恶魔视觉&lt;/LSTag&gt;状态。</content>
+
+  <content contentuid="h9b911cd1gdeadg4a89gbfa6g01485ee6e99d" version="1">液化术士魂萃酿</content>
+<content contentuid="h8bc2c306g1fefg4c15g85ddg5336ec034f23" version="1">变形诡计</content>
+<content contentuid="h720e2e70gdb9fg46b2gbd5cgc14226482909" version="1">当你使用&lt;b&gt;疾走&lt;/b&gt;时，你会立即被转化为一只&lt;LSTag Type="Status" Tooltip="POLYMORPH_SHEEP"&gt;绵羊&lt;/LSTag&gt;。</content>
+
+  <content contentuid="h0dcde388g44b3g40e2gaf1age6b07fe982a7" version="1">星界熊果萃精</content>
+<content contentuid="h45fa5affg6692g4fecgbf5dg455ad74801ee" version="1">位面扭曲</content>
+<content contentuid="h6287fcebgda14g4bc6gac32g5625ce810313" version="1">当你施放&lt;LSTag Type="Spell" Tooltip="Shout_Blink"&gt;闪现术&lt;/LSTag&gt;时，有&lt;b&gt;[1]%&lt;/b&gt; 的几率召唤一个友好的&lt;b&gt;眼魔&lt;/b&gt;。&lt;b&gt;眼魔&lt;/b&gt;与物质位面的连接会每回合逐渐减弱。</content>
+
+ <content contentuid="h3142af5dgd151g44adga15ag09077936b336" version="1">超导脉冲萃液</content>
+<content contentuid="hf3628828gbec6g46a4g91a9g9518d5270d2e" version="1">超导体</content>
+<content contentuid="h98b06c2fg3097g4305gbb5dga1a9aaf2a9bc" version="1">当你&lt;b&gt;推击&lt;/b&gt;一个生物时，额外多推移&lt;b&gt;[1]&lt;/b&gt;。&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt;包括所有强制移动效果，即使来源于法术。</content>
+
+  <content contentuid="h920f38dagb1d5g46aaga4f5g2d9cf8b8d110" version="1">液化博德之门萃取物</content>
+<content contentuid="hd2e8e19ag5f7bg4193gbf1ege612d776ca6f" version="1">间谍队长</content>
+<content contentuid="h95e22777gbf9fg49fagbe9fg067ff621512e" version="1">如果你是&lt;b&gt;人类&lt;/b&gt;或&lt;b&gt;半精灵&lt;/b&gt;&lt;i&gt;（或伪装成其中之一）&lt;/i&gt;，你在非战斗状态下的&lt;b&gt;跳跃距离&lt;/b&gt;增加&lt;b&gt;[1]&lt;/b&gt;，并且在非战斗状态下获得永久的&lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;隐形&lt;/LSTag&gt;状态。</content>
+
+  <content contentuid="h27d533aag6cf8g4e1dg9145g8c9735195ecc" version="1">火焰真魂者</content>
+<content contentuid="h638e42d0g28e1g4ab4gb160gf169b17a3165" version="1">地精织法调谐</content>
+<content contentuid="h207eb8d5gdb00g4fbeg8d4dgc0ff935beead" version="1">如果你为&lt;b&gt;超小型&lt;/b&gt;体型，在你施放&lt;LSTag Type="Spell" Tooltip="Projectile_Fireball"&gt;火球术&lt;/LSTag&gt;或&lt;LSTag Type="Spell" Tooltip="Target_FlameStrike"&gt;焰击术&lt;/LSTag&gt;时，获得&lt;LSTag Type="Status" Tooltip="AMP_FIRE_MASTERY_CAST"&gt;火焰掌控&lt;/LSTag&gt;状态。</content>
+<content contentuid="h474a2259g5dbdg4da3gb864gcf5819090a6a" version="1">火焰掌控</content>
+<content contentuid="h1e9ac892g9ff6g4611g8044gc5404f80adb1" version="1">你的下一个&lt;LSTag Type="Spell" Tooltip="Projectile_Fireball"&gt;火球术&lt;/LSTag&gt;或&lt;LSTag Type="Spell" Tooltip="Target_FlameStrike"&gt;焰击术&lt;/LSTag&gt;可在不消耗&lt;LSTag Tooltip="SpellSlot"&gt;法术位&lt;/LSTag&gt;的情况下施放。</content>
+
+  <content contentuid="h4f8e921bg3a5cg4d72g8914g2a1f7b9c8456" version="1">格里姆兰斗篷</content>
+<content contentuid="he2f8941bg6d2ag4b18g9a73gf8c52e4d7890" version="1">格里姆兰德曾名为“双望之地”。内陆民与海岸民携手共建此地，虽有差异，却和谐共存，浑然一体。直到言灵之石降临。万千声音同时响起，每一句恶语都被放大十倍，回荡不息。&lt;br&gt;&lt;br&gt;内陆人听到了讥讽，海岸人听到了仇恨。真相，湮没于喧嚣之中。&lt;br&gt;&lt;br&gt;“分裂者”们靠贩卖愤怒而暴富。邻里反目成仇，仇敌终成灰烬。当烈火熄灭，战争结束——双方都赢了，双方也都输了。&lt;br&gt;&lt;br&gt;这件斗篷，便来自那片无主之地。人们说，它会因观者不同而变幻颜色。人们还在格里姆兰德说着各种传言……但如今，无人再听。</content>
+<content contentuid="h8d1f5a29gb4c7g4e62g9853gf2a681e45d73" version="1">再无人倾听</content>
+<content contentuid="hc3e6b94fg7a25g4d18g8794gae5f123c6b89" version="1">当你承受任何&lt;b&gt;诅咒&lt;/b&gt;时，你将处于&lt;LSTag Type="Status" Tooltip="ENLARGE"&gt;巨化&lt;/LSTag&gt;状态。</content>
+  
+<content contentuid="hbb145eedg1bc7g6f8cga54ag8bf844c98201" version="1">你这个蠢货！你必须意识到自己已经注定灭亡。暗影之主的收割者绝不允许有生还者……</content>
+
+<content contentuid="hed166098g67edg491fg9ac5g48c759c4b8ef" version="1">编织之秘</content>
+
+<content contentuid="hba237119gcc96gcb98g3474g8a9de56e5a8c" version="1">炽天使的最终遗嘱</content>
+<content contentuid="h57e58c3fga7e6g6b4cgf7dcg0e2e76f09213" version="1">炽天使凯莉丝撕下自己的翅膀，拯救了一名垂死的士兵——这名士兵是其整个军团溃逃后唯一幸存的战士。她为此付出了生命的代价，但由她牺牲而诞生的铠甲历经千年依然存世。穿上它，就如同沉浸于液态的星光之中。</content>
+ 
+  <content contentuid="hba182ddag88d1g14e7g5799g11d77eda9f01" version="1">陨落英豪之拳套</content>
+  <content contentuid="h5f3a2cc6g8d13ga829ge89dg8a72f5bbbe25" version="1">奥瑞利乌斯在格林维尔村庄屠杀了十七名孩童。那天，天界英豪的剑刃一次次刺向藏匿于幼小身躯中的恶魔，却次次落空，而天界之火已将那些幼小的身体尽数吞噬。英豪只能垂泪。恶魔最终逃脱。而这副拳套，铭记着每一个名字。</content>
+ <content contentuid="he5e486b4gd591g4b80g93deg5e79fd9e81d3" version="1">天界惩戒</content>
+  <content contentuid="ha7d7743fg5386g42cdgb520g51580fd07d68" version="1">当你使用武器攻击&lt;b&gt;未命中&lt;/b&gt;时，立即对目标造成&lt;b&gt;[1]&lt;/b&gt;。</content>
+  
+  <content contentuid="he325b3adg404eg4b67g813dg364ec834c3fa" version="1">巴尔之子的斩击</content>
+  <content contentuid="hf39b72bbg4521g4210g935egf16860a0b00f" version="1">每当你造成&lt;b&gt;[1]&lt;/b&gt;时，使目标陷入&lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;流血&lt;/LSTag&gt;状态，持续&lt;b&gt;[2]&lt;/b&gt;回合。持续时间可叠加。</content>
+ 
+ <content contentuid="hbc9af1bfga234g4a21g8c54g1a9e837bc541" version="1">远古混沌</content>
+  <content contentuid="h3e8d9c42gf187g4b29ga89fg6c5e248ad139" version="1">此生物的&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;和&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;获得&lt;b&gt;+[1]&lt;/b&gt;加值。&lt;br&gt;&lt;br&gt;积累的充能可用于施放&lt;LSTag Type="Spell" Tooltip="Target_AMP_ANCIENTCHAOS_HEAL"&gt;无尽复原&lt;/LSTag&gt;，或在造成伤害时增加&lt;b&gt;[2]&lt;/b&gt;。&lt;br&gt;&lt;br&gt;仅在&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;后才会消失。</content>
+  <content contentuid="h8f39ddf1g3e12g493bg98c6g9e6b3a1e5e29" version="1">无尽复原</content>
+  <content contentuid="hddd1ea58gfd85g4f37gb947g34e391375b27" version="1">消耗所有&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能，每点充能恢复&lt;b&gt;[1]&lt;/b&gt;（即使你是&lt;b&gt;亡灵&lt;/b&gt;也有效）。</content>
+  <content contentuid="h638dec8eg12e2g4f1fg9d2ag510e093b6601" version="1">混沌涌动</content>
+  <content contentuid="hf7ee2b53g3369g41abgb2fegaa83c74e3832" version="1">&lt;b&gt;可切换效果。&lt;/b&gt; 造成伤害时，额外造成&lt;b&gt;[1]&lt;/b&gt;，并消耗&lt;b&gt;[2]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。</content>
+  
+  <content contentuid="haa3c3778g4b50g4a72ga3d7g20d7c542a506" version="1">光能异象</content>
+  <content contentuid="h48dd78adg083dg4126g8867g2f826585bbc5" version="1">对敌人施加&lt;LSTag Type="Status" Tooltip="MAG_RADIANT_RADIATING_ORB"&gt;光耀法球&lt;/LSTag&gt;时，你获得&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每场&lt;b&gt;战斗&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="h159f3d8cg74a8g4198gac16g79c2b1c5eb91" version="1">对敌人施加&lt;LSTag Type="Status" Tooltip="MAG_RADIANT_RADIATING_ORB"&gt;光耀法球&lt;/LSTag&gt;时，你获得&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每&lt;b&gt;回合&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="hee548f9dg0193g4065g90f6gae996de55d09" version="1">对敌人施加&lt;LSTag Type="Status" Tooltip="MAG_RADIANT_RADIATING_ORB"&gt;光耀法球&lt;/LSTag&gt;时，你获得&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。</content>
+  
+  <content contentuid="h1ba10efbg98f8g4d1dga4e6gcb1be7f474af" version="1">米格克萨转化</content>
+  <content contentuid="h50efc3d4g9aa2g4ea5g8421g5f81ab7c0fdb" version="1">当你受到&lt;b&gt;[1]&lt;/b&gt;时，你积累&lt;b&gt;[2]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每场&lt;b&gt;战斗&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="h7935988agdaddg49f5g88a5gf5063dad2b12" version="1">当你受到&lt;b&gt;[1]&lt;/b&gt;时，你积累&lt;b&gt;[2]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每&lt;b&gt;回合&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="h67303ce6g6000g4254g8083g8f68519abf98" version="1">当你受到&lt;b&gt;[1]&lt;/b&gt;时，你积累&lt;b&gt;[2]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。</content>
+  
+  <content contentuid="h936ec3e3g0f36g4042gbab0g705a0dab4f08" version="1">无限放电</content>
+  <content contentuid="hae5170cdgc6e9g454bgb471gbef78dfaf871" version="1">获得&lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;闪电充能&lt;/LSTag&gt;时，你积累&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每场&lt;b&gt;战斗&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="h1f70a13dge72ag4292g9803gf5333b7444fb" version="1">获得&lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;闪电充能&lt;/LSTag&gt;时，你积累&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每&lt;b&gt;回合&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="h77e23966g1326g4d9fg90a2gd68c45448ef9" version="1">获得&lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;闪电充能&lt;/LSTag&gt;时，你积累&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。</content>
+  
+  <content contentuid="h98ca918cg42a8g4775g9cb4g4a79e7559c21" version="1">爆发异象</content>
+  <content contentuid="h67705148gdda6g4060ga91fgc45fd17dc7b1" version="1">当你造成&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时，你积累&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每场&lt;b&gt;战斗&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="h5c6ce58agb870g4713g8866g8a82f32fec48" version="1">当你造成&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时，你积累&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每&lt;b&gt;回合&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="h4b5a93b9gf4bag41a9g9141g8d98c5749989" version="1">当你造成&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时，你积累&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。</content>
+  
+  <content contentuid="h2ac2af48g11fbg4d60g8a05g6593e481f3f5" version="1">混沌凝结</content>
+  <content contentuid="heedafa33g899fg47b7gbea4gab3694d0029a" version="1">对敌人施加&lt;LSTag Type="Status" Tooltip="CHILLED"&gt;冻僵&lt;/LSTag&gt;状态时，你获得&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每场&lt;b&gt;战斗&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="heab11636g51a2g4635ga345g76a3f3f99475" version="1">对敌人施加&lt;LSTag Type="Status" Tooltip="CHILLED"&gt;冻僵&lt;/LSTag&gt;状态时，你获得&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每&lt;b&gt;回合&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="h2b0bf221gf635g445fgbc76gc84bc4f1ab54" version="1">对敌人施加&lt;LSTag Type="Status" Tooltip="CHILLED"&gt;冻僵&lt;/LSTag&gt;状态时，你获得&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。</content>
+  
+  <content contentuid="hb23167fdg6f49g4773ga6f2g8807e4aece93" version="1">衰败收割</content>
+  <content contentuid="he0dd5656g768bg4557g9c92g576697c97b2d" version="1">对敌人施加&lt;LSTag Type="Status" Tooltip="CHILL_TOUCH"&gt;冻寒之触&lt;/LSTag&gt;状态时，你获得&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每场&lt;b&gt;战斗&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="hdfc34b0fgc8a3g44dfg8324g100dc247377e" version="1">对敌人施加&lt;LSTag Type="Status" Tooltip="CHILL_TOUCH"&gt;冻寒之触&lt;/LSTag&gt;状态时，你获得&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每&lt;b&gt;回合&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="h395d800dg3e3bg43ebg94d6gc6e2f8f26627" version="1">对敌人施加&lt;LSTag Type="Status" Tooltip="CHILL_TOUCH"&gt;冻寒之触&lt;/LSTag&gt;状态时，你获得&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。</content>
+  
+  <content contentuid="h266f811dg1234g4cc7g9baeg59395290b4ba" version="1">防御异象</content>
+  <content contentuid="habb14eaagb37fg4df3ga440g3d7747e01de4" version="1">当你受到&lt;b&gt;[1]&lt;/b&gt;、&lt;b&gt;[2]&lt;/b&gt;或&lt;b&gt;[3]&lt;/b&gt;时，你积累&lt;b&gt;[4]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每场&lt;b&gt;战斗&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="hcf7e7a45g03e7g465cg92e7g62cd4e943e42" version="1">当你受到&lt;b&gt;[1]&lt;/b&gt;、&lt;b&gt;[2]&lt;/b&gt;或&lt;b&gt;[3]&lt;/b&gt;时，你积累&lt;b&gt;[4]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每&lt;b&gt;回合&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="h4a9905a7gececg4e9dg868ag3a3326d42b97" version="1">当你受到&lt;b&gt;[1]&lt;/b&gt;、&lt;b&gt;[2]&lt;/b&gt;或&lt;b&gt;[3]&lt;/b&gt;时，你积累&lt;b&gt;[4]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。</content>
+  
+  <content contentuid="h8ca62649g7d58g4d56g919dg76cb383f4b8c" version="1">酸蚀异象</content>
+  <content contentuid="hd184ffc5g882bg4d02g8075g06e7ae33d799" version="1">在战斗中，当你回合开始时处于&lt;b&gt;酸液区域&lt;/b&gt;上，你积累&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每场&lt;b&gt;战斗&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="h5032d62agfa5ag4216gb9b0g590b0031a0a3" version="1">在战斗中，当你回合开始时处于&lt;b&gt;酸液区域&lt;/b&gt;上，你积累&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每&lt;b&gt;回合&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="h03f90183gf9ffg4abagac4bg40de65d8bd10" version="1">在战斗中，当你回合开始时处于&lt;b&gt;酸液区域&lt;/b&gt;上，你积累&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。</content>
+  
+  <content contentuid="h1efd2292g7172g47ffgbbf1g5fd0399c0dd3" version="1">声波异象</content>
+  <content contentuid="hd7345f07g5979g4cdeg8a48g7ed4a0e80a3d" version="1">对敌人施加&lt;LSTag Type="Status" Tooltip="STUNNED"&gt;震慑&lt;/LSTag&gt;或类似状态时，你获得&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每场&lt;b&gt;战斗&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="hdbc38f0eg51c7g4729g8d6egdf707f08e2f6" version="1">对敌人施加&lt;LSTag Type="Status" Tooltip="STUNNED"&gt;震慑&lt;/LSTag&gt;或类似状态时，你获得&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每&lt;b&gt;回合&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="h3f267e57g8738g4d21ga9a9g4019e2aa768e" version="1">对敌人施加&lt;LSTag Type="Status" Tooltip="STUNNED"&gt;震慑&lt;/LSTag&gt;或类似状态时，你获得&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。</content>
+  
+  <content contentuid="hf6459011gfa43g4540gb9d1gd4a64a133022" version="1">病态心智异象</content>
+  <content contentuid="hc78c1114g47fcg41c2g931bgf20617a794aa" version="1">每当你的&lt;LSTag Type="Status" Tooltip="TAD_SHIELD_OF_THRALLS"&gt;易爆护盾&lt;/LSTag&gt;消失时，你获得&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每场&lt;b&gt;战斗&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="h1a19935bg5f1eg4553gbde3gb116eb504a55" version="1">每当你的&lt;LSTag Type="Status" Tooltip="TAD_SHIELD_OF_THRALLS"&gt;易爆护盾&lt;/LSTag&gt;消失时，你获得&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每&lt;b&gt;回合&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="h1df89c7agc29fg416bgb685gc28ac5f65910" version="1">每当你的&lt;LSTag Type="Status" Tooltip="TAD_SHIELD_OF_THRALLS"&gt;易爆护盾&lt;/LSTag&gt;消失时，你获得&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。</content>
+  
+  <content contentuid="h17d20531g5320g4aaag8da0g761ece46666e" version="1">血能异象</content>
+  <content contentuid="h2d6191a2ga7a6g44c8gb6acg636429e7bdfb" version="1">对敌人施加&lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;流血&lt;/LSTag&gt;状态时，你获得&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每场&lt;b&gt;战斗&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="h4da705f8gfacfg4456ga1aag0e636208cf3a" version="1">对敌人施加&lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;流血&lt;/LSTag&gt;状态时，你获得&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每&lt;b&gt;回合&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="h4f4fbe60g477eg4a1fg8255g91e674f2e3c4" version="1">对敌人施加&lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;流血&lt;/LSTag&gt;状态时，你获得&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。</content>
+  
+  <content contentuid="h28968bdbg10d2g4a2fg8ad5g396de3188aa5" version="1">暗影异象</content>
+  <content contentuid="h0fbe57a5g5310g4acbgb777g59259b97ce1c" version="1">在战斗中，当你处于&lt;b&gt;黑暗云雾&lt;/b&gt;内时，你积累&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每场&lt;b&gt;战斗&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="hfa243739gb587g44e3ga586g7885b981ff9c" version="1">在战斗中，当你处于&lt;b&gt;黑暗云雾&lt;/b&gt;内时，你积累&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每&lt;b&gt;回合&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="he48a1f67gc4bcg45e6ga0b4gf659f7adff2f" version="1">在战斗中，当你处于&lt;b&gt;黑暗云雾&lt;/b&gt;内时，你积累&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。</content>
+  
+  <content contentuid="h12f46039g1147g49bdga73bg4605fc75a295" version="1">毒素异象</content>
+  <content contentuid="hb03a0654g65b5g4a15g9e84g8e70ade542e7" version="1">每当一名&lt;LSTag Type="Status" Tooltip="POISONED"&gt;中毒&lt;/LSTag&gt;的敌人攻击你未命中时，你获得&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每场&lt;b&gt;战斗&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="h1bc2742cg0638g4093gbd94g9b8dc791ecae" version="1">每当一名&lt;LSTag Type="Status" Tooltip="POISONED"&gt;中毒&lt;/LSTag&gt;的敌人攻击你未命中时，你获得&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每&lt;b&gt;回合&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="hd542c9c0g91d1g4c95ga354g537e581ef0a5" version="1">每当一名&lt;LSTag Type="Status" Tooltip="POISONED"&gt;中毒&lt;/LSTag&gt;的敌人攻击你未命中时，你获得&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。</content>
+  
+  <content contentuid="hc6351703gc31cg4744g9e94g54ef11513944" version="1">晶能异象</content>
+  <content contentuid="ha5aa3b15ge24dg4620gb8c2g0e7b40731794" version="1">当你陷入&lt;LSTag Type="Status" Tooltip="SG_Stunned"&gt;震慑&lt;/LSTag&gt;（或类似状态）时，你积累&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每场&lt;b&gt;战斗&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="h198c5380g2e06g4695gb7d3gc3ebbb91aa55" version="1">当你陷入&lt;LSTag Type="Status" Tooltip="SG_Stunned"&gt;震慑&lt;/LSTag&gt;（或类似状态）时，你积累&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每&lt;b&gt;回合&lt;/b&gt;最多触发&lt;b&gt;一次&lt;/b&gt;。</content>
+  <content contentuid="h7842a7dfga203g4ca4g8788g9f84f12302ae" version="1">当你陷入&lt;LSTag Type="Status" Tooltip="SG_Stunned"&gt;震慑&lt;/LSTag&gt;（或类似状态）时，你积累&lt;b&gt;[1]&lt;/b&gt;点&lt;LSTag Type="Status" Tooltip="AMP_ANCIENTCHAOS"&gt;远古混沌&lt;/LSTag&gt;充能。</content>
+</contentList>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="400"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="NB438 Class Spell 0"/>
+                    <attribute id="Spells" type="LSString" value="Shout_ShadowforgedBladeContainer_NB438"/>
+                    <attribute id="UUID" type="guid" value="0ce6a64d-aee7-412a-8722-9543066fef58"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="NB438 Class Spells 1"/>
+                    <attribute id="Spells" type="LSString" value="Target_Nightfall_NB438"/>
+                    <attribute id="UUID" type="guid" value="f72657f2-70ae-425e-883a-b54b71fb0a4e"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="NB438 Class Spells 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_CageOfDarkness_NB438"/>
+                    <attribute id="UUID" type="guid" value="84638940-aeba-4835-a668-0d2d6ce63955"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="NB438 Class Spells 3"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_DarkRift_NB438"/>
+                    <attribute id="UUID" type="guid" value="bd1f5f30-5122-4024-942a-70683dd71b17"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="NB438 Class Spells 4"/>
+                    <attribute id="Spells" type="LSString" value="Teleportation_DevouringNight_NB438"/>
+                    <attribute id="UUID" type="guid" value="d9f8e3c3-3e44-4aab-a5f0-2bc0824374b6"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="NB438 Class Spells 5"/>
+                    <attribute id="Spells" type="LSString" value="Shout_MidnightHunt_NB438"/>
+                    <attribute id="UUID" type="guid" value="2331df86-126a-4623-8816-40f15b3db888"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="NB438 Cantrips"/>
+                    <attribute id="Spells" type="LSString" value="Target_MinorIllusion;Target_Guidance;Projectile_DarkBurst_NB438"/>
+                    <attribute id="UUID" type="guid" value="efdd15a1-8861-46a5-851a-bc64c595874c"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="NB438 Level 1 Spells"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Shield_Wizard;Target_Sanctuary;Target_Command_Container;Target_HealingWord;Target_CreateDestroyWater;Target_Bless;Target_Longstrider;Target_Jump;Target_Grease;Target_Sleep;Target_FindFamiliar"/>
+                    <attribute id="UUID" type="guid" value="2248ed2e-da10-4f45-a313-8acc0cef7403"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="NB438 Level 2 Spells"/>
+                    <attribute id="Spells" type="LSString" value="Shout_MirrorImage;Target_Silence;Target_WardingBond;Target_Web;Target_HoldPerson;Target_Darkness;Target_ArcaneLock;Shout_Aid;Target_Invisibility;Target_LesserRestoration;Target_EnhanceAbility"/>
+                    <attribute id="UUID" type="guid" value="87e9c330-b11f-45d5-9ccd-e4e4cbdb01b1"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="NB438 Cantrips 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_Light;Target_DancingLights;Target_MageHand;Target_Resistance;Shout_Thaumaturgy;Shout_BladeWard;Target_Friends"/>
+                    <attribute id="UUID" type="guid" value="28de18b4-0dc4-4b1a-b543-a9e79da6f036"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="NB438 Level 3 Spells"/>
+                    <attribute id="Spells" type="LSString" value="Target_GaseousForm;Target_Haste;Target_PlantGrowth;Target_Slow;Target_Counterspell;Target_SleetStorm;Target_HypnoticPattern;Shout_HealingWord_Mass;Teleportation_Revivify;Zone_Fear"/>
+                    <attribute id="UUID" type="guid" value="e8fa7302-1546-402d-b2c4-0ab547a37920"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="NB438 Level 4 Spells"/>
+                    <attribute id="Spells" type="LSString" value="Target_Stoneskin;Target_Banishment;Target_Polymorph;Target_Confusion;Target_DominateBeast;Target_FreedomOfMovement;Target_Invisibility_Greater"/>
+                    <attribute id="UUID" type="guid" value="d2100dff-6d66-4c05-b19b-422c6ddbe348"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="NB438 Level 5 Spells"/>
+                    <attribute id="Spells" type="LSString" value="Target_PlanarBinding;Target_DominatePerson;Target_HoldMonster;Target_CureWoundsMass;Throw_Telekinesis;Target_GreaterRestoration"/>
+                    <attribute id="UUID" type="guid" value="a70bc820-d943-44f0-aff5-8e601f356d31"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="NB438 Level 6 Spells"/>
+                    <attribute id="Spells" type="LSString" value="Target_FleshToStone;Target_Eyebite;Target_GlobeOfInvulnerability;Target_IrresistableDance;Shout_WindWalk;Shout_HeroesFeast"/>
+                    <attribute id="UUID" type="guid" value="748207db-e6b3-47c7-8051-058a85f01fbf"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

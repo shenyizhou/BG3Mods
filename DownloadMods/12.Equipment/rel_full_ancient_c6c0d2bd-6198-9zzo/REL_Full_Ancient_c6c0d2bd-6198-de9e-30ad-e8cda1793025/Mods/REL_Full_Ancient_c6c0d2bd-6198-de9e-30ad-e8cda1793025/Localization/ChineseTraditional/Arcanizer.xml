@@ -1,0 +1,715 @@
+<contentList date="26/10/2020 01:10">
+  <content contentuid="h0cecf1b8g8c84g4ac5g8d99g00fb917bb881" version="1">精靈翡翠塵</content>
+<content contentuid="h32fc1b96g7faeg4144gbe0dgbc79418a0670" version="1">翡翠微塵，如精靈之淚閃爍，粒子自旋升騰，復歸塵中——似冥冥中自有定數。此塵乃自然精魄所凝，觸之者若聞遠古森林低語。&lt;b&gt;與星芒奧秘壹起使用，可附魔普通武器，或組合以創造更強大的塵埃（使用2份）。&lt;/b&gt;</content>
+<content contentuid="h195c8dd8g7ad0g4206gbdf4g150119a1f9ef" version="1">奈瑟碧空塵</content>
+<content contentuid="h25317bacg6cc6g428egb70dg330e6d15e63c" version="1">深藍微塵，如夜空星河墜落，塵埃中回響奈瑟帝國之挽歌，&lt;b&gt;與星芒天穹壹起使用，可附魔普通武器，或組合以創造更強大的塵埃。&lt;/b&gt;</content>
+<content contentuid="h2d5f3e92ge39fg4fc8gaa0egd1402a390a5a" version="1">邪術紫晶塵</content>
+<content contentuid="haec88aecg4d48g4e05gb00dgb1500c336679" version="1">紫黑微塵，扭曲現實如深淵漩渦，塵埃中低語禁忌之名。&lt;b&gt;與星芒至臻壹起使用，可附魔普通武器，或組合以創造更強大的塵埃。&lt;/b&gt;</content>
+<content contentuid="h6440f827gb7e7g435cga502g06a34f651a4c" version="1">天界金輝塵</content>
+<content contentuid="h684340e8g41d1g479fgaffbg783a8382a595" version="1">金輝微塵，如諸神之淚灑落塵世，每粒皆承天啟之光，照耀者心生敬畏與希望。&lt;b&gt;與星芒永生壹起使用，可附魔普通武器。&lt;/b&gt;</content>
+<content contentuid="h32bbc418g6995g47e0g9c43g0c5260033b85" version="1">星界解體器</content>
+<content contentuid="h11798298g9d74g4426g8709g4dd546ff1205" version="1">壹把由湍流魔法編織而成的半透明錘子。無重量且略帶灼熱感。&lt;b&gt;用於將兩個魔法神器溶解成奧術塵埃。&lt;/b&gt;</content>
+<content contentuid="hafac576eg1a49g482cg9511gda6124ead6a8" version="1">星芒至臻</content>
+<content contentuid="h4b72bbbfg8d7ag4a67ga41dg91f34a0552cd" version="1">面前是壹個巨大的水晶，當妳拿起時會縮小到水袋大小。觸摸時感覺粗糙，並伴有安靜的星界閃光，內部可以看到壹個張開的紫色漩渦，吸引光線進入自身。這件跨位面神器被認為是極其珍貴的發現，受到大師級造物者的追捧。&lt;b&gt;與兩份奧術塵埃壹起使用，可以附魔普通裝備。&lt;/b&gt;</content>
+<content contentuid="h8c99561bg7e8cg4018g82f9gb13045252ac1" version="1">星芒天穹</content>
+<content contentuid="h839fce68g4e72g4cb7gbb76g5f1314bb45ac" version="1">這塊原始的星界礦石不斷爆發跨位面擾動的閃光，長時間註視石頭會灼傷眼睛。其體積雖小但極其沈重。&lt;b&gt;可以與其他三塊類似的石頭組合創建壹個星芒至臻水晶。&lt;/b&gt;</content>
+<content contentuid="h2a680ae4gdb3ag4391g94ccg75fa3039aa44" version="1">合適長度</content>
+<content contentuid="h7f466f46g9708g47ebgac8cg2f194f3c12da" version="1">&lt;b&gt;+[1]~[2]&lt;/b&gt;對使用此武器攻擊&lt;b&gt;大型&lt;/b&gt;生物的&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;。</content>
+<content contentuid="h2155573cg3cfcg487dg969ag46f271aa626a" version="1">強力穿刺</content>
+<content contentuid="h7a0cc878g479ag4377g9682g2feee2efcfb1" version="1">妳使用此武器攻擊時無視目標對&lt;b&gt;[1]&lt;/b&gt;的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;，並且總是將目標擊退&lt;b&gt;[2]&lt;/b&gt;。</content>
+<content contentuid="h2155573cg3cfcg487dg969ag46f271aa626a" version="1">強力穿刺</content>
+<content contentuid="h451ce9eag3d15g45b0g829ag3e169c1e51a9" version="1">妳使用此武器攻擊時無視目標對&lt;b&gt;[1]&lt;/b&gt;的&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;與&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;，並且總是將目標擊退&lt;b&gt;[2]&lt;/b&gt;。</content>
+<content contentuid="h0697898bga947g4723g8a45g12e1e3017a38" version="1">高地優勢</content>
+<content contentuid="h2f56bf86g04c3g41abg84a9g30dc19388550" version="1">&lt;b&gt;+[1]&lt;/b&gt;&lt;b&gt;先攻&lt;/b&gt;。</content>
+<content contentuid="h2da09a18g5fc9g47b7g949egef3ebc8b92c4" version="1">更猛烈的打擊</content>
+<content contentuid="h979fea1fg6f38g48e4gb5e3gb4f60675561a" version="1">此武器的&lt;LSTag Tooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;傷害增加&lt;b&gt;[1]~[2]&lt;/b&gt;。</content>
+<content contentuid="h80c1fe1eg76a4g44a4gb44fge8f414298374" version="1">妳用此武器攻擊時需要擲出&lt;LSTag Tooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;的數值減少&lt;b&gt;[1]&lt;/b&gt;。此效果可以疊加。</content>
+<content contentuid="h4998acebgd884g4ff1g93a2g2e60a5cde950" version="1">靈活鏈甲</content>
+<content contentuid="hc1a689d7ga859g43a9g8dccg22d5a59c1392" version="1">使用此武器對手持&lt;b&gt;盾牌&lt;/b&gt;的目標發動攻擊時，&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;&lt;b&gt;+[1]&lt;/b&gt;。&lt;br&gt;&lt;br&gt;在&lt;LSTag Tooltip="Concentration"&gt;專註檢定&lt;/LSTag&gt;中具有&lt;LSTag Tooltip="Advantage"&gt;優勢&lt;/LSTag&gt;。</content>
+<content contentuid="h69e6089cgc849g4c73gb5cbge7c9ade6d3f6" version="1">粉碎</content>
+<content contentuid="hf3ce542bgeb80g483bga3e8gb40bb6554718" version="1">&lt;b&gt;+[1]&lt;/b&gt;使用此武器對&lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒伏&lt;/LSTag&gt;目標造成的傷害。</content>
+<content contentuid="h7b5dfb1bg1f1bg4272ga624g9c2b9f8d6b6f" version="1">連續打擊</content>
+<content contentuid="h71e01970g221eg4184gb738g3be2bca770c3" version="1">&lt;b&gt;+[1]&lt;/b&gt;&lt;b&gt;傷害&lt;/b&gt;，每次成功攻擊疊加壹次&lt;i&gt;（最多疊加&lt;b&gt;[2]&lt;/b&gt;層）&lt;/i&gt;。</content>
+<content contentuid="h047f29a6gbc10g45b7g8418gf7919d7f0be8" version="1">&lt;b&gt;+[1]&lt;/b&gt;&lt;b&gt;傷害&lt;/b&gt;，每次成功攻擊疊加壹次&lt;i&gt;（最多疊加&lt;b&gt;[2]&lt;/b&gt;層）&lt;/i&gt;。&lt;br&gt;&lt;br&gt;若攻擊未命中，則疊加層數重置。</content>
+<content contentuid="hd7133ccdg7f16g4b78gb788g9169967d1fe4" version="1">鉤刃</content>
+<content contentuid="hd8636e57g278ag4aa7g9488g6e29a67b8398" version="1">使用此武器造成傷害時，將目標拉向妳。</content>
+<content contentuid="hba3dde45g718cg49afga680g4df9580c15c2" version="1">迅捷之刃</content>
+<content contentuid="hbbb54a79g7b08g4384g9a4dge2abee5c7beb" version="1">&lt;b&gt;+[1]~[2]&lt;/b&gt;在&lt;LSTag Type="Spell" Tooltip="Shout_Dash"&gt;疾走&lt;/LSTag&gt;後使用此武器的&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;。</content>
+<content contentuid="h92919dd7gf770g4a08gbc24gbb09cdd8f3cc" version="1">&lt;b&gt;+[1]~[2]&lt;/b&gt;使用附魔彎刀的&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;。</content>
+<content contentuid="h82940c6ag9033g4b8eg81c3g35e37fee635f" version="1">眼刺</content>
+<content contentuid="h18bf24c6g8c4eg442fg9cacg9afc7884b40c" version="1">&lt;b&gt;+[1]~[2]&lt;/b&gt;使用此武器對&lt;b&gt;被束縛&lt;/b&gt;目標的傷害。</content>
+<content contentuid="hca1d509bg8583g4a26g83a5g880c51fb4790" version="1">歌之騰躍</content>
+<content contentuid="h387122b3g1505g4dd1gb228gceff887f6538" version="1">使用&lt;b&gt;短劍&lt;/b&gt;攻擊未命中會使妳騰空而起，提升跳躍及類似動作的效果，持續&lt;b&gt;[1]&lt;/b&gt;回合。</content>
+<content contentuid="h8d69b2f8g63bdg4fb7gabf4g35e5799d3849" version="1">&lt;b&gt;跳躍或類似行動&lt;/b&gt;的距離增加&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="h840f4c01g8a37g46dbg999bgb84401bcb4d6" version="1">心之射擊</content>
+<content contentuid="h54957561g336cg4654g92f8gf8b7ec3d691f" version="1">&lt;b&gt;+[1]~[2]&lt;/b&gt;使用此武器對滿生命值目標的傷害。</content>
+<content contentuid="hb950f0degb806g4a9egab78ge19bf49ba772" version="1">碾壓</content>
+<content contentuid="hba82f0dfg753eg4612g9860g042f8d566c1b" version="1">&lt;b&gt;+[1]~[2]&lt;/b&gt;使用此武器對&lt;LSTag Type="Status" Tooltip="STUNNED"&gt;震懾&lt;/LSTag&gt;目標的傷害。</content>
+<content contentuid="h04aa5c5bg6d7dg4529ga993g7dd30d4e8b01" version="1">強力揮砍</content>
+<content contentuid="hb176da68g5e1cg4255ga95cg63e79226187d" version="1">當使用此武器對處於滿生命值狀態的目標造成傷害時，妳還會額外造成&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="hcacf98feg8a5bg4dc1gace8ged19448e032b" version="1">鋸齒尖刺</content>
+<content contentuid="h485f59f6g5209g4718g98c6gf3fb6d215dd2" version="1">受到此連枷傷害的目標必須進行壹次體質&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;（&lt;b&gt;[1]&lt;/b&gt;），否則將進入&lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;流血&lt;/LSTag&gt;狀態。</content>
+<content contentuid="hb461627bg0f5dg4217gbb3ag34412da7f9b1" version="1">眩暈</content>
+<content contentuid="hb359fa6fgfa74g4c25g938cgf9be59023298" version="1">被此短棒傷害的目標必須通過壹次體質&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;(&lt;b&gt;[1]&lt;/b&gt;)否則陷入&lt;LSTag Type="Status" Tooltip="STUNNED"&gt;震懾&lt;/LSTag&gt;狀態。</content>
+<content contentuid="hb72f4397gd05ag4598g8de9g0df6302527b9" version="1">迅捷沖鋒</content>
+ <content contentuid="h97769da6gdbb2g4e6egb0c2gcfc6bcde6519" version="1">&lt;b&gt;+[1]~[2]&lt;/b&gt;使用此武器在&lt;LSTag Type="Spell" Tooltip="Shout_Dash"&gt;疾走&lt;/LSTag&gt;後造成的&lt;b&gt;傷害&lt;/b&gt;。</content>
+<content contentuid="hbcf9dae9gac2fg4f00g839dg6b1ef771de86" version="1">&lt;b&gt;+[1]~[2]&lt;/b&gt;使用此附魔長柄刀造成的&lt;b&gt;傷害&lt;/b&gt;。</content>
+<content contentuid="hc67fea6fgf666g4b6ega642g4fdc0cbc21bd" version="1">傳說中，這件強大的盾牌只會在最英勇的國土守護者面前顯現。有幾種方法可以將這個神器實體化，但大多數方法已經從卷軸的記憶中抹去。這個版本似乎是由星界的力量創造的。</content>
+ <content contentuid="hbcf87a69ge5c0g41c2ga563gc2b43d253370" version="1">這支標槍——或者曾經是標槍的東西，覆蓋著壹層厚厚的、發光的黏液，並散發出腐爛土豆與燒焦孜然混合的可怕氣味。使用後洗手顯然是明智的選擇。</content>
+<content contentuid="hb1b346efg2cd5g4de2g9a2bg56a1d45e74a8" version="1">明亮的晨光似乎帶著無盡的能量從這件魔法神器中流出。任何觸碰都會使錘子爆發出明亮且令人愉悅的燃燒閃光。</content>
+<content contentuid="ha22c93f7g692dg4c85ga946g90f82ccf943e" version="1">古代超級技能書</content>
+<content contentuid="ha755e610g913eg4cf2g9a32g0bc96b5476f5" version="1">這是壹本裝訂在風化皮革中的古老典籍，裝飾有復雜的金色圖案。中央有壹個類似生命之花的復雜幾何圖案。在這本書的心臟處跳動著神秘的能量，仿佛在召喚那些尋求古代知識的人。書中記載了散落在費倫大地上的古代神器的秘密，以及它們重生的禁忌技藝。根據壹些頁面上的油漬指紋判斷，這本書已經多次易手。</content>
+<content contentuid="hd6591663g38d8g4434g835ag944157dde742" version="1">&lt;b&gt;簡介&lt;/b&gt;&lt;br&gt;&lt;br&gt;歡迎使用&lt;b&gt;古代巨包（Ancient Mega Pack）&lt;/b&gt;! 本指南涵蓋了您需要了解的全部內容，包括：&lt;br&gt;&lt;br&gt;• &lt;b&gt;隨機戰利品機制&lt;/b&gt;&lt;br&gt;• &lt;b&gt;開發者評論&lt;/b&gt;&lt;br&gt;• &lt;b&gt;遊戲平衡與難度&lt;/b&gt;&lt;br&gt;&lt;br&gt;請花些時間閱讀本指南，但別忘了真正去玩遊戲！&lt;br&gt;&lt;br&gt;&lt;b&gt;目錄&lt;/b&gt;&lt;br&gt;1. &lt;b&gt;隨機戰利品&lt;/b&gt;&lt;br&gt;    1. &lt;b&gt;任務獎勵&lt;/b&gt;&lt;br&gt;    2. &lt;b&gt;商人&lt;/b&gt;&lt;br&gt;    3. &lt;b&gt;Boss&lt;/b&gt;&lt;br&gt;    4. &lt;b&gt;容器&lt;/b&gt;&lt;br&gt;    5. &lt;b&gt;關於生成機制&lt;/b&gt;&lt;br&gt;    6. &lt;b&gt;REL 歷史&lt;/b&gt;&lt;br&gt;    7. &lt;b&gt;進度平衡&lt;/b&gt;&lt;br&gt;2. &lt;b&gt;遊戲模式平衡&lt;/b&gt;&lt;br&gt;    1. &lt;b&gt;經濟系統&lt;/b&gt;&lt;br&gt;    2. &lt;b&gt;裝備系統&lt;/b&gt;&lt;br&gt;3. &lt;b&gt;幫助 BG3 社區&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;1.隨機戰利品&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;任務獎勵&lt;/b&gt;&lt;br&gt;&lt;br&gt;我最喜歡的特性——艱難的選擇，就像真正的類Roguelike遊戲壹樣！隨著妳推進劇情，妳將開始在完成任務時獲得隨機獎勵選項。未選擇的物品將永遠消失，因此請謹慎抉擇！獎勵邏輯通常符合情理：妳在此處獲得這樣的獎勵是否現實？例如，影心在殺死父母後，從她的神祇那裏獲得了強大的傳說級神器；威爾在斬殺紅龍並確認其“邊境之刃”地位後，從當地貴族那裏獲得了獎勵。在從太空船“鸚鵡螺號”墜毀後，妳能在海灘上找到從船上散落的貴重裝備，等等。主要任務線在章節過渡時會提供最有價值的獎勵，妳通常可以選擇多個物品——不過這種機會通常只出現在正義陣營的通關過程中。到了遊戲後期，妳可能會遇到只能獲得壹個獎勵或根本沒有獎勵的情況——我將在下方解釋這壹引擎限制。&lt;br&gt;&lt;br&gt;&lt;b&gt;商人&lt;/b&gt;&lt;br&gt;&lt;br&gt;系統運作方式與原版遊戲相同：當妳訪問商人時，他們會提供壹次性的魔法裝備選擇，這些裝備的等級與妳當前的遊戲進度相匹配。這些物品也是隨機的——妳可能會獲得有用的神器，也可能是無用的垃圾。部分商人擁有秘密庫存，只有在特定劇情條件下才會解鎖，從而獲得特別強大的隨機裝備。&lt;br&gt;&lt;br&gt;&lt;b&gt;Boss&lt;/b&gt;&lt;br&gt;&lt;br&gt;埃塞爾嬸嬸、尼訥、索姆、親愛的戈塔什——他們有什麽共同點？他們都是戰利品“彩罐”！Boss 是妳實力提升的可靠保障。盡管戰鬥頗具挑戰性，但每個主要敵人都可能掉落有價值的升級物品：從&lt;b&gt;星界水晶&lt;/b&gt; 到極為稀有的神器。&lt;br&gt;&lt;br&gt;&lt;b&gt;容器&lt;/b&gt;&lt;br&gt;&lt;br&gt;不，妳在第壹章節海灘上的木桶裏是無法找到傳說級武器的。而且通常來說，妳也不能從地下室的隨機木桶中獲得任何物品。魔法神器通常只出現在原版遊戲中它們本該出現的地方：&lt;b&gt;難以到達的藏匿點、上鎖的寶箱、擊敗Boss後的獎勵等位置。&lt;/b&gt;有時寶箱可能是空的——這是正常現象，原因是原版系統會在妳進入壹個區域時就生成所有容器的內容。由於原版系統的不完善，物品可能會出現重復。然而，神器是唯壹的，無法重復，因此當系統試圖再次生成時，寶箱就會顯示為空。&lt;br&gt;&lt;br&gt;&lt;b&gt;努力獎勵寶箱&lt;/b&gt;&lt;br&gt;&lt;br&gt;那些出現在每個營地以及其他隱秘地點的魔法寶箱是什麽？它們的鎖具結構極為復雜，常規手段無法打開。妳唯壹需要的是在開鎖檢定時擲出壹個&lt;b&gt;大成功20&lt;/b&gt; ——換句話說，只有 &lt;b&gt;5% 的幾率&lt;/b&gt;.從數學角度來說，妳平均需要嘗試&lt;b&gt;20 次開鎖&lt;/b&gt; 才能打開這種特殊寶箱。獎勵值得嗎？幾件隨機物品、壹些 &lt;b&gt;星界水晶&lt;/b&gt;,以及大量&lt;b&gt;寶石&lt;/b&gt;——其實獎勵本身並不是重點，真正吸引人的是開鎖過程中的緊張與不確定性。對於不想靠運氣的玩家，&lt;b&gt;第壹章節中隱藏著壹把秘密鑰匙。&lt;/b&gt;. 妳在遊戲壹開始就乘坐的“鸚鵡螺號”上也會遇到這樣壹個寶箱——但妳只有&lt;b&gt; 壹次 5% 的機會 &lt;/b&gt;來打開它，裏面藏著格外珍貴的獎勵。&lt;br&gt;&lt;br&gt;&lt;b&gt;戰利品生成細節&lt;/b&gt;&lt;br&gt;&lt;br&gt;戰利品列表的生成遵循遊戲引擎的規則，而非由我決定。其機制如下：&lt;br&gt;&lt;br&gt;1.每種稀有度都有壹個龐大的物品池。例如，普通（綠色） 稀有度的池子包含了 435 件神器。&lt;br&gt;2.當遊戲需要在某處生成壹件隨機的普通物品時，&lt;br&gt;3.系統會從該稀有度的池子中隨機選擇壹件，並將其放置在指定位置。&lt;br&gt;4. 如果系統選中了壹件已經生成過的物品怎麽辦？由於這些神器是唯壹的，只能出現壹次，系統將不再生成任何物品——現在妳明白為何擴大物品池如此重要了吧。&lt;br&gt;5.容器內的戰利品在妳首次進入該區域時生成。&lt;br&gt;6.生物掉落和任務獎勵的戰利品在妳獲得時生成。沒錯，妳可以在擊殺Boss或完成任務前存檔，反復讀檔以獲得妳想要的神器 &lt;i&gt;(但既然如此，為什麽不直接下載作弊模組呢？)&lt;/i&gt;&lt;br&gt;7. 商人戰利品在妳開始交易或擊殺他們時生成。解鎖秘密庫存會重新生成戰利品表，將新的神器添加到現有商品中。&lt;br&gt;&lt;br&gt;&lt;b&gt;背景——REL 系統&lt;/b&gt;&lt;br&gt;&lt;br&gt;讓我介紹壹下背景。&lt;b&gt;REL&lt;/b&gt; (Randomized Equipment Loot隨機裝備戰利品) 是這壹遊戲模式的核心。未來， &lt;b&gt;WotC&lt;/b&gt;可能會將它作為官方遊戲模式加入&lt;b&gt;《博德之門3》&lt;/b&gt;,但目前，它完全由我個人開發維護。&lt;b&gt;REL&lt;/b&gt; 擁有靈活的架構，其功能主要是管理戰利品列表。自遊戲發布以來，它壹直在持續開發中，並且目前仍部分依賴第三方工具 &lt;i&gt;(&lt;b&gt; REL生成器工具REL Generator Tool&lt;/b&gt;)&lt;/i&gt;該工具允許 PC 玩家將其他模組的裝備整合進隨機戰利品池。只要妳願意花些功夫，甚至還能找到調整掉落百分比的子模組！妳也可以為&lt;b&gt;REL&lt;/b&gt;做出貢獻——它本質上是壹個&lt;b&gt;社區項目&lt;/b&gt;每個人都可以貢獻自己的壹份力量，以實現高達 200% 的可重玩性。我已經完成了我的部分——那麽，&lt;b&gt;妳&lt;/b&gt; 能為社區帶來什麽呢？ 哪怕只是創作壹件小型神器，也能讓整個收藏更加豐富。歡迎通過&lt;b&gt;Discord&lt;/b&gt;聯系我，我的用戶名是&lt;b&gt;paramonov2023&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;REL&lt;/b&gt;體現了我的設計哲學，這意味著在某些關於隨機戰利品的核心理念上，我會堅持己見，不會輕易妥協——這確實與“完全開放的社區項目”模式不完全契合。我努力傾聽每壹條投訴和建議，但現實是，時間有限，無法面面俱到。妳完全可以基於我的作品，創建出擁有完全不同理念的 &lt;b&gt;REL&lt;/b&gt; 版本並發布——我不會反對，只要妳註明並尊重我的原作。妳也可以以 AMP 為基礎模組，發布各種修改版本，調整特定功能。&lt;br&gt;&lt;br&gt;&lt;b&gt;REL&lt;/b&gt;僅適用於獨特的魔法裝備。消耗品（如藥水、卷軸等）早已被拉瑞安（Larian）隨機化，但他們忽略了神器的隨機化，導致原版遊戲幾乎是壹次性體驗，缺乏為創造獨特角色而重復遊玩的動力。&lt;br&gt;&lt;br&gt;&lt;b&gt;進度平衡&lt;/b&gt;&lt;br&gt;&lt;br&gt;我通過 Google 表單 對 AMP 的質量進行了問卷調查，收到了有趣的統計數據：平均進度平衡評分為&lt;b&gt;3.89&lt;/b&gt;表明這壹方面仍有改進空間。整體進度平衡基本遵循原版設計，但隨著時間推移，已根據玩家反饋進行了調整。&lt;br&gt;&lt;br&gt; • &lt;b&gt;Act 1: 第壹幕：主要掉落普通（綠色）和稀有（藍色）裝備&lt;/b&gt;&lt;br&gt;• &lt;b&gt; 第二幕：主要掉落稀有（藍色）和非常稀有（紫色）裝備&lt;/b&gt;&lt;br&gt;• &lt;b&gt; 第三幕：主要掉落非常稀有（紫色）和傳說（金色）裝備&lt;/b&gt;&lt;br&gt;&lt;br&gt;妳可能會覺得物品數量過於龐大——請記住，其中大多數裝備對妳的角色構建並無用處，幾乎都會成為拆解（附魔材料）的消耗品。隨著可選裝備的豐富，遊戲難度實際上會逐漸降低，因為妳擁有了更多構建獨特角色策略的空間。正因如此，許多玩家會安裝難度模組來平衡裝備數量帶來的影響（特別是當妳使用了固定掉落類模組，破壞了 AMP 原有的進度平衡時，這壹點尤為明顯），這些難度模組主要通過增加額外的戰鬥遭遇來提升挑戰性。&lt;/i&gt;我個人的看法是，除了以下幾項調整外，妳並不真正需要其他難度模組： &lt;b&gt;敵人+1行動點數,D20制先攻機制,削弱山丘巨人力量藥水的效果&lt;/b&gt;.如果妳在完整四人小隊的情況下遊玩且未增加任何難度，恐怕即使是  &lt;b&gt;榮譽模式&lt;/b&gt; 搭配 AMP 後也會顯得過於簡單。&lt;br&gt;&lt;br&gt;&lt;b&gt;2. 遊戲性平衡&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;《古代巨包》（Ancient Mega Pack）&lt;/b&gt;並不僅僅關乎隨機戰利品。它是壹種完整的遊戲模式，改變了遊戲的多個方面，以更好地匹配預期的難度和隊伍成長節奏。除了戰利品隨機化之外，還包括以下幾個開發方向：&lt;b&gt;經濟系統&lt;/b&gt;, &lt;b&gt;AI 行為&lt;/b&gt;, 和 &lt;b&gt;原版裝備調整。&lt;/b&gt;.以下是 AMP 所做的具體改動：&lt;br&gt;&lt;br&gt;• &lt;b&gt;經濟系統：&lt;/b&gt;調整了部分藥水和靈藥的價格，以消除原版中消耗品過剩的問題——這種過剩導致玩家不再珍惜這些物品。原版價格與其實際價值不匹配。此調整主要影響那些在“最優配裝流”中表現最強的物品。&lt;br&gt;&lt;br&gt;• &lt;b&gt;經濟系統：&lt;/b&gt;普通裝備的出售價值降低了約 35%。根據我的觀察，玩家大部分金幣來源於出售普通裝備，因此這是建立健康經濟體系的第壹步。&lt;br&gt;&lt;br&gt;• &lt;b&gt;經濟系統：&lt;/b&gt;秘銀鍛造模具現在也進入隨機化系統。這壹改動旨在實現統壹的隨機體驗——這些模具能產出遊戲中最強大的神器之壹，而在 AMP 中，妳不應再以 100% 確定性 獲得它們。同時，妳可能會比平時找到更多的秘銀礦石，以增加遊戲流程的多樣性。&lt;br&gt;&lt;br&gt;• &lt;b&gt;AI 行為：&lt;/b&gt;修復了敵人對&lt;b&gt;黑暗術&lt;/b&gt;. 法術的反應機制。遊戲引擎將“黑暗”視為壹種困難地形導致非玩家角色（NPC）完全拒絕進入，從而徹底喪失戰術價值——這本質上是壹種“作弊”行為。此改動後，AI 將會嘗試進入“黑暗”區域，即使原本不會，也會主動進行近戰交戰，以實現更公平的戰鬥環境。這壹調整部分原因在於，有壹條附魔路線完全圍繞“黑暗術”構建，而我無法接受它在原版中如此糟糕的實現方式。&lt;br&gt;&lt;br&gt;• &lt;b&gt;裝備系統：&lt;/b&gt; 原版裝備的強度遵循不同的規則。拉瑞安會在特定時間點給予妳特定物品，因為他們清楚妳當時的大概實力和面對的敵人。但當妳將裝備獲取方式隨機化後，舊的規則就不再適用——妳需要壹套新的體系。因此，AMP 對大量原版物品進行了調整：從微調稀有度到徹底重做機制。其中壹項顯著的重做是“施加狀態”類機制，原版中它會計算任何狀態效果，包括技術性狀態（如標記、計數等）。由於許多模組使用技術性狀態作為解決方案，這類物品在戰鬥中幾乎必定觸發，極為不平衡。在 AMP 中，此類物品僅對“遊戲性狀態”（如中毒、目盲、震懾等）生效，徹底解決了這個問題。總體而言，原版物品的稀有度與強度之間往往缺乏直接關聯，因為稀有度在固定掉落體系中並無實際作用——因此在許多地方稀有度被隨意設定。AMP 將許多妳在第壹幕初期就能輕易獲得的“破壞平衡”的神器移至更高的稀有度，使其平均出現時間大幅延後。&lt;br&gt;&lt;br&gt;• &lt;b&gt;裝備系統：&lt;/b&gt;武器技能充能機制。無論此改動是否合理，在 AMP 中，大多數獨特武器的特殊技能改為 每場戰鬥恢復壹次，而非每次短休/長休恢復。這壹改動提升了那些原本“除了技能外壹無是處”的武器的價值。現在使用這類武器的戰鬥更具動態性，也避免了“無休流”隊伍為恢復幾個僅造成 2d8 傷害的技能而頻繁休息的尷尬情況——例如，隊伍不再會僅僅為了恢復幾個小技能而專門進行壹次長休。&lt;br&gt;&lt;br&gt;&lt;b&gt;3. 為社區貢獻力量&lt;/b&gt;&lt;br&gt;&lt;br&gt;如妳所知，這個模組完全由我個人獨立開發：從制作圖標、撰寫神器背景故事，到平衡遊戲進度，全部由我完成。為玩家持續提供新鮮內容對我來說至關重要，這也是妳為何會看到如此頻繁更新的原因。但這也不可避免地導致壹些小錯誤和疏漏——它們看似微不足道，卻可能對妳的遊戲體驗產生實際影響。&lt;br&gt;&lt;br&gt;最糟糕的反應，莫過於因為遇到幾個 Bug 或幾件無法使用的物品，就辱罵我為“白癡”並直接刪除 AMP。請理解，我並非故意制造 Bug——它們可能由多種原因引起，包括簡單的人為失誤。某些機制在調試模式下無法測試，只有在完整的遊戲流程中才會顯現，而我顯然無法在每次發布前親自完成全部流程測試。我建議妳以平和的心態對待 Bug：如果妳想幫助未來的玩家，請花上寶貴的五分鐘，前往 mod.io 的模組頁面，留言說明妳遇到的問題以及妳的修復建議。妳的這壹舉動將非常有價值，而且妳壹整天的心情也會因此更好。&lt;br&gt;&lt;br&gt;更進壹步的做法是發揮妳的創造力，親手打造壹件壯麗而獨特的作品——壹件只有妳能構想出的傑作。我指的是妳可以自行設計《龍與地下城》風格的魔法神器，並發送給我。經過適當的平衡調整後，我會將其加入隨機戰利品池，讓全球的玩家在他們的冒險中邂逅它！目前就有壹件玩家創作的神器被成功收錄：壹枚傳說級戒指，能讓敵人對揮砍傷害更加脆弱。這位玩家貼心地提供了完整的神器代碼，我只需將其插入並整合進戰利品列表即可。這是妳對《博德之門3》隨機戰利品社區所能做出的最有價值的貢獻。&lt;br&gt;&lt;br&gt;妳也可以在經濟上支持我，或支持為妳提供本翻譯文本的譯者：我接受加密貨幣捐贈（地址列在模組頁面上），妳也可以通過模組頁面上的鏈接聯系譯者的個人資料頁面。&lt;br&gt;&lt;br&gt;我是壹名有誌於遊戲設計的開發者，正努力完善自己的作品集。希望妳喜歡這個遊戲模式——如果真是如此，我或許就有機會實現更大的夢想。期待收到妳的反饋！</content>
+<content contentuid="h18689acdg9138g4f76gb180g55d18df885e9" version="1">%%% JUST IN CASE %%%</content>
+ <content contentuid="hd41639dbg11eeg4d64g89c8g3509d7143af7" version="1">壹層微弱的魔法光芒覆蓋在這把普通武器的刀刃上——星界的影響在這裏是顯而易見的。</content>
+<content contentuid="h71d7092eg8c56g441agb087g95ac8d56a5b3" version="1">壹層微弱的魔法光芒覆蓋在這把普通武器的弓弦上——星界的影響在這裏是顯而易見的。</content>
+<content contentuid="h819a49bege3c2g43a0gbd28gdd981cd3ef0a" version="1">壹層微弱的魔法光芒覆蓋在這把普通武器的柄端上——星界的影響在這裏是顯而易見的。</content>
+<content contentuid="hf354975eg13ceg4007ga836ge3ddfacedea3" version="1">壹層微弱的魔法光芒覆蓋在這面普通盾牌的表面上——星界的影響在這裏是顯而易見的。</content>
+<content contentuid="h6a2d72f6ge2bag4a86gbc67gac77d9e8210e" version="1">壹層冰冷的膜覆蓋了這把不起眼的長戟的整個表面，以壹種有節奏的方式閃爍著，仿佛試圖傳達某種信號。冰火花偶爾會從刀刃上爆發出來，灼燒任何眼睛捕捉到這種火花的人。</content>
+<content contentuid="hade9b7c1g7ae9g436cg8983g67f1e7c56d70" version="1">震地斧</content>
+<content contentuid="h58fabe15gf2ccg439cg9a96g48db4fb4649b" version="1">撼魂巨斧</content>
+<content contentuid="hf6d78aa8g9cafg4d85gb9fcgdaeb3a2e94f3" version="1">星鑄雷斬斧</content>
+<content contentuid="hc6aec403g0c9eg4cd6gbdfegf38b96471038" version="1">戰神之共鳴：萬軍不滅之音</content>
+<content contentuid="he67d3342g56ddg4495g819egac7c1b17ce64" version="1">破曉之屑</content>
+<content contentuid="h02522ed2g4d32g4387g9ae7g362229c0590a" version="1">赤紅守禦劍</content>
+<content contentuid="h1e75096fg9477g436agaee8g92f733e5ddb7" version="1">九獄魂鑄神盾</content>
+<content contentuid="hed06ab55gb58eg4dbcga3cbg07bee021d4d2" version="1">提爾的絕對庇護：神盾具現</content>
+<content contentuid="h1452003fg7db0g4ba5g99f9g40efd7a60b8b" version="1">霜牙</content>
+<content contentuid="haed26332gced1g44b0g94bbgb510c2c81456" version="1">永冬戰戟</content>
+<content contentuid="h458c4102ge7cbg416dgb5f0g89dfb8f86709" version="1">科賽特斯之慟：巫妖寒怒</content>
+<content contentuid="he436468dg697dg4961gb804g0020fe0eb4f6" version="1">歐呂爾的冰川吐息：永冬之心</content>
+<content contentuid="hb5a11b00g75bdg4d05g8535gdb24d803841a" version="1">舞刃</content>
+<content contentuid="hcfbe61cdg5ed9g449cg8d00g3898ab34bd32" version="1">風暴戰戟</content>
+<content contentuid="h63bd1fc7g23e4g4b09g9020gb3b59cb9020e" version="1">淵沌之生：現界裂刃</content>
+<content contentuid="h2af68d16g7529g49c2gb353g34d1c5a3566b" version="1">坦帕斯的永恒戰歌：終焉戰陣</content>
+<content contentuid="hef8c7134ga299g4a1egaefcga10e34d3a381" version="1">破城弩</content>
+<content contentuid="h5fe787ecg861dg4e4dgb1a7g75059bc7f529" version="1">審判雷弩</content>
+<content contentuid="hd4e9e193g6081g492cg94f6g756f0e97f348" version="1">屠巨颶炮</content>
+<content contentuid="h0eeab009g705dg42bdg9450g000fb519c640" version="1">科瑞隆的神風：叛徒終焉風暴</content>
+<content contentuid="hc02de05dg8559g4d1fg9e72gc531410a64f8" version="1">低語之刺</content>
+<content contentuid="h404bf7bcg0f41g4a0fg9f6eg1c75482c0423" version="1">穿魂刺劍</content>
+<content contentuid="h20ea6311g293cg4d35gabd5g8ac2cb9d7641" version="1">淵沌舞針</content>
+<content contentuid="h02f994ebg7617g40d8gba09g9a4d762fbdbb" version="1">狂域火語：焚魂之狂</content>
+<content contentuid="he8943771ga42ag428ag8a04g2ea17aa2e101" version="1">赤牙</content>
+<content contentuid="h3713dbd0g3395g4d14g918bg4a4e1158d5e1" version="1">血月鐮</content>
+<content contentuid="he535c3bag6495g4770g9a77g3656bb4fdb15" version="1">淵噬魔渴</content>
+<content contentuid="h98e3b3f7ge14dg4a83g83cdg3f3616234421" version="1">天界赤判：熾天使永傷</content>
+<content contentuid="h4faaae17g51e9g4d23g8c78g68eabe22e06b" version="1">穿顱者</content>
+<content contentuid="h188d6717gf7e6g4d39gbd61gaea4fe3d358b" version="1">必中之擊</content>
+<content contentuid="h890533a0gc831g4793g9eb6g656724d2548a" version="1">混沌鑄·破界者</content>
+<content contentuid="h5ea8b4d3ga378g49eeg919dgddf5ebef9d41" version="1">提爾的絕對真言：終焉寂聲</content>
+<content contentuid="h77cf3d82gc3d3g4d11ga1d0g1eb29a7b005b" version="1">痛擊連枷</content>
+<content contentuid="h7aeef029g51c9g47fega057g983228cb76bd" version="1">宿命之擊</content>
+<content contentuid="h47b15f2fgde83g4df8ga208ge963a77c3fc8" version="1">命貫骨鏈</content>
+<content contentuid="he1bc3df0g6019g4adaga6d0ge1dadbe591ff" version="1">智者靜思：破守之冥</content>
+<content contentuid="hffb3881agbb71g4bf9gbac8gb5fbb2591ff4" version="1">微刺</content>
+<content contentuid="h5c33b2f4g6aeeg42b6gb5dage51b3aa6642c" version="1">爆鳴鏢</content>
+<content contentuid="h20ec47abgae91g469bgaac3g224a763bbfcd" version="1">淵沌裂界鏢</content>
+<content contentuid="h112bd209g095eg4a2fg91d2g63d268a6de3c" version="1">龍怒：焚敵神風</content>
+<content contentuid="h73aec475g3614g4295g9293g99130d871a76" version="1">獵弓</content>
+<content contentuid="h5dd0fdd3gde6dg4750g8624g9b9925c71f68" version="1">必中長弓</content>
+<content contentuid="h337809c7g6799g4bf8gaad2g618c767e88bf" version="1">錮獄風引</content>
+<content contentuid="h5c2a4cadg9661g4b7bg8704g15d7c91cae69" version="1">科瑞隆的必然之矢：命途改寫之擊</content>
+<content contentuid="h976b68beg024bg4e87ga477g000859833dad" version="1">刺星</content>
+<content contentuid="h07db4b3dg9eecg40fbg98e0g0cc0850d4848" version="1">不屈守衛釘頭槌</content>
+<content contentuid="hc22fe437g7a18g4ec6g9579g144d80de2a87" version="1">精金裂魂錘</content>
+<content contentuid="ha994e046g54b1g4fb3gb03cgac6392c610dd" version="1">坦帕斯的宇宙之怒：現實粉碎者</content>
+<content contentuid="h3a2f7386gb0a9g4750g99c2g0dbb40ec67ba" version="1">風暴雷霆</content>
+<content contentuid="h3cbc1c0bg0f7eg4f09gaf9dgd3e424e91dd2" version="1">碎骨之錘</content>
+<content contentuid="h43037c0eg1ac3g47acgae52g2d81c163a737" version="1">泰坦之墓</content>
+<content contentuid="hfbe8462fg23d2g4c69gb93ag6e66f5f2ef0d" version="1">摩拉丁的傳奇之砧：終焉歸所</content>
+<content contentuid="h3173d17dg2770g4c05gb59egacf240a57bea" version="1">榮光之劍</content>
+<content contentuid="h77c7247dg85a7g4132g81a1g6ac75edbec3a" version="1">無瑕劍心</content>
+<content contentuid="h1bd43a96g351eg4a78gb632g740b4325fd6a" version="1">死亡之舞·千魂劍</content>
+<content contentuid="he6fe142ag8177g48e5gafcagc2f1a0e45f5c" version="1">伊莉絲翠的解放之舞：蛛網破滅者</content>
+<content contentuid="hfab70aceg6c27g406eg87afg0160701dfbb2" version="1">潮汐之戟</content>
+<content contentuid="h902cc9degd757g4fb7gb431ga7aa06d34b18" version="1">無盡攫握之戟</content>
+<content contentuid="h8443ad70g6163g46cfg9298g0ec4d94e2cf7" version="1">海魔裂肉之握</content>
+<content contentuid="hf919d654g1ad4g441cgb85fg93b23f583a7a" version="1">海浪之母的禦海權柄：陸沈之災</content>
+<content contentuid="h447a2bc1g577ag480dga1fbg3f9325763cf6" version="1">彎刃</content>
+<content contentuid="h6058dd23g1bb7g47e0gb5b9g40f6cb72646b" version="1">無斷突襲彎刀</content>
+<content contentuid="h38184b41g1859g4423gbefag7637e4ca02ef" version="1">羅剎裁風沙</content>
+<content contentuid="he3311c31g33ceg46b8gb901g2cd91243f5ff" version="1">莎菡德拉的死舞之風：大漠永恒</content>
+<content contentuid="ha80bb481gc223g40bag94b1g42833d5d912e" version="1">誌鋒</content>
+<content contentuid="he78bf1c8ga050g4633gb7cdgec72a2dce15f" version="1">無斷沖鋒矛</content>
+<content contentuid="hbfaff620g27bcg4959gacd2gfb32048de0b4" version="1">樂土穿心風</content>
+<content contentuid="h8a88237fgb24eg4542gb182g7110404ac6ed" version="1">坦帕斯的破陣之矛：分界者</content>
+<content contentuid="hf5c3aabegcab9g4cf9ga27bg8604ec19b831" version="1">影刃</content>
+<content contentuid="h083af980g8297g4396gb3fag7c4291641297" version="1">風行之劍</content>
+<content contentuid="h3342c06eg9abbg425fgad69g20c6e32f6a86" version="1">千刃余響</content>
+<content contentuid="hb48ca184gabe5g420cgba06g7cb7f7ac694a" version="1">星穹之舞：虛空行吟</content>
+<content contentuid="h7862f8d0g4664g4d31gb92fgab736e0e4aea" version="1">微光之錘</content>
+<content contentuid="hf9dafc42g0ddag4173g93f9g18b9a6dad7fd" version="1">輝耀之錘</content>
+<content contentuid="h0425de99g624dg4aa9gb6begb0b011b02a2b" version="1">攜曙星屑</content>
+<content contentuid="hf3ac5644g32a5g4ff2gb2e4g65281438d247" version="1">洛山達的永恒破曉：不滅之光</content>
+<content contentuid="h8e62b1c8gaf7dg45b8gbf09g48644ee5087c" version="1">穿光之刺</content>
+<content contentuid="hde18e586ga29bg418dg82fdg6d4c89580dd3" version="1">迅死之弩</content>
+<content contentuid="h994238f4g3888g4030gb18bg0f0838077682" version="1">刺客尋心髓</content>
+<content contentuid="hf7f9217dg0beeg4ac5g88beg92c3255fb2bb" version="1">正義的完美之矢：無瑕之判</content>
+<content contentuid="hb1d88fe9g4577g4362ga83cg5726d2cba778" version="1">痛擊之錘</content>
+<content contentuid="h80d9519dg731dg44ecg9635g481657f74e50" version="1">碎骨之擊</content>
+<content contentuid="hd7b48d45g8ca4g4447g87dcg533011901537" version="1">九獄碎顱黑鋼</content>
+<content contentuid="hcf1fb43bg6bafg48bagb413g07a36315e0ce" version="1">摩拉丁的山靈禱言：破誌之器</content>
+<content contentuid="hf601ad32g5026g4b74g988fg3133155c141f" version="1">影牙</content>
+<content contentuid="h5aa436b5g7f85g469fg941ag85ee83be5316" version="1">匿襲之匕</content>
+<content contentuid="h65c1f85bg3fc4g4ebag9ef6g10b8bf04a5f0" version="1">透心影毒</content>
+<content contentuid="hdebd37fbg3852g4dd8g9f5fgea7defcdfd50" version="1">真理的破妄之刃：現實切割者</content>
+<content contentuid="h028d2cf2gdf91g4df7g883fg030f85d552fd" version="1">巨人之棒</content>
+<content contentuid="hd6f2de36gc62bg401bg8d92gea7c9e4a48de" version="1">無斷狂怒之棒</content>
+<content contentuid="h23fbb3f2g5618g4981ga295g1ff81b634508" version="1">淵獄血弒神</content>
+<content contentuid="h0da9d4b7ga62ag4f1eg895bgc469c87b3f31" version="1">格烏什的原初之怒：破世之怒</content>
+<content contentuid="hced45339gb9d1g4b10gb53fgbc231bdf55c6" version="1">短斧</content>
+<content contentuid="h95895a62gd65dg4c94g8ca8g948ff24de538" version="1">輝刃手斧</content>
+<content contentuid="h6e691692g86dbg4f42g8899g5b6c38c1d753" version="1">破夜星輝斧</content>
+<content contentuid="h9a5d02d3g0ae7g4426ga25bg7cd1d86978ad" version="1">塞倫涅的破夜月華：暗終之器</content>
+<content contentuid="hc7b24584g49f4g4f5fg85b1g9d044eb57061" version="1">旅者之弓</content>
+<content contentuid="h96dc9bfbgbe26g40abga8a8g02848d38f5d2" version="1">影渡之弓</content>
+<content contentuid="h7d0d6fe7gaf49g4c6aga060ga18c0e7af038" version="1">現實曲隙</content>
+<content contentuid="h98f64b52gad46g4221gbb9dgb872b76c6de5" version="1">歐格瑪的裂距之速：空間曲者</content>
+<content contentuid="ha544d4c5g75a3g4cafg9342g5eea350d64fa" version="1">守衛之棒</content>
+<content contentuid="h16d4be9bg3fedg4635g8fd8gd8f4958ddd45" version="1">碎震之棒</content>
+<content contentuid="hd10bf277gea4dg425fgb337g137891f53061" version="1">凱蘭沃的奪魄之咒</content>
+<content contentuid="h4d071f0dg3d91g464cgad03g5bd2e6e58537" version="1">天使的破邪聖金：腐化凈者</content>
+<content contentuid="h40040f6dgfdbcg47d5g97cag26854be4fcf6" version="1">希望之炬</content>
+<content contentuid="hb6ed17dag4f2cg449ega042g10c11fafbd1d" version="1">不熄之焰</content>
+<content contentuid="haff8f3c7gba04g4a19g8ce6gfe583a47b3d4" version="1">寰宇以太焰</content>
+<content contentuid="h207f4c56gc831g4197g8885g7d4a05abe966" version="1">晶壁的永恒之火：位面燃炬</content>
+<content contentuid="hbb459391g9d55g4514ga6c8ga9e2baf821b3" version="1">毒鏢</content>
+<content contentuid="h0e717989gea8ag450ega32ag44f02ebd0261" version="1">劇毒標槍</content>
+<content contentuid="hbb55f72eg37ccg40a8g8228g7a2bfe8a4c93" version="1">凱蘭沃的穿魂毒矢</content>
+<content contentuid="ha5e08454g6a05g4448g93c6g1fd4d0e65563" version="1">紫蠕的弒神精粹：神肉溶蝕</content>
+<content contentuid="hacb67660g0524g4516ga447g2efba64ec4ec" version="1">旅者之杖</content>
+<content contentuid="h5946cc5fgd07dg4992gbe85g0367d6003562" version="1">啟智之杖</content>
+<content contentuid="h09056cedg6a21g4117gbb5bgaa62e06e60d9" version="1">異宇裂神低語杖</content>
+<content contentuid="h70db2244g17d6g4adfgb182g87a604654d45" version="1">歐格瑪的真知之智：奧秘鑰者</content>
+<content contentuid="h0a608068g15e4g4492g8d37gd2eb5e6cbe55" version="1">突進之矛</content>
+<content contentuid="h395c67f3g754eg44edgbb51g497352a8e098" version="1">無斷突襲之矛</content>
+<content contentuid="h2f080755gb515g4709ga930gbeb75df12be3" version="1">淵獄破界風暴矛</content>
+<content contentuid="h8c7acd00ge0b7g4252g92f4g7dfcb71e1aff" version="1">提爾的敵判之矛：心真洞穿</content>
+<content contentuid="h3e88d7c1g7bf5g4c29gb325g33706691f086" version="1">收割之鐮</content>
+<content contentuid="h0552f0b1g6d36g4a7eg918agf294c9b389e3" version="1">血祭之鐮</content>
+<content contentuid="hca75dcf3gf8d8g46bbg9774g59a73dbce55d" version="1">米爾寇的影賜魂鐮</content>
+<content contentuid="he62e84acgbbefg4af4g8562g162db2740251" version="1">死亡本尊的終焉聖鐮：記憶收割者</content>
+<content contentuid="h7c58b444g37c5g42c9ga5f7g6ac91be267de" version="1">守護之盾</content>
+<content contentuid="h79ee23fcge2d6g490eg9170gc1c9bbbe49da" version="1">骸骨之盾</content>
+<content contentuid="h70081283g22b1g40efg9926gdbbe4d5840e9" version="1">塞倫涅的月華之盾</content>
+<content contentuid="ha6726ca0g0c73g4104g9916ga70b8ec0f116" version="1">永恒守望之盾：時空庇護者</content>
+<content contentuid="h41952c3dg72c6g4b9cg85a3geb218bc8438e" version="1">赤紅重錘</content>
+<content contentuid="h247ec97dgb12fg488cg9847g96ac79fffee4" version="1">修羅場的赤潮粉碎錘</content>
+<content contentuid="h6fc1a7eagb520g4e59ga3a2ga749a567e758" version="1">死星赤力之錘</content>
+<content contentuid="hb42a2119g3cfdg46bdga1c2g362c50636f3d" version="1">泰坦的赤怒本源：存在震顫</content>
+
+<content contentuid="hec302224g8204g4afcg90fbg6c60570243b5" version="1">分解</content>
+<content contentuid="h11841403gcb85g43d4g9ad2g5c5e400222a6" version="1">訓練戒指</content>
+<content contentuid="h9f802f2bgbe73g4302gb80cg3c6c181a70ca" version="1">用於召喚壹個敵對但不死的人形生物並測試各種攻擊的調試神器。</content>
+<content contentuid="hed1a73b4g7469g4e11gad28g5460172f387c" version="1">召喚查德</content>
+<content contentuid="h3424628bgf79bg45c1gb08cgb41b75d64082" version="1">妳會被敵對但無害的查德加入，妳可以對他進行打擊。</content>
+<content contentuid="h079c9038ga425g402cgbd6dg3c37acefcf1f" version="1">殺死查德</content>
+<content contentuid="h09e5d658g367fg4f3bg95fbgb7628783a0e7" version="1">查德會立即被殺死，不再用他兇猛的存在打擾妳。</content>
+<content contentuid="hf32583beg6d65g455bgac45g4456d01ba5fc" version="1">訓練光環</content>
+<content contentuid="h87d3717dg7dcbg4d9egb2a0g17bcbceb566b" version="1">訓練假人可幫助玩家在[1]中更好地練習他們的動作。</content>
+<content contentuid="h975de34ag8b3ag436ega633ge32f7e3a9436" version="1">訓練火花</content>
+<content contentuid="hc758a768gcb60g405fgb3aageec347d0ba45" version="1">當妳與查德的距離在&lt;b&gt;[1]&lt;/b&gt;以內時，妳將獲得&lt;b&gt;+[1]&lt;/b&gt;動作和附贈動作。</content>
+<content contentuid="hab7dfcf8gc9a6g4c57g9057g671588057c18" version="1">穿透沖鋒</content>
+<content contentuid="h360dda8bg1b26g45ffgbb55g95f8697c8f27" version="1">向前沖鋒並對路徑上的第壹個敵人進行打擊，可能會給他們留下&lt;LSTag Type="Status" Tooltip="GAPING_WOUND"&gt;開放傷口&lt;/LSTag&gt;。</content>
+<content contentuid="h055237b1g49b2g4212g83d5gaacfcebf280a" version="1">冰冷打擊</content>
+<content contentuid="h1e4bbc41g483ag4f77ga9b3gf00b14b41334" version="1">對壹名敵人造成&lt;b&gt;[1]&lt;/b&gt;，並對其施加&lt;LSTag Type="Status" Tooltip="WEAPON112"&gt;寒霜印記&lt;/LSTag&gt;，使其受到的所有來源傷害提高。&lt;br&gt;&lt;br&gt;發動此效果需消耗壹個&lt;b&gt;[3]&lt;/b&gt;環的&lt;LSTag Tooltip="SpellSlot"&gt;法術位&lt;/LSTag&gt;——但該法術位&lt;b&gt;不會被真正消耗&lt;/b&gt;。&lt;br&gt;&lt;br&gt;若未命中，&lt;b&gt;不會觸發冷卻時間&lt;/b&gt;。</content>
+<content contentuid="h2c328849ga464g49bbg9ecbg701308b13c7f" version="1">消耗&lt;b&gt;[1]&lt;/b&gt;的&lt;LSTag Tooltip="MovementSpeed"&gt;移動速度&lt;/LSTag&gt;。下壹次近戰&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;將具有&lt;LSTag Tooltip="Advantage"&gt;優勢&lt;/LSTag&gt;。</content>
+<content contentuid="h9ba177b7geabbg4a48g9594g7d3541df4128" version="1">狙擊射擊</content>
+<content contentuid="hdf1dd155gf421g41fcg9337g85c06d37218a" version="1">仔細瞄準並從遠距離射擊，可能會將目標推開&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="h89eecf07g7695g4fb8gbb79g2e516a1782c5" version="1">目標不能大於&lt;b&gt;中型尺寸&lt;/b&gt;。</content>
+<content contentuid="h073b8e2egc54fg4acdgb77ag6b9c570e005c" version="1">當妳在攻擊、施法或與物品互動時，隱匿&lt;LSTag Tooltip="AbilityCheck"&gt;檢定&lt;/LSTag&gt;失敗，隱形效果將會失效。&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt;無法在非戰鬥狀態下使用！</content>
+<content contentuid="hbd75aa55g057eg4be7g95e4g1eb2bc2d858c" version="1">振動揮砍</content>
+<content contentuid="h0af7d42cg3ce3g4130gaf89gcb7f8375683e" version="1">對目標進行壹次普通攻擊，同時在&lt;b&gt;[1]&lt;/b&gt;半徑範圍內產生壹波擾動，對&lt;b&gt;所有生物&lt;/b&gt;造成&lt;b&gt;[2]&lt;/b&gt;，並對&lt;b&gt;物體&lt;/b&gt;造成&lt;b&gt;[3]&lt;/b&gt;。</content>
+<content contentuid="ha5c89df0g713dg483fga774g3930d7da41b7" version="1">獵人射擊</content>
+<content contentuid="h1007a73eg662eg442dgada7g07d65ba89418" version="1">弓上附有星界魔法，使妳能夠發動壹次攻擊，並可能為目標附加&lt;LSTag Type="Status" Tooltip="WEAPON112"&gt;寒霜印記&lt;/LSTag&gt;。</content>
+<content contentuid="hb638aa43ge6feg419fg85f1g72f13c610a97" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;&lt;b&gt;負面穿戴效果僅在副手裝備時生效！&lt;/b&gt;</content>
+
+  <content contentuid="h2ea9a6ecge53fg4821g834dg5480d897b07f" version="1">星界風暴</content>
+<content contentuid="h6d8846c4ga23dg4301g85b6g3ca67fbd9569" version="1">引發星界能量的擾動，對範圍內的所有生物造成打擊。</content>
+
+<content contentuid="h6e3d3daagdd2ag4627gbfb7gc30e9d7ffb48" version="1">天界碎片</content>
+<content contentuid="h34ee96b8g7c00g4e39g8dc4g4318446d4689" version="1">幾乎無重量的碎片，其晶體結構內部有金色光芒旋轉。放置時它會輕微懸浮，偶爾釋放出光之粒子，這些粒子短暫舞動後消失。這些異世界的碎片如何散落在費倫大陸上依然是個謎——可能是破碎的天界寶庫的遺物，或者是位面邊界變薄處的表現。&lt;b&gt;用於與普通寶石(x3)壹起召喚元素球。&lt;/b&gt;</content>
+
+<content contentuid="h0f12538eg654fg48bfgb2a7g65edcf54351c" version="1">星芒永生</content>
+<content contentuid="h7329f19cgc841g48c7g89b5g0fec80eb4031" version="1">壹個奇怪的八面體，發出紫金色的光輝，偶爾以被遺忘的語言發出低語。觸碰時，它同時感覺異常寒冷和炙熱，不會留下任何物理痕跡，但會產生壹種持續的感覺，仿佛來自未知位面的遙遠心靈在註視著妳。&lt;b&gt;用於與兩份天界金輝塵(x2)壹起給稀有裝備附魔。&lt;/b&gt;</content>
+
+<content contentuid="ha0403683ga563g45cbg81f8g4249fa8ad9c7" version="1">光耀法球</content>
+<content contentuid="h6e9ccb53g7a3dg4f9eg9d1cg9bee371fc5b9" version="1">純凈的天界之光在這個晶體表面下流動，在罕見的天體排列期間被捕獲。它的金色光輝永不消逝，是通過古代煉金術保存下來的黎明的壹片，抵抗凡間領域的黑暗。&lt;b&gt;使用另壹個元素球和任意普通珠寶來制造壹個魔法空白。&lt;/b&gt;</content>
+
+<content contentuid="h38a03c23gbeb4g4002g9efdg8d187def4e4e" version="1">毀滅法球</content>
+<content contentuid="h776d0288g1d40g4be4gb74fg1fda95de5d44" version="1">深紅色的能量在這個球體內翻滾，如同戰士心中的血液，其表面刻有鋸齒狀的力量脈絡。天堂的工匠們將原始混沌束縛於紅寶石矩陣中，創造了壹種武器，向那些敢於持有它的人低語著災難的承諾。&lt;b&gt;使用另壹個元素球和任意普通珠寶來制造壹個魔法空白。&lt;/b&gt;</content>
+
+<content contentuid="h63f5dfa1ge965g4107gb216gd3eabb025cf0" version="1">閃電法球</content>
+<content contentuid="hf9eb6c9bgcda3g45a5gac96gb94dd7f5cde9" version="1">閃電的本質在藍色水晶中舞蹈，從眾神用雷聲交流的最高星界風暴中收獲。這個球體記得它的天空自由，渴望釋放它的力量通過值得信賴的導體。&lt;b&gt;使用另壹個元素球和任意普通珠寶來制造壹個魔法空白。&lt;/b&gt;</content>
+
+<content contentuid="hdeaad3d9gf5a8g479fg9fa1g18570a8424b7" version="1">火焰法球</content>
+<content contentuid="hc5cff84dg7a36g408eg91ebg5f85bddc0a76" version="1">永恒之火在這個火焰容器內燃燒，誕生自新生鳳凰的第壹口氣息。既不消耗也不減少，它包含了凈化之火的悖論——破壞與重生完美地結合在壹起，令人著迷。&lt;b&gt;使用另壹個元素球和任意普通珠寶來制造壹個魔法空白。&lt;/b&gt;</content>
+
+<content contentuid="ha84347b2ga17fg4970ga070gb54f1c210585" version="1">寒冰法球</content>
+<content contentuid="h65c2bbfdgb998g4bf4g9841gc6a2a1120502" version="1">寒冬之心在完美的藍寶石中跳動，由天界的煉金術師從垂死的恒星中提煉。它不會凍結而是吸收溫暖，只留下在宇宙第壹縷火花點燃之前存在的純粹虛無。&lt;b&gt;使用另壹個元素球和任意普通珠寶來制造壹個魔法空白。&lt;/b&gt;</content>
+
+<content contentuid="h2d6a5a13gf1f2g4b39gbd14g5e736cc53c44" version="1">死亡法球</content>
+<content contentuid="h1661f626gcf52g4d27g8d9agabb128c89bd4" version="1">黑暗在黑瑪瑙下流動，宛如永生的最後壹口氣息。綠色能量在裏面扭曲，既不是活的也不是真正死去的。天界的死靈法師創造了這種不可能的二元性，將終結的壹刻永遠保存下來，在存在與虛空之間的界限變得模糊到無法辨認的地步。&lt;b&gt;使用另壹個元素球和任意普通珠寶來制造壹個魔法空白。&lt;/b&gt;</content>
+
+<content contentuid="hbd903adcgffb6g497agb346g94b56430aa0d" version="1">戰爭法球</content>
+<content contentuid="hdb65b16dg0317g47b5g9238g6ea43102bfca" version="1">戰鬥智慧在這個青銅色調的球體內共鳴，在被遺忘的天界鐵砧中鍛造而成。神聖將軍們的戰術低語和不死冠軍們的最後防線在其深處盤旋，為那些明白真正的征服始於內心的人提供勝利的預兆。&lt;b&gt;使用另壹個元素球和任意普通珠寶來制造壹個魔法空白。&lt;/b&gt;</content>
+
+<content contentuid="h4d533932g4174g4b32gac27g9a7872fcd01a" version="1">腐蝕法球</content>
+<content contentuid="hf68a3328g4129g4bb5g87edg8ced632be505" version="1">在晶體囚籠中掙紮著毒綠液體，散發著異世界的光輝。當天界的工匠捕獲了分解的本質並將其囚禁在完美的翡翠中時，這壹奇跡便誕生了——它是能侵蝕石頭、熔化鋼鐵的力的化身。球體的表面光滑而冰冷，但不要被欺騙——只有完美的附魔才能控制這種能夠把任何物質化為塵埃的力量。&lt;b&gt;使用另壹個元素球和任意普通珠寶來制造壹個魔法空白。&lt;/b&gt;</content>
+
+<content contentuid="h720f813bg587ag4cbcg8ca0g059c89b46d6a" version="1">雷鳴法球</content>
+<content contentuid="h6233010ag702bg4caegb49eg8f5edc3b96c8" version="1">無聲的雷鳴居住在振動的水晶中，是打破永恒寧靜的第壹個詞語的回響。內部的閃電照亮了捕獲的風暴本質，微妙的和諧與持有者的未言之思共鳴，仿佛語言的基礎本身采取了物質形式。&lt;b&gt;使用另壹個元素球和任意普通珠寶來制造壹個魔法空白。&lt;/b&gt;</content>
+
+<content contentuid="h42dca4b2g6ec7g49fdg993cg11ff3c0a7ced" version="1">思維法球</content>
+  <content contentuid="h12f87cfdgc170g4042ga40fg9c97c9cc7069" version="1">意識結晶於紫水晶中，夢之精華從星界冥想中收獲。它半存在於現實，半存在於純粹思維的領域，對附近的心靈作出反應，如同靜水中的漣漪。那些深入凝視的人能夠瞥見物質與思想之間那如絲般纖細的界限。&lt;b&gt;使用另壹個元素球和任意普通珠寶來制造壹個魔法空白。&lt;/b&gt;</content>
+
+<content contentuid="had65f5bag4b5fg4de0gbf37ga1faa7e6cfae" version="1">鮮血法球</content>
+<content contentuid="h165dd751gb829g4df3g941dg19022f22cd96" version="1">生命精華在石榴石深處脈動，在宇宙排列期間由天界的守護者自由給予。它隨著生命的節奏跳動，包含著存在的秘密——存在是永恒的循環，就像血液流經靜脈壹樣貫穿整個創造。&lt;b&gt;使用另壹個元素球和任意普通珠寶來制造壹個魔法空白。&lt;/b&gt;</content>
+
+<content contentuid="hd7727c32gca31g4c13g88a2g78db691c8bba" version="1">陰影法球</content>
+<content contentuid="h0eeab76ag2c3fg4aa0g8d10g1b8c45a3a9e0" version="1">暮色被捕捉在虛空水晶中，既不是黑暗也不是光明，而是兩者神聖的邊界。紫色光點漂浮在完美的夜晚中，從位面邊界變薄的地方收獲。它低語著被遺忘的語言並吸收附近的聲響，仿佛現實本身在其存在時變得安靜。&lt;b&gt;使用另壹個元素球和任意普通珠寶來制造壹個魔法空白。&lt;/b&gt;</content>
+
+<content contentuid="h3c46e9a0g1e4bg40dagb825g7d7a65666b58" version="1">毒液法球</content>
+<content contentuid="h133e5653ge1fdg4839g8cf1g00a7ff00f694" version="1">致命之美在無瑕的翡翠下旋轉，體現了轉化的雙重性。天界的煉金術師捕獲了破壞先於更新這壹神聖原則，創造了壹個包含藥物與毒素完美平衡的神器。&lt;b&gt;使用另壹個元素球和任意普通珠寶來制造壹個魔法空白。&lt;/b&gt;</content>
+
+<content contentuid="h029c4007g7483g479bga966gbb7c0dc5c480" version="1">閃耀法球</content>
+<content contentuid="hfaf90deag9388g4390gaf90g18bc86f78f7a" version="1">數學上的完美在鉆石般的清晰中閃耀，揭示了創造本身的底層結構。天界的和諧將純粹秩序的模式凍結在晶體中，向那些理解美與法則是同壹神聖原則的不同表達的人展示宇宙真理。&lt;b&gt;使用另壹個元素球和任意普通珠寶來制造壹個魔法空白。&lt;/b&gt;</content>
+
+<content contentuid="h164330a8g067cg466egbb84g015511c94561" version="1">通過結合普通吊墜與壹個元素球而創建的未完成魔法護符。等待最終附魔使用星芒至臻和奧術粉塵。</content>
+<content contentuid="h8eb311b8g141eg4e32g9762g8856fc1e91ff" version="1">通過結合普通戒指與壹個元素球而創建的未完成魔法戒指。等待最終附魔使用星芒至臻和奧術粉塵。</content>
+
+<content contentuid="h48699f7bgd74cg472eg901dge9d2b3c5e651" version="1">光輝戒指附魔基底</content>
+<content contentuid="h44923919ga85fg4267g8607gadb238af52e1" version="1">脈動戒指基底</content>
+<content contentuid="h7a0e37f6g31cbg4d46g8c1ag530673496f8e" version="1">電火花戒指基底</content>
+<content contentuid="h414ba853g5d59g47f2g9981g55222e04c4c1" version="1">燃燒戒指基底</content>
+<content contentuid="h965471cdg892ag4ee4g96f5g54c39fe49d02" version="1">極寒戒指基底</content>
+<content contentuid="hf929136eg1f9eg4e95ga310gda1420e580d5" version="1">腐臭戒指基底</content>
+<content contentuid="h7242d75bga4c2g4c92g99feg59b70b6bc99c" version="1">銹蝕戒指基底</content>
+<content contentuid="he65d9280g711cg42f1g9350g9618c1f61721" version="1">侵蝕戒指基底</content>
+<content contentuid="ha34f9a95ga482g4575g97d9g61ccd726ce04" version="1">轟鳴戒指基底</content>
+<content contentuid="h95b00fc0gfecdg4a48g87f2g09807a120cc4" version="1">心智戒指基底</content>
+<content contentuid="hd9953215g5c2fg4680gbd0eg09103893cb8d" version="1">猩紅戒指基底</content>
+<content contentuid="hd95d2231g5dc4g4435g9117g79076d451715" version="1">幽影戒指基底</content>
+<content contentuid="h85aec984g0f3cg4735g9aaagfa74e397755b" version="1">滲毒戒指基底</content>
+<content contentuid="h163cb226g4a09g40ffg9dc9g32b3c4edf777" version="1">神聖戒指基底</content>
+<content contentuid="h720fe3e2g8254g4fb1g9f7cg32247bf3c1ba" version="1">光輝護符基底</content>
+<content contentuid="h1520568eg0be8g4cbbg9ef6gf67b95f4de65" version="1">脈動護符基底</content>
+<content contentuid="h7d7be2degf513g43a1g9dcagf042de4a7428" version="1">電火花護符基底</content>
+<content contentuid="hdbf72d51g4236g448fg99ddg5fe85dff2f6e" version="1">燃燒護符基底</content>
+<content contentuid="h8d981225g9875g4b0bgb5f0g83b33e466c45" version="1">極寒護符基底</content>
+<content contentuid="hccc6ac09g5f10g4d6eg81ddga38250874387" version="1">腐臭護符基底</content>
+<content contentuid="h34a45346g86b2g46c7gb737g2803834513a8" version="1">銹蝕護符基底</content>
+<content contentuid="ha657d177g0babg4a92ga08eg0a8c3f36fa63" version="1">侵蝕護符基底</content>
+<content contentuid="h4f3a577bgf8ccg4790gb9b0g633345d2e5e5" version="1">轟鳴護符基底</content>
+<content contentuid="hae8dadbdgd784g4ca4ga3fag6274558a19b1" version="1">心智護符基底</content>
+<content contentuid="h7f67169bg5295g4cfbg9178g68ea2b336346" version="1">猩紅護符基底</content>
+<content contentuid="h2d5b5d94g9482g49ecgbc86gcd2ac6a34b9a" version="1">幽影護符基底</content>
+<content contentuid="h0ada5803g2a69g43aaga5a2gbbd7304f9477" version="1">滲毒護符基底</content>
+<content contentuid="hdf09d282gb8a9g45a3gb1feg2ac41381c02c" version="1">神聖護符基底</content>
+
+  <content contentuid="h225bca71g003ag49afg9866g8ebf7eacf7e7" version="1">壹層微弱的附魔光輝覆蓋著這個簡單護符的吊墜——星界的影響在這裏是毋庸置疑的。</content>
+ <content contentuid="hccc53bd0g79f0g405fgbc3fgdf90f6d826f2" version="1">壹層微弱的附魔光輝覆蓋著這個簡單戒指的金屬帶——星界的影響在這裏是毋庸置疑的。</content>
+
+<content contentuid="h25cfb347gba21g4975ga355gc48fbd55eba7" version="1">破曉之屑</content>
+<content contentuid="h94c276f9g97f2g4388gb7f7ga1bc31dccdde" version="1">光明堡壘</content>
+<content contentuid="h79764768g7182g4fbcg82d9g2a496da65897" version="1">用灼熱的天界光芒包圍選定目標，賦予其在被攻擊時獲得&lt;LSTag Tooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;加成和反擊傷害&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="hac678301gabcbg4966g933ag38c88d7f9eba" version="1">目標獲得&lt;b&gt;+[1]&lt;/b&gt;到&lt;LSTag Tooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;，並且&lt;b&gt;同時&lt;/b&gt;對攻擊它的敵人造成&lt;b&gt;[2]&lt;/b&gt;。</content>
+<content contentuid="h86ca10c6g82e9g4fedgb6c8g533787420413" version="1">守護天輝</content>
+<content contentuid="h27706833g44f1g474cgb51ag03fd3c2603c3" version="1">極樂星芒：希望守望</content>
+<content contentuid="hc4cfecabge393g4cebgbf61g01d839ed97bb" version="1">洛山達的晨啟之光：永夜破曉</content>
+
+<content contentuid="h2ee8cc59g88d0g427cgb976g66aa4eabcad4" version="1">力場之屑</content>
+<content contentuid="h34d05a69ga960g46cbg9abdg36e05518359c" version="1">力場推擊</content>
+<content contentuid="h29be273eg9a02g4c88g9bcag75207bbee903" version="1">耐色湮痕</content>
+<content contentuid="h36e0559bga965g45d9ga853g01846d2e5072" version="1">淵滅之片：災兆</content>
+<content contentuid="hec631506g6f14g4d1bg81c2g46555e78b129" version="1">將周圍 &lt;b&gt;[1]&lt;/b&gt; 範圍內的所有生物擊退，並使受影響的生物進入&lt;LSTag Type="Status" Tooltip="SLOW"&gt;緩速&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h776433ecg5cb0g417cgad30g1098b7f4b9b3" version="1">提爾的神裁：大清算</content>
+<content contentuid="h5fccb5d7g34efg41bbgb341g8def0173eb82" version="1">破力打擊</content>
+<content contentuid="h2de1aea9gb4a2g4c6dg9f89g29fc3046f8bf" version="1">當妳對壹名處於&lt;LSTag Type="Status" Tooltip="SLOW"&gt;緩速&lt;/LSTag&gt;狀態的目標發動任何攻擊時，有&lt;b&gt;[1]%&lt;/b&gt;的幾率自動對其施放&lt;LSTag Type="Spell" Tooltip="Projectile_N_Force1"&gt;解離術&lt;/LSTag&gt;。</content>
+
+<content contentuid="h6dc85ab8g104cg4ca1ga081g8fb7e2fccfbe" version="1">風暴之屑</content>
+<content contentuid="h6f705fa1gfba4g4df6g8dc3g7418455e564b" version="1">深度沖擊</content>
+<content contentuid="h5302d996g17adg428bgbae4ga597e37f14ff" version="1">所有在妳周圍&lt;b&gt;[1]&lt;/b&gt;範圍內、且站在&lt;b&gt;帶電表面&lt;/b&gt;上的敵人，在其回合開始時有&lt;b&gt;[2]%&lt;/b&gt;的幾率失去壹個&lt;LSTag Tooltip="Action"&gt;動作&lt;/LSTag&gt;。</content>
+<content contentuid="h1ad9b371g4b81g45adgbb0cgc0ffef24f955" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; &lt;b&gt;此效果僅在戰鬥中生效！&lt;/b&gt;</content>
+<content contentuid="hf58649d7g868cg48begb8b8gc5c2a0b3efdb" version="1">耐色喚雷之樞</content>
+<content contentuid="h7532c8a6g59c7g4a6bg8bb6g39f0a531dd80" version="1">雷暴之核：霆兆</content>
+<content contentuid="h11893475g12bdg4d5dg9a22g2b9fb3c20397" version="1">塔洛斯的神怒：裂天</content>
+
+<content contentuid="ha827ed86ge5dag4466g8942g914b4fc9c6a1" version="1">余燼之屑</content>
+<content contentuid="h8d9a25cagfd6cg45fbg9090gb64bfa1e3524" version="1">火焰精通</content>
+<content contentuid="h95632c02gfd51g4a98gb142g81bd090286a7" version="1">使用&lt;b&gt;帶有升環的火焰法術&lt;/b&gt;造成&lt;LSTag Tooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;時，妳可以免費施放&lt;LSTag Type="Spell" Tooltip="Projectile_N_Fire1"&gt;灼熱射線&lt;/LSTag&gt;直到妳的回合結束。</content>
+<content contentuid="hc4e1b7ffg4a0cg4411gbcb7g9de28a98e413" version="1">耐色焰核晶</content>
+<content contentuid="h96d0680cg9a4dg46e5g82ceg20818fcbb480" version="1">使用&lt;b&gt;升環火焰法術&lt;/b&gt;造成&lt;LSTag Tooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;後，可免費施放&lt;LSTag Type="Spell" Tooltip="Projectile_N_Fire2"&gt;灼熱射線&lt;/LSTag&gt;，效果持續至&lt;b&gt;妳回合結束&lt;/b&gt;。</content>
+<content contentuid="hcf53681eg371eg4e04gae42g338daeb44c42" version="1">魔炎之心：焰守</content>
+<content contentuid="h494f9e33g7d8fg4a54ga79bgb8b855d3821f" version="1">使用&lt;b&gt;火焰法術或戲法&lt;/b&gt;造成&lt;LSTag Tooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;後，可免費施放&lt;LSTag Type="Spell" Tooltip="Projectile_N_Fire2"&gt;灼熱射線&lt;/LSTag&gt;，效果持續至&lt;b&gt;妳回合結束&lt;/b&gt;。</content>
+<content contentuid="h30db224dg4432g4387gb39dg7d618274295e" version="1">卡署斯的神火本源：世界熔爐</content>
+<content contentuid="h018ef77bg938fg413bg8d8dga7077aa59f6f" version="1">使用&lt;b&gt;火焰法術或戲法&lt;/b&gt;造成&lt;LSTag Tooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;時，妳可以連續兩個回合免費施放&lt;LSTag Type="Spell" Tooltip="Projectile_N_Fire2"&gt;灼熱射線&lt;/LSTag&gt;。</content>
+
+<content contentuid="heb8ecda2g8dafg441fgbd70ged835b848abf" version="1">寒晶之屑</content>
+<content contentuid="hc782b7c1gf5eeg4aa8g9da6gb43582f9e3f4" version="1">碎裂寒冰</content>
+<content contentuid="hc5ee9054gf437g41c4ga73agd17fea72f486" version="1">對&lt;LSTag Type="Status" Tooltip="MAG_FROST"&gt;覆霜&lt;/LSTag&gt;的目標，造成&lt;LSTag Tooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;所需的&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;數值降低&lt;b&gt;[1]&lt;/b&gt;。此效果可與類似效果疊加。</content>
+<content contentuid="h24c911b9g85bbg4950g81f6g85e093da3ca0" version="1">劈啪寒霜</content>
+<content contentuid="h8c1f955ag5451g445bg9149gcad91419a862" version="1">妳的法術或戲法在造成遠程&lt;LSTag Tooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;時，額外附加&lt;b&gt;[1]個傷害骰&lt;/b&gt;。</content>
+<content contentuid="haf81d6c6g8a25g49afgb2a2g42da8385b493" version="1">耐色霜心墜</content>
+<content contentuid="hdf437dc3g8f42g4525g99cfg8bfa0a3e3c34" version="1">卡尼亞的凍息：霜主</content>
+<content contentuid="hdd9665a4gaa69g4ba9g82a1g3d2b3416c6de" version="1">歐呂爾的凜冬之擁：永冬</content>
+
+<content contentuid="hc6ac737eg24c2g43b9g8195ge5b9e7cf4faa" version="1">影亡之屑</content>
+<content contentuid="h61be638bg0861g4204ga26bg1a6c79b2bc77" version="1">弱小幽靈</content>
+<content contentuid="haec245f0g0ecag4c03g9225gefedfaf9e00a" version="1">靈魂死靈法術</content>
+<content contentuid="hc8e9ee71g2308g4c9eg937ag9b5ac5dbed67" version="1">當妳殺死壹個&lt;b&gt;活著的&lt;/b&gt;生物時，妳有&lt;b&gt;[1]%&lt;/b&gt;的幾率召喚壹個友方弱小的幽靈，持續&lt;b&gt;[2]&lt;/b&gt;回合。</content>
+<content contentuid="h6b4989c2g764eg4057g9de9gcca2cb3642f0" version="1">耐色死錮印</content>
+<content contentuid="hd60451b3g48a0g44e9gbe87geaf9dca86a06" version="1">墮影之吻：魂噬</content>
+<content contentuid="heeac2417gc0d2g4676gaff4gdb4f2ab8985d" version="1">凱蘭沃的冥秤：終焉審判</content>
+<content contentuid="h2a5fd87cgfd82g444agb81fga4415b9aef86" version="1">強力幽靈</content>
+<content contentuid="h951e5b32g4ef5g4be6gaf8dg0e8a980d8abf" version="1">當妳殺死壹個&lt;b&gt;活著的&lt;/b&gt;生物時，妳有&lt;b&gt;[1]%&lt;/b&gt;的幾率召喚壹個友方強力的幽靈，持續&lt;b&gt;[2]&lt;/b&gt;回合。</content>
+
+<content contentuid="hd7e3aedcg1a7eg418fg8c6bg3f60122241a0" version="1">戰焰之屑</content>
+<content contentuid="hbe833794g8e1cg449egbd21g23974989b743" version="1">反應訓練</content>
+<content contentuid="he2fd2e48gbeadg4f4dgaa95ga55fdf56b488" version="1">花費時間理解戰鬥戰術和敵人的弱點，使妳的&lt;b&gt;武器&lt;/b&gt;和&lt;b&gt;徒手&lt;/b&gt;攻擊在&lt;b&gt;戰鬥結束前&lt;/b&gt;更加精準。</content>
+<content contentuid="hb4d57d89gb531g4219g8c67g11c2fff39b6d" version="1">&lt;b&gt;+[1]&lt;/b&gt;到&lt;b&gt;武器&lt;/b&gt;和&lt;b&gt;徒手&lt;/b&gt;&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;，每次使用此效果可疊加至多&lt;b&gt;[2]&lt;/b&gt;次充能。</content>
+<content contentuid="h7110cd19g0211g409bg80bfg283e9f1ccd7a" version="1">突發暴力</content>
+<content contentuid="h0a1be8bcg6348g4323g859fgdcb63782ac08" version="1">當妳使用&lt;LSTag Type="Spell" Tooltip="Shout_Rage"&gt;狂暴&lt;/LSTag&gt;或&lt;LSTag Type="Spell" Tooltip="Shout_ActionSurge"&gt;動作如潮&lt;/LSTag&gt;時，妳會獲得&lt;LSTag Type="Status" Tooltip="MAG_VIOLENCE"&gt;狂怒&lt;/LSTag&gt;狀態，持續&lt;b&gt;[1]&lt;/b&gt;回合。</content>
+<content contentuid="hbdd5d196g9fafg439dgb0cdg902331b57c17" version="1">耐色戰帥徽</content>
+<content contentuid="he972b437ge620g419fg979cg4331f27c9616" version="1">修羅場的戰響：征帥</content>
+<content contentuid="hc8c18478ge41fg49daga2c8gf24b184448cb" version="1">花費時間理解戰鬥戰術和敵人的弱點，使妳的&lt;b&gt;武器&lt;/b&gt;和&lt;b&gt;徒手&lt;/b&gt;攻擊在&lt;b&gt;戰鬥結束前&lt;/b&gt;更加精準且威力更大。</content>
+<content contentuid="h3d23be92g413ag460fga957g13ef66dea617" version="1">&lt;b&gt;+[1]&lt;/b&gt;到&lt;b&gt;武器&lt;/b&gt;和&lt;b&gt;徒手&lt;/b&gt;&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;及&lt;b&gt;傷害&lt;/b&gt;，每次使用此效果可疊加至多&lt;b&gt;[2]&lt;/b&gt;次充能。</content>
+<content contentuid="hc0c01a19ga9bdg4b14gaaa0g6e0e9f69fbce" version="1">坦帕斯的戰神榮光：永恒征途</content>
+
+<content contentuid="h9eec7d5bg5389g4085gb781gdbef77df930a" version="1">蝕質之屑</content>
+<content contentuid="hdb554524g94beg4df4g84b6g705b4b0530e5" version="1">深層腐蝕</content>
+<content contentuid="h7b843fbdgcd14g490eg80d4gce5dc3bef2ee" version="1">所有被&lt;LSTag Type="Status" Tooltip="ACID"&gt;酸液覆蓋&lt;/LSTag&gt;並位於妳&lt;b&gt;[1]&lt;/b&gt;範圍內的敵人對&lt;b&gt;[2]&lt;/b&gt;變得&lt;LSTag Tooltip="Vulnerable"&gt;易傷&lt;/LSTag&gt;。</content>
+<content contentuid="h7e991745g0e66g4795gb886g517657deb649" version="1">這個生物在被&lt;LSTag Type="Status" Tooltip="ACID"&gt;酸液覆蓋&lt;/LSTag&gt;並且處於&lt;b&gt;深層腐蝕&lt;/b&gt;效果範圍內時對&lt;b&gt;[1]&lt;/b&gt;變得&lt;LSTag Tooltip="Vulnerable"&gt;易傷&lt;/LSTag&gt;。</content>
+<content contentuid="h09555094gdd6fg4c18g9e18g164be2882ac8" version="1">耐色熵核</content>
+<content contentuid="hb7614b69gfe45g45a6g9313g314b56645d34" version="1">虛空之饑：形噬</content>
+<content contentuid="ha3f73509g5106g4ab9ga0ecg59246b033c7f" version="1">位面酸性</content>
+<content contentuid="h5bdf5424gca3cg43acga5c0g402c5fdee616" version="1">妳無視對&lt;b&gt;[1]&lt;/b&gt;的&lt;LSTag Tooltip="Resistance"&gt;抗性&lt;/LSTag&gt;</content>
+<content contentuid="hfc7fea6dg8e4fg4c79ga10bg3a2093eb3e3f" version="1">時間之痕：大解構</content>
+  
+  <content contentuid="he858ec3fgfa58g4c76g98c6g3b47cfaa96a1" version="1">共鳴之屑</content>
+<content contentuid="h5cfebe2fg7614g4cc6gad77g86a576b89ab1" version="1">音波破碎</content>
+<content contentuid="h7604c9ddgb7a5g4b21gb1a1ge7f156feef89" version="1">&lt;b&gt;構裝生物&lt;/b&gt;與&lt;b&gt;物體&lt;/b&gt;會額外承受妳造成的任何傷害的&lt;b&gt;[1]%[2]&lt;/b&gt;。</content>
+<content contentuid="h20c2a3c8g10fbg4269gb908g4ca088099741" version="1">耐色雷鑄項</content>
+<content contentuid="h28906b79gf72dg4811g936fg6d90d1986f51" version="1">風暴之核：天音</content>
+<content contentuid="h2fe10857gfd21g4719gb7dbg5771b17072cc" version="1">索爾的神雷余響：撼世</content>
+
+<content contentuid="h0b9eb454gdbebg4428g940cgf955f8384807" version="1">靈晶之屑</content>
+<content contentuid="h5e3d5210g0f28g4effg825bgb12cf8ab67a4" version="1">催眠波動</content>
+<content contentuid="hc5edaa34g6579g48c3g9937g7b1351140380" version="1">在妳&lt;b&gt;[1]&lt;/b&gt;範圍內的敵人如果滿&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;，則必須通過壹次基於感知的&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;(&lt;b&gt;[2]&lt;/b&gt;)否則將被&lt;LSTag Type="Status" Tooltip="HYPNOTIC_PATTERN"&gt;催眠&lt;/LSTag&gt;&lt;b&gt;[3]&lt;/b&gt;回合。</content>
+<content contentuid="hf19415b6gadcag4cc8gadfdg84b6f23b65ea" version="1">催眠波</content>
+<content contentuid="h9d8b9e65gb43cg4306gb80ag722a12cb1fef" version="1">生物需要進行壹次基於感知的&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;(&lt;b&gt;[1]&lt;/b&gt;) 否則會進入&lt;LSTag Type="Status" Tooltip="HYPNOTIC_PATTERN"&gt;催眠狀態&lt;/LSTag&gt;。</content>
+<content contentuid="hddaf8f49ga22eg49c9g8387g31b5e813fe87" version="1">耐色智樞</content>
+<content contentuid="h051e99e1gacf7g4d5dgb75cgc61a91d44eb9" version="1">星睿之識：秘守</content>
+<content contentuid="h4e22d2b1g03fdg43a8g9fedg4acc04657a18" version="1">歐格瑪的神之洞見：無限書庫</content>
+<content contentuid="h533927d3gf755g42b5gb60dgaf176c7b7b6c" version="1">主人意誌</content>
+<content contentuid="had3a1c56gd8d3g433cg9724gcad8d04de66e" version="1">對處於&lt;LSTag Type="Status" Tooltip="HYPNOTIC_PATTERN"&gt;催眠狀態&lt;/LSTag&gt;的目標自動造成&lt;LSTag Tooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;。</content>
+
+<content contentuid="h7217ba2cg7f34g4b09gbc7ag103c40125d78" version="1">赤血之屑</content>
+<content contentuid="h683d43edg1dcdg41begb878g970cd83f20bc" version="1">鮮血獻祭</content>
+<content contentuid="h73b0c6fcgf055g42e3gb45egcfe069295df5" version="1">立即獻祭&lt;b&gt;[1]&lt;/b&gt;，讓妳的下壹次攻擊額外造成&lt;b&gt;[2]~[3]&lt;/b&gt;。</content>
+<content contentuid="hccad5294g5b8cg4d1bg984dgfc368d643b00" version="1">&lt;b&gt;+[1]~[2]&lt;/b&gt;妳的下壹次任意攻擊造成傷害。</content>
+<content contentuid="h18d254b7g9291g4613gbb11g6af5b0ebb49e" version="1">巴爾的印記</content>
+<content contentuid="h106f4d6cg6fd1g4e6dgb5fdg968c86a93653" version="1">當妳在戰鬥中承受超過&lt;b&gt;[1]&lt;/b&gt;點傷害時，妳將獲得&lt;b&gt;[2]&lt;/b&gt;層&lt;LSTag Type="Status" Tooltip="DEATHSHEAD_UNSTOPPABLE_1"&gt;不可撼動&lt;/LSTag&gt;充能。</content>
+<content contentuid="h7ae932c9g4abfg4233g93eagd1793cf9826b" version="1">耐色生元導</content>
+<content contentuid="h0641a072g1908g4123gbde8gfc0433e16f61" version="1">生源之泉：精魄守</content>
+<content contentuid="h8fd534c1g1b3cg4306ga78bgce7c27e3493d" version="1">巴爾的血之聖杯：猩紅聖約</content>
+
+<content contentuid="h74005df8g6b81g48ecg93ecgb6a86598ad6e" version="1">暮落之飾</content>
+<content contentuid="h3ede506cgde97g4d4aga61bg698479f96c01" version="1">無情暗影</content>
+<content contentuid="h0c9771b5g6a2fg434bga742g56a696e70e85" version="1">所有站在&lt;b&gt;黑暗&lt;/b&gt;中的敵人在其回合開始時受到&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="h13f3747bgcbd4g4d75ga1d2g3ca306a90ce7" version="1">耐色影鏡釘</content>
+<content contentuid="h96ef2df0g9250g4558g9ef8ge4fb4889a2f9" version="1">虛空之語：寂暗聆</content>
+<content contentuid="h662d497dg6cdbg4aa9gbd08g43c77c31c523" version="1">莎爾的暗夜呢喃：夜之環抱</content>
+
+<content contentuid="h7bf32085gf4c8g47a9gb2bfg908fa4959543" version="1">毒質之屑</content>
+<content contentuid="hd516e3cdgc8ceg4e32g8829g36f8e51d1d34" version="1">精靈腐化</content>
+<content contentuid="h45bbd84bg8784g4ab0ga1c1g17150ffe79b9" version="1">如果擲骰結果小於&lt;b&gt;[3]&lt;/b&gt;，妳可以重新擲出&lt;b&gt;[1]&lt;/b&gt;次&lt;b&gt;[2]&lt;/b&gt;骰子，並每次取&lt;b&gt;更好的結果&lt;/b&gt;。</content>
+<content contentuid="h9172c2cege73eg405cgb954g38c862dd2d1d" version="1">耐色災萃</content>
+<content contentuid="h9b604f9eg719fg46ecgbbfbg7e68934bd1cd" version="1">毒術師精通</content>
+<content contentuid="h31342d6bgc868g4bd0g8948g4c4fe12f245a" version="1">妳對處於&lt;LSTag Type="Status" Tooltip="POISONED"&gt;中毒狀態&lt;/LSTag&gt;的目標具有&lt;LSTag Tooltip="Advantage"&gt;優勢&lt;/LSTag&gt;。</content>
+<content contentuid="h39b9c200g300cg45faga393gad25a41ed5ea" version="1">疫心之核：朽兆</content>
+<content contentuid="hd03e8ed6g7d40g42bbga4c3g6d7dd744585c" version="1">自然之怒：翠綠之死</content>
+
+  <content contentuid="ha64cb7d9g9887g4391gbd8bg7c921b436433" version="1">光棱之屑</content>
+<content contentuid="h52421ebagaa41g486cg8366ge8a02ce2ece4" version="1">法術精通</content>
+<content contentuid="hd64a4b21gd5b4g4976gad04g23094aeae5f3" version="1">施放幾個預備戲法以增強妳對敵人的法術效果。</content>
+<content contentuid="h9cc4d9adg3c47g495dg91f1g40b1fbef65b3" version="1">妳的&lt;LSTag Tooltip="SpellDifficultyClass"&gt;法術豁免難度等級&lt;/LSTag&gt;獲得&lt;b&gt;+[1]&lt;/b&gt;加值。</content>
+<content contentuid="h1c920b6agbfb3g45b6g824fg001f5bf2a912" version="1">耐色輝核</content>
+<content contentuid="h19826b54gc499g4cfag903eg56fc17c82c07" version="1">編織湧動</content>
+<content contentuid="h11572ea8g1351g4b7agb237g183e29eb056e" version="1">當妳處於&lt;LSTag Type="Status" Tooltip="MAGE_ARMOR"&gt;魔法護甲&lt;/LSTag&gt;狀態下時，妳的&lt;LSTag Tooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;額外獲得&lt;b&gt;+[1]&lt;/b&gt;。</content>
+<content contentuid="hf2cad1efg8b89g441fgb219g7283f5fc110f" version="1">星焰之冕：榮載</content>
+<content contentuid="h3e5ff993gd336g4fc8gb7c7gadd49c83a9bd" version="1">密斯特拉的神輝：魔網之心</content>
+
+<content contentuid="h42dfe32egbfc9g4dfcgaab6gf0b9775609d5" version="1">破曉之環</content>
+<content contentuid="h01fe1b5dg544dg4c3dg9f61g4165a4b5e73a" version="1">耐色聖輝印</content>
+<content contentuid="hf6a7c450g8c80g4b51g8e12gd773c65edbe3" version="1">天界之契：神光戒</content>
+<content contentuid="h91a0b713g3032g4c12g876dg1b0b3a58b94e" version="1">洛山達的神光之輪：永恒黎明</content>
+<content contentuid="h9b4fe3e6g971eg42bdgb557g6d02166b3ed3" version="1">光譜光附魔</content>
+<content contentuid="hdea618cdg3a54g4c28g9905g2233ed003174" version="1">妳的法術和戲法攻擊同時還會造成&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="h133d3d2dg3b72g4532gbfabg9f711d917404" version="1">高級光明魔法</content>
+<content contentuid="hade24f13gd477g4aeag938fgca5176849358" version="1">當目標受到妳造成的&lt;b&gt;[1]&lt;/b&gt;時，它必須通過壹次基於體質的&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;(&lt;b&gt;[2]&lt;/b&gt;)否則將陷入&lt;LSTag Type="Status" Tooltip="BLINDED"&gt;目盲&lt;/LSTag&gt;狀態持續&lt;b&gt;[3]&lt;/b&gt;回合。</content>
+
+<content contentuid="hd7725bf1ge415g4d5eg9421g184c2351da56" version="1">毀環之戒</content>
+<content contentuid="heb34f198g1f45g4cd3gadf8gd879aa059f0f" version="1">妳的攻擊&lt;b&gt;還會&lt;/b&gt;造成&lt;b&gt;[1]&lt;/b&gt;，但每次妳造成&lt;b&gt;[2]&lt;/b&gt;時，妳自己也會承受&lt;b&gt;[3]&lt;/b&gt;。</content>
+<content contentuid="h0655af18g5ae7g4144gb57fgd78453f94582" version="1">耐色滅印</content>
+<content contentuid="h38a83561gc0ccg46e6gbbeag9a16725057f1" version="1">混沌之印：終焉兆</content>
+<content contentuid="h2fc7d7begf489g4c60g8499g0d3a8b3cfe05" version="1">希瑞克的癲神之印：終焉之印</content>
+<content contentuid="h0128c5c4g739fg4e87gbb7bg7d1b369d7e08" version="1">光譜力場附魔</content>
+<content contentuid="h8dda6ab1g98ccg4480gb1a4g2b1715b774d0" version="1">高級力場魔法</content>
+<content contentuid="hac1874a7ga309g4bb9gbd73g10a3a1c5d160" version="1">&lt;br&gt;妳造成的&lt;b&gt;[2]&lt;/b&gt;增加&lt;b&gt;[1]%&lt;/b&gt;。</content>
+
+<content contentuid="hf3723999g23f7g48c4ga9cfgf025b4baab94" version="1">喚雷之戒</content>
+<content contentuid="h30cbb172gbf27g4fe5gaf10g3e16b3f76efb" version="1">耐色霆環</content>
+<content contentuid="h1ba7474cg7d23g4463g886cg6fed0426e921" version="1">雷神之冕：風暴領主之戒</content>
+<content contentuid="h338b4e0bg8c64g42bfg87dagaaa4fa645b5e" version="1">塔洛斯的神罰之印：風暴之眼</content>
+<content contentuid="h14649fc6gfabag4fd7g92d8g1aed1934f558" version="1">光譜閃電附魔</content>
+<content contentuid="h9b0cb109g4fa0g4385g9f33g133832720f31" version="1">高級自然魔法</content>
+<content contentuid="h6aba354ag1b9bg4ff8gacb3gd6e5d449983b" version="1">妳的任何壹次攻擊有&lt;b&gt;[1]%&lt;/b&gt;的幾率生成壹個帶電區域，持續&lt;b&gt;[2]&lt;/b&gt;回合。&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt;電流效果結束後，地面上會留下壹灘&lt;b&gt;水窪&lt;/b&gt;。</content>
+
+<content contentuid="h59f4da8egde47g4528gb6eeg8a9abd8c18c2" version="1">余燼之環</content>
+<content contentuid="h95332c58gc2c2g4e34g946egfb476030bda2" version="1">耐色燃印</content>
+<content contentuid="he0d90acbgdda9g47ecg80b6gea90de51c591" version="1">煉獄之契：永焰戒</content>
+<content contentuid="h02f8fc76g39cdg441aga003g09c02ac23c64" version="1">卡署斯的神火之印：原初熔爐</content>
+<content contentuid="h6ee486d2g96a4g4a6eg8203g89a21c354053" version="1">光譜火焰附魔</content>
+<content contentuid="h765a7d04g2419g43d8g9ab2gc4accf421017" version="1">高級火焰魔法</content>
+<content contentuid="haac6ba33ged6fg413bgbbedgfa61bde18e43" version="1">當目標受到妳造成的&lt;b&gt;[1]&lt;/b&gt;時，它必須通過壹次基於敏捷的&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;(&lt;b&gt;[2]&lt;/b&gt;) 否則將進入&lt;LSTag Type="Status" Tooltip="BURNING"&gt;燃燒狀態&lt;/LSTag&gt;持續&lt;b&gt;[3]&lt;/b&gt;回合。</content>
+
+<content contentuid="h9e460c16gd146g4e41g8a74ge3837eedd6bd" version="1">冰心之戒</content>
+ <content contentuid="h210d5bf2ge6adg487bg8084gf0482afddb1f" version="1">耐色冰印</content>
+<content contentuid="h44b54ae8g3c93g4e8agacf7g4ee0b574c263" version="1">寒冬之契：永寒戒</content>
+<content contentuid="h938517e7gb809g45dega4aegad9bffe19aa6" version="1">歐呂爾的凜冬之印：霜女之觸</content>
+<content contentuid="hc96de498g6fbbg4fb8g8642g5bb7d971d1c1" version="1">光譜霜凍附魔</content>
+<content contentuid="h038b03fag69d3g4b57g8675gb78474b799b0" version="1">高級冰魔法</content>
+<content contentuid="hb5f30c6bgab6bg418fgbc0fgc6d784ff70e5" version="1">當目標受到妳造成的&lt;b&gt;[1]&lt;/b&gt;時，它必須通過壹次基於體質的&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;(&lt;b&gt;[2]&lt;/b&gt;)否則將處於&lt;LSTag Type="Status" Tooltip="MAG_FROST"&gt;覆霜&lt;/LSTag&gt;狀態持續&lt;b&gt;[3]&lt;/b&gt;回合&lt;i&gt;(持續時間疊加)&lt;/i&gt;。</content>
+
+<content contentuid="h99c1c2d5gca54g4a56g91fbg7a00d047253c" version="1">影戒</content>
+<content contentuid="h5fc84b02gd6d6g43aegb4d0g1fca127cea9d" version="1">耐色冥印</content>
+<content contentuid="hb9446025g6caeg4466g8a9cg91818e845a6c" version="1">墓約之戒：終息</content>
+<content contentuid="h2ba54580gcf1fg4187gbc15gf72589f1228d" version="1">凱蘭沃的神判之印：審判之印</content>
+<content contentuid="h1f63ba3cg6baeg4b0dgbe2bg0e5f99af2e39" version="1">光譜死亡附魔</content>
+<content contentuid="hdc7562a6g906fg4692gab7fg718450d4219b" version="1">高級靈魂魔法</content>
+<content contentuid="h2b68522dg23ebg4761g84d2g072ee3f36554" version="1">對壹名&lt;b&gt;活體&lt;/b&gt;生物造成&lt;b&gt;[1]&lt;/b&gt;將恢復&lt;b&gt;[2]&lt;/b&gt;。&lt;i&gt;（即使妳是&lt;b&gt;不死生物&lt;/b&gt;）&lt;/i&gt;。</content>
+<content contentuid="h33621443g2115g412eg9e23g3b90f794e72d" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;傷害接收者不能是物體。</content>
+
+<content contentuid="hf9552a8bg2aaag49edgba1dgb70ad19d45e0" version="1">戰痕之戒</content>
+<content contentuid="hb0f88551g02d9g49c9g815dg0f051fe16908" version="1">耐色帥印</content>
+<content contentuid="h5f65dd78g6448g4a84g947ag6bf6d29ca01b" version="1">勝約之戒：征途</content>
+<content contentuid="h109a57b8g0a27g4298ga1bdgd3ee02da19b7" version="1">坦帕斯的戰神之印：戰帥之冠</content>
+<content contentuid="h371806fegd051g470bg9258g3d0fe5ed1940" version="1">光譜戰爭附魔</content>
+<content contentuid="hf5403eebg8b79g49e7g88e3g7e5d01480c7c" version="1">妳的&lt;b&gt;武器&lt;/b&gt;、&lt;b&gt;投擲&lt;/b&gt;和&lt;b&gt;徒手&lt;/b&gt;攻擊&lt;b&gt;還會&lt;/b&gt;造成&lt;b&gt;[1]&lt;/b&gt;&lt;i&gt;（取決於妳所用武器的傷害類型）&lt;/i&gt;。</content>
+
+<content contentuid="h20ab8196g3094g472fg8af8ge00312249db0" version="1">銹蝕之戒</content>
+<content contentuid="h99405224gb8a8g4adag885dg8da93352d92c" version="1">耐色朽印</content>
+<content contentuid="hcdbc3f2bga6e6g4783g8964g11a298cb57c8" version="1">熵契之戒：解離</content>
+<content contentuid="hfbf461d6g8c70g42bbg993fg638e5be2549f" version="1">時間之環：解離之環</content>
+<content contentuid="hc9d27be0g1a3eg4a12g9777g7fed235c959b" version="1">光譜酸液附魔</content>
+<content contentuid="h0dd0096bg5321g45fbg8614g438432136cbe" version="1">高級衰敗魔法</content>
+<content contentuid="h93faaebag0d5ag47d8g89c8g6a9065de2f1a" version="1">當目標受到妳造成的&lt;b&gt;[1]&lt;/b&gt;時，它必須通過壹次基於敏捷的&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;(&lt;b&gt;[2]&lt;/b&gt;)否則將被&lt;LSTag Type="Status" Tooltip="ACID"&gt;酸液覆蓋&lt;/LSTag&gt;持續&lt;b&gt;[3]&lt;/b&gt;回合。</content>
+
+<content contentuid="hec43b14fgd260g4ac2g9e1fg66e2b55a59f5" version="1">共鳴之戒</content>
+<content contentuid="ha2f3f4ccg32acg42e8g9043g8cf809745060" version="1">耐色聲核</content>
+<content contentuid="h4d191669gb331g4601gb2b5ga037a48df9fe" version="1">回響之契：雷君戒</content>
+<content contentuid="h6cfeb949gd60eg4ae5ga899gd99f6fd08975" version="1">索爾的神怒之戒：撼世之戒</content>
+<content contentuid="h16116d85g06ddg4b20g86c1gbb9d6d6a1a25" version="1">光譜雷鳴附魔</content>
+<content contentuid="h1e6e7c06g9885g4ea6gbc88g5c37cb8b0b62" version="1">高級振動魔法</content>
+<content contentuid="hbf17e905g78bbg4219ga0eag1dc0cbf6f29c" version="1">當壹個目標受到妳造成的&lt;b&gt;[1]&lt;/b&gt;時，它必須進行壹次體質&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;（&lt;b&gt;[2]&lt;/b&gt;），否則將陷入&lt;LSTag Type="Status" Tooltip="STUNNED"&gt;震懾狀態&lt;/LSTag&gt;，持續&lt;b&gt;[3]&lt;/b&gt;回合。</content>
+
+<content contentuid="h4614eef4gbe4fg4839gb711gcc050515e8ff" version="1">靈連之戒</content>
+  <content contentuid="h6a31be46gbdc0g4f4dg82c8g446b18cc36a8" version="1">耐色智核</content>
+<content contentuid="hb5f1ec03g812fg47begbd16gb5d6633484a4" version="1">睿契之戒：無垠思</content>
+<content contentuid="h2b99cab1gc1e0g4b88gbc73gbc49351f1488" version="1">歐格瑪的神識之環：智者之冕</content>
+<content contentuid="h56b2b4daga086g443cg9c10g309c2b794c6c" version="1">光譜思維附魔</content>
+<content contentuid="h6259d335gabe0g4d45gadc8g50025ec483bc" version="1">高級心靈魔法</content>
+<content contentuid="hf8399ff9gce13g4b63ga17agb986c0075203" version="1">所有距離妳&lt;b&gt;[1]&lt;/b&gt;範圍內的敵人都對妳造成的&lt;b&gt;[2]&lt;/b&gt;處於&lt;LSTag Tooltip="Vulnerable"&gt;易傷狀態&lt;/LSTag&gt;。</content>
+
+<content contentuid="hc0b07a7eg238bg4841gbda7g8c8d446a71e3" version="1">赤環</content>
+<content contentuid="h89e91b2ag7a39g4af1g8467g6c9a2950f5f3" version="1">耐色血印</content>
+<content contentuid="h22fa0079gc36cg457bgb7c6gc428ee8414bb" version="1">生契之戒：赤誓</content>
+<content contentuid="h946972a2g3bceg42f6g9a3eg8387ea7f5b59" version="1">巴爾的神戮之環：弒神之印</content>
+<content contentuid="hf184bf49g7e06g4dc7g9488gee15755bebad" version="1">光譜血液附魔</content>
+<content contentuid="h4ef712b6g43adg47e9gae8eg92b63276de72" version="1">受到妳攻擊的生物，若其擁有&lt;b&gt;魔法、機械或普通血液&lt;/b&gt;，必須通過壹次體質&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;（&lt;b&gt;[4]&lt;/b&gt;），否則將獲得&lt;LSTag Type="Status" Tooltip="R_BLOOD1"&gt;血液弱點&lt;/LSTag&gt;狀態，體質屬性降低&lt;b&gt;[2]&lt;/b&gt;。&lt;br&gt;&lt;br&gt;重復觸發此效果將導致體質最終降至0，造成即死。</content>
+<content contentuid="h1fb432a9ge5ceg47aegbfe7gbed60bdb189f" version="1">%%% 已廢棄 %%%</content>
+<content contentuid="h6497d2d4g06cag4e6agae86gd83a58092e2c" version="1">血液弱點</content>
+<content contentuid="h4f79ff43gf96fg4294ga322g6fbdfe886569" version="1">&lt;b&gt;-[1]&lt;/b&gt; 體質，持續每壹回合，直到此效果結束。&lt;br&gt;&lt;br&gt;若體質降至&lt;b&gt;0&lt;/b&gt;，該生物將&lt;b&gt;立即死亡&lt;/b&gt;。</content>
+
+<content contentuid="hf316a0b7gf19bg43aeg8619g3d575dcd2bda" version="1">暮落之戒</content>
+<content contentuid="h1e05052dgbd2dg4f2bgb7b2g438fb3fb4983" version="1">耐色幽印</content>
+<content contentuid="h06ba3070g22feg4f88gafd4g07da2d006ea2" version="1">暗契之戒：永夜</content>
+<content contentuid="h001c478dgf637g43cag8326ga19893234687" version="1">莎爾的神夜之環：夜詠之觸</content>
+<content contentuid="hc9dc510dga985g46f8gab66g8c76fa8ec6fe" version="1">光譜陰影附魔</content>
+<content contentuid="hc935ddc8g4319g4442g8253g00dc75da276f" version="1">妳減少受到的&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="h44d93124g4b40g4948ga257g1b794f0deae1" version="1">高級陰影魔法</content>
+<content contentuid="h01860cb6gd114g42fbga44cgafa2483bc519" version="1">妳忽略目標對&lt;b&gt;[1]&lt;/b&gt;的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
+<content contentuid="h4c1ea2f5g13afg4656ga392g68331c552ac9" version="1">妳忽略目標對&lt;b&gt;[1]&lt;/b&gt;的&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;。</content>
+
+<content contentuid="hdf7d933egfc53g420agb3f4gafb607ae4f49" version="1">毒襲之戒</content>
+<content contentuid="h706e512egce2ag4930g9fa6g218e77e46bc9" version="1">耐色毒印</content>
+<content contentuid="h82ece258g76a3g4d97g9f86g22bd1011c585" version="1">疫契之戒：綠死</content>
+<content contentuid="h02a0c633gd8cag4626gb404g12ec6b46d0ef" version="1">塔洛娜的神疫之印：毒霧之戒</content>
+<content contentuid="h57211a6aga625g4fe0ga4a6gc9c396841a44" version="1">光譜毒素附魔</content>
+<content contentuid="h5e481723g4b37g4248ga1c4gc914f2bf21e5" version="1">妳的攻擊&lt;b&gt;也&lt;/b&gt;會造成&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="h61940393g81dbg407bgafe7g0fdbf33d6fa2" version="1">妳所有的傷害來源&lt;b&gt;額外&lt;/b&gt;造成&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="h0d5cb6d4g7548g44e9ga8b3g2f6e2abc78f5" version="1">高級毒素魔法</content>
+<content contentuid="he25a00b0gd191g4712g99bfg010e597e075d" version="1">當目標受到妳造成的&lt;b&gt;[1]&lt;/b&gt;時，它必須通過壹次基於體質的&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;(&lt;b&gt;[2]&lt;/b&gt;)否則將陷入&lt;LSTag Type="Status" Tooltip="POISONED"&gt;中毒&lt;/LSTag&gt;狀態持續&lt;b&gt;[3]&lt;/b&gt;回合。</content>
+<content contentuid="h6ac89dcbgefb0g40f5gba53gb2e5c96c05d3" version="1">深奧魔毒</content>
+<content contentuid="h592100fcg7861g41edg9cd5g8537ab8c49ba" version="1">妳無視對&lt;b&gt;[1]&lt;/b&gt;的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;與&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;。</content>
+
+<content contentuid="hfaea4571g18a5g429cgbbafg470f7abaabdf" version="1">輝光之戒</content>
+<content contentuid="h117450f8gbbcag45aaga82ag3ff987f86a02" version="1">耐色星印</content>
+<content contentuid="h4ae85567gd0d5g41c2ga62fg30b2f0b47ac3" version="1">卓越意誌</content>
+<content contentuid="hd3f0970bg0ad6g456dgbd80g9b14359a2599" version="1">消耗壹個&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反應&lt;/LSTag&gt;，使壹次針對自身或盟友的攻擊陷入&lt;LSTag Tooltip="Disadvantage"&gt;劣勢&lt;/LSTag&gt;，從而提供保護。</content>
+<content contentuid="h78d2080ag04e6g46a8gabe6g8ae901903d4b" version="1">榮契之戒：永耀</content>
+<content contentuid="h89f9a4ebg7087g4053g9570ge04481a11308" version="1">密斯特拉的神律之環：魔網之冕</content>
+
+<content contentuid="h82882fd2g0894g469fgae53gf355e7c05118" version="1">遊方裹手</content>
+<content contentuid="h93e8d280g44c4g49cegbdf9g04b5bc011f8e" version="1">澤萊心織</content>
+<content contentuid="hbe585e98gccbcg41e5g9d97gd61b8346dfd8" version="1">混沌之絲：位面織力</content>
+<content contentuid="hcd8c3bb6gcba9g40b5gbf1agfd9b6bf1ab3e" version="1">澤錫蒙的先知之諭：眾生裂諭</content>
+<content contentuid="h725fc0a6gd1eag46f8gb2eeg3dd764839d21" version="1">壹層微弱的附魔光輝覆蓋在這層異常堅固的織物上——這裏無疑受到了星界位面的影響。</content>
+  
+<content contentuid="h516c70cag61d6g4a9aga004ga2fdad8ac981" version="1">星界標記</content>
+<content contentuid="hbc9021cdg3c3eg4a5ag864dge7709fe02795" version="1">在妳的回合開始時，妳周圍&lt;b&gt;[1]&lt;/b&gt;範圍內的所有敵人&lt;b&gt;可能&lt;/b&gt;會以&lt;b&gt;[2]%&lt;/b&gt;的幾率獲得&lt;LSTag Type="Status" Tooltip="G_MONK1"&gt;星界標記&lt;/LSTag&gt;，這會使來自&lt;b&gt;徒手攻擊&lt;/b&gt;的傷害額外增加&lt;b&gt;[3]&lt;/b&gt;。</content>
+<content contentuid="h87500609g5e65g4113ga81eg70a98484e382" version="1">此生物從&lt;b&gt;徒手攻擊&lt;/b&gt;以及需要&lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;氣點&lt;/LSTag&gt;的法術和戲法中受到的傷害也會額外增加&lt;b&gt;[1]&lt;/b&gt;。</content>
+ 
+ <content contentuid="hbad9f6beg0c96g4cc6gb6feg4403d02ec325" version="1">星界精準</content>
+<content contentuid="he4c7c8b9gd9dbg40bbg878eg2ce01d152987" version="1">妳使用這把長弓時無法&lt;b&gt;嚴重失誤&lt;/b&gt;。</content>
+
+<content contentuid="h2614ad89g1b0cg448ag81acgb906f748b7be" version="1">妳不會被&lt;b&gt;詛咒&lt;/b&gt;。</content>
+<content contentuid="h34da065dg67a2g4a64g90e6g40a3da484f82" version="3">在推擊敵人後，穿戴者獲得+1的&lt;LSTag Tooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;直到其下回合。&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt;推擊包括任何形式的推退，即使是來自法術。</content>
+<content contentuid="h3b3d3734gd80fg489ega47dged57132d7c00" version="1">沖擊積累</content>
+<content contentuid="ha7cc7ec5ge24ag4e2agbfd2g7e5e76c6196a" version="1">造成&lt;b&gt;[1]&lt;/b&gt;時，妳獲得&lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;閃電充能&lt;/LSTag&gt;—— 但不超過&lt;b&gt;[2]&lt;/b&gt;層。</content>
+<content contentuid="h475532cbg1c82g432aga91cg0ff9bd73eb58" version="5">僅在主手持有壹件武器且空閑手無物品時，獲得+1的近戰武器&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;加值。&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt;即使手持盾牌，該加值依然有效。</content>
+<content contentuid="h6a591f7bg9f2fg4463ga9a7gdaeebf0daf75" version="1">妳獲得&lt;b&gt;+[1]&lt;/b&gt;的&lt;LSTag Tooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;和&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;加值，同時免疫&lt;LSTag Type="Status" Tooltip="BURNING"&gt;燃燒&lt;/LSTag&gt;並&lt;LSTag Tooltip="Resistant"&gt;抵抗&lt;/LSTag&gt;&lt;b&gt;[2]&lt;/b&gt;。</content>
+<content contentuid="h9e1c0201g64b6g45fdgbbd3g7eb76ca8a261" version="1">迅捷</content>
+<content contentuid="hf1dd2454gaa39g4299g8b32g8e21464c8bea" version="1">解剖適配</content>
+<content contentuid="h24f2c3aag9b54g4a91g8da7ga31a47217460" version="1">如果妳是&lt;b&gt;卓爾精靈&lt;/b&gt;或&lt;b&gt;偽裝成卓爾精靈&lt;/b&gt;，妳的&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;屬性獲得&lt;b&gt;+[1]&lt;/b&gt;加值（最多達到&lt;b&gt;[2]&lt;/b&gt;）。</content>
+<content contentuid="h5e7fdfd9g83eag4ee8gbf9cgfb05e9b964d5" version="1">暗影藝術</content>
+<content contentuid="h85e45291g3924g4571g9a04g362602d28595" version="1">妳不會引發&lt;LSTag Tooltip="OpportunityAttack"&gt;借機攻擊&lt;/LSTag&gt;。</content>
+<content contentuid="h90cd440fg9f7ag4dfcgae14g8bada7820e53" version="3">當處於陰影中隱蔽時，穿戴者獲得+1的&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;加值。</content>
+<content contentuid="he90c8fddg0939g4675g8bbcgc002bda3ddd6" version="1">力量抓取</content>
+<content contentuid="hf6b75c69g044fg4fa4g9e88gea5ee799b5ec" version="1">造成&lt;b&gt;[1]&lt;/b&gt;時，每回合最多壹次，妳獲得&lt;b&gt;[2]&lt;/b&gt;層&lt;LSTag Type="Status" Tooltip="MAG_ZOC_FORCE_CONDUIT"&gt;導力&lt;/LSTag&gt;。</content>
+
+ <content contentuid="hfc51133cg789fg413eg8cd5g7273d346cf64" version="1">迅速粉碎</content>
+<content contentuid="he671879fgbf11g4f96gb450gebf8328b164f" version="1">當妳造成&lt;LSTag Tooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;時，有&lt;b&gt;[1]%&lt;/b&gt; 的幾率恢復壹個&lt;LSTag Tooltip="Action"&gt;動作&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;每回合最多觸發 &lt;b&gt;壹次&lt;/b&gt;。</content>
+
+<content contentuid="h6be74855g59c6g4a23gae6aga6251a6c64b2" version="1">努力的回報</content>
+<content contentuid="hceccb762g0f70g462fga6c6gd4f8ab317523" version="1">壹個奇特的箱子散發著星界的光芒，吸引著任何冒險家前來打開它。</content>
+
+<content contentuid="hf2c25b94g32a1g42a0gae5bgd3b73ce5749c" version="1">魔法師陷阱</content>
+<content contentuid="h6d92a4cfg4ca0g4330gaed8gf8c04fc8cf65" version="1">魔法封印包裹著這個容器，任何嘗試使用魔法方法打開鎖的冒險者都將面臨生命的終結。</content>
+
+<content contentuid="ha27f1e6fgd212g4b13ga256g3d02c1850179" version="1">修正AI對抗黑暗術</content>
+<content contentuid="h78ae8a48g3d88g451cgbcf9g007932413ba3" version="1">只要有任何玩家角色位於&lt;LSTag Type="Spell" Tooltip="Target_Darkness"&gt;黑暗術&lt;/LSTag&gt;區域內，該生物就會忽略危險區域。因此，當玩家位於黑暗中時，該生物的智能將不會被禁用——這修正了原版遊戲中會導致自動獲勝的問題。</content>
+
+<content contentuid="h4483c52fg5aacg4a07g88c2gc24da06028ea" version="1">召喚弓箭手</content>
+<content contentuid="h7337ad1eg9a2ag43a9gb151gb82be659ebdd" version="1">召喚壹個中等危險的對手，他肯定會試圖以最狡猾的方式殺死妳。</content>
+
+<content contentuid="h20046173g2ea5g472dga291g28dc864041e1" version="1">召喚分身魔</content>
+<content contentuid="h56af65f0gb3fbg4b23gbd65gc88ed0563002" version="1">從星界位面召喚壹種危險生物。可能包含星芒天穹！</content>
+
+<content contentuid="h79a6c379g0061g401eg88abg8f3e25d8448b" version="1">星界寶箱</content>
+<content contentuid="h0bc7ff86gf654g4c05g86dag626da8a21376" version="1">這是壹件來自星界的閃耀容器，散發著古老的能量。它的鎖孔被遺忘星座的陰影所籠罩，等待著那個敢於轉動鑰匙並接受自己命運的人。</content>
+
+<content contentuid="hb22dde3eg727cg460fgae42g24192fffd110" version="1">魔法裝備分解器</content>
+<content contentuid="he90b08a0g431eg4190gb6c1ga816ce8cf471" version="1">將兩件帶有名稱的魔法神器放入轉化器中，以獲得奧術塵埃。</content>
+
+<content contentuid="h464c78e0gb11dg47e8g9ca6gea46b64692b6" version="1">奧術合成器</content>
+<content contentuid="hbbe9ad39g2075g4a90g9c50gf39931895832" version="1">壹個由淬煉金屬制成的立方體，表面覆蓋著壹層蒼白的奧術薄膜，狂暴的閃電從其核心不斷向外迸發，直指水瓶座的星辰。立方體的四個面上鑲嵌著被施了魔法的菱形符文，每個符文都蘊藏著壹種傳送法術。這個器物似乎具有時間的特性，壹旦其中的內容被取出，它便會立即傳送到其創造者身邊。</content>
+
+<content contentuid="h2d242e16gaa65g407cg9cd6g0efb0f35e3f0" version="1">混沌</content>
+<content contentuid="hf0826aedga05bg4917g83d4ge4712495e542" version="1">應用於妳在奧術制作中所有操作的混沌等級。</content>
+
+<content contentuid="h2e57fe2cg3bb3g4c0fg8a2bg234b1a5ab505" version="1">星芒奧秘</content>
+<content contentuid="h7c6b60a7ga553g4c47g84adg30b3a1409987" version="1">綠色水晶穩定器。</content>
+
+<content contentuid="h227888d2ge09eg47ebg974bg491e3d0cfa5e" version="1">共鳴矩陣</content>
+<content contentuid="h16044f5dg6421g479bg9786g0dc22e6ade21" version="1">頂級穩定器</content>
+<content contentuid="he5574836g5a44g466bgb410g2c61d7fd2e87" version="1">靈能計算</content>
+<content contentuid="h1b40cd52g4979g4fdag8be9g913ecc6b0c97" version="1">在合成配方中可替代&lt;b&gt;任意稀有度的水晶或粉塵&lt;/b&gt;，也可作為&lt;b&gt;任意遺物&lt;/b&gt;用於分解。</content>
+
+<content contentuid="h01a04a2bg01b4g4467ga89eg42f1b57178a5" version="1">混沌降低</content>
+<content contentuid="h5f469f6cgb1dbg40e3ga5b9g77a9632a73df" version="1">妳熟練地操控混沌，並在該狀態持續期間減少它。</content>
+
+<content contentuid="h586ae346g516dg4828ga7c8g0cdd8f497604" version="1">天界啟示</content>
+<content contentuid="h58237c08gf13dg434eg9402g175744eabc3f" version="1">對處於&lt;LSTag Type="Status" Tooltip="MAG_RADIANT_RADIATING_ORB"&gt;光耀法球&lt;/LSTag&gt;影響下的目標，造成&lt;LSTag Tooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;所需的&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;數值降低&lt;b&gt;[1]&lt;/b&gt;。此效果可與其他同類效果疊加。</content>
+
+<content contentuid="hd55b581dg319cg4a8egbd85gd746e090c431" version="1">穿甲者</content>
+<content contentuid="h4f2c12f3g06c5g477eg896dge2df9e395020" version="1">使用這個釘頭槌造成傷害時，若目標未能通過體質&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;（&lt;b&gt;[3]&lt;/b&gt;），則其&lt;LSTag Tooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;降低&lt;b&gt;[1]&lt;/b&gt;&lt;i&gt;（最多降低&lt;b&gt;[2]&lt;/b&gt;）&lt;/i&gt;。</content>
+<content contentuid="hf49ae790g6e60g47d9g8fecg1b3363fbb59e" version="1">領袖反擊</content>
+<content contentuid="h3715fd75g3da8g4fbegabdbg7280dfb787f5" version="1">當敵對生物用近戰攻擊妳但未命中時，妳可以使用釘頭槌進行壹次反擊。</content>
+<content contentuid="h5a8bac1ag8a19g4b08gb158g3bd4387e8ad0" version="1">消耗壹個&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反應點數&lt;/LSTag&gt;，使用釘頭槌發動壹次反擊性質的&lt;LSTag Type="Spell" Tooltip="Target_Morningstar_Smite_u"&gt;雷霆打擊&lt;/LSTag&gt;。</content>
+<content contentuid="h7889bed5gb51bg4a17g8796gfa22ab2ef74b" version="1">消耗壹個&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反應點數&lt;/LSTag&gt;，使用釘頭槌發動壹次反擊性質的&lt;LSTag Type="Spell" Tooltip="Target_Morningstar_Smite_r"&gt;雷霆打擊&lt;/LSTag&gt;。</content>
+<content contentuid="h804bc00bgcc17g4fdbgbf89g58a931f59966" version="1">消耗壹個&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反應點數&lt;/LSTag&gt;，使用釘頭槌發動壹次反擊性質的&lt;LSTag Type="Spell" Tooltip="Target_Morningstar_Smite_e"&gt;雷霆打擊&lt;/LSTag&gt;。</content>
+<content contentuid="hcd36450ag428eg4c51ga55dg8c03833130fe" version="1">消耗壹個&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反應點數&lt;/LSTag&gt;，使用釘頭槌發動壹次反擊性質的&lt;LSTag Type="Spell" Tooltip="Target_Morningstar_Smite_l"&gt;雷霆打擊&lt;/LSTag&gt;。</content>
+
+<content contentuid="hbeba98d6g39c3g4b9bg88d5g4ef67379839b" version="1">狂怒增長</content>
+<content contentuid="h414efb5dg8784g4ffeg86f7g8e7a9937207e" version="1">當妳使用此武器對敵人造成傷害時，有&lt;b&gt;[1]%&lt;/b&gt;的幾率&lt;b&gt;恢復&lt;/b&gt;壹個&lt;LSTag Tooltip="Rage"&gt;&lt;b&gt;狂暴&lt;/b&gt;&lt;/LSTag&gt;充能。</content>
+ 
+  <content contentuid="h95896c66gd5a2g4aa7gb3b6gbb21a9b62c65" version="1">血腥裁決</content>
+<content contentuid="h0c9701c0g5adfg46baga76dg8dbc3324dfd1" version="1">當妳對壹名處於&lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;流血&lt;/LSTag&gt;狀態的敵人造成傷害時，妳可以將妳的下壹次攻擊轉化為壹次&lt;LSTag Tooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;每長休僅可觸發&lt;b&gt;壹次&lt;/b&gt;。</content>
+<content contentuid="h9af98912gffc9g41cbg825bg120380df954b" version="1">當妳對壹名處於&lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;流血&lt;/LSTag&gt;狀態的敵人造成傷害時，妳可以將妳的下壹次攻擊轉化為壹次&lt;LSTag Tooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;每短休僅可觸發&lt;b&gt;壹次&lt;/b&gt;。</content>
+<content contentuid="hd26d22e1g420bg4ecbga3d1gd9d07c02aa73" version="1">當妳對壹名處於&lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;流血&lt;/LSTag&gt;狀態的敵人造成傷害時，妳可以將妳的下壹次攻擊轉化為壹次&lt;LSTag Tooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;每場戰鬥僅可觸發&lt;b&gt;壹次&lt;/b&gt;。</content>
+<content contentuid="hc1482355g69b3g4089g8349g54745e3eddef" version="1">當妳對壹名處於&lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;流血&lt;/LSTag&gt;狀態的敵人造成傷害時，妳可以將妳的下壹次攻擊轉化為壹次&lt;LSTag Tooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;每回合僅可觸發&lt;b&gt;壹次&lt;/b&gt;。</content>
+
+ <content contentuid="h68576677g2639g433cgbbbbg9d10b2ffc6bb" version="1">優雅混亂</content>
+<content contentuid="h628306b7g9c34g4ce5g9990g1725a8d4f7bc" version="1">將鋒利的刀刃刺入目標的眼睛，並可能使其因此陷入瘋狂。&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; 僅能對擁有完整眼睛的目標使用。</content>
+  
+ <content contentuid="h0d28b089g7815g4616gb9e1gd780db2413d8" version="1">天界火花</content>
+<content contentuid="h8af0c52fg8b9dg4076ga123gf39e5bb3427c" version="1">妳將受到的&lt;b&gt;[2]&lt;/b&gt;中的&lt;b&gt;[1]%&lt;/b&gt;反擊回去。</content>
+
+ <content contentuid="hafd9a5bdg528bg43f9g8581g023da5c9c8d3" version="1">精靈混沌</content>
+<content contentuid="hc52997fdg6031g4ba0g9b6cg640025fbc2e4" version="1">將此晶體放入奧術轉化器中以召喚混沌的星界激增。妳將會獲得壹個含有&lt;b&gt;隨機獎勵&lt;/b&gt;的魔法時間立方體，該獎勵匹配&lt;b&gt;非普通&lt;/b&gt;稀有度。&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; 混沌的影響有很大的幾率將轉化變成無用物品！</content>
+
+<content contentuid="h72dd5709gc6f6g4253ga85bg5db42668fa63" version="1">耐瑟瑞爾混沌</content>
+<content contentuid="hfd4d5c96g6acdg42c6gb2d3gb839ff89a65e" version="1">將此晶體放入奧術轉化器中以召喚混沌的星界激增。妳將會獲得壹個含有&lt;b&gt;隨機獎勵&lt;/b&gt;的魔法時間立方體，該獎勵匹配&lt;b&gt;稀有&lt;/b&gt;品質。&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; 混沌的影響有很大的幾率將轉化變成無用物品！</content>
+
+<content contentuid="hb707804eg188eg430fg88c0g282709c3a433" version="1">異法混沌</content>
+<content contentuid="h817c5637g0ac8g4558gba5dgf35dc764c4ff" version="1">將此晶體放入奧術轉化器中以召喚混沌的星界激增。妳將會獲得壹個含有&lt;b&gt;隨機獎勵&lt;/b&gt;的魔法時間立方體，該獎勵匹配&lt;b&gt;非常稀有&lt;/b&gt;品質。&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; 混沌的影響有中等幾率將轉化變成無用物品！</content>
+
+<content contentuid="h5d2d0e78g2142g48e9g98c1gf8c17ace7b07" version="1">天界混沌</content>
+<content contentuid="h7c49a4d2gad2fg42a9gb597g318bb594b3ad" version="1">將此晶體放入奧術轉化器中以召喚混沌的星界激增。妳將會獲得壹個含有&lt;b&gt;隨機獎勵&lt;/b&gt;的魔法時間立方體，該獎勵匹配&lt;b&gt;傳奇&lt;/b&gt;稀有度。&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; 混沌的影響有壹定的幾率將轉化變成無用物品！</content>
+
+<content contentuid="h8a753ebbg2e79g4d4cgb079g85b5dae9eee4" version="1">轉換為更高的稀有度</content>
+<content contentuid="h0a065534g53eeg4e2dg90c2gd21d3aaec715" version="1">點擊壹個物品並插入另外3個相同的物品來獲得更高的稀有度。</content>
+
+<content contentuid="hb11c2bb8g1782g4237g8783g6dba7926cf68" version="1">與星界的連接丟失</content>
+<content contentuid="h484ba02bg49d2g4ab7g81a5g6258d00dfb8b" version="1">這個星界工具的力量已經消退，不再起作用。</content>
+  
+  <content contentuid="hee3122ccg5e9ag46f0g803dgf75cf78f2f9f" version="1">這個星界工具的力量已經消退，不再起作用。</content>
+  <content contentuid="ha198dffcg79a8g42b7g970cg91c8989632bf" version="1">這個星界工具的力量已經消退，不再起作用。</content>
+  <content contentuid="he15c56aeg6080g4544g8bcdg03d477447694" version="1">這個星界工具的力量已經消退，不再起作用。</content>
+  <content contentuid="h4cf7beffg4d45g4511gb1eega088856eea5e" version="1">這個星界工具的力量已經消退，不再起作用。</content>
+  
+ <content contentuid="h9fb661ddg071dg1168ga62cg283389075b7e" version="1">打撈者</content>
+<content contentuid="hb03a3180g9c65gf250g6e6fgf0fa37de0ed4" version="1">打撈</content>
+<content contentuid="hb018030ag1afege155g0d1dgc99e95e5d315" version="1">奧術轉化器</content>
+<content contentuid="h23d1d72dg5114gdb49gfa70g01a02aaeb191" version="2">奧術化</content>
+<content contentuid="h8e786608g32c8gdc1fg05a9g94fad711f531" version="1">次要獎勵</content>
+<content contentuid="h346e0e76geeccg0bdcg92a5g42cad22027c5" version="1">不錯獎勵</content>
+<content contentuid="h20644f50g217bg6535gf5c5ge326343888ec" version="1">大獎勵</content>
+<content contentuid="h46152f13g7f01g2f13g89d1g33db9eae2719" version="1">天界獎勵</content>
+<content contentuid="hb6b0ea81g1b7bge0d6ge3a6g5aada45bebf0" version="3">星界燈</content>
+<content contentuid="hb0c10fb7g5750g6010g4c97gf76b79596cea" version="3">這是壹種由流星黃銅結晶而成的星光燈塔，它脈動著星界能量，以穩定變幻莫測的轉化之力，並引導迷失的神器穿越現實與可能性之間的帷幕。</content>
+  
+ <content contentuid="hba0dd3a7g584ag71a9g9133gf5f5f0e7a0f3" version="1">包含壹個&lt;b&gt;非普通（綠色）&lt;/b&gt;稀有度的隨機獎勵——或者壹個由混沌產生的異常物品。&lt;br&gt;&lt;br&gt;壹個粗糙的淬煉金屬立方體被壹層蒼白的魔法薄膜包裹著，狂暴的閃電從其頂端以猩紅的閃光爆發，直指水瓶座的星辰。立方體的四個面刻有附魔符文，每個都包含壹個魔法傳送法術。這個容器似乎具有時間特性，壹旦其內容物被取出，它就會傳送到其創造者身邊。</content>
+<content contentuid="hec63b9begb32dg6182g4ddeg2351ceba63fa" version="1">包含壹個&lt;b&gt;稀有（藍色）&lt;/b&gt;品質的隨機獎勵——或者壹個由混沌產生的異常物品。&lt;br&gt;&lt;br&gt;壹個粗糙的淬煉金屬立方體被壹層蒼白的魔法薄膜包裹著，狂暴的閃電從其頂端以猩紅的閃光爆發，直指水瓶座的星辰。四個面刻有附魔符文，每個都包含壹個魔法傳送法術。這個容器似乎具有時間特性，壹旦其內容物被取出，它就會傳送到其創造者身邊。</content>
+<content contentuid="hc659cb95g515eg3079g2139ga2d35be27ec4" version="1">包含壹個&lt;b&gt;非常稀有（紫色）&lt;/b&gt;品質的隨機獎勵——或者壹個由混沌產生的異常物品。&lt;br&gt;&lt;br&gt;壹個粗糙的淬煉金屬立方體被壹層蒼白的魔法薄膜包裹著，狂暴的閃電從其頂端以猩紅的閃光爆發，直指水瓶座的星辰。四個面刻有附魔符文，每個都包含壹個魔法傳送法術。這個容器似乎具有時間特性，壹旦其內容物被取出，它就會傳送到其創造者身邊。</content>
+<content contentuid="h67ce679dg3b12gcdd6g8bafg0b4102066937" version="1">包含壹個&lt;b&gt;傳奇&lt;/b&gt;稀有度的隨機獎勵——或者壹個由混沌產生的異常物品。&lt;br&gt;&lt;br&gt;壹個粗糙的淬煉金屬立方體被壹層蒼白的魔法薄膜包裹著，狂暴的閃電從其頂端以猩紅的閃光爆發，直指水瓶座的星辰。四個面刻有附魔符文，每個都包含壹個魔法傳送法術。這個容器似乎具有時間特性，壹旦其內容物被取出，它就會傳送到其創造者身邊。</content>
+  
+ <content contentuid="h1b609b4bg03feg38d2gb8b9gfb526756f697" version="1">這是用於從神器中提取星界水晶的打撈站。將獨特的魔法裝備放置於此進行打撈，可獲得與物品稀有度相匹配的壹顆星界水晶。&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt;部分物品可能無法被打撈——這是由於物品的價值被其創造者錯誤配置所致，您應報告此類情況。</content>
+<content contentuid="hbca90baeg779ag0a11g1bd3gdf799e9a01e4" version="1">妳現在擁有了壹個&lt;b&gt;星芒奧秘&lt;/b&gt;水晶！前往營地中的發光平臺，將其插入&lt;b&gt;奧術轉化器&lt;/b&gt;裝置，即可獲得壹個匹配&lt;b&gt;非普通&lt;/b&gt;稀有度的隨機獎勵。</content>
+<content contentuid="h0ff2d5d1gad0cgd018gfaccg233fda535f3c" version="1">妳現在擁有了壹個&lt;b&gt;星芒天穹&lt;/b&gt;水晶！前往營地中的發光平臺，將其插入&lt;b&gt;奧術轉化器&lt;/b&gt;裝置，即可獲得壹個匹配&lt;b&gt;稀有&lt;/b&gt;品質的隨機獎勵。</content>
+<content contentuid="h695d19cfg8508gafbfg6b9fgb10a8259f58b" version="1">妳現在擁有了壹個&lt;b&gt;星芒至臻&lt;/b&gt;水晶！前往營地中的發光平臺，將其插入&lt;b&gt;奧術轉化器&lt;/b&gt;裝置，即可獲得壹個匹配&lt;b&gt;非常稀有&lt;/b&gt;品質的隨機獎勵。</content>
+<content contentuid="h7292b149gd864g2ccfg71d1g9375d95666b3" version="1">妳現在擁有了壹個&lt;b&gt;星芒永生&lt;/b&gt;水晶！前往營地中的發光平臺，將其插入&lt;b&gt;奧術轉化器&lt;/b&gt;裝置，即可獲得壹個匹配&lt;b&gt;傳奇&lt;/b&gt;稀有度的隨機獎勵。</content>
+<content contentuid="h3d532e04gfa87gaf32gbc97g00e5fe596b5f" version="1">這是用於獲取隨機獎勵的奧術轉化器裝置。將壹顆星界水晶放入此容器中，立即獲得壹個含有相應稀有度獎勵的魔法立方體。&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt;由於混沌的影響，獎勵的價值無法保證！</content>
+<content contentuid="h60dde044g9f58gd182gef3ega23f20b9f816" version="1">這是壹個包含妳獎勵的特殊魔法立方體。壹旦妳取出其中所有物品，它就會消失。</content>
+  <content contentuid="h935930a0g76e8g99a3g1011g5c693bf80252" version="1">歡迎來到營地！註意附近的發光平臺——這是壹個重新設計的系統，用於為不需要的裝備物品增加價值！復雜的配方系統已被更簡潔的方法所取代：許多玩家認為之前的系統過於復雜，界面不利於大量制作，而且創建數百個配方的需求嚴重限制了內容擴展的潛力。現在，妳只需將魔法物品放入其中壹個裝置中，它就會自動完成工作！通過打開裝置本身來了解詳細信息。此消息僅顯示壹次。</content>
+<content contentuid="h3e1669f2gbcc5g2342g9368gcbaa2dbf12f5" version="1">&lt;b&gt;妳已啟用隨機戰利品遊戲模式！&lt;/b&gt;&lt;br&gt;&lt;br&gt;這個全面的模組通過添加數千種新的魔法物品、革命性的戰利品分配系統以及眾多遊戲性改動，增強了妳的《博德之門3》體驗。&lt;br&gt;&lt;br&gt;&lt;b&gt;核心系統：&lt;/b&gt;&lt;br&gt;• 奧術轉化器：回收不需要的魔法裝備並生成新物品&lt;br&gt;• REL：專註於平衡性和可重玩性的裝備隨機化技術&lt;br&gt;• AMP：多達壹千種新神器，從背景故事到特殊效果都獨具特色&lt;br&gt;• 小幅修正：彌補了拉瑞安在創建榮譽模式時因時間不足而未能修改的壹些影響挑戰性的內容&lt;br&gt;&lt;br&gt;該遊戲模式旨在無縫集成，為物品系統和角色成長增添無限深度。享受最佳的可重玩性模組吧！</content>
+  <content contentuid="h8fbe0748g1bf4g768ag1572gceb2f3b9ee7e" version="1">%%% FOR FUTURE TUTORIALS %%%</content>
+  <content contentuid="h44c93f6dg1ca4g2d2eg17d2g270288483d9e" version="1">%%% FOR FUTURE TUTORIALS %%%</content>
+  <content contentuid="h3057befdg1431gb061geadbg0d5195484ee5" version="1">%%% FOR FUTURE TUTORIALS %%%</content>
+  <content contentuid="hd3dece51g1d65gfdfdgb802gc53d4ee5fc32" version="1">%%% FOR FUTURE TUTORIALS %%%</content>
+  
+  <content contentuid="h18df2230g8afdg4f93g93ccgf824563e45e9" version="1">置換</content>
+</contentList>

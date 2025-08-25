@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="SkillLists">
+        <node id="root">
+            <children>
+                <node id="SkillList">
+                    <attribute id="Name" type="FixedString" value="Mystic Warden Skills"/>
+                    <attribute id="Skills" type="LSString" value="Acrobatics, Arcana, Athletics, History, Insight, Intimidation, Investigation, Medicine, Persuasion, Religion, Stealth"/>
+                    <attribute id="UUID" type="guid" value="8f907ffc-e101-4de1-8e03-104fdec8b310"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

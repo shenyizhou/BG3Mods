@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h0ccc63c5g0843g495bg962fg32a4eb78df70" version="2">恐惧</content>
+  <content contentuid="h0865a6fdgabc6g4875gafeege38775aad23e" version="3">受影响实体在进行&lt;LSTag Tooltip="AbilityCheck"&gt;属性检定&lt;/LSTag&gt;和&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;时具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。必须逃离恐惧源且无法执行任何额外动作。</content>
+  <content contentuid="he853484fg25d4g4cecga473g6c2f9a634579" version="3">震慑</content>
+  <content contentuid="hde9b5a35g5a1dg4ebegb14dg3830e8213259" version="6">受影响实体必须远离震慑它的生物。&lt;br&gt;&lt;br&gt;除&lt;LSTag Type="Spell" Tooltip="Shout_Dash"&gt;疾走&lt;/LSTag&gt;外，无法执行动作、附赠动作或反应动作，也无法尝试逃脱限制移动的效果。&lt;br&gt;&lt;br&gt;受到伤害后终止。</content>
+  <content contentuid="h760edb22g4043g4b6ag80bage307d49bc2c4" version="2">虚弱</content>
+  <content contentuid="h9668efbeg2ecdg4223gadfbg34da6914cd4f" version="2">使用&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;的武器攻击仅造成半伤。</content>
+  <content contentuid="h36efa902g81b7g4e3eg8137gb6149662d91c" version="2">流血</content>
+  <content contentuid="hc32e5c52g3e8fg420cgbbedgfaf5a2f80b22" version="10">每回合开始时受到[1]点伤害，且进行体质&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;时具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;通过治疗移除。</content>
+  <content contentuid="h6c59bf1dg68d1g42baga2d0gda475d321741" version="4">撕裂伤口</content>
+  <content contentuid="h158578d5gc1feg4b37g848fg1bd3a81f2ab1" version="5">对该生物的攻击额外造成[1]点伤害。通过治疗移除。</content>
+  <content contentuid="hc457b5e0gc836g46bbgae87g98aa55d11b97" version="2">蛛网缠身</content>
+  <content contentuid="h9bfc9679g3ed5g4449g8e08g479a50fc31be" version="5">无法移动。针对受影响实体的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，其攻击检定则具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;也具劣势。</content>
+  <content contentuid="he7339650gce81g44bdga065g148828cacbaf" version="2">束缚</content>
+  <content contentuid="h658fc0e0gfdbcg4a43g8242gb5a58aeabb38" version="7">受影响实体无法移动。针对它的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，其攻击检定和敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;则具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content>
+  <content contentuid="h08166cc8g5846g432cgbdbfg289f214ce12a" version="3">恐慌</content>
+  <content contentuid="hdd315742g68c2g470bga2eagab6d1a97ebf6" version="8">无法移动。处于恐慌状态的实体在进行&lt;LSTag Tooltip="AbilityCheck"&gt;属性检定&lt;/LSTag&gt;和&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;时也具&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content>
+  <content contentuid="hf903fca5gebd7g4f4dgbdc7g1b59d7b669c5" version="2">魅惑</content>
+  <content contentuid="h62d02ee5g1e08g49d7gaaaegba586d14c74e" version="2">无法攻击施法者。施法者在对话中进行魅力&lt;LSTag Tooltip="AbilityCheck"&gt;属性检定&lt;/LSTag&gt;时具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+  <content contentuid="ha0cd52b5g69d0g43a1ga04egcd72df17d70a" version="5">脑热症</content>
+  <content contentuid="h6b0a7d04gaca2g4af0ga00ega5fae40aa36e" version="6">受影响实体的大脑在沸腾的血浆中煎熬。&lt;br&gt;&lt;br&gt;其智力&lt;LSTag Tooltip="AbilityCheck"&gt;属性检定&lt;/LSTag&gt;和&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;具&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;，战斗中表现如同处于&lt;LSTag Type="Status" Tooltip="TIMMASK_SPORES"&gt;困惑&lt;/LSTag&gt;状态。</content>
+  <content contentuid="hca566653g44cag4f05gba85g744322b2249c" version="3">摄心目光：疾病</content>
+  <content contentuid="hc71df9cbg9d0dg4f90gaf98gfa99181a4ee8" version="3">受影响实体进行&lt;LSTag Tooltip="AttackRolls"&gt;攻击检定&lt;/LSTag&gt;和&lt;LSTag Tooltip="AbilityCheck"&gt;属性检定&lt;/LSTag&gt;时具&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content>
+  <content contentuid="hd941469fg0124g4de3g89f0gf737dd76f0a8" version="4">腐热折磨</content>
+  <content contentuid="h1e72df79g9523g431cgacefg97f7bc3e91a7" version="5">受影响实体渗出油性汗液，其&lt;LSTag Tooltip="AbilityCheck"&gt;属性检定&lt;/LSTag&gt;、&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;和使用力量的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;均具&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content>
+  <content contentuid="hc65b2b88g23ecg4b08ga18fg60a0f34369c1" version="5">血肉腐烂</content>
+  <content contentuid="h868862c5g0228g4ca0g8c0bg6b6f1c9d4f3a" version="5">受影响实体在恶臭的腐皮中溃烂，其魅力&lt;LSTag Tooltip="AbilityCheck"&gt;属性检定&lt;/LSTag&gt;具&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;，并对所有伤害具&lt;LSTag Tooltip="Vulnerable"&gt;易伤&lt;/LSTag&gt;。</content>
+  <content contentuid="h81d75334g7295g468dg9354g0d622c7be0c0" version="6">黏稠诅咒</content>
+  <content contentuid="h68f0eef3ga956g4043gb1f1g9b93674ae785" version="5">受影响实体渗出蜡状血液。其体质&lt;LSTag Tooltip="AbilityCheck"&gt;属性检定&lt;/LSTag&gt;和&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;具&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;此外，每当受到伤害时，将&lt;LSTag Type="Status" Tooltip="STUNNED"&gt;震慑&lt;/LSTag&gt;至其下回合结束。</content>
+  <content contentuid="hd58e3781gc50cg486fga2a5gbeab48c9a4c6" version="2">中毒</content>
+  <content contentuid="h0e3666feg49ceg4aebg85feg62e178e4462c" version="3">进行&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;和&lt;LSTag Tooltip="AbilityCheck"&gt;属性检定&lt;/LSTag&gt;时具&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content>
+  <content contentuid="h2ce8013eg1ae1g4bdcgb68bg5e0126001268" version="2">感染</content>
+  <content contentuid="h50978523gb3b7g402cg89abg3063291b9166" version="4">进行体质&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;时具&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;，且&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;降低1点。</content>
+  <content contentuid="h491997e8g34c1g413dgb9a6g7e02cb293b11" version="2">败血症</content>
+  <content contentuid="h7e8caff1gc162g4a08gbf35g9b542316a425" version="2">受影响实体的&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;降低1点，且进行体质&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;时具&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content>
+  <content contentuid="hf6f5e128gfb94g44a3gb71dg33f5142304e7" version="6">癫痫发作</content>
+  <content contentuid="h1e60157ag2154g460ag849agc339c695b8c9" version="7">受影响实体因抽搐而颤抖，其&lt;LSTag Tooltip="AbilityCheck"&gt;属性检定&lt;/LSTag&gt;、&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;和使用敏捷的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;均具&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content>
+  <content contentuid="h87e091d5gf0cbg451ag445agb6fd0d12e732" version="1">虚弱感染</content>
+  <content contentuid="h5ade2d9ag64aagdb37gaf45gad501d1f10ec" version="1">失衡</content>
+  <content contentuid="ha11ca6c2g44e0gb052g42ebg96fb2d3368e3" version="1">受影响实体进行力量和敏捷&lt;LSTag Tooltip="AbilityCheck"&gt;属性检定&lt;/LSTag&gt;时具&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;，针对它的&lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt;则具&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;受到伤害或被&lt;LSTag Type="Spell" Tooltip="Target_Help"&gt;协助&lt;/LSTag&gt;后移除。</content>
+  <content contentuid="hc8c1018bg91f4gac56g3223ge0b2d1f87a35" version="1">冰冻</content>
+  <content contentuid="h85a9d2bcg2756g0f44g2345g02cfa315f832" version="1">受影响实体被冰层完全包裹，进入&lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;失能&lt;/LSTag&gt;状态，并对钝击、雷鸣和力场伤害具易伤。</content>
+</contentList>

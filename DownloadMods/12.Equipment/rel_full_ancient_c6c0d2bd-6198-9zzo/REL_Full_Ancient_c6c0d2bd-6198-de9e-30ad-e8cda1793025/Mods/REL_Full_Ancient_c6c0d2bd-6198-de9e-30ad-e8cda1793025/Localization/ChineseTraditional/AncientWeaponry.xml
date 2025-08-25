@@ -1,0 +1,648 @@
+<contentList date="26/11/2023 15:15">
+  <content contentuid="hf4a61c7ag3c81g4255g9b97gc5be6905fed7" version="1">收藏家的寶箱</content>
+<content contentuid="h2f424f79g3918g474eg95e3g0b0965be4c71" version="1">宏大且充滿殘酷氣息。當妳嚮內望去，映入眼簾的是堆積如山、散發著詭異光輝的利刃。這一切難道是為了即將到來的偉大魔法戰爭所儲備的軍需物資嗎？</content>
+<content contentuid="h4d386151g8a7bg47ebgafd5gd899cfa1f351" version="1">黑穴誅心匕</content>
+<content contentuid="hef13d409g3605g4bd3g95cagb91684beca1d" version="1">此匕首乃一詭譎殘忍之食人邪術師所有，彼常以暖意融融之洞穴誘捕疲於寒冬之旅人。刃鋒之上，火星四濺，且隱隱作響，似在低語</content>
+<content contentuid="hbb34eeb6g2cedg4837gb51fg761db669e4b9" version="1">洞隙裂痕</content>
+<content contentuid="h2f65e028gbfa5g4c8eg9fb2g4318ed291165" version="1">當敵人死於妳的&lt;b&gt;[1]&lt;/b&gt;時，所有&lt;b&gt;非盟友&lt;/b&gt;生物在&lt;b&gt;[2]&lt;/b&gt;範圍內將受到&lt;b&gt;[3]&lt;/b&gt;。</content>
+<content contentuid="h867ec814g91b6g4986gad4ag5fb509f8b1f5" version="1">淆亂之源</content>
+<content contentuid="hf2fb4a38g9b70g4685ga714g8b124f3037b8" version="1">此匕首封印仟年，凡貪婪者得之，必引死與亂於所經之地。持此刃者，權能幾近巴爾之殘影，血脈中翻湧邪神之力。</content>
+<content contentuid="hfabfd3d8g492cg403ag9950gdc4b5216c7a9" version="1">潛怒</content>
+<content contentuid="h74d16b4ag7437g4803g8b45g17d1e24b01fd" version="1">當妳使用法術或戲法造成&lt;LSTag Tooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;時，妳獲得一層數量為&lt;b&gt;[1]&lt;/b&gt;的&lt;LSTag Type="Status" Tooltip="WEAPON2"&gt;熾願&lt;/LSTag&gt;。</content>
+<content contentuid="h6476a934g6ca9g429bg9b05g17aa2ae859b1" version="1">熾願</content>
+<content contentuid="he001b08cg9244g40c0gbe05ga28e7e0d234f" version="1">每層熾願使妳的法術&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;增加&lt;b&gt;+[1]&lt;/b&gt;。在纍積到&lt;b&gt;[2]&lt;/b&gt;層後，妳可以吸收這些層數併獲得數量為&lt;b&gt;[3]&lt;/b&gt;的&lt;LSTag Type="Status" Tooltip="WEAPON2_2"&gt;狂刈&lt;/LSTag&gt;層數。&lt;br&gt;&lt;br&gt;該效果僅會在進行一次&lt;LSTag Tooltip="LongRest"&gt;長休&lt;/LSTag&gt;後解除。</content>
+<content contentuid="h7c696cd9g1d22g48cag9ea0g2281bd4e7667" version="1">狂刈</content>
+<content contentuid="h31e22131g8069g43bdg8034g19c99f7e3838" version="1">妳在法術的&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;上獲得&lt;LSTag Tooltip="Advantage"&gt;優勢&lt;/LSTag&gt;。每層此效果使妳的&lt;LSTag Tooltip="SpellDifficultyClass"&gt;法術豁免難度等級&lt;/LSTag&gt;&lt;b&gt;+[1]&lt;/b&gt;。&lt;br&gt;&lt;br&gt;在使用法術或戲法造成&lt;LSTag Tooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;時，有&lt;b&gt;[2]%&lt;/b&gt;的幾率解除該效果。</content>
+<content contentuid="h58abb0a3g0e06g40acg8bc1gbc95a34f0a4d" version="1">玄冥幽刃</content>
+<content contentuid="hc94642afg346cg441fgb415g3dae98197eac" version="1">遠山幽廟，魂封器皿；仟僧獻祭，刃納萬靈。此匕首自時光塵埃中蘇醒，鋒芒間流轉幽冥之息——仟魂低語，靜待破禁而出。</content>
+<content contentuid="hd17ce16fga0e2g4e10gb519gd7c38d8142c9" version="1">萬靈幽匣</content>
+<content contentuid="h0db3ce0cg15e0g4939gaaaag908bcdec2de4" version="1">在戰鬥中消耗&lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;氣點&lt;/LSTag&gt;，妳會讓自己直到回合開始前都處於&lt;LSTag Type="Status" Tooltip="WEAPON3"&gt;魂能玄鼎&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h8d0ccfd2g3e92g431fga908g9f068d34e48c" version="1">魂能玄鼎</content>
+<content contentuid="hf2dfcc58g2ffeg498cg96f4g93dab4746b7b" version="1">妳的&lt;b&gt;徒手攻擊&lt;/b&gt;&lt;b&gt;額外&lt;/b&gt;造成&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="h90acf48ag8cffg4e45g9424gde9f3e535069" version="1">業終匕首</content>
+<content contentuid="h5e3a9f9dg1e2bg4cc2ga780gca1605299f7e" version="1">城中罪巫所鑄，此刃專救未竟之命。業火焚魂，咒毒蝕骨——凡持此刃者，必承終業之果。</content>
+<content contentuid="h84d8787bg5904g49f9gb7adg55edc0e81094" version="1">終業之斬</content>
+<content contentuid="h83d797c4g41ceg4506g9354g1c036c73b400" version="1">當妳用&lt;b&gt;法術或武器攻擊&lt;/b&gt;未命中敵人時，妳對其施加一個&lt;b&gt;無回合上限的&lt;/b&gt;&lt;LSTag Type="Status" Tooltip="WEAPON4"&gt;咒毒蝕骨&lt;/LSTag&gt;狀態。</content>
+<content contentuid="hbe9a6203gc3d6g4e87gb324gf4c9da4f8d98" version="1">咒毒蝕骨</content>
+<content contentuid="h8bc33c44gc251g4c71g80dbg49b578790a72" version="1">該生物每回合受到&lt;b&gt;[3]&lt;/b&gt;，併且其&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;具有&lt;b&gt;-[1]~[2]&lt;/b&gt;的懲罰。&lt;br&gt;&lt;br&gt;該生物可以在每回合結束時通過一次成功的體質&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;&lt;b&gt;([4])&lt;/b&gt;來驅散此效果。</content>
+<content contentuid="hc7c54a0ag2777g471bg8b74gc56ca3768cf7" version="1">破法之刃</content>
+<content contentuid="ha7d793aagb16cg4165g9771g90605ad79595" version="1">這件奇異的神器由一位遠古宗師打造，據說它能夠撕裂魔網本身，併將其中洶湧的魔力註入持有者體內。</content>
+<content contentuid="h96e95a6cga255g4383gb4f8g7d2da3ce29d9" version="1">強魔之潮</content>
+<content contentuid="ha69c7018ge106g4dc8g8ac7g13e157a55d23" version="1">當妳對法術或戲法的&lt;b&gt;傷害骰&lt;/b&gt;擲出&lt;b&gt;[1]&lt;/b&gt;或更低時，妳可以對該骰子&lt;b&gt;重擲三次&lt;/b&gt;，併每次選擇&lt;b&gt;最佳結果&lt;/b&gt;。對每個法術傷害骰都執行此操作。</content>
+<content contentuid="ha36425a3ge126g4263ga493gb51d78e54931" version="1">幽冥不赦</content>
+<content contentuid="h377ab41bg5be0g429cgafabgd946c12a19f2" version="1">邪性通幽冥，刃鋒封印原主戰死之怨氣。此匕首乃無意義殺戮之見證，持者如執冥獄權柄，吸食生者精魄。</content>
+<content contentuid="ha3c81a87g6d2eg4a2ag97d9gb5a6628c922b" version="1">噬魂奪命</content>
+<content contentuid="he7abbd04g44f5g44e6g9b46gb0748d7abb49" version="1">每次妳在戰鬥中對一個生物使用法術或戲法造成&lt;b&gt;[1]&lt;/b&gt;時，恢復&lt;b&gt;[2]&lt;/b&gt;。每攻擊觸發一次。&lt;br&gt;&lt;br&gt;效果每提升&lt;b&gt;[3]&lt;/b&gt;級增強一次。</content>
+<content contentuid="ha3c0f0a2g6da0g44f5g90bbgd2f7a5801856" version="1">潮痕殘鋒</content>
+<content contentuid="h32a577c3g9036g4083g97b0gcd50567c2eb8" version="1">斑駁銹跡中冷冽生輝，其光如寒門得食之望。此神器蘊含療愈聖力，專為苦戰法師所鑄。</content>
+<content contentuid="hf9a8522agc359g4208g80c1g32608ecb4ae3" version="1">生命之泉</content>
+<content contentuid="h1a1e62f1g72d1g4907g8f85g6616363eee50" version="1">在戰鬥中用法術或戲法治療自己或盟友時，會產生一個治愈雲爆，使&lt;b&gt;[1]&lt;/b&gt;範圍內的所有生物恢復&lt;b&gt;[2]&lt;/b&gt;。&lt;br&gt;&lt;br&gt;每個回合觸發不超過&lt;b&gt;一次&lt;/b&gt;。</content>
+<content contentuid="h55b351efgccb1g498eg861fg3d51a5d48253" version="1">颶罡刃</content>
+<content contentuid="hfef916d2gd49dg4e97g8f65g2a169c1d157e" version="1">刃鋒震顫，風蝕萬象——執此匕首，天地氣機驟變，罡風如刃，撕裂虛空之隙。</content>
+<content contentuid="h6c41932fga5a7g40d9gb63egb27b742391ff" version="1">風霆裂空</content>
+<content contentuid="h8294c6f3g03a9g4908g8c41gb41d4d110d3a" version="1">對戰鬥中的&lt;b&gt;非大型&lt;/b&gt;生物造成&lt;b&gt;[1]&lt;/b&gt;時，將其推開&lt;b&gt;[2]&lt;/b&gt;。</content>
+<content contentuid="h4d6acd88g10edg4479gac84gf9f087af34f4" version="1">天鴉斷空刃</content>
+<content contentuid="h35c590ceg9ec9g48c0gb25eg684020a57105" version="1">雷蝕蒼穹，斷空之怒——昔年君王化鴉巡視，此刃承雷霆之力，卻終為蒼雷所噬，化作血月下的終焉之器。</content>
+<content contentuid="ha5a8d084ge319g4b07ga351ga976da90975e" version="1">羽落雷殤</content>
+<content contentuid="h3146fb9bg1a62g49a8gb4ffg45d1486bbd9e" version="1">在戰鬥中使用&lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;跳躍&lt;/LSTag&gt;或&lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;飛行&lt;/LSTag&gt;時，妳獲得&lt;b&gt;[1]&lt;/b&gt;個&lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;閃電充能&lt;/LSTag&gt;。如果妳已經有&lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;閃電充能&lt;/LSTag&gt;，則只獲得&lt;b&gt;[2]&lt;/b&gt;個。&lt;br&gt;&lt;br&gt;每回合觸發不超過&lt;b&gt;一次&lt;/b&gt;。</content>
+<content contentuid="h194f5562g64dbg44bagbf1bg3e45596cb220" version="1">邪馭之刃</content>
+<content contentuid="h8157ca26g6ec6g4305gb5cfg8d447fd0a61d" version="1">血咒浸刃，命門盡噬——昔日兇夫以鴆酒殘魂，鑄此匕首為嗜血之器。巫師詛咒，命門盡裂，血債終償於刀鋒之下。</content>
+<content contentuid="h4b038ad9g67a0g4a99g99f5g1afddd3a164c" version="1">以命噬命</content>
+<content contentuid="hac0fcb0ag67c2g403ag834cg37983d22995d" version="1">如果妳用法術或武器攻擊未命中一個處於&lt;LSTag Type="Status" Tooltip="CHARMED"&gt;魅惑&lt;/LSTag&gt;或&lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;恐慌&lt;/LSTag&gt;狀態的目標，則恢復一個&lt;LSTag Tooltip="Action"&gt;動作&lt;/LSTag&gt;和一個&lt;LSTag Tooltip="Bonus_Action"&gt;附贈動作&lt;/LSTag&gt;，併受到&lt;b&gt;[1]&lt;/b&gt;。&lt;br&gt;&lt;br&gt;每回合觸發不超過&lt;b&gt;一次&lt;/b&gt;。</content>
+<content contentuid="h85a0b43fge606g47cegbd2dgfd5a8f7543b1" version="1">玄冬寂刃</content>
+<content contentuid="h2c0ff46eg3380g4edeg8be6g670a7b735aff" version="1">昔年冬法師以寂刃凝魂，霜氣鎖魂，寂滅無生——此刃非刀鋒，乃寒夜本身。霜魂余燼，凝魂為冰，噬盡生者血脈。</content>
+<content contentuid="h9c03138cg3f50g4050gbde3gb8bb4ef44f83" version="1">霜華殘跡</content>
+<content contentuid="h001901a6g5650g4240g93ddg0bb5ab7a6c4f" version="1">站在&lt;b&gt;冰凍錶面&lt;/b&gt;上用&lt;b&gt;法術&lt;/b&gt;對生物造成傷害時，妳獲得&lt;b&gt;[2]&lt;/b&gt;。還有&lt;b&gt;[1]%&lt;/b&gt;的幾率目標會被瞬間凍幹致死。</content>
+<content contentuid="hb4f81d11g5b28g46abg878agc05a6d7400e0" version="1">霜雪秘術</content>
+<content contentuid="h974b1cb5g5509g4e4dgb97dg26d852b266cb" version="1">黑巫遺刃</content>
+<content contentuid="he3042c1agfa4cg45c2gb207gd0f5d1c3cfe0" version="1">斑駁匕首曾飲王儲血，盛名酗酒的格雷林以頭顱償罪。雖刃鋒殘損，仍烙印著宿命法師窮途末路的傳奇——每一次揮動皆回響著權謀與毀滅的終章。</content>
+<content contentuid="hf927f96dg7481g48e3gb807gb73eb1163ba9" version="1">怒意浸染</content>
+<content contentuid="h508f6a26g0b38g4871g94e8g3c6b1c2e4e10" version="1">進入&lt;LSTag Type="Status" Tooltip="RAGE"&gt;狂暴&lt;/LSTag&gt;狀態時，恢復所有&lt;b&gt;[1]&lt;/b&gt;環的&lt;LSTag Tooltip="SpellSlot"&gt;法術位&lt;/LSTag&gt;和&lt;LSTag Type="ActionResource" Tooltip="ChannelOath"&gt;引導誓言充能&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;每個戰鬥中觸發不超過&lt;b&gt;一次&lt;/b&gt;。</content>
+<content contentuid="he2d895a5g65c7g4206gbfe0g7109dd2851b8" version="1">孤傲之鋒</content>
+<content contentuid="h77322866gdb57g436dgba08g6d275156407f" version="1">孤傲精靈，自詡不朽——弓影三尺，筆走龍蛇，卻於戰陣失刃，斃命於自矜之禍。寒鋒凝霜，傲骨終碎，血染冰刃，封印狂妄之魂。</content>
+<content contentuid="h29486460g2d87g4425g9ae2gd67d843b07d4" version="1">山靈雷淵刃</content>
+<content contentuid="h8a571f0egd0b7g4af2g8701g9a70f41def67" version="1">十年荒嶺，一刃化靈——棄徒逐山嵐而居，引雷電為盟。今山川俯首，萬獸朝宗，雷淵凝刃，噬盡天地狂暴之力。</content>
+<content contentuid="hefce4f15g9efcg4e06ga24fgea0b6df866fa" version="1">自然共鳴</content>
+<content contentuid="h73c00ac4gaaefg46d6gb884gd3d4a6620773" version="1">使用武器攻擊造成&lt;LSTag Tooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;時，&lt;b&gt;同時&lt;/b&gt;造成&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="h8c0d03cfgdd86g47c2ga45egc8b5df4f126a" version="1">山崩電湧</content>
+<content contentuid="ha56a673eg94d6g49f3ga259g94bb6d279137" version="1">在目標位置召喚一個&lt;b&gt;[1]&lt;/b&gt;帶電錶面，持續&lt;b&gt;[2]&lt;/b&gt;回合。</content>
+<content contentuid="h9af698c9g9a41g407cg8719g3f9c45d75716" version="1">哀慟之刃</content>
+<content contentuid="h3d4ff402g8279g40d5g95fcgf4e2b1fcf6a6" version="1">昔日農夫，妻喪瘟疫，孤身求巫師解救子女。然巫師遭兵圍，其奪匕首相護，巫師贈以秘法，終遭王刑。此刃銘刻無盡悲愴，每揮動皆引命運回響，血痕中滲出詛咒烙印。</content>
+<content contentuid="h327b5a1fgcadag4412ga052g63f2a31485a5" version="1">禁忌實驗</content>
+<content contentuid="h519afd0ege104g4175g95d8g5fd9771b88a8" version="1">對敵人施加&lt;LSTag Type="Status" Tooltip="FEARED"&gt;恐懼&lt;/LSTag&gt;狀態時，妳獲得&lt;b&gt;[1]&lt;/b&gt;個&lt;LSTag Type="Status" Tooltip="WEAPON15"&gt;恐懼真髓&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每個&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;觸發不超過&lt;b&gt;一次&lt;/b&gt;。</content>
+<content contentuid="hd0d0d600g3694g4a52gba1eg5c34edb890d1" version="1">恐懼真髓</content>
+<content contentuid="hf6e538b7g0290g47d0g8e68g7a1f25821658" version="1">&lt;b&gt;超過&lt;/b&gt;&lt;b&gt;[1]&lt;/b&gt;個的恐懼真髓會消失。在&lt;LSTag Tooltip="LongRest"&gt;長休&lt;/LSTag&gt;後消失。</content>
+<content contentuid="hdc16e2e2g614bg4487gb568gab37d92deaec" version="1">魂散</content>
+<content contentuid="h236d502ege451g4cdbgbb9eg10a39aec0873" version="1">當妳未命中敵人時，妳可以消耗一個&lt;LSTag Type="Status" Tooltip="WEAPON15"&gt;恐懼真髓&lt;/LSTag&gt;充能使目標陷入&lt;LSTag Type="Status" Tooltip="FEARED"&gt;恐懼&lt;/LSTag&gt;狀態持續&lt;b&gt;[2]&lt;/b&gt;回合，如果目標未能通過一次感知&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;&lt;b&gt;([1])&lt;/b&gt;。</content>
+<content contentuid="h65e33f54gb36dg4a92gb369g2047ede9d07f" version="1">死神低語</content>
+<content contentuid="h5c08b3c0g9717g4fadgaa0age187d2cbe88f" version="1">暗綠幽芒，噬魂無聲——此刃非血肉所鑄，乃死神之怒凝結。冥淵低語，唯余「不悅」二字，凡觸此刃者，皆承死神終焉之罰。</content>
+<content contentuid="h469e8a17g4a65g423cg8212gd70830b91be1" version="1">死神之怒</content>
+<content contentuid="hd7bae408g2c4ag4b61g8d6fga2ca81f3e94c" version="1">當妳對敵人造成&lt;b&gt;[1]&lt;/b&gt;時，有&lt;b&gt;[2]%&lt;/b&gt;幾率獲得&lt;LSTag Type="Status" Tooltip="WEAPON16"&gt;死神震怒&lt;/LSTag&gt;。</content>
+<content contentuid="h157eb156gce87g42f3gb356gd71f5e22acbf" version="1">死神震怒</content>
+<content contentuid="hb4e0180fg5ddcg42f3ga1fegbe8e0c4de377" version="1">妳的下一個法術、武器或徒手攻擊&lt;b&gt;必定&lt;/b&gt;造成一次&lt;LSTag Tooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;。</content>
+<content contentuid="h275f0cd0gcf0fg47ebgabfegad7e24190e5c" version="1">北盟之刃</content>
+<content contentuid="h76ca76f3gf256g432bg8ce4g61691cad662b" version="1">極北之地，寒霜凝刃——此匕首自幽冥而來，凡觸其鋒者，皆承北境終焉之罰。霜氣鎖魂，液萃蝕骨，血債終償於冰封之刃。</content>
+<content contentuid="hcfde5b34gea4dg46f2gaf3egf0342de3e5ab" version="1">極域魔紋</content>
+<content contentuid="h07493aeagc6ebg482eg825dgb82cfbf49ccf" version="1">擊殺敵人後，妳獲得&lt;LSTag Type="Status" Tooltip="WEAPON17"&gt;液萃之契&lt;/LSTag&gt;效果，持續&lt;b&gt;[1]&lt;/b&gt;回合，每次擊殺可以纍積該持續時間。&lt;br&gt;&lt;br&gt;每個戰鬥中觸發不超過&lt;b&gt;一次&lt;/b&gt;。</content>
+<content contentuid="hf5d5f370g2c2bg454agbe17ge40b91510d2b" version="1">液萃之契</content>
+<content contentuid="h070be6c8ga6a5g438cg8451gd20104297ce4" version="1">妳的&lt;LSTag Type="Spell" Tooltip="Projectile_RayOfFrost"&gt;冷凍射線&lt;/LSTag&gt;和&lt;LSTag Type="Spell" Tooltip="Projectile_RayOfFrost_Monk"&gt;高山酷寒&lt;/LSTag&gt;&lt;b&gt;也&lt;/b&gt;造成額外&lt;b&gt;[1]&lt;/b&gt;。失去此效果時，妳受到&lt;b&gt;[2]&lt;/b&gt;。&lt;br&gt;&lt;br&gt;此效果在&lt;LSTag Tooltip="LongRest"&gt;長休&lt;/LSTag&gt;後不會消失。</content>
+<content contentuid="hc6836d18g5820g458fga30dg150f194e1999" version="1">詭契之刃</content>
+<content contentuid="hf7db803bge5fdg4bfegafdcg031acbcd1ebf" version="1">幽匣封魂，克雷龐詭計——此刃鎖鏈虛靈，契約噬心。持者若妄求奇術，終將墜入蝕痛深淵，血債償於詭譎之契。</content>
+<content contentuid="hf849eb42gc98fg423bgb728gc32e7402637d" version="1">秘契交易</content>
+<content contentuid="he3bf9e09g3261g43baga392g5f8e677463f0" version="1">匕首內的生物說服妳&lt;b&gt;達成一項交易&lt;/b&gt;。每場戰鬥開始時，妳會受到&lt;LSTag Type="Status" Tooltip="WEAPON18_AURA"&gt;蝕痛契約&lt;/LSTag&gt;的影響。</content>
+<content contentuid="h946e3b8eg8660g4a57gb183g8743ba920ecc" version="1">蝕痛契約</content>
+<content contentuid="h76973bbcga2ceg4a92gbd0dg3875ff15d523" version="1">妳在&lt;b&gt;[1]&lt;/b&gt;範圍內召喚的生物獲得&lt;LSTag Type="Status" Tooltip="WEAPON18"&gt;靈界虛縛&lt;/LSTag&gt;狀態。&lt;br&gt;&lt;br&gt;在戰鬥結束時消失。</content>
+<content contentuid="hfe87edc4gd243g4183ga6cbg4b49a8ff43c4" version="1">靈界虛縛</content>
+<content contentuid="h4dcef27cgeb53g40d5g89f6g03c08d193ca8" version="1">該生物在攻擊擲骰上獲得&lt;b&gt;+[2]~[3]&lt;/b&gt;加值。當該生物因任何原因失去此效果時，它會受到&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="h1674bcc2g5e68g40a3ga3d1gfeeaa957e46a" version="1">歌魅幻匕</content>
+<content contentuid="h3431e424ga804g4300gb113g57502a643da6" version="1">浮世幻曲，刃藏魅影——此匕首非為歌喉而鑄，乃行騙者以歌聲惑眾，割袖取囊。一曲終了，或翩然謝幕，或遁入風塵，血債藏於絲弦之下。</content>
+<content contentuid="h6857d001g9ad7g4409g897dg5d58862ee868" version="1">浮世幻歌</content>
+<content contentuid="h9fb6c682g2da7g4f9aga465gcd98c3c760f7" version="1">當妳對處於&lt;LSTag Type="Status" Tooltip="CHARMED"&gt;魅惑&lt;/LSTag&gt;狀態的生物造成傷害時，恢復所有&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附贈動作&lt;/LSTag&gt;。</content>
+<content contentuid="he3e3b8aeg33b2g423fg87f0g1a7686c2c797" version="1">絕境逃生</content>
+<content contentuid="h0b5d2072g4e9eg4c9cga8f2ge6c5afc49a5e" version="1">裂隙不散，終焉凝魂——此匕首以禁忌術法維繫殘軀，凡執此刃者，可於絕境裂隙中窺見不死之光。血債償於裂痕之下，死厄終歸虛無。</content>
+<content contentuid="h53c029afg6871g486cgb4a9ga7d61fec4892" version="1">無盡絕望</content>
+<content contentuid="he0d73c57gac63g4c75gba22g4a4afbdd6f93" version="1">如果妳用這把匕首對敵人造成傷害且妳的生命值不超過&lt;b&gt;[1]%&lt;/b&gt;，則獲得&lt;LSTag Type="Status" Tooltip="WEAPON20"&gt;血脈織生&lt;/LSTag&gt;效果，持續&lt;b&gt;[2]&lt;/b&gt;回合。&lt;br&gt;&lt;br&gt;每回合觸發不超過&lt;b&gt;一次&lt;/b&gt;。</content>
+<content contentuid="h61c2d02bg7d09g49aagbf19gec4af1a20589" version="1">血脈織生</content>
+<content contentuid="h19afb3b2g1241g48b5ga442g4d3f2ac1deb5" version="1">在每個回合結束時，妳恢復&lt;b&gt;[1]&lt;/b&gt;。恢復量取決於妳的等級和&lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;施法能力調整值&lt;/LSTag&gt;。受到傷害時消失。</content>
+<content contentuid="hfc66d82cga684g4688g8ae3g2edae93c3d8f" version="1">邪謀焚魂刃</content>
+<content contentuid="h91868892g5891g4502gbf34g1d1978aa8da1" version="1">王座未穩，匕首先動——奸臣詭計，焚魔噬魂。此刃封印叛賊殘靈，懸於王榻之上，血債終償於陰謀裂隙之下。</content>
+<content contentuid="h6fb424b9g3425g4da7ga778gf9017a21b90f" version="1">靈火滌咒</content>
+<content contentuid="had6fa3a4ge7acg431bg8793gb9b0601ed23b" version="1">進入&lt;b&gt;隱匿狀態&lt;/b&gt;時，消耗一個&lt;b&gt;[2]&lt;/b&gt;環的&lt;LSTag Tooltip="SpellSlot"&gt;法術位&lt;/LSTag&gt;，併獲得&lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_SYNERGY"&gt;奧術協同&lt;/LSTag&gt;效果。如果未消耗&lt;LSTag Tooltip="SpellSlot"&gt;法術位&lt;/LSTag&gt;，則不會發生任何事。</content>
+<content contentuid="h6b581addg254eg4812g9a78g9860122b80fb" version="1">終局之握</content>
+ <content contentuid="h87aa91a1g3241g424fga034g6484eb34efda" version="1">妳的&lt;b&gt;近戰武器攻擊&lt;/b&gt;額外造成&lt;b&gt;[3]&lt;/b&gt;。效果取決於妳的&lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;施法能力調整值&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;當妳退出隱形時消失。</content>
+<content contentuid="h38f658d4gda86g4f08gb9c5g7a7c1af050bd" version="1">弄臣之刃</content>
+<content contentuid="h27a31d58g6647g4a51g9282g76faa19614cd" version="1">笑靨藏鋒，謔魂噬命——此匕首承瘋癲之魂，詭譎之聲。持者如小醜獻藝，一語破九霄，一笑裂萬靈。</content>
+<content contentuid="hffe392c0g93bcg42edga7deg6b50f6cfec6c" version="1">這才是笑話</content>
+<content contentuid="hfc6cc169ga966g4600gbad1g97f15360b6b3" version="1">戰鬥開始時，妳獲得&lt;LSTag Type="Status" Tooltip="WEAPON22"&gt;宮闈笑話&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h0a7a587cgbfdeg45a4gbcb0g6b10ca71c264" version="1">宮闈笑話</content>
+<content contentuid="hde0a8252g7954g4900g8019g0ddc38b67fdd" version="1">妳用法術進行的&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;優勢&lt;/LSTag&gt;，但使用武器或徒手進行的&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Disadvantage"&gt;劣勢&lt;/LSTag&gt;。在回合結束時轉變為&lt;LSTag Type="Status" Tooltip="WEAPON22_2"&gt;酒肆笑話&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;在戰鬥結束時消失。</content>
+<content contentuid="h7b57179dg9b8dg445ag9763gd614195aff00" version="1">酒肆笑話</content>
+<content contentuid="ha00567cegd999g45cdg9e0dg68f67e71fc68" version="1">妳使用武器或徒手進行的&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;優勢&lt;/LSTag&gt;，但使用法術進行的&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Disadvantage"&gt;劣勢&lt;/LSTag&gt;。在回合結束時轉變為&lt;LSTag Type="Status" Tooltip="WEAPON22"&gt;宮闈笑話&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;在戰鬥結束時消失。</content>
+<content contentuid="h3037d10agf026g4effg9eddgcbfbd8f1ef9e" version="1">隱金秘刃</content>
+<content contentuid="h1f628b12g2726g4207gad94gf18eb3825d8e" version="1">隱金秘刃，初鑄於王室典籍，煉金術士以術求金，卻失其鋒芒。仆人偶踏殘刃，終成禁忌之器。</content>
+<content contentuid="hc52945f5gd345g4dc5ga346g5f841a66aaa4" version="1">暗影隨行</content>
+<content contentuid="hb8313bb6gd9e8g461ega641g58cc99775643" version="1">當妳使用這把匕首對一個生物造成傷害時，妳會在接下來的&lt;b&gt;[1]&lt;/b&gt;回合內變得&lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;隱形&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;每場戰鬥最多觸發&lt;b&gt;一次&lt;/b&gt;。</content>
+<content contentuid="h93701cd1g8775g4275g8997g7e3e91daad30" version="1">罪蝕明刃</content>
+<content contentuid="hdbb669c5g9e25g4e36ga0d1gf5c690d4f24b" version="1">此刃映人心——無罪者見眾生惡行，罪人望自身王座。唯有罪孽者可馭此器，罪業蔓延，蝕魂噬命。</content>
+<content contentuid="hb1b81a6bg8daag4cf5g980fgfed2ff6375e7" version="1">唯有罪孽</content>
+<content contentuid="h29b8b03cgb922g4a90g88fbge36ee22c0833" version="1">通過在戰鬥中給敵人施加&lt;b&gt;任何狀態&lt;/b&gt;，妳有&lt;b&gt;[1]%&lt;/b&gt;幾率獲得&lt;b&gt;[2]&lt;/b&gt;個&lt;LSTag Type="Status" Tooltip="WEAPON24"&gt;罪業蔓延&lt;/LSTag&gt;充能。</content>
+<content contentuid="he29fb803gc127g44d4g94f5g85eace025297" version="1">罪業蔓延</content>
+<content contentuid="h83acd3a0g52dbg4dabg95e9g8f0d411a9a98" version="1">對於&lt;b&gt;每個充能&lt;/b&gt;，妳獲得&lt;b&gt;+[1]&lt;/b&gt;點&lt;LSTag Tooltip="Intelligence"&gt;智力&lt;/LSTag&gt;、&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;和&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;，但失去&lt;b&gt;[1]&lt;/b&gt;點&lt;LSTag Tooltip="Constitution"&gt;體質&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;在纍積了&lt;b&gt;[2]&lt;/b&gt;個充能後，妳吸收它們併恢復所有&lt;LSTag Tooltip="SpellSlot"&gt;法術位&lt;/LSTag&gt;和邪術師&lt;LSTag Tooltip="SpellSlot"&gt;法術位&lt;/LSTag&gt;。</content>
+<content contentuid="h67a74892gbfb8g41b6g975dgb696d67c6dc9" version="1">罪火燎原</content>
+<content contentuid="h3194cca5gba83g402fga54age240a8e0a5ea" version="1">在戰鬥中對敵人造成傷害時，妳有&lt;b&gt;[1]%&lt;/b&gt;的幾率對其施加&lt;LSTag Type="Status" Tooltip="HAG_MASKOFREGRET"&gt;悔恨詛咒&lt;/LSTag&gt;，持續&lt;b&gt;[2]&lt;/b&gt;回合。</content>
+<content contentuid="h320fa582g13c1g4adcg8c76gbfba4839b61c" version="1">噬命宿刃</content>
+<content contentuid="h4eabf95dg43b4g4229ga720gf4782e7485ce" version="1">此刃自具靈智，饑渴難饜——預知未來，窺探往昔，改寫因果。然其不為所動，除非主人以血肉飼之。魂飼之下，命格崩裂，因果終歸虛妄。</content>
+<content contentuid="h35293a19g9ff8g48f8gb8beg10be667f6ade" version="1">饑渴難饜</content>
+<content contentuid="h0a97a980g9770g4973g89b2gb8ca29126e6e" version="1">只要妳攜帶這把匕首，它就會要求&lt;b&gt;靈魂&lt;/b&gt;。妳每天開始時都會帶著&lt;LSTag Type="Status" Tooltip="WEAPON25"&gt;刀柄空虛&lt;/LSTag&gt;狀態，併且必須用被詛咒的靈魂來&lt;b&gt;填滿它&lt;/b&gt;。</content>
+<content contentuid="h91fe3c4fg188dg40d3g8b28gb3349b84dee0" version="1">饑蝕魂飼</content>
+<content contentuid="h7888b01bg177bg4209g89ffgc140a227b1f4" version="1">當妳&lt;b&gt;擊殺&lt;/b&gt;一個&lt;b&gt;被詛咒的&lt;/b&gt;敵人時，命運低語會將其刀柄註入一個新的&lt;b&gt;新鮮靈魂&lt;/b&gt;，賦予持有者&lt;LSTag Type="Status" Tooltip="WEAPON25_5"&gt;飽和加成&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;任何詛咒都可以。</content>
+<content contentuid="h7002e61eg22b7g40a3gb416g772952bcc684" version="1">刀柄空虛·饑魂殘鋒</content>
+<content contentuid="hb9dde03egcecdg4332g87d9gde3bf053eb03" version="1">匕首會吸取妳的命運，使妳在所有骰子上擲出的結果減少&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="h19c846ebg90f9g4009gae6bgd03cf2af1ebf" version="1">刀柄微滿 微啟命門</content>
+<content contentuid="h6750a9ddg8e22g49f8g9b0fgdb3c6a6c1e1e" version="1">匕首仍然需要&lt;b&gt;被詛咒的&lt;/b&gt;靈魂。妳在所有骰子上擲出的結果減少&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="h680c75c3g9b6cg41fegb3b7gd7ae731cb212" version="1">刀柄半滿 命軌初現</content>
+<content contentuid="h33d40138gbc1cg401dg9d6aga5b9a8eca373" version="1">柄以&lt;b&gt;被詛咒的&lt;/b&gt;靈魂為食，對妳沒有任何影響。</content>
+<content contentuid="h1aece180g5140g4fdcg8e03g6046851cee7f" version="1">刀柄將滿 命潮湧動</content>
+<content contentuid="h73f9d44agb499g4e68gafc9g955ef5ea71cc" version="1">匕首開始改變妳的命運，使妳在所有骰子上擲出的結果增加&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="h5b343bccgdb15g4d2fg8077g1d73dcaeb4fc" version="1">刀柄飽和 命定之主</content>
+<content contentuid="hf795efc2g6a82g472fg8c54g6087fdbfcaaf" version="1">匕首得到了滋養，併對妳產生奇跡般的效果。妳在所有骰子上擲出的結果增加&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="h3842ee80g33fdg4b58ga807ged171ebd367f" version="1">耀世血鏈</content>
+<content contentuid="h1d052f0bgda8eg4fa3ga622gb966b657cc4e" version="1">古錘承榮光，血瀑封仟載——此鏈錘乃朗戈裏昂所持，兩仟六百年間未染塵埃，唯以血泉為祭，誓守永恆戰意。</content>
+<content contentuid="had173070gb10cg4738g8231g85ff7c79e083" version="1">至臻之輝</content>
+<content contentuid="heda613a1g26d9g4c47gaa50g2190c3271764" version="1">妳的近戰武器攻擊額外造成&lt;b&gt;[1]&lt;/b&gt;。&lt;br&gt;&lt;br&gt;效果受妳的魅力&lt;LSTag Tooltip="AbilityModifier"&gt;調整值&lt;/LSTag&gt;影響。</content>
+<content contentuid="h38bc1fc2g3bf7g4ec9gba1ag63d1cc3ffa6b" version="1">駭世鐵鏈</content>
+<content contentuid="h4c5f0c8cgf799g4a66gbeb1g5a18e3f565fc" version="1">銹蝕如屍骸，血痕凝魂——此鏈錘古舊如屍骨，鏈條垂紅痕，觸目驚心。雖歴仟年風霜，仍能令敵膽寒，鐵鏈所至，唯余絕望回響。</content>
+<content contentuid="hc6926c82g3d8ag4b56g81fag30f7383e287f" version="1">觸目驚心</content>
+<content contentuid="hb815c416g915cg45c7gb046ga9e0c1984622" version="1">被此連枷傷害的敵人必須成功通過一次感知&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;&lt;b&gt;([1])&lt;/b&gt;，否則將陷入&lt;LSTag Type="Status" Tooltip="FEARED"&gt;恐懼&lt;/LSTag&gt;狀態持續&lt;b&gt;[2]&lt;/b&gt;回合。&lt;br&gt;&lt;br&gt;可以作為副手裝備。</content>
+<content contentuid="h231d8d9dg72dbg4d5aga9f0g2643471fa72e" version="1">聖殿之秘</content>
+<content contentuid="he3fc3401gb50ag45b6g9f5bg3912e2f6a149" version="1">沙漠隱廟，古木為神——此鏈錘核心取自供奉之樹殘骸，蠻族焚毀聖木，唯精靈艾爾瑞恩攜樹皮遁世，鑄此神器以承聖樹之恩。</content>
+<content contentuid="h0e071ed2g0a45g47e9gb7b1g90713f47e60f" version="1">聖樹之心</content>
+<content contentuid="h079e6e1eg5248g4e8dgb2b3gb71e049983f4" version="1">在戰鬥中使用&lt;LSTag Type="ActionResource" Tooltip="ChannelDivinity"&gt;引導神力&lt;/LSTag&gt;或&lt;LSTag Type="ActionResource" Tooltip="ChannelOath"&gt;引導誓言充能&lt;/LSTag&gt;時，妳獲得&lt;LSTag Type="Status" Tooltip="WEAPON28"&gt;聖樹祝福&lt;/LSTag&gt;效果，持續&lt;b&gt;[1]&lt;/b&gt;回合。&lt;br&gt;&lt;br&gt;每場戰鬥觸發不超過&lt;b&gt;一次&lt;/b&gt;。</content>
+<content contentuid="h4207b025g87bag4491g865fge8c51a757b94" version="1">聖樹祝福</content>
+<content contentuid="hc49e812agaf03g42c2ga5c5g3ee4415cf842" version="1">妳在&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;上獲得&lt;LSTag Tooltip="Advantage"&gt;優勢&lt;/LSTag&gt;。</content>
+<content contentuid="hefcf6f3bg531ag4141ga907gac25e79a4c58" version="1">命運狩魂</content>
+<content contentuid="he574f24bgf8bag4217gb8b2gbb5a6eb10933" version="1">荒野奇緣，獸魂化刃——此鏈錘乃艾爾瑟瑞恩所鑄，曾以一箭擒雙獸：豺狼人與小精靈。後者以契約為贖身，將豺狼人之魂淬煉為戰器，血與怒凝於鏈影之間。</content>
+<content contentuid="h7532f0e1g0422g4e85g9cb6gdca97646baa8" version="1">豺鬼之怒</content>
+<content contentuid="h68433983g89acg4be8gb1ecg2eab56e89d01" version="1">使用這把武器進行攻擊時，有&lt;b&gt;[1]%&lt;/b&gt;的幾率恢復一個&lt;LSTag Tooltip="Action"&gt;動作&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;可以作為副手裝備。</content>
+<content contentuid="h07373b07g907ag44d8ga683gb7a23f47cc50" version="1">靈感連枷</content>
+<content contentuid="h8e95a6a3gd12dg4c94g955fg18f584798f00" version="1">善能貫刃，隱秘噬魂——此鏈錘承格拉克西婭之秘契，地精女酋曾以靈光為引，率眾徵伐四方。然其獲此神器之秘，至今無人知曉，唯鏈影間閃爍著命運的低語。</content>
+<content contentuid="h9bbb0183g68c7g4d85ga8a0g56fe8231a8fa" version="1">格拉克西婭秘契</content>
+<content contentuid="h3fc88757ga680g4f10g9b6bgb83861eaa221" version="1">通過&lt;b&gt;法術&lt;/b&gt;治療自己或盟友時，目標在剩余的戰鬥中獲得&lt;LSTag Type="Status" Tooltip="WEAPON30"&gt;心靈澄明&lt;/LSTag&gt;狀態。&lt;br&gt;&lt;br&gt;每回合觸發不超過&lt;b&gt;一次&lt;/b&gt;。</content>
+<content contentuid="h4e7940a6ge832g438dga4b6g0f9df3c5d054" version="1">心靈澄明</content>
+<content contentuid="h1aa89788g6336g4b0cg9298g5962720a0969" version="1">該生物思維更加清晰，攻擊更加精准。它在攻擊擲骰時獲得&lt;b&gt;+[1]~[2]&lt;/b&gt;加值。&lt;br&gt;&lt;br&gt;在戰鬥結束時消失。</content>
+<content contentuid="h4c1fbe0dg68b2g42c8gaccegbc74e7547936" version="1">冤魂連枷</content>
+<content contentuid="h73c9f754g944cg41e9g8d41gc7dc1b8de309" version="1">童貞受詛，血鏈封村——此鏈錘乃莫爾甘·澤菲羅斯之兇器，屠戮艾爾瑟瑞恩之無辜，老幼遭戮，男兒戰死。邪巫失其刃，或許天意，唯血鏈長鳴，幽魂不散。</content>
+<content contentuid="h20cb42fege6b5g4040gb8acg4d00693553ec" version="1">冤魂纏繞</content>
+<content contentuid="h657a0187gf0a8g4cdbga2d9gc48f4ad558bb" version="1">當妳對敵人使用法術或戲法時，妳可以施加&lt;LSTag Type="Status" Tooltip="WEAPON31"&gt;摺磨詛咒&lt;/LSTag&gt;，持續&lt;b&gt;[1]&lt;/b&gt;回合。</content>
+<content contentuid="h424d8173gc0b9g449egb473gcd185e61d9ab" version="1">摺磨詛咒</content>
+<content contentuid="hf7d3ea82ge0b6g4383gb525g7d77b33c4e6d" version="1">此生物從&lt;b&gt;所有來源&lt;/b&gt;受到的傷害增加&lt;b&gt;[1]~[2]&lt;/b&gt;。&lt;br&gt;&lt;br&gt;效果的持續時間可以疊加。</content>
+<content contentuid="h9450d0c3g83bdg4477g8e54g716260785713" version="1">潮汐連枷</content>
+<content contentuid="h53e741c2g81f8g4657gaf8cg1f33af6de662" version="1">潮湧之光，海魂封刃——此鏈錘初為漁人所獲，深海秘金鑄，代代傳於海族勇士。然王朝末裔終遭背刺，聖鏈沈淵，潮汐哀鳴，仟年悲歌凝於鐵鏈之間。</content>
+<content contentuid="h122107fcg9e76g4983g8d09g65830f0262ae" version="1">深淵療愈</content>
+<content contentuid="hd313dcecg41aag4fa7g97bfg16d6c6c1bcb1" version="1">當妳用這把連枷對敵人造成傷害時，為自己和盟友恢復&lt;b&gt;[1]&lt;/b&gt;。&lt;br&gt;&lt;br&gt;每回合觸發不超過&lt;b&gt;一次&lt;/b&gt;。</content>
+<content contentuid="hc7908c41gd1e1g4119ga275g34270625d36d" version="1">海潮湧動</content>
+<content contentuid="h513d1651g13abg4974g9d9cg6fe8214ac112" version="1">影族連枷</content>
+<content contentuid="hac4ae76eg0974g46bbgb240g753b82762566" version="1">暗權無邊，影族統治大陸，成員不朽，終因內亂覆滅——此鏈錘承影族殘魂，血鐮裂空，暗影噬命。</content>
+<content contentuid="hc9bfc82egf396g4328g819agadc831c9bfaf" version="1">暗權之懼</content>
+<content contentuid="hfc82fde7g3f82g4494gaa07g6923e005f318" version="1">當妳的&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;低於&lt;b&gt;[1]%&lt;/b&gt;時，在剩余的戰鬥中獲得&lt;LSTag Type="Status" Tooltip="WEAPON33"&gt;影之饋贈&lt;/LSTag&gt;效果。</content>
+<content contentuid="h7e74d784g0afdg469fg8fbdg6d5539b34ff5" version="1">影之饋贈</content>
+ <content contentuid="hefcb2386geaeeg4768gba28g37f82119ccc6" version="1">在每回合開始時，妳恢復一個&lt;LSTag Tooltip="WarlockSpellSlot"&gt;邪術師法術位&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;戰鬥結束時效果消失。</content>
+<content contentuid="h0acc165bg53e3g4a8cg8f63gf49cba4ca255" version="1">血獻之鐮</content>
+<content contentuid="h8678dbe4g5940g4cebgaf99g20ce45b513a3" version="1">赤光灼灼，噬血魔能——此鐮刃柄纏異獸皮，刃鋒可剖熊皮為絲縷。刀身封印饑渴魔力，血色流轉間暗藏深淵之噬。</content>
+<content contentuid="heeab3246g05b0g41f3gbf9ag884ae2e973b9" version="1">血獻之術</content>
+<content contentuid="h668223cag9f35g4bd6g8bcbg31c223ade27d" version="1">受到此鐮刀傷害的生物必須成功通過一次體質&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;&lt;b&gt;([1])&lt;/b&gt;，否則將在接下來的&lt;b&gt;[2]&lt;/b&gt;回合中承受&lt;LSTag Type="Status" Tooltip="WEAPON34"&gt;深血蝕骨&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h9929f0c1gccc2g4c0aga322g3e7e06681a42" version="1">深血蝕骨</content>
+<content contentuid="h55fe83c1g2dc7g44b0gb1e7g1fb60225a1cc" version="1">該生物每回合受到&lt;b&gt;[1]&lt;/b&gt;。&lt;br&gt;&lt;br&gt;如果流血持續時間達到&lt;b&gt;[2]&lt;/b&gt;回合或更久，該生物將額外受到&lt;b&gt;[3]&lt;/b&gt;，且流血效果結束。深層流血的魔法效果可作用於即使免疫流血的生物。</content>
+<content contentuid="hf0b23ec1g7963g4933gb151g473e1f1cec86" version="1">絮風氏族之鐮</content>
+<content contentuid="hfffa93cbg3972g40fag8fa0gda7396b66490" version="1">絕世神器，風語遺刃——此鐮刀曾屬精靈女祭司艾爾瑟琳，歴經試煉，終因古獸圍睏而力竭。氏族咒印銘其上，魔紋流轉間，不竭之契終成絕響。</content>
+<content contentuid="h9ec5ebfcgc333g427agaffbg4c50d78eb493" version="1">氏族咒印</content>
+<content contentuid="h519a0b0ag954ag4120g961agb2c1b52b4e8d" version="1">當妳用這把鐮刀未命中時，獲得&lt;LSTag Type="Status" Tooltip="WEAPON35"&gt;魔紋漩渦&lt;/LSTag&gt;效果，持續&lt;b&gt;[1]&lt;/b&gt;回合。</content>
+<content contentuid="hf8bc2b00gcf36g46f0g940cg95681cb72525" version="1">魔紋漩渦</content>
+<content contentuid="h8aca0ecagf7c6g4317g8507gb27e3d4e9353" version="1">&lt;LSTag Tooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;&lt;b&gt;+[1]&lt;/b&gt;</content>
+<content contentuid="he37bedd0g6d26g4b45gb33bgd9aca2d09151" version="1">不竭之契</content>
+<content contentuid="hfc1a59b2g56acg4b21ga550g575a67a3a4a7" version="1">當妳用這把鐮刀擊中一個生物時，恢復妳所有&lt;b&gt;[2]&lt;/b&gt;環的&lt;LSTag Tooltip="SpellSlot"&gt;法術位&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;每&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;不超過&lt;b&gt;一次&lt;/b&gt;。</content>
+<content contentuid="heb9a84e3g5e98g42fegbea0g3c7e4ffc7e91" version="1">仟星之鐮</content>
+<content contentuid="h3a7cf577g66c2g4816g8113g7c35f3b7f15e" version="1">月輝銘刻，仟星聖鐮——此鐮刀承月神塞倫涅之印，星辰輝耀，歲月不蝕其鋒。持者受女神庇佑，凡舉皆得星輝加護，月華流轉間，命運隨之傾覆。</content>
+<content contentuid="h6a8e2852g942ag4012g8c70gc68fd0d0e2af" version="1">月輝恩澤</content>
+<content contentuid="h6e70f161ga8fcg4676g84f2gcb0f75bfc52f" version="1">當妳使用&lt;b&gt;法術&lt;/b&gt;治療一個生物時，也為他們恢復&lt;b&gt;[1]&lt;/b&gt;。&lt;br&gt;&lt;br&gt;恢復量取決於妳的&lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;施法能力調整值&lt;/LSTag&gt;。</content>
+<content contentuid="hd643de8fg58e6g447bga5fcgac079b7b5177" version="1">星輝庇佑</content>
+<content contentuid="h6b517aa8g5f3ag4779g8c1cg1b0f52aa02a1" version="1">妳對&lt;b&gt;[1]&lt;/b&gt;獲得&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
+<content contentuid="hfb9465d4g3221g4760gb600gea60dde8be3b" version="1">部族狩獵鐮</content>
+<content contentuid="h2e39efa0g9f12g4c70g8ecbgbffc11257190" version="1">骨刃承古巫，腐骨噬巨獸——此鐮刀倉促鑄就，取自巨獸骸骨，鋒芒不顯，然隱秘古魔隨揮動撕裂血肉。獵殺巨獸之刃，部族遺魂凝於鐮影之間。</content>
+<content contentuid="hc28beff0g7e93g42baga238g0d6c789bfa61" version="1">蝕骨震擊</content>
+<content contentuid="hac783056gf96ag4b95ga7e8g770db7c70057" version="1">受到此鐮刀傷害的生物必須成功通過一次敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;&lt;b&gt;([1])&lt;/b&gt;，否則將在接下來的&lt;b&gt;[2]&lt;/b&gt;回合中承受&lt;LSTag Type="Status" Tooltip="WEAPON37"&gt;腐毒蔓延&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h901471a5ga704g4f4eg8bdfgdf38b1587afc" version="1">腐毒蔓延</content>
+  <content contentuid="hf5276004gd7a1g44f2g88c0geee03bd4c22e" version="1">&lt;LSTag Tooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;&lt;b&gt;-[1]&lt;/b&gt;</content>
+<content contentuid="hf68c4a13g6881g4c37g910fg32d7c29a7473" version="1">獸魂噬骨</content>
+<content contentuid="h6254dda1gf88bg4d1cgb80bgb11537914b70" version="1">對&lt;b&gt;野獸&lt;/b&gt;的武器&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;獲得&lt;b&gt;+[1]&lt;/b&gt;加值。</content>
+<content contentuid="h9ca04d0fg5fb0g4104g8545gba63ccfb4358" version="1">暗契之鐮</content>
+<content contentuid="he0e39ee1ge2b0g4857gbc6ag0f55bd0bb766" version="1">血契銘魂，永生噬命——此鐮刀乃阿塔尼克·維蘭特之兇器，曾以仟魂為祭，締結黑契。巫影纏刃，五百年間，女兒已亡，顧問猶存，唯鐮影間回響著血色誓約的悲鳴。</content>
+<content contentuid="h6f09e55fge3ccg472fg9a08g6d23c51f655b" version="1">巫術突襲</content>
+<content contentuid="hcbc2e92cg9d0bg4011g898agf1533ff01c3d" version="1">當妳用這把鐮刀造成傷害時，額外造成&lt;b&gt;[1]&lt;/b&gt;，但會獲得&lt;b&gt;[2]&lt;/b&gt;個&lt;LSTag Type="Status" Tooltip="WEAPON38"&gt;契魂殘影&lt;/LSTag&gt;效果充能。</content>
+<content contentuid="haae81825g341ag4b40gb30eg9ec4a1bb45dc" version="1">契魂殘影</content>
+<content contentuid="hfcc19b0ag9a88g441agac1ag5b2dc03804c6" version="1">妳每有一個此效果的充能就會失去&lt;b&gt;[1]&lt;/b&gt;&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;戰鬥結束時效果消失。</content>
+<content contentuid="hfcf31dcbg164dg4aa3g8eb5g673aaa8c5c94" version="1">詭命長存</content>
+<content contentuid="h2cdd742fg896eg4602gac53g2b654e9f66ed" version="1">造成的傷害&lt;b&gt;-[1]&lt;/b&gt;。當使用&lt;b&gt;目標指嚮性法術&lt;/b&gt;對敵人造成傷害時，妳獲得&lt;b&gt;[2]&lt;/b&gt;個&lt;LSTag Type="Status" Tooltip="WEAPON38_2"&gt;生機煥發&lt;/LSTag&gt;效果充能。</content>
+<content contentuid="hf1556b78g6fc8g468ag8e4bgd50eebe8b17d" version="1">生機煥發</content>
+<content contentuid="h413963e2g36cdg49fbg991ag8f3f30fc3838" version="1">妳的&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;每有一個此效果的充能就增加&lt;b&gt;[1]&lt;/b&gt;。&lt;br&gt;&lt;br&gt;戰鬥結束時效果消失。</content>
+<content contentuid="h5ff1a908g844eg43b5g9fd1g752ba42082ca" version="1">林間細語</content>
+<content contentuid="h23a80a4cg9b51g413aga0f6gb712d9d94142" version="1">森羅聖刃，地脈噬魂——此鐮刀承西凡納斯之賜，德魯伊以之守護低語林。然叛徒執此刃，斬斷神木，仟年翠影化為焦土。刃鋒所至，地脈哀鳴，纏根之契終成絕響。</content>
+<content contentuid="h35925a6ag9396g44ecgb699g442a6d9d5209" version="1">地脈神威</content>
+<content contentuid="h5a5b39d2gf734g49fagae5eg60f84b56e352" version="1">在每回合開始時，自然的力量覺醒，如果所有半徑為&lt;b&gt;[2]&lt;/b&gt;範圍內的敵人未能通過一次敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;&lt;b&gt;([3])&lt;/b&gt;，則會被&lt;LSTag Type="Status" Tooltip="ENSNARED_VINES"&gt;纏繞&lt;/LSTag&gt;。</content>
+<content contentuid="h52e47bc0gd8d1g4b2fga2ebgbdef0a07e488" version="1">纏根</content>
+<content contentuid="hf7853902g79adg4e33ga8a8g265f241f5a96" version="1">齊爾瑞克斯之牙</content>
+<content contentuid="h5d104ad8g29d4g4dc2g8a94g2215e6beb160" version="1">血色深淵，遠古噬魂——此獠牙乃齊爾瑞克斯之殘骸，曾以仟人骨為食，獠牙所至，血霧凝魂。哈什卡拔其齒，銘詛咒於刃鋒，獠牙終成禁錮之力的永恆見證。</content>
+<content contentuid="h9404f6ebg85c1g4f7dg99fdg65476cbd23cf" version="1">毒腺</content>
+<content contentuid="h3d614929gb0edg4220g8e68gbd3f812f2add" version="1">受到這把鐮刀傷害的生物必須成功通過一次體質&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;&lt;b&gt;([1])&lt;/b&gt;，否則會在接下來的&lt;b&gt;[2]&lt;/b&gt;回合中被施加&lt;LSTag Type="Status" Tooltip="WEAPON40"&gt;僵毒蝕骨&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h8bb1b2c6g2968g497bgb31fg4f1e161f0abc" version="1">僵毒蝕骨</content>
+<content contentuid="hcf22cd19g065eg46c3gaed6g65e47da6dc43" version="1">該生物&lt;b&gt;不能&lt;/b&gt;恢復&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;或&lt;b&gt;移動&lt;/b&gt;。</content>
+<content contentuid="h0d552413g52feg4ca7g8080g13ee881804a6" version="1">遠古詛咒</content>
+<content contentuid="h48ec1dcag04d4g4390g8188gbcd934ed8c2a" version="1">成為妳&lt;b&gt;升環法術&lt;/b&gt;目標的敵人必須成功通過一次感知&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;&lt;b&gt;([1])&lt;/b&gt;，否則會遭受&lt;b&gt;[2]&lt;/b&gt;個&lt;LSTag Type="Status" Tooltip="WEAPON40_2"&gt;虛弱詛咒&lt;/LSTag&gt;效果充能。</content>
+<content contentuid="h6343d620g0ee1g4509g9e38g086a4a9bc100" version="1">虛弱詛咒</content>
+ <content contentuid="hc89727cag737ag446dgb54bg8990a80df4b9" version="1">該生物每回合開始時失去&lt;b&gt;[1]&lt;/b&gt;點體質併消耗其&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附贈動作&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;戰鬥結束時效果消失。</content>
+<content contentuid="h092ede8fgcd63g4ce1gb13eg2fa2d49b86b2" version="1">血月</content>
+<content contentuid="h07e0801dg9e52g4494gbb3agffef10e183a7" version="1">紅月癲狂，血咒噬魂——此刃承血月瘋疫之殘魂，曾以骨血為食，吞噬村鄰。學者法師封印末代感染者靈魂於刃鋒，仟年血月終成詛咒與恩典交織的禁忌之器。</content>
+<content contentuid="hb1fdd683g7644g4eeagab7cg91dd4db87be1" version="1">血色癲狂</content>
+<content contentuid="hca63c5bagd41cg4b8bga112g57fecd6ffa5e" version="1">當妳用此武器攻擊敵人時，有&lt;b&gt;[1]%&lt;/b&gt;的幾率對該敵人施加&lt;LSTag Type="Status" Tooltip="WEAPON41"&gt;血詛烙印&lt;/LSTag&gt;，持續&lt;b&gt;[2]&lt;/b&gt;回合。</content>
+<content contentuid="hccfe4651gb92fg473eg915dg160cedc4097e" version="1">月蝕頓悟</content>
+<content contentuid="h3e15555ag5d7dg4178g924dg837c090eea35" version="1">對敵人施放&lt;b&gt;法術&lt;/b&gt;時，有&lt;b&gt;[1]%&lt;/b&gt;的幾率對該敵人施加&lt;LSTag Type="Status" Tooltip="WEAPON41"&gt;血詛烙印&lt;/LSTag&gt;，持續&lt;b&gt;[2]&lt;/b&gt;回合。</content>
+<content contentuid="hf288498dg990dg4b48gb59bga7b760bb89d8" version="1">血詛烙印</content>
+<content contentuid="ha2733946gf54fg403bg821fg814821a28943" version="1">該生物在回合結束時受到&lt;b&gt;[1]&lt;/b&gt;。持續時間可以疊加。&lt;br&gt;&lt;br&gt;如果生物在該詛咒生效期間死亡，施加者獲得&lt;LSTag Type="Status" Tooltip="WEAPON41_2"&gt;血月恩典&lt;/LSTag&gt;，持續&lt;b&gt;[2]&lt;/b&gt;回合。</content>
+<content contentuid="hf03c6499gc72dg4880g89d5gac750803f19c" version="1">血月恩典</content>
+<content contentuid="h7340b90fg5a11g42a1gb228g34ab55a007df" version="1">妳每回合結束時恢復&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="ha53740b1ga1f5g401dg9f23ga3bd4bbce9ca" version="1">命運短弓</content>
+<content contentuid="h59ef134cge6cfg4b53g8697g2c1edb252985" version="1">古時，匠師岡多以矛術聞名，能一矛刺穿百米古橡之巔。某年，王室舉辦比武大賽，權臣塞弗林暗中操控規則，令諸匠師皆得劣器，唯其子可持神器奪魁。岡多識破陰謀，自巫師處購得精准附魔，以凡木鑄短弓，箭鋒如月華般精准。然賽前夜，塞弗林派密探潛入岡多住所，誣其私藏禁術，將其斬於市井。短弓雖入皇庫，箭矢卻銘刻匠魂——每一發皆攜命運之力，直指篡權者心臟。</content>
+<content contentuid="hd2cac7ebg81deg4560ga08cg46442342e743" version="1">精准附魔</content>
+<content contentuid="hc7fdd2abga82ag419egb7f3geb4218cc22e9" version="1">使用這把弓進行&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;時，妳獲得&lt;b&gt;+[1]~[2]&lt;/b&gt;加值。</content>
+<content contentuid="ha351b740g9116g4e0fg83f9g030addb50eba" version="1">戰鋒短弓</content>
+<content contentuid="h7f7c1d09g7962g49aegb3a3ge210cc5be0ad" version="1">此短弓為戰士之完美化身，弓柄如握命運之手，弓弦似挽星辰之力。凡弓箭大師皆可駕馭，唯願此神器終落善者之手，而非戰火焚城之禍。</content>
+<content contentuid="hf74b814ega24dg489cg994dg325c67be3a22" version="1">戰魂共鳴</content>
+<content contentuid="h9ffd2e83ga20fg4a04g8458ge5f27f5150a4" version="1">妳對&lt;b&gt;類人生物&lt;/b&gt;造成額外的&lt;b&gt;[1]&lt;/b&gt;。使用這把弓進行&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;時，妳的命中率增加&lt;b&gt;[2]&lt;/b&gt;。&lt;br&gt;&lt;br&gt;效果每升&lt;b&gt;[3]&lt;/b&gt;級提升一次。</content>
+<content contentuid="h0a89d709g1851g49f0gb8a0g2f9dd7452894" version="1">精靈短弓</content>
+<content contentuid="hbcf919b0g092cg4048g8534gba2d11415002" version="1">此短弓承遠古精靈之巧思，弓弦鋒利可斷巨靈之軀，附魔精魄流轉仟年不朽。凡持此弓者，皆得精靈血脈的精准與永恆之力，箭矢如月華般穿透命運之幕。</content>
+<content contentuid="h77b8b87bg73ddg4d99g8f2egfb64f87c38c9" version="1">精靈之准</content>
+<content contentuid="he5652799gd8eeg4ab9g83f8gd2d2a55c26df" version="1">用這把弓進行&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;時，擲出&lt;b&gt;[1]&lt;/b&gt;或更少的骰子結果可重擲。</content>
+<content contentuid="h2c483d32gabc6g4992g8c6dg392b1ed9d8fa" version="1">逐影遊獵弓</content>
+ <content contentuid="h947b8ab4g8aa8g4266gb6bcg8929c82561e3" version="1">此弓乃遊牧半人馬昔日用於襲殺類人生物的古器之一。其內蘊含奇異力量，箭矢疾射時在空中劇烈震顫，所過之處皆造成致命撕裂傷。</content>
+<content contentuid="h32863387g9295g42a0g91efgcc3fcb1c643e" version="1">遊牧聖藝</content>
+<content contentuid="h50542b6dg80a1g4d3eg8deag34c2f748b9f2" version="1">受到此弓傷害的生物必須成功通過一次體質&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;&lt;b&gt;([1])&lt;/b&gt;，否則將會遭受&lt;LSTag Type="Status" Tooltip="BARBED_ARROW"&gt;裂地&lt;/LSTag&gt;。</content>
+<content contentuid="hfeb99cb2g0a74g44b0gb1acg632488214cd3" version="1">漂浮短弓</content>
+<content contentuid="he76a5723g3f79g46d5g9e47g2f5dc759a0cb" version="1">卓爾族獨行客拉赫奈羅，遊歴幽暗地域之險惡之路。其弓鑲有隕獸之晶，使其暫浮於地，縱躍如風，墜亦無傷。然其警覺漸失，終為卓爾狂徒所弒於夢中。</content>
+<content contentuid="h6a50bba6g59e5g46c5ga988g25b94b4f4171" version="1">漂浮水晶</content>
+<content contentuid="hdd4d2eb8g5eb6g4f3cg8025g5e8c424fe279" version="1">墜落傷害&lt;b&gt;減半&lt;/b&gt;，&lt;b&gt;跳躍距離&lt;/b&gt;增加&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="h1b86d346g92a4g41e3gbdb6g59e8277b9f9a" version="1">幸運短弓</content>
+<content contentuid="hef930158g1900g4187g9b60g0dee13313432" version="1">這把精致的短弓由皇家兵工廠制造，其明顯的光芒證明了強大的附魔。</content>
+<content contentuid="hbefe8374gc81cg4809ga436g77de0ae50fed" version="1">盜獵者短弓</content>
+<content contentuid="h31014573g3c43g455cga34cg2272179a4432" version="1">盜獵者結幫作亂，阻王狩於封地。王辛尼庫斯一世下令肅清，首惡當受四分屍首之刑以儆眾。然守衛智取，驅馴野豬入林，當場擒獲數盜。酷刑之下，匪徒吐露同黨藏身之處。此魔弓隨其贓物盡歸守衛，以嘉其擒賊之巧思。</content>
+<content contentuid="h94d78685g4091g431cg8be6g01e82eaeb637" version="1">獸語咒令</content>
+<content contentuid="h69fc6685g4bc5g491fg96bfga40feac287f9" version="1">用這把弓攻擊&lt;b&gt;野獸&lt;/b&gt;或&lt;b&gt;邪魔&lt;/b&gt;時，妳造成額外&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="he9cacadbgcce3g47ebg93deg767cd35fd61b" version="1">聖月輕弓</content>
+<content contentuid="haf698339gd27dg4abeg8319g04d3f87fd950" version="1">銀質弓身仿佛沐浴在皎潔月輝中，為所有持弓者帶來希望。這件神賜之器從遠古塵封中出土，或許本該永眠於時光深處——但它卻重返塵世，靜候改變仟萬人命運的時機。</content>
+<content contentuid="h790ac3a6g7882g4623g9a62gaa093a702f15" version="1">至聖祝福</content>
+<content contentuid="h9d0669e4g3382g4925gadaeg0b2a6eeaaf44" version="1">用此弓未命中生物時，妳獲得&lt;b&gt;[1]&lt;/b&gt;個&lt;LSTag Type="Status" Tooltip="WEAPON49"&gt;月輝輕盈&lt;/LSTag&gt;充能。</content>
+<content contentuid="h577256ebg8ee4g4650g8f88g20782d4a038b" version="1">月輝輕盈</content>
+<content contentuid="h8778f0baged93g493cgaf37ged2f41871eb0" version="1">每個充能效果為遠程武器的&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;提供&lt;b&gt;+[1]&lt;/b&gt;加值。不會在&lt;LSTag Tooltip="LongRest"&gt;長休&lt;/LSTag&gt;後消失。&lt;br&gt;&lt;br&gt;當用遠程武器命中時效果消失。</content>
+<content contentuid="h13f6d230gb940g4471ga262g67cbb1e27f58" version="1">懶人冒險弓</content>
+<content contentuid="had97b110gc3dcg4993g8401g838ae2110282" version="1">阿德裏拉克常奉王廷之命，周旋於詭譎政局——或以智謀，或以武力破局。彼時，其麾下聚三傑：術士涅格勒斯、盜賊舒恩與靜默谷聖武士。此弓乃術士附魔之物，箭矢縱鬆弦亦貫力如虹，助其黨羽屢出險境而毫發無傷。</content>
+<content contentuid="h573c550ageed2g4edeg9bb1g6a5e95dd0246" version="1">力道增幅</content>
+<content contentuid="h69e40308g5318g4351g85c6gb562ac542cd4" version="1">這張弓的&lt;b&gt;傷害骰&lt;/b&gt;結果不會低於&lt;b&gt;[1]&lt;/b&gt;。&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; 所有影響該弓傷害的額外傷害骰結果也不會低於&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="h33da95b1g649fg4ccag8b95g9bb2d6ed6feb" version="1">雷霆短弓</content>
+<content contentuid="hc7e3bfe3gabc3g457agb3d4gc9c6e64c5c93" version="1">遠古雪峰絕頂，有僧修馭雷秘法及諸天之力。群雄慕其術，然僧拒之，以凡人不可窺天之秘。奧萊恩部族野蠻人懷恨，借巫師之力降咒於僧，迫其下山求醫。巫師伏於塵世，屠僧囚魂於詛咒器皿，其魂碎片亦入野蠻人之弓，貫雷霆之勢。</content>
+<content contentuid="h65312303g8a59g41bdgbc90gbb61c1fca8db" version="1">雷霆貫虹</content>
+<content contentuid="hfec8aef8gcdb1g4e73ga30ag5706349c9420" version="1">受到此弓傷害的生物必須成功通過一次力量&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;&lt;b&gt;([1])&lt;/b&gt;，否則被擊退&lt;b&gt;[2]&lt;/b&gt;。</content>
+<content contentuid="h91894a2dgcc01g4625gad4ege68130a747ca" version="1">蛇紋短弓</content>
+<content contentuid="h071a412dg2e5bg403dg8743g4b89342c4fae" version="1">神秘的黏液覆蓋在弓的手柄上，魔法地為所有從其發射的箭矢塗上強力毒藥。</content>
+<content contentuid="h44fa1a79ga731g4f52g89a4gf72547d7c0de" version="1">大地勇士之弓</content>
+<content contentuid="h7a0f0e62gd571g4646g9ff0gaf9b91a6f5ec" version="1">昔有遊牧勇士，少時為古王所奴，淪為角鬥之奴。其弓術超群，屢勝群雄，終獲不屈之弓——此弓助其復力若初，戰而不疲，如烈火灼天。</content>
+<content contentuid="hcf0dc91bg1078g4657g8f92gbefbed9d30e8" version="1">不屈戰魂</content>
+ <content contentuid="haed057f5g5aa0g4554gbf3fg9f724ad1f174" version="1">用此弓對生物造成傷害時，妳有&lt;b&gt;[1]%&lt;/b&gt;的幾率恢復一個&lt;LSTag Type="ActionResource" Tooltip="SuperiorityDie"&gt;卓越骰&lt;/LSTag&gt;。</content>
+<content contentuid="h2b5176d2g5bdbg4dcegac6agf57458d92672" version="1">火焰使者</content>
+<content contentuid="h03f4b3b4g408bg46c9g9c5bg47db870cd17d" version="1">此神器初由半神所賜，箭鋒可燃敵身如火。仟年滄桑，魔力雕零，唯余殘燼——今箭矢雖不焚人，卻令中者血肉如焦炭崩裂。</content>
+<content contentuid="h1005bfb6g0decg4e6ag8475g499bbfe8ad7d" version="1">殘燼魔力</content>
+<content contentuid="he1552314g79d2g412bga8fdg248357ba52fd" version="1">使用此弓攻擊處於&lt;LSTag Type="Status" Tooltip="BURNING"&gt;燃燒&lt;/LSTag&gt;狀態的目標時，妳有&lt;b&gt;[1]%&lt;/b&gt;的幾率造成一次&lt;LSTag Tooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt;該效果也會對受到&lt;LSTag Type="Status" Tooltip="BURNING_HELLFIRE"&gt;地獄火&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="BURNING_HOLY"&gt;聖火&lt;/LSTag&gt;或其他類似燃燒效果影響的目標觸發。</content>
+ <content contentuid="h27244d37gc60cg4bbag9bf5g83f6b1b19733" version="1">北境聖弓</content>
+ <content contentuid="hf1a54381gafeag4223g8133gf9ef28492fb5" version="1">雪原巨獸橫行，北方族以仟祭獻於寒神，得贈此弓。弓弦凝霜魄，箭鋒貫極光，一擊可誅百丈妖獸，萬獵手難及。</content>
+<content contentuid="hb673d791g78e3g400cg95dbg13c476cf8422" version="1">霜魄穿心</content>
+<content contentuid="h43150863g0a07g45f3g86f6g0281e44feccb" version="1">當對具有&lt;b&gt;[3]&lt;/b&gt;&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;或更多的生物進行遠程武器攻擊併造成傷害時，妳會額外造成&lt;b&gt;[1]&lt;/b&gt;。</content>
+ <content contentuid="h66d0c65ag60ffg4778g8474g053e0a0a7b04" version="1">幽林守禦短弓</content>
+<content contentuid="hd01fa9efg43bbg446egb314gbaa5eea49049" version="1">幽林未寧，伐木者眾。德魯伊屢拒侵擾，然敵潮洶湧，大德魯伊西凡納斯祈求聖賜。神憫其仆，降神器於林間，可禦強敵。然兩世紀後，林終遭劫——非由外寇，乃因內謀。</content>
+<content contentuid="hdbe72ff9g56fbg431bgac0eg1db17d78830e" version="1">西凡納斯神賜</content>
+<content contentuid="h672974bag4150g45bfg97c0g46d9ef3dde9f" version="1">受到此弓傷害的生物必須成功進行一次敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;&lt;b&gt;([1])&lt;/b&gt;，否則將被&lt;LSTag Type="Status" Tooltip="ENSNARED"&gt;纏繞&lt;/LSTag&gt;。</content>
+<content contentuid="ha5b15eebgbbcbg4a6fgbe52g4d3968c8520a" version="1">紮利姆卡納爾</content>
+<content contentuid="ha4df3587g0b09g41aagb15cg2d8a71544643" version="1">此鎏金短弓，鑲金錯玉，乃古國皇械庫之明珠。傳說其箭可奪敵生力以愈己傷，仟年流轉，終歸守衛隊長安克姆·紮利姆卡納爾之手——此弓亦以其名傳世。</content>
+<content contentuid="h63380fd2g690cg42a5g8727g0aaa6c39b88a" version="1">侵襲療法</content>
+<content contentuid="h69f70363gbecag4e1dga1f8g6c2dca2fb5a5" version="1">使用此弓對敵人造成傷害時，妳將恢復&lt;b&gt;[1]%&lt;/b&gt;的&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;。</content>
+<content contentuid="hce3aa73cg6a26g4250ga285gc8fd4ef3463b" version="1">宿命獵影短弓</content>
+<content contentuid="h07d193f9g5071g4114g8111ge025583d4856" version="1">淵源不明之弓，附魔賜主以無雙敏捷。歴經百戰，箭鋒所指，敵軍潰散，持者屢次化險為夷。</content>
+<content contentuid="h9d853a59g1ee4g4af9gb070ga0a1c69f26ff" version="1">天穹仙子短弓</content>
+<content contentuid="h39f5e499gd653g44degbe5cg485210f03efc" version="1">山巔仙子，永生之夢。克雷格飲其血，屠仙求不老；齊爾克織發為弦，弒兄以贖罪。弓弦貫雷光，血肉化魂，終隨主人老去，靜默於塵世。</content>
+<content contentuid="h528480cegb8acg4edfg8969gf56ecd60b029" version="1">電光附魔</content>
+<content contentuid="h4232ba80g1863g4516gbc65g6c6e3960a53a" version="1">使用此弓對&lt;LSTag Type="Status" Tooltip="WET"&gt;潮濕&lt;/LSTag&gt;狀態下的生物造成傷害時，會在其腳下創造一個&lt;b&gt;[1]&lt;/b&gt;的&lt;b&gt;電擊水窪&lt;/b&gt;，持續&lt;b&gt;[2]&lt;/b&gt;回合。</content>
+<content contentuid="h12ac9c00gf348g4ab7gbbbag119d0f0f6fc9" version="1">絕命神弓</content>
+<content contentuid="h5bcb912ag2ae6g4533gb463ga4f0555509eb" version="1">昔有地底侏儒執此神兵，獵灰矮人諸王而無往不利。箭鋒貫古魔障，無人可擋其鋒——然其鑄主與前持者，皆成謎霧。</content>
+<content contentuid="hb45b7353g843ag4d1cg8759g4f0a1dd62beb" version="1">積勢</content>
+<content contentuid="h8d83ffb5g8121g4f69gafe2g9d1768d61e94" version="1">用此弓擊殺敵人時，妳獲得&lt;b&gt;[1]&lt;/b&gt;個&lt;LSTag Type="Status" Tooltip="WEAPON60"&gt;絕命神箭&lt;/LSTag&gt;充能。&lt;br&gt;&lt;br&gt;每回合最多觸發&lt;b&gt;一次&lt;/b&gt;。</content>
+<content contentuid="h96d8fcc7gfe71g4e46ga473g523776108668" version="1">破勢</content>
+<content contentuid="h30c6356fgd88cg4f6eg99c1ge1b800f0715e" version="1">用遠程武器造成&lt;LSTag Tooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;時，妳失去&lt;b&gt;[1]&lt;/b&gt;個&lt;LSTag Type="Status" Tooltip="WEAPON60"&gt;絕命神箭&lt;/LSTag&gt;充能。</content>
+<content contentuid="hfbd8db05g4cadg4039g9880g04eebd602cf0" version="1">絕命神箭</content>
+<content contentuid="h1ca9c680g6599g45edgb0b7ge95c1199900a" version="1">用遠程武器造成&lt;LSTag Tooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;時，這次攻擊的效果是正常情況下的&lt;b&gt;三倍&lt;/b&gt;。</content>
+<content contentuid="h3100add4gf324g4691gb19dg64cf02ed76f4" version="1">巧藝長弓</content>
+<content contentuid="hd62e77aeg1dc8g42e8g8bd6gb3f388831fa8" version="1">凡人難避十箭齊發，唯此弓主可禦，蓋其弓賦非凡之力。弓弦凝巧意，箭鋒貫靈光，持者身化風影，箭雨不侵。</content>
+<content contentuid="h3aa80fdeg09ccg4c39gb701gbeae279e88bf" version="1">吉吉格</content>
+  <content contentuid="ha6a4eea6g7d1cg41b5g9092g8813e999cee8" version="1">在古侏儒語中，“吉吉格”意為“渺小”。每次箭矢離弦，皆令目標縮小至侏儒的平均尺寸。此後，無數侏儒王以此弓與其他種族決鬥，常於對抗獸人時以弱勝強，立下赫赫戰功。</content>
+<content contentuid="h06f71e7ag0d93g4abfg8732g610c1b91c227" version="1">均勢之射</content>
+<content contentuid="h2afe884dgf10ag4a50ga5bfge07e17d0cd4f" version="1">用此弓對生物造成傷害時，有&lt;b&gt;[1]%&lt;/b&gt;的幾率對其施加&lt;LSTag Type="Status" Tooltip="WEAPON62"&gt;渺縮術·初階&lt;/LSTag&gt;效果，持續&lt;b&gt;[2]&lt;/b&gt;回合。重復攻擊將施加&lt;LSTag Type="Status" Tooltip="WEAPON62_2"&gt;渺縮術·中階&lt;/LSTag&gt;效果，持續&lt;b&gt;[3]&lt;/b&gt;回合，以及&lt;LSTag Type="Status" Tooltip="WEAPON62_3"&gt;渺縮術·高階&lt;/LSTag&gt;效果，持續&lt;b&gt;[4]&lt;/b&gt;回合。</content>
+<content contentuid="heba8090cg58ffg4882gb6f7g65154b9f902d" version="1">渺縮術·初階</content>
+<content contentuid="hefd0c916g20d8g4a7bg9ea5gba420502386c" version="1">&lt;b&gt;+[1]&lt;/b&gt;到&lt;LSTag Tooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;。該生物的&lt;b&gt;重量和體型等級&lt;/b&gt;減少&lt;b&gt;[3]&lt;/b&gt;。</content>
+<content contentuid="h2b5bb079g534ag4f9bg8178g4253394e2892" version="1">渺縮術·中階</content>
+<content contentuid="hb1b283a1gb81ag489cg8336g248586818133" version="1">&lt;b&gt;+[1]&lt;/b&gt;到&lt;LSTag Tooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;。該生物的&lt;b&gt;重量和體型等級&lt;/b&gt;減少&lt;b&gt;[3]&lt;/b&gt;。&lt;br&gt;&lt;br&gt;此效果結束後，施加&lt;LSTag Type="Status" Tooltip="WEAPON62"&gt;渺縮術·初階&lt;/LSTag&gt;效果，持續&lt;b&gt;[4]&lt;/b&gt;回合。</content>
+<content contentuid="h976016edg4289g442agb6fegbf85844099fe" version="1">渺縮術·高階</content>
+<content contentuid="ha466ba09g8878g40e3gbf1dgfbf8d7b820e0" version="1">&lt;b&gt;+[1]&lt;/b&gt;到&lt;LSTag Tooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;。該生物的&lt;b&gt;重量和體型等級&lt;/b&gt;減少&lt;b&gt;[3]&lt;/b&gt;。&lt;br&gt;&lt;br&gt;此效果結束後，施加&lt;LSTag Type="Status" Tooltip="WEAPON62"&gt;渺縮術·中階&lt;/LSTag&gt;效果，持續&lt;b&gt;[4]&lt;/b&gt;回合。</content>
+<content contentuid="hea6adb7cg9217g46a7ga5b2ge7be301ec342" version="1">忠魂小盾</content>
+<content contentuid="hf55e70e4g2fedg4c87g9abdgd70f8a054b34" version="1">此盾歴三主之手，刃痕如星羅棋佈。凡持者必以命相護，若心生二誌，則盾紋崩解如冰裂——昔有叛徒握此，盾自燃焚其掌，血肉化灰。</content>
+<content contentuid="h0d3b8215g0699g4f78g87fbg00215a40b79c" version="1">靈木聖盾</content>
+<content contentuid="hbb818f5cg0ebag4041g9389g07c8ddd61a6f" version="1">精靈以月光鑄盾，紋路如藤蔓纏繞，專為牧師禦後軍之險。盾面映星辰，箭雨臨則化虹光，敵血沾染處竟生青苔——傳說此盾可吸天地精魄，愈戰愈強。</content>
+<content contentuid="h8ab79c2dg8944g439eg96b7g4fb4c4aaa96b" version="1">深海之盾</content>
+<content contentuid="h86394d5fg5855g4772gb148gd74e73d50f28" version="1">腐海腥氣繚繞，盾身佈滿藤壺與珊瑚，看似脆弱卻令觀者戰栗。深淵潛伏於其中，觸碰者似聞巨鯨哀鳴——傳說此盾乃海妖以沈船骸骨所鑄，持者可馭潮汐之力。</content>
+<content contentuid="h7c9a91a9g3499g4c7eg9eb8g75fafec033e4" version="1">獸魂戰盾</content>
+<content contentuid="h6390974agadc7g4505g99edg2ef839ccecd5" version="1">獸人酋長之寶，盾面銘刻精靈奴隸咒文，血色符文如野獸獠牙。持此盾者力拔山兮，連戰三日不衰——然精靈詛咒暗藏其中，若持者敗北，則盾反噬其魂。</content>
+<content contentuid="h9549516dg72a3g4acbg82f6g56b6b3778135" version="1">山塔戰盾</content>
+<content contentuid="h893ff14ag34b0g48aagb238g673396e5866a" version="1">出自山塔帝國地底熔爐，盾紋如巖漿凝固，專為巷戰而生。盾鋒可劈石斷鐵，持者如矮人掘地而行——縱使百兵圍攻，亦能開道突圍。</content>
+<content contentuid="h083551fdg5319g4535g9096g9c30d095e47f" version="1">奧術壁壘</content>
+<content contentuid="h9be2d482gda06g4c88g8743g8731dec16aff" version="1">這面盾牌看似無華，形似幼童之軀，卻內蘊驚世魔力。傳說它曾為法師公會某名學徒所遺——在野外考試中，他因分心而遺失此器，自此湮沒於塵世傳說之中。</content>
+<content contentuid="h9d42c938g645eg4a7ega492g3a7f810135d7" version="1">魔印烙痕</content>
+<content contentuid="h9eba74f3g8d10g4df2g9405gf952484cbc2f" version="1">&lt;LSTag Tooltip="DifficultyClass"&gt;法術豁免難度等級&lt;/LSTag&gt;&lt;b&gt;+[1]&lt;/b&gt;。</content>
+<content contentuid="h1595d7d2g75b1g43fbg993ag5289e15dd721" version="1">古堡聖盾</content>
+<content contentuid="h77869061g6bedg4142ga821gd2a2bc889caf" version="1">此盾蘊含古老魔法，可略微減緩敵方投射物與攻擊的速度。一件極具實用價值的神器，由矮人匠師於遠古時期打造。</content>
+<content contentuid="hb9189628g4becg4514gbbb8ged51f1c048c2" version="1">遲緩咒印</content>
+<content contentuid="h29cf5a05g3c9dg4f58g9159g7ce478ffd898" version="1">妳從所有武器或徒手攻擊中受到的傷害減少&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="h5ec3cc5eg0d96g4a6bg8a01gefe137b4093d" version="1">影詛之盾</content>
+<content contentuid="h0757fb9eg6553g4a4fgaec9gd954fa5b52b7" version="1">此圓盾若非因主人 奈羅尼亞命運多舛，或許早已湮滅於時光。他曾遭暗影毒刺致命重傷，卻奇跡般被一支由強大法師統治的半身人邪教所救。作為交換，法師要求他鏟除礦井中尤為危險的精靈族——為此，法師將此護盾賜予災厄獵人，併為其附魔以庇護之力。</content>
+<content contentuid="h923b86afg0746g4c0cg8bd1g95efa1825c13" version="1">聖潔庇護</content>
+ <content contentuid="h81664b25g0ddcg42fdg91c2ge829fe94fad0" version="1">&lt;b&gt;不死生物&lt;/b&gt;,&lt;b&gt;怪獸&lt;/b&gt;,&lt;b&gt;邪魔&lt;/b&gt;和&lt;b&gt;精類生物&lt;/b&gt;對妳造成的傷害減少&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="hfc659dd1g70c3g4a04ga070gba06199108ee" version="1">堅韌勇盾</content>
+<content contentuid="hb535fd90g08aeg4687gb78fge31176c84774" version="1">此盾以 歴經風霜的橡木 雕鑄而成，看似輕盈，卻蘊含驚人韌性。傳說其能強化人類意誌——戰局愈烈，橡木芯材便泛起 低沈而堅定的回響，喚醒疲憊之軀，令戰士重燃鬥誌。</content>
+<content contentuid="h03e391a9g179ag4cadg97e9gd0f6eba37b15" version="1">橡樹之力</content>
+<content contentuid="h78708a8bg9818g49dcg8c14g7e71f005109f" version="1">當妳的&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;低於&lt;b&gt;[1]%&lt;/b&gt;時，妳獲得&lt;b&gt;+[2]&lt;/b&gt;體質（最多到&lt;b&gt;[3]&lt;/b&gt;）。</content>
+<content contentuid="h082bbc31g28beg4605ga3b6g8691c24cc0ff" version="1">聖療聖盾</content>
+<content contentuid="h3284df96g9c1eg4a48g82d3gc77a1ae36415" version="1">此盾銹跡斑斑，乃戰鋼所鑄，歴經滄桑，盾面浮雕著某支失傳教團的金紋圖騰。傳說此神器蘊含神秘力量——每當神聖咒語自持有者口中吟誦，盾身便泛起微弱暖意，仿佛金屬本身銘記古老祝福，於其內燃起一縷治愈之火。</content>
+<content contentuid="haaab0955gfed4g4742gb964g7bf75cc87e0f" version="1">聖焰初綻</content>
+<content contentuid="h53fca26ag0e25g42c0g90a6g5571f9d64eba" version="1">在戰鬥中通過使用&lt;b&gt;聖武士法術&lt;/b&gt;進行治療時，恢復一個&lt;LSTag Type="ActionResource" Tooltip="LayOnHandsCharge"&gt;聖療充能&lt;/LSTag&gt;。</content>
+<content contentuid="h3e4304d0gd503g4d6ega283ge26533048c38" version="1">邪教徒之盾</content>
+<content contentuid="h2fecf76agdd90g4fefg960fgc112505e4854" version="1">此盾由碎木殘骸雕鑄，盾面粗糲刻畫著一只詭秘的白手。盡管形貌粗陋，其上卻泛著奧術魔力的蒼白微光。當命運降下最殘酷的重擊時，盾上符文將扭曲無形的命運絲線，為持有者撕開一線生機——於絕境中逆轉勝負的最後機會。</content>
+<content contentuid="hcf998b4fge68eg4306gbee0g7f955a6deabd" version="1">幽白之手</content>
+<content contentuid="h58cb1fcfgdf6dg49dag83eeg6da18c2ec38c" version="1">如果妳在&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;骰子上擲出&lt;b&gt;[1]&lt;/b&gt;，妳可以重新擲一次。</content>
+<content contentuid="hcb9e8618gf652g442cgbd32gf06f2dbcf9a8" version="1">綠色狂怒</content>
+<content contentuid="h233a42b9ge342g4537gb64fg9f30f147abcc" version="1">此神器以虬曲枝幹雕鑄，銘刻著被遺忘森林的低語，形貌似盾，實則宛如森林本身的一塊碎片。盾面野藤盤踞，湧動著非自然的魔力。傳說此盾共鳴著原始地脈之力——當舉起護持時，藤蔓似受遠古命令驅使，撕裂大地纏繞而來，將任何膽敢靠近之敵禁錮束縛。</content>
+<content contentuid="hef8eda79g0740g4657g89c3ge7992eb05e29" version="1">狂怒地脈</content>
+<content contentuid="h0335b33bgc561g4f14g81b6geeb7a027c8b8" version="1">戰鬥開始時，在妳周圍&lt;b&gt;[1]&lt;/b&gt;範圍內升起&lt;b&gt;&lt;LSTag Type="Status" Tooltip="ENSNARED_VINES"&gt;纏繞&lt;/LSTag&gt;藤蔓&lt;/b&gt;，持續&lt;b&gt;[2]&lt;/b&gt;回合。</content>
+<content contentuid="h722f22f5gd7f8g4ecfga537ge86e702c0ae7" version="1">尖刺盾牌</content>
+<content contentuid="h858cc8a1ga14fg44f5g8a22g19e7dca48563" version="1">此盾以粗糲木闆拼湊而成，錶面密佈 漆黑鐵刺，每一道尖刺皆刻著血色詛咒。傳說此器由某城邦屠戮者所鑄——每一根鐵刺皆取自城鎮大廳之尖頂，浸染無數亡魂的哀嚎。如今，盾身仍饑渴難耐，渴望飲盡更多鮮血。</content>
+<content contentuid="hbaea6775g65f4g4897gb020g3faf5f385d3f" version="1">尖刺鋒芒</content>
+<content contentuid="hefa6d754gfbb7g407egb9c9gae19266bfdda" version="1">近戰攻擊妳的人必須成功進行一次體質&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;，否則他們會受到&lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;流血&lt;/LSTag&gt;效果。</content>
+<content contentuid="hea989852gd46fg4e3bg993bg3704b19da916" version="1">救贖聖環</content>
+ <content contentuid="h0523a561g7bbdg4b9bg9a6fg092a49ee94cf" version="1">此盾以斑駁金屬鑄成，圓面佈滿 無數次戰鬥的傷痕——每一道凹痕與裂痕皆銘刻著其不朽歴史的印記。傳說中，曾有一位高貴的聖職者，在絕境中挺立不倒，以此神器為同伴築起 抵禦災厄的壁壘。每一處傷痕皆是 神聖幹預的見證——生命因信仰之力而延續，希望在破碎中重生。</content>
+<content contentuid="h7e463ac1g07e0g4128gab45g3171f5563f11" version="1">信仰救贖</content>
+<content contentuid="h8f5d8abegc2cfg46d7gad04g1c232b80b310" version="1">當妳受到&lt;LSTag Tooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;時，妳和周圍&lt;b&gt;[3]&lt;/b&gt;範圍內的盟友將獲得&lt;LSTag Type="Status" Tooltip="WEAPON76_2"&gt;信仰屏障&lt;/LSTag&gt;狀態，持續&lt;b&gt;[2]&lt;/b&gt;回合。</content>
+<content contentuid="h173947c7g164ag4961g87cag57b2fb44855c" version="1">信仰屏障</content>
+<content contentuid="h7b265b7cg212dg4d16g900ag74727561979f" version="1">&lt;b&gt;+[1]~[2]&lt;/b&gt;點&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;加值。&lt;br&gt;&lt;br&gt;當持有救贖聖環的角色被擊中時，該效果解除。</content>
+<content contentuid="h4fa6cb80gb9c6g4654g8605g0c48246c9338" version="1">聖衛壁壘</content>
+<content contentuid="h7777a51ag024fg443eg9df7gf416d9a0d303" version="1">這個看似簡單的橡木盾牌上有著無法忽視的戰鬥痕跡。這些刻痕不僅僅是磨損的跡象，而是盾牌堅韌不拔的證明，每個痕跡都包含著曾經持此神器的守護者堅定不移的精神碎片。</content>
+<content contentuid="hb5ef96f9g6f17g4316gaf4bg0d68cac0c27d" version="1">衛士之魂</content>
+<content contentuid="hb2d05e4egb083g44b7gbdb8g0941739c81ee" version="1">在戰鬥中從敵人那裏受到傷害時，妳獲得&lt;LSTag Type="Status" Tooltip="WEAPON77"&gt;不屈之誌&lt;/LSTag&gt;，持續&lt;b&gt;[1]&lt;/b&gt;回合。</content>
+<content contentuid="h6485b863gecacg4d90ga06fg9f1cf2ba36c5" version="1">不屈之誌</content>
+<content contentuid="hd9a55823gdb2dg4257g93e2gde1fee1e5518" version="1">&lt;b&gt;+[1]&lt;/b&gt;到&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;.</content>
+<content contentuid="h3e061683g7401g401cga9e8g975f5638866c" version="1">加勒特爵士之盾</content>
+<content contentuid="h0ac37f5dg3b9cg4b24g880eg5d02e6a31d9e" version="1">這面沈郁外觀的盾牌，包裹在柔軟的黑色皮革中併裝飾有鉚釘，形成了一個獅鷲的形象——這是堅定不移保護的象徵。加勒特爵士以如此的兇猛戰鬥，以至於連死亡本身也猶豫是否要奪走他。那些能擊倒普通人的打擊只是在他的鐵壁防禦下回響。現在，任何持有它的人將繼承一部分那傳奇般的決心。</content>
+<content contentuid="hee366d3cgac3ag4fe5g9ab1g8b43ab956cb3" version="1">永恆信仰之盾</content>
+<content contentuid="hc45aa55bg6c53g4db6g8316g6b8cbd188232" version="1">此金屬盾歴經無數次祈禱打磨，錶面光潔如鏡，中央鑲嵌著 熾烈太陽圖騰。傳說此神器曾為某被遺忘神廟的女祭司所持——她以 無懈可擊的虔誠 聞名，信仰之力如此深邃，竟將自身神聖之息註入此盾。當神廟遭劫掠後，後續持有者皆能感受到 堅定意誌如潮水般湧入心神，驅散所有疑慮與恐懼。</content>
+<content contentuid="hb4cf5dedgc82fg47ddg8dbage1e22e28f666" version="1">聖職之魂</content>
+<content contentuid="h7a244073gc47eg4c1eg9c38g90cbdfc6cff5" version="1">妳在&lt;LSTag Tooltip="Concentration"&gt;專註&lt;/LSTag&gt;檢定時獲得&lt;LSTag Tooltip="Advantage"&gt;優勢&lt;/LSTag&gt;。</content>
+<content contentuid="h9914a9c2gfc8eg4836g93bfg688f1ab074cd" version="1">黑色城墻</content>
+<content contentuid="h505298e6gd567g4eb4g8e9cg6f052703f22c" version="1">此盾以 漆黑金屬 鑄造，深山火爐中淬煉而出，銘刻著 矮人堅韌不屈的意誌。其形高大厚重，金屬肌理如山巒般沈穩——縱使敵軍怒濤般沖擊，持有者亦能 毫發無損。此盾吟唱著 務實之歌，印證矮族信條：一柄精工護盾，便是戰士所需的終極魔力。</content>
+<content contentuid="h7377efb8g50ebg4183ga774gbff513c70652" version="1">山嶽之心</content>
+<content contentuid="h7bf5c154g8312g4463g8320g8ff32a1e2fd8" version="1">妳從&lt;b&gt;所有武器或徒手攻擊&lt;/b&gt;中受到的傷害減少&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="h15d9ddc6g7afdg4bcfgbb53ge3c296c7b5de" version="1">魔法海貝</content>
+<content contentuid="h5954d37cg801bg4362gb066g58abc2769756" version="1">此貝殼護盾乃水手間流傳的傳奇遺物。其曾為一位傳奇船長所有——他因船難失去整支船員，瀕臨溺亡之際，被海靈以貝殼托起，穿越驚濤駭浪送至彼岸。此後，船長發現此貝殼蘊藏魔力，可賦予持有者 海洋之力。戰士越強大，海洋奇跡的湧動便越澎湃——潮汐共鳴，化作無盡威能。</content>
+<content contentuid="h6a049a81g4b24g46f0g8405gde1a13553a7d" version="1">海靈饋贈</content>
+<content contentuid="h0b5717d1g2f9ag448cg92c8g3c6f4674faab" version="1">妳的&lt;b&gt;戰士&lt;/b&gt;和&lt;b&gt;野蠻人&lt;/b&gt;等級的一半將加到妳的&lt;LSTag Tooltip="Cantrip"&gt;戲法&lt;/LSTag&gt;的傷害上。</content>
+<content contentuid="h8c0570adga7a0g4795g8078gde79d86bb1a6" version="1">卡特蕾娜之盾</content>
+<content contentuid="h4903912fgfa90g4ac3g852dg82cbe9015f93" version="1">此神器以 纖薄橡木與鋼帶纏繞 鑄成，曾為 血獵軍團隊長卡特蕾娜·斯萊佈雷德所持。她以大膽突襲與個人戰鬥技藝聞名於世。這面13,000年前附魔的聖盾，賦予她致命優勢——每當以 完美格擋 擋下攻擊，盾身便泛起 致命共振，將澎湃之力註入戰士下一擊之中。280年前，卡特蕾娜在一場醉酒鬥毆中隕落，此神器隨之遺落塵世，直至今日重現人間。</content>
+<content contentuid="h58e25423gb9aeg41b1g9880g02152d0f543e" version="1">震擊裁決</content>
+<content contentuid="h8c5e38a5g2130g4092ga271g0bac516b3a38" version="1">在戰鬥中閃避攻擊時，有&lt;b&gt;[1]%&lt;/b&gt;的幾率恢復一個&lt;LSTag Type="ActionResource" Tooltip="SuperiorityDie"&gt;卓越骰&lt;/LSTag&gt;和一個&lt;LSTag Type="ActionResource" Tooltip="WarPriestActionPoint"&gt;戰爭祭司充能&lt;/LSTag&gt;。</content>
+<content contentuid="h9002b0eeg8ffbg4b3dg9c87g59fa9c46adbd" version="1">希望聖環</content>
+<content contentuid="h7e8ed0cfg1a46g4dc5g97f7g4741115beef1" version="1">此盾錶面覆滿塵垢，銀合金基底上殘留著 斑駁的太陽與彩虹圖騰，仿佛訴說著昔日榮光。傳說中，這是偉大騎士的聖盾，為遠徵冥界的史詩之旅而鑄。此神器燃燒著正義之光，能灼燒一切不潔之物。然而，它最終隨歲月湮滅，連同人類寄托於其上的所有希望一同消逝於歴史塵埃之中。</content>
+<content contentuid="ha966f719g63dbg4a4dga9e5g61cb6f7c5ead" version="1">聖焰焚邪</content>
+<content contentuid="h37a46109g1fecg4437g8678g88e1fb66c94c" version="1">&lt;b&gt;不死生物&lt;/b&gt;攻擊妳時會受到&lt;b&gt;[2]&lt;/b&gt;反擊傷害。</content>
+<content contentuid="h1a6808b0g2fa5g429aga382g49713e632f18" version="1">堅毅之心</content>
+<content contentuid="h569dc44cgd90fg4576g9bf9g78391bd79e54" version="1">此盾以 堅固橡木 鑄成，錶面看似樸實無華，卻蘊藏奇異魔力——與其實用主義的形貌截然相反。數世紀前，它曾為一位 無雙的美貌與雄辯之才 併存的戰士所持。他不僅以戰技震懾四方，更以 雷鳴之聲 激勵同伴，令最怯懦者亦重燃鬥誌。經無數戰役洗禮，盾身木紋早已浸染 這位聖武士的鼓舞之輝——每一絲裂痕皆銘刻著勇氣的回響。</content>
+<content contentuid="hf5d92c64g22a8g4b1bga0a2g699bc24aaa6a" version="1">英勇之魂</content>
+<content contentuid="h92b79474gd89eg4c53g9901g262a66143908" version="1">在戰鬥中躲避攻擊時恢復&lt;b&gt;[1]&lt;/b&gt;。&lt;br&gt;&lt;br&gt;效果強度取決於魅力&lt;LSTag Tooltip="AbilityModifier"&gt;調整值&lt;/LSTag&gt;&lt;i&gt;(嚮下取整)&lt;/i&gt;。</content>
+<content contentuid="h9f268347gc857g4e53g821eg4717bc7ddcf4" version="1">科爾倫托聖盾</content>
+<content contentuid="h8e2516b8g20d6g4239g968egc9c80adae70d" version="1">當虔誠信徒 科爾倫托因頸傷瀕死之際，此盾驟然迸發 聖潔光芒，將治愈能量註入傷口。然而——奇跡總有代價。聖光隨他傷口的回響而明滅，汲取其生命之力。若非其意誌與信仰堅定不移，這光芒將吞噬與賜予同等的代價。數代之後，這件神器失傳於塵世，卻成為 不屈信仰之代價 的永恆見證。</content>
+<content contentuid="hc8893e17g83e3g41f3g87e6g197c2749c2f6" version="1">聖光之輝</content>
+<content contentuid="h503c8572gfa8cg444dg8f28gd80503aa460e" version="1">在戰鬥中受到敵人傷害時，妳獲得&lt;LSTag Type="Status" Tooltip="WEAPON85"&gt;信仰試煉&lt;/LSTag&gt;狀態，持續&lt;b&gt;[2]&lt;/b&gt;回合。</content>
+<content contentuid="h915fba4dgc669g44abgb2ccg7d888258ad9b" version="1">信仰試煉</content>
+<content contentuid="hfb7d9e4dged7eg4dadg980agb3cfa4e5df2f" version="1">在妳的回合結束時恢復&lt;b&gt;[1]&lt;/b&gt;，但需要通過一次成功的感知&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;&lt;b&gt;([2])&lt;/b&gt;來避免感染&lt;LSTag Type="Status" Tooltip="HAG_WELL_WORSE"&gt;疾病&lt;/LSTag&gt;，持續&lt;b&gt;[3]&lt;/b&gt;回合。</content>
+<content contentuid="hdab7429fge27eg4909ga1f8gf54ef1826194" version="1">席蕾亞之盾</content>
+<content contentuid="h54034efeg8638g43b1g8d61gbda8caa06081" version="1">此盾焦黑破碎，錶面泛著 淡紫色微光。傳說中，精靈族曾捕獲一顆名為 “多影星” 的神秘星辰，將其擊碎後贈予昔日英雄。其中一塊碎片被傳奇半身人 席蕾亞鑲嵌於盾牌之中。值得玩味的是，此盾縱使歴經 惡龍之戰，其神秘屬性仍不朽存留——但 席蕾亞本人卻未能幸存，仿佛星辰之力以另一種形式延續了他的傳說。</content>
+<content contentuid="h464b8e28g25ecg498fgb4a2g708eb0b9724a" version="1">星之寧靜</content>
+<content contentuid="h9885774bgd9e5g4e7bg83a8g494d38a40f16" version="1">在戰鬥中攻擊妳的敵人必須成功通過一次體質&lt;LSTag Tooltip="SavingThrow"&gt;豁免投擲&lt;/LSTag&gt;，否則將被&lt;LSTag Type="Status" Tooltip="SILENCED"&gt;沈默&lt;/LSTag&gt;，持續&lt;b&gt;[1]&lt;/b&gt;回合。&lt;br&gt;&lt;br&gt;豁免難度的效果基於妳的&lt;LSTag Tooltip="SpellDifficultyClass"&gt;法術豁免難度等級&lt;/LSTag&gt;而增強。</content>
+<content contentuid="h989f020egba6eg4515g8858gd976780a372c" version="1">龍之聖盾</content>
+<content contentuid="hf168d4cagbe9bg4559ga699ge55ba7d29c2c" version="1">瓦利加·科爾塔裏斯曾率領運輸隊嚮被圍睏之城運送補給。在遭 狗頭人 設伏突襲時，整支隊伍幾近覆滅，敗局似已註定——剎那間，船長的盾牌驟然燃起赤紅烈焰，焚毀狗頭人酋長，逆轉戰場局勢。此役之後，瓦利加·科爾塔裏斯被冠以 “龍” 之名，成為傳說。</content>
+<content contentuid="h117036ffg9d60g43d8ga779gb88887c38d7c" version="1">龍怒之炎</content>
+<content contentuid="h71adb52bg6a27g445bga855g32e496f47e61" version="1">在戰鬥中受到近戰傷害時，使攻擊者&lt;LSTag Type="Status" Tooltip="BURNING"&gt;燃燒&lt;/LSTag&gt;。妳無視目標對[1]的&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;。</content>
+<content contentuid="hd3ac88a3g1a6fg41f1g969bg67680bb354db" version="1">金剛壁壘</content>
+<content contentuid="hc6a8de72gf8c9g4436gb19aga90f425a1140" version="1">“有人說勇氣無法鍛造。但握住一堵金剛壁壘，感受仟百次戰鬥的精神在妳體內升起。任何攻擊都不會找到缺口，任何敵人都不會取得勝利。這盾牌不僅是金屬，更是歴經仟年矮人鍛造技藝的結晶。” ——貝格爾·石錘，鐵匠。</content>
+<content contentuid="h74fd8ffbgec88g448agab6egad83f3955a4a" version="1">聖裁權鑰</content>
+<content contentuid="h8b75dbd8gb959g4a77g9312g842e29b7cff0" version="1">此神器以 黃金鑄成，銘刻異界輝光，中央鑲嵌一顆巨大紅寶石，其內湧動著天界神能。當邪惡之徒舉刃嚮正義持有者時，紅寶石驟然迸發刺目聖光，令邪物瞬間目眩心驚，迷失方嚮——其邪惡意誌被正義之力徹底湮滅。</content>
+<content contentuid="h024f4e81g89c7g498cgad3bg26aee13d60c8" version="1">天界聖裁</content>
+ <content contentuid="hda9ad075gb0bag4311g8a52g216da0e3dd3b" version="1">當&lt;b&gt;不死生物&lt;/b&gt;、&lt;b&gt;怪獸&lt;/b&gt;、&lt;b&gt;邪魔&lt;/b&gt;或&lt;b&gt;精靈生物&lt;/b&gt;攻擊妳時，它們必須成功進行一次體質&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;&lt;b&gt;([1])&lt;/b&gt;，否則會在&lt;b&gt;[2]&lt;/b&gt;回合內被&lt;LSTag Type="Status" Tooltip="STUNNED"&gt;震懾&lt;/LSTag&gt;。</content>
+<content contentuid="h44f803a1ga731g4a06g8f36g111eaee40421" version="1">選民之盾</content>
+<content contentuid="h8a5515e7g6091g4158gb4e0g1d816abaee9c" version="1">此巨盾以黑鋼鑄成，乃至上真神的冰冷見證。傳說其原為邪教某位強大信徒所有——此人卻最終遭同袍之手殘害而亡。此神器後被地精竊取，成為詛咒與力量交織的禁忌之物。汝將駕馭此聖鎧的魔力，對抗至上真神之影？亦或終將如前人般，被其觸碰吞噬？</content>
+<content contentuid="hbae48642g2217g4451gae01g1af96f6538a1" version="1">冥界聖鎧</content>
+<content contentuid="h085ea3b2ge1c7g4db3gadc1gd1d2be43103f" version="1">在戰鬥中從敵人那裏受到傷害時，妳有&lt;b&gt;[1]%&lt;/b&gt;的幾率獲得&lt;LSTag Type="Status" Tooltip="WEAPON90"&gt;至上真神的庇佑&lt;/LSTag&gt;，持續&lt;b&gt;[2]&lt;/b&gt;回合。</content>
+<content contentuid="hf21f0f48g92dag40cagab13g816b68edee54" version="1">至上真神的庇佑</content>
+<content contentuid="hcf9dac16g9f09g4eebga4a7g25b5e5c9258b" version="1">對所有傷害擁有&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
+  <content contentuid="h982ac6a7g7d5bg411bgbe6cg7ed7cad00dfc" version="1">復仇之光</content>
+  <content contentuid="ha1fbe756ga976g4dd4g848cg67635f8ab8c2" version="1">此盾由精靈巧匠雕鑄，初時併非為戰而生——它曾是希望之火的象徵，銘刻著熾烈精神與不滅光明。然而時光流轉，黑暗勢力侵蝕此神器。邪惡之手將其玷汙褻瀆，扭曲為復仇之器，內蘊焚世之光，可吞噬一切生機。</content>
+<content contentuid="hb9628f86ga1d1g4af2g800egd2dfe95c1043" version="1">褻瀆魔法</content>
+<content contentuid="hf87215b6gbb59g487fgaf36g9ba492738726" version="1">在戰鬥中受到敵人傷害時，妳獲得&lt;b&gt;[1]&lt;/b&gt;點&lt;LSTag Type="Status" Tooltip="WEAPON91"&gt;復仇聖光&lt;/LSTag&gt;充能。</content>
+ <content contentuid="h1d8f1413g6957g474fg85e8g78576040a4af" version="1">復仇聖光</content>
+<content contentuid="hb9865773gb42cg4aa8ga6c8g6b718c022598" version="1">復仇即將來臨，盾牌逐漸充滿了憤怒的光芒。&lt;br&gt;&lt;br&gt;戰鬥結束後效果消失。</content>
+<content contentuid="h4340d5a8g698bg4dc3g965dg4fbbadf9d2fa" version="1">光之爆裂</content>
+<content contentuid="h674caf70gcb0fg4e12g8a23g0c4eefb0dba8" version="1">在積纍了&lt;b&gt;[1]&lt;/b&gt;點&lt;LSTag Type="Status" Tooltip="WEAPON91"&gt;復仇聖光&lt;/LSTag&gt;充能後，妳可以吸收這些充能併釋放一次復仇的&lt;LSTag Type="Spell" Tooltip="MAG_Weapon91_AOE"&gt;光之爆裂&lt;/LSTag&gt;。</content>
+<content contentuid="hcfefa027gc3c2g4f28g85e0g68341b1a1fcf" version="1">光之爆裂</content>
+<content contentuid="h354a8c5ag25d9g4ab6g9408g6378fe09637a" version="1">對半徑&lt;b&gt;[2]&lt;/b&gt;內的所有生物造成&lt;b&gt;[1]&lt;/b&gt;。</content>
+ <content contentuid="h52d1930agfa1ag4715g8c1bg91f6efbfed26" version="1">黑星之盾</content>
+<content contentuid="h66f95366g9ad3g421dg95d0g899b944775df" version="1">此盾以費倫最黑暗角落的古金屬鑄造，錶面泛著不祥的冷焰。黯淡的金色漩渦銘刻其上，低語著被遺忘的儀式與魔契。傳說中，某瀕臨湮滅的絕望文明曾與黑星簽訂契約——那沈睡於宇宙深淵的黑夜與湮滅之神。它以神器為交換，索取文明靈魂中滋生的黑暗。此盾將助妳於絕境逆轉？或終將如締約者般，被黑星徹底吞噬？</content>
+<content contentuid="h515949a8g242eg47aag8f26g8ac7d21ffa4d" version="1">暗影滋生</content>
+<content contentuid="h8cee345egd969g4048g9386gca9e59f3b6bc" version="1">在戰鬥中受到敵人傷害時，妳會獲得&lt;b&gt;[1]&lt;/b&gt;個&lt;LSTag Type="Status" Tooltip="WEAPON92"&gt;黑契枷鎖&lt;/LSTag&gt;充能。</content>
+<content contentuid="hdf199638g952cg4b5fg8100g35290dc3ef47" version="1">黑契枷鎖</content>
+<content contentuid="h9a1fa829gbdc8g4beeg96c2gd085fff54bed" version="1">黑暗逐漸吞噬妳的靈魂，&lt;b&gt;黑星&lt;/b&gt;開始索取它的代價。&lt;br&gt;&lt;br&gt;戰鬥結束時解除。</content>
+<content contentuid="h8bd0cbd4gc971g48c9gb1a7g97c098249c4d" version="1">吞噬暗影</content>
+<content contentuid="hca93827dg5facg405cgb85dg641bc324d549" version="1">積纍&lt;b&gt;[1]&lt;/b&gt;個&lt;LSTag Type="Status" Tooltip="WEAPON92"&gt;黑契枷鎖&lt;/LSTag&gt;充能後，妳吸收它們併獲得&lt;LSTag Type="Status" Tooltip="WEAPON92_2"&gt;黑星饋贈&lt;/LSTag&gt;，持續&lt;b&gt;[2]&lt;/b&gt;回合。</content>
+<content contentuid="h8dd60472g176eg489fgb1a6gf1f0d9603e2e" version="1">黑星饋贈</content>
+<content contentuid="hf628752egea33g435dgbe3dg62dac507f5bd" version="1">&lt;b&gt;+[1]&lt;/b&gt;所有&lt;LSTag Tooltip="Ability"&gt;屬性&lt;/LSTag&gt;.&lt;br&gt;對妳造成的傷害&lt;b&gt;無效&lt;/b&gt;.&lt;br&gt;&lt;b&gt;無法&lt;/b&gt;對妳施加任何效果.&lt;br&gt;&lt;br&gt;殺死敵人時解除。</content>
+<content contentuid="hc00d0cccgad89g4b37g9b4dge9e9617b318b" version="1">海魂手斧</content>
+<content contentuid="hf1a41ae7g59e3g4140ga39cg5df2845040c1" version="1">此戰斧曾於風暴中被深海吞噬，成為某位水手靈魂的最後歸宿——他曾為追尋未知海岸而隕命。斧身浸透鹽與風，每次揮動皆令空氣彌漫 遠方海洋的氣息，如潮汐拍岸般令敵身陷寒潮與濕意。水手之魂於此斧中尋得永恆，將他跨越迷霧之海的無盡航程，化作永恆贈予持有者的潮汐之力。</content>
+<content contentuid="hfc1d7beeg84b7g4518ga645gedb8858cefda" version="1">海息之息</content>
+<content contentuid="h9aaa21b8g516eg454bga8d8gbafc73833f55" version="1">站在&lt;b&gt;水面&lt;/b&gt;上造成&lt;b&gt;任何&lt;/b&gt;傷害時，妳會使目標處於&lt;LSTag Type="Status" Tooltip="WET"&gt;濕潤&lt;/LSTag&gt;狀態，持續&lt;b&gt;[1]&lt;/b&gt;回合。</content>
+ <content contentuid="hc94fc082g2a26g4355g921dg887737aaf301" version="1">輝光聖斧</content>
+  <content contentuid="h6bd8c1a5g66cbg41f5gab1agd7ed65ffa20b" version="1">在湮滅之戰的年代，戰士阿德裏安為敵軍許諾所誘，背叛同袍。作為懲戒，其靈魂被封於自身所持戰斧之中。此神器吸收了他昔日信仰之光與後世詛咒，化作神聖魔光之源。阿德裏安如今睏於自身武器，每一縷陽光的摺射皆訴說著 背叛之痛——他的悔恨與詛咒，隨斧刃光芒流轉，成為永恆警示。</content>
+<content contentuid="h479ae6b5gc2a2g451bg8dd7g29015acdc95e" version="1">光之映照</content>
+<content contentuid="ha697bf10g83e0g48a2g8b3fg8f15022573df" version="1">用這把戰斧攻擊&lt;b&gt;被照亮的&lt;/b&gt;敵人時，妳造成&lt;b&gt;[1]&lt;/b&gt;，但同時也會對自己造成&lt;b&gt;[2]&lt;/b&gt;。&lt;br&gt;即使未命中也會觸發。</content>
+  <content contentuid="h4ad2738cg1a0eg436cg8b6dg47e119cd7986" version="1">幽魂聖斧</content>
+<content contentuid="h66f53a83g6e71g4a5fgadf6gc589c5b2c0b6" version="1">當費倫大地被瘟疫如黑潮般吞噬時，偉大的治愈者米倫曾以此神器試圖馴服災厄。然而，此武器暗中被惡魔詛咒侵蝕，化作 病痛之器——揮動間，詛咒如毒藤般蔓延。米倫因意圖的失敗而心力交瘁，最終將戰斧深埋塵世，只盼那致命詛咒能被時光遺忘。可詛咒之力仍在斧刃低語，等待下一位不幸的持有者。</content>
+<content contentuid="h93fed37dg37b6g47d2g8ea5gaf2a3f59182c" version="1">枯萎詛咒</content>
+<content contentuid="hfcb030adgf6deg4030ga521g4b51e4632218" version="1">受到此手斧的傷害時，目標會獲得&lt;b&gt;[1]&lt;/b&gt;層&lt;LSTag Type="Status" Tooltip="WEAPON95"&gt;持久創傷&lt;/LSTag&gt;。</content>
+<content contentuid="h8c5926fcg3547g453ag8082g299ea66e5ecc" version="1">持久創傷</content>
+<content contentuid="h2b221fbbg0551g426dgad65g38a51997d42a" version="1">生物每層此效果會失去&lt;b&gt;[1]&lt;/b&gt;的&lt;LSTag Tooltip="MovementSpeed"&gt;移動速度&lt;/LSTag&gt;和&lt;b&gt;[2]&lt;/b&gt;的&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;通過治療或戰鬥結束移除。</content>
+<content contentuid="h150579fagb1aeg4232g910eg511b98fcb5a6" version="1">永霜短斧</content>
+<content contentuid="h04f3ced7g696fg4240ga9ccg1f833bd9598c" version="1">此戰斧鑄於 冰風谷山脈之心，乃遠古冰霜巨魔薩滿之傑作。傳說其刃曾以深山湖泊的寒水淬煉——那片水域以魔力深邃著稱，斧刃自此銘刻不朽寒霜。每揮動之間，寒氣如冰川崩裂，凍結敵手血脈，令其動作遲滯如墜深淵。</content>
+<content contentuid="hccc63cc3ga13bg469dga43ega22bcf51f881" version="1">深湖魔力</content>
+<content contentuid="hfdfa632eg75f0g4df5g94c0gae81bcd05ef9" version="1">受到此手斧的傷害時，目標必須進行一次體質&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;，否則會獲得&lt;LSTag Type="Status" Tooltip="WEAPON96"&gt;寒霜掌控&lt;/LSTag&gt;，直到其下回合結束。&lt;br&gt;&lt;br&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;&lt;LSTag Tooltip="DifficultyClass"&gt;難度等級&lt;/LSTag&gt;取決於妳的&lt;LSTag Tooltip="SpellDifficultyClass"&gt;法術豁免難度等級&lt;/LSTag&gt;。</content>
+<content contentuid="h43044996g5183g41f6gb874g1e8d33db3499" version="1">寒霜掌控</content>
+<content contentuid="h45398fe6g92ceg4161g96dbgdc7abbddcbe9" version="1">生物無法進行&lt;LSTag Tooltip="MovementSpeed"&gt;移動&lt;/LSTag&gt;且不能使用&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附贈動作&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;當開始&lt;b&gt;燃燒&lt;/b&gt;時移除。</content>
+<content contentuid="h429fdf60g3860g47d2gb811g79aa73c23301" version="1">破曉</content>
+<content contentuid="he469204dg859fg49abgb76fg34fa6e2367c6" version="1">此斧以 稀有金屬 鑄成，經初升朝陽反復淬煉，斧身泛著黎明之色，輕盈如風。其鍛造之秘早已湮滅於時光，傳說中乃偉大鐵匠為捕捉 黑夜轉晝的剎那所造——斧刃銘刻破曉之魂，揮動間如晨曦撕裂長夜。</content>
+<content contentuid="hcb1b62c4g13d0g40e9g8160g159c70e0604e" version="1">黎明覺醒</content>
+<content contentuid="hb7ebf895gcd63g4bf2g82a5gb8cce1b303e8" version="1">&lt;b&gt;+[1]&lt;/b&gt;&lt;b&gt;先攻&lt;/b&gt;。</content>
+<content contentuid="h48eba773g6fc1g4788gb2b4ga3b03e580b68" version="1">祖靈聖斧</content>
+<content contentuid="hd6bd2e62g0d7fg4423gba78g8ba2dbbb5393" version="1">此戰斧誕生於亡靈自地底蘇醒的年代，由當時最強大的族裔以聖火鑄魂所制。斧身銘刻遠古誓約符文，象徵生命與背棄法則者間永恆的抗爭。戰斧自內散發溫暖聖光，賦予持斧者對抗黑暗之力的威能——每一次揮動，皆是先祖意誌的延續。</content>
+<content contentuid="h0c06319eg62cdg4c08g85aegea457414c81b" version="1">先祖聖恩</content>
+<content contentuid="h932edb69g8345g4117g90abgf2859f99098b" version="1">妳用這把短斧對&lt;b&gt;不死生物&lt;/b&gt;造成額外&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="haa471f90gdd98g461dg88e9gcca5d6b6cc89" version="1">影舞者短斧</content>
+<content contentuid="h8617515egdf75g4b94g920egccfd8c300a1b" version="1">此戰斧鑄於遺忘地牢之深淵，光明無法觸及之處，其本質吸納了黑暗與隱匿之力。傳說中，首位持斧者乃一位刺客，畢生鉆研無聲潛行與致命一擊的藝術。即便歴經歲月，斧刃上原始封印的力量竟未衰減——每一次揮動，皆如黑影裂空，攜血色詛咒撕裂敵人的存在。</content>
+<content contentuid="h32844664g3c69g4be2g838aga8d31094d74a" version="1">血影封印</content>
+<content contentuid="h217373f5g29bbg4acagabe9g49c0c34d3718" version="1">使用此手斧從&lt;b&gt;潛行&lt;/b&gt;狀態進行攻擊時，妳迫使目標必須通過一次體質&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;，否則會遭受增強的&lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;流血&lt;/LSTag&gt;效果。即使未命中也會觸發該效果。&lt;br&gt;&lt;br&gt;&lt;LSTag Tooltip="DifficultyClass"&gt;難度等級&lt;/LSTag&gt;取決於妳的&lt;b&gt;戰技豁免難度等級&lt;/b&gt;。</content>
+<content contentuid="h04ebddbdg64f0g4420ga01dg95e075ff6672" version="1">嘲弄之歌</content>
+<content contentuid="h43fe7925g30f3g4a3dg9502gdc8a4def19d5" version="1">此戰斧柄由 未知森林的魔法木材雕成——那片密林因嘲鶇棲息而得名，木材本身便蘊含自然回響。每次揮動斧刃，皆會迸發清越回響，如歌似泣，吸引敵人註意併擾亂其心智。斧刃攜帶著無形譏諷，令敵手在混亂中暴露破綻，招架之力隨之瓦解。</content>
+<content contentuid="hb3c1982dg8538g4214gac36gf1fdf3e23872" version="1">魔音回響</content>
+<content contentuid="hda42a89fga155g4dcdga28fgc9459bd2dab9" version="1">用此短斧造成傷害時，妳會對目標施加&lt;LSTag Type="Status" Tooltip="WEAPON100"&gt;嘲弄印記&lt;/LSTag&gt;，直到其回合開始。</content>
+<content contentuid="hb573647cg6b95g46ccgbc3bg3a473d6a4b2c" version="1">嘲弄印記</content>
+<content contentuid="h828c6f85g9dbfg453dga93ag5728ae251700" version="1">&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;對此生物有&lt;LSTag Tooltip="Advantage"&gt;優勢&lt;/LSTag&gt;。</content>
+<content contentuid="h92b1f623g7c6cg4b49g91bag7d8c826daba3" version="1">木精靈之斧</content>
+<content contentuid="h30dc1113g62edg4a89g901ege413e828f080" version="1">此戰斧以 遠古森林深處的鐵礦煉成——其地藤蔓纏繞每一塊巖石與樹幹，斧刃灌註最堅韌植物的精華汁液。傳說此神器由森林之靈 所鑄，旨在守護領域免受侵擾，併贈予遊走此地的 森林精靈 作為盟約信物。每次揮動，斧刃皆如藤蔓蘇醒，攜帶著森林的意誌撕裂敵陣，令入侵者在自然之力前無所遁形。</content>
+<content contentuid="h1d29c4a9gff5fg432cg99d9g1b9413b160cf" version="1">森林庇佑</content>
+<content contentuid="h185fbbcbge774g482fga7a0gc2f9b44e4396" version="1">當用這把短斧攻擊站在&lt;b&gt;野生藤蔓&lt;/b&gt;中的目標時，妳會對該目標施加&lt;LSTag Type="Status" Tooltip="ENSNARED"&gt;纏繞&lt;/LSTag&gt;效果。</content>
+<content contentuid="h92c1a6a0gdbaeg4d0bgaa6fga05947029977" version="1">巫影短斧</content>
+<content contentuid="hf530bbeeg4f31g47f8gb7afg2a4e154462eb" version="1">此戰斧銘刻著繁復的符文，乃貪婪女巫在往昔夜幕掩護下所刻。每當揮動此斧，無形的暗影觸須便纏繞受害者，仿佛黑夜本身化作持有者的盟友。</content>
+<content contentuid="ha9ef8020gf08eg43f2g982fg7dcfca4b26db" version="1">女巫符文</content>
+<content contentuid="hd03e711bg051cg4517g8eacg584ea9dd96f1" version="1">用此短斧造成傷害時，妳會對目標施加&lt;LSTag Type="Status" Tooltip="WEAPON102"&gt;影藤纏繞&lt;/LSTag&gt;效果，持續&lt;b&gt;[1]&lt;/b&gt;回合。&lt;br&gt;&lt;b&gt;每回合最多觸發&lt;b&gt;一次&lt;/b&gt;。</content>
+<content contentuid="hb1567e17g2753g4c94g9e8eg25b02d60e1a8" version="1">影藤纏繞</content>
+<content contentuid="hbd6a2174g3d4dg4c36ga781g71ca7048b4f1" version="1">&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;&lt;b&gt;-[1]&lt;/b&gt;&lt;br&gt;&lt;LSTag Tooltip="AttackRoll"&gt;近戰法術攻擊擲骰&lt;/LSTag&gt;對此生物有&lt;LSTag Tooltip="Advantage"&gt;優勢&lt;/LSTag&gt;。</content>
+<content contentuid="hfb461524g0202g4a58g9481g133ff0944280" version="1">旋火</content>
+<content contentuid="h6a268eb7gd358g4e27g9495g1ac23335b85f" version="1">刀刃始終閃爍著煤火的微光，每次撞擊皆會點燃目標，將其籠罩於烈焰光環之中。此斧初代持有者——戰士加爾薩——曾以此器解放族人，令戰場化作火與灰的舞蹈。此斧不僅是毀滅之器，更是勝利意誌的象徵——能喚醒戰士心中戰鬥的狂熱與不屈的韌性。</content>
+<content contentuid="h1582351egc1ffg4561g87c5g78404657aae2" version="1">灼燒打擊</content>
+  <content contentuid="h0c759a93g0948g4557gac2agcba217f4353e" version="1">對目標造成灼燒打擊，額外造成&lt;b&gt;[2]&lt;/b&gt;併可能使其&lt;LSTag Type="Status" Tooltip="BURNING"&gt;燃燒&lt;/LSTag&gt;。</content>
+<content contentuid="h83faba06gc5f9g41f6g8e56gdfd9858a49a9" version="1">永劫之斧</content>
+<content contentuid="hccc2a9cagb414g4932g8d5dg7b2942fe3620" version="1">數世紀前，笨拙的法師菲爾伯特與時間簽訂契約，尋求永恆青春。然而，時間欺騙了他——不僅未賜予所求的不朽青春，反而詛咒他所佩戴的一切器物，包括此斧，令其觸碰之物盡皆腐朽。菲爾伯特從未學會駕馭這時間詛咒的遺物，早逝於世，成為後人譏諷的傳奇笑柄。</content>
+<content contentuid="hfed40cdfge606g456agb9e6gd2578222b01a" version="1">時光騙局</content>
+<content contentuid="h3ca83842gac6ag4d4fga179ge2bf3f212373" version="1">當從妳這裏受到&lt;b&gt;任何&lt;/b&gt;傷害時，目標必須成功進行一次體質&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;，否則會獲得&lt;b&gt;[1]&lt;/b&gt;個&lt;LSTag Type="Status" Tooltip="WEAPON104"&gt;衰老詛咒&lt;/LSTag&gt;充能。妳有&lt;b&gt;[2]%&lt;/b&gt;的幾率也會獲得&lt;b&gt;[1]&lt;/b&gt;個此詛咒的充能。</content>
+<content contentuid="h94eb2b30g48e9g43d2g8f4agc162c0d0d7a5" version="1">衰老詛咒</content>
+<content contentuid="h9888ac72g150cg4a7agb0cbg984e6983c893" version="1">&lt;b&gt;-[1]&lt;/b&gt;到每個充能的&lt;LSTag Tooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;&lt;b&gt;該詛咒不會隨時間消失。&lt;br&gt;&lt;b&gt;如果充能達到&lt;b&gt;[2]&lt;/b&gt;或更多，詛咒將解除，生物會承受&lt;b&gt;[3]&lt;/b&gt;。</content>
+
+<content contentuid="h60183285g34a9g44b2g84a9g8ff2031e7977" version="1">戰帥之遙</content>
+<content contentuid="hdaa4bf01g3998g4864ga8f6ga2e7c9d584cb" version="1">當妳研究這把古老的雙頭斧時，其風化的錶面講述著無數戰鬥的故事。完美平衡的雙刃由異常堅韌的金屬鍛造而成，似乎與妳自身的體力產生了共鳴。根據劍灣海岸戰士鐵匠們的塵封編年史，這類武器曾為戰神坦帕斯的勇士們特制，經過祝福以增強那些被認為值得使用它們的人的自然力量。斧頭簡單而深刻的附魔錶明它是在人類時代制造的，當時魔法常常以優雅而非奢華的方式編織。</content>
+
+<content contentuid="h3247b813g9af7g4042g8e87gc504ed554596" version="1">鳳凰三叉戟</content>
+<content contentuid="ha388d19ag685cg4d72gaeb4g5fe94e3179d9" version="1">當妳凝視此奇異三叉戟時，其金屬觸感灼熱難耐，卻令妳無法鬆手。查閱古籍，發現零散記載提及深海火崇拜教派——其聖典描述武器鑄於海底火山，蘊藏神秘之力。三叉戟的三尖刻有古老符文，分別象徵痛苦、烈焰與超脫。此神器的歴史籠罩迷霧，唯獨一點引人註目——其真正力量或許只嚮敢於承受灼燒之觸的勇者顯現。</content>
+<content contentuid="hec36721fg7360g4686g8d24g388c9872e865" version="1">烈焰不屈</content>
+<content contentuid="ha8c394d7g6470g4630ga510gec0b977bba69" version="1">在&lt;LSTag Type="Status" Tooltip="BURNING"&gt;燃燒&lt;/LSTag&gt;狀態下，獲得&lt;b&gt;+[1]&lt;/b&gt;的力量和體質加值。</content>
+
+<content contentuid="ha72afd63g3713g4f1egb3d7g52b0ded442ca" version="1">獸靈法杖</content>
+<content contentuid="hdb288b9egaefeg42bbg8bf3gb6a633965731" version="1">當妳靠近此法杖時，其扭曲的王冠周圍浮現出 幽影低語，如極光般迷幻。查閱古德魯伊手稿，發現其矛盾本質——此杖由一群德魯伊鑄造，信奉通過溝通與肅清維持自然平衡。杖身流動的光紋，據記載是前持有者審判過的生物之靈——它們究竟是見證者，還是引路者？無人可知。持此杖時，妳將感受到異樣的天賦：既能與野獸心靈相通，又能洞察其最深的腐敗。</content>
+<content contentuid="hd3c98f02gbd86g43ebg9391gf0dd8fc244b4" version="1">萬物之衡</content>
+<content contentuid="h8c5027c6ge99eg44b4gbd1bg6d2a08e94bba" version="1">對&lt;b&gt;野獸&lt;/b&gt;和&lt;b&gt;怪獸&lt;/b&gt;造成額外傷害，等於妳的&lt;LSTag Tooltip="AbilityModifier"&gt;感知調整值&lt;/LSTag&gt;。</content>
+
+<content contentuid="h0a7d0839g57fbg41abg988cg6145c2a13bac" version="1">余燼飲者</content>
+<content contentuid="hf9b063e0g969fg40a3g9ebag1f1bd4d028ad" version="1">雙刃縈繞不安暖意。擊打燃燒血肉時，金屬如饑渴旅人般吞噬烈焰。妳發現的焦灼殘頁暗示——此器乃科蘇斯的異端祭司所鑄，信奉火焰真諦非駕馭，而是吞噬其本質。至今，此斧仍渴求火魂吞吐，其熾熱野心是否實現，無人可知。</content>
+<content contentuid="ha48e307agd4b8g420dg8ef6g0bd0bf699230" version="1">火魂吞吐</content>
+<content contentuid="hcf2fc634g54abg4552g903egdba2bfe82204" version="1">當妳用這把斧頭對處於&lt;LSTag Type="Status" Tooltip="BURNING"&gt;燃燒&lt;/LSTag&gt;狀態的敵人造成傷害時，妳會吸收這些&lt;LSTag Type="Status" Tooltip="BURNING"&gt;火焰&lt;/LSTag&gt;併恢復&lt;b&gt;[1]&lt;/b&gt;。</content>
+
+<content contentuid="h6fcc096eg0e89g4988gb261g6f94dac25b14" version="1">雷霆聖棍</content>
+<content contentuid="h3911ce6ag184eg4281gaaf8g0b128477cbbf" version="1">初見時以為是普通巨棍，但在雷雨中檢驗時，其對閃電的親和力顯露無遺。妳從廢棄法師塔檔案中發現——此器曾是自然電能實驗的一部分。創作者筆記雖多被水損，卻暗示其意圖打造用於風暴角精英衛隊的武器。棍身刻有復雜符文，設計用於引導併放大地脈電能——但其真正潛力似乎僅在雷擊之地才能完全激發。</content>
+<content contentuid="hbabfe1cdgffffg4221gaa99gfc17125feefd" version="1">電湧導引</content>
+<content contentuid="h0bfc07eege7adg4367gbb08gb4364e159c33" version="1">當妳站在&lt;b&gt;帶電錶面&lt;/b&gt;上時，這把武器會造成額外&lt;b&gt;[1]&lt;/b&gt;。</content>
+
+<content contentuid="h251dd4abg4058g424bg9756gfd2232b3caf0" version="1">牧羊長矛</content>
+<content contentuid="h2578aae2g454cg4f1fg9787g29d8f9f96782" version="1">從劍灣農業檔案中拼湊的牧羊人日記，揭示此長矛的奇詭歴史——某名赫赫有名的牧者，竟屢遭頑劣大法師幻化為羊。他未因屈辱崩潰，反而將此異變轉化為復仇之力。刃面刻著羊毛紋路，意圖不明——裝飾？嘲弄？矛尖閃爍桃色流光，已非凡塵之物，而是以太神器的顯現。</content>
+<content contentuid="hb357244eg867cg4bcfgba0dg43914541a711" version="1">絨怒之擊</content>
+<content contentuid="ha216740ag06bcg4928ga86age5946d278bae" version="1">當妳被轉變為&lt;LSTag Type="Status" Tooltip="POLYMORPH_SHEEP"&gt;羊&lt;/LSTag&gt;時，妳獲得&lt;LSTag Type="Status" Tooltip="MAG_WEAPON110_T_VFX"&gt;牧者終焉&lt;/LSTag&gt;狀態。</content>
+<content contentuid="h16c12161g6b0fg4e1dgbcb6g26ca5ac6d8f6" version="1">牧者終焉</content>
+<content contentuid="hd5eb82a5g2251g4089gb4dcg577513c8797a" version="1">妳的下一次成功的近戰武器攻擊必定是一次&lt;LSTag Tooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;，併且重擊傷害翻三倍&lt;i&gt;(&lt;b&gt;[1]&lt;/b&gt;額外傷害骰)&lt;/i&gt;。</content>
+
+<content contentuid="he73f6a5egb6adg46eaga7fbgb960b73dedc1" version="1">冥界使者</content>
+<content contentuid="hb5f95a64g9b2bg4d71g8cb8g5040eca89aae" version="1">在死刑執行者日記的殘頁間，妳發現此雙刃戰斧的駭人記載——它開始“收集”所殺之人的靈魂，每次處決後愈發貪婪。越研究其殘忍鋒刃，越能感知斧中封印的囚魂——它們低語承諾力量，卻需以可怕代價換取。據考證，此斧鑄於一場湮滅儀式：融合 被附身的斬首者之刃與死靈法師法杖的殘骸。這兩件黑暗神器的結合，誕生了某種饑渴之物——不僅吞噬死亡，更吞噬受害者本源。</content>
+<content contentuid="h5dc94cb3gee95g4be8gb602g50e6933b9357" version="1">掘墓豐收</content>
+<content contentuid="h5933f955g2626g4cb1g903bg72f5349f61ae" version="1">當妳使用冥界使者擊殺敵人時，獲得&lt;b&gt;[1]~[2]&lt;/b&gt;層&lt;LSTag Type="Status" Tooltip="WEAPON11/XMLSchemaInstance1"&gt;瀆魂碎片&lt;/LSTag&gt;。</content>
+<content contentuid="hfb3896b1g5e6dg446cgb977g357e7e86fcab" version="1">瀆魂碎片</content>
+<content contentuid="h1e7c0e09ga87eg4161g939ag28115245db59" version="1">妳所有的&lt;LSTag Tooltip="Abilities"&gt;屬性&lt;/LSTag&gt;至少變為&lt;b&gt;[6]&lt;/b&gt;。斧頭中的靈魂摺磨著妳，併有&lt;b&gt;[5]%&lt;/b&gt;的幾率對妳施加&lt;b&gt;[2]&lt;/b&gt;。收集到&lt;b&gt;[3]&lt;/b&gt;個碎片後，妳可以吸收它們併獲得&lt;LSTag Type="Status" Tooltip="WEAPON111_2"&gt;收割審判&lt;/LSTag&gt;，持續&lt;b&gt;[4]&lt;/b&gt;回合。此效果不會隨著時間或經過&lt;LSTag Tooltip="LongRest"&gt;長休&lt;/LSTag&gt;而消失，但如果妳卸下冥界使者，則會消失。</content>
+<content contentuid="hc4dc1f4eg6346g4f27gbb5egf345013ca79a" version="1">收割審判</content>
+<content contentuid="hd7d75ea9g46aeg497cgbbc6g555b23ed5df0" version="1">妳所有的&lt;b&gt;成功的近戰武器攻擊&lt;/b&gt;都是&lt;LSTag Tooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;。</content>
+<content contentuid="h19fc6fcbg7a92g4f30g89b9g3f83caf7678a" version="1">掘墓之袍</content>
+<content contentuid="hfa6434b4gf0f3g4d5eg866cg2985d4399277" version="1">當妳的&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;低於&lt;b&gt;[1]%&lt;/b&gt;時，妳對&lt;b&gt;[2]&lt;/b&gt;獲得&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;。</content>
+
+<content contentuid="hebd14abbg3a90g4f8ag8833g4c8397313a25" version="1">寒冬裁決</content>
+<content contentuid="hd61b959egaa26g45fcg8f54ga3763d9d4f5f" version="1">當妳握住此矛，刺骨寒意自指尖蔓延入骨髓。查閱冰尖峰修道院的典籍，發現記載著一個以冬之本源為審判之器的古老法庭。此矛尖鋒異常銳利，雖終年寒氣凜冽，卻永不凝霜。殘缺卷軸暗示——此器乃法庭行刑者之愛器，其信奉嚴冬般的正義：刀刃先斬，寒霜再臨。卷軸余篇盡毀於時光，唯留行刑者與法庭命運的迷霧未解。</content>
+<content contentuid="hff6aea4fg7fe3g4d97g946egfadc8582d7b0" version="1">霜獄裁決</content>
+<content contentuid="h6f073a23g9a80g40acgb595ge4ccf9036a77" version="1">受到妳&lt;LSTag Tooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;的生物必定獲得&lt;LSTag Type="Status" Tooltip="WEAPON112"&gt;寒霜印記&lt;/LSTag&gt;，持續&lt;b&gt;[2]&lt;/b&gt;回合。</content>
+<content contentuid="hecdd26ebg626cg42ffgb131g605c53ed978d" version="1">寒霜印記</content>
+<content contentuid="h271bf10fg433dg47edg994ag76d67f254c7b" version="1">生物在受到傷害時會額外承受&lt;b&gt;[1]&lt;/b&gt;。</content>
+
+ <content contentuid="h67b3a31agf1d1g4d6eg8b7cgb1763e11396f" version="1">星海行者</content>
+<content contentuid="h002bdcf4g1300g4da2g8815gb67229bf50f5" version="1">刃光如星輝流轉，戟首刻有非塵世之幾何紋飾，其形若銀色虛無間遊離的抽象星圖。古籍記載此神器乃吉斯洋基獨行斥候所執，汲取萬古孤寂之能。未知何故墜入質界，然其與生俱來的幽寂本性猶存。</content>
+<content contentuid="h45feccb3g651ag477bg8b0dg2e7e798e72da" version="1">孤絕空域</content>
+<content contentuid="h4ccdd3a7gcae4g4d8fg8719g2159cda197c9" version="1">當沒有&lt;b&gt;盟友&lt;/b&gt;在妳&lt;b&gt;[1]&lt;/b&gt;範圍內時，使用&lt;b&gt;任何武器&lt;/b&gt;造成的傷害增加&lt;b&gt;[2]&lt;/b&gt;，且體質屬性提升&lt;b&gt;[3]&lt;/b&gt;（最高不超過&lt;b&gt;[4]&lt;/b&gt;）。</content>
+<content contentuid="h7de44226g7a43g4f67g9ecfga5fc7735d9ab" version="1">沒有盟友在附近，且星海行者已經通過魔法獲得了強化。</content>
+
+<content contentuid="hf2bf1c52g1181g493eg9b6ege9dbd747fb77" version="1">莫伊拉之杖</content>
+<content contentuid="he2dd2836g7097g4808gad61gf43cbf64014a" version="1">杖身素樸，卻暗藏吞吸陰影之能。燭堡禁書殘卷記載，莫伊拉修女曾於博得之門下水道，以至暗之夜凝影之本源鑄此器。彼以此滲透眾神殿，窺探聖俗之秘。末頁唯書其入黑木林而去，答案終得與否，無人可知。</content>
+<content contentuid="h628d7a89gdf10g4644gb338gb4864ebb154d" version="1">飲影術</content>
+<content contentuid="hc006683eg2124g42acg9fe2ge20f5f6ecbde" version="1">當妳&lt;b&gt;潛行&lt;/b&gt;時，妳的&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;增加&lt;b&gt;[1]&lt;/b&gt;。</content>
+
+<content contentuid="heb87f113g9798g4d3bgbb3fg407363357e2f" version="1">符文鍛魂</content>
+<content contentuid="hda25b23fgf001g433ag8c20g6931178ab602" version="1">封印的矮人密庫中，此戰錘與傳奇匠師德魯甘·法器熔的殘頁併存。晶核錘首乃改造法術儲能器，符陣精密轉化致命一擊為純粹魔能。其末頁手稿警示：轉化未臻穩定，偶發「魔網撕裂」——能量暴走撕碎現實經緯，織網裂隙中窺見混沌真容。</content>
+<content contentuid="h4c9b2ec7g4b0bg4211gab6agc00d826c8f4b" version="1">鍛魂裂網</content>
+<content contentuid="hce4dee3dg0411g4c3fg8548gb3de43e7e8bd" version="1">用這把戰錘擊殺一個敵對的&lt;b&gt;類人生物&lt;/b&gt;可以恢復&lt;b&gt;[1]&lt;/b&gt;個&lt;b&gt;[2]&lt;/b&gt;環的&lt;LSTag Tooltip="SpellSlot"&gt;法術位&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;每回合最多觸發&lt;b&gt;一次&lt;/b&gt;。</content>
+
+<content contentuid="hbacdf2eeg1a5dg4332g8567g534c2f0bdb7b" version="1">聖輝斷靈刃</content>
+<content contentuid="h2fa01c87g9ea4g48b7g9607g1c78a388dbd6" version="1">此聖劍乃銀色十字軍遺物，仟年鎮守界域，以神聖光輝抵消靈吸怪物的心智侵蝕。劍身十字紋專為引動持劍者精神力而鑄，直破邪念之網。雖教團覆滅於遠古主腦Xax'tal'han之浩劫，其聖器仍散落費倫，靜候新誓約者承繼抗爭之誌。</content>
+<content contentuid="hf09291c6g5148g4cdfgb738g0ee97853fd9b" version="1">心盾聖輝</content>
+<content contentuid="hc32b9cffg78e8g4b38g9561g39977bd0210b" version="1">&lt;b&gt;異怪&lt;/b&gt;攻擊妳時，會受到&lt;b&gt;[1]&lt;/b&gt;併可能被&lt;LSTag Type="Status" Tooltip="BLINDED"&gt;致盲&lt;/LSTag&gt;。</content>
+
+<content contentuid="h4d1ad31eg8b5ag41f6g881ag518f532f79a6" version="1">永夜之鐮</content>
+<content contentuid="h474fb34agdee2g4090ga3afgb6f6b73adc65" version="1">其存在令人戰栗，仿佛被上古不可名狀之物凝視。夢中浮現夢魘之錨——絕對黑暗以此鐮為引，撕裂凡世帷幕。古籍噤聲提及“黑暗之主”，連名諱皆湮滅於時光。此器非受控之兵刃，乃擇主之兇器，汝不過其短暫寄宿之軀。</content>
+<content contentuid="h24707763g53b2g4ba2gb0aag02acbe6b649a" version="1">冥魂索引之聲</content>
+<content contentuid="h1d196118gb487g4b6dgafbbg32ea91a07959" version="1">在戰鬥中每輪開始時，妳周圍&lt;b&gt;[1]&lt;/b&gt;範圍內的&lt;b&gt;所有&lt;/b&gt;生物必須進行一次體質&lt;LSTag Tooltip="SavingThrow"&gt;豁免擲骰&lt;/LSTag&gt;（&lt;b&gt;[2]&lt;/b&gt;），否則將被黑暗之主不可抗拒的意誌&lt;b&gt;立刻處決&lt;/b&gt;。&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt;&lt;b&gt;若持有者倒下，其整個隊伍都將共享這一命運。&lt;/b&gt;</content>
+<content contentuid="h55d0979bg1c08g4854gb1f6gc6593ad187c8" version="1">汝等愚者！汝已註定沈淪。永夜之鐮不留活口……</content>
+
+<content contentuid="h3ba32070g50f3g49adgbcacg6bb4ccfa0725" version="1">永劫魂蝕</content>
+<content contentuid="hfd55bbd2ge845g43d1g9ec2ge038a3a71722" version="1">尼科波利斯古卷記載，永歌王朝曾有孤傲精靈射手，以箭語侍奉王廷。瘟疫奪其骨肉後，竟嚮死神挑戰，敗者以己骨鑄此弓。今其形寒徹骨，符紋吞吐病綠幽光，箭矢破凡軀而噬魂，連不死帝王皆戰栗——蓋此器攜永夜之主權柄，烙印著死亡本源。</content>
+<content contentuid="h1b3f9a10g87cbg484bg859ag80d95bbaed4d" version="1">噬魂·永劫箭痕</content>
+<content contentuid="h948d3126g94a7g44f3g9e74g2e7f979a4fc1" version="1">妳無視目標對&lt;b&gt;[1]&lt;/b&gt;的&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;。</content>
+  
+ <content contentuid="h1e5778b7gaebdg4387ga0b8gda47c5774543" version="1">風蝕·劫獄槌</content>
+<content contentuid="h7533c02dg5d02g42c1g894fg3804fb89b9b2" version="1">此形骸幾近虛無，於質界間流轉變幻，若風中鎖鏈。秘典載，幽影宗師曾囚萬丈狂風於樸實木槌之中，妄圖以純粹元素之怒破凡鋼朽木。槌面霧靄翻湧，封印之暴風雨在靜默中咆哮，每震顫皆撕裂虛空。</content>
+<content contentuid="h58b0c3eega896g48d7g944bg92e7aa269ce6" version="1">風暴·裂空</content>
+<content contentuid="hc7a94072gf125g4cd8g8fdbg7ae4f2923b1b" version="1">當生物被這把巨棍命中時，必須進行一次力量&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;（&lt;b&gt;[1]&lt;/b&gt;），否則將被擊退&lt;b&gt;[2]&lt;/b&gt;。</content>
+
+<content contentuid="hb8635b48g2544g4820gaa25g32bdda3dd89b" version="1">天劫重錘</content>
+<content contentuid="hc00f4e8cg924ag4d07ga6bfga8c84185cd1f" version="1">深山古藏典籍中記載，風暴召喚者一族以雷霆為媒，熔巖中鑄此神器。高階薩滿引九霄雷霆貫入液態金屬，學徒齊誦遠古雷歌，令錘身符文震顫如雷暴之喉。雖族滅於諸神亂世，此錘仍攜萬鈞雷霆余響，每揮動皆撕裂蒼穹。</content>
+<content contentuid="h5669df49gad8ag43bbg8ff5gca00a053219a" version="1">天罰先聲</content>
+<content contentuid="h38b56e53gea55g4264g86c7g95fa380c76eb" version="1">命中時，迫使&lt;b&gt;所有&lt;/b&gt;&lt;b&gt;[1]&lt;/b&gt;範圍內的生物進行一次體質&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;(&lt;b&gt;[2]&lt;/b&gt;)否則受到&lt;b&gt;[3]&lt;/b&gt;。</content>
+
+<content contentuid="h05ac72e1g9bc9g45b1ga68ag261bb782cd6e" version="1">絕鋒·天工</content>
+<content contentuid="hbdc6d1b2ge750g4ba1g81dfg3bf1c39d8c7e" version="1">此刃之形，盡顯古矮人符文匠師「卡拉斯」之絕技。黃卷殘頁載其名諱，於深水城鐵匠堂中受萬世敬仰。彼以秘法幾何融貫鋼鐵，鑄出近乎有靈之平衡。劍脊橫紋似引氣運勁，揮後指尖自隨其勢流轉，若刃意欲尋敵破綻。雖非魔器，然此等超凡技藝，至今無人可及。</content>
+<content contentuid="hdf2ebf0fgb817g4b39gbf7cg1b6f683e3e68" version="1">天工之勢</content>
+<content contentuid="h5796950eg8dddg4694g96b2gcb9ba96d2757" version="1">未命中時，獲得&lt;LSTag Type="Status" Tooltip="WEAPON121"&gt;均衡之擊&lt;/LSTag&gt;。</content>
+<content contentuid="hb7bceb91gdfdbg4738g9402g58530ce267df" version="1">均衡之擊</content>
+<content contentuid="h0cc78be5g9b75g4326g9301g993dee9052e0" version="1">妳的下一次&lt;b&gt;近戰武器攻擊&lt;/b&gt;保證為&lt;LSTag Tooltip="CriticalHit"&gt;重擊&lt;/LSTag&gt;。</content>
+
+<content contentuid="h4ac15a70g5492g462cg936agfe413e134cc1" version="1">墮神之錘</content>
+<content contentuid="h1f66f601g97a9g4efbg922ag51bc5c7e84f6" version="1">燭堡禁書密室古卷殘章載，大祭司利山德聖戰異化為黑暗異端。其臨終聖儀將神聖審判與凡人愚昧熔鑄於鋼與魂，今此戰錘每道傷痕皆燃天堂之光，若星辰哀悼其墮落。傳言其魂仍在界域遊蕩，借此器尋救贖之途。</content>
+<content contentuid="h9441ed43gef5ag4890g98b6g678e6308c0c5" version="1">終焉懲戒</content>
+<content contentuid="h3d384de1gb869g4f90gbd86g3e38635f2ff4" version="1">妳現在擁有&lt;b&gt;[1]&lt;/b&gt;個&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反應點數&lt;/LSTag&gt;。當一個敵人對妳進行近戰攻擊時，自動消耗一個&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反應&lt;/LSTag&gt;來進行一次&lt;LSTag Type="Spell" Tooltip="Target_Weapon122"&gt;武器攻擊&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt;墮神之錘&lt;b&gt;不允許妳手動&lt;/b&gt;控制使用該武器進行反擊。</content>
+
+<content contentuid="h220213aegb728g4c3eg985bg5291f15490f9" version="1">幽影噬魂</content>
+ <content contentuid="h8b968670gb685g4dbcgb1e6gc0391d19e446" version="1">古籍記載，正義將軍達斯坦深入影界深淵，為陰影古龍所誘。此矛乃其墮落之證，刃鋒纏繞永夜之影，噬魂蝕魄。傳說其主仍在暮光中遊蕩，矛尖所指之處，生命化為虛無。</content>
+<content contentuid="h9661732fg294bg45b9gb610g3d5d7579445f" version="1">影蝕·魂噬</content>
+<content contentuid="hbd2c3d81g06d8g4138g9d06gfed9ba5f8b37" version="1">當在&lt;b&gt;陰影&lt;/b&gt;中用這把長矛攻擊敵人時，恢復&lt;b&gt;[1]&lt;/b&gt;，併迫使目標進行一次體質&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;(&lt;b&gt;[2]&lt;/b&gt;)否則將在&lt;b&gt;[3]&lt;/b&gt;回合內遭受&lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;流血&lt;/LSTag&gt;狀態。</content>
+
+<content contentuid="hc8a2ca31g54a7g45fdgaccag1f83f0206cd5" version="1">星核奇點·虛淵弩</content>
+<content contentuid="ha0488aa1g053fg4eedg886dgc8bdbc2656d5" version="1">古籍載，吉斯洋基大匠師克拉斯於星界交匯之期，以坍縮星池之能鑄此神器。弩身水晶摺射流光若漣漪，幽暗中銀輝躍動如星辰列陣。三神器之一，其造物者與其余兩件皆湮滅於虛空傳說，唯余此弩攜星界奇點之力，撕裂維度之膜。</content>
+<content contentuid="h2cf4def9g3c85g4215g9b17gb8da2ae76319" version="1">引力崩解</content>
+<content contentuid="h38e4c35bgc9b9g47d8gaa8fge3737836a538" version="1">發射一枚特殊箭矢，除非成功進行一次力量&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;(&lt;b&gt;[1]&lt;/b&gt;)，否則會將&lt;b&gt;[2]&lt;/b&gt;範圍內的所有生物和物體拉嚮命中點。</content>
+
+<content contentuid="h8d65fdebg6f81g4d73ga01cg12959dd3b77b" version="1">創世之斧</content>
+<content contentuid="h406cc204g1a9cg41a1ga3b7g0118b189521e" version="1">暮光耐色瑞爾，魔力如水。帝王命匠師於古星下鑄七柄聖斧，刃紋凝天光如創世王冠。非為血之器，乃以智慧贏王權——鋒刃輝耀神啟之能，可令最兇殘之敵化為最忠貞之盟友。七聖斧唯存三柄，各以無血之勝，改寫歴史之頁。</content>
+<content contentuid="ha886ce93gf21ag4a41g9997g3f991fa40e5c" version="1">禦統王權</content>
+<content contentuid="he987de2bg536dg4f50g915dge22d105a7631" version="1">攻擊時，迫使目標進行一次感知&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;(&lt;b&gt;[1]&lt;/b&gt;)否則成為妳的&lt;LSTag Type="Status" Tooltip="DOMINATE_WEAPON125"&gt;盟友&lt;/LSTag&gt;持續&lt;b&gt;[2]&lt;/b&gt;回合。&lt;br&gt;&lt;br&gt;每回合觸發不超過&lt;b&gt;一次&lt;/b&gt;。</content>
+
+<content contentuid="ha1df392fg6c0fg4b65g9f1fg827d5c0259b1" version="1">末日行者</content>
+<content contentuid="hfd0fd1f8g7bb3g4d0agb0b5g02989cd3d230" version="1">燭堡禁典最幽暗卷軸記載，拉文娜女爵以仟年詛咒血脈為引，於蘭坦聖爐熔煉鋼鐵與陰影，鑄此反咒紋之器。錘面每道裂痕皆銘刻其駕馭邪能之證，雖宿命湮滅於時光，此錘仍為黑暗轉生之炬，昭示逆命為聖之道。</content>
+<content contentuid="h5abe889bgf439g4e21ga3a2gb05fff714f3f" version="1">邪步逆命</content>
+<content contentuid="h0f6b9d36g1031g4f4cgabb8g72e63e5b9e2b" version="1">當處於&lt;b&gt;詛咒&lt;/b&gt;狀態下（不包括&lt;i&gt;&lt;LSTag Type="Status" Tooltip="HEX_STRENGTH"&gt;脆弱詛咒：力量&lt;/LSTag&gt;!）時，用這把戰錘傷害生物會恢復妳所有的&lt;LSTag Tooltip="MovementSpeed"&gt;移動點數&lt;/LSTag&gt;併對目標造成&lt;b&gt;[1]&lt;/b&gt;。</content>
+<content contentuid="h33ace381g958dg42a1g8049g4dcda4b7f443" version="3">當佩戴者的&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;為&lt;b&gt;[2]%&lt;/b&gt;或更低併且受到傷害時，他們會嚮攻擊者造成&lt;b&gt;[1]&lt;/b&gt;。</content>
+</contentList>

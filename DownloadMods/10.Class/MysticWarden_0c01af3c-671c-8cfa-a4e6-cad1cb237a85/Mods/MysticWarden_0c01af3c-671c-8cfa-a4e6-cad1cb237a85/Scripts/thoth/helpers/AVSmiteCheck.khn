@@ -1,0 +1,137 @@
+function IsAVSmite()
+    return SpellId('Target_ArcaneVanguardConcentration')
+    | SpellId('Target_ArcaneVanguardConcentration_2') 
+    | SpellId('Target_ArcaneVanguardConcentration_3')
+    | SpellId('Target_ArcaneVanguardConcentration_4')
+    | SpellId('Target_ArcaneVanguardConcentration_5')
+    | SpellId('Target_ArcaneVanguardConcentration_6')
+    | SpellId('Target_ArcaneVanguardConcentration_7')
+    | SpellId('Target_ArcaneVanguardConcentration_8')
+    | SpellId('Target_ArcaneVanguardConcentration_9')
+    | SpellId('Projectile_AVConcentrationRaged')
+    | SpellId('Projectile_AVConcentrationRaged_2')
+    | SpellId('Projectile_AVConcentrationRaged_3')
+    | SpellId('Projectile_AVConcentrationRaged_4')
+    | SpellId('Projectile_AVConcentrationRaged_5')
+    | SpellId('Projectile_AVConcentrationRaged_6')
+    | SpellId('Projectile_AVConcentrationRaged_7')
+    | SpellId('Projectile_AVConcentrationRaged_8')
+    | SpellId('Projectile_AVConcentrationRaged_9')
+end
+
+function IsDervishFlourish()
+    return SpellId('Target_EvocationFlourish')
+    | SpellId('Target_TransmutationFlourish') 
+    | SpellId('Target_AbjurationFlourish') 
+    | SpellId('Target_IllusionFlourish') 
+    | SpellId('Target_DivinationFlourish') 
+    | SpellId('Target_NecromancyFlourish') 
+    | SpellId('Target_EnchantmentFlourish') 
+    | SpellId('Target_EvocationFlourishTwo') 
+    | SpellId('Target_EnchantmentFlourishTwo') 
+    | SpellId('Target_AbjurationFlourishTwo') 
+    | SpellId('Target_NecromancyFlourishTwo') 
+    | SpellId('Target_IllusionFlourishTwo') 
+end
+
+function IsFirstFlourish()
+    return SpellId('Target_EvocationFlourish')
+    | SpellId('Target_TransmutationFlourish') 
+    | SpellId('Target_AbjurationFlourish') 
+    | SpellId('Target_IllusionFlourish') 
+    | SpellId('Target_DivinationFlourish') 
+    | SpellId('Target_NecromancyFlourish') 
+    | SpellId('Target_EnchantmentFlourish') 
+end
+
+function IsSecondFlourish()
+    return SpellId('Target_EvocationFlourishTwo') 
+    | SpellId('Target_EnchantmentFlourishTwo') 
+    | SpellId('Target_AbjurationFlourishTwo') 
+    | SpellId('Target_NecromancyFlourishTwo') 
+    | SpellId('Target_IllusionFlourishTwo')
+end
+
+function IsDamageFlourish()
+    return SpellId('Target_EvocationFlourish')
+    | SpellId('Target_EvocationFlourishTwo')
+end
+
+function IsUtilFlourish()
+    return SpellId('Target_AbjurationFlourish')
+    | SpellId('Target_DivinationFlourish')
+    | SpellId('Target_IllusionFlourish')
+    | SpellId('Target_NecromancyFlourishTwo')
+    | SpellId('Target_AbjurationFlourishTwo')
+end
+
+function IsContFlourish()
+    return SpellId('Target_TransmutationFlourish')
+    | SpellId('Target_NecromancyFlourish')
+    | SpellId('Target_EnchantmentFlourish')
+    | SpellId('Target_IllusionFlourishTwo')
+    | SpellId('Target_EnchantmentFlourishTwo')
+end
+
+function HasLightArmor(entity)
+    entity = entity or context.Target
+    local armor = GetActiveArmor(entity)
+    local hasLightArmor = armor.ArmorType == ArmorType.Padded 
+    or armor.ArmorType == ArmorType.Leather 
+    or armor.ArmorType == ArmorType.StuddedLeather
+    return ConditionResult(hasLightArmor)
+end
+
+function HasMediumArmor(entity)
+    entity = entity or context.Target
+    local armor = GetActiveArmor(entity)
+    local hasMediumArmor = armor.ArmorType == ArmorType.Hide 
+    or armor.ArmorType == ArmorType.ChainShirt 
+    or armor.ArmorType == ArmorType.ScaleMail 
+    or armor.ArmorType == ArmorType.BreastPlate
+    or armor.ArmorType == ArmorType.HalfPlate   
+    return ConditionResult(hasMediumArmor)
+end
+
+function AV_TrueStrike_Ranged()
+	return Attack(AttackType.RangedWeaponAttack)
+end
+
+function AV_TrueStrike_Melee()
+	return Attack(AttackType.MeleeWeaponAttack)
+end
+
+function VanguardTechCheck()
+    return VanguardTechSpellCheck()
+    & HasUseCosts('ActionPoint',false)
+    & ~IsCantrip()
+end
+
+function VanguardTechSpellCheck()
+    return HasStringInSpellRoll('WeaponAttack')
+    | HasStringInSpellRoll('UnarmedAttack') 
+    | HasStringInSpellRoll('ThrowAttack') 
+    | SpellId('Target_CommandersStrike') 
+    | SpellId('Target_Bufotoxin_Frog_Summon') 
+    | SpellId('Projectile_ArrowOfSmokepowder')
+end
+
+function VanguardTechAttackCheck()
+    return HasStringInSpellRoll('AttackType.MeleeWeaponAttack')
+end
+
+function VanguardMeleeCheck()
+    return HasStringInSpellRoll('AttackType.MeleeWeaponAttack')
+    & ~IsCantrip()
+end
+
+function AVAtkCheck()
+    return HasSpellFlag(SpellFlags.Spell)
+    & (HasStringInSpellRoll('AttackType.RangedSpellAttack') | HasStringInSpellRoll('AttackType.MeleeSpellAttack'))
+    & ~HasStringInSpellRoll('WeaponAttack')
+end
+
+function AVAtkSaveCheck()
+    return AVAtkCheck()
+    | HasStringInSpellRoll('SavingThrow')
+end

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Vanguard Fighting Styles"/>
+                    <attribute id="Passives" type="LSString" value="TacticalEvasion,RunnerArcaneVanguard,EmpowerArcane,CriticalSpellAfterCritical,FightingStyleAVOneHanded,FightingStyleAVRanged,AVTwoHandedFightingStyle,AVDualWieldFightingStyle,AVFinesseFightingStyle"/>
+                    <attribute id="UUID" type="guid" value="bbc380f3-5429-44c1-b03a-dccea94feb30"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Vanguard Talents"/>
+                    <attribute id="Passives" type="LSString" value="Transposition,AVTalentHealingAura,ArcaneVanguardConcentration,LiberatedCasting,AVDervishLevelSix,AVAllMeleeSpells"/>
+                    <attribute id="UUID" type="guid" value="bc05da65-7c95-47b5-9ac5-644a0f5d37c6"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Dervish Flourish Options"/>
+                    <attribute id="Passives" type="LSString" value="DervishStrikeOneEvocation,DervishStrikeOneTransmutation,DervishStrikeOneAbjuration,DervishStrikeOneIllusion,DervishStrikeOneDivination,DervishStrikeOneNecromancy,DervishStrikeOneEnchantment"/>
+                    <attribute id="UUID" type="guid" value="0aa8f44d-1ab5-4e8c-9395-48874e3b2de9"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Dervish Second Flourish"/>
+                    <attribute id="Passives" type="LSString" value="DervishStrikeTwoEvocation,DervishStrikeTwoEnchantment,DervishStrikeTwoAbjuration,DervishStrikeTwoNecromancy,DervishStrikeTwoIllusion"/>
+                    <attribute id="UUID" type="guid" value="4bb7fc26-95f7-4eeb-a657-3c98cc87a6e6"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Dervish Third Flourish"/>
+                    <attribute id="Passives" type="LSString" value="DervishFinisherOne,DervishFinisherTwo,DervishFinisherThree"/>
+                    <attribute id="UUID" type="guid" value="e75e89d2-08e8-439f-ae25-b5d226f518fa"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Vanguard Talents Two"/>
+                    <attribute id="Passives" type="LSString" value="WardenRecovery,Transposition,AVTalentHealingAura,ArcaneVanguardConcentration,LiberatedCasting,FollowUp,AVDervishLevelSix,AVJLevelSixPassive,AVAllMeleeSpells,AVSchoolTalent"/>
+                    <attribute id="UUID" type="guid" value="f364716c-8ad0-48c6-af7d-3688ce08efb8"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Vanguard Talents Three"/>
+                    <attribute id="Passives" type="LSString" value="AVWeaponAttackSpells,WardenRecovery,Transposition,VanguardProtection,AVTalentHealingAura,ArcaneVanguardConcentration,LiberatedCasting,FollowUp,AVDervishLevelSix,AVJLevelSixPassive,AVAllMeleeSpells,AVSchoolTalent"/>
+                    <attribute id="UUID" type="guid" value="f029e5cc-57bc-4c46-b485-e882d4846068"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Vanguard Talents Four"/>
+                    <attribute id="Passives" type="LSString" value="AVWeaponAttackSpells,WardenRecovery,Transposition,RecklessAim,VanguardProtection,AVTalentHealingAura,ArcaneVanguardConcentration,LiberatedCasting,FollowUp,AVDervishLevelSix,AVJLevelSixPassive,AVAllMeleeSpells,AVSchoolTalent"/>
+                    <attribute id="UUID" type="guid" value="cfc82c2b-b28d-4962-9604-05a8693de2f5"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Vanguard Talents Five"/>
+                    <attribute id="Passives" type="LSString" value="AVBonusExtraAttack,AVWeaponAttackSpells,WardenRecovery,Transposition,RecklessAim,VanguardProtection,AVTalentHealingAura,ArcaneVanguardConcentration,LiberatedCasting,FollowUp,AVDervishLevelSix,AVJLevelSixPassive,AVAllMeleeSpells,AVSchoolTalent"/>
+                    <attribute id="UUID" type="guid" value="9b65eac0-6790-4d80-b907-a92ada581a74"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Vanguard Charisma Sub"/>
+                    <attribute id="Passives" type="LSString" value="WellArgued,AVIntimidationBonus,AVDeceptionBonus"/>
+                    <attribute id="UUID" type="guid" value="5665d9ed-db49-4787-83f4-fe182c5df9ab"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Eldritch Implemenets List"/>
+                    <attribute id="Passives" type="LSString" value="AVConduitStaff,AVConduitLantern,AVConduitXbow,AVConduitCarapace"/>
+                    <attribute id="UUID" type="guid" value="6f97e521-50ac-40c9-9b97-fe6a37935166"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Implement Mastery"/>
+                    <attribute id="Passives" type="LSString" value="AVLanternMastery,AVStaffMastery,AVXbowMastery,AVCarapaceMastery"/>
+                    <attribute id="UUID" type="guid" value="605c5433-f293-42cc-a779-089d0735ae93"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
