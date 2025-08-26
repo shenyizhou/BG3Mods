@@ -1,0 +1,7 @@
+new entry "SHATTERED_FOCUS_VFX"
+type "StatusData"
+data "StatusType" "EFFECT"
+data "SoundStart" "INTERRUPT_PROJECTED_WARD"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "StatusEffect" "658b7b10-6f9c-4dc5-8d08-56116e9ee793"
+

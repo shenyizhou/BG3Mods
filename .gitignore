@@ -1,5 +1,6 @@
 Backup/UnpackedData/
 Backup/UnpackedMods/
+DownloadMods/**/*.7z
 DownloadMods/**/*.GR2
 DownloadMods/**/*.bak
 DownloadMods/**/*.loca
@@ -19,7 +20,6 @@ DownloadMods/**/ErrorDescriptions/
 DownloadMods/**/Factions/
 DownloadMods/**/Flags/
 DownloadMods/**/GUI/
-DownloadMods/**/Generated/
 DownloadMods/**/Globals/
 DownloadMods/**/Japanese/
 DownloadMods/**/Korean/

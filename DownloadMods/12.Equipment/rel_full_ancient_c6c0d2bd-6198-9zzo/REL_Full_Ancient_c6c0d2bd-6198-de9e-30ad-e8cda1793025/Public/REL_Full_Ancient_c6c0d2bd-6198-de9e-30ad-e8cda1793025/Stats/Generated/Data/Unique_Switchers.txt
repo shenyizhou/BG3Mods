@@ -1,0 +1,19 @@
+new entry "ARM_Splint_Body_Dwarven"
+type "Armor"
+using "ARM_Splint_Body_Dwarven"
+data "Unique" "1"
+
+new entry "DEN_HellridersPride"
+type "Armor"
+using "DEN_HellridersPride"
+data "Unique" "1"
+
+new entry "UNI_RobeOfSummer"
+type "Armor"
+using "UNI_RobeOfSummer"
+data "Unique" "1"
+
+new entry "ARM_HeadbandOfIntellect"
+type "Armor"
+using "ARM_HeadbandOfIntellect"
+data "Unique" "1"

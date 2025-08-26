@@ -1,0 +1,23 @@
+new equipment "EQP_Training_Boy"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Shortsword_Rusty"
+add equipmentgroup
+add equipment entry "ARM_Duergar_Shield_A"
+add equipmentgroup
+add equipment entry "UNI_Daisy_Plate"
+add equipmentgroup
+add equipment entry "ARM_Boots_Metal_Oathbreaker"
+add equipmentgroup
+add equipment entry "ARM_Jester_Hat"
+add equipmentgroup
+add equipment entry "MAG_Fighter_ActionSurge_AttackBonus_Gloves"
+
+new equipment "EQP_AMP_Skeleton01"
+add initialweaponset "Ranged"
+add equipmentgroup
+add equipment entry "WPN_HandCrossbow_u"
+add equipmentgroup
+add equipment entry "WPN_HandCrossbow_u"
+add equipmentgroup
+add equipment entry "WPN_Rapier_u"

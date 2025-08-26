@@ -1,0 +1,91 @@
+\ABSOLUTE'S WARBOARD/
+
+new entry "GOB_Priest_Shield_Passive"
+type "PassiveData"
+using "GOB_Priest_Shield_Passive"
+data "Description" "h8c06cc4agbc14g4507gb72cg2e8c5db16f05;3"
+data "Boosts" "IF(Tagged('BRANDED') or Tagged('ILLITHID', context.Source)):RollBonus(SavingThrow, 1)"
+
+\GLOOMSTRAND SHIELD/
+
+new entry "MAG_Harpers_ShieldsOfShadows"
+type "Armor"
+using "MAG_Harpers_ShieldsOfShadows"
+data "Boosts" "Skill(Stealth, 3)"
+
+\GLOWING SHIELD/
+
+new entry "MAG_LowHP_TemporaryHP_Passive"
+type "PassiveData"
+using "MAG_LowHP_TemporaryHP_Passive"
+data "Description" "h2a3a2846g5578g46b1g981dg68462bab1ccf;3"
+data "DescriptionParams" "15"
+data "StatsFunctors" "ApplyStatus(MAG_TEMPORARY_HP_15,100,-1)"
+
+\THE REAL SPARKY SPARKSWALL/
+
+new entry "Shout_MAG_ChargedLightning_LightningAura"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_MAG_ChargedLightning_LightningAura"
+data "Cooldown" "OncePerShortRestPerItem"
+
+\WATCHER'S SHIELD/
+
+new entry "TWN_ShieldOfWatcher"
+type "Armor"
+using "TWN_ShieldOfWatcher"
+data "Boosts" "Advantage(Skill,Perception);RollBonus(SavingThrow, 1)"
+
+\WOOD WOAD SHIELD/
+new entry "Target_MAG_EnsnaringStrike_Shield"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_MAG_EnsnaringStrike_Shield"
+data "SpellSuccess" "ApplyStatus(ENSNARING_STRIKE,100, 10);DealDamage(1d4, Bludgeoning,Magical)"
+data "TooltipStatusApply" "ApplyStatus(ENSNARING_STRIKE,100, 10)"
+
+\ABSOLUTE'S PROTECTOR/
+
+new entry "MAG_AbsoluteProtector_Shield_Passive"
+type "PassiveData"
+using "MAG_AbsoluteProtector_Shield_Passive"
+data "Description" "hb02b1f0fg420dg413cg8022gf742c792e60f;3"
+data "Boosts" "IF(Tagged('BRANDED') or Tagged('ILLITHID', context.Source) and IsSpell()):DamageReduction(All, Flat, 1)"
+
+\SHIELD OF SHIELDING/
+
+new entry "Shout_MAG_Shield"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_MAG_Shield"
+data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "MAG_Interrupt_MAG_Shield_Resource_Passive"
+type "PassiveData"
+using "MAG_Interrupt_MAG_Shield_Resource_Passive"
+data "Properties" "IsHidden;OncePerShortRest"
+data "StatsFunctorContext" "OnCreate;OnShortRest"
+
+\SHIELD OF DEVOTION/
+
+new entry "MAG_BG_OfDevotion_Shield"
+type "Armor"
+using "MAG_BG_OfDevotion_Shield"
+data "Boosts" "UnlockSpell(Shout_MAG_Aid_3)"
+
+new entry "Shout_MAG_Aid_3"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_MAG_Aid"
+data "Level" "3"
+data "Cooldown" "OncePerRestPerItem"
+data "SpellProperties" "ApplyStatus(MAG_AID_3,100,-1)"
+data "DisplayName" "h0b3e0dcageb69g463egb220ge6cf16931645;1"
+data "DescriptionParams" "RegainHitPoints(10)"
+data "TooltipDamageList" "RegainHitPoints(10)"
+data "TooltipStatusApply" "ApplyStatus(MAG_AID_3,100,-1)"
+data "TooltipUpcastDescription" ""
+data "TooltipUpcastDescriptionParams" ""
+data "UseCosts" "ActionPoint:1"
+data "RootSpellID" ""

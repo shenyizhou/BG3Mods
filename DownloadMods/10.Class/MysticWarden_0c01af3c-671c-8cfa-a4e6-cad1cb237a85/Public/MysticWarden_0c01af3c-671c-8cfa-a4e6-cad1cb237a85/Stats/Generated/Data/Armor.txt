@@ -1,0 +1,16 @@
+new entry "AV_EldritchRobe_Conduit"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "6fefe9dd-71f9-4ff6-b8bc-5bdca6df7035"
+data "ArmorClass" "10"
+data "Rarity" "Rare"
+data "Weight" "0"
+data "PassivesOnEquip" "AVCarapacePassiveBoosts;AVCarapaceReactionDisplay;AVCarapaceACSaveDisplay;AVVoratiousMalivoreUnlock;"
+data "StatusOnEquip" "AV_ELDRITCH_CARAPACE_EQUIPPED"
+data "ArmorType" "Cloth"
+
+new entry "AV_Starter_Leather_ArcaneVanguard"
+type "Armor"
+using "ARM_Leather_Body"
+data "RootTemplate" "b9b14756-65d4-4ac5-b714-41020b063591"
+

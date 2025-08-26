@@ -1,0 +1,22 @@
+new entry "INTERRUPT_ECHOOFOBLIVION_NB438_VFX"
+type "StatusData"
+data "StatusType" "EFFECT"
+data "SoundStart" "Spell_Impact_Damage_Poison_CloudKill_L4to5"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "StatusEffect" "3f8a85a4-e3d9-4819-893a-253dbd727e13"
+
+new entry "INTERRUPT_JUDGEMENT_NB438_VFX"
+type "StatusData"
+data "StatusType" "EFFECT"
+data "SoundStart" "Spell_Impact_Damage_Radiant_DivineSmite_L1to3"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "StatusEffect" "8641677f-451d-4b45-a654-d7c13d0fbb72"
+
+new entry "STARBOUNDSACRAMENT_VFX_NB438"
+type "StatusData"
+data "StatusType" "EFFECT"
+data "SoundStart" "Action_Impact_Druid_CosmicOmens"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "ApplyEffect" "c5e93a9c-3519-471e-9c0e-4a1d97f4dc2b"
+data "StatusEffect" "c5e93a9c-3519-471e-9c0e-4a1d97f4dc2b"
+

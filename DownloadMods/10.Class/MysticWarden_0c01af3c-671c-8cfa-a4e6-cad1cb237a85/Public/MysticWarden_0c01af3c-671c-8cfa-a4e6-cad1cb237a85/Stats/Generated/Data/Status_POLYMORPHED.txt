@@ -1,0 +1,12 @@
+new entry "AV_CHAIN_BLINK"
+type "StatusData"
+data "StatusType" "POLYMORPHED"
+using "GASEOUS_FORM"
+data "DisplayName" "hd5ffb24cgf1dcga581g0684g6e33c4516423;1"
+data "Description" "ha7405747g1201g5433g9392gfe8d5e43319d;2"
+data "Icon" "Spell_Transmutation_Blink"
+data "Boosts" "Invulnerable();Attribute(Floating);IgnoreFallDamage();VoicebarkBlock();BlockSpellCast();DialogueBlock();CanShootThrough(true);CanWalkThrough(true);"
+data "Rules" "a0c347dd-1f2e-45e2-a0ab-46de1d08dcce"
+data "ApplyEffect" "373f3814-747e-4f91-aee1-088a8812a926"
+data "StatusEffect" "674b67be-a09f-4ca6-82c3-ad949d1e8ce5"
+

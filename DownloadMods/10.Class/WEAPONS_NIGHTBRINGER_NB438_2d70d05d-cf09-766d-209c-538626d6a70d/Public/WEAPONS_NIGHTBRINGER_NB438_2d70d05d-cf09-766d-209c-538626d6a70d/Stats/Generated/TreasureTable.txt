@@ -1,0 +1,33 @@
+treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+new treasuretable "WeaponChest1_NB438_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_VorrakSul_NB438",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_VorrakSul_Nerfed_NB438",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_VorrakNox_NB438",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_VorrakNox_Nerfed_NB438",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WhisperingScar",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WhisperingScar_Nerfed",1,0,0,0,0,0,0,0
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_WeaponChest1_NB438",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WeaponChest2_NB438",1,0,0,0,0,0,0,0
+new treasuretable "WeaponChest2_NB438_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_VorrakSul_Final_NB438",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_VorrakNox_Final NB438",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Crossbow1_NB438",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Crossbow2_NB438",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Spear_NB438",1,0,0,0,0,0,0,0

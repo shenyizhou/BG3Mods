@@ -1,0 +1,17 @@
+treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+new treasuretable "Chest_NB438_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_Armor_NB438",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Gloves_NB438",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Boots2_NB438",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Helmet_NB438",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Cape_NB438",1,0,0,0,0,0,0,0
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_Chest_NB438",1,0,0,0,0,0,0,0

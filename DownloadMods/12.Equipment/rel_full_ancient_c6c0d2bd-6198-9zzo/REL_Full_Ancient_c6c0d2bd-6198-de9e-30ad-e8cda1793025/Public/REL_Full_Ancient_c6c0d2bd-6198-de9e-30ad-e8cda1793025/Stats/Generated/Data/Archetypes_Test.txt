@@ -1,0 +1,10 @@
+new entry "AMP_Ranged_Test"
+type "Character"
+using "UND_Duergar_Ranger"
+data "Dexterity" "16"
+data "Vitality" "100"
+
+new entry "AMP_Melee_Test"
+type "Character"
+using "WYR_IronHand_Gnome_Deep_Melee"
+data "Vitality" "100"

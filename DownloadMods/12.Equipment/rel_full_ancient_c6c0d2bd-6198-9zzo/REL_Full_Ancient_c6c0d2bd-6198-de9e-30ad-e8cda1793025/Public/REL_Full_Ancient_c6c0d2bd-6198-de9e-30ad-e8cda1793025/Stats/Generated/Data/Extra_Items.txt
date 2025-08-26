@@ -1,0 +1,3964 @@
+
+new entry "AMP_Torch_Lockpick"
+type "Weapon"
+using "WPN_Torch"
+data "StatusOnEquip" "AMP_LOCKPICK_TORCH_TECHNICAL"
+data "Rarity" "VeryRare"
+
+new entry "AMP_LOCKPICK_TORCH_TECHNICAL"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StatusPropertyFlags" "DisableCombatlog;DisablePortraitIndicator;DisableOverhead;ApplyToDead;IgnoreResting"
+data "StackId" "AMP_LOCKPICK_TORCH_TECHNICAL"
+data "StatusEffect" "1950255c-6fc3-44ca-b271-55de0401fdf9"
+
+new entry "AMP_LOCKPICK_TORCH_VFX"
+type "StatusData"
+data "StatusType" "EFFECT"
+data "StackId" "AMP_LOCKPICK_TORCH_VFX"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting;ApplyToDead"
+data "StatusEffect" "1950255c-6fc3-44ca-b271-55de0401fdf9"
+
+new entry "AMP_Note01"
+type "Object"
+using "_Book"
+data "RootTemplate" "54bdb38e-9f06-45eb-953a-4ce751e43161"
+data "Weight" "0.05"
+data "Vitality" "1"
+data "ValueOverride" "1"
+data "Rarity" "VeryRare"
+
+new entry "Shout_AMP_Test"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_DivineFavor"
+data "Level" ""
+data "SpellSchool" "Transmutation"
+data "SpellProperties" ""
+data "TargetConditions" "Self()"
+data "Icon" "Spell_Divination_ComprehendLanguages"
+data "DisplayName" "h6ea5de53g647fg4d09ga4b0g904ca4db08f7;1"
+data "Description" "h5a8533c8g0d6fg4d79gb623g6851770d7c93;1"
+data "DescriptionParams" ""
+data "TooltipStatusApply" ""
+data "TooltipUpcastDescription" ""
+data "UseCosts" ""
+data "VerbalIntent" "Buff"
+data "SpellStyleGroup" "Intent"
+data "SpellFlags" "HasVerbalComponent;HasSomaticComponent"
+
+// Critical Hit Archer
+
+
+
+// Critical Hit Melee
+
+
+
+
+// Critical Hit Hand Crossbows
+
+
+
+
+// Critical Hit Scorching Ray
+
+
+
+
+// Critical Hit Caster
+
+
+
+
+// Necrolord
+
+
+
+// One-shot Rogue
+
+
+
+
+// Retaliatory Damage
+
+
+
+
+// Celestial being (Radiant Damage / Divine)
+
+// Celestial Gloves
+new entry "AMP_Celestial_Gloves"
+type "Armor"
+using "ARM_Gloves_Metal"
+data "RootTemplate" "81ab8d0a-ffde-4fb3-8bd0-350b719bae9e"
+data "ValueOverride" "2500"
+data "Rarity" "Legendary"
+data "Weight" "1.5"
+data "Unique" "1"
+data "ComboCategory" "d4"
+data "Proficiency Group" "HeavyArmor"
+data "PassivesOnEquip" "AMP_Celestial_Gloves_Passive"
+data "StatusOnEquip" "AMP_CELESTIAL_GLOVES_TECHNICAL"
+data "Boosts" ""
+
+new entry "AMP_Celestial_Gloves_Passive"
+type "PassiveData"
+data "DisplayName" "he5e486b4gd591g4b80g93deg5e79fd9e81d3;1"
+data "Description" "ha7d7743fg5386g42cdgb520g51580fd07d68;1"
+data "DescriptionParams" "DealDamage(1d20,Radiant)"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "IsWeaponAttack() and (IsMiss() or IsCriticalMiss()) and Enemy()"
+data "StatsFunctors" "DealDamage(1d20,Radiant,Magical)"
+
+new entry "AMP_CELESTIAL_GLOVES_TECHNICAL"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackId" "AMP_CELESTIAL_GLOVES_TECHNICAL"
+data "StatusPropertyFlags" "DisableCombatlog;DisablePortraitIndicator;DisableOverhead;ApplyToDead;IgnoreResting"
+
+// Seraph's Final Testament
+new entry "AMP_Celestial_HeavyArmour"
+type "Armor"
+using "ARM_Plate_Body_2"
+data "RootTemplate" "e7466178-1d23-4b4d-a8a1-7eb631e2a531"
+data "ValueOverride" "5000"
+data "ValueUUID" ""
+data "Rarity" "Legendary"
+data "ArmorClass" "25"
+data "Weight" "25"
+data "Boosts" "AbilityOverrideMinimum(Constitution, 25, true);AbilityOverrideMinimum(Strength, 25);AbilityOverrideMinimum(Dexterity, 25);AbilityOverrideMinimum(Wisdom, 25);AbilityOverrideMinimum(Intelligence, 25);AbilityOverrideMinimum(Charisma, 25);Disadvantage(Skill,Stealth);Tag(CELESTIAL)"
+data "ArmorType" "Plate"
+data "MinLevel" "1"
+data "Proficiency Group" "HeavyArmor"
+data "PassivesOnEquip" ""
+data "StatusOnEquip" ""
+data "Unique" "1"
+
+// One-shotter
+
+
+
+
+// Shadow Walker
+
+
+
+
+// Fire Lord
+
+
+
+
+// Stunlocker
+
+
+
+
+// Storm Caster
+
+
+
+
+// Armored Healer
+
+
+
+// Orbs Expansion
+
+// ========================================
+// FIRE ORB RINGS
+// ========================================
+
+// Fire Orb Ring - Tier 1 (Uncommon)
+// Artificer's Boost Collection - 22 unique artifacts with liquid-filled containers
+
+// Poison Ivy Extract
+new entry "AMP_Artificers_Boost01"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "3af6f422-b789-407a-a6f2-a12f1811d0e6"
+data "ValueOverride" "200"
+data "Rarity" "Uncommon"
+data "Unique" "1"
+data "ComboCategory" "d1"
+data "PassivesOnEquip" "AMP_PoisonEnhancer_Passive"
+
+new entry "AMP_PoisonEnhancer_Passive"
+type "PassiveData"
+data "DisplayName" "hf3b829a1g6c47g4e92gb815gd04f7a6c9263;1"
+data "Description" "h2d5e6f18gb9c4g45a7g8e20g3f8b1d457e92;1"
+data "DescriptionParams" "DealDamage(,Poison)"
+data "Properties" "Highlighted;OncePerTurn"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "IsWeaponAttack() and HasDamageDoneForType(DamageType.Poison)"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Constitution, ManeuverSaveDC())):RestoreResource(SELF,BonusActionPoint,1,0)"
+
+// First spell each turn doesn't cost a slot, but taking psychic damage on spending
+new entry "AMP_Artificers_Boost02"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "36feac74-fa66-49ed-bfe2-1ed5ff6380ad"
+data "ValueOverride" "1000"
+data "Rarity" "VeryRare"
+data "Unique" "1"
+data "ComboCategory" "d3"
+data "PassivesOnEquip" "AMP_02_Passive"
+data "StatusOnEquip" "AMP_02_TECHNICAL"
+
+new entry "AMP_02_Passive"
+type "PassiveData"
+data "DisplayName" "hc8f4e729g5a1bg4d63g9e47g82b3c6f95d18;1"
+data "Description" "h9a7d2c41gb456g4e89ga293gf74e8b1c6d95;1"
+data "DescriptionParams" "1;4"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnTurn"
+data "Conditions" "Combat() and not HasStatus('AMP_FREE_CAST')"
+data "StatsFunctors" "ApplyStatus(SELF,AMP_FREE_CAST,100,-1)"
+
+// Technical status for cleanup
+new entry "AMP_02_TECHNICAL"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackId" "AMP_02_TECHNICAL"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting;ApplyToDead"
+data "OnRemoveFunctors" "RemoveStatus(AMP_FREE_CAST)"
+
+// Free cast status
+new entry "AMP_FREE_CAST"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "he3b6f927g4c58g4a72gb184gd9f5a8e4c631;1"
+data "Description" "h6d1a5f38g7e92g4b65gc047ga8b2d3f67e94;1"
+data "DescriptionParams" "DealDamage(1d10,Psychic)"
+data "Icon" "Action_WildMagic_TurnMagic"
+data "FormatColor" "LightBlue"
+data "StackId" "AMP_FREE_CAST"
+data "StatusPropertyFlags" "DisableCombatlog;IgnoreResting;ApplyToDead"
+data "Boosts" "UnlockSpellVariant(IsLeveledSpell(),ModifyUseCosts(Replace,SpellSlot,0,-1,SpellSlot),ModifyUseCosts(Replace,WarlockSpellSlot,0,-1,WarlockSpellSlot),ModifyUseCosts(Replace,SpellSlotsGroup,0,-1,SpellSlotsGroup),ModifyIconGlow(),ModifyTooltipDescription())"
+data "RemoveConditions" "IsSpell() and not IsCantrip()"
+data "RemoveEvents" "OnSpellCast"
+data "OnRemoveFunctors" "DealDamage(SELF,1d10,Psychic)"
+
+
+// While you are in Madness state or similar, all your unarmed attacks are critical hits
+new entry "AMP_Artificers_Boost03"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "7dcc7567-3451-45e2-bb15-469062114c82"
+data "ValueOverride" "500"
+data "Rarity" "Rare"
+data "Unique" "1"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_MadnessStriker_Passive"
+
+new entry "AMP_MadnessStriker_Passive"
+type "PassiveData"
+data "DisplayName" "h4f7a8b29gc15dg4e68ga047gd3b9f5c28e71;1"
+data "Description" "ha2e6d948g73b1g4c92gb865ge8f4a7d35c96;1"
+data "Properties" "Highlighted"
+data "BoostContext" "OnStatusApplied;OnStatusRemoved;OnCreate"
+data "Boosts" "IF(StatusHasStatusGroup(context.StatusId, 'SG_Mad') and IsUnarmedAttack()):CriticalHit(AttackRoll,Success,ForcedAlways)"
+
+// You can infinitely swap places with creatures in combat
+new entry "AMP_Artificers_Boost04"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "b3df166b-7276-47d4-822b-7a8c8fa89e5f"
+data "ValueOverride" "1000"
+data "Rarity" "VeryRare"
+data "Unique" "1"
+data "ComboCategory" "d3"
+data "Boosts" "UnlockSpell(Target_AMP_InfiniteSwap)"
+
+new entry "Target_AMP_InfiniteSwap"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_BenignTransposition_Teleport"
+data "DisplayName" "hb3c7f684ga928g4d51ge739gf6a4c8b91e27;1"
+data "Description" "hd8f2a157gb634g4e78ga492gc5e9d7f43b86;1"
+data "DescriptionParams" "12"
+data "Icon" "Action_BenignTransposition"
+data "SpellProperties" "SwapPlaces();IF(SavingThrow(Ability.Intelligence,12)):ApplyStatus(SELF,STUNNED,100,1)"
+data "TooltipAttackSave" "Intelligence"
+data "RequirementConditions" ""
+data "Requirements" "Combat "
+data "TooltipPermanentWarnings" ""
+data "TooltipStatusApply" "ApplyStatus(STUNNED,100,1)"
+data "TargetConditions" "Character() and not Summon()"
+data "TargetRadius" "50"
+data "SpellFlags" "HasVerbalComponent;HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;DisplayInItemTooltip;IgnoreVisionBlock;RangeIgnoreBlindness"
+data "UseCosts" ""
+data "Cooldown" ""
+
+// Applying a status to yourself in combat covers 2m surface in hellfire for 3 turns
+new entry "AMP_Artificers_Boost05"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "af0ff63f-8fdb-4980-b764-0ce7d4e8a97e"
+data "ValueOverride" "500"
+data "Rarity" "Rare"
+data "Unique" "1"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_HellfireAura_Passive"
+
+new entry "AMP_HellfireAura_Passive"
+type "PassiveData"
+data "DisplayName" "h9e4f2a81gc627g4d59gb703ge8c5f9a46b84;1"
+data "Description" "hd7c6e391gb548g4f72ga829gf6d4a8c25e97;1"
+data "DescriptionParams" "Distance(2);3"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnStatusApply"
+data "Conditions" "Self() and not StatusDoesNotInvokeOnStatusApply() and IsGameplayStatus() and Combat()"
+data "StatsFunctors" "GROUND:CreateSurface(2,3,Hellfire)"
+
+// Dealing damage to wounded enemy deals you 1 force damage
+new entry "AMP_Artificers_Boost06"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "dbcd3f0d-5830-4f84-acf2-07c3d33cb51c"
+data "ValueOverride" "200"
+data "Rarity" "Uncommon"
+data "Unique" "1"
+data "ComboCategory" "d1"
+data "PassivesOnEquip" "AMP_ForceDamage_Passive"
+data "Boosts" "UnlockSpell(Projectile_AMP_Artificers_Boost06)"
+
+new entry "Projectile_AMP_Artificers_Boost06"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Projectile_MagicMissile"
+data "Cooldown" "OncePerShortRestPerItem"
+data "UseCosts" "ActionPoint:1"
+
+new entry "AMP_ForceDamage_Passive"
+type "PassiveData"
+data "DisplayName" "h8b4c7a26gd187g4f92ge638gf5a2c9e84d71;1"
+data "Description" "he7f9c421gb653g4a84gd927ga6b8f4c59e38;1"
+data "DescriptionParams" "DealDamage(1,Force)"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "Enemy() and not HasMaxHP()"
+data "StatsFunctors" "DealDamage(SWAP,1,Force,Magical,,0,,true,false)"
+
+// Critical hit threshold reduced by 2 while drunk
+new entry "AMP_Artificers_Boost07"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "8157bc58-5b9d-4918-8cd7-611293ff30ef"
+data "ValueOverride" "1000"
+data "Rarity" "VeryRare"
+data "Unique" "1"
+data "ComboCategory" "d3"
+data "PassivesOnEquip" "AMP_DrunkFighter_Passive"
+
+new entry "AMP_DrunkFighter_Passive"
+type "PassiveData"
+data "DisplayName" "hc9f5d182ga647g4e39gb574gf2e8c6a71d93;1"
+data "Description" "h6b8a4e75gd394g4c62ge187ga9f3d5c48b76;1"
+data "DescriptionParams" "2"
+data "Properties" "Highlighted"
+data "BoostContext" "OnStatusApplied;OnStatusRemoved;OnCreate"
+data "Boosts" "IF((HasStatus('DRUNK') or HasStatus('DRINK_ALCOHOL') or HasStatus('DRUNK_DRUNKEN_MASTER')) and IsUnarmedAttack()):ReduceCriticalAttackThreshold(2)"
+
+// Missing an enemy causes everyone within 5m (including yourself) to petrify for 2 turns
+new entry "AMP_Artificers_Boost08"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "db7b9ce9-a85e-4483-a363-bd46a33c6e66"
+data "ValueOverride" "500"
+data "Rarity" "Rare"
+data "Unique" "1"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_PetrifyingCurse_Passive"
+
+new entry "AMP_PetrifyingCurse_Passive"
+type "PassiveData"
+data "DisplayName" "habbfb66age714g4bcag9f7eg5c49bbecb5d5;1"
+data "Description" "h3b73ae32gc634g4572g8248gdd998eff3286;1"
+data "DescriptionParams" "Distance(5);15;2"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "(IsMiss() or IsCriticalMiss()) and Enemy()"
+data "StatsFunctors" "CreateExplosion(Projectile_AMP_PetrifyingBlast)"
+
+new entry "Projectile_AMP_PetrifyingBlast"
+type "SpellData"
+data "SpellType" "Projectile"
+data "TargetRadius" "5"
+data "AreaRadius" "5"
+data "ExplodeRadius" "5"
+data "SpellRoll" "not SavingThrow(Ability.Strength, 15)"
+data "SpellSuccess" "ApplyStatus(PETRIFIED,100,2)"
+data "TargetConditions" "not Dead()"
+data "Trajectories" "9d893642-654d-41a4-aaad-81f9dc588941,10e3e9e2-82b1-16be-80c3-bba883d01b48,e528a4bd-bc17-d0d1-188c-dbe1d4eda1f0"
+data "SpellFlags" "None"
+
+// You charm a creature you damage - if it fails a Wisdom saving throw. DC depends on Maneuver Save DC.
+new entry "AMP_Artificers_Boost09"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "a9f48895-a024-4bc5-bcd5-3ac94e8d6b02"
+data "ValueOverride" "500"
+data "Rarity" "Rare"
+data "Unique" "1"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_CharmingOnDamage_Passive"
+
+new entry "AMP_CharmingOnDamage_Passive"
+type "PassiveData"
+data "DisplayName" "h51b4e66agc1bcg494eg80ceg849b6c010ae0;1"
+data "Description" "h0ab03f0fg170eg4a5fgb45bg75caf1e1412f;1"
+data "DescriptionParams" "2"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "Character()"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Wisdom, ManeuverSaveDC()-2)):ApplyStatus(CHARMED,100,2)"
+data "Boosts" ""
+
+// When a creature within 20m takes fire damage, it must succeed Constitution Saving Throw or recieve Radiating Orbs for 2 turns
+new entry "AMP_Artificers_Boost10"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "ce948250-db24-4742-94f9-bc3098fe888a"
+data "ValueOverride" "1000"
+data "Rarity" "VeryRare"
+data "Unique" "1"
+data "ComboCategory" "d3"
+data "PassivesOnEquip" "AMP_FirePunishment_Display"
+data "StatusOnEquip" "AMP_FIRE_PUNISHMENT_AURA"
+
+new entry "AMP_FirePunishment_Display"
+type "PassiveData"
+data "DisplayName" "haa78760agec20g4938g8f07gf6aabb4bbdc7;1"
+data "Description" "h10b8c3c5g0d56g49fag822bg9343bb192354;1"
+data "DescriptionParams" "Distance(20);DealDamage(,Fire);15;2"
+data "Properties" "Highlighted"
+
+new entry "AMP_FIRE_PUNISHMENT_AURA"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackId" "AMP_FIRE_PUNISHMENT_AURA"
+data "AuraRadius" "20"
+data "AuraStatuses" "TARGET:IF(Character() and not Self()):ApplyStatus(AMP_FIRE_PUNISHMENT_WATCHER)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting;ApplyToDead"
+
+new entry "AMP_FIRE_PUNISHMENT_WATCHER"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackId" "AMP_FIRE_PUNISHMENT_WATCHER"
+data "Passives" "AMP_FirePunishment_Technical"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting;ApplyToDead"
+
+new entry "AMP_FirePunishment_Technical"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnDamaged"
+data "Conditions" "HasDamageDoneForType(DamageType.Fire)"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Constitution,15)):ApplyStatus(MAG_RADIANT_RADIATING_ORB,100,2);ApplyStatus(MAG_RADIANT_RADIATING_ORB_DURATION_TECHNICAL, 100, 1)"
+
+// All your leveled spells also make targets wet for 2 turns
+new entry "AMP_Artificers_Boost11"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "38ac35f1-a342-4f5a-9228-3ba85f02592c"
+data "ValueOverride" "1000"
+data "Rarity" "VeryRare"
+data "Unique" "1"
+data "ComboCategory" "d3"
+data "PassivesOnEquip" "AMP_WetCaster_Passive"
+
+new entry "AMP_WetCaster_Passive"
+type "PassiveData"
+data "DisplayName" "h2d7a3826g7549g4cb2ga6eegbd29874c120c;1"
+data "Description" "hed14a15fg0511g4cddg8179g927f88a26409;1"
+data "DescriptionParams" "2"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "IsLeveledSpell() and Enemy()"
+data "StatsFunctors" "ApplyStatus(WET,100,2)"
+
+// Each allied fiend within 20m grants +1d6 fire damage to all your attacks
+new entry "AMP_Artificers_Boost12"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "0cdbd70e-8aac-46f0-8fc6-478f7c1f1ebc"
+data "ValueOverride" "500"
+data "Rarity" "Rare"
+data "Unique" "1"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_FiendCommander_Passive"
+data "StatusOnEquip" "AMP_FIEND_AURA"
+
+new entry "AMP_FiendCommander_Passive"
+type "PassiveData"
+data "DisplayName" "h9130569dg8788g44d4gbdcdgace726b057cb;1"
+data "Description" "h4264ec2bg6e6fg42d1gb95cg9a3e23d13b52;1"
+data "DescriptionParams" "DealDamage(1d4,Fire);Distance(10)"
+data "Properties" "Highlighted"
+
+new entry "AMP_FIEND_AURA"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackId" "AMP_FIEND_AURA"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting;ApplyToDead"
+data "AuraRadius" "10"
+data "AuraStatuses" "TARGET:IF(Tagged('FIEND') and Ally()):ApplyStatus(AMP_FIEND_FIRE_DAMAGE)"
+
+new entry "AMP_FIEND_FIRE_DAMAGE"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackId" "AMP_FIEND_FIRE_DAMAGE"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting;ApplyToDead"
+data "AuraRadius" "10"
+data "AuraStatuses" "TARGET:IF(HasStatus('AMP_FIEND_AURA')):ApplyStatus(AMP_PLAYER_FIRE_DAMAGE)"
+data "Boosts" "DamageBonus(1d4,Fire)"
+
+new entry "AMP_PLAYER_FIRE_DAMAGE"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "hd3284920g983dg4661gbde8g5dfa5e1f5743;1"
+data "Description" "h909a8ce7gf338g4f56g948cg1cb18e2cbe42;1"
+data "DescriptionParams" "DealDamage(1d4,Fire)"
+data "StackId" "AMP_PLAYER_FIRE_DAMAGE"
+data "FormatColor" "Fire"
+data "StatusPropertyFlags" "IgnoreResting;ApplyToDead"
+data "Boosts" "DamageBonus(1d4,Fire)"
+
+// Taking psychic damage from you requires Wisdom(10) save or target becomes confused
+new entry "AMP_Artificers_Boost13"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "90ed3033-06ad-4794-94aa-83b16a17d647"
+data "ValueOverride" "500"
+data "Rarity" "Rare"
+data "Unique" "1"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_MindShatter_Passive"
+
+new entry "AMP_MindShatter_Passive"
+type "PassiveData"
+data "DisplayName" "h85a8aaf0gf61eg46b1g9540g5af7542eb545;1"
+data "Description" "hb13b9931gfd75g4ef2gb31agb0d4598d2b78;1"
+data "DescriptionParams" "DealDamage(,Psychic);10;2"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "HasDamageDoneForType(DamageType.Psychic)"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Wisdom,10)):ApplyStatus(CONFUSED,100,2)"
+
+// Gain +2 melee weapon damage for each unique curse on you
+new entry "AMP_Artificers_Boost14"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "26997374-9e3d-4a58-a2a2-9f201123080d"
+data "ValueOverride" "500"
+data "Rarity" "Rare"
+data "Unique" "1"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_CursedWarrior_Passive"
+
+new entry "AMP_CursedWarrior_Passive"
+type "PassiveData"
+data "DisplayName" "h51dbc20bg51d7g4f29ga3ccg12ad429187fc;1"
+data "Description" "hb440d7e3g10e5g4b2dg9628gb5e6ac643381;1"
+data "DescriptionParams" "DealDamage(Level/2+1,MainWeaponDamageType)"
+data "Properties" "Highlighted"
+data "BoostContext" "OnStatusApplied;OnStatusRemoved;OnCreate;OnTurn"
+data "BoostConditions" "StatusHasStatusGroup(context.StatusId, 'SG_Cursed')"
+data "Boosts" "IF(IsMeleeWeaponAttack()):DamageBonus(Level/2+1)"
+
+// Restraining a foe also creates 5m radius web nearby for 3 turns
+new entry "AMP_Artificers_Boost15"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "3e95e699-a090-4fbe-9833-8d426cbe68bb"
+data "ValueOverride" "200"
+data "Rarity" "Uncommon"
+data "Unique" "1"
+data "ComboCategory" "d1"
+data "PassivesOnEquip" "AMP_WebSpinner_Passive"
+
+new entry "AMP_WebSpinner_Passive"
+type "PassiveData"
+data "DisplayName" "h5e049d6cg09fag4823ga70bg3a63b3adacd6;1"
+data "Description" "hd0225d72gad01g4542gb6e0g527dc861ea1f;1"
+data "DescriptionParams" "Distance(5);3"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnStatusApply"
+data "Conditions" "StatusHasStatusGroup(context.StatusId, 'SG_Restrained')"
+data "StatsFunctors" "GROUND:CreateSurface(5,3,SurfaceWeb)"
+
+// While you are in the flower growth, you cannot be stunned. +2 to a Spell Save DC
+new entry "AMP_Artificers_Boost16"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "bd7c61f4-43a6-4357-b7c8-c9340a3b5dad"
+data "ValueOverride" "500"
+data "Rarity" "Rare"
+data "Unique" "1"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_FlowerGuard_Passive;MAG_SpellSaveDC_Enchantment_Passive"
+
+new entry "AMP_FlowerGuard_Passive"
+type "PassiveData"
+data "DisplayName" "h133d8811g9aceg41a1g89e8g87f886d2a2ab;1"
+data "Description" "hf9955a97g1645g46cagb4e9g53251e640100;1"
+data "Properties" "Highlighted"
+data "BoostContext" "OnTurn;OnMovedDistance;OnEquip;OnCreate"
+data "BoostConditions" "InSurface('SurfaceOvergrowth')"
+data "Boosts" "StatusImmunity(SG_Stunned)"
+
+// You gain Devil's Sight for 3 turns after killing a creature
+new entry "AMP_Artificers_Boost17"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "c84ac0bb-7cbf-434b-ad87-547c6ceb6411"
+data "ValueOverride" "500"
+data "Rarity" "Rare"
+data "Unique" "1"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_DevilSight_Passive"
+
+new entry "AMP_DevilSight_Passive"
+type "PassiveData"
+data "DisplayName" "hc4c7daabg815bg4dcagb31dg252d1bd105f0;1"
+data "Description" "h1c4d5712gb9c7g4c5dgbe27g533955fa664d;1"
+data "DescriptionParams" "3"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "IsKillingBlow()"
+data "StatsFunctors" "ApplyStatus(SELF,AMP_DEVILS_SIGHT_STATUS,100,3)"
+
+new entry "AMP_DEVILS_SIGHT_STATUS"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h5ecedc36gdf68g4529g820fgfc9269eb9f52;2"
+data "Description" "h4290e9c1ga5abg4f18g8243g7410a1457f60;2"
+data "DescriptionParams" "Distance(24)"
+data "FormatColor" "DarkBlue"
+data "Icon" "PassiveFeature_DevilsSight"
+data "StackId" "AMP_DEVILS_SIGHT_STATUS"
+data "Passives" "DevilsSight"
+
+// Using Dash immediately turns you into a sheep. Constitution +2
+new entry "AMP_Artificers_Boost18"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "9d9e68cc-959e-410f-85e5-8e6e8c4b554e"
+data "ValueOverride" "500"
+data "Rarity" "Rare"
+data "Unique" "1"
+data "ComboCategory" "d2"
+data "Boosts" "Ability(Constitution,2,20,true)"
+data "PassivesOnEquip" "AMP_SheepDasher_Passive"
+
+new entry "AMP_SheepDasher_Passive"
+type "PassiveData"
+data "DisplayName" "h8bc2c306g1fefg4c15g85ddg5336ec034f23;1"
+data "Description" "h720e2e70gdb9fg46b2gbd5cgc14226482909;1"
+data "DescriptionParams" "2"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnCast"
+data "Conditions" "SpellCategoryIs(SpellCategory.Dash) and not IsImmuneToStatus('SG_Polymorph')"
+data "StatsFunctors" "ApplyStatus(SELF,POLYMORPH_SHEEP,100,5)"
+
+// Using Blink has 50% chance to summon friendly Beholder
+new entry "AMP_Artificers_Boost19"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "700bb248-8086-424c-a3ae-c9ffef9d637b"
+data "ValueOverride" "1000"
+data "Rarity" "VeryRare"
+data "Unique" "1"
+data "ComboCategory" "d3"
+data "PassivesOnEquip" "AMP_BeholderCaller_Passive"
+
+new entry "AMP_BeholderCaller_Passive"
+type "PassiveData"
+data "DisplayName" "h45fa5affg6692g4fecgbf5dg455ad74801ee;1"
+data "Description" "h6287fcebgda14g4bc6gac32g5625ce810313;1"
+data "DescriptionParams" "50"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnCast"
+data "Conditions" "SpellId('Shout_Blink') and not RollDieAgainstDC(DiceType.d100,50)"
+data "StatsFunctors" "Summon(5a475648-e8d1-4a9d-8225-ce9f4933d333, UntilLongRest,Projectile_AiHelper_Summon_Strong,,'AMP_BEHOLDER_SUMMON_STACK',AMP_BEHOLDER_CONTROL,AMP_SUMMON,SHADOWCURSE_SUMMON_CHECK,KNOCKED_OUT_SUMMON_DISMISS,UNSUMMON_ABLE)"
+
+new entry "AMP_BEHOLDER_CONTROL"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackId" "AMP_BEHOLDER_CONTROL"
+data "TickType" "StartTurn"
+data "TickFunctors" "DealDamage(3d10,Force,Magical)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;LoseControl;LoseControlFriendly"
+
+// Superconducting Pulse Infusion
+new entry "AMP_Artificers_Boost20"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "fcfba3ab-f0b0-4594-b9b1-50b613547ef4"
+data "ValueOverride" "200"
+data "Rarity" "Uncommon"
+data "Unique" "1"
+data "ComboCategory" "d1"
+data "PassivesOnEquip" "AMP_ForceAmplifier_Passive"
+
+new entry "AMP_ForceAmplifier_Passive"
+type "PassiveData"
+data "DisplayName" "hf3628828gbec6g46a4g91a9g9518d5270d2e;1"
+data "Description" "h98b06c2fg3097g4305gbb5dga1a9aaf2a9bc;1"
+data "DescriptionParams" "Distance(3)"
+data "Properties" "Highlighted;OncePerAttack"
+data "StatsFunctorContext" "OnPush"
+data "Conditions" "Character()"
+data "StatsFunctors" "Force(3)"
+
+// If you are human (or disguised as one), jump range outside combat +30m and permanent invisibility
+new entry "AMP_Artificers_Boost21"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "ef778f46-e79c-4f62-b2e0-b67e59fe395c"
+data "ValueOverride" "1000"
+data "Rarity" "VeryRare"
+data "Unique" "1"
+data "ComboCategory" "d3"
+data "PassivesOnEquip" "AMP_HumanInfiltrator_Passive"
+data "StatusOnEquip" "AMP_BOOST21_TECH"
+
+// Technical status for cleanup
+new entry "AMP_BOOST21_TECH"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackId" "AMP_BOOST21_TECH"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting;ApplyToDead"
+data "OnRemoveFunctors" "RemoveStatus(INVISIBILITY)"
+
+new entry "AMP_HumanInfiltrator_Passive"
+type "PassiveData"
+data "DisplayName" "hd2e8e19ag5f7bg4193gbf1ege612d776ca6f;1"
+data "Description" "h95e22777gbf9fg49fagbe9fg067ff621512e;1"
+data "DescriptionParams" "Distance(30)"
+data "Properties" "Highlighted"
+data "BoostContext" "OnEquip;OnCreate"
+data "Boosts" "IF(Tagged('HUMAN', context.Source) or Tagged('HALFELF',context.Source)):JumpMaxDistanceBonus(30)"
+data "StatsFunctorContext" "OnTurn;OnEquip;OnCreate"
+data "Conditions" "Tagged('HUMAN', context.Source) or Tagged('HALFELF',context.Source)"
+data "StatsFunctors" "IF(not Combat() and not HasStatus('INVISIBILITY')):ApplyStatus(INVISIBILITY,100,-1);IF(Combat() and HasStatus('INVISIBILITY')):RemoveStatus(INVISIBILITY)"
+
+// If you are tiny, gain Fire Mastery. Fire Mastery: Casting Fireball or Flame Strike casts them again for free
+new entry "AMP_Artificers_Boost22"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "0155f9fb-78d7-44bf-8b69-9556e0bbcb73"
+data "ValueOverride" "1000"
+data "Rarity" "VeryRare"
+data "Unique" "1"
+data "ComboCategory" "d3"
+data "PassivesOnEquip" "AMP_TinyPyromancer_Passive"
+
+new entry "AMP_TinyPyromancer_Passive"
+type "PassiveData"
+data "DisplayName" "h638e42d0g28e1g4ab4gb160gf169b17a3165;1"
+data "Description" "h207eb8d5gdb00g4fbeg8d4dgc0ff935beead;1"
+data "DescriptionParams" ""
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnCast"
+data "Conditions" "SizeEqualOrSmaller(Size.Tiny, context.Source) and IsFireMasterySpell()"
+data "StatsFunctors" "ApplyStatus(SELF,AMP_FIRE_MASTERY_CAST,100,-1)"
+
+new entry "AMP_FIRE_MASTERY_CAST"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h474a2259g5dbdg4da3gb864gcf5819090a6a;1"
+data "Description" "h1e9ac892g9ff6g4611g8044gc5404f80adb1;1"
+data "DescriptionParams" ""
+data "Icon" "Spell_Evocation_Fireball"
+data "FormatColor" "Fire"
+data "StackId" "AMP_FIRE_MASTERY_CAST"
+data "StatusPropertyFlags" "DisableCombatlog;IgnoreResting;ApplyToDead"
+data "Boosts" "UnlockSpellVariant(IsFireMasterySpell(),ModifyUseCosts(Replace,SpellSlot,0,-1,SpellSlot),ModifyUseCosts(Replace,WarlockSpellSlot,0,-1,WarlockSpellSlot),ModifyUseCosts(Replace,SpellSlotsGroup,0,-1,SpellSlotsGroup),ModifyIconGlow(),ModifyTooltipDescription())"
+data "RemoveConditions" "IsFireMasterySpell()"
+data "RemoveEvents" "OnSpellCast"
+
+// Frost Mage
+
+new entry "AMP_FrostMage_Robe"
+type "Armor"
+using "MAG_Frost_GenerateFrostOnDamage_Robe"
+data "ValueOverride" "200"
+data "Rarity" "Uncommon"
+data "Unique" "1"
+data "ComboCategory" "d1"
+data "Boosts" "UnlockSpell(Target_AMP_WaterElemental)"
+
+new entry "Target_AMP_WaterElemental"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_ConjureElemental_Elemental_Water"
+data "Level" "2"
+data "Cooldown" "OncePerRestPerItem"
+data "SpellContainerID" ""
+data "SpellProperties" "GROUND:Summon(dc5b5bb1-e5c5-485e-bc53-15980fd5582d, -1,Projectile_AiHelper_Summon_Strong,,'FrostMageStack',UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK)"
+data "TargetConditions" "CanStand('dc5b5bb1-e5c5-485e-bc53-15980fd5582d') and not Character() and not Self()"
+data "Icon" "Spell_Conjuration_ConjureElemental_Water"
+data "Description" "h65d4cdb3g6e1dg4f54ga4a2g9180c89e6fd3;1"
+data "DescriptionParams" "DealDamage(,Cold)"
+data "UseCosts" "ActionPoint:1"
+data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsSpell"
+data "TargetRadius" "4"
+
+new entry "AMP_Water_Elemental"
+type "Character"
+using "Water_Elemental"
+data "Strength" "18"
+data "Dexterity" "14"
+data "Constitution" "18"
+data "Intelligence" "5"
+data "Charisma" "8"
+data "Armor" "13"
+data "Vitality" "10"
+data "XPReward" ""
+data "Weight" "90"
+data "Passives" "AttackOfOpportunity;DarknessRules;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check;MagicResistance"
+data "DifficultyStatuses" ""
+
+new entry "Target_AMP_ElementalBlink"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_MistyStep_Elemental_Water"
+data "Cooldown" "OncePerCombat"
+data "Icon" "Action_ElementalWarp"
+data "UseCosts" ""
+data "SpellAnimation" "a362bf6c-6555-464f-bf7f-59ddb046f0c4,,;1dfb0a53-f2df-42fe-8e15-8347f82ff4cc,,;e0edd5be-4eee-4acb-a59f-abef7a10e26a,,;aaa56a83-aba5-4065-9383-ba2430775b91,,;e1a55766-42e2-425d-931e-de2dbdb47545,,;,,;,,;,,;,,"
+data "SpellFlags" "HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;Invisible;Wildshape"
+
+new entry "Target_AMP_ElementalMultiAttack"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Multiattack_Elemental_Water"
+data "Cooldown" ""
+data "SpellSuccess" "IF(not HasStatus('CHILLED',context.Target)):DealDamage(1d4+UnarmedMeleeAbilityModifier,Bludgeoning);IF(not HasStatus('CHILLED',context.Target)):DealDamage(1d4,Cold);IF(HasStatus('CHILLED',context.Target)):DealDamage(2d4+UnarmedMeleeAbilityModifier,Bludgeoning);IF(HasStatus('CHILLED',context.Target)):DealDamage(2d4,Cold);Cast2[IF(not HasStatus('CHILLED',context.Target)):DealDamage(1d4+UnarmedMeleeAbilityModifier, Bludgeoning);IF(not HasStatus('CHILLED',context.Target)):DealDamage(1d4,Cold);IF(HasStatus('CHILLED',context.Target)):DealDamage(2d4+UnarmedMeleeAbilityModifier, Bludgeoning);IF(HasStatus('CHILLED',context.Target)):DealDamage(2d4,Cold)]"
+data "TooltipDamageList" "DealDamage(1d4+UnarmedMeleeAbilityModifier, Bludgeoning);DealDamage(1d4, Cold);DealDamage(1d4+UnarmedMeleeAbilityModifier, Bludgeoning);DealDamage(1d4, Cold)"
+data "PreviewCursor" "Melee"
+data "CastTextEvent" "Cast"
+data "SpellAnimationIntentType" "Aggressive"
+data "Sheathing" "Melee"
+data "SpellFlags" "IsAttack;IsMelee;IsHarmful"
+
+new entry "Projectile_AMP_ElementalIceKnife"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Projectile_IceKnife"
+data "SpellProperties" "GROUND:SurfaceChange(Freeze);GROUND:SurfaceChange(Douse);RemoveStatus(BURNING);GROUND:CreateSurface(2,1,WaterFrozen)"
+data "SpellSuccess" "TARGET:DealDamage(1d10,Piercing);TARGET:AOE:IF(not SavingThrow(Ability.Dexterity, SourceSpellDC())):DealDamage(1d4, Cold,Magical)"
+data "SpellFail" "TARGET:AOE:IF(not SavingThrow(Ability.Dexterity, SourceSpellDC())):DealDamage(1d4, Cold,Magical)"
+data "DescriptionParams" "DealDamage(1d10,Piercing);DealDamage(1d4,Cold)"
+data "ExtraDescription" ""
+data "ExtraDescriptionParams" ""
+data "TooltipDamageList" "DealDamage(1d10,Piercing);DealDamage(1d4,Cold)"
+data "TooltipUpcastDescription" ""
+data "TooltipUpcastDescriptionParams" ""
+data "CycleConditions" "Enemy() and not Dead()"
+data "UseCosts" "ActionPoint:1"
+data "SpellAnimation" "3ff87abf-1ea1-4c32-aadf-c822d74c7dc0,,;,,;463e2894-de95-4ad2-a991-a265e210af8c,,;b57f0afb-706f-4c04-9fb4-413a2a5baa8f,,;d8925ce4-d6d9-400c-92f5-ad772ef7f178,,;,,;eadedcce-d01b-4fbb-a1ae-d218f13aa5d6,,;,,;,,"
+data "SpellFlags" "IsSpell;HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;IsHarmful"
+data "PrepareEffect" "ea0de162-d2c7-40da-b07d-34b46e8c2149"
+data "CastEffect" "5c953997-0342-4865-bec2-414dccbd4588"
+data "PreviewCursor" "Cast"
+data "CastTextEvent" "Cast"
+
+new entry "AMP_FrostMage_Shield"
+type "Armor"
+using "MAG_Weapon64"
+data "ValueOverride" "550"
+data "Rarity" "Rare"
+data "Boosts" ""
+data "Unique" "1"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_FrostMage_Shield_Passive"
+
+new entry "AMP_FrostMage_Shield_Passive"
+type "PassiveData"
+data "DisplayName" "hcc5598b8geadbg4decgaebfgf1fe04d628c1;1"
+data "Description" "h56591518gf664g4d79gab69g7bc5265d253c;1"
+data "DescriptionParams" "DealDamage(,Cold)"
+data "Icon" "Spell_Evocation_IceStorm"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "HasStatus('MAGE_ARMOR', context.Source) and HasDamageDoneForType(DamageType.Cold)"
+data "StatsFunctors" "ApplyStatus(WEAPON34,100,2,,,not SavingThrow(Ability.Constitution,SourceSpellDC()-2))"
+
+// Epic version
+new entry "AMP_FrostMage_Robe_2"
+type "Armor"
+using "MAG_Frost_GenerateFrostOnDamage_Robe"
+data "ValueOverride" "1000"
+data "Rarity" "VeryRare"
+data "Unique" "1"
+data "ComboCategory" "d3"
+data "Boosts" "UnlockSpell(Target_AMP_WaterElemental2);UnlockSpell(Target_AMP_FrostMage_Sanctuary)"
+
+new entry "Target_AMP_FrostMage_Sanctuary"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Sanctuary"
+data "Cooldown" "OncePerCombat"
+data "DisplayName" "h4d38d22bgc59ag42a7g9fa2gf2befae05187;1"
+data "Description" "h4ce464fdgcc68g4de2ga705g168e6356070f;1"
+data "Icon" "Target_AMP_FrostMage_Sanctuary"
+data "SpellProperties" "AI_IGNORE:ApplyStatus(AMP_SANCTUARY,100,2);AI_ONLY:ApplyStatus(AI_HELPER_BUFF,100,2)"
+data "TargetRadius" "2"
+data "TargetConditions" "Self() and not HasStatus('AMP_SANCTUARY_BLOCK') and not HasStatus('AMP_SANCTUARY')"
+data "TooltipStatusApply" "ApplyStatus(AMP_SANCTUARY,100,2)"
+data "UseCosts" "BonusActionPoint:1"
+data "MemoryCost" ""
+data "CastSound" "Spell_Cast_Buff_ArmorOfAgathys_L1to3"
+data "TargetSound" "Spell_Impact_Buff_ArmorOfAgathys_L1to3"
+data "SpellAnimation" "03496c4a-49e0-4132-b585-3e5ecd1ad8e5,,;,,;dada6495-752c-4f30-a503-f05b8c811e2b,,;8ce53f9b-b559-49cd-9607-1991545060d7,,;a9682ef9-5d9e-4ac0-8144-2c7fe6eb868c,,;,,;32fb4d91-7fde-4b05-9144-ea87b9a4284a,,;,,;,,"
+data "PrepareEffect" "ea436b83-0684-41e3-887d-c8599cb5f105"
+data "CastEffect" "f45653b4-42bf-494d-a5d7-270f3b448658"
+
+new entry "AMP_SANCTUARY"
+type "StatusData"
+data "StatusType" "BOOST"
+using "SANCTUARY"
+data "DisplayName" "h4d38d22bgc59ag42a7g9fa2gf2befae05187;1"
+data "Description" "h281e8278g9315g4deeg8ee7gb02091295a5f;1"
+data "DescriptionParams" "5"
+data "Icon" "Target_AMP_FrostMage_Sanctuary"
+data "FormatColor" "LightBlue"
+data "StackId" "SANCTUARY"
+data "Passives" "AMP_Sanctuary;AMP_SanctuaryDamage;AMP_SanctuarySpecificSpell"
+data "OnRemoveFunctors" "ApplyStatus(AMP_SANCTUARY_BLOCK,100,5)"
+data "StatusEffect" "2e0fa509-6711-45e2-bda2-debe1046b577"
+
+new entry "AMP_SANCTUARY_BLOCK"
+type "StatusData"
+data "StatusType" "BOOST"
+using "SANCTUARY_BLOCK"
+data "DisplayName" "h68b3c4bfg2df0g4f55gab6ag69b56c4f8183;1"
+data "Description" "hff18f573ga14ag4b8bga224g37e05283d001;1"
+data "Icon" "Target_AMP_FrostMage_Sanctuary"
+data "StackId" "SANCTUARY_BLOCK"
+data "TickType" "StartTurn"
+data "Boosts" "StatusImmunity(AMP_SANCTUARY)"
+
+new entry "AMP_Sanctuary"
+type "PassiveData"
+using "Sanctuary"
+data "DisplayName" "h4d38d22bgc59ag42a7g9fa2gf2befae05187;1"
+data "StatsFunctors" "RemoveStatus(SELF,AMP_SANCTUARY);RemoveStatus(SELF,SANCTUARY_TRANQUILITY);"
+
+new entry "AMP_SanctuaryDamage"
+type "PassiveData"
+using "SanctuaryDamage"
+data "DisplayName" "h4d38d22bgc59ag42a7g9fa2gf2befae05187;1"
+data "StatsFunctors" "RemoveStatus(SELF,AMP_SANCTUARY);RemoveStatus(SELF,SANCTUARY_TRANQUILITY);"
+
+new entry "AMP_SanctuarySpecificSpell"
+type "PassiveData"
+using "SanctuarySpecificSpell"
+data "DisplayName" "h4d38d22bgc59ag42a7g9fa2gf2befae05187;1"
+data "Conditions" "SpellId('Wall_BladeBarrier') or SpellId('Target_Polymorph') or SpellId('Target_Polymorph_5') or SpellId('Target_Polymorph_6') or SpellId('Target_HungerOfHadar') or SpellId('Target_HungerOfHadar_4') or SpellId('Target_HungerOfHadar_5') or SpellId('Target_HungerOfHadar_6') or SpellId('Target_Banishment') or SpellId('Target_Banishment_5') or SpellId('Target_Banishment_6') or SpellId('Zone_Fear') or SpellId('Zone_Fear_4') or SpellId('Zone_Fear_5') or SpellId('Zone_Fear_6') or SpellId('Target_FleshToStone') or SpellId('Target_HypnoticPattern') or SpellId('Target_HypnoticPattern_4') or SpellId('Target_HypnoticPattern_5') or SpellId('Target_HypnoticPattern_6') or SpellId('Target_Slow') or SpellId('Target_Slow_4') or SpellId('Target_Slow_5') or SpellId('Target_Slow_6') or SpellId('Target_StinkingCloud') or SpellId('Target_StinkingCloud_4') or SpellId('Target_StinkingCloud_5') or SpellId('Target_StinkingCloud_6') or SpellId('Target_GlyphOfWarding_Acid') or SpellId('Target_GlyphOfWarding_Acid_4') or SpellId('Target_GlyphOfWarding_Acid_5') or SpellId('Target_GlyphOfWarding_Acid_6') or SpellId('Target_GlyphOfWarding_Cold') or SpellId('Target_GlyphOfWarding_Cold_4') or SpellId('Target_GlyphOfWarding_Cold_5') or SpellId('Target_GlyphOfWarding_Cold_6') or SpellId('Target_GlyphOfWarding_Fire') or SpellId('Target_GlyphOfWarding_Fire_4') or SpellId('Target_GlyphOfWarding_Fire_5') or SpellId('Target_GlyphOfWarding_Fire_6') or SpellId('Target_GlyphOfWarding_Lightning') or SpellId('Target_GlyphOfWarding_Lightning_4') or SpellId('Target_GlyphOfWarding_Lightning_5') or SpellId('Target_GlyphOfWarding_Lightning_6') or SpellId('Target_GlyphOfWarding_Thunder') or SpellId('Target_GlyphOfWarding_Thunder_4') or SpellId('Target_GlyphOfWarding_Thunder_5') or SpellId('Target_GlyphOfWarding_Thunder_6') or SpellId('Target_GlyphOfWarding_Detonation') or SpellId('Target_GlyphOfWarding_Detonation_4') or SpellId('Target_GlyphOfWarding_Detonation_5') or SpellId('Target_GlyphOfWarding_Detonation_6') or SpellId('Target_GlyphOfWarding_Sleep') or SpellId('Target_GlyphOfWarding_Sleep_4') or SpellId('Target_GlyphOfWarding_Sleep_5') or SpellId('Target_GlyphOfWarding_Sleep_6') or SpellId('Target_Moonbeam') or SpellId('Target_Moonbeam_Move') or SpellId('Target_Moonbeam_3') or SpellId('Target_Moonbeam_Move_3') or SpellId('Target_Moonbeam_4') or SpellId('Target_Moonbeam_Move_4') or SpellId('Target_Moonbeam_5') or SpellId('Target_Moonbeam_Move_5') or SpellId('Target_Moonbeam_Move_6') or SpellId('Target_Moonbeam_Move_6')"
+data "StatsFunctors" "RemoveStatus(SELF,AMP_SANCTUARY);RemoveStatus(SELF,SANCTUARY_TRANQUILITY);"
+
+new entry "Target_AMP_WaterElemental2"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_AMP_WaterElemental"
+data "Level" "5"
+data "Cooldown" "OncePerRestPerItem"
+data "SpellProperties" "GROUND:Summon(8d73a34a-7655-490b-bb47-4ea2651ec28d, -1,Projectile_AiHelper_Summon_Strong,,'FrostMageStack',UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK)"
+data "TargetConditions" "CanStand('8d73a34a-7655-490b-bb47-4ea2651ec28d') and not Character() and not Self()"
+data "Description" "hcf966e8bgd552g4771gba12gec6a11d16cda;1"
+
+new entry "AMP_Water_Elemental2"
+type "Character"
+using "AMP_Water_Elemental"
+data "Strength" "22"
+data "Dexterity" "18"
+data "Constitution" "20"
+data "Intelligence" "6"
+data "Charisma" "8"
+data "Armor" "17"
+data "Vitality" "56"
+data "Weight" "190"
+data "Passives" "AttackOfOpportunity;DarknessRules;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check;MagicResistance"
+
+new entry "Target_AMP_ElementalBlink2"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_AMP_ElementalBlink"
+data "Cooldown" "OncePerTurn"
+data "Icon" "Action_ElementalWarp"
+data "UseCosts" "BonusActionPoint:1"
+
+new entry "Target_AMP_ElementalMultiAttack2"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_AMP_ElementalMultiAttack"
+data "Cooldown" ""
+data "SpellSuccess" "IF(not HasStatus('CHILLED',context.Target)):DealDamage(2d4+UnarmedMeleeAbilityModifier,Bludgeoning);IF(not HasStatus('CHILLED',context.Target)):DealDamage(2d4,Cold);IF(HasStatus('CHILLED',context.Target)):DealDamage(4d4+UnarmedMeleeAbilityModifier,Bludgeoning);IF(HasStatus('CHILLED',context.Target)):DealDamage(4d4,Cold);Cast2[IF(not HasStatus('CHILLED',context.Target)):DealDamage(2d4+UnarmedMeleeAbilityModifier, Bludgeoning);IF(not HasStatus('CHILLED',context.Target)):DealDamage(2d4,Cold);IF(HasStatus('CHILLED',context.Target)):DealDamage(4d4+UnarmedMeleeAbilityModifier, Bludgeoning);IF(HasStatus('CHILLED',context.Target)):DealDamage(4d4,Cold)]"
+data "TooltipDamageList" "DealDamage(2d4+UnarmedMeleeAbilityModifier, Bludgeoning);DealDamage(2d4, Cold);DealDamage(2d4+UnarmedMeleeAbilityModifier, Bludgeoning);DealDamage(2d4, Cold)"
+
+new entry "Projectile_AMP_ElementalIceKnife2"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Projectile_AMP_ElementalIceKnife"
+data "SpellProperties" "GROUND:SurfaceChange(Freeze);GROUND:SurfaceChange(Douse);RemoveStatus(BURNING);GROUND:CreateSurface(2,4,WaterFrozen)"
+data "SpellSuccess" "TARGET:DealDamage(1d20,Piercing);TARGET:AOE:IF(not SavingThrow(Ability.Dexterity, SourceSpellDC())):DealDamage(4d4, Cold,Magical)"
+data "SpellFail" "TARGET:AOE:IF(not SavingThrow(Ability.Dexterity, SourceSpellDC())):DealDamage(2d4, Cold,Magical)"
+data "DescriptionParams" "DealDamage(1d20,Piercing);DealDamage(4d4,Cold)"
+data "ExtraDescription" ""
+data "ExtraDescriptionParams" ""
+data "TooltipDamageList" "DealDamage(1d20,Piercing);DealDamage(4d4,Cold)"
+data "TooltipUpcastDescription" ""
+data "TooltipUpcastDescriptionParams" ""
+data "CycleConditions" "Enemy() and not Dead()"
+data "UseCosts" "ActionPoint:1"
+data "SpellAnimation" "3ff87abf-1ea1-4c32-aadf-c822d74c7dc0,,;,,;463e2894-de95-4ad2-a991-a265e210af8c,,;b57f0afb-706f-4c04-9fb4-413a2a5baa8f,,;d8925ce4-d6d9-400c-92f5-ad772ef7f178,,;,,;eadedcce-d01b-4fbb-a1ae-d218f13aa5d6,,;,,;,,"
+data "SpellFlags" "IsSpell;HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;IsHarmful"
+data "PrepareEffect" "ea0de162-d2c7-40da-b07d-34b46e8c2149"
+data "CastEffect" "5c953997-0342-4865-bec2-414dccbd4588"
+data "PreviewCursor" "Cast"
+data "CastTextEvent" "Cast"
+
+// Thrower
+
+new entry "AMP_Thrower_Gloves"
+type "Armor"
+using "ARM_Gloves_Leather"
+data "RootTemplate" "b337cd63-d206-4229-84fd-4b77809f7eb3"
+data "ValueOverride" "200"
+data "Rarity" "Uncommon"
+data "Unique" "1"
+data "ComboCategory" "d1"
+data "Boosts" ""
+data "PassivesOnEquip" "AMP_Thrower_Gloves_Passive"
+
+new entry "AMP_Thrower_Gloves_Passive"
+type "PassiveData"
+data "DisplayName" "h3f5e42begf7a8g4bbcga7b7gd6602cdf89db;1"
+data "Description" "h23940932g0662g4cf7g8cbfg916744cb573a;1"
+data "DescriptionParams" "DealDamage(1d4,MainMeleeWeaponDamageType)"
+data "Icon" "Action_ThrowWeapon"
+data "Properties" "Highlighted"
+data "Boosts" "IF(IsRangedUnarmedAttack()):DamageBonus(1d4)"
+
+// Cloth Healer
+
+
+
+
+// Poison Mage
+
+
+
+
+// Acid Mage
+
+
+
+
+// DoT Fire Mage (Fire Seed)
+
+
+
+
+// Enemy Position Controller
+
+
+
+
+// Controller
+
+
+
+
+// Undead Slayer
+
+
+
+
+// Aquamancer
+
+new entry "AMP_Aquamancer_Gloves"
+type "Armor"
+using "MAG_Armour_G_51"
+data "ValueOverride" "200"
+data "Rarity" "Uncommon"
+data "Unique" "1"
+data "ComboCategory" "d1"
+data "PassivesOnEquip" "AMP_Aquamancer_Gloves_Passive"
+
+new entry "AMP_Aquamancer_Gloves_Passive"
+type "PassiveData"
+data "DisplayName" "h37514dc8g973ag4156g8383g5bf7ba44054d;1"
+data "Description" "hbdc2841dga7aeg4e6dgb7c0g333297ab6155;1"
+data "DescriptionParams" "1;2"
+data "Icon" "Neck27_bonus"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnStatusApplied;OnStatusRemoved"
+data "Conditions" "StatusId('WET')"
+data "StatsFunctors" "IF(context.HasContextFlag(StatsFunctorContext.OnStatusApplied)):ApplyStatus(AQUAMANCER_GLOVES, 100, -1);IF(context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):RemoveStatus(AQUAMANCER_GLOVES)"
+data "Boosts" "AC(-1)"
+
+new entry "AQUAMANCER_GLOVES"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackId" "AQUAMANCER_GLOVES"
+data "Boosts" "AC(3)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "StatusEffect" ""
+data "StatusGroups" "SG_Condition"
+
+
+
+// Ice Queen
+
+// Ice Immune Cloak
+new entry "AMP_IceQueen_Cloak"
+type "Armor"
+using "_Back_Magic"
+data "RootTemplate" "54af1c9d-7a0d-4a2c-824b-56a773c7b22e"
+data "Unique" "1"
+data "ComboCategory" "d3"
+data "ValueOverride" "500"
+data "Rarity" "VeryRare"
+data "PassivesOnEquip" "AMP_IceQueen_Cloak_Passive"
+data "StatusOnEquip" "AMP_ICEQUEEN_CLOAK_AURA"
+data "Boosts" ""
+
+new entry "AMP_IceQueen_Cloak_Passive"
+type "PassiveData"
+data "DisplayName" "hb2ab5877g9c6fg4bbeg8fc8gc4fd1b1a0040;1"
+data "Description" "h2d803397gb43eg4629g87d5gc1583985a4b9;1"
+data "DescriptionParams" "Distance(30);DealDamage(,Cold)"
+data "Icon" "Neck24_bonus"
+data "Properties" "Highlighted"
+
+new entry "AMP_ICEQUEEN_CLOAK_ACTIVE"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "hb2ab5877g9c6fg4bbeg8fc8gc4fd1b1a0040;1"
+data "Description" "hf0f32c46g1d71g4652g98bag217acbbb1888;1"
+data "DescriptionParams" "DealDamage(,Cold)"
+data "Icon" "Neck24_bonus"
+data "StackType" "Overwrite"
+data "Boosts" "StatusImmunity(PRONE_ICE);StatusImmunity(WET);StatusImmunity(MAG_FROST);Resistance(Cold,Immune);IF(InSurface('SurfaceWaterFrozen')):StatusImmunity(DIFFICULT_TERRAIN)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;IgnoreResting;FreezeDuration"
+
+new entry "AMP_ICEQUEEN_CLOAK_AURA"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackId" "AMP_ICEQUEEN_CLOAK_AURA"
+data "AuraRadius" "30"
+data "AuraStatuses" "IF(Ally() and not Self()):ApplyStatus(AMP_ICEQUEEN_CLOAK_BLOCK_AURA)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting"
+data "OnApplyFunctors" "ApplyStatus(AMP_ICEQUEEN_CLOAK_ACTIVE,100,-1)"
+data "OnRemoveFunctors" "RemoveStatus(AMP_ICEQUEEN_CLOAK_ACTIVE);RemoveStatus(AMP_ICEQUEEN_CLOAK_BLOCK)"
+
+new entry "AMP_ICEQUEEN_CLOAK_BLOCK_AURA"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackId" "AMP_ICEQUEEN_CLOAK_BLOCK_AURA"
+data "AuraRadius" "30"
+data "AuraStatuses" "TARGET:IF(HasStatus('AMP_ICEQUEEN_CLOAK_AURA')):ApplyStatus(AMP_ICEQUEEN_CLOAK_BLOCK)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting"
+
+new entry "AMP_ICEQUEEN_CLOAK_BLOCK"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackId" "AMP_ICEQUEEN_CLOAK_BLOCK"
+data "OnApplyFunctors" "RemoveStatus(AMP_ICEQUEEN_CLOAK_ACTIVE)"
+data "OnRemoveFunctors" "IF(not HasStatus('AMP_ICEQUEEN_CLOAK_ACTIVE') and HasStatus('AMP_ICEQUEEN_CLOAK_AURA')):ApplyStatus(AMP_ICEQUEEN_CLOAK_ACTIVE,100,-1)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting"
+
+// Ice Heal Boots
+new entry "AMP_IceQueen_Boots"
+type "Armor"
+using "MAG_Mobility_MomentumOnDash_Boots"
+data "ComboCategory" "d2"
+data "ValueOverride" "400"
+data "Rarity" "Rare"
+data "PassivesOnEquip" "AMP_IceQueen_Boots_Passive"
+data "StatusOnEquip" "AMP_FROZEN_REGEN"
+data "Unique" "1"
+data "Boosts" ""
+
+new entry "AMP_IceQueen_Boots_Passive"
+type "PassiveData"
+data "DisplayName" "hd379c44fg4257g488bgb380gf1679a4446cd;1"
+data "Description" "h76de04e2g319cg49e0g9428ga8f8ff6d9333;1"
+data "DescriptionParams" "RegainHitPoints(1d8)"
+data "Icon" "Neck24_bonus"
+data "Properties" "Highlighted"
+
+new entry "AMP_FROZEN_REGEN"
+type "StatusData"
+data "StatusType" "BOOST"
+using "WATER_SURFACE_REGENERATION"
+data "DisplayName" "hd379c44fg4257g488bgb380gf1679a4446cd;1"
+data "Description" "hafa4f12dg1189g498agb32ega6f9bf023ab7;1"
+data "DescriptionParams" "RegainHitPoints(1d8)"
+data "Icon" "Neck24_bonus"
+data "StackId" "AMP_FROZEN_REGEN"
+data "TickType" "EndTurn"
+data "TickFunctors" "IF(TurnBased() and not HasStatus('DOWNED') and not Dead() and (InSurface('SurfaceWaterFrozen') or InSurface('SurfaceBloodFrozen'))):RegainHitPoints(1d8)"
+
+// Winterlord's Coronation Armour
+new entry "AMP_Necromancer_Robe_Heavy"
+type "Armor"
+using "ARM_Plate_Body"
+data "RootTemplate" "76a074f9-03db-4736-ab4e-c2ea2aaf6cf8"
+data "ValueOverride" "3000"
+data "Rarity" "Legendary"
+data "Unique" "1"
+data "ComboCategory" "d4"
+data "ArmorType" "Plate"
+data "ArmorClass" "19"
+data "PassivesOnEquip" "AMP_Necromancer_Robe_Heavy_Necrotic;AMP_Necromancer_Robe_Heavy_IceWall"
+data "StatusOnEquip" "AMP_NECROMANCER_UNDEAD_FORM"
+data "Boosts" "UnlockSpell(Target_AMP_CommandUndead_Container);Tag(UNDEAD)"
+
+new entry "AMP_NECROMANCER_UNDEAD_FORM"
+type "StatusData"
+data "StatusType" "POLYMORPHED"
+data "DisplayName" "h06d2405fg3028g4e1bg8070g830ef1799452;1"
+data "Description" "h3a75c51ag1db9g42f0g8345gdd6aeb7cb8b2;1"
+data "DescriptionParams" "DealDamage(,Poison);DealDamage(,Necrotic);"
+data "Icon" "AMP_NECROMANCER_UNDEAD_FORM"
+data "FormatColor" "Rogue"
+data "BoostContext" "OnCreate;OnEquip"
+data "Boosts" "Resistance(Poison,Immune);Resistance(Necrotic,Resistant);StatusImmunity(SG_Paralyzed);StatusImmunity(SG_Poisoned);StatusImmunity(BLEEDING);StatusImmunity(SLEEPING);StatusImmunity(GAPING_WOUND);StatusImmunity(CHEST_TRAUMA);StatusImmunity(DAZED);StatusImmunity(SG_Charmed);Tag(UNDEAD); BlockRegainHP(Living;Construct)"
+data "StatusPropertyFlags" "DisableOverhead;ApplyToDead;IgnoreResting"
+
+new entry "AMP_Necromancer_Robe_Heavy_Necrotic"
+type "PassiveData"
+data "DisplayName" "hc82b37c7g96e6g4b46g9af3g86b53c5fffe4;1"
+data "Description" "h76c0e5feg29a2g4f68g8102g25a1d70e6e36;1"
+data "DescriptionParams" "DealDamage(,Cold);DealDamage(1d4,Necrotic)"
+data "Properties" "Highlighted"
+data "Boosts" "IF(HasDamageDoneForType(DamageType.Cold)):DamageBonus(1d4,Necrotic,Magical)"
+
+new entry "AMP_Necromancer_Robe_Heavy_IceWall"
+type "PassiveData"
+data "DisplayName" "h7b68076dg02e7g4a2agb0c8g814106943245;1"
+data "Description" "h7e4538c1g8164g4334g948ege0425b39bad2;1"
+data "Properties" "Highlighted"
+data "BoostContext" "OnSurfaceEnter;OnTurn;OnAttack"
+data "BoostConditions" "InSurface('SurfaceWaterFrozen') or InSurface('SurfaceBloodFrozen')"
+data "Boosts" "UnlockSpell(Wall_AMP_WallOfIce_Free);UnlockSpellVariant(SpellId('Wall_AMP_WallOfIce_Free'),ModifyIconGlow(),ModifyTooltipDescription())"
+
+new entry "Target_AMP_CommandUndead_Container"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Command_Container"
+data "ContainerSpells" "Target_AMP_CommandUndead_Halt;Target_AMP_CommandUndead_Approach;Target_AMP_CommandUndead_Drop;Target_AMP_CommandUndead_Grovel;Target_AMP_CommandUndead_Flee"
+data "Cooldown" "OncePerCombat"
+data "TargetConditions" "Character() and Tagged('UNDEAD') and not Ally()"
+data "Icon" "Action_Mag_CommandUndead_Flee"
+data "DisplayName" "hc1a8d51ag8d98g4f8dg88cdg1a36e2e8ca0c;2"
+data "Description" "hb5a042fdgea32g4420gb92ag27e675f1d616;2"
+data "TooltipStatusApply" ""
+data "CycleConditions" "Character() and Enemy() and not Dead() and Tagged('UNDEAD')"
+data "UseCosts" "BonusActionPoint:1"
+data "SpellFlags" "DisplayInItemTooltip;HasVerbalComponent;HasSomaticComponent;IsSpell;IsHarmful;IsLinkedSpellContainer"
+
+new entry "Target_AMP_CommandUndead_Halt"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Command_Halt"
+data "Cooldown" "OncePerCombat"
+data "TargetConditions" "Character() and Tagged('UNDEAD') and not Ally()"
+data "Icon" "Action_Mag_CommandUndead_Halt"
+data "CycleConditions" "Character() and Enemy() and not Dead() and Tagged('UNDEAD')"
+data "UseCosts" "BonusActionPoint:1"
+data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsSpell;IsHarmful"
+data "Description" "h3c750d59gb610g4f7cg8017g965814cd7fbb;2"
+
+new entry "Target_AMP_CommandUndead_Approach"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Command_Approach"
+data "SpellContainerID" "Target_AMP_CommandUndead_Container"
+data "Cooldown" "OncePerCombat"
+data "TargetConditions" "Character() and Tagged('UNDEAD') and not Ally()"
+data "Icon" "Action_Mag_CommandUndead_Approach"
+data "CycleConditions" "Character() and Enemy() and not Dead() and Tagged('UNDEAD')"
+data "UseCosts" "BonusActionPoint:1"
+data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsSpell;IsHarmful"
+data "Description" "heb71df3fgbb30g4899g868bg180777d27a61;2"
+
+new entry "Target_AMP_CommandUndead_Drop"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Command_Drop"
+data "SpellContainerID" "Target_AMP_CommandUndead_Container"
+data "Cooldown" "OncePerCombat"
+data "TargetConditions" "Character() and Tagged('UNDEAD') and not Ally()"
+data "Icon" "Action_Mag_CommandUndead_Drop"
+data "CycleConditions" "Character() and Enemy() and not Dead() and Tagged('UNDEAD')"
+data "UseCosts" "BonusActionPoint:1"
+data "Description" "h7cfd2e48g50b6g4e8eg8749g474d67636223;2"
+
+new entry "Target_AMP_CommandUndead_Grovel"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Command_Grovel"
+data "SpellContainerID" "Target_AMP_CommandUndead_Container"
+data "Cooldown" "OncePerCombat"
+data "TargetConditions" "Character() and Tagged('UNDEAD') and not Ally()"
+data "Icon" "Action_Mag_CommandUndead_Grovel"
+data "CycleConditions" "Character() and Enemy() and not Dead() and Tagged('UNDEAD')"
+data "UseCosts" "BonusActionPoint:1"
+data "Description" "h44b4f9d7gd7dbg42f1gbe92g529686894b6d;2"
+
+new entry "Target_AMP_CommandUndead_Flee"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Command_Flee"
+data "SpellContainerID" "Target_AMP_CommandUndead_Container"
+data "Cooldown" "OncePerCombat"
+data "TargetConditions" "Character() and Tagged('UNDEAD') and not Ally()"
+data "Icon" "Action_Mag_CommandUndead_Flee"
+data "CycleConditions" "Character() and Enemy() and not Dead() and Tagged('UNDEAD')"
+data "UseCosts" "BonusActionPoint:1"
+data "Description" "hc6cdc9dbg68e8g446agb986g308d3a4b34a3;2"
+
+new entry "Wall_AMP_WallOfIce_Free"
+type "SpellData"
+data "SpellType" "Wall"
+using "Wall_WallOfIce"
+data "Cooldown" "OncePerCombat"
+data "UseCosts" "ActionPoint:1"
+data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsSpell;Temporary"
+
+// Machine Gun Warlock
+
+
+
+
+// Fear and Charm Controller
+
+
+
+
+// Ensnarer
+
+
+
+
+// Psychic Caster
+
+
+
+
+// Magic Missiles
+
+// legendary cloak +2 magic missiles when unarmored
+
+
+// uncommon boots +3m jump range for 2 turns after magic missile
+
+
+// rare shield reaction to auto-cast lvl1 magic missile when enemy attacks ally/wearer, breaks concentration
+
+
+// Poisoner
+
+
+
+
+// Summoner
+new entry "AMP_Summoner_Cloth"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "cfa9ff60-9d63-4d8e-a112-c8989347bf65"
+data "ValueOverride" "3000"
+data "Rarity" "Legendary"
+data "Unique" "1"
+data "ComboCategory" "d4"
+data "ArmorType" "Cloth"
+data "PassivesOnEquip" "AMP_Summoner_Pact01_Passive"
+data "StatusOnEquip" "AMP_SUMMONER_CLOTH_TAG"
+
+new entry "AMP_SUMMONER_CLOTH_TAG"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackId" "AMP_SUMMONER_CLOTH_TAG"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting;ApplyToDead"
+data "Boosts" "UnlockInterrupt(AMP_Interrupt_Pact01)"
+
+new entry "Target_AMP_Pact01"
+type "SpellData"
+data "SpellType" "Target"
+data "Level" "3"
+data "SpellSchool" "Conjuration"
+data "SpellProperties" "GROUND:Summon(a85459ff-ea08-42d5-babb-983ea65b418e, -1,,,,AMP_PACT_CONTROL,UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK)"
+data "TargetRadius" "50"
+data "TargetConditions" ""
+data "Icon" "Spell_Transmutation_Polymorph"
+data "DisplayName" "h21db9c4ag7868g490ag8f2eg68b80da39211;1"
+data "Description" "h92c07046gc0f9g4e93gb1c7g9498a3f48274;1"
+data "DescriptionParams" "DealDamage(2,Force)"
+data "PrepareSound" "Action_Prepare_Item_Harmonizing"
+data "PrepareLoopSound" "Action_Loop_Item_Harmonizing"
+data "CastSound" "Action_Cast_Item_Harmonizing"
+data "TargetSound" "Action_Impact_Barbarian_BolsteringMagicBoon"
+data "CastTextEvent" "Cast"
+data "UseCosts" ""
+data "SpellAnimation" "6f42f5f3-7a5a-4441-a02e-71b0450ac4b7,,;,,;60f073b7-1e43-47a5-96c7-53376057e59a,,;f2137644-4bb4-4ed3-ab1d-d149719fbb53,,;42aaefdc-cf9b-4249-b159-285041851f69,,;,,;20e11c98-fff9-4417-88de-5bcc2368a1bd,,;,,;,,"
+data "VerbalIntent" "Summon"
+data "SpellStyleGroup" "Class"
+data "SpellFlags" "IsSpell"
+data "MemoryCost" "1"
+data "PrepareEffect" "7e42016a-29f9-4922-908b-dbf010dff168"
+data "CastEffect" "39d99c67-5c08-424c-9de8-f09bae440221"
+// 32acf7ca-ec60-43fa-a77f-2d5672008fe3
+data "TargetEffect" "5aa70c85-8cfe-4406-88e3-066922cd45eb"
+data "DamageType" "Force"
+
+new entry "AMP_Interrupt_Pact01"
+type "InterruptData"
+data "DisplayName" "h9ab0147fg0123g4102g8f64g7e6aa7cfc195;1"
+data "Description" "h39636e1fge694g444eg99d1ga56da12a285a;1"
+data "InterruptContext" "OnCastHit"
+data "InterruptContextScope" "Nearby"
+data "Container" "YesNoDecision"
+data "Icon" "Spell_Transmutation_Polymorph"
+data "Conditions" "(Ally(context.Target, context.Observer) or Self(context.Target, context.Observer)) and Enemy(context.Source, context.Observer) and IsAbleToReact(context.Observer) and HasDamageEffectFlag(DamageFlags.Hit) and HasLastAttackTriggered()"
+data "Properties" "UseSpell(OBSERVER_SOURCE,Target_AMP_Pact01,true,true,true)"
+data "InterruptDefaultValue" "Enabled"
+data "Cost" "ReactionActionPoint:1"
+
+// PACT EFFECT
+new entry "AMP_PACT_VFX"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackId" "AMP_PACT_VFX"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting;ApplyToDead"
+data "StatusEffect" "bc9f176e-4661-4497-9959-aff11f8c3353"
+data "RemoveConditions" "HasStatus('DYING')"
+data "RemoveEvents" "OnStatusApplied"
+
+// Pact 01 Character Monk
+new entry "AMP_Summoner_Pact01_Character"
+type "Character"
+using "Elf_Monk"
+data "Progressions" "878630d0-136a-4dc9-aa2a-a0a123d3a107"
+data "DynamicAnimationTag" "d559367e-4d27-402a-8898-a72fd5f20c8b"
+data "Class" "Monk"
+data "Level" "5"
+data "Strength" "20"
+data "Dexterity" "14"
+data "Constitution" "8"
+data "Intelligence" "8"
+data "Wisdom" "6"
+data "Charisma" "4"
+data "Armor" "8"
+data "Vitality" "1"
+data "XPReward" ""
+data "Weight" "1"
+data "StepsType" "Bare"
+data "GameSize" "Small"
+data "DefaultBoosts" "Initiative(20);IgnoreFallDamage();BlockRegainHP(Undead;Construct);ReduceCriticalAttackThreshold(5);Tag(ACT2_SHADOW_CURSE_IMMUNE)"
+data "PersonalStatusImmunities" "GAPING_WOUND;CHEST_TRAUMA;BLEEDING;SG_Charmed;SG_Exhausted;SG_Frightened;GRAPPLED;SG_Paralyzed;SG_Petrified;SG_Poisoned;SG_Prone;SG_Restrained;DISARM"
+data "PathInfluence" "BloodElectrified,50;BloodFrozen,70;Lava,350;Fire,20;HolyFire,40;Hellfire,200;PoisonCloud,10;WyvernPoison,10;DrowPoisonCloud,10;PurpleWormPoison,10;SerpentVenom,10;InvisibleGithAcid,30;CloudkillCloud,10;MaliceCloud,10;CrawlerMucusCloud,10;WaterElectrified,50;WaterFrozen,100;Grease,100;Web,100;Vines,40;SporeBlackCloud,100;WaterCloudElectrified,40;SporeGreenCloud,40;Acid,30;CausticBrine,40;DarknessCloud,30;FogCloud,30;Mud,30;Oil,30;Poison,30;SpikeGrowth,40;SporePinkCloud,40;StinkingCloud,40"
+data "SpellCastingAbility" "Strength"
+data "UnarmedAttackAbility" "Strength"
+data "UnarmedRangedAttackAbility" "Strength"
+data "ActionResources" "ActionPoint:1;BonusActionPoint:1;Movement:12;ReactionActionPoint:1;KiPoint:4"
+data "Passives" "Ethereal;Darkvision;IncorporealMovement;AttackOfOpportunity;DarknessRules;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check"
+data "DarkvisionRange" "18"
+data "DifficultyStatuses" ""
+data "BludgeoningResistance" "ResistantToNonMagical"
+data "SlashingResistance" "ResistantToNonMagical"
+data "PiercingResistance" "ResistantToNonMagical"
+data "AcidResistance" "Resistant"
+data "ColdResistance" "Immune"
+data "FireResistance" "Resistant"
+data "LightningResistance" "Resistant"
+data "NecroticResistance" "Immune"
+data "PoisonResistance" "Immune"
+data "ThunderResistance" "Resistant"
+data "ForceResistance" "Vulnerable"
+
+new entry "AMP_PACT_CONTROL"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackId" "AMP_PACT_CONTROL"
+data "TickType" "StartTurn"
+data "TickFunctors" "DealDamage(3,Force)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;LoseControl;LoseControlFriendly"
+
+new entry "AMP_Summoner_Pact01_Passive"
+type "PassiveData"
+data "DisplayName" "hb589b088g072fg49afg81b0g1de6577fd2cb;1"
+data "Description" "h682f0e1eg6402g45fcg8b98gce1b734026a2;1"
+data "DescriptionParams" "1"
+data "BoostContext" "OnCreate;OnEquip"
+data "BoostConditions" "Tagged('HUMAN', context.Source) or Tagged('HALFELF',context.Source)"
+data "Boosts" "ActionResource(ReactionActionPoint,1,0)"
+
+// Epic Cloth
+
+
+// Paladin Healer
+
+
+// Paladin Tank
+
+// AMP_Tank_Armor_1 - Bastion of the Iron Hearth - Built-in Blade Ward
+new entry "AMP_Tank_Armor_1"
+type "Armor"
+using "ARM_Plate_Body"
+data "RootTemplate" "fe392150-656d-4b4c-a987-b78e374604f7"
+data "ValueOverride" "500"
+data "ArmorClass" "17"
+data "Rarity" "Rare"
+data "Unique" "1"
+data "ComboCategory" "d2"
+data "ArmorType" "Plate"
+data "StatusOnEquip" "MAG_BLADE_WARD"
+data "PassivesOnEquip" "AMP_Tank_Armor_1_Passive"
+
+new entry "AMP_Tank_Armor_1_Passive"
+type "PassiveData"
+data "DisplayName" "hd3f0d7fbg213ag4eedga1d0gf02a8da9f87d;1"
+data "Description" "hba3a3bb4g0815g4505gb419g281bb838da13;1"
+
+// AMP_Tank_Armor_2 - Evergreen Watch Plate Armor
+new entry "AMP_Tank_Armor_2"
+type "Armor"
+using "ARM_Plate_Body"
+data "RootTemplate" "2577ca3a-03d9-41fb-b372-cba6a726346e"
+data "ValueOverride" "200"
+data "ArmorClass" "18"
+data "Rarity" "Uncommon"
+data "Unique" "1"
+data "ComboCategory" "d1"
+data "ArmorType" "Plate"
+data "PassivesOnEquip" "AMP_Tank_Armor_2_Passive"
+data "Boosts" ""
+
+new entry "AMP_Tank_Armor_2_Passive"
+type "PassiveData"
+data "DisplayName" "h12e91714g9731g4795g802bga5fa82471259;1"
+data "Description" "h551c78a8g1c24g4509g9c73g45dfa5134a98;1"
+data "DescriptionParams" "RegainHitPoints(1d6)"
+data "Icon" "AMP_Tank_Armor_2_Passive"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnTurn"
+data "Conditions" "Combat()"
+data "StatsFunctors" "IF(not HasStatus('AMP_TANK_ARMOR_2_REGEN')):ApplyStatus(SELF,AMP_TANK_ARMOR_2_REGEN,100,1)"
+
+new entry "AMP_TANK_ARMOR_2_REGEN"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h12e91714g9731g4795g802bga5fa82471259;1"
+data "Description" "hcc4fd6a3g3feag4c33gb83agaee1dfa42274;1"
+data "DescriptionParams" "RegainHitPoints(1d6)"
+data "StackId" "AMP_TANK_ARMOR_2_REGEN"
+data "TickType" "EndTurn"
+data "TickFunctors" "RegainHitPoints(1d6)"
+data "Icon" "AMP_Tank_Armor_2_Passive"
+data "RemoveEvents" "OnMove"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog"
+
+new entry "AMP_Tank_Ring"
+type "Armor"
+using "MAG_Ring36"
+data "ValueOverride" "500"
+data "Unique" "1"
+data "ComboCategory" "d3"
+data "ValueLevel" "3"
+data "Rarity" "VeryRare"
+data "PassivesOnEquip" "AMP_Tank_Ring_Passive"
+data "Boosts" "AC(1)"
+
+new entry "AMP_Tank_Ring_Passive"
+type "PassiveData"
+data "DisplayName" "h7a13b994gd956g466bga0b3ga3aed7adf2ab;1"
+data "Description" "hae929212g0cc9g4dfag9912gf08c7625daa5;1"
+data "DescriptionParams" "3"
+data "Icon" "Ring29_bonus"
+data "Properties" "Highlighted"
+
+new entry "AMP_Tank_Gloves"
+type "Armor"
+using "MAG_Armour_G_73"
+data "ValueOverride" "400"
+data "Rarity" "Rare"
+data "Unique" "1"
+data "Proficiency Group" "HeavyArmor"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_Tank_Gloves_Passive"
+data "Boosts" ""
+
+new entry "AMP_Tank_Gloves_Passive"
+type "PassiveData"
+data "DisplayName" "h24d5e050gcce9g492dg897fge25bf9aaa1a2;1"
+data "Description" "h14531d06gf79ag4e97ga5a5g546171c8311f;1"
+data "Properties" "Highlighted"
+data "Icon" "Spell_Evocation_BlindingSmite"
+data "Boosts" "UnlockInterrupt(Interrupt_AMP_Tank_Gloves)"
+
+new entry "Interrupt_AMP_Tank_Gloves"
+type "InterruptData"
+data "DisplayName" "h24d5e050gcce9g492dg897fge25bf9aaa1a2;1"
+data "Description" "h14531d06gf79ag4e97ga5a5g546171c8311f;1"
+data "Icon" "Spell_Evocation_BlindingSmite"
+data "InterruptContext" "OnCastHit"
+data "InterruptContextScope" "Self"
+data "Container" "YesNoDecision"
+data "Conditions" "not HasVerbalComponentBlocked(context.Observer) and IsAbleToReact(context.Observer) and Enemy(context.Source,context.Observer) and (IsMiss() or IsCriticalMiss()) and not DistanceToEntityGreaterThan(2, context.ObserverPosition, context.Source) and not AnyEntityIsItem() and HasLastAttackTriggered()"
+data "Properties" "UseSpell(SWAP,Target_AMP_Smite_Blinding,true,true,true)"
+data "Cost" "ChannelOath:1"
+data "Stack" "Tank_Gloves"
+data "InterruptDefaultValue" "Enabled"
+data "EnableCondition" "(not HasAnyStatus({'SG_Polymorph','SG_Blinded'}) or HasAnyStatus({'SG_Disguise','WILDSHAPE_STARRY_ARCHER_PLAYER','WILDSHAPE_STARRY_CHALICE_PLAYER','WILDSHAPE_STARRY_DRAGON_PLAYER'})) and HasActionResource('ChannelOath',1,0,false);"
+data "EnableContext" "OnStatusApplied;OnStatusRemoved"
+
+new entry "Target_AMP_Smite_Blinding"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Smite_Blinding"
+data "HitCosts" ""
+
+new entry "AMP_Tank_Amulet"
+type "Armor"
+using "MAG_Neck1"
+data "ValueOverride" "200"
+data "Rarity" "Uncommon"
+data "Unique" "1"
+data "ComboCategory" "d1"
+data "ValueLevel" "4"
+data "PassivesOnEquip" "AMP_Tank_Amulet_Passive"
+data "Boosts" ""
+
+new entry "AMP_Tank_Amulet_Passive"
+type "PassiveData"
+data "DisplayName" "hbad50d1dge5d8g4a0eg9d08g450db15b9930;1"
+data "Description" "h762875c1g8871g4575g921cgeb13ee10dcd1;1"
+data "DescriptionParams" "1"
+data "Icon" "Ring66_bonus"
+data "Properties" "Highlighted"
+data "Boosts" "IF(HasHeavyArmor() and HasShieldEquipped()):DamageReduction(All, Flat, 1)"
+
+new entry "AMP_Tank_Shield"
+type "Armor"
+using "MAG_Weapon72"
+data "Unique" "1"
+data "ValueOverride" "550"
+data "Rarity" "Rare"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_Tank_Shield_Passive"
+data "Boosts" ""
+
+new entry "AMP_Tank_Shield_Passive"
+type "PassiveData"
+data "DisplayName" "h6b59a3dbgf4d1g4172gb3acg6ad0ea28316a;1"
+data "Description" "h9936810fg8df2g4d1bgbb30g2bb7f0d0fe6f;1"
+data "DescriptionParams" "DealDamage(,Necrotic);DealDamage(1d4,Radiant)"
+data "Properties" "Highlighted"
+data "Icon" "PassiveFeature_Generic_Light"
+data "StatsFunctorContext" "OnAttacked"
+data "Conditions" "HasDamageDoneForType(DamageType.Necrotic) and Enemy() and Combat() and HasDamageEffectFlag(DamageFlags.Hit)"
+data "StatsFunctors" "DealDamage(SWAP,1d4,Radiant,Magical)"
+
+// Lich Queen
+
+
+
+
+// Thunder Cleric/Sorcerer
+
+
+
+
+// Elusive Spirit
+
+
+
+
+// Non-combat Conversationalist
+
+
+
+
+// Superiority Fighter
+
+
+
+
+// Necromancer Summoner
+
+// Jack Bones Armor
+new entry "AMP_Necromancer_Cloth"
+type "Armor"
+using "_Armor_Magic_Robe"
+data "RootTemplate" "cc7382dd-9eef-41e0-ad2a-5d4b2c98e6f6"
+data "ValueOverride" "500"
+data "Rarity" "Rare"
+data "Unique" "1"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_Necromancer_Cloth_Passive"
+data "Boosts" "Tag(AMP_NECROMANCER_ARMOUR);UnlockSpell(Target_SummonSkeleton01);Tag(UNDEAD)"
+
+new entry "AMP_Necromancer_Cloth_Passive"
+type "PassiveData"
+data "DisplayName" "hbb333835g9ef0g4f11gb74agd27e158dcaaf;1"
+data "Description" "h79a94c73gcc0ag4cf5g9c67g484afd279a93;1"
+data "DescriptionParams" "Distance(9);Distance(3)"
+data "Properties" "Highlighted"
+
+new entry "AMP_Skeleton01"
+type "Character"
+using "Skeleton_Ranger"
+data "ArmorType" "Cloth"
+data "Proficiency Group" "LightArmor;SimpleWeapons;Rapiers;HandCrossbows"
+data "Strength" "8"
+data "Dexterity" "15"
+data "Constitution" "10"
+data "Intelligence" "8"
+data "Wisdom" "6"
+data "Charisma" "17"
+data "Armor" "9"
+data "Vitality" "20"
+data "XPReward" ""
+data "Weight" "25"
+data "DefaultBoosts" "BlockRegainHP(Undead;Construct);ProficiencyBonus(SavingThrow, Charisma);ProficiencyBonus(SavingThrow, Dexterity)"
+data "ActionResources" "ActionPoint:1;BonusActionPoint:1;Movement:13;ReactionActionPoint:1"
+data "Passives" "BlockVerbalSpellcasting;Darkvision;AttackOfOpportunity;DarknessRules;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check"
+data "PersonalStatusImmunities" "SG_Poisoned;BLEEDING;SLEEPING;GAPING_WOUND;CHEST_TRAUMA;DAZED;SCL_SHADOW_CURSE;SCL_SHADOW_CURSE_1;SCL_SHADOW_CURSE_2;SCL_SHADOW_CURSE_3;SCL_SHADOW_CURSE_4"
+data "StepsType" "Leather"
+
+new entry "Target_SummonSkeleton01"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_AnimateDead_Skeleton"
+data "Cooldown" "OncePerRestPerItem"
+data "SpellContainerID" ""
+data "SpellProperties" "SwitchDeathType(Explode);GROUND:Summon(5192cf53-e8e3-4389-ad07-fdc3bce5a49a, UntilLongRest,,,'JackBonesStack',AMP_SUMMON,UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK,CREATEILLUSION_DISPLACERBEAST)"
+data "TargetRadius" "9"
+data "TargetConditions" "IsTargetableCorpse() and CanStand('5192cf53-e8e3-4389-ad07-fdc3bce5a49a') and TargetSizeEqualOrSmaller(Size.Medium)  and SizeEqualOrGreater(Size.Small)"
+data "Requirements" ""
+data "Icon" "Target_SummonSkeleton01"
+data "DisplayName" "h96111e77g7211g4448gb5c9gf693444b14b0;1"
+data "Description" "h0dc18304gacdfg4795ga2b7g5d27e263e0ef;1"
+data "UseCosts" "ActionPoint:1"
+data "TooltipUpcastDescription" ""
+data "SpellAnimation" "6f42f5f3-7a5a-4441-a02e-71b0450ac4b7,,;,,;c0513845-6e0e-42e8-9a8c-baa5e2b6ead6,,;fbf20742-9dbf-475b-9ff5-42e4b08064ad,,;42aaefdc-cf9b-4249-b159-285041851f69,,;,,;20e11c98-fff9-4417-88de-5bcc2368a1bd,,;,,;,,"
+data "VerbalIntent" "Summon"
+data "WeaponTypes" "None"
+data "PreviewCursor" "Cast"
+data "CastTextEvent" "Cast"
+data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsSpell"
+data "SpellAnimationIntentType" "Aggressive"
+data "PrepareEffect" "239d0263-eb26-4d7e-9683-4d7be6b6a1cf"
+data "CastEffect" "111a8b8c-b395-46d0-b2f0-a10ac6f9731f"
+data "TargetEffect" "a082692d-ad88-44e2-ab4e-f92e69150438"
+data "Sheathing" "DontChange"
+data "DamageType" "Necrotic"
+
+new entry "Projectile_AMP_Necromancer_Cloth"
+type "SpellData"
+data "SpellType" "Projectile"
+data "Level" ""
+data "SpellSchool" "Necromancy"
+data "AreaRadius" "3"
+data "ExplodeRadius" "3"
+data "ProjectileCount" "1"
+data "SpellRoll" "not SavingThrow(Ability.Wisdom,11)"
+data "SpellSuccess" "ApplyStatus(CONFUSION,100,2)"
+data "TargetConditions" "Character() and not Dead()"
+data "Trajectories" "f346b284-854e-4dd9-b87c-3938f5178265"
+data "Icon" "Spell_Enchantment_Confusion"
+data "DisplayName" "h7caec3c6gc1a3g470cg863fga6ecb0a0bf05;1"
+data "Description" "h1e90c828g16a3g4c77g8a1dg86316c483257;1"
+data "TooltipDamageList" ""
+data "TooltipAttackSave" "Wisdom"
+data "TooltipStatusApply" "ApplyStatus(CONFUSION,100,2)"
+data "CastSound" "Spell_Cast_Debuff_Confusion_L4to5"
+data "TargetSound" "Spell_Impact_Debuff_Confusion_L4to5"
+data "SpellAnimation" "554a18f7-952e-494a-b301-7702a85d4bc9,,;,,;54ae8856-36b2-4f70-8bd3-c2a760f93fd5,,;8ce3e582-e8bb-4d2f-9c5c-46c70c9b87c0,,;22dfbbf4-f417-4c84-b39e-2039315961e6,,;,,;5bfbe9f9-4fc3-4f26-b112-43d404db6a89,,;,,;,,"
+data "VerbalIntent" "Control"
+data "SpellFlags" "IsHarmful"
+data "HitAnimationType" "MagicalDamage_Psychic"
+data "PrepareEffect" "b090825a-0728-4566-a02b-056a188cc347"
+data "CastEffect" "38776222-db33-4b53-9e23-ca3b47ab58cb"
+data "TargetEffect" "c6846cf3-6ea3-4551-b867-3554eaa6aeae"
+data "PositionEffect" "16d200bc-14f7-416d-ab7a-913bb450734c"
+data "TargetHitEffect" "91ef374a-8917-4b10-a4dc-89ba36ec60b4"
+data "DamageType" "None"
+data "Sheathing" "DontChange"
+
+// Jumper
+
+
+
+
+// Dragon Slayer
+
+
+
+
+// Paralysis Rogue
+
+
+
+
+// Blinder
+
+
+
+
+// Lightning Striker
+
+// Lightning Hammer with enhanced discharge system
+new entry "LightHammerOfThor"
+type "Weapon"
+using "WPN_LightHammer"
+data "RootTemplate" "ede2ea49-3ae0-46c4-a863-3fbcc2badb6d"
+data "Damage Type" "Lightning"
+data "Damage" "1d8"
+data "DefaultBoosts" "WeaponProperty(Magical);WeaponEnchantment(2)"
+data "PassivesOnEquip" "MAG_ChargedLightning_Charge_OnDamage_Passive;SUPER_DISCHARGE_PASSIVE"
+data "Rarity" "Rare"
+data "ValueOverride" "550"
+data "Unique" "1"
+data "ComboCategory" "d2"
+data "Weapon Properties" "Thrown;Melee;Dippable;NoDualWield"
+data "Proficiency Group" "LightHammers;MartialWeapons"
+
+// Enhanced Lightning Discharge - triggers on lightning discharge
+new entry "SUPER_DISCHARGE_PASSIVE"
+type "PassiveData"
+using "MAG_ChargedLightning_LightningDischarge_Passive"
+data "DisplayName" "h8be4e186g1dc7g996cg3d5dgeaec3f7ddd9e;1"
+data "Description" "hb1feaa23g54c8gec34g3870g10a23cb90c2c;1"
+data "DescriptionParams" "7;Distance(3);13;DealDamage(2d6+2, Lightning)"
+data "Icon" "Action_Monster_ElementalAir_Blast"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "Enemy() and Combat()"
+data "StatsFunctors" "IF(IsDischargingLightning(context.Source)):ApplyStatus(LIGHTNING_DISCHARGE_STATUS,100,0);IF(IsDischargingLightning(context.Source)):RemoveStatus(SELF,MAG_CHARGED_LIGHTNING);IF(IsDischargingLightning(context.Source)):ApplyStatus(MAG_CHARGED_LIGHTNING_GENERATE_CHARGE_FX, 100, 0);"
+
+// Lightning explosion status - balanced damage
+new entry "LIGHTNING_DISCHARGE_STATUS"
+type "StatusData"
+data "StatusType" "BOOST"
+using "WILD_MAGIC_HEAL_1"
+data "OnApplyFunctors" "CreateExplosion(Projectile_LIGHTNING_STRIKE_TARGET)"
+
+// Lightning explosion projectile - reduced damage with save
+new entry "Projectile_LIGHTNING_STRIKE_TARGET"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Projectile_ChromaticOrb_Lightning"
+data "DisplayName" "h8be4e186g1dc7g996cg3d5dgeaec3f7ddd9e;1"
+data "Description" "hb1feaa23g54c8gec34g3870g10a23cb90c2c;1"
+data "AreaRadius" "3"
+data "ExplodeRadius" "3"
+data "SpellProperties" "GROUND:SurfaceChange(Electrify)"
+data "SpellRoll" "not SavingThrow(Ability.Dexterity, 13)"
+data "SpellSuccess" "DealDamage(2d6+2, Lightning,Magical)"
+data "SpellFail" "DealDamage(1d6+1, Lightning,Magical)"
+data "TargetConditions" ""
+data "TooltipDamageList" "DealDamage(2d6+2, Lightning)"
+data "TooltipAttackSave" "Dexterity"
+data "Icon" "Action_Monster_ElementalAir_Blast"
+data "SpellFlags" "IsTrap;CanAreaDamageEvade;ImmediateCast"
+data "TooltipUpcastDescriptionParams" ""
+data "MemoryCost" ""
+
+
+// Heat/Burning
+
+
+
+
+// Force Conduit
+
+
+
+
+// Wounded
+
+
+
+
+// Support Buffer
+
+
+
+
+// One-shot Paladin
+
+
+
+
+// Sacrificer
+
+
+
+
+// Infernal
+
+
+
+
+// Shield Breaker
+
+
+
+
+// Mage Slayer
+
+
+
+
+// Fiend Slayer
+
+
+
+
+// Boss Killer
+
+
+
+
+// Dark Mage
+
+
+
+
+// Lightning Charges
+
+
+
+
+// Vampire Lord
+new entry "AMP_Vampire_Robe"
+type "Armor"
+using "_Armor_Magic_Robe"
+data "RootTemplate" "d9bf3e49-f55b-41dd-a2bd-dd26340f5558"
+data "ValueOverride" "1000"
+data "Rarity" "VeryRare"
+data "Unique" "1"
+data "ComboCategory" "d3"
+data "ArmorType" "Cloth"
+data "ArmorClass" "11"
+data "PassivesOnEquip" "VampireSpawn;Regeneration_Vampire_Spawn;SunlightHypersensitivity;AMP_Vampire_Burst"
+
+new entry "AMP_Vampire_Burst"
+type "PassiveData"
+data "DisplayName" "h9b695233g963cg4728gb59eg3d01806fae0d;1"
+data "Description" "h7d159547ga2a1g47daga8cagaad8db406b8e;1"
+data "DescriptionParams" "DealDamage(3d6,Necrotic)"
+data "Icon" "Spell_Necromancy_VampiricTouch"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "SpellId('Target_VampireBite_Astarion') or SpellId('Target_VampiricTouch') or SpellId('Target_VampiricTouch_Free') or SpellId('Target_MAG_Vampiric_Touch') or SpellId('Target_VampiricTouch_4') or SpellId('Target_VampiricTouch_Free_4') or SpellId('Target_VampiricTouch_5') or SpellId('Target_VampiricTouch_Free_5') or SpellId('Target_VampiricTouch_6') or SpellId('Target_VampiricTouch_Free_6')"
+data "StatsFunctors" "DealDamage(3d6,Necrotic,Magical,,0,,true,false)"
+
+// Invisible
+
+
+
+
+// Ally Killer
+
+
+
+
+// Ash Lord
+
+
+
+
+// Non-combat Thief/Lockpicker
+
+
+
+
+// Radiating Orb
+
+
+
+
+// Reverberation
+
+
+
+
+// Battle Mage (Gish)
+
+
+
+
+// Size Master
+
+
+
+
+// Beast Master
+
+
+
+
+// One-Turn Caster
+
+
+
+
+// Speedrunner
+
+
+
+
+// Fighter/Barbarian on cantrips
+
+
+
+
+// Giant
+
+
+
+
+// Debuffer on Bane
+
+
+
+
+// Drow Webmaster
+
+
+
+
+// Mud Druid / Flower Druid
+
+
+
+
+// Warg Druid
+
+
+
+
+// Sun/Light Wielder
+
+
+
+
+// Cursed Warrior
+
+// Cursed Enlargement Cloak
+new entry "AMP_Cursed_EnlargementCloak"
+type "Armor"
+using "ARM_Cloak"
+data "RootTemplate" "1a72c384-0d91-4bf7-9199-2723ac95c431"
+data "ValueOverride" "200"
+data "Rarity" "Uncommon"
+data "ComboCategory" "d1"
+data "Unique" "1"
+data "PassivesOnEquip" "AMP_Cursed_EnlargementCloak_Technical"
+data "StatusOnEquip" "AMP_CURSED_ENLARGE_READY"
+
+new entry "AMP_Cursed_EnlargementCloak_Technical"
+type "PassiveData"
+data "DisplayName" "h8d1f5a29gb4c7g4e62g9853gf2a681e45d73;1"
+data "Description" "hc3e6b94fg7a25g4d18g8794gae5f123c6b89;1"
+data "DescriptionParams" ""
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnStatusApplied;OnStatusRemoved;OnCreate;OnTurn"
+data "Conditions" "StatusHasStatusGroup(context.StatusId, 'SG_Cursed')"
+data "StatsFunctors" "IF(context.HasContextFlag(StatsFunctorContext.OnStatusApplied)):ApplyStatus(ENLARGE, 100, -1);IF(context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):RemoveStatus(ENLARGE)"
+
+new entry "AMP_CURSED_ENLARGE_READY"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackId" "AMP_CURSED_ENLARGE_READY"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting;ApplyToDead"
+data "OnRemoveFunctors" "RemoveStatus(ENLARGE)"
+
+
+// Void Mage
+
+
+
+
+// Self-Sheep Transformer
+
+
+
+
+// Hexblade Warlock
+
+
+
+
+// Beast Slayer
+
+
+
+
+// Evocation Mage
+
+
+
+
+// Nature Shaman
+
+
+
+
+// Construct
+
+
+
+
+// Drunkard
+
+
+
+
+// Self-Petrificator
+
+new entry "AMP_SelfPetrificator_Boots"
+type "Armor"
+using "ARM_Boots_Leather"
+data "RootTemplate" "7860d112-1394-419d-977a-4357decb78ea"
+data "ValueOverride" "400"
+data "Rarity" "Rare"
+data "Unique" "1"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_SelfPetrificator_Boots_Passive"
+
+new entry "AMP_SelfPetrificator_Boots_Passive"
+type "PassiveData"
+data "DisplayName" "h9a880ed5g25f3g4f88gbb66g292d4fc6a806;1"
+data "Description" "h99f41936gc99fg412dg9082gc63539dba2d8;1"
+data "DescriptionParams" "DealDamage(3d4,Thunder);Distance(8)"
+data "Icon" "PassiveFeature_ElementalAdept_Thunder"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnTurn"
+data "Conditions" "Combat() and (HasStatus('PETRIFIED', context.Source) or StatusHasStatusGroup(context.StatusId, 'SG_Petrified'))"
+data "StatsFunctors" "CreateExplosion(Projectile_AMP_PetrificationResonance)"
+
+new entry "Projectile_AMP_PetrificationResonance"
+type "SpellData"
+data "SpellType" "Projectile"
+data "Level" ""
+data "SpellSchool" ""
+data "AreaRadius" "8"
+data "ExplodeRadius" "8"
+data "ProjectileCount" "1"
+data "SpellProperties" "DealDamage(1,Thunder,Magical)"
+data "SpellSuccess" "DealDamage(3d4,Fire,Magical)"
+data "SpellRoll" "not SavingThrow(Ability.Constitution, 15)"
+data "SpellFail" "DealDamage((3d4)/2,Thunder)"
+data "TooltipAttackSave" "Constitution"
+data "TooltipDamageList" "DealDamage(3d4,Thunder)"
+data "TargetConditions" "not Dead() and not Ally()"
+data "Icon" "GenericIcon_DamageType_Thunder"
+data "DisplayName" "h9a880ed5g25f3g4f88gbb66g292d4fc6a806;1"
+data "Description" "hbe559570g68a2g429dga935g2f1d97d9e831;1"
+data "HitAnimationType" "MagicalDamage_External"
+data "Trajectories" "191b8fee-9a50-485f-bac3-ae59f6d06674"
+data "CastSound" "Spell_Cast_Damage_Thunder_Thunderwave_L1to3_01"
+data "SpellFlags" "IsHarmful;CanAreaDamageEvade;IsTrap"
+data "SpellAnimation" "3ff87abf-1ea1-4c32-aadf-c822d74c7dc0,,;,,;d30d2b40-c45a-45bd-94d7-9b2baaf0f77b,,;a601b33c-5320-455d-b4d4-74d6dc35b757,,;d8925ce4-d6d9-400c-92f5-ad772ef7f178,,;,,;eadedcce-d01b-4fbb-a1ae-d218f13aa5d6,,;,,;,,"
+data "HitEffect" "f26a585e-c8ba-482e-831f-735d0673527b"
+data "DamageType" "Thunder"
+
+
+// Moon Druid
+
+
+
+
+// Chronomancer
+
+
+
+
+// Big Spell Fire Mage
+
+
+
+
+// Confuser
+
+
+
+
+// Non-lethal Damage
+
+
+
+
+// Curser
+
+
+
+
+// Fogger
+
+
+
+
+// Aberration Slayer
+
+
+
+
+// Spore Master
+
+
+
+
+// Mentalist
+
+// Autoloot Helmet
+new entry "AMP_Mentalist_AutoLoot_Helmet"
+type "Armor"
+using "MAG_Armour_H_98"
+data "RootTemplate" "302d0f05-44cc-416e-a01b-d7817c1afb3b"
+data "ValueOverride" "200"
+data "Rarity" "VeryRare"
+data "Unique" "1"
+data "ComboCategory" "d2"
+data "Proficiency Group" ""
+data "ArmorType" "Plate"
+data "PassivesOnEquip" "AMP_Mentalist_AutoLoot_Helmet_Passive"
+data "Boosts" "UnlockSpell(Throw_MAG_Throw_Telekinesis)"
+
+new entry "Throw_MAG_Throw_Telekinesis"
+type "SpellData"
+data "SpellType" "Throw"
+using "Throw_MAG_Throw_Telekinesis"
+data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "AMP_Mentalist_AutoLoot_Helmet_Passive"
+type "PassiveData"
+data "DisplayName" "h107efa4cgd728g45f1gbd3ag1878ac725b5b;1"
+data "Description" "h16873f45g95a5g4f84g941dg3ab7d371492e;1"
+data "DescriptionParams" "Distance(5)"
+data "Icon" "Spell_Transmutation_Levitate"
+data "Properties" "Highlighted;ToggledDefaultOn;IsToggled;ToggledDefaultAddToHotbar"
+data "ToggleOnFunctors" "ApplyStatus(AMP_AUTOLOOT_STATUS, 100, -1)"
+data "ToggleOffFunctors" "RemoveStatus(AMP_AUTOLOOT_STATUS)"
+
+new entry "AMP_AUTOLOOT_STATUS"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackId" "AMP_AUTOLOOT_STATUS"
+data "AuraRadius" "5"
+data "AuraStatuses" "TARGET:IF(Item()):ApplyStatus(AMP_LOOT_ITEM)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "StatusEffect" ""
+
+new entry "AMP_LOOT_ITEM"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h107efa4cgd728g45f1gbd3ag1878ac725b5b;1"
+data "StackId" "AMP_LOOT_ITEM"
+data "StatusEffect" ""
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+
+
+// Polymorph Witch
+
+
+
+
+// Construct Slayer
+
+
+
+
+// Breacher
+
+
+
+
+// Poison Rogue
+
+
+
+
+// Duellist
+
+// rare ring dueling style + permanent heroism when wielding 1h weapon only
+
+
+// general tricorn very rare hat +1 reaction point for duelist
+
+
+// rare cloak ignore AoOs while dueling
+
+
+// uncommon boots 2 momentum charges per turn if no attacks made
+
+
+// very rare light armor parry reaction + crit threshold -1 vs off-balanced
+
+
+// Shover
+
+
+
+
+// Wounded Target Specialist
+
+
+
+
+// Powerful Inaccurate Caster
+
+
+
+
+// Self Madness
+
+
+
+
+// Poacher
+
+
+
+
+// Self Prone
+
+
+
+
+// Melee Glass Cannon
+
+
+
+
+// Bludgeoning Pusher
+
+
+
+
+// Sonicist
+
+
+
+
+// Melee Enhance Shaman
+
+// Minor damage art
+
+new entry "AMP_EnhanceShaman_Amulet"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "6b8db2be-3813-4cae-aa52-d875c8a76d30"
+data "ValueOverride" "500"
+data "Unique" "1"
+data "ComboCategory" "d2"
+data "Rarity" "Rare"
+data "PassivesOnEquip" "AMP_EnhanceShaman_Amulet_Passive"
+
+new entry "AMP_EnhanceShaman_Amulet_Passive"
+type "PassiveData"
+data "DisplayName" "h28e86fc9g99fbg4e8dg91f6gd5dc8f855b98;1"
+data "Description" "h4025396eg68d8g4a7ag9641gb6bf4c2b3225;1"
+data "DescriptionParams" "DealDamage(,Lightning);DealDamage(1d6,Lightning)"
+data "Icon" "Neck31_bonus"
+data "Properties" "Highlighted"
+data "Boosts" "IF(IsMeleeAttack() and HasDamageDoneForType(DamageType.Lightning)):DamageBonus(1d6,Lightning,Magical)"
+
+// Tiny
+
+
+
+
+// Impulse Mobility
+
+
+
+
+// Berserker Barbarian
+
+
+
+
+// War Cleric
+
+
+
+
+// Death Cleric
+
+// AMP_DeathCleric_Robe - Robes of Rhokandra
+new entry "AMP_DeathCleric_Robe"
+type "Armor"
+using "_Armor_Magic_Robe"
+data "RootTemplate" "b5cc7bbb-0798-43a4-becd-535903894ea4"
+data "ValueOverride" "1000"
+data "Rarity" "VeryRare"
+data "Unique" "1"
+data "ComboCategory" "d3"
+data "PassivesOnEquip" "AMP_DeathCleric_Master_Of_Death;AMP_DeathCleric_Death_Dominion"
+
+new entry "AMP_DeathCleric_Master_Of_Death"
+type "PassiveData"
+data "DisplayName" "h16df256dg1294g474eg85cfgd3c505754bf2;1"
+data "Description" "hb4c70a9ag2d8fg4a4ag9ffbgb1ae872071c9;1"
+data "DescriptionParams" "2"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnCast"
+data "Conditions" "IsSpellSchool(SpellSchool.Necromancy) and IsSavingThrow() and IsLastConditionRollSuccess(ConditionRollType.ConditionSavingThrow) and not Self()"
+data "StatsFunctors" "RestoreResource(SELF,ActionPoint,1,0)"
+data "Boosts" "SpellSaveDC(2)"
+
+new entry "AMP_DeathCleric_Death_Dominion"
+type "PassiveData"
+data "DisplayName" "hf6ed83c6g0208g4fc9g9e1bg414a99916c8b;1"
+data "Description" "h13fd0edag2f74g4040gb0b0ga6bbf820489b;1"
+data "DescriptionParams" "RegainHitPoints(WisdomModifier)"
+data "Icon" "PassiveFeature_DeathDomain_Reaper"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnTurn"
+data "Conditions" "HasActionResource('ChannelDivinity',1,0) and not HasMaxHP()"
+data "StatsFunctors" "RegainHitPoints(WisdomModifier,Guaranteed)"
+
+// Minor damage art
+new entry "AMP_Necrolord_Gloves"
+type "Armor"
+using "ARM_Gloves_Leather"
+data "RootTemplate" "98c0bb9a-2c7c-43a0-8481-98ed0fae73af"
+data "ValueOverride" "200"
+data "Rarity" "Uncommon"
+data "Unique" "1"
+data "ComboCategory" "d1"
+data "PassivesOnEquip" "AMP_Necrolord_Gloves_Passive"
+data "Boosts" ""
+
+new entry "AMP_Necrolord_Gloves_Passive"
+type "PassiveData"
+data "DisplayName" "hbf45a25ag1bfbg4880g8cb9g3934a11c66ca;1"
+data "Description" "h5a723dacga48cg4d7bgbbbagdf51a0ed7c83;1"
+data "DescriptionParams" "DealDamage(,Necrotic);DealDamage(2,Necrotic)"
+data "Icon" "PassiveFeature_Generic_Death"
+data "Properties" "Highlighted"
+data "Boosts" "IF(IsSpell() and HasDamageDoneForType(DamageType.Necrotic)):DamageBonus(2,Necrotic,Magical)"
+
+// Lord of the Dimensions
+
+new entry "AMP_DimensionLord_Helmet"
+type "Armor"
+using "_Head"
+data "RootTemplate" "b1a6054b-8649-40a6-b3f0-0de3f54c75a1"
+data "ValueOverride" "1000"
+data "Rarity" "VeryRare"
+data "Unique" "1"
+data "ComboCategory" "d3"
+data "ValueLevel" ""
+data "ValueScale" ""
+data "Proficiency Group" ""
+data "ArmorType" "Cloth"
+data "Weight" "0.5"
+data "PassivesOnEquip" "AMP_DimensionLord_Helmet_Passive;MAG_SpellSaveDC_Enchantment_Passive"
+data "Boosts" ""
+
+new entry "AMP_DimensionLord_Helmet_Passive"
+type "PassiveData"
+data "DisplayName" "hbb01a358gce46g4cd6g9c70gd66813a425a2;1"
+data "Description" "h396fb289g6d31g4171g997bge73718490885;1"
+data "DescriptionParams" ""
+data "Icon" "Neck42_bonus"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockInterrupt(AMP_DimensionLord_Helmet_Interrupt)"
+
+new entry "AMP_DimensionLord_Helmet_Interrupt"
+type "InterruptData"
+using "Interrupt_ControlledChaos"
+data "DisplayName" "hbb01a358gce46g4cd6g9c70gd66813a425a2;1"
+data "Description" "h9115f109ge56ag4f65g838eg9e38b3538d1c;1"
+data "Icon" "Spell_Transmutation_Telekinesis"
+data "InterruptContext" "OnCastHit"
+data "InterruptContextScope" "Nearby"
+data "Container" "YesNoDecision"
+data "Conditions" "IsAbleToReact(context.Observer) and (SpellId('Throw_Telekinesis') or SpellId('Throw_Telekinesis_Recast') or SpellId('Throw_Telekinesis_6') or SpellId('Throw_Telekinesis_WildMagic') or SpellId('Throw_MAG_Throw_Githborn_Telekinesis') or SpellId('Throw_MAG_Throw_Telekinesis')) and Enemy(context.Target, context.Observer)"
+data "Properties" "TriggerRandomCast(OBSERVER_SOURCE,1,,WildMagic);UseSpell(OBSERVER_SOURCE,Target_ControlledChaos,true,true,true)"
+// data "Properties" "TriggerRandomCast(OBSERVER_TARGET,20,0,WildMagicEvil);UseSpell(OBSERVER_TARGET,Target_ControlledChaos,true,true,true)"
+data "Cost" "ReactionActionPoint:1"
+data "InterruptDefaultValue" "Ask;Enabled"
+data "EnableCondition" "not HasStatus('SG_Polymorph') or HasAnyStatus({'SG_Disguise','WILDSHAPE_STARRY_ARCHER_PLAYER','WILDSHAPE_STARRY_CHALICE_PLAYER','WILDSHAPE_STARRY_DRAGON_PLAYER'});"
+data "EnableContext" "OnStatusApplied;OnStatusRemoved"
+
+// Cadence
+
+// ===== CADENCE LONGSWORD =====
+// Longsword with rhythm-based combat system
+new entry "Cadence_LongSword_1"
+type "Weapon"
+using "WPN_Longsword"
+data "RootTemplate" "1fc26f44-1bd2-4d6a-966a-7ba8af5ee1a0"
+data "DefaultBoosts" "WeaponProperty(Magical);WeaponEnchantment(1)"
+data "PassivesOnEquip" "Cadence_OnHit_Passive"
+data "Rarity" "Uncommon"
+data "ValueOverride" "250"
+data "Unique" "1"
+data "ComboCategory" "d1"
+
+// Cadence system - builds rhythm with each hit
+new entry "Cadence_OnHit_Passive"
+type "PassiveData"
+data "DisplayName" "hcf55ff67g948bgde71gd1b4g2a37a835beff;1"
+data "Description" "h705015bbga0ebg47f1g14d2g919ea5eee163;1"
+data "DescriptionParams" "1"
+data "Properties" "Highlighted"
+data "Icon" "Action_Song_OfDivinityAndSin"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "Combat() and Enemy() and AttackedWithPassiveSourceWeapon()"
+data "StatsFunctors" "ApplyStatus(SELF,CADENCE_STACK,100,1)"
+
+// Cadence stack status - provides damage bonus and tracks rhythm
+new entry "CADENCE_STACK"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "hbb09afdeg01b1g7ce0g5bb5gad839e82fc67;1"
+data "Description" "hf1b6e256gd200g58ffgbc54gb6f513b511d3;1"
+data "DescriptionParams" "2;3;DealDamage(1d4, Slashing);Distance(5);13"
+data "Icon" "Action_Song_OfDivinityAndSin"
+data "StackId" "CADENCE_STACK"
+data "FormatColor" "Red"
+data "StackType" "Additive"
+data "Boosts" "IF(IsWeaponAttack()):DamageBonus(2)"
+data "Passives" "CADENCE_STACK_PASSIVE"
+data "RemoveEvents" "OnCombatEnded"
+data "StatusPropertyFlags" "ForceOverhead;MultiplyEffectsByDuration"
+
+// Cadence rhythm detection - triggers explosion at 3 stacks
+new entry "CADENCE_STACK_PASSIVE"
+type "PassiveData"
+data "Properties" "IsHidden;OncePerTurn"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "StatusDurationEqualOrMoreThan(context.Source,'CADENCE_STACK',3) and Combat() and Enemy()"
+data "StatsFunctors" "ApplyStatus(CADENCE_STACKED,100,0);RemoveStatus(SELF,CADENCE_STACK)"
+
+// Cadence explosion trigger - instant effect
+new entry "CADENCE_STACKED"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "OnApplyFunctors" "CreateExplosion(Projectile_CADENCE_STRIKE_TARGET)"
+
+// Cadence explosion projectile - balanced slashing damage with save
+new entry "Projectile_CADENCE_STRIKE_TARGET"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Projectile_ArcaneShot_BurstingForce"
+data "DisplayName" "hbb09afdeg01b1g7ce0g5bb5gad839e82fc67;1"
+data "Description" "hf1b6e256gd200g58ffgbc54gb6f513b511d3;1"
+data "DescriptionParams" "2;3;DealDamage(1d4, Slashing);Distance(5);13"
+data "AreaRadius" "5"
+data "ExplodeRadius" "5"
+data "SpellProperties" ""
+data "SpellRoll" "not SavingThrow(Ability.Dexterity, 13)"
+data "SpellSuccess" "DealDamage(1d4, Slashing,Magical)"
+data "SpellFail" "DealDamage(1d4/2, Slashing,Magical)"
+data "TooltipDamageList" "DealDamage(1d4, Slashing)"
+data "TooltipAttackSave" "Dexterity"
+data "Icon" "Spell_Transmutation_SpikeGrowth"
+
+// Some summon fixes
+
+new entry "AMP_SUMMON"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h4b62963cg5d2fg4ce3gb25eg0607bc0d9916;1"
+data "StackId" "AMP_SUMMON"
+data "StatusPropertyFlags" "DisablePortraitIndicator;DisableCombatlog;DisableOverhead"
+
+new entry "AMP_SUMMON_MAGIC_ITEM"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h09d6c7fbgf511g4cd1gae60gb0d30da41414;1"
+data "StackId" "AMP_SUMMON_MAGIC_ITEM"
+data "StatusPropertyFlags" "DisablePortraitIndicator;DisableCombatlog;DisableOverhead;IgnoreResting"
+
+// Wild Magic Surge Expert
+new entry "AMP_WildMagic_Robe"
+type "Armor"
+using "_Armor_Magic_Robe"
+data "RootTemplate" "6ba6afa0-05ae-46e1-8f28-fc683fbe046c"
+data "ValueOverride" "1000"
+data "Rarity" "VeryRare"
+data "Unique" "1"
+data "ComboCategory" "d3"
+data "ArmorType" "Cloth"
+data "PassivesOnEquip" "AMP_WildMagic_Critical_Restoration;AMP_WildMagic_Reality_Warp"
+
+new entry "AMP_WildMagic_Critical_Restoration"
+type "PassiveData"
+data "DisplayName" "h57d9659dg7d1bg4be8gafa1g8a0d9466316e;1"
+data "Description" "h870a038cga882g4cb7g9241ga4b70e4fd4a2;1"
+data "DescriptionParams" "1;6"
+data "Icon" "Action_BolsteringMagic_Boost"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "IsCritical() and IsSpell()"
+data "StatsFunctors" "IF(not RollDieAgainstDC(DiceType.d100,12)):RestoreResource(SELF,SpellSlot,1,1);IF(not RollDieAgainstDC(DiceType.d100,10)):RestoreResource(SELF,SpellSlot,1,2);IF(not RollDieAgainstDC(DiceType.d100,8)):RestoreResource(SELF,SpellSlot,1,3);IF(not RollDieAgainstDC(DiceType.d100,5)):RestoreResource(SELF,SpellSlot,1,4);IF(not RollDieAgainstDC(DiceType.d100,3)):RestoreResource(SELF,SpellSlot,1,5);IF(not RollDieAgainstDC(DiceType.d100,2)):RestoreResource(SELF,SpellSlot,1,6)"
+
+new entry "AMP_WildMagic_Reality_Warp"
+type "PassiveData"
+data "DisplayName" "he010d034gfabag4a7bg8b23g883edab5e84a;1"
+data "Description" "heb116c9dg806ag45e9gac8ag15ea5e93e374;1"
+data "DescriptionParams" ""
+data "Icon" "Spell_Divination_Guidance"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnAttacked"
+data "Conditions" "IsCriticalMiss() and Enemy()"
+data "StatsFunctors" "ApplyStatus(AMP_REALITY_WARP_TRANSFORM,100,5)"
+
+new entry "AMP_REALITY_WARP_TRANSFORM"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "he010d034gfabag4a7bg8b23g883edab5e84a;1"
+data "Description" "h5aec9d33g75ccg4743g9274g58ba3875cdb7;1"
+data "Icon" "PassiveFeature_MagicInitiateSorcerer"
+data "FormatColor" "Purple"
+data "StackId" "AMP_REALITY_WARP_TRANSFORM"
+data "Boosts" "CriticalHit(AttackRoll,Success,Always)"
+data "RemoveConditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsAttack()"
+data "RemoveEvents" "OnAttack"
+data "StatusPropertyFlags" "ForceOverhead"
+
+// Racial
+
+// AMP_Racial_Drow_Armor - Composite Armor of Despana - Drow Mercenary Masterwork
+new entry "AMP_Racial_Drow_Armor"
+type "Armor"
+using "ARM_Leather_Body"
+data "RootTemplate" "964761ce-f52f-46c8-9b52-805c1e91144e"
+data "ArmorClass" "16"
+data "ValueOverride" "1000"
+data "Rarity" "VeryRare"
+data "Unique" "1"
+data "ComboCategory" "d3"
+data "ArmorType" "Plate"
+data "PassivesOnEquip" "AMP_Racial_Drow_Armor_Passive"
+
+new entry "AMP_Racial_Drow_Armor_Passive"
+type "PassiveData"
+data "DisplayName" "h9ec8ed32gb4a0g46fega6c4g8f8cb89e4eb8;1"
+data "Description" "hc7c92b5bgb6b0g4b23gb688gbb586adb954b;1"
+data "DescriptionParams" "Distance(3);50;1"
+data "Properties" "Highlighted"
+data "BoostContext" "OnCreate;OnEquip"
+data "BoostConditions" "Tagged('DROWELF', context.Source)"
+data "Boosts" "ActionResource(Movement, 3, 0);IgnoreLeaveAttackRange();FallDamageMultiplier(0.5);JumpMaxDistanceMultiplier(1.5);RollBonus(MeleeWeaponAttack, 1);RollBonus(RangedWeaponAttack, 1);RollBonus(RangedOffHandWeaponAttack, 1)"
+
+// AMP_Meme_Robe - Prisoner's Paradox - Cursed Meme Robe with Complex Mechanics
+new entry "AMP_Meme_Robe"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "4d6af33b-4727-40e0-9bb5-4376a3496b5a"
+data "ValueOverride" "1"
+data "Rarity" "Uncommon"
+data "Unique" "1"
+data "ComboCategory" "d1"
+data "ArmorType" "Cloth"
+data "StatusOnEquip" "AMP_MEME_ROBE_TECHNICAL"
+data "PassivesOnEquip" "AMP_Meme_Robe_Emergency"
+data "Boosts" "UnlockSpell(Shout_AMP_MemeRobe_Dash);Skill(Stealth,-5);Skill(SleightOfHand, 5);Initiative(-2)"
+
+new entry "AMP_MEME_ROBE_TECHNICAL"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackId" "AMP_MEME_ROBE_TECHNICAL"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting"
+
+// controls through osiris
+new entry "AMP_MEME_ROBE_CURSE_DISPLAY"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackId" "AMP_MEME_ROBE_CURSE_DISPLAY"
+data "DisplayName" "h354c8ce8gc347g46c4g972fg9095bee5fea4;1"
+data "Description" "h8a68bf9ag88dag4969ga82eg9feab587f6f0;1"
+data "Icon" "AMP_MEME_ROBE_CURSE"
+data "FormatColor" "Orange"
+data "StatusPropertyFlags" "ApplyToDead;IgnoreResting"
+data "StatusGroups" "SG_Cursed"
+
+new entry "Shout_AMP_MemeRobe_Dash"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_Dash"
+data "Cooldown" "OncePerTurn"
+data "DisplayName" "h8fe55478g8240g4925g85aagedbc5bb1f57e;1"
+data "CastSound" "Spell_Cast_Utility_ExpeditiousRetreat_L1to3"
+data "TargetSound" "Action_Impact_Ranger_HideInPlainSight"
+data "Icon" "Action_Sprint"
+data "UseCosts" ""
+data "SpellFlags" "DisplayInItemTooltip;IgnoreSilence;Stealth;Invisible;NoCameraMove"
+
+new entry "AMP_Meme_Robe_Emergency"
+type "PassiveData"
+data "DisplayName" "he054cd16ged7ag46efgba4bgc92ca2780bbb;1"
+data "Description" "hbec7d13ag7e25g4233g87f4gb46e2430cfe6;1"
+data "DescriptionParams" "50;Distance(50);16;2"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamaged"
+data "Conditions" "HasHPPercentageLessThan(51, context.Target) and not HasStatus('AMP_MEME_ROBE_EMERGENCY_USED') and Combat()"
+data "StatsFunctors" "ApplyStatus(AMP_MEME_ROBE_EMERGENCY_TRIGGER,100,0);ApplyStatus(AMP_MEME_ROBE_EMERGENCY_USED,100,-1)"
+
+new entry "AMP_MEME_ROBE_EMERGENCY_TRIGGER"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackId" "AMP_MEME_ROBE_EMERGENCY_TRIGGER"
+data "StatusPropertyFlags" "ApplyToDead;DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "OnApplyFunctors" "CreateExplosion(Projectile_AMP_Meme_Paralysis)"
+
+new entry "Projectile_AMP_Meme_Paralysis"
+type "SpellData"
+data "SpellType" "Projectile"
+data "Level" ""
+data "SpellSchool" ""
+data "AreaRadius" "50"
+data "ExplodeRadius" "50"
+data "ProjectileCount" "1"
+data "SpellRoll" "not SavingThrow(Ability.Wisdom, 16)"
+data "SpellSuccess" "ApplyStatus(PARALYZED,100,2)"
+data "TargetConditions" "Character() and not Enemy() and not Dead()"
+data "Trajectories" "f346b284-854e-4dd9-b87c-3938f5178265"
+data "Icon" "GenericIcon_Intent_Control"
+data "DisplayName" "hb3011a8eg9e01g44b2ga56eg50126092e10d;1"
+data "Description" "h97fc88e8g1619g4b37gb247g3ea50af9acb3;1"
+data "DescriptionParams" "Distance(50)"
+data "TooltipDamageList" ""
+data "TooltipAttackSave" "Constitution"
+data "TooltipStatusApply" "ApplyStatus(PARALYZED,100,2)"
+data "CastSound" "Action_Cast_Item_GiantBlade"
+data "TargetSound" "Spell_Impact_Control_HoldPerson_L1to3"
+data "SpellAnimation" "554a18f7-952e-494a-b301-7702a85d4bc9,,;,,;54ae8856-36b2-4f70-8bd3-c2a760f93fd5,,;8ce3e582-e8bb-4d2f-9c5c-46c70c9b87c0,,;22dfbbf4-f417-4c84-b39e-2039315961e6,,;,,;5bfbe9f9-4fc3-4f26-b112-43d404db6a89,,;,,;,,"
+data "VerbalIntent" "Control"
+data "SpellFlags" "IsHarmful"
+data "HitAnimationType" "MagicalNonDamage"
+data "PrepareEffect" "b090825a-0728-4566-a02b-056a188cc347"
+data "CastEffect" "38776222-db33-4b53-9e23-ca3b47ab58cb"
+data "TargetEffect" "c6846cf3-6ea3-4551-b867-3554eaa6aeae"
+data "PositionEffect" "16d200bc-14f7-416d-ab7a-913bb450734c"
+data "TargetHitEffect" "91ef374a-8917-4b10-a4dc-89ba36ec60b4"
+data "DamageType" "None"
+data "Sheathing" "DontChange"
+
+new entry "AMP_MEME_ROBE_EMERGENCY_USED"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackId" "AMP_MEME_ROBE_EMERGENCY_USED"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting"
+data "RemoveEvents" "OnCombatEnded"
+
+
+// Slayer (Dark Urge)
+
+// slayer form mechanics - items stop working, use pre-transform statuses
+// very rare ring bhaal slayer form blood pool effects 
+
+// vanilla examples
+// new entry "BHAALS_BOON_SLAYER"
+// type "StatusData"
+// data "StatusType" "BOOST"
+// data "DisplayName" "h12bece1dgb65cg4828g95degf47375267661;2"
+// data "Description" "h0d64397fg9bebg4386gb429gcfd56f374fed;2"
+// data "DescriptionParams" "1"
+// data "Icon" "GenericIcon_Intent_Buff"
+// data "StackId" "BHAALS_BOON_SLAYER"
+// data "StackPriority" "1"
+// data "StackType" "Additive"
+// data "Boosts" "AC(1)"
+// data "RemoveConditions" "IsMiss() or (not HasStatus('SLAYER_PLAYER') or not HasStatus('SLAYER_PLAYER_10'))"
+// data "RemoveEvents" "OnAttacked;OnStatusRemoved"
+// data "StatusPropertyFlags" "MultiplyEffectsByDuration;FreezeDuration"
+// data "OnRemoveFunctors" "IF(RemoveCause(StatusRemoveCause.Condition)):ApplyStatus(Target.BHAALS_BOON_SLAYER,100,BHAALS_BOON_SLAYER.Duration-1)"
+// data "StatusEffect" "78df3737-0405-43fc-8b6e-e702b8de7589"
+
+// main slayer status along with _10
+// new entry "SLAYER_PLAYER"
+// type "StatusData"
+// data "StatusType" "POLYMORPHED"
+// data "DisplayName" "h9c3fab7dgfc09g4e0cga76fg742b28d673c1;2"
+// data "Description" "h67dd3fb6ge300g42f0gaea3g0ecb374132c7;2"
+// data "Icon" "Action_DarkUrge"
+// data "StackId" "WILDSHAPE"
+// data "Boosts" "VoicebarkBlock();BlockSpellCast();DialogueBlock();UnlockSpell(Shout_DarkUrge_Dismiss);IF(Tagged('VOLO_SLAYER',context.Source)):UnlockSpell(Zone_Slayer_DeathGrowl)"
+// data "Passives" "Slayer_ExtraAttack"
+// data "OnApplyFunctors" "ApplyStatus(SLAYER_CRITICAL,100,-1)"
+// data "OnRemoveFunctors" "ApplyStatus(SELF,SLAYER_REMOVE_VFX,100,1);RemoveStatus(BHAALS_BOON_SLAYER);RemoveStatus(SLAYER_CRITICAL);ApplyStatus(SELF, WILDSHAPE_TECHNICAL,100,1)"
+// data "TemplateID" "f44ca723-5912-4634-93ad-ec5ae178fa1d"
+// data "Rules" "0af89244-e4dc-41ba-9c73-78e1c6bdadae"
+// data "StatusGroups" "SG_Polymorph;SG_DropForNonMutingDialog"
+// data "StatusEffect" "a2f59d12-02d6-418d-8b23-e5fc111846b0"
+
+// new entry "MAG_ShapeshiftersBurgeon_Passive"
+// type "PassiveData"
+// data "DisplayName" "h59031c8bg2e00g4987g840cg3d573c397472;3"
+// data "Description" "h70faacb7g04d4g4e78g93a5g0ab17c91d651;3"
+// data "DescriptionParams" "1d4"
+// data "StatsFunctorContext" "OnStatusApplied"
+// data "StatsFunctors" "IF(StatusHasStatusGroup(context.StatusId, 'SG_Polymorph') or StatusHasStatusGroup(context.StatusId, 'SG_Polymorph_BeastShape')):ApplyStatus(MAG_SHAPESHIFTERS_BOON, 100, -1)"
+
+
+// ========================================
+// ANCIENT CHAOS ORB RINGS
+// ========================================
+
+new entry "AMP_ANCIENTCHAOS"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "hbc9af1bfga234g4a21g8c54g1a9e837bc541;1"
+data "Description" "h3e8d9c42gf187g4b29ga89fg6c5e248ad139;1"
+data "DescriptionParams" "1;DealDamage(,Force)"
+data "Icon" "AMP_ANCIENTCHAOS"
+data "StackId" "AMP_ANCIENTCHAOS"
+data "StackType" "Additive"
+data "FormatColor" "DarkGray"
+data "Passives" "AMP_ANCIENTCHAOS_DAMAGE_Passive"
+data "Boosts" "AC(1);RollBonus(SavingThrow,1);UnlockSpell(Target_AMP_ANCIENTCHAOS_HEAL)"
+data "StatusPropertyFlags" "IgnoreResting;ApplyToDead;FreezeDuration"
+data "StatusEffect" "2b26659d-8dc9-435e-a540-f5ff5a262d90"
+
+// Ancient Chaos Heal
+new entry "Target_AMP_ANCIENTCHAOS_HEAL"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_InquisitorsMight"
+data "TargetRadius" "1.5"
+data "SpellSchool" ""
+data "SpellProperties" "RegainHitPoints(max(1,AMP_ANCIENTCHAOS.Duration)*2);RemoveStatus(AMP_ANCIENTCHAOS)"
+data "Icon" "Target_AMP_ANCIENTCHAOS_HEAL"
+data "DisplayName" "h8f39ddf1g3e12g493bg98c6g9e6b3a1e5e29;1"
+data "Description" "hddd1ea58gfd85g4f37gb947g34e391375b27;1"
+data "DescriptionParams" "RegainHitPoints(2)"
+data "TooltipStatusApply" ""
+data "TargetConditions" "Self()"
+data "UseCosts" "BonusActionPoint:1"
+data "VerbalIntent" "Healing"
+data "SpellStyleGroup" "Intent"
+data "HitAnimationType" ""
+data "SpellFlags" "Temporary"
+data "CastSound" "Action_Cast_Item_Harmonizing"
+data "TargetSound" "CrSpell_Impact_Spectator_ConfusionRay"
+data "SpellAnimation" "5c7078aa-0615-4073-a74a-e86a3c3d8d96,,;,,;032cf56a-3808-45ad-9991-740431d9c14f,,;4b385541-a3a3-429d-93ae-dffa6da50050,,;ed7959f9-b350-4de5-b3f5-7f3e3f945c8c,,;,,;d48a00b7-0f2d-4fed-844e-0264cb05e3b8,,;032cf56a-3808-45ad-9991-740431d9c14f,,;4b385541-a3a3-429d-93ae-dffa6da50050,,"
+data "PrepareEffect" "3e14d2fc-dcc1-43ba-951c-bcbe96622dd0"
+data "CastEffect" "247bde50-92f7-4710-bd15-c60e83a6c65e"
+data "TargetEffect" "4e397d84-ffb1-4f86-826b-9d729a552cb7"
+
+// Ancient Chaos Damage
+new entry "AMP_ANCIENTCHAOS_DAMAGE_Passive"
+type "PassiveData"
+data "DisplayName" "h638dec8eg12e2g4f1fg9d2ag510e093b6601;1"
+data "Description" "hf7ee2b53g3369g41abgb2fegaa83c74e3832;1"
+data "DescriptionParams" "DealDamage(1d6,Force);1"
+data "Icon" "Spell_CurriculumOfStrategy_ArtistryOfWar"
+data "Properties" "ToggledDefaultOn;IsToggled;Temporary;Highlighted;ToggledDefaultAddToHotbar"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "HasStatus('AMP_ANCIENTCHAOS',context.Source)"
+data "StatsFunctors" "DealDamage(1d6,Force,Magical,,0,,false,true);SetStatusDuration(SELF,AMP_ANCIENTCHAOS,-1,Add);ApplyStatus(AMP_ANCIENTCHAOS_DAMAGE_APPLY,100,0);ApplyStatus(SELF,AMP_ANCIENTCHAOS_DAMAGE_APPLY_SELF,100,0)"
+
+new entry "AMP_ANCIENTCHAOS_DAMAGE_APPLY"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h638dec8eg12e2g4f1fg9d2ag510e093b6601;1"
+data "StackId" "AMP_ANCIENTCHAOS_DAMAGE_APPLY"
+data "StackType" "Overwrite"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "ApplyEffect" "7b8a0e6c-7666-47ab-98ed-6887e01bfee9"
+
+new entry "AMP_ANCIENTCHAOS_DAMAGE_APPLY_SELF"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h638dec8eg12e2g4f1fg9d2ag510e093b6601;1"
+data "StackId" "AMP_ANCIENTCHAOS_DAMAGE_APPLY_SELF"
+data "StackType" "Overwrite"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "ApplyEffect" "1d18632e-bb84-41e4-9c92-5c59b9c98640"
+
+// ========================================
+// RADIANT ORB RINGS & PASSIVES
+// ========================================
+
+// Radiant Orb Ring - Tier 1 (Uncommon)
+new entry "AMP_Orb_Radiant_Ring_T1"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "0425090c-c828-4a76-9482-9f5da87ae100"
+data "ValueOverride" "150"
+data "Rarity" "Uncommon"
+data "ComboCategory" "d1"
+data "PassivesOnEquip" "AMP_Orb_Radiant_T1_Passive"
+data "Unique" "1"
+
+// Radiant Orb Ring - Tier 2 (Rare)
+new entry "AMP_Orb_Radiant_Ring_T2"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "0425090c-c828-4a76-9482-9f5da87ae100"
+data "ValueOverride" "400"
+data "Rarity" "Rare"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_Orb_Radiant_T2_Passive"
+data "Unique" "1"
+
+// Radiant Orb Ring - Tier 3 (VeryRare)
+new entry "AMP_Orb_Radiant_Ring_T3"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "0425090c-c828-4a76-9482-9f5da87ae100"
+data "ValueOverride" "800"
+data "Rarity" "VeryRare"
+data "ComboCategory" "d3"
+data "PassivesOnEquip" "AMP_Orb_Radiant_T3_Passive"
+data "Unique" "1"
+
+// Radiant Orb Ring - Tier 4 (Legendary)
+new entry "AMP_Orb_Radiant_Ring_T4"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "0425090c-c828-4a76-9482-9f5da87ae100"
+data "ValueOverride" "2500"
+data "Rarity" "Legendary"
+data "ComboCategory" "d4"
+data "Boosts" "SpellSaveDC(1)"
+data "PassivesOnEquip" "AMP_Orb_Radiant_T4_Passive"
+data "Unique" "1"
+
+new entry "AMP_Orb_Radiant_T1_Passive"
+type "PassiveData"
+data "DisplayName" "haa3c3778g4b50g4a72ga3d7g20d7c542a506;1"
+data "Description" "h48dd78adg083dg4126g8867g2f826585bbc5;1"
+data "DescriptionParams" "1"
+data "Properties" "Highlighted;OncePerCombat"
+data "StatsFunctorContext" "OnStatusApply"
+data "Conditions" "StatusId('MAG_RADIANT_RADIATING_ORB') and Enemy() and Combat()"
+data "StatsFunctors" "ApplyStatus(SELF,AMP_ANCIENTCHAOS,100,1)"
+
+new entry "AMP_Orb_Radiant_T2_Passive"
+type "PassiveData"
+using "AMP_Orb_Radiant_T1_Passive"
+data "Description" "h159f3d8cg74a8g4198gac16g79c2b1c5eb91;1"
+data "Properties" "Highlighted;OncePerTurn"
+
+new entry "AMP_Orb_Radiant_T3_Passive"
+type "PassiveData"
+using "AMP_Orb_Radiant_T1_Passive"
+data "Description" "hee548f9dg0193g4065g90f6gae996de55d09;1"
+data "Properties" "Highlighted;"
+
+new entry "AMP_Orb_Radiant_T4_Passive"
+type "PassiveData"
+using "AMP_Orb_Radiant_T1_Passive"
+data "Description" "hee548f9dg0193g4065g90f6gae996de55d09;1"
+data "Properties" "Highlighted;"
+
+// ========================================
+// FORCE ORB RINGS & PASSIVES
+// ========================================
+
+// Force Orb Ring - Tier 1 (Uncommon)
+new entry "AMP_Orb_Force_Ring_T1"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "45209c6d-d95b-43ab-971f-d10948ca22bb"
+data "ValueOverride" "150"
+data "Rarity" "Uncommon"
+data "ComboCategory" "d1"
+data "PassivesOnEquip" "AMP_Orb_Force_T1_Passive"
+data "Unique" "1"
+
+// Force Orb Ring - Tier 2 (Rare)
+new entry "AMP_Orb_Force_Ring_T2"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "45209c6d-d95b-43ab-971f-d10948ca22bb"
+data "ValueOverride" "400"
+data "Rarity" "Rare"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_Orb_Force_T2_Passive"
+data "Unique" "1"
+
+// Force Orb Ring - Tier 3 (VeryRare)
+new entry "AMP_Orb_Force_Ring_T3"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "45209c6d-d95b-43ab-971f-d10948ca22bb"
+data "ValueOverride" "800"
+data "Rarity" "VeryRare"
+data "ComboCategory" "d3"
+data "PassivesOnEquip" "AMP_Orb_Force_T3_Passive"
+data "Unique" "1"
+
+// Force Orb Ring - Tier 4 (Legendary)
+new entry "AMP_Orb_Force_Ring_T4"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "45209c6d-d95b-43ab-971f-d10948ca22bb"
+data "ValueOverride" "2500"
+data "Rarity" "Legendary"
+data "ComboCategory" "d4"
+data "Boosts" "Resistance(Force,Resistant)"
+data "PassivesOnEquip" "AMP_Orb_Force_T4_Passive"
+data "Unique" "1"
+
+new entry "AMP_Orb_Force_T1_Passive"
+type "PassiveData"
+data "DisplayName" "h1ba10efbg98f8g4d1dga4e6gcb1be7f474af;1"
+data "Description" "h50efc3d4g9aa2g4ea5g8421g5f81ab7c0fdb;1"
+data "DescriptionParams" "DealDamage(,Force);1"
+data "Properties" "Highlighted;OncePerCombat"
+data "StatsFunctorContext" "OnDamaged"
+data "Conditions" "HasDamageDoneForType(DamageType.Force) and Combat()"
+data "StatsFunctors" "ApplyStatus(AMP_ANCIENTCHAOS,100,1)"
+
+new entry "AMP_Orb_Force_T2_Passive"
+type "PassiveData"
+using "AMP_Orb_Force_T1_Passive"
+data "Description" "h7935988agdaddg49f5g88a5gf5063dad2b12;1"
+data "Properties" "Highlighted;OncePerTurn"
+
+new entry "AMP_Orb_Force_T3_Passive"
+type "PassiveData"
+using "AMP_Orb_Force_T1_Passive"
+data "Description" "h67303ce6g6000g4254g8083g8f68519abf98;1"
+data "Properties" "Highlighted;"
+
+new entry "AMP_Orb_Force_T4_Passive"
+type "PassiveData"
+using "AMP_Orb_Force_T1_Passive"
+data "Description" "h67303ce6g6000g4254g8083g8f68519abf98;1"
+data "Properties" "Highlighted;"
+
+// ========================================
+// LIGHTNING ORB RINGS & PASSIVES
+// ========================================
+
+// Lightning Orb Ring - Tier 1 (Uncommon)
+new entry "AMP_Orb_Lightning_Ring_T1"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "51cfe65a-f30f-4adb-808b-0d90df8d21e4"
+data "ValueOverride" "150"
+data "Rarity" "Uncommon"
+data "ComboCategory" "d1"
+data "PassivesOnEquip" "AMP_Orb_Lightning_T1_Passive"
+data "Unique" "1"
+
+// Lightning Orb Ring - Tier 2 (Rare)
+new entry "AMP_Orb_Lightning_Ring_T2"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "51cfe65a-f30f-4adb-808b-0d90df8d21e4"
+data "ValueOverride" "400"
+data "Rarity" "Rare"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_Orb_Lightning_T2_Passive"
+data "Unique" "1"
+
+// Lightning Orb Ring - Tier 3 (VeryRare)
+new entry "AMP_Orb_Lightning_Ring_T3"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "51cfe65a-f30f-4adb-808b-0d90df8d21e4"
+data "ValueOverride" "800"
+data "Rarity" "VeryRare"
+data "ComboCategory" "d3"
+data "PassivesOnEquip" "AMP_Orb_Lightning_T3_Passive"
+data "Unique" "1"
+
+// Lightning Orb Ring - Tier 4 (Legendary)
+new entry "AMP_Orb_Lightning_Ring_T4"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "51cfe65a-f30f-4adb-808b-0d90df8d21e4"
+data "ValueOverride" "2500"
+data "Rarity" "Legendary"
+data "ComboCategory" "d4"
+data "Boosts" "ActionResource(Movement,5,0)"
+data "PassivesOnEquip" "AMP_Orb_Lightning_T4_Passive"
+data "Unique" "1"
+
+new entry "AMP_Orb_Lightning_T1_Passive"
+type "PassiveData"
+data "DisplayName" "h936ec3e3g0f36g4042gbab0g705a0dab4f08;1"
+data "Description" "hae5170cdgc6e9g454bgb471gbef78dfaf871;1"
+data "DescriptionParams" "1"
+data "Properties" "Highlighted;OncePerCombat"
+data "StatsFunctorContext" "OnStatusApplied"
+data "Conditions" "StatusId('MAG_CHARGED_LIGHTNING') and Combat()"
+data "StatsFunctors" "ApplyStatus(AMP_ANCIENTCHAOS,100,1)"
+
+new entry "AMP_Orb_Lightning_T2_Passive"
+type "PassiveData"
+using "AMP_Orb_Lightning_T1_Passive"
+data "Description" "h1f70a13dge72ag4292g9803gf5333b7444fb;1"
+data "Properties" "Highlighted;OncePerTurn"
+
+new entry "AMP_Orb_Lightning_T3_Passive"
+type "PassiveData"
+using "AMP_Orb_Lightning_T1_Passive"
+data "Description" "h77e23966g1326g4d9fg90a2gd68c45448ef9;1"
+data "Properties" "Highlighted;"
+
+new entry "AMP_Orb_Lightning_T4_Passive"
+type "PassiveData"
+using "AMP_Orb_Lightning_T1_Passive"
+data "Description" "h77e23966g1326g4d9fg90a2gd68c45448ef9;1"
+data "Properties" "Highlighted;"
+
+// ========================================
+// FIRE ORB RINGS & PASSIVES
+// ========================================
+
+// Fire Orb Ring - Tier 1 (Uncommon)
+new entry "AMP_Orb_Fire_Ring_T1"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "4c670121-7769-420a-a336-a9a5697889b7"
+data "ValueOverride" "150"
+data "Rarity" "Uncommon"
+data "ComboCategory" "d1"
+data "PassivesOnEquip" "AMP_Orb_Fire_T1_Passive"
+data "Unique" "1"
+
+// Fire Orb Ring - Tier 2 (Rare)
+new entry "AMP_Orb_Fire_Ring_T2"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "4c670121-7769-420a-a336-a9a5697889b7"
+data "ValueOverride" "400"
+data "Rarity" "Rare"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_Orb_Fire_T2_Passive"
+data "Unique" "1"
+
+// Fire Orb Ring - Tier 3 (VeryRare)
+new entry "AMP_Orb_Fire_Ring_T3"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "4c670121-7769-420a-a336-a9a5697889b7"
+data "ValueOverride" "800"
+data "Rarity" "VeryRare"
+data "ComboCategory" "d3"
+data "PassivesOnEquip" "AMP_Orb_Fire_T3_Passive"
+data "Unique" "1"
+
+// Fire Orb Ring - Tier 4 (Legendary)
+new entry "AMP_Orb_Fire_Ring_T4"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "4c670121-7769-420a-a336-a9a5697889b7"
+data "ValueOverride" "2500"
+data "Rarity" "Legendary"
+data "ComboCategory" "d4"
+data "Boosts" "Resistance(Fire,Resistant)"
+data "PassivesOnEquip" "AMP_Orb_Fire_T4_Passive"
+data "Unique" "1"
+
+new entry "AMP_Orb_Fire_T1_Passive"
+type "PassiveData"
+data "DisplayName" "h98ca918cg42a8g4775g9cb4g4a79e7559c21;1"
+data "Description" "h67705148gdda6g4060ga91fgc45fd17dc7b1;1"
+data "DescriptionParams" "1"
+data "Properties" "Highlighted;OncePerCombat"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "IsCritical() and Enemy() and Combat()"
+data "StatsFunctors" "ApplyStatus(SELF,AMP_ANCIENTCHAOS,100,1)"
+
+new entry "AMP_Orb_Fire_T2_Passive"
+type "PassiveData"
+using "AMP_Orb_Fire_T1_Passive"
+data "Description" "h5c6ce58agb870g4713g8866g8a82f32fec48;1"
+data "Properties" "Highlighted;OncePerTurn"
+
+new entry "AMP_Orb_Fire_T3_Passive"
+type "PassiveData"
+using "AMP_Orb_Fire_T1_Passive"
+data "Description" "h4b5a93b9gf4bag41a9g9141g8d98c5749989;1"
+data "Properties" "Highlighted;"
+
+new entry "AMP_Orb_Fire_T4_Passive"
+type "PassiveData"
+using "AMP_Orb_Fire_T1_Passive"
+data "Description" "h4b5a93b9gf4bag41a9g9141g8d98c5749989;1"
+data "Properties" "Highlighted;"
+
+// ========================================
+// COLD ORB RINGS & PASSIVES
+// ========================================
+
+// Cold Orb Ring - Tier 1 (Uncommon)
+new entry "AMP_Orb_Cold_Ring_T1"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "ea6f84b1-f167-4a74-8df4-63b80632ffcf"
+data "ValueOverride" "150"
+data "Rarity" "Uncommon"
+data "ComboCategory" "d1"
+data "PassivesOnEquip" "AMP_Orb_Cold_T1_Passive"
+data "Unique" "1"
+
+// Cold Orb Ring - Tier 2 (Rare)
+new entry "AMP_Orb_Cold_Ring_T2"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "ea6f84b1-f167-4a74-8df4-63b80632ffcf"
+data "ValueOverride" "400"
+data "Rarity" "Rare"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_Orb_Cold_T2_Passive"
+data "Unique" "1"
+
+// Cold Orb Ring - Tier 3 (VeryRare)
+new entry "AMP_Orb_Cold_Ring_T3"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "ea6f84b1-f167-4a74-8df4-63b80632ffcf"
+data "ValueOverride" "800"
+data "Rarity" "VeryRare"
+data "ComboCategory" "d3"
+data "PassivesOnEquip" "AMP_Orb_Cold_T3_Passive"
+data "Unique" "1"
+
+// Cold Orb Ring - Tier 4 (Legendary)
+new entry "AMP_Orb_Cold_Ring_T4"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "ea6f84b1-f167-4a74-8df4-63b80632ffcf"
+data "ValueOverride" "2500"
+data "Rarity" "Legendary"
+data "ComboCategory" "d4"
+data "Boosts" "Resistance(Cold,Resistant)"
+data "PassivesOnEquip" "AMP_Orb_Cold_T4_Passive"
+data "Unique" "1"
+
+new entry "AMP_Orb_Cold_T1_Passive"
+type "PassiveData"
+data "DisplayName" "h2ac2af48g11fbg4d60g8a05g6593e481f3f5;1"
+data "Description" "heedafa33g899fg47b7gbea4gab3694d0029a;1"
+data "DescriptionParams" "1"
+data "Properties" "Highlighted;OncePerCombat"
+data "StatsFunctorContext" "OnStatusApply"
+data "Conditions" "StatusId('CHILLED') and Enemy() and Combat()"
+data "StatsFunctors" "ApplyStatus(SELF,AMP_ANCIENTCHAOS,100,1)"
+
+new entry "AMP_Orb_Cold_T2_Passive"
+type "PassiveData"
+using "AMP_Orb_Cold_T1_Passive"
+data "Description" "heab11636g51a2g4635ga345g76a3f3f99475;1"
+data "Properties" "Highlighted;OncePerTurn"
+
+new entry "AMP_Orb_Cold_T3_Passive"
+type "PassiveData"
+using "AMP_Orb_Cold_T1_Passive"
+data "Description" "h2b0bf221gf635g445fgbc76gc84bc4f1ab54;1"
+data "Properties" "Highlighted;"
+
+new entry "AMP_Orb_Cold_T4_Passive"
+type "PassiveData"
+using "AMP_Orb_Cold_T1_Passive"
+data "Description" "h2b0bf221gf635g445fgbc76gc84bc4f1ab54;1"
+data "Properties" "Highlighted;"
+
+// ========================================
+// NECROTIC ORB RINGS & PASSIVES
+// ========================================
+
+// Necrotic Orb Ring - Tier 1 (Uncommon)
+new entry "AMP_Orb_Necrotic_Ring_T1"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "1565a523-470b-4c96-b7d8-7622ecef6487"
+data "ValueOverride" "150"
+data "Rarity" "Uncommon"
+data "ComboCategory" "d1"
+data "PassivesOnEquip" "AMP_Orb_Necrotic_T1_Passive"
+data "Unique" "1"
+
+// Necrotic Orb Ring - Tier 2 (Rare)
+new entry "AMP_Orb_Necrotic_Ring_T2"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "1565a523-470b-4c96-b7d8-7622ecef6487"
+data "ValueOverride" "400"
+data "Rarity" "Rare"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_Orb_Necrotic_T2_Passive"
+data "Unique" "1"
+
+// Necrotic Orb Ring - Tier 3 (VeryRare)
+new entry "AMP_Orb_Necrotic_Ring_T3"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "1565a523-470b-4c96-b7d8-7622ecef6487"
+data "ValueOverride" "800"
+data "Rarity" "VeryRare"
+data "ComboCategory" "d3"
+data "PassivesOnEquip" "AMP_Orb_Necrotic_T3_Passive"
+data "Unique" "1"
+
+// Necrotic Orb Ring - Tier 4 (Legendary)
+new entry "AMP_Orb_Necrotic_Ring_T4"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "1565a523-470b-4c96-b7d8-7622ecef6487"
+data "ValueOverride" "2500"
+data "Rarity" "Legendary"
+data "ComboCategory" "d4"
+data "Boosts" "Resistance(Necrotic,Resistant)"
+data "PassivesOnEquip" "AMP_Orb_Necrotic_T4_Passive"
+data "Unique" "1"
+
+new entry "AMP_Orb_Necrotic_T1_Passive"
+type "PassiveData"
+data "DisplayName" "hb23167fdg6f49g4773ga6f2g8807e4aece93;1"
+data "Description" "he0dd5656g768bg4557g9c92g576697c97b2d;1"
+data "DescriptionParams" "1"
+data "Properties" "Highlighted;OncePerCombat"
+data "StatsFunctorContext" "OnStatusApply"
+data "Conditions" "StatusId('CHILL_TOUCH') and Enemy() and Combat()"
+data "StatsFunctors" "ApplyStatus(SELF,AMP_ANCIENTCHAOS,100,1)"
+
+new entry "AMP_Orb_Necrotic_T2_Passive"
+type "PassiveData"
+using "AMP_Orb_Necrotic_T1_Passive"
+data "Description" "hdfc34b0fgc8a3g44dfg8324g100dc247377e;1"
+data "Properties" "Highlighted;OncePerTurn"
+
+new entry "AMP_Orb_Necrotic_T3_Passive"
+type "PassiveData"
+using "AMP_Orb_Necrotic_T1_Passive"
+data "Description" "h395d800dg3e3bg43ebg94d6gc6e2f8f26627;1"
+data "Properties" "Highlighted;"
+
+new entry "AMP_Orb_Necrotic_T4_Passive"
+type "PassiveData"
+using "AMP_Orb_Necrotic_T1_Passive"
+data "Description" "h395d800dg3e3bg43ebg94d6gc6e2f8f26627;1"
+data "Properties" "Highlighted;"
+
+// ========================================
+// WARRIOR ORB RINGS & PASSIVES
+// ========================================
+
+// Warrior Orb Ring - Tier 1 (Uncommon)
+new entry "AMP_Orb_Warrior_Ring_T1"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "170f1295-0bca-434a-8637-d8d980e61ab8"
+data "ValueOverride" "150"
+data "Rarity" "Uncommon"
+data "ComboCategory" "d1"
+data "PassivesOnEquip" "AMP_Orb_Warrior_T1_Passive"
+data "Unique" "1"
+
+// Warrior Orb Ring - Tier 2 (Rare)
+new entry "AMP_Orb_Warrior_Ring_T2"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "170f1295-0bca-434a-8637-d8d980e61ab8"
+data "ValueOverride" "400"
+data "Rarity" "Rare"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_Orb_Warrior_T2_Passive"
+data "Unique" "1"
+
+// Warrior Orb Ring - Tier 3 (VeryRare)
+new entry "AMP_Orb_Warrior_Ring_T3"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "170f1295-0bca-434a-8637-d8d980e61ab8"
+data "ValueOverride" "800"
+data "Rarity" "VeryRare"
+data "ComboCategory" "d3"
+data "PassivesOnEquip" "AMP_Orb_Warrior_T3_Passive"
+data "Unique" "1"
+
+// Warrior Orb Ring - Tier 4 (Legendary)
+new entry "AMP_Orb_Warrior_Ring_T4"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "170f1295-0bca-434a-8637-d8d980e61ab8"
+data "ValueOverride" "2500"
+data "Rarity" "Legendary"
+data "ComboCategory" "d4"
+data "Boosts" "RollBonus(Attack,5)"
+data "PassivesOnEquip" "AMP_Orb_Warrior_T4_Passive"
+data "Unique" "1"
+
+new entry "AMP_Orb_Warrior_T1_Passive"
+type "PassiveData"
+data "DisplayName" "h266f811dg1234g4cc7g9baeg59395290b4ba;1"
+data "Description" "habb14eaagb37fg4df3ga440g3d7747e01de4;1"
+data "DescriptionParams" "DealDamage(,Slashing);DealDamage(,Bludgeoning);DealDamage(,Piercing);1"
+data "Properties" "Highlighted;OncePerCombat"
+data "StatsFunctorContext" "OnDamaged"
+data "Conditions" "(HasDamageDoneForType(DamageType.Slashing) or HasDamageDoneForType(DamageType.Bludgeoning) or HasDamageDoneForType(DamageType.Piercing)) and Combat()"
+data "StatsFunctors" "ApplyStatus(AMP_ANCIENTCHAOS,100,1)"
+
+new entry "AMP_Orb_Warrior_T2_Passive"
+type "PassiveData"
+using "AMP_Orb_Warrior_T1_Passive"
+data "Description" "hcf7e7a45g03e7g465cg92e7g62cd4e943e42;1"
+data "Properties" "Highlighted;OncePerTurn"
+
+new entry "AMP_Orb_Warrior_T3_Passive"
+type "PassiveData"
+using "AMP_Orb_Warrior_T1_Passive"
+data "Description" "h4a9905a7gececg4e9dg868ag3a3326d42b97;1"
+data "Properties" "Highlighted;"
+
+new entry "AMP_Orb_Warrior_T4_Passive"
+type "PassiveData"
+using "AMP_Orb_Warrior_T1_Passive"
+data "Description" "h4a9905a7gececg4e9dg868ag3a3326d42b97;1"
+data "Properties" "Highlighted;"
+
+// ========================================
+// ACID ORB RINGS & PASSIVES
+// ========================================
+
+// Acid Orb Ring - Tier 1 (Uncommon)
+new entry "AMP_Orb_Acid_Ring_T1"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "b5a4a243-0ed6-457e-9ad2-fe81fa18d8e3"
+data "ValueOverride" "150"
+data "Rarity" "Uncommon"
+data "ComboCategory" "d1"
+data "PassivesOnEquip" "AMP_Orb_Acid_T1_Passive"
+data "Unique" "1"
+
+// Acid Orb Ring - Tier 2 (Rare)
+new entry "AMP_Orb_Acid_Ring_T2"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "b5a4a243-0ed6-457e-9ad2-fe81fa18d8e3"
+data "ValueOverride" "400"
+data "Rarity" "Rare"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_Orb_Acid_T2_Passive"
+data "Unique" "1"
+
+// Acid Orb Ring - Tier 3 (VeryRare)
+new entry "AMP_Orb_Acid_Ring_T3"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "b5a4a243-0ed6-457e-9ad2-fe81fa18d8e3"
+data "ValueOverride" "800"
+data "Rarity" "VeryRare"
+data "ComboCategory" "d3"
+data "PassivesOnEquip" "AMP_Orb_Acid_T3_Passive"
+data "Unique" "1"
+
+// Acid Orb Ring - Tier 4 (Legendary)
+new entry "AMP_Orb_Acid_Ring_T4"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "b5a4a243-0ed6-457e-9ad2-fe81fa18d8e3"
+data "ValueOverride" "2500"
+data "Rarity" "Legendary"
+data "ComboCategory" "d4"
+data "Boosts" "Resistance(Acid,Resistant)"
+data "PassivesOnEquip" "AMP_Orb_Acid_T4_Passive"
+data "Unique" "1"
+
+new entry "AMP_Orb_Acid_T1_Passive"
+type "PassiveData"
+data "DisplayName" "h8ca62649g7d58g4d56g919dg76cb383f4b8c;1"
+data "Description" "hd184ffc5g882bg4d02g8075g06e7ae33d799;1"
+data "DescriptionParams" "1"
+data "Properties" "Highlighted;OncePerCombat"
+data "StatsFunctorContext" "OnTurn"
+data "Conditions" "InSurface('SurfaceAcid') and Combat()"
+data "StatsFunctors" "ApplyStatus(SELF,AMP_ANCIENTCHAOS,100,1)"
+
+new entry "AMP_Orb_Acid_T2_Passive"
+type "PassiveData"
+using "AMP_Orb_Acid_T1_Passive"
+data "Description" "h5032d62agfa5ag4216gb9b0g590b0031a0a3;1"
+data "Properties" "Highlighted;OncePerTurn"
+
+new entry "AMP_Orb_Acid_T3_Passive"
+type "PassiveData"
+using "AMP_Orb_Acid_T1_Passive"
+data "Description" "h03f90183gf9ffg4abagac4bg40de65d8bd10;1"
+data "Properties" "Highlighted;"
+
+new entry "AMP_Orb_Acid_T4_Passive"
+type "PassiveData"
+using "AMP_Orb_Acid_T1_Passive"
+data "Description" "h03f90183gf9ffg4abagac4bg40de65d8bd10;1"
+data "Properties" "Highlighted;"
+
+// ========================================
+// THUNDER ORB RINGS & PASSIVES
+// ========================================
+
+// Thunder Orb Ring - Tier 1 (Uncommon)
+new entry "AMP_Orb_Thunder_Ring_T1"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "1e9f2ff3-e635-4522-b5e9-240a819ba5ea"
+data "ValueOverride" "150"
+data "Rarity" "Uncommon"
+data "ComboCategory" "d1"
+data "PassivesOnEquip" "AMP_Orb_Thunder_T1_Passive"
+data "Unique" "1"
+
+// Thunder Orb Ring - Tier 2 (Rare)
+new entry "AMP_Orb_Thunder_Ring_T2"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "1e9f2ff3-e635-4522-b5e9-240a819ba5ea"
+data "ValueOverride" "400"
+data "Rarity" "Rare"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_Orb_Thunder_T2_Passive"
+data "Unique" "1"
+
+// Thunder Orb Ring - Tier 3 (VeryRare)
+new entry "AMP_Orb_Thunder_Ring_T3"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "1e9f2ff3-e635-4522-b5e9-240a819ba5ea"
+data "ValueOverride" "800"
+data "Rarity" "VeryRare"
+data "ComboCategory" "d3"
+data "PassivesOnEquip" "AMP_Orb_Thunder_T3_Passive"
+data "Unique" "1"
+
+// Thunder Orb Ring - Tier 4 (Legendary)
+new entry "AMP_Orb_Thunder_Ring_T4"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "1e9f2ff3-e635-4522-b5e9-240a819ba5ea"
+data "ValueOverride" "2500"
+data "Rarity" "Legendary"
+data "ComboCategory" "d4"
+data "Boosts" "Resistance(Thunder,Resistant)"
+data "PassivesOnEquip" "AMP_Orb_Thunder_T4_Passive"
+data "Unique" "1"
+
+new entry "AMP_Orb_Thunder_T1_Passive"
+type "PassiveData"
+data "DisplayName" "h1efd2292g7172g47ffgbbf1g5fd0399c0dd3;1"
+data "Description" "hd7345f07g5979g4cdeg8a48g7ed4a0e80a3d;1"
+data "DescriptionParams" "1"
+data "Properties" "Highlighted;OncePerCombat"
+data "StatsFunctorContext" "OnStatusApply"
+data "Conditions" "StatusHasStatusGroup(context.StatusId, 'SG_Stunned') and Enemy() and Combat()"
+data "StatsFunctors" "ApplyStatus(SELF,AMP_ANCIENTCHAOS,100,1)"
+
+new entry "AMP_Orb_Thunder_T2_Passive"
+type "PassiveData"
+using "AMP_Orb_Thunder_T1_Passive"
+data "Description" "hdbc38f0eg51c7g4729g8d6egdf707f08e2f6;1"
+data "Properties" "Highlighted;OncePerTurn"
+
+new entry "AMP_Orb_Thunder_T3_Passive"
+type "PassiveData"
+using "AMP_Orb_Thunder_T1_Passive"
+data "Description" "h3f267e57g8738g4d21ga9a9g4019e2aa768e;1"
+data "Properties" "Highlighted;"
+
+new entry "AMP_Orb_Thunder_T4_Passive"
+type "PassiveData"
+using "AMP_Orb_Thunder_T1_Passive"
+data "Description" "h3f267e57g8738g4d21ga9a9g4019e2aa768e;1"
+data "Properties" "Highlighted;"
+
+// ========================================
+// PSYCHIC ORB RINGS & PASSIVES
+// ========================================
+
+// Psychic Orb Ring - Tier 1 (Uncommon)
+new entry "AMP_Orb_Psychic_Ring_T1"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "df80e69f-0b2d-49d4-9e92-0284c33c59d9"
+data "ValueOverride" "150"
+data "Rarity" "Uncommon"
+data "ComboCategory" "d1"
+data "PassivesOnEquip" "AMP_Orb_Psychic_T1_Passive"
+data "Unique" "1"
+
+// Psychic Orb Ring - Tier 2 (Rare)
+new entry "AMP_Orb_Psychic_Ring_T2"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "df80e69f-0b2d-49d4-9e92-0284c33c59d9"
+data "ValueOverride" "400"
+data "Rarity" "Rare"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_Orb_Psychic_T2_Passive"
+data "Unique" "1"
+
+// Psychic Orb Ring - Tier 3 (VeryRare)
+new entry "AMP_Orb_Psychic_Ring_T3"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "df80e69f-0b2d-49d4-9e92-0284c33c59d9"
+data "ValueOverride" "800"
+data "Rarity" "VeryRare"
+data "ComboCategory" "d3"
+data "PassivesOnEquip" "AMP_Orb_Psychic_T3_Passive"
+data "Unique" "1"
+
+// Psychic Orb Ring - Tier 4 (Legendary)
+new entry "AMP_Orb_Psychic_Ring_T4"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "df80e69f-0b2d-49d4-9e92-0284c33c59d9"
+data "ValueOverride" "2500"
+data "Rarity" "Legendary"
+data "ComboCategory" "d4"
+data "Boosts" "RollBonus(SavingThrow,5,Intelligence)"
+data "PassivesOnEquip" "AMP_Orb_Psychic_T4_Passive"
+data "Unique" "1"
+
+new entry "AMP_Orb_Psychic_T1_Passive"
+type "PassiveData"
+data "DisplayName" "hf6459011gfa43g4540gb9d1gd4a64a133022;1"
+data "Description" "hc78c1114g47fcg41c2g931bgf20617a794aa;1"
+data "DescriptionParams" "10"
+data "Properties" "Highlighted;OncePerCombat"
+data "StatsFunctorContext" "OnStatusRemoved"
+data "Conditions" "StatusId('TAD_SHIELD_OF_THRALLS') and Combat()"
+data "StatsFunctors" "ApplyStatus(AMP_ANCIENTCHAOS,100,10)"
+
+new entry "AMP_Orb_Psychic_T2_Passive"
+type "PassiveData"
+using "AMP_Orb_Psychic_T1_Passive"
+data "Description" "h1a19935bg5f1eg4553gbde3gb116eb504a55;1"
+data "Properties" "Highlighted;OncePerTurn"
+
+new entry "AMP_Orb_Psychic_T3_Passive"
+type "PassiveData"
+using "AMP_Orb_Psychic_T1_Passive"
+data "Description" "h1df89c7agc29fg416bgb685gc28ac5f65910;1"
+data "Properties" "Highlighted;"
+
+new entry "AMP_Orb_Psychic_T4_Passive"
+type "PassiveData"
+using "AMP_Orb_Psychic_T1_Passive"
+data "Description" "h1df89c7agc29fg416bgb685gc28ac5f65910;1"
+data "Properties" "Highlighted;"
+
+// ========================================
+// BLOOD ORB RINGS & PASSIVES
+// ========================================
+
+// Blood Orb Ring - Tier 1 (Uncommon)
+new entry "AMP_Orb_Blood_Ring_T1"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "26777907-8719-4535-86db-3648ab495ee9"
+data "ValueOverride" "150"
+data "Rarity" "Uncommon"
+data "ComboCategory" "d1"
+data "PassivesOnEquip" "AMP_Orb_Blood_T1_Passive"
+data "Unique" "1"
+
+// Blood Orb Ring - Tier 2 (Rare)
+new entry "AMP_Orb_Blood_Ring_T2"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "26777907-8719-4535-86db-3648ab495ee9"
+data "ValueOverride" "400"
+data "Rarity" "Rare"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_Orb_Blood_T2_Passive"
+data "Unique" "1"
+
+// Blood Orb Ring - Tier 3 (VeryRare)
+new entry "AMP_Orb_Blood_Ring_T3"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "26777907-8719-4535-86db-3648ab495ee9"
+data "ValueOverride" "800"
+data "Rarity" "VeryRare"
+data "ComboCategory" "d3"
+data "PassivesOnEquip" "AMP_Orb_Blood_T3_Passive"
+data "Unique" "1"
+
+// Blood Orb Ring - Tier 4 (Legendary)
+new entry "AMP_Orb_Blood_Ring_T4"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "26777907-8719-4535-86db-3648ab495ee9"
+data "ValueOverride" "2500"
+data "Rarity" "Legendary"
+data "ComboCategory" "d4"
+data "PassivesOnEquip" "AMP_Orb_Blood_T4_Passive"
+data "Unique" "1"
+
+new entry "AMP_Orb_Blood_T1_Passive"
+type "PassiveData"
+data "DisplayName" "h17d20531g5320g4aaag8da0g761ece46666e;1"
+data "Description" "h2d6191a2ga7a6g44c8gb6acg636429e7bdfb;1"
+data "DescriptionParams" "1"
+data "Properties" "Highlighted;OncePerCombat"
+data "StatsFunctorContext" "OnStatusApply"
+data "Conditions" "StatusId('BLEEDING') and Enemy() and Combat()"
+data "StatsFunctors" "ApplyStatus(SELF,AMP_ANCIENTCHAOS,100,1)"
+
+new entry "AMP_Orb_Blood_T2_Passive"
+type "PassiveData"
+using "AMP_Orb_Blood_T1_Passive"
+data "Description" "h4da705f8gfacfg4456ga1aag0e636208cf3a;1"
+data "Properties" "Highlighted;OncePerTurn"
+
+new entry "AMP_Orb_Blood_T3_Passive"
+type "PassiveData"
+using "AMP_Orb_Blood_T1_Passive"
+data "Description" "h4f4fbe60g477eg4a1fg8255g91e674f2e3c4;1"
+data "Properties" "Highlighted;"
+
+new entry "AMP_Orb_Blood_T4_Passive"
+type "PassiveData"
+using "AMP_Orb_Blood_T1_Passive"
+data "Description" "h4f4fbe60g477eg4a1fg8255g91e674f2e3c4;1"
+data "Properties" "Highlighted;"
+
+// ========================================
+// UNDERDARK ORB RINGS & PASSIVES
+// ========================================
+
+// Underdark Orb Ring - Tier 1 (Uncommon)
+new entry "AMP_Orb_Underdark_Ring_T1"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "b881c55e-f552-4a2b-a69a-f53d88b44b57"
+data "ValueOverride" "150"
+data "Rarity" "Uncommon"
+data "ComboCategory" "d1"
+data "PassivesOnEquip" "AMP_Orb_Underdark_T1_Passive"
+data "Unique" "1"
+
+// Underdark Orb Ring - Tier 2 (Rare)
+new entry "AMP_Orb_Underdark_Ring_T2"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "b881c55e-f552-4a2b-a69a-f53d88b44b57"
+data "ValueOverride" "400"
+data "Rarity" "Rare"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_Orb_Underdark_T2_Passive"
+data "Unique" "1"
+
+// Underdark Orb Ring - Tier 3 (VeryRare)
+new entry "AMP_Orb_Underdark_Ring_T3"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "b881c55e-f552-4a2b-a69a-f53d88b44b57"
+data "ValueOverride" "800"
+data "Rarity" "VeryRare"
+data "ComboCategory" "d3"
+data "PassivesOnEquip" "AMP_Orb_Underdark_T3_Passive"
+data "Unique" "1"
+
+// Underdark Orb Ring - Tier 4 (Legendary)
+new entry "AMP_Orb_Underdark_Ring_T4"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "b881c55e-f552-4a2b-a69a-f53d88b44b57"
+data "ValueOverride" "2500"
+data "Rarity" "Legendary"
+data "ComboCategory" "d4"
+data "Boosts" ""
+data "PassivesOnEquip" "AMP_Orb_Underdark_T4_Passive;DevilsSight"
+data "Unique" "1"
+
+new entry "AMP_Orb_Underdark_T1_Passive"
+type "PassiveData"
+data "DisplayName" "h28968bdbg10d2g4a2fg8ad5g396de3188aa5;1"
+data "Description" "h0fbe57a5g5310g4acbgb777g59259b97ce1c;1"
+data "DescriptionParams" "1"
+data "Properties" "Highlighted;OncePerCombat"
+data "StatsFunctorContext" "OnTurn"
+data "Conditions" "InSurface('SurfaceDarknessCloud') and Combat()"
+data "StatsFunctors" "ApplyStatus(AMP_ANCIENTCHAOS,100,1)"
+
+new entry "AMP_Orb_Underdark_T2_Passive"
+type "PassiveData"
+using "AMP_Orb_Underdark_T1_Passive"
+data "Description" "hfa243739gb587g44e3ga586g7885b981ff9c;1"
+data "Properties" "Highlighted;OncePerTurn"
+
+new entry "AMP_Orb_Underdark_T3_Passive"
+type "PassiveData"
+using "AMP_Orb_Underdark_T1_Passive"
+data "Description" "he48a1f67gc4bcg45e6ga0b4gf659f7adff2f;1"
+data "Properties" "Highlighted;"
+
+new entry "AMP_Orb_Underdark_T4_Passive"
+type "PassiveData"
+using "AMP_Orb_Underdark_T1_Passive"
+data "Description" "he48a1f67gc4bcg45e6ga0b4gf659f7adff2f;1"
+data "Properties" "Highlighted;"
+
+// ========================================
+// POISON ORB RINGS & PASSIVES
+// ========================================
+
+// Poison Orb Ring - Tier 1 (Uncommon)
+new entry "AMP_Orb_Poison_Ring_T1"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "d7355ea0-7fa5-4f7c-9287-b17894efe84d"
+data "ValueOverride" "150"
+data "Rarity" "Uncommon"
+data "ComboCategory" "d1"
+data "PassivesOnEquip" "AMP_Orb_Poison_T1_Passive"
+data "Unique" "1"
+
+// Poison Orb Ring - Tier 2 (Rare)
+new entry "AMP_Orb_Poison_Ring_T2"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "d7355ea0-7fa5-4f7c-9287-b17894efe84d"
+data "ValueOverride" "400"
+data "Rarity" "Rare"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_Orb_Poison_T2_Passive"
+data "Unique" "1"
+
+// Poison Orb Ring - Tier 3 (VeryRare)
+new entry "AMP_Orb_Poison_Ring_T3"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "d7355ea0-7fa5-4f7c-9287-b17894efe84d"
+data "ValueOverride" "800"
+data "Rarity" "VeryRare"
+data "ComboCategory" "d3"
+data "PassivesOnEquip" "AMP_Orb_Poison_T3_Passive"
+data "Unique" "1"
+
+// Poison Orb Ring - Tier 4 (Legendary)
+new entry "AMP_Orb_Poison_Ring_T4"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "d7355ea0-7fa5-4f7c-9287-b17894efe84d"
+data "ValueOverride" "2500"
+data "Rarity" "Legendary"
+data "ComboCategory" "d4"
+data "Boosts" "Resistance(Poison,Resistant)"
+data "PassivesOnEquip" "AMP_Orb_Poison_T4_Passive"
+data "Unique" "1"
+
+new entry "AMP_Orb_Poison_T1_Passive"
+type "PassiveData"
+data "DisplayName" "h12f46039g1147g49bdga73bg4605fc75a295;1"
+data "Description" "hb03a0654g65b5g4a15g9e84g8e70ade542e7;1"
+data "DescriptionParams" "1"
+data "Properties" "Highlighted;OncePerCombat"
+data "StatsFunctorContext" "OnAttacked"
+data "Conditions" "(IsMiss() or IsCriticalMiss()) and HasStatus('SG_Poisoned',context.Source) and Enemy() and Combat()"
+data "StatsFunctors" "ApplyStatus(AMP_ANCIENTCHAOS,100,1)"
+
+new entry "AMP_Orb_Poison_T2_Passive"
+type "PassiveData"
+using "AMP_Orb_Poison_T1_Passive"
+data "Description" "h1bc2742cg0638g4093gbd94g9b8dc791ecae;1"
+data "Properties" "Highlighted;OncePerTurn"
+
+new entry "AMP_Orb_Poison_T3_Passive"
+type "PassiveData"
+using "AMP_Orb_Poison_T1_Passive"
+data "Description" "hd542c9c0g91d1g4c95ga354g537e581ef0a5;1"
+data "Properties" "Highlighted;"
+
+new entry "AMP_Orb_Poison_T4_Passive"
+type "PassiveData"
+using "AMP_Orb_Poison_T1_Passive"
+data "Description" "hd542c9c0g91d1g4c95ga354g537e581ef0a5;1"
+data "Properties" "Highlighted;"
+
+// ========================================
+// DIAMOND ORB RINGS & PASSIVES
+// ========================================
+
+// Diamond Orb Ring - Tier 1 (Uncommon)
+new entry "AMP_Orb_Diamond_Ring_T1"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "9c3c318b-bd51-49e7-af1e-598d3467bfcd"
+data "ValueOverride" "150"
+data "Rarity" "Uncommon"
+data "ComboCategory" "d1"
+data "PassivesOnEquip" "AMP_Orb_Diamond_T1_Passive"
+data "Unique" "1"
+
+// Diamond Orb Ring - Tier 2 (Rare)
+new entry "AMP_Orb_Diamond_Ring_T2"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "9c3c318b-bd51-49e7-af1e-598d3467bfcd"
+data "ValueOverride" "400"
+data "Rarity" "Rare"
+data "ComboCategory" "d2"
+data "PassivesOnEquip" "AMP_Orb_Diamond_T2_Passive"
+data "Unique" "1"
+
+// Diamond Orb Ring - Tier 3 (VeryRare)
+new entry "AMP_Orb_Diamond_Ring_T3"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "9c3c318b-bd51-49e7-af1e-598d3467bfcd"
+data "ValueOverride" "800"
+data "Rarity" "VeryRare"
+data "ComboCategory" "d3"
+data "Boosts" "AC(1)"
+data "PassivesOnEquip" "AMP_Orb_Diamond_T3_Passive"
+data "Unique" "1"
+
+// Diamond Orb Ring - Tier 4 (Legendary)
+new entry "AMP_Orb_Diamond_Ring_T4"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "9c3c318b-bd51-49e7-af1e-598d3467bfcd"
+data "ValueOverride" "2500"
+data "Rarity" "Legendary"
+data "ComboCategory" "d4"
+data "Boosts" "AC(2)"
+data "PassivesOnEquip" "AMP_Orb_Diamond_T4_Passive"
+data "Unique" "1"
+
+new entry "AMP_Orb_Diamond_T1_Passive"
+type "PassiveData"
+data "DisplayName" "hc6351703gc31cg4744g9e94g54ef11513944;1"
+data "Description" "ha5aa3b15ge24dg4620gb8c2g0e7b40731794;1"
+data "DescriptionParams" "5"
+data "Properties" "Highlighted;OncePerCombat"
+data "StatsFunctorContext" "OnStatusApplied"
+data "Conditions" "StatusHasStatusGroup(context.StatusId, 'SG_Stunned')"
+data "StatsFunctors" "ApplyStatus(AMP_ANCIENTCHAOS,100,5)"
+
+new entry "AMP_Orb_Diamond_T2_Passive"
+type "PassiveData"
+using "AMP_Orb_Diamond_T1_Passive"
+data "Description" "h198c5380g2e06g4695gb7d3gc3ebbb91aa55;1"
+data "Properties" "Highlighted;OncePerTurn"
+
+new entry "AMP_Orb_Diamond_T3_Passive"
+type "PassiveData"
+using "AMP_Orb_Diamond_T1_Passive"
+data "Description" "h7842a7dfga203g4ca4g8788g9f84f12302ae;1"
+data "Properties" "Highlighted;"
+
+new entry "AMP_Orb_Diamond_T4_Passive"
+type "PassiveData"
+using "AMP_Orb_Diamond_T1_Passive"
+data "Description" "h7842a7dfga203g4ca4g8788g9f84f12302ae;1"
+data "Properties" "Highlighted;"

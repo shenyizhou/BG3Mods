@@ -1,0 +1,83 @@
+{
+    "FileVersion": 1,
+    "Progressions": [
+        {
+            "UUIDs": [
+                "c091d27e-009b-4841-8bde-5e63e5ca8f4e",
+                "297e0cb5-9743-4ae8-b053-b3850f0fa134"
+            ],
+            "Strings": [
+                {
+                    "Action": "Insert",
+                    "Type": "PassivesAdded",
+                    "Strings": ["LightlyArmouredDefense_Monk"]
+                },
+                {
+                    "Action": "Insert",
+                    "Type": "Boosts",
+                    "Strings": ["Proficiency(LightArmor)"]
+                }
+            ]
+        },
+        {
+            "UUIDs": "c17915f1-df2b-4cce-876f-68faf153f373",
+            "Strings": [
+                {
+                    "Action": "Insert",
+                    "Type": "PassivesAdded",
+                    "Strings": ["LightlyArmoredMovement_1"]
+                }
+            ]
+        },
+        {
+            "UUIDs": "9286a35f-e58b-4f56-95a4-78dfb19ed5d5",
+            "Strings": [
+                {
+                    "Action": "Insert",
+                    "Type": "PassivesAdded",
+                    "Strings": ["LightlyArmoredMovement_2"]
+                },
+                {
+                    "Action": "Insert",
+                    "Type": "PassivesRemoved",
+                    "Strings": ["LightlyArmoredMovement_1"]
+                }
+            ]
+        },
+        {
+            "UUIDs": "e715d543-451b-419f-9cf1-ed88339d9387",
+            "Strings": [
+                {
+                    "Action": "Insert",
+                    "Type": "PassivesAdded",
+                    "Strings": ["Unwavering_Monk"]
+                }
+            ]
+        },
+        {
+            "UUIDs": "62d54d84-80f8-4c89-9a1a-6b15aeaf697a",
+            "Strings": [
+                {
+                    "Action": "Insert",
+                    "Type": "PassivesAdded",
+                    "Strings": ["LightlyArmoredMovement_DifficultTerrain"]
+                }
+            ]
+        },
+        {
+            "UUIDs": "153f55a7-4c75-4748-a9f7-a756239a3fe6",
+            "Strings": [
+                {
+                    "Action": "Insert",
+                    "Type": "PassivesAdded",
+                    "Strings": ["LightlyArmoredMovement_3"]
+                },
+                {
+                    "Action": "Insert",
+                    "Type": "PassivesRemoved",
+                    "Strings": ["LightlyArmoredMovement_2"]
+                }
+            ]
+        }
+    ]
+}
