@@ -1,0 +1,16 @@
+RequireFiles("Shared/Classes/", {
+    "LocalSettings",
+    "Favorites",
+    "EasyCheat",
+    "CheatManager",
+    "CheatDefinitions",
+    "Item",
+    "ItemManager",
+    "ItemPreview",
+    "StatDefinitions",
+    "StatPassiveManager",
+    "StatSpellManager",
+    "StatStatusManager",
+    "TagManager",
+    -- "TeleportManager",
+})

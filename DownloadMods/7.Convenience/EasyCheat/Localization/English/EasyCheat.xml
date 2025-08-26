@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+    <content contentuid="h800b9246g5a14g410fgb504ga3a030393dd2" version="1">EasyCheat</content>
+    <content contentuid="h3d2c94e7gb394g4f57gba5agee7a990a7b6b" version="1">General Settings</content>
+    <content contentuid="h0ce2f6d5gbbbbg41aega584g74552b4d3ae0" version="1">Host-only cheats</content>
+    <content contentuid="hdd5630d5gf04fg4895g80e4gb07fe12715dc" version="1">If false, everyone can use the cheat menu.</content>
+    <content contentuid="h61030b069e384bd9924ca2b8e2e21a7e7gf2" version="1">Reset to default value:</content>
+    <content contentuid="h9eb491ab7a224456be8225f4b8a36cf4f4af" version="1">CTRL+Click to enter value</content>
+    <!-- General UI-->
+    <content contentuid="h6ff8fdfae95c4bedb72be4e043b41b60f401" version="1">Refresh Targets</content>
+    <content contentuid="h4e96f8ad2a8642bf817d739544c277c16a7g" version="1">FreeStyle</content>
+    <content contentuid="he8c355a5687147178eea9936fa18512be856" version="1">Hack MCM window style and colors</content>
+    <content contentuid="h95ebb44583ca4fa4b2600ca6a48b837b5242" version="1">Spawn Items</content>
+    <content contentuid="h75e85ce7d08a4f439730b81e66a7b481e7f2" version="1">Target Entity</content>
+    <content contentuid="hbbaa2084c76f40ed9b435418399e433bgc16" version="1">Party:All</content>
+    <content contentuid="h4beeeaed144c44f5a773532a416bbdf10f87" version="1">Self:</content>
+    <content contentuid="h560364f7de0f4e328fe31e6cc370c7bdg913" version="1">Item Type</content>
+    <content contentuid="hddea501eb8634f0393463e4dce0b67c62bgf" version="1">Search:</content>
+    <content contentuid="h284116a1f8394fbc9344b13bdca815ffab4a" version="1">Filtered Items</content>
+    <content contentuid="he75d40a1afb74856aa252fcdf45edd0370fe" version="1">Item %d of %d</content>
+    <content contentuid="h55cd1af4118548b7a7f45d93a49067e3bb85" version="1">Name</content>
+    <content contentuid="h48fd5f32d3e94c0e8e8366e725f8bcaf5ab7" version="1">StatName</content>
+
+    <content contentuid="h21b6e59df42348a9a203476c760f73aa5469" version="1">Spawn</content>
+    <content contentuid="h30000f45b2a04740b5d462b71a1a0e2509af" version="1">Next results, %d-%d of %d total</content>
+
+    <content contentuid="habe66c7e6f9741ff8aad2b3470850233ac86" version="1">ModID:</content>
+    <content contentuid="h023c739ab4f546fc8a057a88f8c7e44dea83" version="1">Mod:</content>
+
+    <!-- Cheats-->
+    <content contentuid="ha6ed1b5f4fc746b8b900cbf229d463bed64a" version="1">Level up</content>
+    <content contentuid="h67d530b0fd6a44dea6b37b58c7e95493bead" version="1">Leveling up</content>
+    <content contentuid="he736a96c17144cd081ab5cfe8dff8cdb2ff4" version="1">Give Gold</content>
+    <content contentuid="h2c64c6606a7e43979e3510c110ed153b65e7" version="1">Adding %d gold</content>
+    <content contentuid="hb7605d085ff94360887f6b44304faf491b5b" version="1">Give Experience</content>
+    <content contentuid="h8862405978384b6ba49fb3a53585e8b296f3" version="1">Adding %d experience</content>
+    <content contentuid="h0650fea7f10f4a44a1f32c7c24262bf1c792" version="1">Give Tadpoles</content>
+    <content contentuid="h16151fe7388e4778a5c4da46229ce754a2a8" version="1">Adding %d tadpoles</content>
+    <content contentuid="h0f32c9477cd34e7895bbccd050b713cdc7a9" version="1">Give Inspiration</content>
+    <content contentuid="he2051fd8dc864f18bde7c86358d94e7c1a79" version="1">Giving %d Inspiration points</content>
+
+    <content contentuid="h71361de328a34bcb84d9ee66a654af5750bb" version="1">Break Oath</content>
+    <content contentuid="hffee0fe2fbe4412d8140c327d5e9d480gd76" version="1">Breaking oath...</content>
+    <content contentuid="h5305cf0e8d72458ea416448c0c5499a1ge7g" version="1">Restore Oath</content>
+    <content contentuid="hc85050d6ba45431285c1849b4e1ed649e9e8" version="1">Restoring oath...</content>
+
+    <content contentuid="h74ac7c6bc9454f5e93877c31a53ea76e365g" version="1">Respec</content>
+    <content contentuid="h3b9566dd36f14775a7c4a9ac8fee2d6f5dc0" version="1">Opening respec menu</content>
+    <content contentuid="h070498aa2ae1408ca69f19c8d9c22494cafe" version="1">Mirror</content>
+    <content contentuid="ha6b51a091f974e78ac8f8d4133f1e90dfb25" version="1">Opening the magic mirror</content>
+
+    <content contentuid="h3252bf52030a4f3c8d6c94c9079a8517aa7f" version="1">Long Rest</content>
+    <content contentuid="h7c95b0a2f919475ab3c35b4552bccf438c1e" version="1">Long resting</content>
+    <content contentuid="h535cc3796a4342f59554aa2a0c160d01f631" version="1">Short Rest</content>
+    <content contentuid="hac2dcfefe95c4b7381e7be6e710d043d8da0" version="1">Short resting</content>
+    <content contentuid="h3fd5e866c1344680975cebafaa80572854a7" version="1">Teleport to Camp</content>
+    <content contentuid="h0733fc3609e6429aa7fc5a2ec0c67fd14f03" version="1">Teleporting to Camp</content>
+    <content contentuid="haf4d9273f7e94f32869f1571e372c77c3fb8" version="1">Toggle Immortality</content>
+    <content contentuid="h0b69729cc8a44b398160fc21cba6b9734fc0" version="1">Toggling immortality</content>
+    <content contentuid="h5c34c4560eb14c3f8d0ae3192691d55b5dce" version="1">Revive</content>
+    <content contentuid="hc06b88ae2e23419fa141b6b42adee87a7ea7" version="1">Reviving...</content>
+    <content contentuid="h9721dad1a01141e99a470673143ef8cd292e" version="1">Toggle Fall Damage</content>
+    <content contentuid="h6bf35cf72c1c4c469dcdecf0eefb26e8ba28" version="1">Toggling fall damage...</content>
+    <content contentuid="h4f806d8e1a544898a6c5548ae111245f3540" version="1">Toggle Carry Limit</content>
+    <content contentuid="h03ea9508c3fb400d96f467aec76d64699062" version="1">Toggling Carry Capacity limit...</content>
+
+    <!-- Items-->
+    <content contentuid="h08097669ed974622a9580c554f4bf8d5cff3" version="1">AllItems</content>
+    <content contentuid="hc3facc1a37c5485fa50c9c671e6f544b3a95" version="1">Armor:Helmet</content>
+    <content contentuid="h81420a86077e45e8bf6d5cf2144ca4d2cg2d" version="1">Armor:Cloak</content>
+    <content contentuid="hd83aa9b0eab648ae86d11975db46c72ac468" version="1">Armor:Body</content>
+    <content contentuid="h9985bee3dc7c4829babfe73d5d4bf141f919" version="1">Armor:Gloves</content>
+    <content contentuid="hfd30a1e0f42c47c0926e0c8de7b046b70d4c" version="1">Armor:Boots</content>
+    <content contentuid="hf8f09d34a6ee40a3a90bc4725714ff5fc6c8" version="1">Armor:Ring</content>
+    <content contentuid="hf45a2f99a4ea4fe8874f5853448cce234966" version="1">Armor:Amulet</content>
+    <content contentuid="hdab7a61774524501bd3220848079c64799bf" version="1">Clothes:VanityBody</content>
+    <content contentuid="h5ab5f0e688a4492d9cf1568834be0e84444g" version="1">Clothes:VanityBoots</content>
+    <content contentuid="h7b967fd568c64e619f7f4d4dae7197a77866" version="1">Clothes:Underwear</content>
+    <content contentuid="h3cab671713c24bdc932e9119217c4195b9ed" version="1">Weapon</content>
+    <content contentuid="hcae754a185ec43afb7b5aa6188d68750b851" version="1">Shield</content>
+    <content contentuid="h0ecb4ae7c4c44bacbbb28ec7bad1c3c75bd7" version="1">Instrument</content>
+    <content contentuid="h4de8bb86bbb145259105e5c03486101829e7" version="1">Potions</content>
+    <content contentuid="h05006a9857cc4d279bf1587527e0bcc9776c" version="1">Scrolls</content>
+    <content contentuid="he2224dcc306b4f12b6366f201f10a41923fa" version="1">Arrows</content>
+    <content contentuid="h60569764b72449e899e73a42f62cd0f3ae83" version="1">Throwables</content>
+    <content contentuid="hb299316669674db6957dffed6867e531cd81" version="1">Misc:General</content>
+    <content contentuid="hc2d51ac4f1fd416281276970c904a1c1a2f6" version="1">Misc:Books</content>
+    <content contentuid="h91d75c6c1aef49c094fcdb15e45f189d9366" version="1">Misc:Dye</content>
+    <content contentuid="h3c8fa6a99d004efca6db4632b889f6d0455b" version="1">Misc:Food</content>
+    <content contentuid="h0acdef257d5643919031951a9cc26efe037b" version="1">Misc:Alchemy</content>
+
+    <!-- Status notifications -->
+    <content contentuid="hdcd216afd45542c0a5995c3e9c32ee83e634" version="1">Refreshing party, please wait...</content>
+    <content contentuid="hfdfe1cebd5184b648c8a49be1c08dcf30dd1" version="1">Cheats are only available on host.</content>
+    <content contentuid="h3e1a3b62ee3f415ca53c9e402aeac12b21a2" version="1">Host-only mode is active.</content>
+    <content contentuid="hdd744381c1d3428bb96369019033ea1fb3c9" version="1">Host-only mode has been deactivated.</content>
+    <content contentuid="he7cc6ac9dd53401fa5c344fd548ab5cb83e5" version="1">Changed to %s</content>
+    <content contentuid="heea450d058614ef3a1912053e8f44c5806a6" version="1">Attempting to spawn: %s</content>
+    <content contentuid="h6dd61332d8364bd090d8b775319859173dg6" version="1">Searching %s in %s</content>
+    <content contentuid="he15c11925a934cae91a56c21698ebb806cge" version="1">No items found.</content>
+
+    <content contentuid="h763097546bb74651af905a5007869a0d75b4" version="1">Party</content>
+    <content contentuid="h6d11f3d4fe7749fc8912b0e844cf890e1725" version="1">Teleporter</content>
+
+    <content contentuid="h9757266c7fce457bacdd094744db0887054e" version="1">Vanilla/Modded:</content>
+    <content contentuid="h00b8afd4c96c4242a3ba59755572e53egb44" version="1">Both</content>
+    <content contentuid="hd7541dc7090f4ae78f4678e823a61d7acg45" version="1">Vanilla</content>
+    <content contentuid="hb3a25de9914c4e7f882f7aaf30e5e0dc6e47" version="1">Modded</content>
+    <content contentuid="h2df081fd305b4c448d52ee060017d9ff531a" version="1">[Vanilla]</content>
+    <content contentuid="h6b1c457f91904a3e8be5df36e79da150fd74" version="1">[Modded]</content>
+    <content contentuid="h283b0c7ff7764a69863b7ada461d997fec70" version="1">[Story]</content>
+
+    <!-- Stat Parsing Hell-->
+    <content contentuid="ha4c15e7dac464bb2924d6e63e22bc198387a" version="1">Conditional:</content>
+    <content contentuid="h01ab404679a54d258f3f9fd16d089281f424" version="1">Skill checks</content>
+    <content contentuid="h3bb4ce36d28243d1be40669ddeb200422ea2" version="1">Saving Throws</content>
+    <content contentuid="h869efff236ce48f195ea1782f3640deb9756" version="1">all Saving Throws</content>
+    <content contentuid="hce0ce82def904ba9a72ff2b8a41a9368cc69" version="1">all Ability checks</content>
+    <content contentuid="h30f28cea4cc84d4eb49d1bbd869b173f8gce" version="1">attack rolls</content>
+    <content contentuid="hac4f967872644b29bdc353d90b0eefbd5d9a" version="1">Sleight of Hand</content>
+    <content contentuid="hda7d6b681c5e4689b3c55d666e5b1dfe04e3" version="1">resistance</content>
+    <content contentuid="hefe384c06701469493b1f9c5e22631dc0294" version="1">non-magical resistance</content>
+    <content contentuid="h351875525e4d43f99f83ea0c447ad9f43e4a" version="1">magical resistance</content>
+    <content contentuid="hb5e7d2deab3347f0b28864caae6da177fg36" version="1">immunity</content>
+    <content contentuid="h42c76dfae6374a11a62809195ec21bb88cdf" version="1">non-magical immunity</content>
+    <content contentuid="h8531e41c558f4bbfaca915a30b5ead08668g" version="1">magical immunity</content>
+    <content contentuid="hb4812f6d6b524576aa20a324d0c9616b2d1c" version="1">vulnerability</content>
+    <content contentuid="had9e1943bcf4446b82d1b3e291d8a920ea48" version="1">non-magical vulnerability</content>
+    <content contentuid="hba0e81ef9db4490b8751bf3784bc199b7c28" version="1">magical vulnerability</content>
+    <content contentuid="h8caf24b894574140b31f4aa199b9da1efbdb" version="1">Bonus Action</content>
+    <content contentuid="h9057399da0c34092b6fae284dafbac79e5gc" version="1">Action</content>
+    <content contentuid="h5e84bc6ba87f401282ccf6eebd54a5b8d305" version="1">Reaction</content>
+    <content contentuid="hc19668ce061641fdba012cbe18ad96ff5g7c" version="1">use of Channel Divinity</content>
+    <content contentuid="h3b60ce9bb02843918a78c7884a64b95b6ef0" version="1">use of Channel Oath</content>
+    <content contentuid="hb4bb713f4799443c9b5415be996f4f1e1gb7" version="1">Lay on Hands charge</content>
+    <content contentuid="h95392766cab540d0aa47e752f962a60a6g27" version="1">Sorcery Point</content>
+    <content contentuid="h84dbef7169ac4296b8b160628eb322a8b1gg" version="1">use of Bardic Inspiration</content>
+    <content contentuid="hb92c8099512b442680f158f9409bf21068cd" version="1">Ki Point</content>
+    <content contentuid="h864bfd1a947a4876959d07d5a5ba687fc1f8" version="1">WildShape charge</content>
+    <content contentuid="hdc518b9684874a69afc102d31a8c9b0f27g1" version="1">Luck point</content>
+    <content contentuid="ha61833846f70485cb13f55637e8150e7bd28" version="1">Superiority die</content>
+    <content contentuid="h085a4f898d104ad8820eb3fee2fa809d0606" version="1">Simple Weapons</content>
+    <content contentuid="h9038f19b51074ddbbf0da59a995c88c471d7" version="1">Martial Weapons</content>
+    <content contentuid="hd4ba10dcf5334c6a9f3e1e47cfd1b240egdc" version="1">Musical Instruments</content>
+    <content contentuid="h6170a85f8cd443b9a3231220541b37da1c68" version="1">Medium Armor</content>
+    <content contentuid="h2a6b072769f14ebebe33895367c358261bc2" version="1">Light Armor</content>
+    <content contentuid="hb17ff2eabecb47f79b6759b048b82e35bfg9" version="1">Light Hammers</content>
+    <content contentuid="hb7d3f0176f3a4dd1b31b47a9593a1721ac36" version="1">Hand Crossbows</content>
+    <content contentuid="h3104724fb4ed4d0a8e9d8c6bb8ccbc28b8f4" version="1">Light Crossbows</content>
+    <content contentuid="h0e4ff0b4a42a4ee5a0a14803a3ff9a63fe22" version="1">Heavy Crossbows</content>
+
+    <!-- More Stat Parsing Hell-->
+    <content contentuid="h897ae46655d7443d91ae482a86401b8d64f1" version="1">%s %s damage</content>
+    <content contentuid="habb9ba034b7d4fefaf8f88ca8eb439e64638" version="1">(%s) %s damage</content>
+    <content contentuid="h6e002efe2ec541b1ac64adf9796c777c50fd" version="1">%sm</content>
+    <content contentuid="h13c58fcf1dbe45d5933b3708191bfe294704" version="1">%s HP</content>
+    <content contentuid="h0c8924c313c247f7a4e759153b2cecfe9g01" version="1">(%s) HP</content>
+    <content contentuid="ha34c16520e744a8f90bb0b44aa19337bee9a" version="1">Disadvantage on %s %s checks</content>
+    <content contentuid="h7389dbfe0bb44cc0a58e8aba0d7df0f20286" version="1">%s bonus to %s skill checks</content>
+    <content contentuid="hf09c5e58fe9444999adfc08446961242f4fb" version="1">%s bonus to %s skill checks</content>
+    <content contentuid="h7cdb807392334ce295bef57d2073e0490a90" version="1">Gives %s to %s %s</content>
+    <content contentuid="he2d5e7f6e20e447a8be0c7720fff77c781g3" version="1">Gives %s to %s %s</content>
+    <content contentuid="h57c98c43f6cd4ce49ba32b56ae0b28dbf72a" version="1">%s to %s</content>
+    <content contentuid="h0529842e89a34887977284c827a3bd5eb32e" version="1">Gives Advantage on %s %s</content>
+    <content contentuid="hec011828dced42d09038bcddc67eebfegcdd" version="1">Unlocks Spell: %s</content>
+    <content contentuid="hd0977507cd3c49a1aca4ccfe8b0fb67daeg4" version="1">Adds %s to AC</content>
+    <content contentuid="hdee429fa3f64480ba637b01067fb12b8627a" version="1">Sets the wearer's %s score to %s</content>
+    <content contentuid="h0ad31b12e4fb4872b4bd41de3f645100f1g7" version="1">Grants %s to %s</content>
+    <content contentuid="h264f3b40f44648d1bec81d23b21ce05fb458" version="1">Ignores %s to %s damage</content>
+    <content contentuid="h58e6bf16bc3c4215b84fb5e79f8b678d4d2e" version="1">Grants an additional %sm of movement</content>
+    <content contentuid="ha3442e6c87694a2b9e9d710e8b90fef8d75g" version="1">Grants an additional %s Level %s Spell Slot</content>
+    <content contentuid="h9b4b50779cce4524a9ba8f13f5bb9eeb6dfd" version="1">Grants an additional %s Warlock Spell Slot</content>
+    <content contentuid="h4705bb2f1eae4d648dd2aec35f210cad87df" version="1">Grants an additional %s %s</content>
+    <content contentuid="hcfe56bf6e1004e498c24fab32d1c9fae678c" version="1">Grants status immunity to %s</content>
+    <content contentuid="h59fb0710bdd04deba189c82d6af00842gcd4" version="1">Grants proficiency with %s</content>
+    <content contentuid="h65dd12816f254d809ed6e36f507e4e64f859" version="1">Grants proficiency bonus to %s %s</content>
+    <content contentuid="h236d48c890364f9cbdc2a42701577d927217" version="1">Gives +%s bonus to spell DC</content>
+    <content contentuid="h308d7323fca747aaacdb9be9869bb184aa09" version="1">DefaultBoosts</content>
+    <content contentuid="h511afa5c85214d3383781325d05a8f4e25ca" version="1">Boosts</content>
+    <content contentuid="h931080faa3ab46059ecdcd725fa390c219d7" version="1">Passives</content>
+    <content contentuid="h8510499fc8e349d2ad786b06f8a26cbc1bcd" version="1">Valid visuals for</content>
+    <content contentuid="h191a91078a734385aae05338380469a4abg4" version="1">No visuals found for</content>
+    <content contentuid="hc7fc3ea6bc574b4f86a93ca81ba64c46cc76" version="1">Reached end of list</content>
+
+    <!-- Stats -->
+    <content contentuid="h13eb9771g59b9g4093g9cd0g511644416d75" version="1">Story Control Effects</content>
+    <content contentuid="ha5990c21g72ccg4b68gab06g23a5da228355" version="1">Massively influence dialogue roll outcomes</content>
+
+    <content contentuid="h9e880ab0g1af4g4b5cga2c2g7a71cbe98034" version="1">Roll with Advantage</content>
+    <content contentuid="h8e7389fcg5e0fg49a3g8621g696442f1e624" version="1">Gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on all skill checks/throws.</content>
+    <content contentuid="ha66cb5f9g8dbfg4678gb854g2e340ae4e761" version="1">Rolling with Advantage</content>
+    <content contentuid="h2eff8ec6g1d95g46f8g881bg2395b8e24ae0" version="1">You have advantage on all rolls.</content>
+
+    <content contentuid="h00eee852g6834g4be9ga62bg07c855b259dc" version="1">Succeed Rolls</content>
+    <content contentuid="h7f5ef778g82f7g406dga911g120d11972688" version="1">Gain +30 on all skill checks/throws.</content>
+    <content contentuid="hb433cc9cg43d3g431aga861ga9b43b0bb401" version="1">Succeeding</content>
+    <content contentuid="hc4a8566cgedc1g4753gbd97g4ba2bd814ca8" version="1">You have +30 to all rolls.</content>
+
+    <content contentuid="h346a965bg9cdcg4cdagb5dbg9dbffe5573b9" version="1">Force Crit Rolls +1</content>
+    <content contentuid="h86b968a6g5e96g4091g9964ge9cae41f6e1d" version="1">Success is always an option, the only option.</content>
+    <content contentuid="h3802ac42g5a96g41c4g9498g43e340f03601" version="1">Critting</content>
+    <content contentuid="he5b7a72cgea53g4d1aga490g8177e9cf305b" version="1">Nat 20, let's go.</content>
+
+    <content contentuid="h7950d9d2g6139g469cgaa38gd45c13da1e95" version="1">Fail Rolls</content>
+    <content contentuid="he2eaf2a4g6dc8g40eag89dag0126cce4e401" version="1">Gain advantage... but -50 on all skill checks/throws.</content>
+    <content contentuid="h6abdb1a9gb473g45ddga5d0g13b8b4bf71bf" version="1">Failing Rolls</content>
+    <content contentuid="h3c167fa3gb47cg4634ga7aag2372669ee0e5" version="1">You have advantage, but -50 to all rolls.</content>
+
+    <content contentuid="h73962452g7946g49d9g9944g7b739f5a53ab" version="1">Protection from the Dumb</content>
+    <content contentuid="h9f70bb97gf1d4g4160g88bbg2127ace778dc" version="1">Useful for keeping dumb NPC's from craving death too hard.</content>
+    <content contentuid="hb0ba43f0gf36ag4b90g977cg5ff77c7593ce" version="1">Protected from Stupidity</content>
+    <content contentuid="hbff594c9g1d53g480aga8e8g31281851b59b" version="1">Affected entity is &lt;LSTag Tooltip="Immune"&gt;Immune&lt;/LSTag&gt; to all damage and incapacitated for 10 turns. &lt;LSTag Type="Spell" Tooltip="Target_Help"&gt;Help&lt;/LSTag&gt; action can remove early.</content>
+
+    <content contentuid="ha710e4b8g122eg47b4ga83ag954612e7629f" version="1">Power Word(s): Just DIE ALREADY</content>
+    <content contentuid="h2b217788g70a6g4784ga374gf5267df4332d" version="1">Caution- Can even kill immortal things, may cause bugs.</content>
+    <content contentuid="h6ef71326g9443g47f6g9ae9g2636dc65efb4" version="1">*cough* Blergh</content>
+    <content contentuid="hb276ff2732d0484186994cc218200e478130" version="1">EasyCheat: Fall Damage Immunity</content>
+
+    <content contentuid="h006a0690b2f04edc90ac1b4970ed445d0451" version="1">I acknowledge this may break or SPOIL my game.</content>
+    <content contentuid="h65b333ea89364ed3bbe5efcbb2af1a4bfe9d" version="1">Teleport on double-click</content>
+    <content contentuid="h24195f2fb2154c9e834f24a5ced8816365e5" version="1">Current Player Position:</content>
+    <content contentuid="hd25455803a204c7ebe29d11a012f7a7094ef" version="1">Current Level:</content>
+    <content contentuid="h5055099c3314468a831e30b4a7d2c7ce7ebd" version="1">No character</content>
+    <content contentuid="hc16dd30df16d4d48b9cf11e89e74fdc11906" version="1">No Level loaded.</content>
+    <content contentuid="h750103a17f0747178885100677cba4c1ce55" version="1">Level</content>
+    <content contentuid="hb38bb0ca1b24445db81c04a6c2c7678088gd" version="1">Teleport Trigger</content>
+    <content contentuid="hfe13b8e863624b45b0bdb661234286b161fg" version="1">Trigger Info</content>
+    <content contentuid="h080341f51a0441acad302b3b541a4a446gg0" version="1">Position Teleport</content>
+    <content contentuid="h931e7f87a1544a00866d42ae536bff11418g" version="1">Trigger Teleport</content>
+    <content contentuid="h596940ffcd894dd29ccbc68af0ac9bbbf52c" version="1">Favorite this trigger</content>
+    <content contentuid="h1ac34cd5a50a4ab1b128205679608694ec3f" version="1">Level (%d triggers)</content>
+    <content contentuid="h43b94e5ff53f497aa8b150b78c8e6568bc89" version="1">Trigger Info: (%s)</content>
+    <content contentuid="h4a242405d9c3451c892a0565544586976711" version="1">Position:</content>
+    <content contentuid="hfe0367950a754b5e8e5dd3223ab201e21739" version="1">Favorites</content>
+    <content contentuid="h7f162a839eaf413c8d8117488d631448f0f6" version="1">Default Map Waypoints</content>
+    <content contentuid="h15bbf968a6214cab8f29a650d83ba5ab3462" version="1">%s (%d total)</content>
+    <content contentuid="h5087913ccab441a680aea73be93083e68dd2" version="1">Toggle Favorite</content>
+    <content contentuid="h2ebb2c47f8864250a2dbc58135533ecf0ff5" version="1">Favorites (%d total)</content>
+    <content contentuid="hcd5269af6c1042408c26a140888b75729870" version="1">Teleports to a given trigger's (x, y, z) position.</content>
+    <content contentuid="h5d47f03edfac465cbeb26a390365eac9eb2d" version="1">Teleports to a given trigger's UUID</content>
+    <content contentuid="h18d99bf70b854803bb544d66e8bed302f5b4" version="1">May not always be valid for unknown reasons, use Position teleport if Trigger doesn't work (and you're in the correct region for that position)</content>
+    <content contentuid="hfc6a501f925d4fc19445f752d7e11c96g974" version="1">Host-only mode is enabled.</content>
+    <content contentuid="h03783f9e0b46458dadccfa9c7ad996725bba" version="1">You'll have to ask the host to toggle this off if you'd like to cheat.</content>
+
+    <content contentuid="hd411ececf2f04ef1a2aa7f3fbeab4a618727" version="1">Stay Clean is: On/Off</content>
+    <content contentuid="hc6ee3f53698848a99682e44402ea9a220219" version="1">Stay Clean is:</content>
+    <content contentuid="h1c1c3537fa794b8d81131bb4ee4071e108ed" version="1">ON</content>
+    <content contentuid="hacb89347b34746f886c9dd249b6004a715a6" version="1">OFF</content>
+    <content contentuid="hd5b591f96e7b4388bbb8ec25621f698bff0c" version="1">Toggling Stay Clean cheat (global)</content>
+    <content contentuid="h6790ef1a9e094934b8efb5b9b60af7594977" version="1">Globals</content>
+
+    <content contentuid="h16c37ab0888842f6aebde21000bc9e747gg6" version="1">Filtering to items with rarity:</content>
+    <content contentuid="hec0c99badad34c73a2be8b8b3097f3ce405d" version="1">If true, filters out items that don't have valid visuals for the current character at the time of search.</content>
+    <content contentuid="h0aac44108df34982b085252026e1892fc277" version="1">Searching for both Vanilla/Modded items...</content>
+    <content contentuid="hca6394f8f9af4d4fa21ec25a863bf507d3cd" version="1">Searching for Vanilla items only...</content>
+    <content contentuid="h6fda18fea97b421d8279314d649229e75e08" version="1">Searching for Modded items only...</content>
+    <content contentuid="h7cf6afeeaaea4d57bb122250056d4ef1f04a" version="1">Rarity:</content>
+    <content contentuid="h0fd6e53e2d0a444dac2076e4c02f2171761a" version="1">Any</content>
+    <content contentuid="hbe83a775295d455fbe6cd0618bccdd3736ac" version="1">Common</content>
+    <content contentuid="h06e168a8860f43bbb9b68cc3950657b14c16" version="1">Uncommon</content>
+    <content contentuid="h0d74176fbc6a4b25ae68214d075af67e1ca3" version="1">Rare</content>
+    <content contentuid="hffe27d31da314364a1ecc40bf197623959f2" version="1">Very Rare</content>
+    <content contentuid="h767f8d82d7484337acbe527c1cca1c22c133" version="1">Legendary</content>
+    <content contentuid="ha64c552a71a843a0add532b9437ac561g024" version="1">Valid EQ Visuals Only</content>
+    <content contentuid="ha9a4474e05494c3a96b551af1ab90dc716d1" version="1">Back to top</content>
+
+    <!-- Party Menu-->
+    <content contentuid="h6ba7a8b5e7ed425785b94f7322d42eb0g5d5" version="1">Current Party</content>
+    <content contentuid="hbc293561784c4eb581c4fce9c58adb388932" version="1">Camp</content>
+    <content contentuid="h8920680be4b14fa18a4c157db9a0b09522b9" version="1">Unrecruited</content>
+    <content contentuid="hd54a352f324f4bd592935f4a45a7820c5gf1" version="1">Caution: There's no undo button, and recruiting in this manner may lead to odd quest/story behavior.</content>
+    <content contentuid="h7afeb6ef331a4648a34aa591d5b1623b8fb4" version="1">HP:</content>
+    <content contentuid="h08589eac1f8c42869f24bd9180626384ae73" version="1">Current Approval:</content>
+    <content contentuid="h5ea9887ac2994538885a1763e4f954378b1e" version="1">Approval</content>
+    <content contentuid="ha712d3a46ab54343883a95d4c5909846f549" version="1">Set</content>
+    <content contentuid="h6924a416fc664a8f9e107357cb9a17ec2g98" version="1">Set to</content>
+    <content contentuid="ha84a6f0ba1df4d9cbe0117c2d1ceb0bc39cc" version="1">Relationship</content>
+    <content contentuid="h23e64eac387840649c47ff626432007dbe08" version="1">Current Relationship: Unknown</content>
+    <content contentuid="h3bab2cd949b3421780ecc5bb3cf455977485" version="1">Start pre-relationship</content>
+    <content contentuid="h3d76e9e25d9c4b5bb6f796f54ec112792ea7" version="1">Break up</content>
+    <content contentuid="h2d3f0a70dc4c42ba8aca72cf323080d4f873" version="1">Date</content>
+    <content contentuid="haff8880254c94553b1f67e68d70d06eb323g" version="1">Current Relationship: None</content>
+    <content contentuid="h3097d6c900e242dc962e60ff3c4e3d95e86a" version="1">Dating:</content>
+    <content contentuid="hf84cfe854e2c4f468dccce60ac18e7d68cd3" version="1">Partnered:</content>
+    <content contentuid="h3bff31aef7364d9c84885c92b121f98a8bdf" version="1">Secondary Partner of:</content>
+    <content contentuid="h8b0b9abc6a19406ca1694e02ca9d0c553f32" version="1">General</content>
+    <content contentuid="h3b2487012eaa465786229a08a438e0e49e42" version="1">Dismiss to Camp</content>
+    <content contentuid="hd99f3235a1a74b41a0b4329b8093aed0003d" version="1">Revive</content>
+    <content contentuid="h77b55a70ef14462a83b687e3c68b68dc5a69" version="1">Short Rest</content>
+    <content contentuid="ha1391197610f4eb7afdb3a2d9108d2d32b32" version="1">Long Rest</content>
+    <content contentuid="hffc045f9f84b477aac59b7afdd90c8e6d14g" version="1">Summon</content>
+    <content contentuid="h42d0e2ecd6c54c49a1a21b8e03b5f98ea5f1" version="1">Teleport to Camp</content>
+    <content contentuid="hacb5b4eb2b4742ddb907e63c60a50c9ad029" version="1">Unstick</content>
+    <content contentuid="h94e76704c8524a89bfd561e4e2672a4d442e" version="1">Re-stages a character, if they're stuck invisible from dialogs or other modded shenanigans.</content>
+    <content contentuid="h361f5c1078464a3482df897a9f4a1c0965e2" version="1">Add to Party</content>
+    <content contentuid="h62779109746043aa8f0c869adabad40c60b0" version="1">Recruit as Companion</content>
+    <content contentuid="ha315a5c38639428eb78e8a56021d761e47aa" version="1">Recruit to Camp</content>
+    <content contentuid="h9292d7afc5b44eefb203068b05ca942306fa" version="1">Recruit as Avatar</content>
+    <content contentuid="h98ca0a577a844938979cd7bd91c0a36d00ac" version="1">Caution: Unfortunately, dismissing party members with summons/followers has a visual glitch with temporary duplicate portraits that disappear after a savegame reload. This will hopefully be resolveable in a future update, but for now it's recommended to avoid dismissing party members with summons/followers.</content>
+
+    <content contentuid="ha04abc1f8c00421681231bc27948322a4848" version="1">Story Controls</content>
+    <content contentuid="h573fbc802f74415a906a7dae3a02a6dd9g31" version="1">Granting/revoking story control spells.</content>
+    <content contentuid="heb404f5beb6c49adba632235d633a8e6d852" version="1">Kill Spell</content>
+    <content contentuid="h7a706e0d46c04a7e8022eca437247816da6a" version="1">Granting/revoking kill spell.</content>
+    <content contentuid="hc80add6c2bca49e9b4141bf33cfa94929a39" version="1">Protection Spell</content>
+    <content contentuid="h9e828c15e507458f8d056541ef27fe61g8c3" version="1">Granting/revoking protection spell.</content>
+    <content contentuid="hc3fccdae4d82418a9f9f2895f923fb4ed1ag" version="1">Caution: Adding these spells to your character(s) means they will need to be removed later if you decide to uninstall.</content>
+    <content contentuid="h9e68bbaedb974b16ace0a43d49f90c65f7f3" version="1">The mod 'Mod Uninstaller' by Volitio is recommended to simplify this process.</content>
+    <content contentuid="h6afc1e5048d04168afbe4a008f2de70e6597" version="1">Grants and revokes the following spell(s):</content>
+
+    <content contentuid="h20da017a36a643bd9a990c9c014c3cac5f5a" version="1">Filter triggers</content>
+    <content contentuid="hee94f6612bf44d7880debc599126f27ae2dc" version="1">== NO RESULTS ==</content>
+    <content contentuid="h28873292bd984039856dabff4c25459a8d9d" version="1">Daily Buffs</content>
+    <content contentuid="h6ce32cd31b8140c6ae2b41a9b5d81db1feg0" version="1">Changes after the next application of the buff statuses.</content>
+    <content contentuid="hb4c152c45304415296e3bedc3cc5780990fg" version="1">Disable VFX</content>
+    <content contentuid="h93725a45a28b4670bf70361391c23640776c" version="1">Disable SFX</content>
+    <content contentuid="h3e8684303b34481993c185e36381bb5e646g" version="1">Apply buffs after long rest.</content>
+    <content contentuid="hdc971ca4b1134d62adf9df53fa96d95f16a4" version="1">Spell/Level</content>
+    <content contentuid="he1e820b829ff42edb065fc666ec8832efe9f" version="1">Level 1-2: 1st level spells accessible</content>
+    <content contentuid="hf580427b28ef4e9ca5c529fe3ea3772da4ff" version="1">Level 3-4: 2nd level spells accessible</content>
+    <content contentuid="h98d777d044f149bf9d681f0051eabc08e052" version="1">Level 5-6: 3rd level spells accessible</content>
+    <content contentuid="h7bfc3bbeffeb4d9abd9eb9dbe60e4c3e0gd3" version="1">Level 7-8: 4th level spells accessible</content>
+    <content contentuid="hbb5b07ce7ca8499a94d8b7beb8d7b46c8bec" version="1">Level 9-10: 5th level spells accessible</content>
+    <content contentuid="h5d8a5695833148b4a07e884e3f72840222b3" version="1">Level 11-12: 6th level spells accessible</content>
+    <content contentuid="h89c4ee8546ed460bb6855c54b6fde0942126" version="1">Level 13-14: 7th level spells accessible</content>
+    <content contentuid="hdb2112d6ce2e41e2b2f91f2c985cdbc4e8ga" version="1">Level 15-16: 8th level spells accessible</content>
+    <content contentuid="h2f978ff2746342c8b39ccdd69aec33d2c99b" version="1">Level 17+: 9th level spells accessible</content>
+    <content contentuid="hf667fe265277416ea1171e83fa0135fcf210" version="1">Darkvision</content>
+    <content contentuid="h58b1c09583b0432d8c24e671164fb88bdbf1" version="1">Guidance</content>
+    <content contentuid="h7921ebd438424bb48e694b5826a97fd8636e" version="1">Longstrider</content>
+    <content contentuid="ha99b15075e524caa9cc7fb49c38230364c9f" version="1">Enhanced Leap</content>
+    <content contentuid="he08b7147eff44fa0b68cb4fb8a2f57880075" version="1">Mage Armor</content>
+    <content contentuid="h06e44fa591cf4705ab9266a202175648e3e4" version="1">Animal Speaking</content>
+    <content contentuid="h75474d7c00434a759e6f48f35f726249cd64" version="1">Detect Thoughts</content>
+    <content contentuid="h03c98629ee07490f8da8b66adcf45bcdc384" version="1">Protection from Poison</content>
+    <content contentuid="ha4d0ce1a3fab441cadc6819829c578e97f5a" version="1">Elixir: Bloodlust</content>
+    <content contentuid="h01a7bbcbfdd94828b43b578917586df9g5de" version="1">Freedom of Movement</content>
+    <content contentuid="h6905628160e34004ba92af9911e30c07aa6a" version="1">Death Ward</content>
+    <content contentuid="h3c4fb945c65748db9301b8667339bf853gfg" version="1">Heroes' Feast</content>
+    <content contentuid="hf8ea228ed2b9491f81dd7272dd87ffb9e98c" version="1">Aid (upcasting)</content>
+    <content contentuid="hb6cb8c179db14439ab309a5bca14f0c3df7f" version="1">Preview this item for 15 seconds.</content>
+
+    <content contentuid="he30412580e2c4116bcd9ca41ef993a3fd7c2" version="1">Go To (Teleport)</content>
+    <content contentuid="h1c08bba4506e44ac8a8699c10e5e5c655g34" version="1">Apply Now</content>
+    <content contentuid="hd3a163633a234a72ba3508f3092e64ad4e5a" version="1">Resets spawn quantity to 1</content>
+    <content contentuid="h420512726cbe49f7bd53a64e95b4ed7f4e20" version="1">Respec</content>
+    <content contentuid="h76f092e8d5eb4f49a512b3030206b2f48a8c" version="1">Mirror</content>
+    <content contentuid="hb44f8d592289494d84bf051cfd4dba6ccd5g" version="1">Key:</content>
+    <content contentuid="h422e7873e97147f48d340151168d1e20e111" version="1">Modifier:</content>
+    <content contentuid="haad7002464cb4a02bf1e00291102667ba0e3" version="1">EasyCheat Settings</content>
+    <content contentuid="h93a76d4eb0404d50b2c8b841bb1f6c1c0e3c" version="1">Open/Close Sidekick</content>
+    <content contentuid="h51207ce8968f465393df9d69d6d825d3db9f" version="1">Camp Companions</content>
+    <content contentuid="hc86af83da94a4351a61691c1fa771f94094d" version="1">Unknown</content>
+    <content contentuid="h044fe8822f484d5da1ce8a100723be30518d" version="1">Currently Editing:</content>
+    <content contentuid="hc21d4a45c9f340c6b1513f05ecf182d1630a" version="1">Spells</content>
+    <content contentuid="h969d13aab95c4723a11d0f609110f76b6e16" version="1">Statuses</content>
+    <content contentuid="h6ed14f52f4544bb780593219084efa13bd4a" version="1">Passives</content>
+    <content contentuid="h79463dffb72e46b4bd57c6e613b4a3d0a4c8" version="1">Tags</content>
+    <!-- General Search-->
+    <content contentuid="h644169d7399443df8df5eb82e2b24b6387b6" version="1">Items</content>
+    <content contentuid="h9458a0ed093c4f408383b9374becf33e3e4b" version="1">of</content>
+    <content contentuid="hc945765052e1466da4129a25915f510e6518" version="1">total</content>
+    <content contentuid="h80396c92074b46dcb04c2e9dad2102139f00" version="1">No results found.</content>
+    <content contentuid="h58243d49b4dd4ce2a4ed268f8acf520d2845" version="1">Results</content>
+    <content contentuid="hd071105d95154708b5d15c80a12af92a6377" version="1">hint</content>
+    <content contentuid="h248989664dac475993555e27ab37cff0bfb6" version="1">Search</content>
+    <content contentuid="hfe3200e02dd940ae80ac1aa73052b44f997g" version="1">Search Settings</content>
+    <content contentuid="h07dda1ae797a4ec7ab89a5c14967bd27da07" version="1">Search within:</content>
+    <!-- PassiveSearch-->
+    <content contentuid="h244848af30da4aa4add5b301786fce5ca321" version="1">warcast</content>
+    <content contentuid="h4bf3afafd37c4224be8e9543f03b421b8bd5" version="1">Name</content>
+    <content contentuid="h58714a3d2d95403f8483061a2a267f61de99" version="1">Display Name</content>
+    <content contentuid="hebc2103553854b8bbabe9355978c4270acgd" version="1">Boosts</content>
+    <content contentuid="h76a8e3508e2541ac972d494d741cae4507d3" version="1">Conditions</content>
+    <content contentuid="h38cc28b1d53e4cc4951f278ff660ee5ad618" version="1">Description</content>
+    <content contentuid="haeac05e1a9104a9ebe70f598fa5e8b222c4d" version="1">Passive Search</content>
+    <content contentuid="hbd813e026c7c42a0b977bbe04a72602c4903" version="1">matches</content>
+    <content contentuid="ha0d46d81b9a94fa7b9679022c20341c5d032" version="1">Properties</content>
+    <content contentuid="h7163716531fa456886a95f5f1876c044bff2" version="1">Add</content>
+    <content contentuid="h00d346068d224a6f952bb25c66fd3b32g6c9" version="1">None</content>
+    <!-- SpellSearch-->
+    <content contentuid="hb09c633388854d448b0167c6b4307cb1b16a" version="1">fire</content>
+    <content contentuid="h9cc85faf3c81483aaa32fd02ab37a54ba999" version="1">Spell Type</content>
+    <content contentuid="h2addca0d959e48a7a3dc91734a505b9d04da" version="1">Spell Flags</content>
+    <content contentuid="h963150e110264f52be0ff9d2a05df28edffc" version="1">Spell School</content>
+    <content contentuid="h0d916b9643c5444ea3058e92d40eba17g487" version="1">Include upcasts?</content>
+    <content contentuid="h015a0692b7234fae86c89f1ac4f62c898b97" version="1">Spell Search</content>
+    <content contentuid="hf53479dc7096414b9e524a152ce9b186ead3" version="1">Flags</content>
+    <content contentuid="hf48c59d3be46497e84127fd903976bd895a9" version="1">Learn</content>
+    <content contentuid="h0e604abf0e8f47cf938e16c67d0729b3acaa" version="1">Upcast Versions</content>
+    <content contentuid="h0285e6f05f8944cbb882bc4f0efd32e49f47" version="1">Root Spell ID</content>
+    <content contentuid="h5c2703cc56454e3fab32cd1f4be8885080d2" version="1">Cooldown:</content>
+    <content contentuid="hc36e59b1c7514c7e945fbf16dcd7e498g0b9" version="1">Level:</content>
+    <content contentuid="h1a7202a1ef1f48a4865b6f1073ce79b59f74" version="1">Spell School:</content>
+    <content contentuid="hfd10514f87e24ee28afcfef4fb0e65f056dc" version="1">Shape:</content>
+    <content contentuid="h1246ead50fd9437597fd8e7f67c2029d2geg" version="1">Use Costs:</content>
+    <!-- StatusSearch-->
+    <content contentuid="h255808fdb9f844f3b2c4d854b957c4534aec" version="1">sneak</content>
+    <content contentuid="h2c0336edebac47cbaa84e6f43eb613c525g4" version="1">Uuid</content>
+    <content contentuid="h9e6005e3abb14bd3a47276ac33e63ac67bf5" version="1">Status Search</content>
+    <content contentuid="hfc3b981c3671439fbc59122d126871ba48eb" version="1">StatusGroups</content>
+    <content contentuid="hf382258ebc4844129f24904a3319bb487872" version="1">StatusPropertyFlags</content>
+    <content contentuid="hf58f15840f0d48d0a61a8a0f3a9b1736bg93" version="1">StackID</content>
+    <!-- TagSearch-->
+    <content contentuid="h0d7a70fb94e8402386b0f13db85de865e5d2" version="1">cleric</content>
+    <content contentuid="h83bd3a33dfbf4e188acfc1937988784a7979" version="1">Tag Search</content>
+    <content contentuid="h9deabc1139194709adc64a28f22e96b577g2" version="1">Name:</content>
+    <content contentuid="h4795456ca1fd496d8833acfb09d2bd090b26" version="1">Tag ID:</content>
+    <!-- Last minute extras-->
+    <content contentuid="h980e76301968408480d119a3274a03c6af9g" version="1">Apply Daily Buffs</content>
+    <content contentuid="ha965e481a9754dfe8f0616b7f9a6ae2f1e55" version="1">Open Sidekick</content>
+    <content contentuid="hf701fb2f5db44749bbfc55885336a2874723" version="1">Quick Teleport</content>
+    <content contentuid="hde674d509d9c436f9022b516240dba9b6b81" version="1">EasyCheat Sidekick</content>
+    <content contentuid="h0251709af8c54e3cb2506edb1bacd0313gc3" version="1">Disabled by Host</content>
+    <content contentuid="h301ab7631a9c47b09e415c7955bad85ag932" version="1">enabled</content>
+    <content contentuid="h6ec95f1fe12641698656af90a00773a228g7" version="1">disabled</content>
+    <content contentuid="h678f8a2de87f4518a78941f413d1647dadd4" version="1">File</content>
+    <content contentuid="h91710e59527a41b9a290a7a8f3aa0cc14839" version="1">Settings</content>
+    <content contentuid="hbd5463e3dd6147d5bc9dc617d5a5e6ff696f" version="1">Info</content>
+    <content contentuid="h7bbe2ff752be4d1fb6d57a340c73a5dbee8c" version="1">Open/Close</content>
+    <content contentuid="h12e1698fdcdc4653b84c2e68ad51d93e12d6" version="1">Auto-resize</content>
+    <content contentuid="hcfda5719ad264af9ab9d2d423da11e95d24g" version="1">Host-only mode</content>
+    <content contentuid="h592451dabd9a402091c990e3f4a653482aeb" version="1">Advanced Settings...</content>
+    <content contentuid="h6d84bd60b2dd46b9881363b8c7b3c849c878" version="1">Spawner</content>
+    <content contentuid="ha6fb8a0b177c4d90a0f520ceae7657a2388a" version="1">Editor</content>
+    <content contentuid="h80351be74bfd4d1997aa33b6c5dedba6def9" version="1">Feather Fall</content>
+    <content contentuid="h684ac3d81f864ac6aa18e9cf67838107649e" version="1">Increased Carry is: On/Off</content>
+    <content contentuid="hfb588e8946764be99d51d3adc525d9f0bf3e" version="1">Increased Carry is:</content>
+    <content contentuid="hfa66c9ee8f25402494274a19f086001104b2" version="1">Toggling Increased Carry Capacity (global)</content>
+    <content contentuid="hf031074e6c684f6fbebd5a8f5bb815af4068" version="1">Toggle Carry Cheat</content>
+    <content contentuid="h48a6885e2e4d4a5d9d2d90227a3129baded9" version="1">Toggle Stay Clean</content>
+    <content contentuid="h0a19fae480d14e4e834b75362334d4773101" version="1">Now makes you drop a 10-ton debug brick to trigger encumbrance updates, enjoy!</content>
+    <content contentuid="h4410f638356446078b980fa17872256b0bd3" version="1">Toggling map fog (global):</content>
+    <content contentuid="h469b3065fd354d1d87bb6551247b34ae5fa8" version="1">Disable Map Fog:</content>
+    <content contentuid="h9dc06bc4a320467eadd824d44847f906b3e2" version="1">Deselect Column</content>
+    <content contentuid="h1aa34de0260e449e9a713c8847319bddbf1c" version="1">Select Column</content>
+    <content contentuid="h40f9c800691f4f398771fedf2607ff19c54d" version="1">Select Row</content>
+    <content contentuid="hae468dfe8b76446484b812a05c98ecf6b297" version="1">Deselect Row</content>
+</contentList>

@@ -1,0 +1,13 @@
+{
+    "SchemaVersion": 1,
+    "ModName": "EasyCheat",
+    "Tabs": [
+        {
+            "TabId": "easycheat-settings",
+            "TabName": "EasyCheat",
+            "Handles": {
+                "NameHandle": "h800b9246g5a14g410fgb504ga3a030393dd2"
+            }
+        }
+    ]
+}
