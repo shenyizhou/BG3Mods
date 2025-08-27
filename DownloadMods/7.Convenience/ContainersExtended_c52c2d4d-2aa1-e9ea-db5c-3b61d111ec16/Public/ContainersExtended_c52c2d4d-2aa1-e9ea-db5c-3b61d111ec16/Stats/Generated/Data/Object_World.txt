@@ -1,0 +1,140 @@
+new entry "OBJ_ContainersExtended_AdventuringTools_Grove"
+type "Object"
+using "OBJ_ContainersExtended_AdventuringTools"
+data "RootTemplate" "c37f6372-be2c-4a27-9d62-0cfe15e0dae0"
+
+new entry "OBJ_ContainersExtended_ArcheryWeaponsChest_Grove"
+type "Object"
+using "OBJ_ContainersExtended_ArcheryWeaponsChest"
+data "RootTemplate" "50fc1435-5a94-4d39-87e9-57d63285be52"
+
+new entry "OBJ_ContainersExtended_ArmorChest_Blacksmith"
+type "Object"
+using "OBJ_ContainersExtended_ArmorChest"
+data "RootTemplate" "105ab7aa-7725-47a3-8ee3-b9863048dd1e"
+
+new entry "OBJ_ContainersExtended_BagOfHolding_Nautiloid"
+type "Object"
+using "OBJ_ContainersExtended_BagOfHolding"
+data "RootTemplate" "8bd1f908-ff1a-4b8f-9448-a15ab9c838bf"
+
+new entry "OBJ_ContainersExtended_BagOfHolding_Vault"
+type "Object"
+using "OBJ_ContainersExtended_BagOfHolding"
+data "RootTemplate" "40f70d03-85d0-4f37-86d3-4f50f42c4032"
+
+new entry "OBJ_ContainersExtended_BookBag_Jergal"
+type "Object"
+using "OBJ_ContainersExtended_BookBag"
+data "RootTemplate" "cf42021a-d89e-4ecb-b434-4b34fb62b2d4"
+
+new entry "OBJ_ContainersExtended_CampSupplies_Pantry"
+type "Object"
+using "OBJ_Backpack_CampSupplies"
+data "RootTemplate" "ed3b1bde-f416-4ff7-a97a-b6cff37e93fa"
+
+new entry "OBJ_ContainersExtended_CloakBox_Tavern"
+type "Object"
+using "OBJ_ContainersExtended_CloakBox"
+data "RootTemplate" "926aeb80-711e-477c-b4e5-91967a10535b"
+
+new entry "OBJ_ContainersExtended_CoatingsCase_Thayan"
+type "Object"
+using "OBJ_ContainersExtended_CoatingsCase"
+data "RootTemplate" "6d80eeb9-638f-4bb4-b526-ec29c5aa1a0b"
+
+new entry "OBJ_ContainersExtended_CoinSack_Tollhouse"
+type "Object"
+using "OBJ_ContainersExtended_CoinSack"
+data "RootTemplate" "c2cfdacb-3eb8-4eba-8ea7-8727c37716a4"
+
+new entry "OBJ_ContainersExtended_Coffin_Thayan"
+type "Object"
+using "OBJ_ContainersExtended_Coffin"
+data "RootTemplate" "5b66f00f-4b0e-485e-be1c-ee653cea5c00"
+
+new entry "OBJ_ContainersExtended_DyeRack_Zhentarim"
+type "Object"
+using "OBJ_ContainersExtended_DyeRack"
+data "RootTemplate" "c0236570-9d44-4cd9-acaa-8c926c8fd3fc"
+
+new entry "OBJ_ContainersExtended_ExplosivesBarrel_GoblinCamp"
+type "Object"
+using "OBJ_ContainersExtended_ExplosivesBarrel"
+data "RootTemplate" "62f17379-c160-4c26-9d1e-88fa5e8a931a"
+
+new entry "OBJ_ContainersExtended_FootwearBox_Tavern"
+type "Object"
+using "OBJ_ContainersExtended_FootwearBox"
+data "RootTemplate" "7dcd339e-b798-429b-a774-93d60b43ed30"
+
+new entry "OBJ_ContainersExtended_GloveBox_Tavern"
+type "Object"
+using "OBJ_ContainersExtended_GloveBox"
+data "RootTemplate" "035cbe7d-914c-480b-ad34-ed86bf5143b8"
+
+new entry "OBJ_ContainersExtended_GrenadeContainer_GoblinCamp"
+type "Object"
+using "OBJ_ContainersExtended_GrenadeContainer"
+data "RootTemplate" "06f3aa65-bc54-4fc0-b2e6-1e42d77de9b2"
+
+new entry "OBJ_ContainersExtended_HeadwearBox_Tavern"
+type "Object"
+using "OBJ_ContainersExtended_HeadwearBox"
+data "RootTemplate" "45a17fac-6e5e-4408-918c-5a9e7f1538d4"
+
+new entry "OBJ_ContainersExtended_InstrumentsCase_Grove"
+type "Object"
+using "OBJ_ContainersExtended_InstrumentsCase"
+data "RootTemplate" "1ab2fe0b-fc68-4d4d-93f5-5f0f2b65c902"
+
+new entry "OBJ_ContainersExtended_JewelryBox_Tollhouse"
+type "Object"
+using "OBJ_ContainersExtended_JewelryBox"
+data "RootTemplate" "0dbf9a44-9a6d-478d-86bd-5a66a956efdb"
+
+new entry "OBJ_ContainersExtended_MeleeWeaponsChest_Blacksmith"
+type "Object"
+using "OBJ_ContainersExtended_MeleeWeaponsChest"
+data "RootTemplate" "ce2e74c5-bdc0-4406-97bb-f42d1b004db5"
+
+new entry "OBJ_ContainersExtended_PotionCase_Thayan"
+type "Object"
+using "OBJ_ContainersExtended_PotionCase"
+data "RootTemplate" "7ca1362b-4d37-457a-9ab4-cece4beb8900"
+
+new entry "OBJ_ContainersExtended_Quiver_Harpers"
+type "Object"
+using "OBJ_ContainersExtended_Quiver"
+data "RootTemplate" "a8cb5b99-dbcf-475d-b046-a568f6246fb0"
+
+new entry "OBJ_ContainersExtended_ScrollCase_Grove"
+type "Object"
+using "OBJ_ContainersExtended_ScrollCase"
+data "RootTemplate" "728c5544-83d6-4528-9901-c2a68d5f5950"
+
+
+new entry "OBJ_ContainersExtended_ShieldsChest_Grove"
+type "Object"
+using "OBJ_ContainersExtended_ShieldsChest"
+data "RootTemplate" "5a5d0e15-8ed5-4556-b8ce-071c07ee825f"
+
+new entry "OBJ_ContainersExtended_StoryItems_Jergal"
+type "Object"
+using "OBJ_ContainersExtended_StoryItems"
+data "RootTemplate" "54a8ff0f-b26b-4248-b48f-ea7423714c4a"
+
+new entry "OBJ_ContainersExtended_TeddyBear_Thieflings"
+type "Object"
+using "OBJ_ContainersExtended_TeddyBear"
+data "RootTemplate" "4af5ae53-7a6c-4a2d-a196-1b9c5efa00d1"
+
+new entry "OBJ_ContainersExtended_ThrownWeaponsChest_Moonhaven"
+type "Object"
+using "OBJ_ContainersExtended_ThrownWeaponsChest"
+data "RootTemplate" "4bb2b325-0426-4fe8-a686-e35fc3daf26a"
+
+new entry "OBJ_ContainersExtended_Wardrobe_Zhentarim"
+type "Object"
+using "OBJ_ContainersExtended_Wardrobe"
+data "RootTemplate" "46e716b6-edac-4286-87fe-02efe9bab661"
