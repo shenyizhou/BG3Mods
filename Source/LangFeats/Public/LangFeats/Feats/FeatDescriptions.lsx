@@ -19,8 +19,8 @@
                     <attribute id="UUID" type="guid" value="9237fa51-616b-4294-a7e2-9ddf57f54bfa"/>
                 </node>
                 <node id="FeatDescription">
-                    <attribute id="Description" type="TranslatedString" handle="h9a8b72a0gf46dg433ag9a02gf0785a95b7bc" version="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h4cbfeb20gf142g4c3bga4e6gcf9c4acb88e6" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="hf8bb6033g741cg4852g9b84g62e96b1fba44" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9a8b72a0gf46dg433ag9a02gf0785a95b7bc" version="1"/>
                     <attribute id="ExactMatch" type="FixedString" value="LangFeats_TiYunZong"/>
                     <attribute id="FeatId" type="guid" value="5fbd2575-6ac0-43b9-bc26-717accdbd1df"/>
                     <attribute id="UUID" type="guid" value="ac2ca0c4-cdf8-4237-ba14-d141b18155f7"/>
