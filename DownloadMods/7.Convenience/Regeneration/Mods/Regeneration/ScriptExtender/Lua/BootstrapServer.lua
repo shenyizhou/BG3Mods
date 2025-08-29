@@ -289,6 +289,7 @@ local function OnSessionLoaded()
         SorceryPoint = MCMGet("SorceryPoint"),
         TidesOfChaos = MCMGet("TidesOfChaos"),
         WarPriestActionPoint = MCMGet("WarPriestActionPoint"),
+        ActionSurge = MCMGet("ActionSurge"),
         Interrupt_LuckOfTheFarRealms_Charge = MCMGet("Interrupt_LuckOfTheFarRealms_Charge"),
         Interrupt_EntropicWard_Charge = MCMGet("Interrupt_EntropicWard_Charge"),
         LongRest = MCMGet("LongRest"),
