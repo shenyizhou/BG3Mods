@@ -1,0 +1,30 @@
+function SYR_AmountOfManeuversLessThan(amount)
+	amount = amount or 3
+	local numberOfManeuvers = 0
+	local maneuverPassives = {'CommanderStrike_Maneuver'
+	, 'DisarmingAttack'
+	, 'DistractingStrike'
+	, 'EvasiveFootwork'
+	, 'FeintingAttack'
+	, 'GoadingAttack'
+	, 'ManeuveringAttack'
+	, 'MenacingAttack'
+	, 'PrecisionAttack'
+	, 'PushingAttack'
+	, 'Rally'
+	, 'Riposte'
+	, 'SweepingAttack'
+	, 'TripAttack'
+	}
+	for i,maneuver in ipairs(maneuverPassives) do
+		if HasPassive(maneuver,context.Source).Result then
+			numberOfManeuvers = numberOfManeuvers + 1
+		end
+	end
+	return ConditionResult(numberOfManeuvers < amount)
+end
+
+function SYR_CrossbowEquipped()
+	local result = IsWeaponOfProficiencyGroup('LightCrossbows|HeavyCrossbows', GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand))
+	return ConditionResult(result.Result, {ConditionError("SYR_NotCrossbowEquipped")})
+end

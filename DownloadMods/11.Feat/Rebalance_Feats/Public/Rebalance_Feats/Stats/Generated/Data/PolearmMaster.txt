@@ -1,0 +1,32 @@
+//Bugfix + Tooltip changes + Works for Tridents
+new entry "PolearmMaster_AttackOfOpportunity"
+type "PassiveData"
+using "PolearmMaster_AttackOfOpportunity"
+data "Description" "haf72c5a7gb00eg4cabg8417g60fc6da8797f;1"
+data "ExtraDescription" "hf4bfc999g6831g4890ga856g6368b2e9a07a;1"
+
+new entry "PolearmMaster_BonusAttack"
+type "PassiveData"
+using "PolearmMaster_BonusAttack"
+data "Description" "h2c4696e3gbe84g4714g9bccgaf13630af23a;1"
+data "Conditions" "TurnBased() and ConditionResult(context.HitDescription.FirstAttack) and IsMeleeWeaponAttack() and (HasWeaponProperty(WeaponProperties.Reach, GetAttackWeapon(context.Source)) or Tagged('WPN_STAVE', GetAttackWeapon(context.Source)) or Tagged('WPN_SPEAR', GetAttackWeapon(context.Source)) or Tagged('WPN_TRIDENT', GetAttackWeapon(context.Source)))"
+
+new entry "Interrupt_PolearmMaster"
+type "InterruptData"
+using "Interrupt_PolearmMaster"
+data "ExtraDescription" "hf4bfc999g6831g4890ga856g6368b2e9a07a;1"
+data "Conditions" "IsAbleToReact(context.Observer) and not Self(context.Observer, context.Target) and (HasWeaponProperty(WeaponProperties.Reach, GetActiveWeapon(context.Source)) or Tagged('WPN_STAVE', GetActiveWeapon(context.Source, true)) or Tagged('WPN_SPEAR', GetActiveWeapon(context.Source, true)) or Tagged('WPN_TRIDENT', GetActiveWeapon(context.Source, true))) and Enemy() and not WieldingWeapon('Ammunition', false, false, context.Source) and not (not Player(context.Source) and Tagged('AI_IGNORED_TARGET') and not HasStatus('GNOLL_SUDDENRUSH')) and not HasStatus('SHOCKWAVE') and not (HasStatus('MOBILE_NO_AOO', context.Source) and HasStatus('MOBILE_NO_AOO_SOURCE', context.Target)) and not HasStatus('FLAMING_SPHERE_AURA') and not HasStatus('SNEAKING',context.Target) and not HasStatus('SG_Ignore_AOO',context.Target) and not AnyEntityIsItem()"
+data "Properties" "IF(not HasPassive('Sentinel_ZeroSpeed',context.Source)):UseAttack();IF(HasPassive('Sentinel_ZeroSpeed',context.Source)):UseSpell(Target_Sentinel_AttackOfOpportunity,true,true,true)"
+
+new entry "Target_Sentinel_AttackOfOpportunity"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Sentinel_AttackOfOpportunity"
+data "SpellSuccess" "Force(0.5);DealDamage(MainMeleeWeapon, MainMeleeWeaponDamageType);ExecuteWeaponFunctors(MainHand);ApplyStatus(SENTINEL,100,1)"
+
+new entry "Target_PolearmMaster_BonusAttack"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_PolearmMaster_BonusAttack"
+data "RequirementConditions" "(HasWeaponProperty(WeaponProperties.Reach, GetActiveWeapon(context.Source)) or Tagged('WPN_STAVE', GetActiveWeapon(context.Source, true)) or Tagged('WPN_SPEAR', GetActiveWeapon(context.Source, true)) or Tagged('WPN_TRIDENT', GetActiveWeapon(context.Source, true)))"
+data "RequirementEvents" "OnEquip;OnUnequip"

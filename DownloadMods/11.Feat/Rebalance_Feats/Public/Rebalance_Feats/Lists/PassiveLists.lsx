@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="PassiveLists">
+    <node id="root">
+      <children>
+        <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="SYR_Feat_MinimumStat_STR,SYR_Feat_MinimumStat_DEX,SYR_Feat_MinimumStat_CON,SYR_Feat_MinimumStat_INT,SYR_Feat_MinimumStat_WIS,SYR_Feat_MinimumStat_CHA" />
+                    <attribute id="UUID" type="guid" value="a096b5b1-fe8b-40c9-a15b-293466ea2e2c" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

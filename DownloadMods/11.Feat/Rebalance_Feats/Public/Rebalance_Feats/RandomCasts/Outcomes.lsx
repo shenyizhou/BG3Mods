@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="319"/>
+    <region id="Outcomes">
+        <node id="root">
+            <children>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="SYR_Performer_RandomSong"/>
+                    <attribute id="Spell" type="FixedString" value="SYR_Shout_Performer_Inspiring_Song"/>
+                    <attribute id="UUID" type="guid" value="670ee45d-1f6d-4a00-bef9-cdb0d7b8830f"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="SYR_Performer_RandomSong"/>
+                    <attribute id="Spell" type="FixedString" value="SYR_Shout_Performer_Commanding_Song"/>
+                    <attribute id="UUID" type="guid" value="c4edb84b-1d90-45b1-ba8b-de98884147dc"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="SYR_Performer_RandomSong"/>
+                    <attribute id="Spell" type="FixedString" value="SYR_Shout_Performer_Demoralizing_Song"/>
+                    <attribute id="UUID" type="guid" value="20ed0453-a710-4d97-a065-9e5dcf883868"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="SYR_Performer_RandomSong"/>
+                    <attribute id="Spell" type="FixedString" value="SYR_Shout_Performer_Lullaby"/>
+                    <attribute id="UUID" type="guid" value="253dec66-38b9-40e7-9a4f-bdeb3b576e01"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

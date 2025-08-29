@@ -18,6 +18,12 @@
         </node>
         <node id="Feat">
           <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+          <attribute id="Name" type="FixedString" value="LangFeats_JuRenTiPo"/>
+          <attribute id="PassivesAdded" type="LSString" value="LangFeats_JuRenTiPo"/>
+          <attribute id="UUID" type="guid" value="c7c01508-6840-4637-927c-db7c6dd323f3"/>
+        </node>
+        <node id="Feat">
+          <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
           <attribute id="Name" type="FixedString" value="LangFeats_TiYunZong"/>
           <attribute id="PassivesAdded" type="LSString" value="LangFeats_TiYunZong"/>
           <attribute id="UUID" type="guid" value="5fbd2575-6ac0-43b9-bc26-717accdbd1df"/>

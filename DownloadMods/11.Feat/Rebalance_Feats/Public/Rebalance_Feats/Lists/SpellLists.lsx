@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Magic Initiate Sorcerer 1" />
+                    <attribute id="Spells" type="LSString" value="Zone_BurningHands;Target_CharmPerson;Projectile_ChromaticOrb;Zone_ColorSpray;Shout_DisguiseSelf;Shout_ExpeditiousRetreat;Shout_FalseLife;Shout_FeatherFall;Target_FogCloud;Projectile_IceKnife;Target_Jump;Target_MageArmor;Projectile_MagicMissile;Projectile_RayOfSickness;Shout_SYR_Shield_MagicInitiate;Target_Sleep;Zone_Thunderwave;Projectile_WitchBolt" />
+                    <attribute id="UUID" type="guid" value="dfd4989f-7809-4126-b8a5-8dce9a7bcbac" />
+                </node>
+        <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Magic Initiate Wizard Level 1" />
+                    <attribute id="Spells" type="LSString" value="Zone_BurningHands;Target_CharmPerson;Projectile_ChromaticOrb;Zone_ColorSpray;Shout_DisguiseSelf;Shout_ExpeditiousRetreat;Shout_FalseLife;Shout_FeatherFall;Target_FindFamiliar;Target_FogCloud;Target_Grease;Projectile_IceKnife;Target_Jump;Target_Longstrider;Target_MageArmor;Projectile_MagicMissile;Target_ProtectionFromEvilAndGood;Projectile_RayOfSickness;Shout_SYR_Shield_MagicInitiate;Target_Sleep;Target_HideousLaughter;Zone_Thunderwave;Projectile_WitchBolt" />
+                    <attribute id="UUID" type="guid" value="4e8faab7-1b78-4dee-ac12-dae994efb643" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

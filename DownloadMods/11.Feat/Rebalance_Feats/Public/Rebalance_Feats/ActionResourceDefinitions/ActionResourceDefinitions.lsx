@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ActionResourceDefinitions">
+    <node id="root">
+      <children>
+        <node id="ActionResourceDefinition">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd0b68b10g55b4g4064ga6dagfee45a390979" version="1" />
+                    <attribute id="IsHidden" type="bool" value="true" />
+                    <attribute id="Name" type="FixedString" value="Interrupt_SYR_Shield_MagicInitiateCharge" />
+                    <attribute id="ReplenishType" type="FixedString" value="ShortRest" />
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="false" />
+                    <attribute id="UUID" type="guid" value="05b778fb-d97e-43fd-b5fc-ffb03258872f" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>
