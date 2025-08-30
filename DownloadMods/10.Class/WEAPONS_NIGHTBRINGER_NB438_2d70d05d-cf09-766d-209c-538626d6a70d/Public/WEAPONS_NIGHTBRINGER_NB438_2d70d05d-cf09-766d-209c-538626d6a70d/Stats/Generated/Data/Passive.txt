@@ -47,7 +47,7 @@ type "PassiveData"
 data "DisplayName" "hce54125fgc3bcgbfd4gf111g7af5bf544a37;2"
 data "Description" "hed4173bdgae47gc678g2433gfabb580a9b3d;2"
 data "Icon" "PassiveFeature_ImprovedCritical"
-data "Boosts" "ReduceCriticalAttackThreshold(1);IF(HasStatus('NIGHTMAREREALMCONDITION_NB438',context.Source):ReduceCriticalAttackThreshold(1);"
+data "Boosts" "ReduceCriticalAttackThreshold(1);IF(HasStatus('NIGHTMAREREALMCONDITION_NB438',context.Source)):ReduceCriticalAttackThreshold(1);"
 
 new entry "DebuffSpear_NB438"
 type "PassiveData"

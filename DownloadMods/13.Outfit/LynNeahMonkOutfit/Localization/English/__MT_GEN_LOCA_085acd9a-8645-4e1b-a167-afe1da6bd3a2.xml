@@ -1,14 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
-	<content contentuid="h6ec642f-13b9-4a24-bbd4-64c586c91e5d" version="1">Neah's Monk Outfit</content>
-	<content contentuid="h3c9320d-31ae-4bf4-86d3-0607a03f7fca" version="1">Description Placeholder</content>
-	<content contentuid="h2d07281-16ee-4bcd-b5d3-eced075d0760" version="1">Neah's Monk Outfit - UT</content>
-	<content contentuid="h08656ec-95cc-480c-9344-ef7a20c6e4d6" version="1">Description Placeholder</content>
-	<content contentuid="hf2f5bf4-4876-4dcf-bc3c-38f90d6e7634" version="1">Neah's Monk Gloves</content>
-	<content contentuid="h31b6b29-b1c0-4225-8054-3a0aa9fe9e6e" version="1">Description Placeholder</content>
-	<content contentuid="had51ce6-21bd-42f5-b732-8b7dd38b0ac0" version="1">Neah's Monk Pants</content>
-	<content contentuid="h864cbc0-93a4-4a0c-a7d7-c82a5b3ab687" version="1">Description Placeholder</content>
+	<content contentuid="h6ec642f-13b9-4a24-bbd4-64c586c91e5d" version="1">Shadow Walker Robe</content>
+	<content contentuid="h3c9320d-31ae-4bf4-86d3-0607a03f7fca" version="1">A sleek black garment that moves like shadow, granting fluid grace in combat.</content>
+	<content contentuid="h2d07281-16ee-4bcd-b5d3-eced075d0760" version="1">Shadow Walker Robe - UT</content>
+	<content contentuid="h08656ec-95cc-480c-9344-ef7a20c6e4d6" version="1">A sleek black garment that moves like shadow, granting fluid grace in combat.</content>
+	<content contentuid="hf2f5bf4-4876-4dcf-bc3c-38f90d6e7634" version="1">Yin-Yang Infinity Gloves</content>
+	<content contentuid="h31b6b29-b1c0-4225-8054-3a0aa9fe9e6e" version="1">One white-gold, one pure white. Channels opposing forces to transform strikes into piercing attacks.</content>
+	<content contentuid="had51ce6-21bd-42f5-b732-8b7dd38b0ac0" version="1">Taiji Cloud Pants</content>
+	<content contentuid="h864cbc0-93a4-4a0c-a7d7-c82a5b3ab687" version="1">White metal and fabric blend like flowing clouds. Allows seamless transition between armed and unarmed combat.</content>
 	<content contentuid="h8d1e31ccb8f34f7fb15a9093fa68fdacb29d" version="1">Neah's Chest</content>
-	<content contentuid="haed30b94986c4373bc366b614737be1f4g23" version="1">Contains Neah's Monk Outfit.</content>
+	<content contentuid="haed30b94986c4373bc366b614737be1f4g23" version="1">Contains Neah's martial arts equipment.</content>
 	<content contentuid="hffc70c1257b94a31bc4c0e8063af656c3557" version="1">by Lynia</content>
+	<content contentuid="ha59707f7g3d3bg4c0cga328gc7520c5d81b9" version="1">Piercing Strike</content>
+	<content contentuid="h7ed801dagfd13g49ebgb92cgb66ae7069985" version="1">Grants Piercing Strike ability when equipped.</content>
+	<content contentuid="h01dc3396g1179g4800ga4b5g733511940d6b" version="1">Piercing Strike: Toggle</content>
+	<content contentuid="h651ceed2g1f4fg4f08ga7e9g0a08244377cf" version="1">When active, your unarmed attacks deal piercing damage.</content>
+	<content contentuid="habb4c8abgadd9g424dg932cg1fac85e2fa0c" version="1">Unarmed Combat</content>
+	<content contentuid="hb424104cgfab2g4381ga2cbg4354ddc37108" version="1">When wielding a melee weapon, you can choose to attack with unarmed strikes instead of your weapon.</content>
 </contentList>
