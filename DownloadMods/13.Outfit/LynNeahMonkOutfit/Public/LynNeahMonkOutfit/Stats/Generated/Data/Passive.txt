@@ -10,7 +10,9 @@ new entry "MAG_Monk_Magic_Boots_Passive_Piercing"
 type "PassiveData"
 data "DisplayName" "h2ce5d001g5eafg44d4g9ca9g12e97b70cbdf;2"
 data "Description" "hd6237ab2g83f8g4830gb80fg16e86775258b;2"
-data "Boosts" "IF(IsMeleeUnarmedAttack() and not HasStatus('INT_ORPHEUSGUARDS_FAKECOMBAT') and HasStatus('PIERCING_STRIKE_ACTIVE')):CharacterUnarmedDamage(WisdomModifier,Piercing);IF(IsMeleeUnarmedAttack() and not HasStatus('INT_ORPHEUSGUARDS_FAKECOMBAT') and not HasStatus('PIERCING_STRIKE_ACTIVE')):CharacterUnarmedDamage(WisdomModifier)"
+// data "Boosts" "IF(IsMeleeUnarmedAttack() and not HasStatus('INT_ORPHEUSGUARDS_FAKECOMBAT') and HasStatus('PIERCING_STRIKE_ACTIVE')):CharacterUnarmedDamage(WisdomModifier,Piercing);IF(IsMeleeUnarmedAttack() and not HasStatus('INT_ORPHEUSGUARDS_FAKECOMBAT') and not HasStatus('PIERCING_STRIKE_ACTIVE')):CharacterUnarmedDamage(WisdomModifier)"
+data "Boosts" "IF(IsMeleeUnarmedAttack() and not HasStatus('INT_ORPHEUSGUARDS_FAKECOMBAT')):CharacterUnarmedDamage(WisdomModifier,Piercing)"
+
 
 new entry "MonkUnarmedToggle"
 type "PassiveData"

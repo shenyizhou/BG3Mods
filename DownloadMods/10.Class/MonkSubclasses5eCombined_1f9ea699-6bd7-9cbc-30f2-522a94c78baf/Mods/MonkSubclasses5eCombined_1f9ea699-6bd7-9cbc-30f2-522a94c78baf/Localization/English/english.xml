@@ -1,0 +1,276 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<content contentuid="h4dac3055g619bg4828g981eg0634fedf99ee" version="1">Way of the Ascendant Dragon</content>
+	<content contentuid="h84fa5eaegfd78g4c90gb68egb6fc8e99ec8d" version="1">The fundamental teaching of this tradition holds that by emulating dragons, a monk becomes a more integrated part of the world and its magic. By altering their spirit to resonate with draconic might, monks who follow this tradition augment their prowess in battle, bolster their allies, and can even soar through the air on draconic wings. But all this power is in service of a greater goal: achieving a spiritual unity with the essence of the Material Plane.</content>
+	<content contentuid="hcdc6ef09g213fg4599gb3f6ge97e1466a3f6" version="1">Draconic Presence</content>
+	<content contentuid="hc086d303g2145g47edgae57g44174fb7ab46" version="1">You can use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to gain &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on your next Intimidation or Persuasion &lt;LSTag Tooltip="AbilityCheck"&gt;check&lt;/LSTag&gt;. Once this feature results in a success, you can’t use it again until you finish a &lt;LSTag Tooltip="LongRest"&gt;long rest&lt;/LSTag&gt;.</content>
+	<content contentuid="hf5db8ce1ge2a7g43fagb2e0g554091f05a93" version="1">Monks following the Way of the Ascendant Dragon can channel draconic power to magnify their presence.</content>
+	<content contentuid="h7b4a6f92g4b7eg48abg8327g778c72a697d4" version="1">Draconic Strike</content>
+	<content contentuid="h47d3280dgcd9eg40c3gb4f2ga9331e34a0a0" version="1">You can change the damage type of your unarmed strikes to acid, cold, fire, lightning, or poison.</content>
+	<content contentuid="h0807d930g92c9g4bc7g88c0g7b045c558c9b" version="1">Change the damage type of your unarmed strike to acid, cold, fire, lightning, or poison.</content>
+	<content contentuid="hafa34bf5g88ffg427fga7b9gb406796f3e19" version="1">Dragon Disciple: Acid</content>
+	<content contentuid="h1a2e1affg8ae7g46beg8879g66649930793f" version="1">Dragon Disciple: Cold</content>
+	<content contentuid="h04ac09a7gb9f3g425fga319g945b0701e593" version="1">Dragon Disciple: Fire</content>
+	<content contentuid="haae5120bg5cf6g4517g8621g9a231a093e74" version="1">Dragon Disciple: Lightning</content>
+	<content contentuid="hec690789g89f6g4e51gb92cg28d766e4c56e" version="1">Dragon Disciple: Poison</content>
+	<content contentuid="h7a770c24g300eg4ab6g8202g448f50870dd1" version="1">Imbue your unarmed strikes and draconic abilities with the essence of a dragon's breath.</content>
+	<content contentuid="hdb3a8a10gaa5ag43afgaf35g9d32e74d9237" version="1">Imbue your unarmed strikes and draconic abilities with the essence of a dragon's breath.&lt;br&gt;&lt;br&gt;&lt;b&gt;Draconic Strike: &lt;/b&gt;Deal [1] damage with unarmed strikes.&lt;br&gt;&lt;br&gt;&lt;b&gt;Breath of the Dragon: &lt;/b&gt;Channel destructive waves of energy dealing [1] damage.</content>
+	<content contentuid="hf1ce06dfg0fd2g4110ga4f8g4bf623b2bac4" version="1">Breath of the Dragon</content>
+	<content contentuid="h46e3b79cgf695g4953g83f0gf9c56bf24180" version="1">You can replace one of your attacks with an exhalation of draconic energy in either a [1] cone or a [2] line that deals acid, cold, fire, lightning, or poison damage equal to 2 rolls of your &lt;LSTag Type="Passive" Tooltip="MartialArts_UnarmedDamage"&gt;Martial Arts&lt;/LSTag&gt; die.</content>
+	<content contentuid="h1f2d1925gaed5g4ffdg9b2fga2ea48367e0d" version="1">The damage increases to 3 rolls at level 11.</content>
+	<content contentuid="h62574107g1fa8g4d9ag9132g6562bd0ba360" version="1">Monks following the Way of the Ascendant Dragon can channel destructive waves of energy, like those created by the dragons they emulate.</content>
+	<content contentuid="h19873000g8327g424cg9d14g62e9bee2bfe1" version="1">Exhale a cone or line of draconic energy.</content>
+	<content contentuid="h7aade22agfc38g4152g8a39g4c7a6c9db16a" version="1">Exhale a cone of draconic energy, damaging creatures in its path.</content>
+	<content contentuid="hcdda6c6ag25bdg43ffgab2agb06cf854ab79" version="1">Exhale a line of draconic energy, damaging creatures in its path.</content>
+	<content contentuid="h46c21703g4c42g4bceg9e65g45bf11447bdd" version="1">Recharge Breath of the Dragon</content>
+	<content contentuid="hc0df258dgf5b0g4c87gb16dge26981b0b0f2" version="1">Spend &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;ki points&lt;/LSTag&gt; to gain a use of your Breath of the Dragon ability if you have no uses available.</content>
+	<content contentuid="h4075b505g8e19g469fg9960g4b14da6809e7" version="1">Only one of your attacks can be replaced with this ability.</content>
+	<content contentuid="h560c5f52g454ag4bcbga516g5f7bb81eb5fb" version="1">Wings Unfurled</content>
+	<content contentuid="hf59140d1g996eg4f72g89d3ga8c456b88502" version="1">When you use &lt;LSTag Type="Spell" Tooltip="Shout_Dash_StepOfTheWind"&gt;Step of the Wind: Dash&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="Shout_Disengage_StepOfTheWind"&gt;Step of the Wind: Disengage&lt;/LSTag&gt;, you gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;fly&lt;/LSTag&gt;.</content>
+	<content contentuid="h8421c4f7ga0aag4e92g95c0g62e7d73d5c93" version="1">Monks following the Way of the Ascendant Dragon can unfurl spectral draconic wings from their back.</content>
+	<content contentuid="h4d860309ga712g4570g824bg56ff351b0fb0" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You can use this ability a number of times equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;proficiency bonus&lt;/LSTag&gt;.</content>
+	<content contentuid="hd3734469g7edcg4b2cg9a4dgacf954a0a47e" version="1">Aspect of the Wyrm</content>
+	<content contentuid="h6de242c5gb487g4e66ga668g62fcf74919df" version="1">The power of a draconic spirit radiates from Monks who follow the Way of the Ascendant Dragon, warding their allies or inspiring fear in their enemies.</content>
+	<content contentuid="h2ae6b405gaf01g4069g870fgf58a3b78b6e7" version="1">You can create a [1] aura of draconic power that &lt;LSTag Type="Status" Tooltip="ASPECT_OF_THE_WYRM_FRIGHTENED"&gt;frightens&lt;/LSTag&gt; creatures or provides acid, cold, fire, lightning, or poison &lt;LSTag Tooltip="Resistant"&gt;resistance&lt;/LSTag&gt; to your allies.</content>
+	<content contentuid="h803881f1g4618g4c8egab2bg7f37214d7e7a" version="1">Imbue your unarmed strikes and draconic abilities with the essence of a dragon's breath.&lt;br&gt;&lt;br&gt;&lt;b&gt;Draconic Strike: &lt;/b&gt;Deal [1] damage with unarmed strikes.&lt;br&gt;&lt;br&gt;&lt;b&gt;Breath of the Dragon: &lt;/b&gt;Channel destructive waves of energy dealing [1] damage.&lt;br&gt;&lt;br&gt;&lt;b&gt;Aspect of the Wyrm: &lt;/b&gt;Grant [1] &lt;LSTag Tooltip="Resistant"&gt;resistance&lt;/LSTag&gt; to your allies with your resistance aura.</content>
+	<content contentuid="h8c0d0655g0be9g4da2ga1e3g30134d6bafe8" version="1">Aspect of the Wyrm: Frightful Presence</content>
+	<content contentuid="h38f1d39cgcdc1g47e3gbaf3g1881b7f3661c" version="1">Create a [1] aura of fear that you can activate to &lt;LSTag Type="Status" Tooltip="ASPECT_OF_THE_WYRM_FRIGHTENED"&gt;frighten&lt;/LSTag&gt; a creature.</content>
+	<content contentuid="h95d7a300g0958g4bb1g8346g2bed96a221b7" version="1">Must target yourself or a creature.</content>
+	<content contentuid="hd59399c8gf16bg4b08g8889g0ce1d28f7b2d" version="1">Entity has &lt;LSTag Tooltip="Disadvantage"&gt;disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AbilityCheck"&gt;ability checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="AttackRoll"&gt;attack rolls&lt;/LSTag&gt; while the source of its fear is in sight, and cannot move closer to the source of its fear.&lt;br&gt;&lt;br&gt;It may end the effect at the end of each of its turns with a successful Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;saving throw&lt;/LSTag&gt;.</content>
+	<content contentuid="hfb0574fbg6b60g4e1cga056gf59c390ba0b6" version="1">Frightful Presence</content>
+	<content contentuid="hfb77c82egfa5cg49c0g8a50gadf9717d3c5d" version="1">Emits a [1] radius aura of fear that can be activated to &lt;LSTag Type="Status" Tooltip="ASPECT_OF_THE_WYRM_FRIGHTENED"&gt;frighten&lt;/LSTag&gt; a creature in range.</content>
+	<content contentuid="h0ee69a4fg71ffg442dg9f38g664a6cf63c84" version="1">Activate Frightful Presence</content>
+	<content contentuid="h05ed6f2ag3070g465ag85a5g1a1bf6699b58" version="1">&lt;LSTag Type="Status" Tooltip="ASPECT_OF_THE_WYRM_FRIGHTENED"&gt;Frighten&lt;/LSTag&gt; a creature within your &lt;LSTag Type="Status" Tooltip="ASPECT_OF_THE_WYRM_AURA_FRIGHT"&gt;Frightful Presence&lt;/LSTag&gt; aura.</content>
+	<content contentuid="h7ba90951g7345g422eg98f3gd26a94b413a4" version="1">Aspect of the Wyrm: Resistance</content>
+	<content contentuid="h7d9dd20eg4656g4accgab3fg5895d67466c9" version="1">You and any nearby allies have &lt;LSTag Tooltip="Resistant"&gt;resistance&lt;/LSTag&gt; to [1].</content>
+	<content contentuid="h47e29fe3g6028g4bd0g8f28g07dc79c27dd0" version="1">Draconic Resistance</content>
+	<content contentuid="hfe2579a8g976bg4595gb948gf79618f91452" version="1">Affected entity is &lt;LSTag Tooltip="Resistant"&gt;resistant&lt;/LSTag&gt; to [1] damage.</content>
+	<content contentuid="hce4523dega8e8g41cfgaa71ge56fed01ecb9" version="1">Ascendant Aspect</content>
+	<content contentuid="h63123843g596dg446cg9acegf4402d5e77cd" version="1">You can spend &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;ki points&lt;/LSTag&gt; to augment your &lt;LSTag Type="Passive" Tooltip="BreathoftheDragon_AD"&gt;Breath of the Dragon&lt;/LSTag&gt; attacks, augmenting their shape and power, and your &lt;LSTag Type="Passive" Tooltip="AspectoftheWyrm"&gt;Aspect of the Wyrm&lt;/LSTag&gt; auras can damage nearby enemies when you activate them.</content>
+	<content contentuid="h1575c03bg3fcag49c6gb4cfg9dc2ccca9da6" version="1">Breath of the Dragon (Augmented)</content>
+	<content contentuid="h81a947a9g328fg4074gaa45gc5e4922ec319" version="1">Triples in range and deals an additional roll of your &lt;LSTag Type="Passive" Tooltip="MartialArts_UnarmedDamage"&gt;Martial Arts&lt;/LSTag&gt; die in damage.</content>
+	<content contentuid="h7d71f28aga1ccg42d6g9f6cgbc005904a793" version="1">Explosive Fury</content>
+	<content contentuid="ha527090bg3b03g4390g8e75g5139284ddd5e" version="1">Create and explosion of draconic fury, dealing [1] to enemies within [2].</content>
+	<content contentuid="h91bd67bdg6595g44d9g9d03g4376165ce3f7" version="1">Draconic Strike</content>
+	<content contentuid="hd4633f59g93e6g41c7gbc44g3ae39f66c158" version="1">Way of the Astral Self</content>
+	<content contentuid="h5110008dgb43cg4957gb5c6g59375175caa6" version="1">A monk who follows the Way of the Astral Self believes their body is an illusion. They see their ki as a representation of their true form, an astral self. This astral self has the capacity to be a force of order or disorder, with some monasteries training students to use their power to protect the weak and other instructing aspirants in how to manifest their true selves in service to the mighty.</content>
+	<content contentuid="h736e17b1g840ag4c41gbc67gaf59235b6ea8" version="1">Summon Astral Self</content>
+	<content contentuid="hd6314c63g42c0g45e6g8a5dgefa4357a9e71" version="1">Manifest portions of your Astral Self to gain powerful benefits.</content>
+	<content contentuid="h03ad7247g77b2g45ffg94d8g5250159138cf" version="1">Arms of the Astral Self</content>
+	<content contentuid="h5e67bb8dg6346g44f6gac3agccac8d10b0b0" version="1">Manifest the arms of your Astral Self, damaging enemies you can see within [1].</content>	
+	<content contentuid="h581286d1g74f8g4d8fga924g3579d90f58a4" version="1">Your Wisdom &lt;LSTag Tooltip="AbilityModifier"&gt;modifier&lt;/LSTag&gt; may be used for Strength &lt;LSTag Tooltip="AbilityCheck"&gt;checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;saving throws&lt;/LSTag&gt;, and you can attack with the Astral arms using Wisdom to deal force damage at increased range.</content>
+	<content contentuid="hac6692aage85bg42aegac4dg3bd48b9d54a1" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Your Astral Self vanishes if you become &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;incapacitated&lt;/LSTag&gt;.</content>
+	<content contentuid="hd57e00f1g51e1g4f81gb4ccgc97f759d3775" version="1">Can use their Wisdom &lt;LSTag Tooltip="AbilityModifier"&gt;modifier&lt;/LSTag&gt; to make Strength &lt;LSTag Tooltip="AbilityCheck"&gt;checks&lt;/LSTag&gt; and Strength &lt;LSTag Tooltip="SavingThrow"&gt;saving throws&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Can make unarmed attacks with increased range, dealing force damage.</content>
+	<content contentuid="hd2dc574ag4a69g4216g8903g9168d0f444d6" version="1">Attack with Astral Arms</content>
+	<content contentuid="h857fd151ge33fg43f0gb64eg89265181411b" version="1">Make unarmed strikes with your Astral arms, gaining 1.5m greater reach and dealing force damage.</content>
+	<content contentuid="h0e393f31g379bg46c0g87a6g5ca05ac5bdaa" version="1">Left Astral Arms Attack Range</content>	
+	<content contentuid="h34eb8ae2g6f2bg473eg94degbbda7f93b5c5" version="1">Target provokes an &lt;LSTag Tooltip="OpportunityAttack"&gt;opportunity attack&lt;/LSTag&gt; for moving out of reach.</content>	
+	<content contentuid="h5568d234g3cedg4cfdgb211gef606a42f050" version="1">Visage of the Astral Self</content>
+	<content contentuid="h4a8fc463g3449g4596gad5dg61de20b6d1f8" version="1">Manifest the visage of your Astral Self.</content>	
+	<content contentuid="h25fcdc1fgbbffg4255gbf04ge25db05f1799" version="1">See normally in darkness and gain &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on Insight and Intimidation &lt;LSTag Tooltip="AbilityCheck"&gt;checks&lt;/LSTag&gt;.</content>
+	<content contentuid="h06bda2d4g8760g44d9g99d8g8270575b0e22" version="1">Can see normally in darkness, both magical and non-magical, to a distance of [1].&lt;br&gt;&lt;br&gt;Has &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on Insight and Intimidation &lt;LSTag Tooltip="AbilityCheck"&gt;checks&lt;/LSTag&gt;.</content>
+	<content contentuid="hb47795a2g18ceg49c2gb97eg5823f99ba43e" version="1">Arms and Visage of the Astral Self</content>
+	<content contentuid="hcedb0919g3e62g4c5bg9eb1g326232ebde9d" version="1">Manifest the arms and visage of your Astral Self, damaging enemies you can see within [1].</content>	
+	<content contentuid="h3509fde5g1ab3g496cg9a8agbb262b94c96f" version="1">Your Wisdom &lt;LSTag Tooltip="AbilityModifier"&gt;modifier&lt;/LSTag&gt; may be used for Strength &lt;LSTag Tooltip="AbilityCheck"&gt;checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;saving throws&lt;/LSTag&gt;, and you can attack with the Astral arms using Wisdom to deal force damage at increased range.&lt;br&gt;&lt;br&gt;See normally in darkness and gain &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on Insight and Intimidation &lt;LSTag Tooltip="AbilityCheck"&gt;checks&lt;/LSTag&gt;.</content>
+	<content contentuid="h3b8ba2beg04dcg49d8g9fc9g47cbb14fba71" version="1">Can use their Wisdom &lt;LSTag Tooltip="AbilityModifier"&gt;modifier&lt;/LSTag&gt; to make Strength &lt;LSTag Tooltip="AbilityCheck"&gt;checks&lt;/LSTag&gt; and Strength &lt;LSTag Tooltip="SavingThrow"&gt;saving throws&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Can make unarmed attacks with increased range, dealing force damage.&lt;br&gt;&lt;br&gt;Can see normally in darkness, both magical and non-magical, to a distance of [1].&lt;br&gt;&lt;br&gt;Has &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on Insight and Intimidation &lt;LSTag Tooltip="AbilityCheck"&gt;checks&lt;/LSTag&gt;.</content>
+	<content contentuid="hb2a29c4cg84f6g42f4g8897g36e626feb603" version="1">Body of the Astral Self</content>
+	<content contentuid="h05b01fe8geccbg408ag8678g93c7a070636f" version="1">When you have both your Astral &lt;LSTag Type="Status" Tooltip="ASTRAL_SELF_ARMS"&gt;arms&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="ASTRAL_SELF_VISAGE"&gt;visage&lt;/LSTag&gt; summoned, the body of your Astral Self appears, granting additional benefits.</content>
+	<content contentuid="ha0bdeec6g2a15g4801gb9e7g60d7c1845ae0" version="1">Can use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to reduce elemental damage by [1].&lt;br&gt;&lt;br&gt;Once per turn, can deal an additional [2] when hitting with an Astral arm attack.</content>
+	<content contentuid="hcc6d9402gd9beg4cafga5e3g2dbe297845ca" version="1">Deflect Energy</content>
+	<content contentuid="h10c119d5g56b4g474bgb3b8g72e329341464" version="1">Reduce the damage from acid, cold, fire, force, lightning, or thunder by [1].</content>
+	<content contentuid="hfbbaf4a5g5892g4761g92dcgd5611c0d9d8d" version="1">Empowered Arms</content>
+	<content contentuid="he972cb18g8858g4fdcgb4eag2645d80841a6" version="1">Once per turn, when you hit a target with the Arms of the Astral Self, you can deal an additional [1].</content>
+	<content contentuid="hdbd23624g81b5g41b0g878fgf5c81ba65bbf" version="1">Arms, Visage, and Body of the Astral Self</content>
+	<content contentuid="h4f1d4103g6d7cg48e5g87b4ga2971538a2da" version="1">Can use their Wisdom &lt;LSTag Tooltip="AbilityModifier"&gt;modifier&lt;/LSTag&gt; to make Strength &lt;LSTag Tooltip="AbilityCheck"&gt;checks&lt;/LSTag&gt; and Strength &lt;LSTag Tooltip="SavingThrow"&gt;saving throws&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Can make unarmed attacks with increased range, dealing force damage.&lt;br&gt;&lt;br&gt;Can see normally in darkness, both magical and non-magical, to a distance of [1].&lt;br&gt;&lt;br&gt;Has &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on Insight and Intimidation &lt;LSTag Tooltip="AbilityCheck"&gt;checks&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Can use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to reduce elemental damage by [2].&lt;br&gt;&lt;br&gt;Once per turn, can deal an additional [3] when hitting with an Astral arm attack.</content>
+	<content contentuid="h0779d8c2g8231g4c7cg81deg0e7e13341d9d" version="1">Manifest the arms and visage of your Astral Self, damaging enemies you can see within [1]. The &lt;LSTag Type="Status" Tooltip="ASTRAL_SELF_BODY"&gt;body&lt;/LSTag&gt; of your Astral Self automatically appears.</content>	
+	<content contentuid="h246004cbg617dg403agb82bg69d865072908" version="1">Your Wisdom &lt;LSTag Tooltip="AbilityModifier"&gt;modifier&lt;/LSTag&gt; may be used for Strength &lt;LSTag Tooltip="AbilityCheck"&gt;checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;saving throws&lt;/LSTag&gt;, and you can attack with the Astral arms using Wisdom to deal force damage at increased range.&lt;br&gt;&lt;br&gt;See normally in darkness and gain &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on Insight and Intimidation &lt;LSTag Tooltip="AbilityCheck"&gt;checks&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Reduce incoming elemental damage as a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt;, and deal additional damage with Astral arm attacks once per turn.</content>
+	<content contentuid="he34611aeg51b1g4bb6ga54ag4f634f22a7fa" version="1">Awakened Astral Self</content>
+	<content contentuid="h9b90c0b1gc2d4g4bd6g99ebg424cc3608cf5" version="1">Manifest the arms, visage, and body of your Astral Self and awaken it, damaging enemies you can see within [1].</content>	
+	<content contentuid="h30b4070cg95c9g4286gbe2dg1f87fb609a31" version="1">Your Wisdom &lt;LSTag Tooltip="AbilityModifier"&gt;modifier&lt;/LSTag&gt; may be used for Strength &lt;LSTag Tooltip="AbilityCheck"&gt;checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;saving throws&lt;/LSTag&gt;, and you can attack with the Astral arms using Wisdom to deal force damage at increased range.&lt;br&gt;&lt;br&gt;See normally in darkness and gain &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on Insight and Intimidation &lt;LSTag Tooltip="AbilityCheck"&gt;checks&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Reduce incoming elemental damage as a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt;, and deal additional damage with Astral arm attacks once per turn.&lt;br&gt;&lt;br&gt;Increase your &lt;LSTag Tooltip="ArmourClass"&gt;AC&lt;/LSTag&gt; by 2, and make two additional attacks when you use the &lt;LSTag Type="Passive" Tooltip="ExtraAttack"&gt;extra attack&lt;/LSTag&gt; feature if all three attacks are made with your Astral arms.</content>
+	<content contentuid="h0b620620gc861g4a20g9e4fg04e50f4d7f9d" version="1">Can use their Wisdom &lt;LSTag Tooltip="AbilityModifier"&gt;modifier&lt;/LSTag&gt; to make Strength &lt;LSTag Tooltip="AbilityCheck"&gt;checks&lt;/LSTag&gt; and Strength &lt;LSTag Tooltip="SavingThrow"&gt;saving throws&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Can make unarmed attacks with increased range, dealing force damage.&lt;br&gt;&lt;br&gt;Can see normally in darkness, both magical and non-magical, to a distance of [1].&lt;br&gt;&lt;br&gt;Has &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on Insight and Intimidation &lt;LSTag Tooltip="AbilityCheck"&gt;checks&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Can use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to reduce elemental damage by [2].&lt;br&gt;&lt;br&gt;Once per turn, can deal an additional [3] when hitting with an Astral arm attack.&lt;br&gt;&lt;br&gt;Has increased &lt;LSTag Tooltip="ArmourClass"&gt;AC&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Can make additional Astral arm attacks.</content>
+	<content contentuid="h8c983bd1gd6b9g4141g9b38gd97e88b51c2e" version="1">Astral Barrage</content>
+	<content contentuid="h998519e2g2ddbg466fga79cgb196d1150065" version="1">May immediately make one additional attack with Astral arms.</content>
+	<content contentuid="h255b00dag752cg4915gaa32g2a23ec3bcafd" version="1">Change the damage type of your unarmed strike to force.</content>
+	<content contentuid="hf1830cd6g5773g402cga83dg25c81fdb4a36" version="1">Dismiss Astral Self</content>
+	<content contentuid="h8a5470f8g807fg4b97g9b7ag72a31f4bfff4" version="1">Dismiss all manifestations of your Astral Self.</content>
+	<content contentuid="h201c5e36g6e21g4644g879cgca7103245b31" version="1">Way of the Long Death</content>
+	<content contentuid="hda127bf6g0a06g4bf8ga8b0g375d884cf355" version="1">Monks of the Way of the Long Death are obsessed with the meaning and mechanics of dying. They capture creatures and prepare elaborate experiments to capture, record, and understand the moments of their demise. They then use this knowledge to guide their understanding of martial arts, yielding a deadly fighting style.</content>
+	<content contentuid="h00cffdb6gb129g4232gafd3gbf657530a804" version="1">Touch of Death</content>
+	<content contentuid="h968c95abgba71g4104g96c2gdab3c239c640" version="1">When you reduce a creature within [1] of you to 0 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, you gain [2].</content>
+	<content contentuid="h8aa3dd7bg8907g4b24gaca0gb27147bf436a" version="1">Hour of Reaping</content>
+	<content contentuid="h2f578095gb662g4839ga282g29879e6aa0a4" version="1">Creatures that can see you become &lt;LSTag Type="Status" Tooltip="HOUR_OF_REAPING_FRIGHTENED"&gt;frightened&lt;/LSTag&gt;: they have &lt;LSTag Tooltip="Disadvantage"&gt;disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AbilityCheck"&gt;ability checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="AttackRoll"&gt;attack rolls&lt;/LSTag&gt;, and cannot move closer to you.</content>
+	<content contentuid="h7b2d25b7gab97g43b8g84a5g98cb09685c7f" version="1">Frightened</content>
+	<content contentuid="h151e2c66g6aa8g43f0gbbb6g7c9df1f96b63" version="1">Cannot move closer to the source of its fear. Frightened entities also have &lt;LSTag Tooltip="Disadvantage"&gt;disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AbilityCheck"&gt;ability checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="AttackRoll"&gt;attack rolls&lt;/LSTag&gt;.</content>
+	<content contentuid="h5539db5fgc86eg4f1bga072gc832ae312a9a" version="1">Mastery of Death</content>
+	<content contentuid="h52922e91ge54cg43b3gbdabg434577d396ff" version="1">If you drop to [1] &lt;LSTag Tooltip="HitPoints"&gt;hit point&lt;/LSTag&gt; while having an available &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;ki point&lt;/LSTag&gt;, you regain [2] instead of being &lt;LSTag Type="Status" Tooltip="DOWNED"&gt;downed&lt;/LSTag&gt;.</content>
+	<content contentuid="h5552bbbega0a3g431aga872g79d7eb137e1d" version="1">Touch of the Long Death</content>
+	<content contentuid="h3128e91dg91f8g40e0gbf1bg8db830a6a96a" version="1">Channel the energy of death into a creature you touch. Damage increases with the number of &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;ki points&lt;/LSTag&gt; you spend.</content>
+	<content contentuid="h94722ca2g021ag4395g9f7fg6b52d335139f" version="1">Way of Mercy</content>
+	<content contentuid="hb04ff1edg15f4g47b8ga4c4g0e17df056709" version="1">Monks of the Way of Mercy learn to manipulate the life force of others to bring aid to those in need. They are wandering physicians to the poor and hurt. However, to those beyond their help, they bring a swift end as an act of mercy.</content>
+	<content contentuid="h10f13ac2gb6c9g46e4gafa3g28f771bbb661" version="1">Flurry of Blows: Single Target</content>
+	<content contentuid="hf19169c8gd6bag42e7gbe48g92424973cf0b" version="1">Punch twice against a single target in quick succession.</content>
+	<content contentuid="h88093f9cg7bcbg445dg928fg37f4d0c15ef6" version="1">Flurry of Blows: Multi Target</content>
+	<content contentuid="he2164820ge1b0g4c98ga40egee448c406ab5" version="1">Punch in sequence against up to two targets.</content>
+	<content contentuid="h0aa6fbd6g506bg4867gafdbg8855b4fd637c" version="1">Flurry of Blows Followup</content>
+	<content contentuid="he882f6bfg2d32g4cccg958aga594d4b11689" version="1">May make an additional strike as part of &lt;LSTag Type="Spell" Tooltip="Target_FlurryOfBlows"&gt;Flurry of Blows&lt;/LSTag&gt;.</content>
+	<content contentuid="hcb5510beg88e6g492eg8af4g592d7d29fb39" version="1">Hands of Healing</content>
+	<content contentuid="h09339aa0ga91ag4635gaf2bg091a1d789690" version="1">The mystical touch from a Monk of the Way of Mercy can mend wounds.</content>
+	<content contentuid="hfef3d2cdg5941g4007g8644g37428fd5456a" version="1">Flurry of Healing: Multi Target</content>
+	<content contentuid="h319d3a24gbb3dg4fa9ga05dg019fe4f8f5e3" version="1">Quickly touch and heal a creature.</content>
+	<content contentuid="h24f03f1bgff6dg4f2agab55g5a4ad804d8fa" version="1">Hands of Harm</content>
+	<content contentuid="hb5986b64g329cg45b9gb2a5g33c480b45a5d" version="1">The mystical touch from a Monk of the Way of Mercy can inflict wounds.</content>
+	<content contentuid="h53956abcgc521g45adga804g911a1a34d93b" version="1">Once per turn when you hit a creature with an unarmed strike, you can deal [1].</content>
+	<content contentuid="h8c8c8a00ga774g43b5g8de6g0373c3c2d51f" version="1">Deal [1] to a creature hit by your unarmed strike.</content>
+	<content contentuid="hc531e30agc255g41a6g828bg5b008b907d99" version="1">Physician's Touch</content>
+	<content contentuid="h1ad65797g8a2cg4649g8e01g3aa04d4b0e41" version="1">You can end the effects of negative conditions when you use your &lt;LSTag Type="Spell" Tooltip="Target_HandsofHealing"&gt;Hands of Healing&lt;/LSTag&gt;.</content>
+	<content contentuid="h990ec0f3g5fdeg4c23g83d5gdf936ebf7d29" version="1">Physician's Touch: Harm</content>
+	<content contentuid="h81ce25fagbfc0g4648ga32eg65ea8f4d7949" version="1">&lt;LSTag Type="Status" Tooltip="POISONED"&gt;Poison&lt;/LSTag&gt; the target of your &lt;LSTag Type="Passive" Tooltip="HandsofHarmUnlock"&gt;Hands of Harm&lt;/LSTag&gt;.</content>
+	<content contentuid="h3e84ac03g7a72g4c8cgb2efg3f29c50c2e1f" version="1">Physician's Touch: Heal</content>
+	<content contentuid="h30beb009g2d73g4012g8a09gf9af5c3fb4e1" version="1">Physician's Touch: Heal Disease</content>
+	<content contentuid="hcb8eb550gf597g4a36g87eaga031abb84add" version="1">Cure a creature healed by your &lt;LSTag Type="Spell" Tooltip="Target_HandsofHealing"&gt;Hands of Healing&lt;/LSTag&gt; of all diseases.</content>
+	<content contentuid="hbbf26c02gb14dg426dga379g891575048d06" version="1">Physician's Touch: Heal Blindness</content>
+	<content contentuid="hc4c667e5g34b1g44b7ga7f6gf317b6869a8d" version="1">Cure a creature healed by your &lt;LSTag Type="Spell" Tooltip="Target_HandsofHealing"&gt;Hands of Healing&lt;/LSTag&gt; of blindness.</content>
+	<content contentuid="hc1e9e4fcg661cg4157g8bb0g5fec77beb6eb" version="1">Physician's Touch: Heal Paralysis</content>
+	<content contentuid="h14aee5e4gd880g4c64ga58fg1f61d60aca84" version="1">Cure a creature healed by your &lt;LSTag Type="Spell" Tooltip="Target_HandsofHealing"&gt;Hands of Healing&lt;/LSTag&gt; of paralysis.</content>
+	<content contentuid="hf9981555ga6bdg492ag8ef8g44f8646fb33d" version="1">Physician's Touch: Heal Poison</content>
+	<content contentuid="h19215efdg9105g49ddg9977gf2d91ed4007d" version="1">Cure a creature healed by your &lt;LSTag Type="Spell" Tooltip="Target_HandsofHealing"&gt;Hands of Healing&lt;/LSTag&gt; of all poisons.</content>
+	<content contentuid="h061ae023gf28cg405eg878egcdf136ac787a" version="1">Physician's Touch: Heal Stun</content>
+	<content contentuid="h19dd62fbgfefdg4e3cg8a21gb3088a3d4a73" version="1">Cure a creature healed by your &lt;LSTag Type="Spell" Tooltip="Target_HandsofHealing"&gt;Hands of Healing&lt;/LSTag&gt; of stun.</content>
+	<content contentuid="ha28a8a2cg2315g40a4gbbd0g47b7d650e93f" version="1">Flurry of Healing and Harm</content>
+	<content contentuid="h0a942ca3g5f65g4a90gb48ag9cd28da3b3c8" version="1">Your &lt;LSTag Type="Spell" Tooltip="Target_HandsofHealing"&gt;Hands of Healing&lt;/LSTag&gt; ability may be made in place of both strikes when you use &lt;LSTag Type="Spell" Tooltip="Target_FlurryOfBlows"&gt;Flurry of Blows&lt;/LSTag&gt;, and &lt;LSTag Type="Passive" Tooltip="HandsofHarmUnlock"&gt;Hands of Harm&lt;/LSTag&gt; does not cost additional &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki&lt;/LSTag&gt; when used as part of a Flurry of Blows attack.</content>
+	<content contentuid="h666a7052g4b37g44c1g80a2gec549c399a00" version="1">Hands of Harm: Flurry</content>
+	<content contentuid="h2a39d863gb250g494fg9f99g80ffaa5d0d4d" version="1">Deal [1] to a creature hit by your unarmed strike as part of &lt;LSTag Type="Spell" Tooltip="Target_FlurryOfBlows"&gt;Flurry of Blows&lt;/LSTag&gt;.</content>
+	<content contentuid="h640b80c9gd5ecg46d2gaa9cg989883a991f3" version="1">Flurry of Healing: Single Target</content>
+	<content contentuid="h0ba8949cg8073g4974gaa69gbb029838b413" version="1">Touch and heal a creature twice in quick succession.</content>
+	<content contentuid="h53e96fdagc69bg41f7ga30bgb541444f2fb4" version="1">Hand of Ultimate Mercy</content>
+	<content contentuid="hd13150e4g721ag446cg9641gcceb45544a98" version="1">Those that follow the Way of Mercy have a mastery of life energy that opens the door to the ultimate mercy.</content>
+	<content contentuid="h0cd095efg9738g4cd4g8789g1a3bfddb861b" version="1">Revive a creature. They return to life with [1] plus [2] and cured of blindness, paralysis, poisoning, and stun.</content>
+	<content contentuid="h46473ff4g250dg41eegb6a4g1d0d060e0e65" version="1">Way of the Sun Soul</content>
+	<content contentuid="h882950c8g8147g425fgb1fbga63a92f70c90" version="1">Monks of the Way of the Sun Soul learn to channel their own life energy into searing bolts of light. They teach that meditation can unlock the ability to unleash the indomitable light shed by the soul of every living creature.</content>
+	<content contentuid="h9d009ac9gc179g4246gb274gd28050e8a31d" version="1">Radiant Sun Bolt</content>
+	<content contentuid="hcd6780d2g8a41g45d7g9492g7e58a490922e" version="1">Hurl a searing bolt of magical radiance.</content>
+	<content contentuid="h70d6187age2afg4f42gb188gead592887721" version="1">When you use this attack as part of your Attack action on your turn, you may spend 1 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;ki point&lt;/LSTag&gt; to attack twice with it as a &lt;LSTag Tooltip="Bonus_Action"&gt;bonus action&lt;/LSTag&gt;.</content>
+	<content contentuid="h1adfbddeg54e8g4c2bgb987gaac4f9f83b61" version="1">Radiant Sun Bolt Bonus Attack</content>
+	<content contentuid="h26a59da6g7c07g4420gb622g5b609f3534f7" version="1">Radiant Sun Bolt Bonus Attack 1</content>
+	<content contentuid="h1fe91493g8211g4fc1g958cg7b36194136d5" version="1">Radiant Sun Bolt Bonus Attack 2</content>
+	<content contentuid="h41303b91g9bcfg47eegb964g3112a8d8923d" version="1">You must have attacked with &lt;LSTag Type="Spell" Tooltip="Projectile_RadiantSunBolt"&gt;Radiant Sun Bolt&lt;/LSTag&gt; previously.</content>
+	<content contentuid="h1fcf4836gac9eg4ab1ga324g44ee696a5068" version="1">Searing Arc Strike</content>
+	<content contentuid="h3c7bc795g3416g43e3ga31eg471193fca79c" version="1">Each flammable target is hit with fire damage based on the amount of &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;ki points&lt;/LSTag&gt; you spend.</content>
+	<content contentuid="hdf6b5ce6g7747g43a9ga6fcg4686e46d428f" version="1">Deals an additional [1] per additional &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;ki point&lt;/LSTag&gt;, to a maximum of [2].</content>
+	<content contentuid="h7a13ff36g2c34g4c98g8144gdfc60d703e7a" version="1">Searing Sunburst</content>
+	<content contentuid="h4cd774e0g634dg4e56ga53eg432d628b96f1" version="1">Hurl an orb of light that erupts into a devastating explosion that increases in damage based on the amount of &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;ki points&lt;/LSTag&gt; you spend.</content>
+	<content contentuid="h685952f7gc47ag4487g9140gcae9dacb58aa" version="1">Hurl an orb of light that erupts into a devastating explosion dealing [1] to all targets.</content>
+	<content contentuid="hcc647d80gf2acg4c8fg9d82gea37fafc13c3" version="1">You must have taken the Attack action previously.</content>
+	<content contentuid="h4b648b9ag76b1g41beg8df9gf8f68aece3b7" version="1">Sun Shield</content>
+	<content contentuid="hce0b5a55g5518g4805g8e91g439522304759" version="1">Become wreathed in, or extinguish, a magical aura that shines light to a radius of [1] and can damage creatures that make melee attacks against you.</content>
+	<content contentuid="he3b24c0dgfecbg4529g8a69g651213d52da6" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Using this ability while the aura is already active will extinguish it.</content>
+	<content contentuid="h34f1a40dgcc82g461dgbac9g71bb965115cf" version="1">Has an aura of light with a radius of [1].</content>
+	<content contentuid="hcc0a2ba4ge907g4b63gb148g752d331e4cc0" version="1">React to your attacker with radiant light that deals [1].</content>
+	<content contentuid="h6cff610eg32e4g4272gb110ge0d0fe70f311" version="1">Way of the Drunken Master</content>
+	<content contentuid="h4ebc3f30g332eg4ed6gae8ag3a066e1c4d8c" version="1">The Way of the Drunken Master teaches its students to move with the jerky, unpredictable movements of a drunkard. A drunken master sways, tottering on unsteady feet, to present what seems like an incompetent combatant who proves frustrating to engage. The drunken master’s erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats.</content>
+	<content contentuid="hcec5ac8eg8c72g4b25g8150gae55fc3e8817" version="1">May make an additional attack as part of &lt;LSTag Type="Spell" Tooltip="Target_FlurryOfBlows"&gt;Flurry of Blows&lt;/LSTag&gt;.</content>
+	<content contentuid="h735aaa19ge84cg4c32gbfd8g64c27bce0df8" version="1">Drunken Technique</content>
+	<content contentuid="h9d976fefg5170g431dgb88eg708f3a19300f" version="1">Your speed increases by [1] and you gain the benefit of the &lt;LSTag Type="Status" Tooltip="DISENGAGE"&gt;disengage&lt;/LSTag&gt; action when you use &lt;LSTag Type="Spell" Tooltip="Target_FlurryOfBlows"&gt;Flurry of Blows&lt;/LSTag&gt;.</content>
+	<content contentuid="h40b1ec12g65e6g4083ga597gfd30553d2e11" version="1">Can move without provoking &lt;LSTag Tooltip="OpportunityAttack"&gt;ppportunity attacks&lt;/LSTag&gt; and has increased movement speed.</content>
+	<content contentuid="h263bea76gee26g48e3gafcagb6963cafa6d9" version="1">Drunken Master Style</content>
+	<content contentuid="hb01517fegb81bg4526gb79dgfffc86dad2c9" version="1">A drunken master often enjoys playing the fool to bring gladness to the despondent or to demonstrate humility to the arrogant, but when battle is joined, the drunken master can be a maddening, masterful foe.</content>
+	<content contentuid="hbdb302f7ga5b9g4d18g93feg5d14f459921f" version="1">Tipsy Sway: Leap to Your Feet</content>
+	<content contentuid="hde6f0704g49b1g4f20g8baeg23e8fde70a65" version="1">Standing up while &lt;LSTag Type="Status" Tooltip="PRONE"&gt;prone&lt;/LSTag&gt; costs [1] of movement.</content>
+	<content contentuid="he0aa0369g6736g4001gbc04gd81b0dfa179e" version="1">Tipsy Sway: Redirect Attack</content>
+	<content contentuid="h23801092ga366g4b67ga673g922b037a7e36" version="1">When a creature misses you with a melee attack roll, you can cause the attack to hit a random creature you can see within [1].</content>
+	<content contentuid="h6fab9762g04a3g4118g8c6dgec974d01c807" version="1">Cause a missed melee attack roll targeting you to hit a random creature you can see within [1].</content>
+	<content contentuid="h5034949dgb21eg4eecg8661ge4bb5b206402" version="1">Drunkard's Luck</content>
+	<content contentuid="h9b9b0b13g6d9fg4073ga953gaac02131bbbd" version="1">You can give yourself &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on an &lt;LSTag Tooltip="AbilityCheck"&gt;ability check&lt;/LSTag&gt;.</content>
+	<content contentuid="h23d28c93g0bb5g4588ga371g7a0e7b1c34d4" version="1">When you make an &lt;LSTag Tooltip="AttackRoll"&gt;attack roll&lt;/LSTag&gt; or &lt;LSTag Tooltip="SavingThrow"&gt;saving throw&lt;/LSTag&gt; at &lt;LSTag Tooltip="Disadvantage"&gt;disadvantage&lt;/LSTag&gt;, you can give yourself &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt;.</content>
+	<content contentuid="h553c4f1bg4616g4de0gba02g13eb18c833a3" version="1">Give yourself &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on an &lt;LSTag Tooltip="AttackRoll"&gt;attack roll&lt;/LSTag&gt; or &lt;LSTag Tooltip="SavingThrow"&gt;saving throw&lt;/LSTag&gt; that you make at &lt;LSTag Tooltip="Disadvantage"&gt;disadvantage&lt;/LSTag&gt;.</content>
+	<content contentuid="hb08c1632g859cg4984g8a7dg13580804ddbb" version="1">Punch in sequence against up to five different creatures.</content>
+	<content contentuid="hafc993e9g9f88g4bfbga3f0g57c88331a595" version="1">Must be a new target.</content>
+	<content contentuid="h32accfa6gc3acg4ba3ga353g576ed5fec18a" version="1">Must be a creature.</content>
+	<content contentuid="h6c22cd9cg4804g4d5agbcbcgaf988c8f7fe3" version="1">Flurry of Blows: Cancel</content>
+	<content contentuid="h92f7acbcg5128g42e9g9cb2g4a05642c0a58" version="1">End the sequence of attacks in your &lt;LSTag Type="Spell" Tooltip="Target_FlurryOfBlows"&gt;Flurry of Blows&lt;/LSTag&gt;.</content>
+	<content contentuid="hb1b1331cg8dfbg4ca0gb99fg59349d3cb023" version="1">Flurry of Blows: Group</content>
+	<content contentuid="h380a00c3g6e7ag4123g8517g4018edc776df" version="1">Strike a group of up to five creatures in quick succession.</content>
+	<content contentuid="hb29b2e77gb4bcg4651g8720ge88faad2521c" version="1">Tipsy Sway: Dodge</content>
+	<content contentuid="h3a0147e6g12e0g42ccgb04bg50308c4e9700" version="1">Move in a sudden, swaying way when a melee attack roll misses you, allowing it to hit a random creature you can see within [1].</content>
+	<content contentuid="h0be62eaegb938g42c8gb6eag82c7ddba6570" version="1">Way of the Kensei</content>
+	<content contentuid="h3aeedbc5g4aa3g49bagaed2ga7456ccd2bfd" version="1">Monks of the Way of the Kensei train relentlessly with their weapons, to the point that the weapon becomes like an extension of the body. Founded on a mastery of sword fighting, the tradition has expanded to include many different weapons.</content>
+	<content contentuid="heca1a736g8650g45dbg86ecgb2ac7e5defc3" version="1">Unarmed Melee Attacks</content>
+	<content contentuid="h4357a0f8g9fe2g4d91g9944g120de9206854" version="1">Attack with an &lt;LSTag Type="Spell" Tooltip="Target_UnarmedAttack"&gt;unarmed strike&lt;/LSTag&gt; while you are holding a melee weapon.</content>
+	<content contentuid="h8d2e589bg4676g4c7bg8a89g7db6296b9b58" version="1">Hit a target with a part of your body while you are wielding a melee weapon.</content>
+	<content contentuid="h34d98632g7affg4b82g9480g692aee823752" version="1">Hit a target with a part of your body while you are wielding a &lt;LSTag Type="Status" Tooltip="KENSEI_WEAPON_EQUIPPED"&gt;kensei weapon&lt;/LSTag&gt;.</content>
+	<content contentuid="h7fbec323g5f7eg493fg9929g0685df0277df" version="1">Kensei Weapons</content>
+	<content contentuid="hb904d7d1g3d8fg460dgaf52g7b5721e2e623" version="1">Your special martial arts training leads you to master the use of certain weapons. Weapons of the chosen types count as monk weapons for you.</content>
+	<content contentuid="h1175b9f7g9a9bg48b9g83e4gb129a715d528" version="1">Your special martial arts training leads you to master the use of certain melee weapons. Weapons of the chosen types count as monk weapons for you.</content>
+	<content contentuid="h7d9c04dcgc5e4g413eg9534gd7b17a2aea28" version="1">Your special martial arts training leads you to master the use of certain ranged weapons. Weapons of the chosen types count as monk weapons for you.</content>
+	<content contentuid="h6589d1a8gb83ag4c8dgb5ebgb0297814a1e6" version="1">Must be wielding a kensei weapon.</content>
+	<content contentuid="ha5f77951ge788g4d11g9713g5918895857bc" version="1">Must be wielding a melee kensei weapon.</content>
+	<content contentuid="hcc36c99dge89eg460aga685g98acdc9e7765" version="1">Must be wielding a ranged kensei weapon.</content>
+	<content contentuid="h3a484f85g9b8fg44b5ga9a0gf47697f0e6a6" version="1">Kensei Weapon: Battleaxes</content>
+	<content contentuid="h919836e1g2af6g4d18g9d6eg07b652212335" version="1">Kensei Weapon: Clubs</content>
+	<content contentuid="h824ed059g2521g4a65ga985gd88eaeef54d5" version="1">Kensei Weapon: Daggers</content>
+	<content contentuid="h857c141dg8fd3g4ec1g914fg56565c903c15" version="1">Kensei Weapon: Flails</content>
+	<content contentuid="hc1be6d51ge786g4b83g8d7dg130fbd21ee2f" version="1">Kensei Weapon: Greatclubs</content>
+	<content contentuid="ha278c083g9c41g4b30gb5e0gb9b0b5fe75da" version="1">Kensei Weapon: Handaxes</content>
+	<content contentuid="h1136a668g7f5fg433egb5dag18d1466aa216" version="1">Kensei Weapon: Javelins</content>
+	<content contentuid="h5cd0112egf942g41b4g936bg7728332893f8" version="1">Kensei Weapon: Light Hammers</content>
+	<content contentuid="hb3b1cbbbg3105g4c38g9f01ge08b927c231b" version="1">Kensei Weapon: Longswords</content>
+	<content contentuid="hc3a09df1g2223g4a30gb2f5gbab197b03cf5" version="1">Kensei Weapon: Maces</content>
+	<content contentuid="hccb8c5cag9968g4e47gb0edgdbd07a03a024" version="1">Kensei Weapon: Morningstars</content>
+	<content contentuid="h67154a10gd1dfg4a2dg9706g3c7e856ddce8" version="1">Kensei Weapon: Quarterstaves</content>
+	<content contentuid="hd09ed998gc79eg4707gac35gb6c3405370af" version="1">Kensei Weapon: Rapiers</content>
+	<content contentuid="h3afa0be7gfa2dg40ebg9cd1g519e616abc8b" version="1">Kensei Weapon: Scimitars</content>
+	<content contentuid="h99b130c2g5cc7g4020ga08fgf349b9b5a5dc" version="1">Kensei Weapon: Shortswords</content>
+	<content contentuid="ha40712c9g000cg4353gaea4g4cbba8812dfc" version="1">Kensei Weapon: Sickels</content>
+	<content contentuid="h95789406g517bg4833gae28gc1a005db8a3f" version="1">Kensei Weapon: Spears</content>
+	<content contentuid="h1bb0befegf76eg4c3fga30bge18ba0425305" version="1">Kensei Weapon: Tridents</content>
+	<content contentuid="h6f6a6621g22d4g4371g9a9dg22f76b4c7b76" version="1">Kensei Weapon: Warhammers</content>
+	<content contentuid="hfb95e82eg9c5cg40c3g8667gab2384f81ee9" version="1">Kensei Weapon: Warpicks</content>
+	<content contentuid="h70892061g895bg430fga5cfg5a420b1b3b5e" version="1">Kensei Weapon: Darts</content>
+	<content contentuid="hb9566163gd2e0g44ccgbb3ag69e7872bfeaf" version="1">Kensei Weapon: Hand Crossbows</content>
+	<content contentuid="hae052e7cgad92g428agb7dfgb0956cb83b22" version="1">Kensei Weapon: Light Crossbows</content>
+	<content contentuid="h1dee6078g719ag4f3bg8ec7gf76f9565336a" version="1">Kensei Weapon: Longbows</content>
+	<content contentuid="h249f2d7dg9206g4910gb1d3gd859f28620fc" version="1">Kensei Weapon: Shortbows</content>
+	<content contentuid="h83c7696cgb076g40b6g8560g70663afe1a78" version="1">Kensei Weapon: Slings</content>
+	<content contentuid="hc0ee7ce1g990dg42ddga669gfef5b77ddd65" version="1">You have &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; with weapons of the chosen type. In addition, they count as a &lt;LSTag Tooltip="MonkWeapon"&gt;monk weapons&lt;/LSTag&gt; for you and may be used with any abilities that require a kensei weapon.</content>
+	<content contentuid="h085ee780gcfe1g4889ga0e3gd597c762ca29" version="1">Wielding Kensei Weapon</content>
+	<content contentuid="h3a79d068g21b4g4b5agb61ag7c2ac7e6e4c6" version="1">Can use abilities that require kensei weapons.</content>
+	<content contentuid="h1ea5aa3fgd141g4512g96f9g014920ad9409" version="1">Way of the Brush</content>
+	<content contentuid="h164de7f1gb477g4d5cga945g4872b9de15b5" version="1">You have received instruction in the deft strokes of various forms of art.</content>
+	<content contentuid="h30fce226g9548g4434gb15bgede0f36e75f4" version="1">Agile Parry</content>
+	<content contentuid="he29dfa27g2d08g4681g8c74g89bd1bf4057b" version="1">If you make an unarmed strike as part of the Attack action on your turn and are holding a melee &lt;LSTag Type="Status" Tooltip="KENSEI_WEAPON_EQUIPPED"&gt;kensei weapon&lt;/LSTag&gt;, you gain a +[1] bonus to &lt;LSTag Tooltip="ArmourClass"&gt;AC&lt;/LSTag&gt; until the start of your next turn.</content>
+	<content contentuid="h32a6b920g70a3g4026gb689g44425b1f08c1" version="1">This effect will not apply if the melee kensei weapon leaves your hand or you are &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;incapacitated&lt;/LSTag&gt;.</content>
+ 	<content contentuid="h09929afag9756g46a9g8886g66a66b498d8b" version="1">Parrying</content>
+ 	<content contentuid="h1f594147gd19eg477agb60bg505bcfc9a810" version="1">Entity has a +[1] bonus to AC while wielding a melee kensei weapon.</content>
+ 	<content contentuid="h79a385a2g9913g4d87g97e9g3cbe7cf99005" version="1">Weapon is being used defensively as part of &lt;LSTag Type="Passive" Tooltip="AgileParry"&gt;Agile Parry&lt;/LSTag&gt;</content>
+	<content contentuid="h92fa0e07g36edg4a65g9949ge71e9598606b" version="1">Kensei's Shot</content>
+	<content contentuid="h44a18eedg2191g4766g843cgfffdcf1e91ac" version="1">Deal an additional [1] with ranged &lt;LSTag Type="Status" Tooltip="KENSEI_WEAPON_EQUIPPED"&gt;kensei weapon&lt;/LSTag&gt;.</content>
+	<content contentuid="h8049dccag9e56g4cb2g9899ga0bd587236dc" version="1">Deals an additional [1] with ranged &lt;LSTag Type="Status" Tooltip="KENSEI_WEAPON_EQUIPPED"&gt;kensei weapons&lt;/LSTag&gt;.</content>
+	<content contentuid="h532b6b67g4e01g4daagbfbaga9a32206182a" version="1">Magic Kensei Weapons</content>
+	<content contentuid="h068efe79g704cg4ccegba7bgbb4b0c268808" version="1">Your attacks with your kensei weapons count as magical for the purpose of overcoming &lt;LSTag Tooltip="Resistant"&gt;resistance&lt;/LSTag&gt; and &lt;LSTag Tooltip="Immune"&gt;immunity&lt;/LSTag&gt; to nonmagical attacks and damage.</content>
+	<content contentuid="hbcc6abb4g325ag43d7g822ag21141757d325" version="1">Kensei Magical Weapon</content>
+	<content contentuid="h765ba9e8g90d5g47dbga911gf0ef2ac5602f" version="1">Weapon counts as magical for the purpose of overcoming &lt;LSTag Tooltip="Resistant"&gt;resistance&lt;/LSTag&gt; and &lt;LSTag Tooltip="Immune"&gt;immunity&lt;/LSTag&gt; to nonmagical attacks and damage when wielded by a Monk following the Way of the Kensei.</content>
+	<content contentuid="hf23d4e37g4a1bg45e7g831ag99c1ea253cbb" version="1">Deft Strike</content>
+	<content contentuid="h73b682cbg9004g42d5g9fa3gdfc202e5fbae" version="1">Once on each of your turns when you hit a target with a &lt;LSTag Type="Status" Tooltip="KENSEI_WEAPON_EQUIPPED"&gt;kensei weapon&lt;/LSTag&gt;, deal an additional [1] damage.</content>
+	<content contentuid="h47e90aa2gba5cg4932g8a6ag9cb2ff676f7a" version="1">Deft Strike Cooldown</content>
+	<content contentuid="h9add51e9ga794g4992ga463g7806db026191" version="1">Deft Strike will be available to use again next turn.</content>
+	<content contentuid="h68290edbgc27fg4c6dgb540gc3bdf0247f33" version="1">Sharpen the Blade Weapon Hand</content>	
+	<content contentuid="h00ec1b7bgeca6g4306g9a21g778e19190cf7" version="1">Choose whether your &lt;LSTag Type="Spell" Tooltip="Target_SharepentheBlade_Container"&gt;Sharpen the Blade&lt;/LSTag&gt; ability will target the weapon in your main or off hand.</content>	
+	<content contentuid="h0438c514g5e60g4935g9ad9g33490f297db8" version="1">Sharpen the Blade Main Hand</content>
+	<content contentuid="h1bcac0d0g6d21g447fgaafdg9947cc271b23" version="1">Sharpen the Blade Off Hand</content>
+	<content contentuid="h4e264e04g8b90g4501gb89bg386eca460a34" version="1">Your &lt;LSTag Type="Spell" Tooltip="Target_SharepentheBlade_Container"&gt;Sharpen the Blade&lt;/LSTag&gt; ability will target the &lt;LSTag Type="Status" Tooltip="KENSEI_WEAPON_EQUIPPED"&gt;kensei weapon&lt;/LSTag&gt; in your main hand.</content>
+	<content contentuid="hddfb1700g598eg4d3fgb6ecg39af1d473c6e" version="1">Your&lt;LSTag Type="Spell" Tooltip="Target_SharepentheBlade_Container"&gt;Sharpen the Blade&lt;/LSTag&gt; ability will target the &lt;LSTag Type="Status" Tooltip="KENSEI_WEAPON_EQUIPPED"&gt;kensei weapon&lt;/LSTag&gt; in your off hand.</content>
+	<content contentuid="h75b3dcf6gf48eg4b9fg8208gf944e2e5f4d2" version="1">Sharpen the Blade</content>
+	<content contentuid="h43f11031gdf24g4e21ga9b0gf3cc8af36ca5" version="1">Grant a nonmagical &lt;LSTag Type="Status" Tooltip="KENSEI_WEAPON_EQUIPPED"&gt;kensei weapon&lt;/LSTag&gt; a bonus to attack and damage rolls equal to the number of &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;ki points&lt;/LSTag&gt; you spend.</content>
+	<content contentuid="hcfdf1412gd28fg489dg886bgdc4de15afc15" version="1">Grant a nonmagical &lt;LSTag Type="Status" Tooltip="KENSEI_WEAPON_EQUIPPED"&gt;kensei weapon&lt;/LSTag&gt; +[1] to attack and damage rolls.</content>
+	<content contentuid="h8047b2ebg6437g4380gb518g8aab7c618268" version="1">The effect on the target weapon will end early if you use this ability again.</content>
+	<content contentuid="h30a46c80g12cdg433bga7cfg2a1c5cfcd6c4" version="1">Must have a nonmagical kensei weapon in active weapon set.</content>
+	<content contentuid="hb451efd6gc206g4877gbc56g8566a6f69f74" version="1">Weapon has a +[1] bonus to attack and damage rolls.</content>
+	<content contentuid="hae321e5ageaecg42a6gb2c6g8e2848a9349c" version="1">The effect on the weapon will end early if &lt;LSTag Type="Spell" Tooltip="Shout_SharepentheBlade_Container"&gt;Sharpen the Blade&lt;/LSTag&gt; is used again.</content>
+	<content contentuid="ha531ed5fgec16g4f6cgb7bbg929ba9a41ed6" version="1">Unerring Accuracy</content>
+	<content contentuid="h4c887e08gebbeg4d62gbab9gaeaf19e14a73" version="1">Once on each of your turns, you may reroll a missed attack made with a &lt;LSTag Tooltip="MonkWeapon"&gt;monk weapon&lt;/LSTag&gt;.</content>
+	<content contentuid="h42fd9a77g5cc4g4565ga872g15627ec86a85" version="1">Reroll a missed attack made with a &lt;LSTag Tooltip="MonkWeapon"&gt;monk weapons&lt;/LSTag&gt;.</content>
+
+
+
+
+</contentList>
