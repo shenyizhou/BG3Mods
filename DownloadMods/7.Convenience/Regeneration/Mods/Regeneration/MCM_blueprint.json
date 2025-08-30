@@ -675,15 +675,15 @@
                                 }]
                             },
                             "Tooltip": "Turns required to regenerate a Spell Points Resource"
-                        }                        
+                        }
                     ]
-                    
+
                 }
-                    
+
             ]
-                
+
         },
-                        
+
         {
             "TabId": "resource_regeneration",
             "TabName": "Action Resources",
@@ -697,6 +697,10 @@
                             "Name": "Superiority Die",
                             "Type": "slider_int",
                             "Default": 5,
+                            "Options": {
+                                "Min": 0,
+                                "Max": 1200
+                            },
                             "Tooltip": "Turns required to regenerate a Superiority Die.",
                             "Handles": {
                                 "NameHandle": "hq775jzjt0tzvqs7wmrxiygbloxfer8n4escv",
@@ -708,6 +712,10 @@
                             "Name": "Channel Divinity",
                             "Type": "slider_int",
                             "Default": 5,
+                            "Options": {
+                                "Min": 0,
+                                "Max": 1200
+                            },
                             "Tooltip": "Turns required to regenerate Channel Divinity.",
                             "Handles": {
                                 "NameHandle": "hrdr63xp6bs6bdx9pzdob9uhj6zoq5uq6x7uj",
@@ -719,6 +727,10 @@
                             "Name": "Rage",
                             "Type": "slider_int",
                             "Default": 5,
+                            "Options": {
+                                "Min": 0,
+                                "Max": 1200
+                            },
                             "Tooltip": "Turns required to regenerate Rage.",
                             "Handles": {
                                 "NameHandle": "h73180lzrqodla51cvulvuno5pd9jyaraute8",
@@ -730,6 +742,10 @@
                             "Name": "Bardic Inspiration",
                             "Type": "slider_int",
                             "Default": 5,
+                            "Options": {
+                                "Min": 0,
+                                "Max": 1200
+                            },
                             "Tooltip": "Turns required to regenerate Bardic Inspiration.",
                             "Handles": {
                                 "NameHandle": "huv1hb0mr3qdmmlaljmjw7p66dgonqrmx5dn9",
@@ -741,6 +757,10 @@
                             "Name": "Ki Point",
                             "Type": "slider_int",
                             "Default": 5,
+                            "Options": {
+                                "Min": 0,
+                                "Max": 1200
+                            },
                             "Tooltip": "Turns required to regenerate a Ki Point.",
                             "Handles": {
                                 "NameHandle": "h75d8my861fw2bpjbjzus1y3frotuc5pk778l",
@@ -752,6 +772,10 @@
                             "Name": "Wild Shape",
                             "Type": "slider_int",
                             "Default": 6,
+                            "Options": {
+                                "Min": 0,
+                                "Max": 1200
+                            },
                             "Tooltip": "Turns required to regenerate Wild Shape.",
                             "Handles": {
                                 "NameHandle": "hrvfycm6ok3pl5gmjl5scma5ma9jeejuwvc8b",

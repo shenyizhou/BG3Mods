@@ -1,0 +1,13 @@
+new treasuretable "LyniaNeahMonkOutfit_TreasureTable"
+CanMerge 1
+new subtable "-1"
+object category "I_NEAHS_MONK_OUTFIT_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_NEAHS_MONK_GLOVES_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_NEAHS_MONK_PANTS_MSK",1,0,0,0,0,0,0,0
+
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "-1"
+object category "I_OBJ_LyniaNeahMonkOutfit_Container",1,0,0,0,0,0,0,0

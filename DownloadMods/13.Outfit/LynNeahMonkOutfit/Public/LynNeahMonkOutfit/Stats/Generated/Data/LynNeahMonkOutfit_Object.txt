@@ -1,0 +1,7 @@
+new entry "OBJ_LyniaNeahMonkOutfit_Container"
+using "OBJ_Chest_LetterBox"
+data "RootTemplate" "fc225383-d3f6-4cd5-95c0-265bb164d615"
+data "ValueOverride" "1"
+data "Weight" "0.1"
+type "Object"
+data "Rarity" "Legendary"

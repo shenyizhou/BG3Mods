@@ -1,0 +1,6 @@
+new entry "PIERCING_STRIKE_ACTIVE"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackId" "PIERCING_STRIKE"
+data "StatusPropertyFlags" "IgnoreResting;DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "StatusGroups" "SG_RemoveOnRespec"
