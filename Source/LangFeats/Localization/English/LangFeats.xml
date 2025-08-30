@@ -3,9 +3,9 @@
   <content contentuid="hdde6b8f8gf3f7g4cd5g81e9gd7cbfe304644" version="1">快手</content>
   <content contentuid="hcd3fb78cgaff7g4eebg874bgd513d6446dc9" version="1">获得一个额外的&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;。此专长可以重复学习。</content>
   <content contentuid="hf8aea69bg477ag4cc9g93f2g8ed85099c245" version="1">巨人力量</content>
-  <content contentuid="h142774b2g27bag49e7g9d4egb4310691b59f" version="1">群山在震颤！&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;增加 12+等级/2（上限 20+等级/2）。获得&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+  <content contentuid="h142774b2g27bag49e7g9d4egb4310691b59f" version="1">群山在震颤！&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;变为22，攻击和力场伤害额外造成1点伤害，该效果会随着等级每4级额外增加。</content>
   <content contentuid="h5906fb26g6331g4d64g8dcfgc9574d5ac80e" version="1">巨人体魄</content>
-  <content contentuid="had83386cg6b0eg41b3g9fe5g40f74f70bc8f" version="1">&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;增加 12+等级/2（上限 20+等级/2）。获得&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+  <content contentuid="had83386cg6b0eg41b3g9fe5g40f74f70bc8f" version="1">&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;变为22，该效果会随着等级每4级额外增加。最大生命值增加 2*等级。</content>
   <content contentuid="h0735f7aag028fg4f50g91a3g2480891e7eea" version="1">梯云纵</content>
   <content contentuid="hf8bb6033g741cg4852g9b84g62e96b1fba44" version="1">如白鹤腾空，瞬息入云。&lt;br&gt;&lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;跳跃&lt;/LSTag&gt;距离增加 3m 并翻三倍，且不消耗&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;。使用&lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;跳跃&lt;/LSTag&gt;或&lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;飞行&lt;/LSTag&gt;后获得&lt;LSTag Type="Status" Tooltip="LANGFEATS_TIYUNZONG_JUMP_ADVANTAGE"&gt;云龙三现&lt;/LSTag&gt; 1 回合。&lt;br&gt;&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;坠落伤害。</content>
   <content contentuid="h4cbfeb20gf142g4c3bga4e6gcf9c4acb88e6" version="1">云龙三现</content>

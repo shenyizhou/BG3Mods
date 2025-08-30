@@ -89,6 +89,13 @@
                     <attribute id="UUID" type="guid" value="a5b6c7d8-e9f0-a1b2-c3d4-e5f6a7b8c9d0"/>
                 </node>
                 <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hf65735c9g9a47g4b10gbc09g980041172bba" version="3"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1a3b6583g891fg4caag9095g3f557dbee5bd" version="2"/>
+                    <attribute id="ExactMatch" type="FixedString" value="LangFeats_TavernBrawler"/>
+                    <attribute id="FeatId" type="guid" value="fcb8f592-faf3-499d-97d1-59c2643e8b93"/>
+                    <attribute id="UUID" type="guid" value="9e192e71-f804-4119-9396-04b0686f6b50"/>
+                </node>
+                <node id="FeatDescription">
                     <attribute id="Description" type="TranslatedString" handle="h580b1639gcfc6g42a6gb255g713d28c48195" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hd961b2a4g52eeg44dfg91c1g2076b9e989a1" version="1"/>
                     <attribute id="ExactMatch" type="FixedString" value="LangFeats_KuoDaShangKou"/>
