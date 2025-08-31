@@ -68,7 +68,7 @@
         <node id="Feat">
           <attribute id="Name" type="FixedString" value="LangFeats_TavernBrawler"/>
           <attribute id="PassivesAdded" type="LSString" value="LangFeats_TavernBrawler"/>
-          <attribute id="Selectors" type="LSString" value="SelectAbilities(859878b3-9c3a-450d-a190-bc90707c9671,1,1,LightlyArmoredASI)"/>
+          <attribute id="Selectors" type="LSString" value="SelectAbilities(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,1,1,FeatASI)"/>
           <attribute id="UUID" type="guid" value="fcb8f592-faf3-499d-97d1-59c2643e8b93"/>
         </node>
         <node id="Feat">
@@ -105,7 +105,7 @@
         </node>
         <node id="Feat">
           <attribute id="Name" type="FixedString" value="LangFeats_HeQunShiFaZhe"/>
-          <attribute id="PassivesAdded" type="LSString" value="LangFeats_HeQunShiFaZhe_Strength;LangFeats_HeQunShiFaZhe_Dexterity;LangFeats_HeQunShiFaZhe_Constitution;LangFeats_HeQunShiFaZhe_Intelligence;LangFeats_HeQunShiFaZhe_Wisdom;LangFeats_HeQunShiFaZhe_Charisma"/>
+          <attribute id="Selectors" type="LSString" value="SelectPassives(3d0b4419-6a60-4212-b9eb-b30fc491cd84,1);SelectAbilities(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,1,1,FeatASI)"/>
           <attribute id="UUID" type="guid" value="413fedb6-38ca-47ef-94e8-c0687d338243"/>
         </node>
       </children>
