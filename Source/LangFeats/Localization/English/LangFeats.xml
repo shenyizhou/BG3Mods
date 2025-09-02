@@ -59,4 +59,6 @@
   <content contentuid="h9d515e4ag73efg48d7ga9d8gd2cc18913730" version="1">你的&lt;LSTag Tooltip="Cantrip"&gt;戏法&lt;/LSTag&gt;造成等同于&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;的额外伤害。</content>
   <content contentuid="h10725b31g2fb3g4252gb34eg866046da03b2" version="1">合群施法者（魅力）</content>
   <content contentuid="ha6d94a78g4a84g4b91g95f3g3ec9f2aa7997" version="1">你的&lt;LSTag Tooltip="Cantrip"&gt;戏法&lt;/LSTag&gt;造成等同于&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;的额外伤害。</content>
+  <content contentuid="h1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9" version="1">影刃敏捷</content>
+  <content contentuid="h2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0" version="1">暗影中的致命舞者。&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;变为22，攻击和穿刺伤害额外造成2点伤害，该效果会随着等级每4级额外增加。</content>
 </contentList>

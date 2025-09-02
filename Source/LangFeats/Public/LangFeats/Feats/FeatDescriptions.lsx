@@ -144,6 +144,13 @@
                     <attribute id="FeatId" type="guid" value="413fedb6-38ca-47ef-94e8-c0687d338243"/>
                     <attribute id="UUID" type="guid" value="8fe321d6-3787-4404-ba9a-da9b370def78"/>
                 </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="LangFeats_YingRenMinJie"/>
+                    <attribute id="FeatId" type="guid" value="fdde86f6-8387-4523-b8d8-66301eaf078e"/>
+                    <attribute id="UUID" type="guid" value="03eb2f80-23e8-4b93-b7db-2310d3b15ab6"/>
+                </node>
             </children>
         </node>
     </region>
