@@ -11,9 +11,9 @@
           <attribute id="UUID" type="guid" value="c1df78cd-a14d-4768-8267-c2ff4145ddf6"/>
         </node>
         <node id="Feat">
-          <attribute id="Name" type="FixedString" value="LangFeats_JuRenLiLiang"/>
-          <attribute id="PassivesAdded" type="LSString" value="LangFeats_JuRenLiLiang"/>
-          <attribute id="UUID" type="guid" value="a8f98904-5ad1-45b9-b0ce-9708ad40ad42"/>
+          <attribute id="Name" type="FixedString" value="LangFeats_NengLiQiangHua" />
+          <attribute id="Selectors" type="LSString" value="SelectPassives(2596668f-246e-4a07-80fd-a014e3178bc1,1)" />
+          <attribute id="UUID" type="guid" value="b2c3d4e5-f6a7-8901-bcde-f23456789012" />
         </node>
         <node id="Feat">
           <attribute id="Name" type="FixedString" value="LangFeats_JuRenTiPo"/>
@@ -107,11 +107,6 @@
           <attribute id="Name" type="FixedString" value="LangFeats_HeQunShiFaZhe"/>
           <attribute id="Selectors" type="LSString" value="SelectPassives(3d0b4419-6a60-4212-b9eb-b30fc491cd84,1);SelectAbilities(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,1,1,FeatASI)"/>
           <attribute id="UUID" type="guid" value="413fedb6-38ca-47ef-94e8-c0687d338243"/>
-        </node>
-        <node id="Feat">
-          <attribute id="Name" type="FixedString" value="LangFeats_YingRenMinJie"/>
-          <attribute id="PassivesAdded" type="LSString" value="LangFeats_YingRenMinJie"/>
-          <attribute id="UUID" type="guid" value="fdde86f6-8387-4523-b8d8-66301eaf078e"/>
         </node>
       </children>
     </node>
