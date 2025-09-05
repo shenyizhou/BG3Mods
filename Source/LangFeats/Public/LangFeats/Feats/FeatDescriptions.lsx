@@ -96,6 +96,13 @@
                     <attribute id="UUID" type="guid" value="9e192e71-f804-4119-9396-04b0686f6b50"/>
                 </node>
                 <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hafc743f7g5d89g4175g80bfg869c348717ec" version="9"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hfad5bf4eg0236g4af2g970agfdc9c7d219e1" version="2"/>
+                    <attribute id="ExactMatch" type="FixedString" value="LangFeats_DreadAmbusher"/>
+                    <attribute id="FeatId" type="guid" value="9a6a05da-71a6-4791-8327-15da1707ec9d"/>
+                    <attribute id="UUID" type="guid" value="8ad46e0d-9e2b-4663-8133-46bdd0b4c90e"/>
+                </node>
+                <node id="FeatDescription">
                     <attribute id="Description" type="TranslatedString" handle="haa744897g3f46g4031g88b2ge7c545e10f81" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h42bef5ffgaf83g4ca4g9e8fgba8222203e03" version="1"/>
                     <attribute id="ExactMatch" type="FixedString" value="LangFeats_SmiteDivine"/>

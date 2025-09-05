@@ -11,7 +11,7 @@
   <content contentuid="hf9db2556ga0ebg45a0gbf4bg53c80c3b7791" version="1">心灵魅力</content>
   <content contentuid="hdcd3c889g0f1fg4682ga75bg4a4dedea7ce6" version="1">&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;变为22，该效果每4级额外增加。伤害增加熟练项的数值。</content>
   <content contentuid="h5906fb26g6331g4d64g8dcfgc9574d5ac80e" version="1">巨人体魄</content>
-  <content contentuid="had83386cg6b0eg41b3g9fe5g40f74f70bc8f" version="1">&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;变为22，该效果每4级额外增加。每级额外增加 2 最大生命值。</content>
+  <content contentuid="had83386cg6b0eg41b3g9fe5g40f74f70bc8f" version="1">&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;变为22，该效果每4级额外增加。每角色等级生命值上限+2。</content>
   <content contentuid="h0735f7aag028fg4f50g91a3g2480891e7eea" version="1">梯云纵</content>
   <content contentuid="hf8bb6033g741cg4852g9b84g62e96b1fba44" version="1">如白鹤腾空，瞬息入云。&lt;br&gt;&lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;跳跃&lt;/LSTag&gt;距离增加 3m 并翻三倍，且不消耗&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;。使用&lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;跳跃&lt;/LSTag&gt;或&lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;飞行&lt;/LSTag&gt;后获得&lt;LSTag Type="Status" Tooltip="LANGFEATS_TIYUNZONG_JUMP_ADVANTAGE"&gt;云龙三现&lt;/LSTag&gt; 1 回合。&lt;br&gt;&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;坠落伤害。</content>
   <content contentuid="h4cbfeb20gf142g4c3bga4e6gcf9c4acb88e6" version="1">云龙三现</content>
@@ -39,7 +39,7 @@
   <content contentuid="hbc979f65g1220g44bag9776g97adab8a5a97" version="1">谋杀灵光</content>
   <content contentuid="h3933b2f5g2754g4beegaa86g867c8e4b17a2" version="1">3m 范围内的敌人变成穿刺伤害易伤，除非其对穿刺伤害有抗性或免疫。可开关切换此能力。</content>
   <content contentuid="h011256dag7738g40f1g99fcg57070f8b8e52" version="1">灵巧殴斗者</content>
-  <content contentuid="hb4840af5g7dc4g4887g8f30ge2e8c7c1a883" version="1">当你发动一次徒手攻击、使用一件临时武器或投掷某件物体时，可以将你的敏捷调整值加倍增加到伤害以及攻击掷骰上。</content>
+  <content contentuid="hb4840af5g7dc4g4887g8f30ge2e8c7c1a883" version="1">当你发动一次徒手攻击、使用一件临时武器或投掷某件物体时，可以将你的&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;加倍增加到伤害以及&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;上。</content>
   <content contentuid="h42bef5ffgaf83g4ca4g9e8fgba8222203e03" version="1">至圣斩</content>
   <content contentuid="haa744897g3f46g4031g88b2ge7c545e10f81" version="1">你被赐予了&lt;LSTag Type="Spell" Tooltip="Target_Smite_Divine"&gt;至圣斩&lt;/LSTag&gt;。</content>
   <content contentuid="hd961b2a4g52eeg44dfg91c1g2076b9e989a1" version="1">扩大伤口</content>

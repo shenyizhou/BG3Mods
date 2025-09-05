@@ -72,6 +72,11 @@
           <attribute id="UUID" type="guid" value="fcb8f592-faf3-499d-97d1-59c2643e8b93"/>
         </node>
         <node id="Feat">
+          <attribute id="Name" type="FixedString" value="LangFeats_DreadAmbusher"/>
+          <attribute id="PassivesAdded" type="LSString" value="DreadAmbusher"/>
+          <attribute id="UUID" type="guid" value="9a6a05da-71a6-4791-8327-15da1707ec9d"/>
+        </node>
+        <node id="Feat">
           <attribute id="Name" type="FixedString" value="LangFeats_SmiteDivine"/>
           <attribute id="PassivesAdded" type="LSString" value="Smite_Divine"/>
           <attribute id="UUID" type="guid" value="e04d53be-d680-45cb-af8b-f90343406b7e"/>
