@@ -9,7 +9,7 @@
           <attribute id="UUID" type="guid" value="3d0b4419-6a60-4212-b9eb-b30fc491cd84" />
         </node>
         <node id="PassiveList">
-          <attribute id="Passives" type="LSString" value="LangFeats_JuRenLiLiang,LangFeats_ChuanCiMinJie,LangFeats_XinLingMeiLi" />
+          <attribute id="Passives" type="LSString" value="LangFeats_JuRenLiLiang,LangFeats_JiFengMinJie,LangFeats_XinLingMeiLi" />
           <attribute id="UUID" type="guid" value="2596668f-246e-4a07-80fd-a014e3178bc1" />
         </node>
       </children>

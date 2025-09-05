@@ -14,7 +14,7 @@ data "Icon" "statIcons_HillGiantsMight"
 data "Properties" "Highlighted"
 data "Boosts" "IF(IsWeaponAttack() and IsProficientWithEquippedWeapon()):CharacterWeaponDamage(ProficiencyBonus,Force);IF(IsMeleeUnarmedAttack()):CharacterUnarmedDamage(ProficiencyBonus,Force);IF(IsRangedUnarmedAttack() or IsDamageTypeForce()):DamageBonus(ProficiencyBonus,Force);IF(not CharacterLevelGreaterThan(4) and not AbilityGreaterThan(Ability.Strength,21)):AbilityOverrideMinimum(Strength,22);IF(CharacterLevelGreaterThan(4) and not CharacterLevelGreaterThan(8) and not AbilityGreaterThan(Ability.Strength,23)):AbilityOverrideMinimum(Strength,24);IF(CharacterLevelGreaterThan(8) and not CharacterLevelGreaterThan(12) and not AbilityGreaterThan(Ability.Strength,25)):AbilityOverrideMinimum(Strength,26);IF(CharacterLevelGreaterThan(12) and not CharacterLevelGreaterThan(16) and not AbilityGreaterThan(Ability.Strength,27)):AbilityOverrideMinimum(Strength,28);IF(CharacterLevelGreaterThan(16) and not AbilityGreaterThan(Ability.Strength,29)):AbilityOverrideMinimum(Strength,30)"
 
-new entry "LangFeats_ChuanCiMinJie"
+new entry "LangFeats_JiFengMinJie"
 type "PassiveData"
 data "DisplayName" "hf84937aag0b02g44c9ga125g1fa37353f2cc;1"
 data "Description" "h646b21c0g16e3g435fg9f47ga5296d2c0ea9;1"

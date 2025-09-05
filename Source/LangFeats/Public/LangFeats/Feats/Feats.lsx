@@ -74,7 +74,7 @@
         <node id="Feat">
           <attribute id="Name" type="FixedString" value="LangFeats_SmiteDivine"/>
           <attribute id="PassivesAdded" type="LSString" value="Smite_Divine"/>
-          <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3641"/>
+          <attribute id="UUID" type="guid" value="e04d53be-d680-45cb-af8b-f90343406b7e"/>
         </node>
         <node id="Feat">
           <attribute id="Name" type="FixedString" value="LangFeats_KuoDaShangKou"/>
