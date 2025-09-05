@@ -72,6 +72,11 @@
           <attribute id="UUID" type="guid" value="fcb8f592-faf3-499d-97d1-59c2643e8b93"/>
         </node>
         <node id="Feat">
+          <attribute id="Name" type="FixedString" value="LangFeats_SmiteDivine"/>
+          <attribute id="PassivesAdded" type="LSString" value="Smite_Divine"/>
+          <attribute id="UUID" type="guid" value="7c29f865-e7fc-47de-ac1c-1ab7e17a3641"/>
+        </node>
+        <node id="Feat">
           <attribute id="Name" type="FixedString" value="LangFeats_KuoDaShangKou"/>
           <attribute id="PassivesAdded" type="LSString" value="LangFeats_KuoDaShangKou"/>
           <attribute id="UUID" type="guid" value="e4c54ead-9331-435f-8aa8-034ee3aabaf3"/>
@@ -107,6 +112,11 @@
           <attribute id="Name" type="FixedString" value="LangFeats_HeQunShiFaZhe"/>
           <attribute id="Selectors" type="LSString" value="SelectPassives(3d0b4419-6a60-4212-b9eb-b30fc491cd84,1);SelectAbilities(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,1,1,FeatASI)"/>
           <attribute id="UUID" type="guid" value="413fedb6-38ca-47ef-94e8-c0687d338243"/>
+        </node>
+        <node id="Feat">
+          <attribute id="Name" type="FixedString" value="LangFeats_YingRenMinJie"/>
+          <attribute id="PassivesAdded" type="LSString" value="LangFeats_YingRenMinJie"/>
+          <attribute id="UUID" type="guid" value="fdde86f6-8387-4523-b8d8-66301eaf078e"/>
         </node>
       </children>
     </node>
