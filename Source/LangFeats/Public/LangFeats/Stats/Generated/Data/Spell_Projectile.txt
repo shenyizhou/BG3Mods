@@ -1,4 +1,4 @@
-new entry "LangFeats_Projectile_Deflect_Missiles"
+new entry "LegendaryFeats_Projectile_Deflect_Missiles"
 type "SpellData"
 data "SpellType" "Projectile"
 data "SpellProperties" "GROUND:DealDamage(1,Piercing)"

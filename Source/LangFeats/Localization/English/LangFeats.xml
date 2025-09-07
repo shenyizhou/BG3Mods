@@ -13,7 +13,7 @@
   <content contentuid="h5906fb26g6331g4d64g8dcfgc9574d5ac80e" version="1">巨人体魄</content>
   <content contentuid="had83386cg6b0eg41b3g9fe5g40f74f70bc8f" version="1">&lt;LSTag Tooltip="Constitution"&gt;体质&lt;/LSTag&gt;变为22，该效果每4级额外增加。每角色等级生命值上限+2。</content>
   <content contentuid="h0735f7aag028fg4f50g91a3g2480891e7eea" version="1">梯云纵</content>
-  <content contentuid="hf8bb6033g741cg4852g9b84g62e96b1fba44" version="1">如白鹤腾空，瞬息入云。&lt;br&gt;&lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;跳跃&lt;/LSTag&gt;距离增加 3m 并翻三倍，且不消耗&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;。使用&lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;跳跃&lt;/LSTag&gt;或&lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;飞行&lt;/LSTag&gt;后获得&lt;LSTag Type="Status" Tooltip="LANGFEATS_TIYUNZONG_JUMP_ADVANTAGE"&gt;云龙三现&lt;/LSTag&gt; 1 回合。&lt;br&gt;&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;坠落伤害。</content>
+  <content contentuid="hf8bb6033g741cg4852g9b84g62e96b1fba44" version="1">如白鹤腾空，瞬息入云。&lt;br&gt;&lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;跳跃&lt;/LSTag&gt;距离增加 3m 并翻三倍，且不消耗&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;。使用&lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;跳跃&lt;/LSTag&gt;或&lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;飞行&lt;/LSTag&gt;后获得&lt;LSTag Type="Status" Tooltip="LEGENDARY_FEATS_YUNLONGSANXIAN"&gt;云龙三现&lt;/LSTag&gt; 1 回合。&lt;br&gt;&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;坠落伤害。</content>
   <content contentuid="h4cbfeb20gf142g4c3bga4e6gcf9c4acb88e6" version="1">云龙三现</content>
   <content contentuid="h9a8b72a0gf46dg433ag9a02gf0785a95b7bc" version="1">攻击检定和豁免检定获得&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;增加 3m。</content>
   <content contentuid="hc0decce3g35ecg4ef6gaeb1g69746c6100ba" version="1">一苇渡江</content>
@@ -29,9 +29,9 @@
   <content contentuid="h6c39acc8g7500g4a78g87abgc200d545c94a" version="1">受到的所有伤害减少 [1]。</content>
   <content contentuid="hff1c7b59g94bcg4c50g9393g4838f1ade624" version="1">被近战攻击命中时，攻击者受到 [1]。该效果会随着等级提升而增加。可开关切换此能力。</content>
   <content contentuid="h5149247eg2b60g40a6gbec9gc19bbe951783" version="1">拨挡飞弹</content>
-  <content contentuid="h335b4fbcge0e0g407cg8df6g0d89ab9f32c8" version="1">获得 2 点额外&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;。使用你的&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;来减少远程武器攻击造成的伤害，减少值为 1d10 + 你的敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; + 你的人物等级，并对攻击者施展&lt;LSTag Type="Spell" Tooltip="LangFeats_Projectile_Deflect_Missiles"&gt;拨挡飞弹：重定向&lt;/LSTag&gt;。</content>
+  <content contentuid="h335b4fbcge0e0g407cg8df6g0d89ab9f32c8" version="1">获得 2 点额外&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;。使用你的&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;来减少远程武器攻击造成的伤害，减少值为 1d10 + 你的敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; + 你的人物等级，并对攻击者施展&lt;LSTag Type="Spell" Tooltip="LegendaryFeats_Projectile_Deflect_Missiles"&gt;拨挡飞弹：重定向&lt;/LSTag&gt;。</content>
   <content contentuid="he45ebf33gbc2ag4d6eg99a5g8a109c3f0a45" version="1">获得 [1] 点额外&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;。</content>
-  <content contentuid="heda21761g743bg47c1g8a8dg602314b97d35" version="1">使用你的&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;，让远程武器攻击造成的伤害减少 1d10 + 你的敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; + 你的人物等级，并对攻击者施展&lt;LSTag Type="Spell" Tooltip="LangFeats_Projectile_Deflect_Missiles"&gt;拨挡飞弹：重定向&lt;/LSTag&gt;。</content>
+  <content contentuid="heda21761g743bg47c1g8a8dg602314b97d35" version="1">使用你的&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;，让远程武器攻击造成的伤害减少 1d10 + 你的敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt; + 你的人物等级，并对攻击者施展&lt;LSTag Type="Spell" Tooltip="LegendaryFeats_Projectile_Deflect_Missiles"&gt;拨挡飞弹：重定向&lt;/LSTag&gt;。</content>
   <content contentuid="hfaabd00ag7c20g4378g9d85g110d5ccd46e2" version="1">拨挡飞弹：重定向</content>
   <content contentuid="h4a48dd9fgf8ecg4e2aga2d1g9dbcbf841757" version="1">使用你的&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;能力抓住远程武器攻击发出的一个投射物，同时将它反弹回攻击者的方向，造成随等级提升的 [1]。</content>
   <content contentuid="h0be69602g0103g46c1g83aag87f2b26ac5a3" version="1">额外攻击</content>
@@ -56,7 +56,7 @@
   <content contentuid="h445cfcd8gcdf0g4c1bgbf1ag5bb6ffe8ac5f" version="1">戏法大师</content>
   <content contentuid="h8bc1ff1fge5b0g4f83g9505g87fe02e2bf58" version="1">消耗&lt;LSTag Tooltip="Action"&gt;动作&lt;/LSTag&gt;的&lt;LSTag Tooltip="Cantrip"&gt;戏法&lt;/LSTag&gt;转而消耗&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;。可开关切换此能力。</content>
   <content contentuid="h2688be97g81b8g4175gaff4gaeedf4b03988" version="1">合群施法者</content>
-  <content contentuid="headb6201g3e5fg41e2gacd0gb37fa8a3936a" version="1">你的&lt;LSTag Tooltip="Cantrip"&gt;戏法&lt;/LSTag&gt;造成等同于你选择的属性&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;的额外伤害。被选择的属性增加 1 点。</content>
+  <content contentuid="headb6201g3e5fg41e2gacd0gb37fa8a3936a" version="1">你的&lt;LSTag Tooltip="Cantrip"&gt;戏法&lt;/LSTag&gt;造成等同于你选择的属性&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;的额外伤害。</content>
   <content contentuid="h32cfda0dgc1a8g4813g89d0g25b6aeeaf524" version="1">合群施法者（力量）</content>
   <content contentuid="h23d592a9g3a8fg4997ga7c3g45177bd6b447" version="1">你的&lt;LSTag Tooltip="Cantrip"&gt;戏法&lt;/LSTag&gt;造成等同于&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;的额外伤害。</content>
   <content contentuid="hd854cebcge9c9g4cb8gabdbg8e051f9bb797" version="1">合群施法者（敏捷）</content>

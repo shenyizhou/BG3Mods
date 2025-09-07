@@ -5,11 +5,11 @@
     <node id="root">
       <children>
         <node id="PassiveList">
-          <attribute id="Passives" type="LSString" value="LangFeats_StrengthCaster_CantripBooster,LangFeats_DexterityCaster_CantripBooster,LangFeats_ConstitutionCaster_CantripBooster,LangFeats_IntelligenceCaster_CantripBooster,LangFeats_WisdomCaster_CantripBooster,LangFeats_CharismaCaster_CantripBooster" />
+          <attribute id="Passives" type="LSString" value="LegendaryFeats_StrengthCaster_CantripBooster,LegendaryFeats_DexterityCaster_CantripBooster,LegendaryFeats_ConstitutionCaster_CantripBooster,LegendaryFeats_IntelligenceCaster_CantripBooster,LegendaryFeats_WisdomCaster_CantripBooster,LegendaryFeats_CharismaCaster_CantripBooster" />
           <attribute id="UUID" type="guid" value="3d0b4419-6a60-4212-b9eb-b30fc491cd84" />
         </node>
         <node id="PassiveList">
-          <attribute id="Passives" type="LSString" value="LangFeats_EnhanceStrength,LangFeats_EnhanceDexterity,LangFeats_EnhanceCharisma" />
+          <attribute id="Passives" type="LSString" value="LegendaryFeats_EnhanceStrength,LegendaryFeats_EnhanceDexterity,LegendaryFeats_EnhanceCharisma" />
           <attribute id="UUID" type="guid" value="2596668f-246e-4a07-80fd-a014e3178bc1" />
         </node>
       </children>

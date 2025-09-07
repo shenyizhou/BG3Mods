@@ -9,13 +9,13 @@
           <attribute id="Author" type="LSWString" value="Shenlang" />
           <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
           <attribute id="Description" type="LSWString" value="Custom Feats Mod" />
-          <attribute id="Folder" type="LSWString" value="LangFeats" />
+          <attribute id="Folder" type="LSWString" value="LegendaryFeats" />
           <attribute id="GMTemplate" type="FixedString" value="" />
           <attribute id="LobbyLevelName" type="FixedString" value="" />
           <attribute id="MD5" type="LSString" value="" />
           <attribute id="MainMenuBackgroundVideo" type="FixedString" value="" />
           <attribute id="MenuLevelName" type="FixedString" value="" />
-          <attribute id="Name" type="FixedString" value="LangFeats" />
+          <attribute id="Name" type="FixedString" value="LegendaryFeats" />
           <attribute id="NumPlayers" type="uint8" value="4" />
           <attribute id="PhotoBooth" type="FixedString" value="" />
           <attribute id="StartupLevelName" type="FixedString" value="" />
