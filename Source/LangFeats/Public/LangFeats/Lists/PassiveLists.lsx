@@ -5,11 +5,11 @@
     <node id="root">
       <children>
         <node id="PassiveList">
-          <attribute id="Passives" type="LSString" value="LangFeats_HeQunShiFaZhe_Strength,LangFeats_HeQunShiFaZhe_Dexterity,LangFeats_HeQunShiFaZhe_Constitution,LangFeats_HeQunShiFaZhe_Intelligence,LangFeats_HeQunShiFaZhe_Wisdom,LangFeats_HeQunShiFaZhe_Charisma" />
+          <attribute id="Passives" type="LSString" value="LangFeats_StrengthCaster_CantripBooster,LangFeats_DexterityCaster_CantripBooster,LangFeats_ConstitutionCaster_CantripBooster,LangFeats_IntelligenceCaster_CantripBooster,LangFeats_WisdomCaster_CantripBooster,LangFeats_CharismaCaster_CantripBooster" />
           <attribute id="UUID" type="guid" value="3d0b4419-6a60-4212-b9eb-b30fc491cd84" />
         </node>
         <node id="PassiveList">
-          <attribute id="Passives" type="LSString" value="LangFeats_JuRenLiLiang,LangFeats_JiFengMinJie,LangFeats_XinLingMeiLi" />
+          <attribute id="Passives" type="LSString" value="LangFeats_EnhanceStrength,LangFeats_EnhanceDexterity,LangFeats_EnhanceCharisma" />
           <attribute id="UUID" type="guid" value="2596668f-246e-4a07-80fd-a014e3178bc1" />
         </node>
       </children>

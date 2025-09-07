@@ -6,18 +6,18 @@
       <children>
         <node id="Feat">
           <attribute id="CanBeTakenMultipleTimes" type="bool" value="true"/>
-          <attribute id="Name" type="FixedString" value="LangFeats_KuaiShou"/>
-          <attribute id="PassivesAdded" type="LSString" value="LangFeats_KuaiShou"/>
+          <attribute id="Name" type="FixedString" value="LangFeats_FastHands"/>
+          <attribute id="PassivesAdded" type="LSString" value="FastHands"/>
           <attribute id="UUID" type="guid" value="c1df78cd-a14d-4768-8267-c2ff4145ddf6"/>
         </node>
         <node id="Feat">
-          <attribute id="Name" type="FixedString" value="LangFeats_NengLiQiangHua" />
+          <attribute id="Name" type="FixedString" value="LangFeats_EnhanceAbility" />
           <attribute id="Selectors" type="LSString" value="SelectPassives(2596668f-246e-4a07-80fd-a014e3178bc1,1)" />
           <attribute id="UUID" type="guid" value="b2c3d4e5-f6a7-8901-bcde-f23456789012" />
         </node>
         <node id="Feat">
-          <attribute id="Name" type="FixedString" value="LangFeats_JuRenTiPo"/>
-          <attribute id="PassivesAdded" type="LSString" value="LangFeats_JuRenTiPo"/>
+          <attribute id="Name" type="FixedString" value="LangFeats_GiantConstitution"/>
+          <attribute id="PassivesAdded" type="LSString" value="LangFeats_GiantConstitution"/>
           <attribute id="UUID" type="guid" value="c7c01508-6840-4637-927c-db7c6dd323f3"/>
         </node>
         <node id="Feat">
@@ -36,8 +36,8 @@
           <attribute id="UUID" type="guid" value="643ed7cf-63d9-409b-8175-374279af6df4"/>
         </node>
         <node id="Feat">
-          <attribute id="Name" type="FixedString" value="LangFeats_ShouHuZhiLian"/>
-          <attribute id="PassivesAdded" type="LSString" value="LangFeats_ShouHuZhiLian"/>
+          <attribute id="Name" type="FixedString" value="LangFeats_WardingBond"/>
+          <attribute id="PassivesAdded" type="LSString" value="LangFeats_WardingBond"/>
           <attribute id="UUID" type="guid" value="3c618461-dea1-49cf-8814-5a5ae31568ee"/>
         </node>
         <node id="Feat">
@@ -46,13 +46,13 @@
           <attribute id="UUID" type="guid" value="8fe321d6-3787-4404-ba9a-da9b370def78"/>
         </node>
         <node id="Feat">
-          <attribute id="Name" type="FixedString" value="LangFeats_GuCiZhiKai"/>
-          <attribute id="PassivesAdded" type="LSString" value="LangFeats_GuCiZhiKai;LangFeats_GuCiZhiKai_Toggle"/>
+          <attribute id="Name" type="FixedString" value="LangFeats_BoneSpike"/>
+          <attribute id="PassivesAdded" type="LSString" value="LangFeats_BoneSpike;LangFeats_BoneSpike_Toggle"/>
           <attribute id="UUID" type="guid" value="a827f887-6d62-4d75-a7b4-9aea10150f09"/>
         </node>
         <node id="Feat">
           <attribute id="Name" type="FixedString" value="LangFeats_DeflectMissiles"/>
-          <attribute id="PassivesAdded" type="LSString" value="LangFeats_DeflectMissiles_Resource;LangFeats_DeflectMissiles"/>
+          <attribute id="PassivesAdded" type="LSString" value="LangFeats_DeflectMissiles_ReactionActionPoint;LangFeats_DeflectMissiles"/>
           <attribute id="UUID" type="guid" value="e5dace96-9984-4c03-ba37-42ccdf1fa2a8"/>
         </node>
         <node id="Feat">
@@ -61,8 +61,8 @@
           <attribute id="UUID" type="guid" value="f4b63c71-e43f-4224-a81a-0224eec71714"/>
         </node>
         <node id="Feat">
-          <attribute id="Name" type="FixedString" value="LangFeats_MouShaLingGuang"/>
-          <attribute id="PassivesAdded" type="LSString" value="LangFeats_MouShaLingGuang"/>
+          <attribute id="Name" type="FixedString" value="LangFeats_AuraOfMurder"/>
+          <attribute id="PassivesAdded" type="LSString" value="LangFeats_AuraOfMurder"/>
           <attribute id="UUID" type="guid" value="47478763-dfe8-4664-a9c2-d32eb0106c4b"/>
         </node>
         <node id="Feat">
@@ -82,14 +82,14 @@
           <attribute id="UUID" type="guid" value="e04d53be-d680-45cb-af8b-f90343406b7e"/>
         </node>
         <node id="Feat">
-          <attribute id="Name" type="FixedString" value="LangFeats_KuoDaShangKou"/>
-          <attribute id="PassivesAdded" type="LSString" value="LangFeats_KuoDaShangKou"/>
+          <attribute id="Name" type="FixedString" value="LangFeats_CriticalForceCritical"/>
+          <attribute id="PassivesAdded" type="LSString" value="LangFeats_CriticalForceCritical"/>
           <attribute id="UUID" type="guid" value="e4c54ead-9331-435f-8aa8-034ee3aabaf3"/>
         </node>
         <node id="Feat">
           <attribute id="CanBeTakenMultipleTimes" type="bool" value="true"/>
-          <attribute id="Name" type="FixedString" value="LangFeats_BeiCanZhongJi"/>
-          <attribute id="PassivesAdded" type="LSString" value="LangFeats_BeiCanZhongJi"/>
+          <attribute id="Name" type="FixedString" value="LangFeats_ViciousAttack"/>
+          <attribute id="PassivesAdded" type="LSString" value="LangFeats_ViciousAttack"/>
           <attribute id="UUID" type="guid" value="608aa13a-e97a-4e8b-a3b4-06fb312c840d"/>
         </node>
         <node id="Feat">
@@ -99,13 +99,13 @@
           <attribute id="UUID" type="guid" value="20befbf7-ad53-46c4-96be-883e872c16a6"/>
         </node>
         <node id="Feat">
-          <attribute id="Name" type="FixedString" value="LangFeats_JingZhunSheJi"/>
-          <attribute id="PassivesAdded" type="LSString" value="LangFeats_JingZhunSheJi"/>
+          <attribute id="Name" type="FixedString" value="LangFeats_PrecisionRangedWeaponAttack"/>
+          <attribute id="PassivesAdded" type="LSString" value="LangFeats_PrecisionRangedWeaponAttack"/>
           <attribute id="UUID" type="guid" value="3834d468-1de7-4fe6-be64-72c0a6d99c9d"/>
         </node>
         <node id="Feat">
-          <attribute id="Name" type="FixedString" value="LangFeats_TaiTanSheJi"/>
-          <attribute id="PassivesAdded" type="LSString" value="LangFeats_TaiTanSheJi"/>
+          <attribute id="Name" type="FixedString" value="LangFeats_StrengthBonusToRangedWeaponDamage"/>
+          <attribute id="PassivesAdded" type="LSString" value="LangFeats_StrengthBonusToRangedWeaponDamage"/>
           <attribute id="UUID" type="guid" value="fe5843f6-8153-49e3-b061-ad9e83d49360"/>
         </node>
         <node id="Feat">
@@ -114,14 +114,9 @@
           <attribute id="UUID" type="guid" value="44306ed5-d6f5-46cd-a75a-e801571bfd4d"/>
         </node>
         <node id="Feat">
-          <attribute id="Name" type="FixedString" value="LangFeats_HeQunShiFaZhe"/>
+          <attribute id="Name" type="FixedString" value="LangFeats_AbilityCaster_CantripBooster"/>
           <attribute id="Selectors" type="LSString" value="SelectPassives(3d0b4419-6a60-4212-b9eb-b30fc491cd84,1);SelectAbilities(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,1,1,FeatASI)"/>
           <attribute id="UUID" type="guid" value="413fedb6-38ca-47ef-94e8-c0687d338243"/>
-        </node>
-        <node id="Feat">
-          <attribute id="Name" type="FixedString" value="LangFeats_YingRenMinJie"/>
-          <attribute id="PassivesAdded" type="LSString" value="LangFeats_YingRenMinJie"/>
-          <attribute id="UUID" type="guid" value="fdde86f6-8387-4523-b8d8-66301eaf078e"/>
         </node>
       </children>
     </node>
