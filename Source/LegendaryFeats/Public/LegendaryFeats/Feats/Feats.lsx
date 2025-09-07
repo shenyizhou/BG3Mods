@@ -78,7 +78,7 @@
         </node>
         <node id="Feat">
           <attribute id="Name" type="FixedString" value="LegendaryFeats_SmiteDivine"/>
-          <attribute id="PassivesAdded" type="LSString" value="Smite_Divine"/>
+          <attribute id="PassivesAdded" type="LSString" value="Smite_Divine;Smite_Divine_2;Smite_Divine_3;Smite_Divine_4;Smite_Divine_5;Smite_Divine_6"/>
           <attribute id="UUID" type="guid" value="e04d53be-d680-45cb-af8b-f90343406b7e"/>
         </node>
         <node id="Feat">
