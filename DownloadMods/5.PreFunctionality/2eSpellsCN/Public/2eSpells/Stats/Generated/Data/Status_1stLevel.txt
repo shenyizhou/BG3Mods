@@ -497,6 +497,7 @@ data "StatusType" "BOOST"
 data "DisplayName" "h645ee264g9e39g41c2g9abeg502746acfb0d;1"
 data "Description" "h40daa61cg793dg42e8gaaf4ga7c3ace4de74;1"
 data "Icon" "Spell_2e_FleetStep"
+data "StackId" "FLEETSTEP"
 data "DescriptionParams" "Distance(18)"
 data "Boosts" "ActionResource(Movement,18,0)"
 
