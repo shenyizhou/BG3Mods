@@ -21,7 +21,7 @@ Ext.Events.DealDamage:Subscribe(function(e)
 
     if caster ~= nil and caster.Stats ~= nil then
         local casterUuid = caster.Uuid.EntityUuid
-		hasPiercingStrike = caster.ServerCharacter ~= nil and Osi.HasActiveStatus(casterUuid, "PIERCING_STRIKE_ACTIVE") == 1
+		hasPiercingStrike = caster.ServerCharacter ~= nil and Osi.HasActiveStatus(casterUuid, "MELEE_UNARMED_ATTACK_PIERCING_ACTIVE") == 1
         hasDraconicDisciple = caster.ServerCharacter ~= nil and Osi.HasPassive(casterUuid, "DraconicStrike_AD") == 1 and (Osi.HasActiveStatus(casterUuid, "DRACONIC_STRIKE_ACID") == 1 or Osi.HasActiveStatus(casterUuid, "DRACONIC_STRIKE_COLD") == 1
 			or Osi.HasActiveStatus(casterUuid, "DRACONIC_STRIKE_FIRE") == 1 or Osi.HasActiveStatus(casterUuid, "DRACONIC_STRIKE_LIGHTNING") == 1 or Osi.HasActiveStatus(casterUuid, "DRACONIC_STRIKE_POISON") == 1)
 		hasAstralArms = caster.ServerCharacter ~= nil and Osi.HasPassive(casterUuid, "AstralSelfArmsUnlock") == 1 and Osi.HasActiveStatus(casterUuid, "USING_ASTRAL_ARMS") == 1

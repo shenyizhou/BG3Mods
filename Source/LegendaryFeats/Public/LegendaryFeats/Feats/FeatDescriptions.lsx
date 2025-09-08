@@ -56,7 +56,7 @@
                 <node id="FeatDescription">
                     <attribute id="Description" type="TranslatedString" handle="hb37865b0g702bg4e95gace8gb1fcc18a28d3" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hd38cdbfbg25cbg4408g8e76ge35aa6a8f8ec" version="1"/>
-                    <attribute id="ExactMatch" type="FixedString" value="LegendaryFeats_BanShenZhiYin"/>
+                    <attribute id="ExactMatch" type="FixedString" value="LegendaryFeats_MarkOfTheDemigod"/>
                     <attribute id="FeatId" type="guid" value="8fe321d6-3787-4404-ba9a-da9b370def78"/>
                     <attribute id="UUID" type="guid" value="535c8fde-12b8-4d36-820d-9da67c47fdb0"/>
                 </node>

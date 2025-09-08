@@ -72,7 +72,7 @@ data "Icon" "Spell_Abjuration_WardingBond"
 data "Properties" "Highlighted"
 data "Boosts" "Resistance(All,Resistant)"
 
-new entry "LegendaryFeats_BanShenZhiYin"
+new entry "LegendaryFeats_MarkOfTheDemigod"
 type "PassiveData"
 data "DisplayName" "hd38cdbfbg25cbg4408g8e76ge35aa6a8f8ec;1"
 data "Description" "hb37865b0g702bg4e95gace8gb1fcc18a28d3;1"
