@@ -41,8 +41,8 @@
           <attribute id="UUID" type="guid" value="3c618461-dea1-49cf-8814-5a5ae31568ee"/>
         </node>
         <node id="Feat">
-          <attribute id="Name" type="FixedString" value="LegendaryFeats_BanShenZhiYin"/>
-          <attribute id="PassivesAdded" type="LSString" value="LegendaryFeats_BanShenZhiYin"/>
+          <attribute id="Name" type="FixedString" value="LegendaryFeats_MarkOfTheDemigod"/>
+          <attribute id="PassivesAdded" type="LSString" value="LegendaryFeats_MarkOfTheDemigod"/>
           <attribute id="UUID" type="guid" value="8fe321d6-3787-4404-ba9a-da9b370def78"/>
         </node>
         <node id="Feat">
