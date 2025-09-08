@@ -98,11 +98,11 @@
     <content contentuid="h1fe42905gf43cg4122g84b1g51b2c326bd80" version="1">轻盈步伐 2e</content>
     <content contentuid="h74da630egf1f3g4b40g83e3g65a389d97d8d" version="1">获得额外 [1] 点移动速度。</content>
     <content contentuid="h645ee264g9e39g41c2g9abeg502746acfb0d" version="1">轻盈步伐</content>
-    <content contentuid="h40daa61cg793dg42e8gaaf4ga7c3ace4de74" version="1">获得 [9] 点额外移动速度。</content>
+    <content contentuid="h40daa61cg793dg42e8gaaf4ga7c3ace4de74" version="1">获得 [1] 点额外移动速度。</content>
     <content contentuid="hf2bbfa98g1ea2g4faeg8bf8g29f59a688b6b" version="1">友引 2e</content>
     <content contentuid="ha8938a25g9518g4b27g828bg26c4d3977572" version="1">你射出几缕虚无的心灵丝线，将每个目标直接拉向你，并停在离你最近的未占据的空间。</content>
     <content contentuid="h0d2679f7ga058g41f5g819fga086839d330a" version="1">跳跃 2e</content>
-    <content contentuid="hbb151b11gd333g4fcega571ga9316d959ada" version="1">你以魔法增强你的跳跃能力，在一次奖励动作中跳跃 [1]。</content>
+    <content contentuid="hbb151b11gd333g4fcega571ga9316d959ada" version="1">你以魔法增强你的跳跃能力，在一次附赠动作中跳跃 [1]。</content>
     <content contentuid="ha1f9cee4g55f4g4e2cga375gfee9f2becc2c" version="1">跳跃中</content>
     <content contentuid="h700b0f01gee91g4b9bgb8a5gd08a72c3a3c9" version="1">跳跃中...你还需要什么其他提示？</content>
     <content contentuid="h9a8ebb71gf4b6g469eg84c0gbc84b0b9a634" version="1">法师护甲 2e</content>
@@ -128,7 +128,7 @@
     <content contentuid="h6894fe6eg37d9g442fg8928ge9e854833476" version="1">灌木墙 2e</content>
     <content contentuid="h13140f2agf5afg450eg956fga4c844170e33" version="1">你召唤出一排本地的灌木从地面冒出。</content>
     <content contentuid="hf5d66e7cg7744g41e3g9211g31867de19840" version="1">尖刻言词 2e</content>
-    <content contentuid="hd742a6dfgf5b6g4c38g8b40g16d673ae1914" version="1">你用魔法缠绕你的声音，使你的嘲讽和讥讽对敌人造成物理伤害，造成 [1] 点伤害。你可以在随后的回合中再次作为奖励动作使用。</content>
+    <content contentuid="hd742a6dfgf5b6g4c38g8b40g16d673ae1914" version="1">你用魔法缠绕你的声音，使你的嘲讽和讥讽对敌人造成物理伤害，造成 [1] 点伤害。你可以在随后的回合中再次作为附赠动作使用。</content>
     <content contentuid="h13239fe7gb1d4g4d6bgb29cgd8fc87182632" version="1">猛烈之风 2e</content>
     <content contentuid="h6e2aa55dgf99dg47b0ga7dbgf97292968818" version="1">你释放出一阵迅猛的风，对活物对手造成冲击而不会造成持久伤害，同时吹飞亡灵，造成 [1] 点伤害。</content>
     <content contentuid="hcd60edefg34cbg458cg8a8cgf7bf25a8e70b" version="1">目眩</content>
@@ -143,7 +143,7 @@
     <content contentuid="h0990069eg890eg4f0fg9188gbfacd949203a" version="1">你引导正能量来治疗活物或伤害亡灵。</content>
     <content contentuid="had9b8455gd51fg4c2bgb17fg79deec3065ba" version="1">地平线雷球 2e</content>
     <content contentuid="h2d9d8c45gbcf1g4c94gb4a7g4a659ee36b48" version="1">你在手掌中聚集魔法能量，形成一个集中雷球，发出如同遥远雷鸣般的咔嚓声和轰鸣声。</content>
-    <content contentuid="hb7f7d91egd37ag4461ga458gdc890a1e8861" version="1">你在手掌中聚集魔法能量，形成一个集中雷球，发出如同遥远雷鸣般的咔嚓声和轰鸣声。此变体需要 2 回合施法。</content>	
+    <content contentuid="hb7f7d91egd37ag4461ga458gdc890a1e8861" version="1">你在手掌中聚集魔法能量，形成一个集中雷球，发出如同遥远雷鸣般的咔嚓声和轰鸣声。此变体需要 2 回合施法。</content>
     <content contentuid="ha8f500afg4d2bg4325ga5edg6767ab48d62d" version="1">带电</content>
     <content contentuid="h17998f29ga94ag49fcg9f24g518e78c218d4" version="1">近战攻击者在攻击你时受到 [1] 点伤害。</content>
     <content contentuid="h51b9ff47g8214g4870g8969g1e7da8f5bbef" version="1">水力推进 2e</content>
@@ -287,10 +287,10 @@
     <content contentuid="hb620cbd0gcf9ag4602g9ce0g3628c3821170" version="1">通过信仰的力量，你的身体充满了圣洁能量。当你受到死灵伤害时，额外受到[1]伤害，并减少[2]伤害。任何在5英尺内用近战攻击攻击你的生物都会受到[3]伤害。你的武器和徒手攻击额外造成[4]伤害，你的治疗法术额外恢复[5]。</content>
     <content contentuid="he7e15d4fg04a7g4016gaebcg41a9fce8ee47" version="1">圣化血肉</content>
     <content contentuid="hc807299cg5be9g414ag8b90g08c84b531db6" version="1">当你受到死灵伤害时，额外受到[1]伤害，并减少[2]伤害。任何在5英尺内用近战攻击攻击你的生物都会受到[3]伤害。你的武器和徒手攻击额外造成[4]伤害，你的治疗法术额外恢复[5]。</content>
-    <content contentuid="h0f438b86g1accg45adg882bg3e50efa6face" version="1">将动作转为奖励动作 2e</content>
-    <content contentuid="h630d40acge160g49bdgb311g4ec0cf4dba11" version="1">将一个动作转化为2个奖励动作。</content>
-    <content contentuid="h42fbfd1fg51e9g439ag9975g12410a613003" version="1">将奖励动作转为动作 2e</content>
-    <content contentuid="hadcdbe18ga3acg4342gbe9ag3db11e4b6da8" version="1">将2个奖励动作转化为一个动作。</content>
+    <content contentuid="h0f438b86g1accg45adg882bg3e50efa6face" version="1">将动作转为附赠动作 2e</content>
+    <content contentuid="h630d40acge160g49bdgb311g4ec0cf4dba11" version="1">将一个动作转化为2个附赠动作。</content>
+    <content contentuid="h42fbfd1fg51e9g439ag9975g12410a613003" version="1">将附赠动作转为动作 2e</content>
+    <content contentuid="hadcdbe18ga3acg4342gbe9ag3db11e4b6da8" version="1">将2个附赠动作转化为一个动作。</content>
     <content contentuid="h679fd6ebg52e3g47e6ga8c8g2eb361e9614c" version="1">爆炸反击 2e</content>
     <content contentuid="h0146360agdce1g4663g9f54g8aa3aba75604" version="1">你以震动的轰鸣击打地面，将落地的力量向外传播成波浪。你不会因坠落受到伤害，因为被置换的空气让你轻轻落地，但法术区域内的所有其他生物会受到[1]伤害。未通过豁免的生物也会被推开[2]英尺。</content>
     <content contentuid="h03168025gec04g4dd1ga7d9g03d174162d60" version="1">毒化伙伴 2e</content>
@@ -310,9 +310,9 @@
     <content contentuid="h861142c6gbb50g4868g9d37g9b2e34709899" version="1">鬼影武器</content>
     <content contentuid="h9cd334c9g98c3g44a0g9399g01e55892db3e" version="1">无视物理抗性。</content>
     <content contentuid="hcf3964f1gdd82g4421gb383g5e3317bb1700" version="1">加速术 2e</content>
-    <content contentuid="h34185cc0gacfeg4c2ag826ega7bf720afc18" version="1">魔法赋予目标更快的行动能力。每回合获得一个额外的奖励动作。</content>
+    <content contentuid="h34185cc0gacfeg4c2ag826ega7bf720afc18" version="1">魔法赋予目标更快的行动能力。每回合获得一个额外的附赠动作。</content>
     <content contentuid="h3b6465b8g3d1eg436bga14dgf45d91c8519c" version="1">加速</content>
-    <content contentuid="h52c162e3gee90g41b6gba2cgbfa5e5a30c59" version="1">在你的回合获得一个额外的奖励动作。</content>
+    <content contentuid="h52c162e3gee90g41b6gba2cgbfa5e5a30c59" version="1">在你的回合获得一个额外的附赠动作。</content>
     <content contentuid="h4e03ae5cg7c48g4f66gad54g7980b5e2fa0b" version="1">英雄气概 2e</content>
     <content contentuid="hc065bb28gc57ag4c8aga8c9g8e4abf7e407b" version="1">你激发目标的内在英雄主义，给予其攻击检定、豁免检定和技能检定+[1]加成。</content>
     <content contentuid="h9e9a3343g27dbg4056gaaf5gee4af3b4f2d1" version="1">英雄气概</content>
@@ -371,10 +371,10 @@
     <content contentuid="hd244c789g15a5g4a6cga82eg407e17b1eaab" version="1">空中形态</content>
     <content contentuid="hf219d3bcg0991g41f1g8829g41f27f49af5e" version="1">飞翔</content>
     <content contentuid="hb74f1108g4a36g45f6g8dc2g617c07f9b453" version="1">闪现 2e</content>
-    <content contentuid="h879dc7bbg444cg43bega9adg05e931028bc2" version="1">你在物质位面和幽影位面之间快速闪烁。你从任何来源（除了力场）受到的伤害减少[1]。你可以用一个奖励动作传送10英尺。</content>
+    <content contentuid="h879dc7bbg444cg43bega9adg05e931028bc2" version="1">你在物质位面和幽影位面之间快速闪烁。你从任何来源（除了力场）受到的伤害减少[1]。你可以用一个附赠动作传送10英尺。</content>
     <content contentuid="h6c3c62bdg61cbg4073gad23g7a1478eb3e51" version="1">闪现</content>
     <content contentuid="h4f11468cg133bg4f02ga734gc1034503abf6" version="1">你从任何来源（除了力场）受到的伤害减少[1]。</content>
-    <content contentuid="h1d6cc617gf26bg47a5gb7b0gde2cc72de7c7" version="1">作为奖励动作传送[1]。</content>
+    <content contentuid="h1d6cc617gf26bg47a5gb7b0gde2cc72de7c7" version="1">作为附赠动作传送[1]。</content>
     <content contentuid="hbea64b88gbc5fg4e7fga6b6g0e26913eb5b1" version="1">血喷诅咒 2e</content>
     <content contentuid="h4616ca89gca4fg4bb4g870cg5d826e8b38b9" version="1">你对目标施加诅咒，使任何伤口喷涌鲜血。</content>
     <content contentuid="h388881d6g456ag4d2egb6bag5f81309fbe2f" version="1">每当目标受到单次攻击超过10点的穿刺或切割伤害时，额外受到[1]伤害。若豁免失败，则该伤害持续存在。</content>
@@ -461,7 +461,7 @@
     <content contentuid="h9971defbg785bg4045gb8bfg51152172e381" version="1">闪电冲击 2e</content>
     <content contentuid="h379126bdg2135g48bbg9300g15b79f06d342" version="1">你通过空间传送的力量来进行打击，带着传送的动能打击敌人。你传送到一个你能看到的范围内靠近生物的空位，然后用你手中的武器对其进行打击。打击造成[1]伤害和额外[2]伤害。</content>
     <content contentuid="hbdd6e157gefb4g44a6ga86bg969caa638a8e" version="1">水泡术 2e</content>
-    <content contentuid="hacff2167g1f2ag4a86g882cg2d591606504c" version="1">你指向一个范围内的目标，它的皮肤上长出充满腐蚀性液体的炽热水泡。作为一个奖励动作，戳破水泡，在目标周围[2]范围内造成[1]伤害。目标在豁免失败时会长出2个水泡，成功则长出1个。</content>
+    <content contentuid="hacff2167g1f2ag4a86g882cg2d591606504c" version="1">你指向一个范围内的目标，它的皮肤上长出充满腐蚀性液体的炽热水泡。作为一个附赠动作，戳破水泡，在目标周围[2]范围内造成[1]伤害。目标在豁免失败时会长出2个水泡，成功则长出1个。</content>
     <content contentuid="h86e01b85g120dg42afga228g72dbe466fbba" version="1">血宴 2e</content>
     <content contentuid="h5d41efefg4d6bg4f4ega417g3e1ebdf33c0e" version="1">你的头部垂直裂开成一个巨大的口，吞噬目标的血液，造成[1]伤害。法术结束后，你的头部会像从未裂开过一样愈合。你恢复相当于目标所受穿刺伤害一半的生命值。</content>
     <content contentuid="h2c9aed47g3e5eg47f9g9b5bgef02eb674444" version="1">生命之息 2e</content>
@@ -481,7 +481,7 @@
     <content contentuid="h3dc736bdg7f87g4a47gb74bg292c9de89799" version="1">强力之手 2e</content>
     <content contentuid="hd721eeeegc71fg4dacga0e6g648cecd14e21" version="1">创造一个由力量构成的战斗手。</content>
     <content contentuid="hfdc595f0g0795g454dg8228ge4931e944216" version="1">闪电风暴 2e</content>
-    <content contentuid="h661507f4g1facg4bfbg859cg638377e1cc7d" version="1">你创造一个黑色的雷鸣风暴云，并在法术区域内召唤一道闪电。闪电从风暴云顶部垂直降至地面，对区域内的生物造成[1]伤害。在随后的回合中，你可以用一个奖励动作在区域内再次召唤闪电。</content>
+    <content contentuid="h661507f4g1facg4bfbg859cg638377e1cc7d" version="1">你创造一个黑色的雷鸣风暴云，并在法术区域内召唤一道闪电。闪电从风暴云顶部垂直降至地面，对区域内的生物造成[1]伤害。在随后的回合中，你可以用一个附赠动作在区域内再次召唤闪电。</content>
     <content contentuid="h2ffd8f68g5588g4acaga777gf3a812a81441" version="1">召唤闪电</content>
     <content contentuid="h7304fa4eg3014g4ae7gabd2g2e78323461cd" version="1">召唤一道闪电造成[1]伤害。</content>
     <content contentuid="he0aa5ce3gc284g4a22ga549gf7521f0f4d20" version="1">植物形态 2e</content>
@@ -533,7 +533,7 @@
     <content contentuid="h10ab93aag3795g4131gbca5g654f1a28c078" version="1">坏死肌肉</content>
     <content contentuid="hf90ad19dga894g41cbg8385g27fa1ffb1807" version="1">目标的肌肉开始腐烂，虚弱[1]</content>
     <content contentuid="h446084ffg7773g4653ga2d9g005a62d8537c" version="1">幻影乐团 2e</content>
-    <content contentuid="h4c153880g8c18g42d9gaab5g71b37d833e82" version="1">你组织一个由风元素平原中游离的声音组成的无形乐团，并可以指挥这支交响乐攻击范围内的敌人。当你施放该法术时，一股捕捉到的音乐气息在你选择的范围内爆发，造成[1]伤害并使生物失聪。法术施放后的持续时间内，每当你使用奖励动作时可以再次制造一次音乐爆发。</content>
+    <content contentuid="h4c153880g8c18g42d9gaab5g71b37d833e82" version="1">你组织一个由风元素平原中游离的声音组成的无形乐团，并可以指挥这支交响乐攻击范围内的敌人。当你施放该法术时，一股捕捉到的音乐气息在你选择的范围内爆发，造成[1]伤害并使生物失聪。法术施放后的持续时间内，每当你使用附赠动作时可以再次制造一次音乐爆发。</content>
     <content contentuid="h88e2a04cg2227g46b6ga7d2g240fd0ae2fdc" version="1">排斥 2e</content>
     <content contentuid="h1189af7bg2b68g4f88g845ag2b342f170b8c" version="1">你创造一个排斥光环，防止敌对生物接近你，范围最多为[1]。</content>
     <content contentuid="hf77a5cb7g4d70g46fdgb64cg6c8b91b2192b" version="1">排斥</content>
