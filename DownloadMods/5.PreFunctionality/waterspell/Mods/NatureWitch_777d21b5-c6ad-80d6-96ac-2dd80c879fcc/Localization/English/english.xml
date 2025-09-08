@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="hd0e33ef3g2ebag3ca4gb0afgf502f847933c" version="1">Natures Wrath</content>
+  <content contentuid="h2fb088bbg6a4eg7ec4gc6d2gaffa76c09f51" version="3">Crushes target with grasping vines.</content>
+  <content contentuid="he691b456g9199g2f73gfa73gc453bb3e36f2" version="2">Watery Grave</content>
+  <content contentuid="h870c68c0gc393gc5b8g5884gb3e28c949a15" version="1">Bury targets in an avalanche of mud.</content>
+  <content contentuid="hf1111d55g46b3gaba9ge97fg255ed0cbcbbd" version="1">Water Bomb</content>
+  <content contentuid="hb0ddc908g9bcbg583cg75c3g6e3c93af60eb" version="1">Shoot [1] Water dart, each dealing [1]. They always hit their target.</content>
+  <content contentuid="hbe406b21g964ag3526ge537gec228eebf113" version="1">Sunbeam</content>
+  <content contentuid="hab44e092g435ag79e2g8f2eg9f3127c2a0f0" version="1">A beam of brilliant light sears and &lt;LSTag Type="Status" Tooltip="SUNBEAM"&gt;Blinds&lt;/LSTag&gt; all creatures in its path.</content>
+  <content contentuid="hfbf66335g7e52g2f19ge868gcd65e584004b" version="1">Until the spell ends, you can recast Sunbeam without expending a &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt;.</content>
+  <content contentuid="hfb171ca7g339agdaecg9905gec290a892ee6" version="2">Water Torrent</content>
+  <content contentuid="h859a33c0g4e47gb1a9g0337gef839ad2f809" version="4">Call forth a torrent of water that cuts through all creatures in it's path, possibly making them &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;Bleed&lt;/LSTag&gt;.</content>
+  <content contentuid="h7613eee8gaab9g0bd9g2f60gc8ec340010f9" version="1">Until the spell ends, you can recast Sunbeam without expending a &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt;.</content>
+  <content contentuid="he9685f71g14e4g2cacgcfbagd7d86a9dd352" version="1">Water Spout</content>
+  <content contentuid="hc7ece36dged8cgd58cg8ffag7ada62358c51" version="8">Water Spout</content>
+  <content contentuid="h9da7723fg43a4gaac9g3760gd165a32842ea" version="2">Water Spout</content>
+  <content contentuid="heb7a8cecgc880g6a59gcd02gb468e8dc0c62" version="1">Takes [1] per turn.</content>
+  <content contentuid="h35a18a44g0d98gddcfgab8dg17c72607f5b4" version="1">Holy Rain</content>
+  <content contentuid="h4f3ec5c4g967eg7c51gf41cg0828b41c1b58" version="2">Create a rain storm that has been touched by your deity harming your enemies while healing you half of the damage dealt.</content>
+  <content contentuid="hf68fc748g5bacgfd53gfc93g70541b2c9b14" version="1">Crushing Bubble</content>
+  <content contentuid="hd1f3ff58gda66g349fg2108g0750cb2e7245" version="2">Drowning Grip</content>
+  <content contentuid="h81ec42d3gb750gaaf5g96d3g28cd5899d7bd" version="2">Minor Torrent</content>
+  <content contentuid="h298d2efeg6190g0bd9g7958gaf749b2be6bc" version="3">Rogue Wave</content>
+  <content contentuid="h9255f11egfcaeg0977g220cg10112d3cdad8" version="1">Veil of Mist</content>
+  <content contentuid="h5a37ec05g75dag2fbag8b3fg5c112a6bac8b" version="2">Heavily Obscures and Blinds creatures within.</content>
+  <content contentuid="ha01515b1g15d0gbbe4gfa73gefcfb8f6ecd4" version="2">Fog</content>
+  <content contentuid="h6d122647g873dg46edgfafagdea391df7190" version="3">Heavily Obscures and Blinds creatures within.</content>
+  <content contentuid="h779c5c89gbd0eg2e98gf918g3ffa93bfb301" version="3">Fog</content>
+  <content contentuid="h337cc74bg24e4g1463g36efgaa6843fa5d93" version="1">Bubble</content>
+  <content contentuid="h1e4f1f55gd72cg8014g6dc6gb3b1073e9dc9" version="2">Bubble</content>
+  <content contentuid="h012d02edg7ccag944bg07f4g01d8cd9fb2ab" version="1">Bubble</content>
+  <content contentuid="h70b5afe4g358dg1709g9a4fg254edc3b3669" version="1">Bubble</content>
+  <content contentuid="hf5d4fabbg2e47gf0f3g0b46g8e7922d0eb0a" version="1">Geyser</content>
+  <content contentuid="h78c568ecg4cfag4665gd9f7g6385ee52c82b" version="1">Geyser</content>
+  <content contentuid="h25068b18g0b30g474bgc077g36c9698a0b03" version="2">Flood</content>
+  <content contentuid="h4c101928g3595g309ag46cfgaae6e7df253a" version="2">Tears of Umberlee</content>
+  <content contentuid="h441988b8gb908g3659gd0bdg1e96c4ed8a35" version="8">Hurl 3 compressed water bolts, each dealing [1] to anyone within [2] of the impact and potentially knocking them &lt;LSTag Type='Status' Tooltip='OFF_BALANCED'&gt;Off Balance&lt;/LSTag&gt;. Each bolt leaves a wet surface of [3].</content>
+  <content contentuid="hf2dc6ce6g3199g18c8gef1cg1c1228925d7b" version="1">This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.</content>
+  <content contentuid="h8af1676fg556cgbe71gdacdg63e2c801fcba" version="2">Drowning Grip</content>
+  <content contentuid="hbf83e4e5g00abg1a16g8e87g1b54d01bbd8b" version="18">Crush a creature in a sphere of water that you can push or pull dealing an extra [2]. It takes [1] per turn and cannot move. It suffers &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and incoming attacks have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.</content>
+  <content contentuid="h7cb36e27g300dgb6begf3c1gab0d67b635eb" version="1">cannot move and receives a -[1] penalty to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;</content>
+  <content contentuid="h92e0d3a4g5510g2db6g9f4bgd04b7ef5a393" version="1">hf4d3f156ga6aeg45f8g8898gdbb03d43a025:5:Up to [2] creatures receive a -[1] penalty to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+  <content contentuid="hd4c7d9a6g8fa8g0b8bgf8e3g880f3cd939ce" version="2">Waterspout</content>
+  <content contentuid="h82e8e71eg425eg2b6fge562ga130d75e3257" version="6">Call forth a furious, swirling mass of water that thrashes anyone who enters, possibly leaving them &lt;LSTag Type="Status" Tooltip="CRIPPLED"&gt;Maimed&lt;/LSTag&gt;. </content>
+  <content contentuid="h5b28ce0ag791bg16f7g3ae5g608477de82f2" version="1">Waterspout</content>
+  <content contentuid="hc619ff4agcb82g414bg13e1g9962fdadb3fc" version="4">A violent cone of water fills the air. Anyone inside the whirlwind takes [1] each turn. Applies &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN_DEEPWATER"&gt;Difficult Terrain: Deep Water&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="WET"&gt;Wet&lt;/LSTag&gt;</content>
+  <content contentuid="hb85797feg9232gb7b7g6bdcg2a3db5e29a87" version="1">Waterspout</content>
+  <content contentuid="hc7d5899fgd218g7cb7g27b1gfb543a71c646" version="4">Takes [1] per turn and can be &lt;LSTag Type="Status" Tooltip="CRIPPLED"&gt;Maimed&lt;/LSTag&gt;.</content>
+  <content contentuid="hce3c13ddgcbacgd361g5c97gc1fbb1ed6f47" version="1">Hydro Resistance</content>
+  <content contentuid="h4eca63c0gb377g65dfg94deg08b80e761beb" version="4">Protect an ally from damage done by water spells and increase their &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 5. They become Fire resistant and immune to &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt;.</content>
+  <content contentuid="h126d79d7g80ebg816fgacf3g41d009b87384" version="1">Hydro Resistance</content>
+  <content contentuid="h72c89350gd610gdfbfg06f3g43956d641618" version="2">Receives +5 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; and is immune to damage from water spells.</content>
+  <content contentuid="hfe4ce77cg7e63g7154gdaf0gb5e01785b16f" version="3">Flood Aura</content>
+  <content contentuid="h52f6d667g8a84g8536g7fd5gcb16983b9eee" version="4">Surrounding creatures take [1] per turn, yours and their &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; is halved.</content>
+  <content contentuid="h3b441a84g6ce6g9cf6g9400gad39c5c790e8" version="1">Restraining Wave</content>
+  <content contentuid="h8fd63e98g17b9gdb9eg7317gd6779a3d4c8d" version="1">%%% EMPTY</content>
+  <content contentuid="h2bcfa918g6b76g40bcgd4e9gd101e3435f37" version="2">Storm of Swords</content>
+  <content contentuid="hdf9f7daagdc01g80e0g5a4eg1b997ce2db80" version="3">Conjure a storm of razor-sharp rain, slicing through creatures and causing them to &lt;LSTag Type='Status' Tooltip='BLEEDING'&gt;Bleed&lt;/LSTag&gt;.</content>
+  <content contentuid="h0d1c2283gcd85g81d3g53a8g7ef47767cb2e" version="6">Surround yourself in a pool of raging water that hinders others from getting near. Dismiss the spell to trigger a flash flood that pushes creatures away [1], dealing [2] and knocks them &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;</content>
+  <content contentuid="h7be92135g6030g0ca0g1e00ga30d45d92c0e" version="1">Geyser</content>
+  <content contentuid="h2312a758gcfb3g4531g885dg729e3fa3f6f4" version="4">Glyph of Warding</content>
+  <content contentuid="h35ae8433gcd78g02adg2412ga38b5d1f525a" version="1">Geyser</content>
+  <content contentuid="h400a5c27g562agd621gfb57gabaa8180841c" version="11">Geyser01</content>
+  <content contentuid="h8b43b1ffg53dbg8e6agf575gc993e4cf3c64" version="6">Cannot take &lt;LSTag Tooltip="BonusAction"&gt;bonus actions&lt;/LSTag&gt;.</content>
+  <content contentuid="h9f5cc0f5gafedg914dg6155gf0a301cfc9ce" version="9">Summon a geyser; when walked on by a foe, it will erupt and possibly &lt;LSTag Type="Status" Tooltip="SURPRISE"&gt;Surprise&lt;/LSTag&gt; unsuspecting victims.</content>
+  <content contentuid="h32dfd7adga38dg9b5ag3ebdg0b4232617479" version="1">Eruption</content>
+  <content contentuid="h1346b176gee1dgaca5g1c3bgb1112ecf93ff" version="2">Leech</content>
+  <content contentuid="hc4b2bef9g0c7dg6e08g0039ga2654cc4a9b8" version="11">Tear the very essence from your foe and siphon half as many &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;. Fire up to 3 beams, each one dealing [1].</content>
+  <content contentuid="h357b29fdg6618gf501g4e63g79a82d735d73" version="1">Downpour</content>
+  <content contentuid="h455d3733g3d3bgc0ecg88dbg0a6e820d1854" version="7">Draw moisture from the environment, concentrating it into a vertical beam of crushing force that creates a wet surface in a [2] radius, possibly pushing creatures away [1] and knocking them &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+  <content contentuid="h5d2f386ag389dg02d2g5a62g4b04a1094f06" version="1">Whirlpool</content>
+  <content contentuid="he5f511d5g5023g38a8gbea1gc19b84de64a5" version="8">Summon a whirlpool that creates a wet surface with a [2] radius, can pull in creatures in [1] from the surrounding area and possibly knock them &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+  <content contentuid="h2bf64989g84b1gddb0g9457ge3c203b73702" version="1"> ApplyStatus(BLEEDING,100, 10)</content>
+  <content contentuid="h4f062bbfg693bged00g707fgb5d053f95053" version="2">Wave Dancer</content>
+  <content contentuid="h6de6b980g0bacgbcbeg5237gfe0325fa8747" version="5">Allow a creature to be unaffected by &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;, it's &lt;LSTag Tooltip="MovementSpeed"&gt;Movement speed&lt;/LSTag&gt; is increased by [1] and it's &lt;LSTag Tooltip="Immune"&gt;Immune&lt;/LSTag&gt; to falling &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; on ice and grease.</content>
+  <content contentuid="h002b47a7g3b67gcbb3g76bdg41769bb28c96" version="2">Wave Dancer</content>
+  <content contentuid="h7b384026gb240gde1ag9fbdg9b46261b0fda" version="3">Unaffected by &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;, &lt;LSTag Tooltip="MovementSpeed"&gt;Movement speed&lt;/LSTag&gt; is increased by [1] and is &lt;LSTag Tooltip="Immune"&gt;Immune&lt;/LSTag&gt; to falling &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; on ice and grease.</content>
+  <content contentuid="h459896fbgc4cfgd036gdf44g6a20fb909c02" version="1">Douse</content>
+  <content contentuid="hb4c8c5ffg6616ge12fgb840g9bcd22449ea5" version="6">Unleash a precise, blade-like stream of water. If the target and a nearby enemy are &lt;LSTag Type='Status' Tooltip='WET'&gt;Wet&lt;/LSTag&gt;, fire an additional beam that deals [1].</content>
+  <content contentuid="h873b3af4g3cb9gefacgd766gc3228d543035" version="1">Shoot out a bolt of water, wetting the target.</content>
+  <content contentuid="ha436b019gf4bbg0bd9g7482gb7b168471478" version="7">Release a powerful wall of water becoming &lt;LSTag Type="Status" Tooltip="WET"&gt;Wet&lt;/LSTag&gt;, creatures that fail a &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; are pushed back [1] and fall &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+  <content contentuid="h234d5204gc8e0g601fg9a6ege0e908922327" version="2">Flood</content>
+  <content contentuid="hf5a566c4g054cgbe14g310egfd51357a2ad1" version="3">Creature takes [1] per turn, yours and their &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; is halved.</content>
+  <content contentuid="h47f98a4fg5617g92beg7460gd6e2b2de0f55" version="1">Receives +6 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;.</content>
+  <content contentuid="hf0e7d1f6g1e48g1018gb785g2926d8a85a16" version="2">Receives +6 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;.</content>
+  <content contentuid="h412059b1ge94bg952cgce6ag290c41bbc6ba" version="1">Receives +8 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;.</content>
+  <content contentuid="h2aebab08gb484gae60g13f3ge175c9b45905" version="2">Receives +8 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;.</content>
+  <content contentuid="h57fa2dfcg08d9g1b2bgd5a3g9e5ca025ba05" version="2">Receives +9 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;.</content>
+  <content contentuid="hee030a3bgd006gef73g3e74g1c72d5b5db3c" version="1">Receives +7 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;.</content>
+  <content contentuid="hf1dd95cdge228g350dge7e8g19d7ecb26720" version="1">Fortify a creature from impending harm: increase its &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 6.</content>
+  <content contentuid="h1bdf9bc1g4608g00bcg1e05g44760ea2f6d3" version="1">Fortify a creature from impending harm: increase its &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 7.</content>
+  <content contentuid="h2f368ea1ge103ga27dge731g59155c2803a0" version="1">Fortify a creature from impending harm: increase its &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 8.</content>
+  <content contentuid="h0a7b38c2g1685g2145gf84bg372f942ae43c" version="1">Fortify a creature from impending harm: increase its &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 9.</content>
+  <content contentuid="h0eef9532g295ag99e5ged34g2d65857490f9" version="2">Geyser</content>
+  <content contentuid="h5ea58a94gfd85gb794g7743ge02b3392f249" version="2">Geyser</content>
+  <content contentuid="h5237cb81gdb8dg70d2gb49egfdff29ecc62a" version="3">Takes [1] per turn and cannot move. It suffers &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and incoming attacks have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.</content>
+  <content contentuid="h23251d43g1849g0024g9453ge957a8fc7908" version="1">Minor Torrent</content>
+  <content contentuid="h1965b9edg05b5g742fg763eg76ea36e253a3" version="2">Unleash a precise, blade-like stream of water. If the target and a nearby enemy are &lt;LSTag Type='Status' Tooltip='WET'&gt;Wet&lt;/LSTag&gt;, fire an additional beam that deals [1].</content>
+  <content contentuid="h07ef2b65gff47g887bg36f6g713c274176f1" version="1">Hydro Resistance</content>
+  <content contentuid="he6b8173egc585ga779g77feg2c0a60cc6503" version="1">Target isn't affected by water spells.</content>
+  <content contentuid="hab18679bgcd6fg30adg2491g1b7edad4d938" version="1">Receives +5 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; and is immune to damage from water spells.</content>
+  <content contentuid="h788cebffg3598gba5eg0153ge375341b80fa" version="1">Receives +5 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; and is immune to damage from water spells.</content>
+  <content contentuid="habe3da8egfd6dg704bg643ag9b5441a9ae53" version="1">Receives +5 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; and is immune to damage from water spells.</content>
+  <content contentuid="he44eb7cdg8687ga6dag5945g8f342bdb0eec" version="2">+5 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;, is immune to damage from water spells, prevented from &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt; and &lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to Fire damage.</content>
+  <content contentuid="h45748bb0ge86dgc7f3g9ba2g54533e29e0a2" version="4">Protect up to 2 allies from damage done by water spells and increases their &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 5. They become Fire resistant and immune to &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt;.</content>
+  <content contentuid="hfb4fd8edg7268g1e14gcf2fg070061dd0dc3" version="4">Protect up to 3 allies from damage done by water spells and increases their &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 5. They become Fire resistant and immune to &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt;.</content>
+  <content contentuid="hc674b26cgc454gaa54g4b40gdf875449ea0b" version="4">Protect up to 4 allies from damage done by water spells and increases their &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 5. They become Fire resistant and immune to &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt;.</content>
+  <content contentuid="h45bc4bafgad7dgb03dgdfcdgee9b50f853c2" version="4">Protect up to 5 allies from damage done by water spells and increases their &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 5. They become Fire resistant and immune to &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt;.</content>
+  <content contentuid="h910db898ge4b4g3eecg3306g947bcdd13742" version="1">+5 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;, is immune to damage from water spells, prevented from &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt; and &lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to Fire damage.</content>
+  <content contentuid="h233f997dg7eb3g05bfgaeabg345ff6bafdc6" version="1">+5 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;, is immune to damage from water spells, prevented from &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt; and &lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to Fire damage.</content>
+  <content contentuid="h51172d1bg0118g00d2gbae2g68b51d9b43ff" version="1">+5 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;, is immune to damage from water spells, prevented from &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt; and &lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to Fire damage.</content>
+  <content contentuid="h35d74f54gd893g6259g351eg632ead0f1149" version="1">+5 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;, is immune to damage from water spells, prevented from &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt; and &lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to Fire damage.</content>
+  <content contentuid="h8f4e091fgf5b2gedd1g1a61g5c41830b6636" version="2">Drowning Grip</content>
+  <content contentuid="he7884ba0g3d9dgbcdag8b24g83e5a744dd8f" version="2">Push or pull the target that is trapped inside the &lt;LSTag Type="Status" Tooltip="CRUSHING_BUBBLE_DS"&gt;Drowning Grip&lt;/LSTag&gt; by [1].</content>
+  <content contentuid="h2fb9ec47g630eg51f9g3e26ge0eb4b5235ce" version="3">Pull the sphere of water.</content>
+  <content contentuid="hfb1fa639gaa31gbf16gac1dg228d578c0a94" version="2">Pull the creature [1] closer to you.</content>
+  <content contentuid="h962d4fc9g89e4g9898g4b65gdc4c04172f41" version="3">Push the sphere of water.</content>
+  <content contentuid="he9ea8e48g345fg6b2dg04dcg966c95434f07" version="2">Push the creature [1] away from you.</content>
+  <content contentuid="hcd8fbc37ged21g469ag775fg1b103b9109d2" version="1">Hydro Resistance</content>
+  <content contentuid="h78a5a9ccgc58egc43agb975g09efbd2531e8" version="2">Immune to damage from water spells.</content>
+  <content contentuid="hd6275bbdg5f44g3bb6g4ffegcc49eeff2185" version="1">Flash Flood</content>
+  <content contentuid="h08e5ebe1g6114g4008gd902gc08655cb871f" version="1">Trigger a wave to push creatures away [1] and possibly knock them &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+  <content contentuid="h8fd3abfag446fgffe6g6acbged55ca34bf2c" version="1">Flash Flood</content>
+  <content contentuid="h78a9342eg8020g11aeg96e1g18316c394499" version="5">Dismiss the flood and trigger a wave that pushes creatures away [1] and possibly knocks them &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;. </content>
+  <content contentuid="h04c722d2g036dg60bfg1392g45f47dfd0c1d" version="2">Crushing Bubble</content>
+  <content contentuid="h19ddae2aga8beg4462g6fdfg9e275367269e" version="1">Can be pushed nd pulled by spell caster.</content>
+  <content contentuid="hf7936dbfg294dgef41gc634g0e4443534444" version="3">Push and pull the sphere of water.</content>
+  <content contentuid="h7037464cge044gc070gbd9fg353f9fee6698" version="1">Creature takes [1] per turn but yours and their &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; is halved.</content>
+  <content contentuid="h591ead38g7ecag66dfgc656gcf548b55bf6a" version="1">Crush a creature in a sphere of water that you can push or pull dealing a extra [2]. It takes [1] per turn and cannot move. It suffers &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and incoming attacks have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.</content>
+  <content contentuid="h0d4dc735gffb0g1431gb093g20577b3ab89e" version="1">Crush a creature in a sphere of water that you can push or pull dealing an extra [2]. It takes [1] per turn and cannot move. It suffers &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and incoming attacks have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.</content>
+  <content contentuid="h1b2f99d0gf129g1317gbe87gee429af79713" version="6">Tear the very essence from your foe and siphon half as many &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;. Fire up to 4, each directed at a different target. No target can be hit more than once, with each beam dealing [1].</content>
+  <content contentuid="h7dde37f3g2b57gf073g857dgd60e5e730c09" version="1">Tear the very essence from your foe and siphon half as many &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;. Fire up to 5 beams, each directed at a different target. No target can be hit more than once, with each beam dealing [1].</content>
+  <content contentuid="h9d5df0b7g217agfdaag9b89g65a4a7efed71" version="1">Tear the very essence from your foe and siphon half as many &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;. Fire up to 6 beams, each directed at a different target. No target can be hit more than once, with each beam dealing [1].</content>
+  <content contentuid="ha3603e67g91edgae08g9c0dgd2176847747e" version="1">Tear the very essence from your foe and siphon half as many &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;. Fire up to 7 beams, each directed at a different target. No target can be hit more than once, with each beam dealing [1].</content>
+  <content contentuid="hb42b5c7dgc56ag3bd1g8664gd6f5ab71acba" version="1">Protect up to 6 allies from damage done by water spells and increases their &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 5. They become Fire resistant and immune to &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt;.</content>
+  <content contentuid="he8fc6d90g37acg9270g0938g320ceda68fb8" version="1">Protect up to 7 allies from damage done by water spells and increases their &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 5. They become Fire resistant and immune to &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt;.</content>
+  <content contentuid="h03817397gbc1ag4f4bg0b7ag4cd18ce6d74b" version="1">Protect up to 8 allies from damage done by water spells and increases their &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 5. They become Fire resistant and immune to &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt;.</content>
+  <content contentuid="h73a10312g5b92gc25dge010g7b61e6e55dda" version="1">Geyser</content>
+  <content contentuid="hd7463c3dg914fgf507g08fcgc29adcbdd21d" version="1">Geyser</content>
+  <content contentuid="h5ffb78d6g66a5gf44ag87a9gc8bf5d25226e" version="1">Geyser</content>
+</contentList>

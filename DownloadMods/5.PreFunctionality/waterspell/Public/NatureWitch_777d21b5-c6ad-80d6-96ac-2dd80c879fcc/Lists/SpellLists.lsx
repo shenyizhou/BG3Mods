@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="2f43a103-5bf1-4534-b14f-663decc0c525"/>
+                    <attribute id="Name" type="FixedString" value="Cleric Water Cantrips"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_MinorTorrent_Dawnstar;Target_FluidFooting_Dawnstar;Projectile_HurlWater_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="1edb0eb3-bfa9-4df5-82ef-202906c2b176"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="269d1a3b-eed8-4131-8901-a562238f5289"/>
+                    <attribute id="Name" type="FixedString" value="Cleric WaterSpells 1"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="df90577a-54fe-421c-938d-a878996a1e5f"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="2968a3e6-6c8a-4c2e-882a-ad295a2ad8ac"/>
+                    <attribute id="Name" type="FixedString" value="Cleric WaterSpells 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="f07d0ad0-fd4c-4397-8666-79848a5a4615"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="21be0992-499f-4c7a-a77a-4430085e947a"/>
+                    <attribute id="Name" type="FixedString" value="Cleric WaterSpells 3"/>
+                    <attribute id="Spells" type="LSString" value="Target_WaterSpout_Dawnstar;Zone_WaterTorrent_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="f4b236d9-3721-4a45-b939-b4347e9f3637"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="37e9b20b-5fd1-45c5-b1c5-159c42397c83"/>
+                    <attribute id="Name" type="FixedString" value="Cleric WaterSpells 4"/>
+                    <attribute id="Spells" type="LSString" value="Shout_RestrainingWave_Dawnstar;Shout_RazorRain_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="3b1bcb71-8411-48d6-b0f7-f1f377afbd10"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="b73aeea5-1ff9-4cac-b61d-b5aa6dfe31c2"/>
+                    <attribute id="Name" type="FixedString" value="Cleric WaterSpells 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_Geyser_Dawnstar;Projectile_Dehydration_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="51a7a530-2c32-485a-856e-047aafc6005a"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="f8ba7b05-1237-4eaa-97fa-1d3623d5862b"/>
+                    <attribute id="Name" type="FixedString" value="Cleric WaterSpells 6"/>
+                    <attribute id="Spells" type="LSString" value="Target_Whirlpool_Dawnstar;Target_Downpour_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="41215b59-7f3c-455b-82f8-e5e71cbdce3c"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="3cae2e56-9871-4cef-bba6-96845ea765fa"/>
+                    <attribute id="Name" type="FixedString" value="Wizard Water Cantrips"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_MinorTorrent_Dawnstar;Target_FluidFooting_Dawnstar;Projectile_HurlWater_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="bf6d2a67-6bf3-4c04-b44e-bf28b32c345a"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="11f331b0-e8b7-473b-9d1f-19e8e4178d7d"/>
+                    <attribute id="Name" type="FixedString" value="Wizard WaterSpells 1"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="73ed6fd9-36a0-4ad8-b23e-1988431a732f"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="80c6b070-c3a6-4864-84ca-e78626784eb4"/>
+                    <attribute id="Name" type="FixedString" value="Wizard WaterSpells 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="be221615-7f05-4493-b439-c8ef91151032"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="22755771-ca11-49f4-b772-13d8b8fecd93"/>
+                    <attribute id="Name" type="FixedString" value="Wizard WaterSpells 3"/>
+                    <attribute id="Spells" type="LSString" value="Target_WaterSpout_Dawnstar;Zone_WaterTorrent_Dawnstar;Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="1d989d42-50c2-4a60-913c-18c2dbc6e1ed"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="820b1220-0385-426d-ae15-458dc8a6f5c0"/>
+                    <attribute id="Name" type="FixedString" value="Wizard WaterSpells 4"/>
+                    <attribute id="Spells" type="LSString" value="Shout_RestrainingWave_Dawnstar;Shout_RazorRain_Dawnstar;Target_WaterSpout_Dawnstar;Zone_WaterTorrent_Dawnstar;Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="dff5d4aa-f549-4d79-b644-e8b1a4c7a833"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="f781a25e-d288-43b4-bf5d-3d8d98846687"/>
+                    <attribute id="Name" type="FixedString" value="Wizard WaterSpells 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_Geyser_Dawnstar;Projectile_Dehydration_Dawnstar;Shout_RestrainingWave_Dawnstar;Shout_RazorRain_Dawnstar;Target_WaterSpout_Dawnstar;Zone_WaterTorrent_Dawnstar;Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="7103e014-8894-41cb-8905-e568987703c2"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="bc917f22-7f71-4a25-9a77-7d2f91a96a65"/>
+                    <attribute id="Name" type="FixedString" value="Wizard WaterSpells 6"/>
+                    <attribute id="Spells" type="LSString" value="Target_Whirlpool_Dawnstar;Target_Downpour_Dawnstar;Target_Geyser_Dawnstar;Projectile_Dehydration_Dawnstar;Shout_RestrainingWave_Dawnstar;Shout_RazorRain_Dawnstar;Target_WaterSpout_Dawnstar;Zone_WaterTorrent_Dawnstar;Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="fa88c05d-c311-4a38-8db4-b37793bf8744"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="6529c75a-d8cd-4ddb-a1b1-f55cb1e66d9f"/>
+                    <attribute id="Name" type="FixedString" value="Fighter(EldKnight) Water Cantrips"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_MinorTorrent_Dawnstar;Target_FluidFooting_Dawnstar;Projectile_HurlWater_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="79edb5ef-c23b-433d-bd7c-f373194a9ee9"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="32aeba85-13bd-4a6f-8e06-cd4447b746d8"/>
+                    <attribute id="Name" type="FixedString" value="Fighter(EldrKnight) WaterSpells 1"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="0b1bfeb1-ef5d-4d89-b534-8b361c628d6c"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="4a86443c-6a21-4b8d-b1bf-55a99e021354"/>
+                    <attribute id="Name" type="FixedString" value="Fighter(EldrKnight) WaterSpells 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="060f7e33-5a74-4794-a509-25b472e0c699"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="b8faf12f-ca42-45c0-84f8-6951b526182a"/>
+                    <attribute id="Name" type="FixedString" value="Druid Water Cantrips"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_MinorTorrent_Dawnstar;Target_FluidFooting_Dawnstar;Projectile_HurlWater_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="7f30b914-e59f-4e8d-b381-8eaafc609700"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="2cd54137-2fe5-4100-aad3-df64735a8145"/>
+                    <attribute id="Name" type="FixedString" value="Druid WaterSpells 1"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="f50f17e7-e71e-4fe7-a5cf-9ed9e83b5cdd"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="92126d17-7f1a-41d2-ae6c-a8d254d2b135"/>
+                    <attribute id="Name" type="FixedString" value="Druid WaterSpells 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="1ea201a3-f300-4d5b-ac61-e774ff2e8d45"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="3156daf5-9266-41d0-b52c-5bc559a98654"/>
+                    <attribute id="Name" type="FixedString" value="Druid WaterSpells 3"/>
+                    <attribute id="Spells" type="LSString" value="Target_WaterSpout_Dawnstar;Zone_WaterTorrent_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="81024bb4-dc83-472e-b3ca-da8ee327d61d"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="09c326c9-672c-4198-a4c0-6f07323bde27"/>
+                    <attribute id="Name" type="FixedString" value="Druid WaterSpells 4"/>
+                    <attribute id="Spells" type="LSString" value="Shout_RestrainingWave_Dawnstar;Shout_RazorRain_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="9ef360c7-7663-49e7-b2d6-94494248101b"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="ff711c12-b59f-4fde-b9ea-6e5c38ec8f23"/>
+                    <attribute id="Name" type="FixedString" value="Druid WaterSpells 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_Geyser_Dawnstar;Projectile_Dehydration_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="f77a41e3-9fde-4c3a-9fc3-fdb99c6d6d07"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="6a4e2167-55f3-4ba8-900f-14666b293e93"/>
+                    <attribute id="Name" type="FixedString" value="Druid WaterSpells 6"/>
+                    <attribute id="Spells" type="LSString" value="Target_Whirlpool_Dawnstar;Target_Downpour_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="ca69381b-3989-412f-9c70-9469c9828706"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="485a68b4-c678-4888-be63-4a702efbe391"/>
+                    <attribute id="Name" type="FixedString" value="Sorcerer Water Cantrips"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_MinorTorrent_Dawnstar;Target_FluidFooting_Dawnstar;Projectile_HurlWater_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="c2dea9d3-f1a3-49c8-8457-d132829ed7b9"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="92c4751f-6255-4f67-822c-a75d53830b27"/>
+                    <attribute id="Name" type="FixedString" value="Sorcerer WaterSpells 1"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="c24bf253-566d-4aae-ae5f-5050fd03c85f"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="f80396e2-cb76-4694-b0db-5c34da61a478"/>
+                    <attribute id="Name" type="FixedString" value="Sorcerer WaterSpells 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="e6a723b5-a8ff-4e59-b47d-e7761759da89"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="dcbaf2ae-1f45-453e-ab83-cd154f8277a4"/>
+                    <attribute id="Name" type="FixedString" value="Sorcerer WaterSpells 3"/>
+                    <attribute id="Spells" type="LSString" value="Target_WaterSpout_Dawnstar;Zone_WaterTorrent_Dawnstar;Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="ef78dd48-76c8-45a7-813d-87272d997805"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="5fe40622-1d3e-4cc1-8d89-e66fe51d8c5c"/>
+                    <attribute id="Name" type="FixedString" value="Sorcerer WaterSpells 4"/>
+                    <attribute id="Spells" type="LSString" value="Shout_RestrainingWave_Dawnstar;Shout_RazorRain_Dawnstar;Target_WaterSpout_Dawnstar;Zone_WaterTorrent_Dawnstar;Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="2086b96b-8611-4c7d-ae9e-23ed9691979c"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="3276fcfe-e143-4559-b6e0-7d7aa0ffcb53"/>
+                    <attribute id="Name" type="FixedString" value="Sorcerer WaterSpells 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_Geyser_Dawnstar;Projectile_Dehydration_Dawnstar;Shout_RestrainingWave_Dawnstar;Shout_RazorRain_Dawnstar;Target_WaterSpout_Dawnstar;Zone_WaterTorrent_Dawnstar;Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="e4bc13d6-7dd5-48c0-a716-7508594ee5ba"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="1270a6db-980b-4e3b-bf26-2924da61dfd5"/>
+                    <attribute id="Name" type="FixedString" value="Sorcerer WaterSpells 6"/>
+                    <attribute id="Spells" type="LSString" value="Target_Whirlpool_Dawnstar;Target_Downpour_Dawnstar;Target_Geyser_Dawnstar;Projectile_Dehydration_Dawnstar;Shout_RestrainingWave_Dawnstar;Shout_RazorRain_Dawnstar;Target_WaterSpout_Dawnstar;Zone_WaterTorrent_Dawnstar;Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="daf36ef5-47e5-4b32-82c8-7d4ca1d145f2"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="f5c4af9c-5d8d-4526-9057-94a4b243cd40"/>
+                    <attribute id="Name" type="FixedString" value="Warlock Water Cantrips"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_MinorTorrent_Dawnstar;Target_FluidFooting_Dawnstar;Projectile_HurlWater_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="1ba21cf8-d40f-49ff-8683-4292da182c46"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="4823a292-f584-4f7f-8434-6630c72e5411"/>
+                    <attribute id="Name" type="FixedString" value="Warlock Fiend Waterspells 1"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="7f996f9e-d3e4-40bb-8482-bbea833eb28e"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="835aeca7-c64a-4aaa-a25c-143aa14a5cec"/>
+                    <attribute id="Name" type="FixedString" value="Warlock Fiend Waterspells 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="f9e88662-c9ac-4212-a6f4-15108b163091"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="5dec41aa-f16a-434e-b209-50c07e64e4ed"/>
+                    <attribute id="Name" type="FixedString" value="Warlock Fiend Waterspells 3"/>
+                    <attribute id="Spells" type="LSString" value="Target_WaterSpout_Dawnstar;Zone_WaterTorrent_Dawnstar;Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="f707d412-759f-40bf-b83f-bf40b2d05a6a"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="7ad7dbd0-751b-4bcd-8034-53bcc7bfb19d"/>
+                    <attribute id="Name" type="FixedString" value="Warlock Fiend Waterspells 4"/>
+                    <attribute id="Spells" type="LSString" value="Shout_RestrainingWave_Dawnstar;Shout_RazorRain_Dawnstar;Target_WaterSpout_Dawnstar;Zone_WaterTorrent_Dawnstar;Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="752bb8e1-bca3-470b-836b-5eba135fe167"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="deab57bf-4eec-4085-82f7-87335bce3f5d"/>
+                    <attribute id="Name" type="FixedString" value="Warlock Fiend Waterspells 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_Geyser_Dawnstar;Projectile_Dehydration_Dawnstar;Shout_RestrainingWave_Dawnstar;Shout_RazorRain_Dawnstar;Target_WaterSpout_Dawnstar;Zone_WaterTorrent_Dawnstar;Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="42ead586-b4c3-45d5-b185-a46f27c1b801"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="65952d48-bb16-4ad7-b173-532182bf7770"/>
+                    <attribute id="Name" type="FixedString" value="Warlock TGOO Waterspells 1"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="27d4e840-a904-4ea6-886c-c47ea9955be2"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="fe101a94-8619-49b2-859d-a68c2c291054"/>
+                    <attribute id="Name" type="FixedString" value="Warlock TGOO Waterspells 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="cbc773b0-6408-459f-9065-1d481a35a932"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="30e9b761-6be0-418e-bb28-5103c00c663b"/>
+                    <attribute id="Name" type="FixedString" value="Warlock TGOO Waterspells 3"/>
+                    <attribute id="Spells" type="LSString" value="Target_WaterSpout_Dawnstar;Zone_WaterTorrent_Dawnstar;Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="0acaa0ae-be2b-4a55-b752-332ec4bfb07a"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="b64e527e-1f97-4125-84f7-78376ab1440b"/>
+                    <attribute id="Name" type="FixedString" value="Warlock TGOO Waterspells 4"/>
+                    <attribute id="Spells" type="LSString" value="Shout_RestrainingWave_Dawnstar;Shout_RazorRain_Dawnstar;Target_WaterSpout_Dawnstar;Zone_WaterTorrent_Dawnstar;Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="7bb7d728-de5c-46c1-93e7-9b7fb57fa6e1"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="6d2edca9-71a7-4f3f-89f0-fccfff0bdee5"/>
+                    <attribute id="Name" type="FixedString" value="Warlock TGOO Waterspells 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_Geyser_Dawnstar;Projectile_Dehydration_Dawnstar;Shout_RestrainingWave_Dawnstar;Shout_RazorRain_Dawnstar;Target_WaterSpout_Dawnstar;Zone_WaterTorrent_Dawnstar;Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="85a1755c-f312-46e7-8e99-b6c453f701ec"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="e0099b15-2599-4cba-a54b-b25ae03d6519"/>
+                    <attribute id="Name" type="FixedString" value="Warlock Archfey Waterspells 1"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="dd0eb91f-b991-4b3b-98a8-51e60f63a3e1"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="0cc2c8ab-9bbc-43a7-a66d-08e47da4c172"/>
+                    <attribute id="Name" type="FixedString" value="Warlock Archfey Waterspells 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="4d4b5632-b098-4189-b55d-e6c873e6997f"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="f18ad912-e2f4-47a9-8744-73d6a51c2941"/>
+                    <attribute id="Name" type="FixedString" value="Warlock Archfey Waterspells 3"/>
+                    <attribute id="Spells" type="LSString" value="Target_WaterSpout_Dawnstar;Zone_WaterTorrent_Dawnstar;Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="bc5aba46-84cf-421a-8250-f21b6bc6a293"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="c3d8a4a5-9dae-4193-8322-a5d1c5b89f47"/>
+                    <attribute id="Name" type="FixedString" value="Warlock Archfey Waterspells 4"/>
+                    <attribute id="Spells" type="LSString" value="Shout_RestrainingWave_Dawnstar;Shout_RazorRain_Dawnstar;Target_WaterSpout_Dawnstar;Zone_WaterTorrent_Dawnstar;Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="a21813c3-f1eb-4325-8455-d01a7865692b"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="0a9b924f-64fb-4f22-b975-5eeedc99b2fd"/>
+                    <attribute id="Name" type="FixedString" value="Warlock Archfey Waterspells 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_Geyser_Dawnstar;Projectile_Dehydration_Dawnstar;Shout_RestrainingWave_Dawnstar;Shout_RazorRain_Dawnstar;Target_WaterSpout_Dawnstar;Zone_WaterTorrent_Dawnstar;Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="c5073f52-1a95-4b01-b209-9cc12fd0732c"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="e6ccab5e-3b3b-4b34-8fa2-1058dff2b3e6"/>
+                    <attribute id="Name" type="FixedString" value="Warlock Waterspells 6"/>
+                    <attribute id="Spells" type="LSString" value="Target_Whirlpool_Dawnstar;Target_Downpour_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="09ab2127-9616-4f47-b3af-65c9996e1b1c"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="458be063-60d4-4548-ae7d-50117fa0226f"/>
+                    <attribute id="Name" type="FixedString" value="Ranger Water Spells 1"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="0d5a6fea-c9c1-4e3f-b716-d82f94eb1572"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="e7cfb80a-f5c2-4304-8446-9b00ea6a9814"/>
+                    <attribute id="Name" type="FixedString" value="Ranger Water Spells 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="9fe6f219-0f43-4555-b00d-17b105639264"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="9a60f649-7f82-4152-90b1-0499c5c9f3e2"/>
+                    <attribute id="Name" type="FixedString" value="Ranger Water Spells 3"/>
+                    <attribute id="Spells" type="LSString" value="Target_WaterSpout_Dawnstar;Zone_WaterTorrent_Dawnstar;Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="84b3d7a7-fb99-407a-86a1-23ae59c4c092"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="61f79a30-2cac-4a7a-b5fe-50c89d307dd6"/>
+                    <attribute id="Name" type="FixedString" value="Bard Water Cantrips"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_MinorTorrent_Dawnstar;Target_FluidFooting_Dawnstar;Projectile_HurlWater_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="2469df11-4e92-4ac3-a47c-96b089ada382"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="dcb45167-86bd-4297-9b9d-c295be51af5b"/>
+                    <attribute id="Name" type="FixedString" value="Bard Water Spells 1"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="3585482c-6fcc-4b6c-8433-c12f37ee1a67"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="7ea8f476-97a1-4256-8f10-afa76a845cce"/>
+                    <attribute id="Name" type="FixedString" value="Bard Water Spells 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="ccd51941-1f88-4dee-982a-8555ade299cc"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="c213ca01-3767-457b-a5c8-fd4c1dd656e2"/>
+                    <attribute id="Name" type="FixedString" value="Bard Water Spells 3"/>
+                    <attribute id="Spells" type="LSString" value="Target_WaterSpout_Dawnstar;Zone_WaterTorrent_Dawnstar;Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="51bfd6d0-8f27-4259-b29a-b79ca63e8e6d"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="75e04c40-be8f-40a5-9acc-0b5d59d5f3a6"/>
+                    <attribute id="Name" type="FixedString" value="Bard Water Spells 4"/>
+                    <attribute id="Spells" type="LSString" value="Shout_RestrainingWave_Dawnstar;Shout_RazorRain_Dawnstar;Target_WaterSpout_Dawnstar;Zone_WaterTorrent_Dawnstar;Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="cc6ad30a-ab81-4d42-b2ae-2758cb59c774"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="bd71fffb-e4d2-4233-9a31-13d43fba36e3"/>
+                    <attribute id="Name" type="FixedString" value="Bard Water Spells 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_Geyser_Dawnstar;Projectile_Dehydration_Dawnstar;Shout_RestrainingWave_Dawnstar;Shout_RazorRain_Dawnstar;Target_WaterSpout_Dawnstar;Zone_WaterTorrent_Dawnstar;Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="b2561380-950e-4c0a-90db-a303b4f05add"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="586a8796-34f4-41f5-a3ef-95738561d55d"/>
+                    <attribute id="Name" type="FixedString" value="Bard Water Spells 6"/>
+                    <attribute id="Spells" type="LSString" value="Target_Whirlpool_Dawnstar;Target_Downpour_Dawnstar;Target_Geyser_Dawnstar;Projectile_Dehydration_Dawnstar;Shout_RestrainingWave_Dawnstar;Shout_RazorRain_Dawnstar;Target_WaterSpout_Dawnstar;Zone_WaterTorrent_Dawnstar;Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="9184c03c-b969-4a99-a836-0396a10a99f4"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="d90e88eb-e5f9-4db2-b7ef-1dccb044839a"/>
+                    <attribute id="Name" type="FixedString" value="Warlock Hexblade Waterspells 1"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="a775b06b-6bc6-4c51-a713-9d354f0fae19"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="4a3bf687-91c1-4dad-821c-ad32171c7552"/>
+                    <attribute id="Name" type="FixedString" value="Warlock Hexblade Waterspells 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="1442df3d-0422-4512-8318-958185b69ca5"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="58b8c82e-8ab3-4fd7-aa0a-3f2b831187f5"/>
+                    <attribute id="Name" type="FixedString" value="Warlock Hexblade Waterspells 3"/>
+                    <attribute id="Spells" type="LSString" value="Target_WaterSpout_Dawnstar;Zone_WaterTorrent_Dawnstar;Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="36e2a427-d393-4465-95cc-90fb09e27c28"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="39750075-781e-4ce2-a033-f8a288e47b8e"/>
+                    <attribute id="Name" type="FixedString" value="Warlock Hexblade Waterspells 4"/>
+                    <attribute id="Spells" type="LSString" value="Shout_RestrainingWave_Dawnstar;Shout_RazorRain_Dawnstar;Target_WaterSpout_Dawnstar;Zone_WaterTorrent_Dawnstar;Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="011a11b8-03f7-452a-bed5-312fa53b9b05"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="88fafaeb-8b59-4319-9841-b9e6043f4636"/>
+                    <attribute id="Name" type="FixedString" value="Warlock Hexblade Waterspells 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_Geyser_Dawnstar;Projectile_Dehydration_Dawnstar;Shout_RestrainingWave_Dawnstar;Shout_RazorRain_Dawnstar;Target_WaterSpout_Dawnstar;Zone_WaterTorrent_Dawnstar;Target_CrushingBubble_Dawnstar;Target_Hydro_Resistance_Dawnstar;Projectile_WaterBomb_Dawnstar;Zone_TidalWave_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="c0dff729-c3ce-4fe7-ace7-a561a329969b"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,5 @@
+new entry "Projectile_ColdEffect_Explosion"
+type "SpellData"
+data "SpellType" "Projectile"
+data "Trajectories" "b8b95321-ab56-4613-8160-ef7153d315aa,8c9aaf1d-7f1b-ae33-13d6-4a406dbc6ca6,20840c5b-a3df-5483-c071-118de86c1fa1"
+data "CastTextEvent" "Cast"

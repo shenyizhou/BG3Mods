@@ -1,0 +1,8 @@
+new entry "S5E_SpiritShroud_BlockHP"
+type "PassiveData"
+data "DisplayName" "h00652ab8g2a29g43bcg9a08g58a4e8b1ac39;1"
+data "Properties" "IsHidden;OncePerTurn"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "IsHit() and HasStatus('SPIRIT_SHROUD');"
+data "StatsFunctors" "ApplyStatus(SPIRIT_SHROUD_HP,100,1)"
+

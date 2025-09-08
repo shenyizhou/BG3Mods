@@ -1,0 +1,501 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="dcbaf2ae-1f45-453e-ab83-cd154f8277a4" />
+          <attribute id="Name" type="FixedString" value="Sorcerer Spells SLevel 3" />
+          <attribute id="Spells" type="LSString" value="Shout_AberrantForm" />
+          <attribute id="UUID" type="guid" value="97cd5f36-43c4-4d10-88b3-f22acb01b6ba" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="5fe40622-1d3e-4cc1-8d89-e66fe51d8c5c" />
+          <attribute id="Name" type="FixedString" value="Sorcerer Spells SLevel 4" />
+          <attribute id="Spells" type="LSString" value="Shout_AberrantForm" />
+          <attribute id="UUID" type="guid" value="bb13899f-2693-4059-be6d-6a8071561b48" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="3276fcfe-e143-4559-b6e0-7d7aa0ffcb53" />
+          <attribute id="Name" type="FixedString" value="Sorcerer Spells SLevel 6" />
+          <attribute id="Spells" type="LSString" value="Shout_AberrantForm" />
+          <attribute id="UUID" type="guid" value="28076ac0-ef0e-45b1-a8e9-96079f327630" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="1270a6db-980b-4e3b-bf26-2924da61dfd5" />
+          <attribute id="Name" type="FixedString" value="Sorcerer Spells SLevel 6" />
+          <attribute id="Spells" type="LSString" value="Shout_AberrantForm" />
+          <attribute id="UUID" type="guid" value="d5a57608-da96-47e8-a31c-5900320e7855" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="9e38e5ae-51e8-4dd4-aad5-869a571b1519" />
+          <attribute id="Name" type="FixedString" value="Sorcerer Spells SLevel 7" />
+          <attribute id="Spells" type="LSString" value="Shout_AberrantForm" />
+          <attribute id="UUID" type="guid" value="0e86ddfa-7a8e-4d85-8ba3-3cd0b43d1f32" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="5a8a002c-352b-44e9-8233-da7e6112f4b0" />
+          <attribute id="Name" type="FixedString" value="Sorcerer Spells SLevel 8" />
+          <attribute id="Spells" type="LSString" value="Shout_AberrantForm" />
+          <attribute id="UUID" type="guid" value="1c82cb9e-e374-4164-81c0-65ffb333ce1c" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="d58ac072-e079-410b-b167-a5e43723b59f" />
+          <attribute id="Name" type="FixedString" value="Sorcerer Spells SLevel 9" />
+          <attribute id="Spells" type="LSString" value="Shout_AberrantForm" />
+          <attribute id="UUID" type="guid" value="7c307b20-131e-40b9-8890-ac9fc29fa44d" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="4b629bbb-203b-4382-9786-755bf897567f" />
+          <attribute id="Name" type="FixedString" value="Rogue Arcane Trickster Spells SLevel 1" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul" />
+          <attribute id="UUID" type="guid" value="2ea82f28-2519-4c76-8367-dc7589dd2ecc" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="f9fd64f1-f417-4544-94a9-51d8876d68df" />
+          <attribute id="Name" type="FixedString" value="Rogue Arcane Trickster Spells SLevel 2" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret" />
+          <attribute id="UUID" type="guid" value="cbfb1006-cf7b-4d11-bc17-71c94593e4c9" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="c707cc1f-e5ed-4798-909a-3652ad497d24" />
+          <attribute id="Name" type="FixedString" value="Rogue Arcane Trickster Spells SLevel 3" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret;Target_AgonzingDespair;Target_BindUndead;Projectile_BlazingDive;Target_BracingTendril;Projectile_Fireball;Target_FireworkBlast;Target_GhostlyWeapon;Shout_InvisibilitySphere;Shout_OozeForm;Target_Organsight;Projectile_PercussiveImpact;Projectile_ShadowProjectile;Shout_TimeJump" />
+          <attribute id="UUID" type="guid" value="8e709463-6431-4e61-9956-d2e35fbbc429" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="0329cc67-3e67-409c-9b22-fb510a564c98" />
+          <attribute id="Name" type="FixedString" value="Rogue Arcane Trickster Spells SLevel 4" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret;Target_AgonzingDespair;Target_BindUndead;Projectile_BlazingDive;Target_BracingTendril;Projectile_Fireball;Target_FireworkBlast;Target_GhostlyWeapon;Shout_InvisibilitySphere;Shout_OozeForm;Target_Organsight;Projectile_PercussiveImpact;Projectile_ShadowProjectile;Shout_TimeJump;Shout_AerialForm;Shout_DicernLies;Shout_DrawTheLightning;Rush_MercurialStride;Zone_WeaponStorm;Target_WinningStreak;Shout_ZephyrSlip" />
+          <attribute id="UUID" type="guid" value="11a254ec-5830-4127-b942-84df1bf78322" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="32aeba85-13bd-4a6f-8e06-cd4447b746d8" />
+          <attribute id="Name" type="FixedString" value="Fighter Eldritch Knight Spells SLevel 1" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul" />
+          <attribute id="UUID" type="guid" value="20f7fb0f-04f9-4f9a-82b7-49633d4dc62f" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="4a86443c-6a21-4b8d-b1bf-55a99e021354" />
+          <attribute id="Name" type="FixedString" value="Fighter Eldritch Knight Spells SLevel 2" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret" />
+          <attribute id="UUID" type="guid" value="89124ab1-47d2-4ade-b61c-25123504643d" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="9ca503db-0e4b-4325-b1eb-e2f794a075d6" />
+          <attribute id="Name" type="FixedString" value="Fighter Eldritch Knight Spells SLevel 3" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret;Target_AgonzingDespair;Target_BindUndead;Projectile_BlazingDive;Target_BracingTendril;Projectile_Fireball;Target_FireworkBlast;Target_GhostlyWeapon;Shout_InvisibilitySphere;Shout_OozeForm;Target_Organsight;Projectile_PercussiveImpact;Projectile_ShadowProjectile;Shout_TimeJump" />
+          <attribute id="UUID" type="guid" value="a98e4132-fcf8-4e5d-9d29-6d6e8fd6b5c4" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="76694260-6985-4881-aeee-68558a7f7530" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 1" />
+          <attribute id="Spells" type="LSString" value="Target_Harm2e;Target_Agitate;Target_Endure;Target_BitingWords;Target_CondordantChoir;Target_AntHaul;Target_Befuddle;Shout_ConductiveWeapon;Projectile_AdmonishingRay" />
+          <attribute id="UUID" type="guid" value="1e8d5915-8adf-4f01-ad42-ddd04cd4ed3a" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="214af1fb-2dc1-4d8f-bf23-4dc69ed01acf" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 2" />
+          <attribute id="Spells" type="LSString" value="Target_Harm2e;Target_Agitate;Target_Endure;Target_BitingWords;Target_CondordantChoir;Target_AntHaul;Target_Befuddle;Shout_ConductiveWeapon;Projectile_AdmonishingRay;Target_BlisteringInvective;Target_BloodVendetta;Target_DeathKnell;Target_FeastOfAshes;Target_FinalSacrifice;Target_ImpartEmpathy;Target_LooseTimeArrow;Shout_MimicUndead;Target_SoundBurstTarget_WarriorRegret;Target_BoneShaker;Target_ExtractPoison;Target_ImpeccableFlow" />
+          <attribute id="UUID" type="guid" value="7c00fdb9-7836-4c14-ae7e-310b67bf6969" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="a5b0eb41-3be3-4901-834c-cbfb4506ef93" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 3" />
+          <attribute id="Spells" type="LSString" value="Target_Harm2e;Target_Agitate;Target_Endure;Target_BitingWords;Target_CondordantChoir;Target_AntHaul;Target_Befuddle;Shout_ConductiveWeapon;Projectile_AdmonishingRay;Target_BlisteringInvective;Target_BloodVendetta;Target_DeathKnell;Target_FeastOfAshes;Target_FinalSacrifice;Target_ImpartEmpathy;Target_LooseTimeArrow;Shout_MimicUndead;Target_SoundBurstTarget_WarriorRegret;Target_BoneShaker;Target_ExtractPoison;Target_ImpeccableFlow;Projectile_ChillingDarkness;Target_AgonzingDespair;Target_BindUndead;Target_BracingTendril;Shout_FocusingHum;Target_GhostlyWeapon;Shout_InvisibilitySphere;Target_MothsSupper;Shout_OozeForm;Target_Organsight;Projectile_PercussiveImpact;Projectile_ShadowProjectile;Shout_TimeJump;Projectile_Fireball2e" />
+          <attribute id="UUID" type="guid" value="5efa5213-741e-4e90-a020-e1422aefa7e8" />
+      </node>
+        <node id="SpellList">
+            <attribute id="MergedInto" type="guid" value="2bfb3ca2-01c7-49e5-b42b-e5791556f565" />
+            <attribute id="Name" type="FixedString" value="Sorcerer Disciple of Shar Crusader Spells SLevel 1" />
+            <attribute id="Spells" type="LSString" value="Projectile_AdmonishingRay;Target_CondordantChoir;Target_Harm2e;Target_Heal2e;Target_AntHaul;Target_Agitate;Target_AnticipatePeril;Target_Befuddle;Shout_ConductiveWeapon;Target_Endure;Shout_FleetStep;Target_CondordantChoir" />
+            <attribute id="UUID" type="guid" value="aa9285af-4e01-48bd-a94d-9cc30b1c48ae" />
+        </node>
+        <node id="SpellList">
+            <attribute id="MergedInto" type="guid" value="6471a9d9-77a0-4f30-8b46-03fd18002f03" />
+            <attribute id="Name" type="FixedString" value="Sorcerer Disciple of Shar Fidelian Cantrips" />
+            <attribute id="Spells" type="LSString" value="Shout_WarpStep;Zone_HauntingHymn;Target_Guidance2e;Projectile_PhaseBolt;Target_Daze;Shout_GlassShield;Target_PuffOfPoison" />
+            <attribute id="UUID" type="guid" value="9ba64f71-b89b-4e1e-b41e-fdbe66b6e0e7" />
+        </node>
+        <node id="SpellList">
+            <attribute id="MergedInto" type="guid" value="ce45100e-efd0-4b10-a2af-fcadab52da2a" />
+            <attribute id="Name" type="FixedString" value="Sorcerer Disciple of Shar Fidelian Spells SLevel 1" />
+            <attribute id="Spells" type="LSString" value="Projectile_AdmonishingRay;Target_CondordantChoir;Target_Harm2e;Target_Heal2e;Target_AntHaul;Target_Agitate;Target_AnticipatePeril;Target_Befuddle;Shout_ConductiveWeapon;Target_Endure;Shout_FleetStep" />
+            <attribute id="UUID" type="guid" value="3f776de9-9f6d-47c0-b368-a3a8e8b3085a" />
+        </node>
+        <node id="SpellList">
+            <attribute id="MergedInto" type="guid" value="b0c6e559-dcc4-4dc3-9158-a8b7b6e56603" />
+            <attribute id="Name" type="FixedString" value="Sorcerer Disciple of Shar Fidelian Spells SLevel 2" />
+            <attribute id="Spells" type="LSString" value="Projectile_AdmonishingRay;Target_CondordantChoir;Target_Harm2e;Target_Heal2e;Target_AntHaul;Target_Agitate;Target_AnticipatePeril;Target_Befuddle;Shout_ConductiveWeapon;Target_Endure;Shout_FleetStep;Target_BloodVendetta;Target_BoneShaker;Target_DeathKnell;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Target_ImpartEmpathy;Target_ImpeccableFlow;Target_LooseTimeArrow;Shout_MimicUndeadProjectile_ScorchingRay;Target_WarriorRegret" />
+            <attribute id="UUID" type="guid" value="824408fd-717e-4361-9c02-c360f89035ad" />
+        </node>
+        <node id="SpellList">
+            <attribute id="MergedInto" type="guid" value="1c0961f2-dc96-4d61-a56b-5b0ee649be48" />
+            <attribute id="Name" type="FixedString" value="Sorcerer Disciple of Shar Fidelian Spells SLevel 3" />
+            <attribute id="Spells" type="LSString" value="Projectile_AdmonishingRay;Target_CondordantChoir;Target_Harm2e;Target_Heal2e;Target_AntHaul;Target_Agitate;Target_AnticipatePeril;Target_Befuddle;Shout_ConductiveWeapon;Target_Endure;Shout_FleetStep;Target_BloodVendetta;Target_BoneShaker;Target_DeathKnell;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Target_ImpartEmpathy;Target_ImpeccableFlow;Target_LooseTimeArrow;Shout_MimicUndeadProjectile_ScorchingRay;Target_WarriorRegret;Target_AgonzingDespair;Target_BindUndead;Shout_ConsecratedFlesh;Target_EnvenomCompanion;Shout_FocusingHum;Target_GhostlyWeapon;Shout_InvisibilitySphere;Projectile_ChillingDarkness;Target_MothsSupper;Target_Organsight;Target_PossitiveAttunement;Projectile_ShadowProjectile;Shout_TimeJump" />
+            <attribute id="UUID" type="guid" value="65e850d9-f682-4a60-9f22-e0ad87090d85" />
+        </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="811ef8e3-ee0e-4555-96c6-239584f1eff1" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 1" />
+          <attribute id="Spells" type="LSString" value="Projectile_AdmonishingRay;Target_CondordantChoir;Target_Harm2e;Target_Heal2e" />
+          <attribute id="UUID" type="guid" value="374190d3-ac61-4955-b5d3-f6d62875b496" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="d84191af-6d85-4d74-b02a-eff5ebad1d65" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 2" />
+          <attribute id="Spells" type="LSString" value="Projectile_AdmonishingRay;Target_CondordantChoir;Target_Harm2e;Target_Heal2e;Target_BloodVendetta;Target_BoneShaker;Target_CLawsong;Target_DeathKnell;Target_FinalSacrifice;Shout_FireProof;Target_ImpeccableFlow;Shout_MimicUndead;Target_SoundBurst;Target_WarriorRegret" />
+          <attribute id="UUID" type="guid" value="5c215fbf-72bf-4150-b3e4-0b7535f2ed32" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="13bc5885-446c-4a15-b5d0-97f524af540c" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 3" />
+          <attribute id="Spells" type="LSString" value="Projectile_AdmonishingRay;Target_CondordantChoir;Target_Harm2e;Target_Heal2e;Target_BloodVendetta;Target_BoneShaker;Target_CLawsong;Target_DeathKnell;Target_FinalSacrifice;Shout_FireProof;Target_ImpeccableFlow;Shout_MimicUndead;Target_SoundBurst;Target_WarriorRegret;Target_AgonzingDespair;Target_BindUndead;Shout_ConsecratedFlesh;Shout_FocusingHum;Projectile_MoonlightRay;Projectile_SearingLight;Projectile_ChillingDarkness;Target_Organsight;Projectile_PercussiveImpact;Target_PossitiveAttunement" />
+          <attribute id="UUID" type="guid" value="f8615afa-9a14-48e3-881e-c4ed1d236a51" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="eff3e99a-98a9-489c-8dfc-c71e153ba8fb" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 4" />
+          <attribute id="Spells" type="LSString" value="Projectile_AdmonishingRay;Target_CondordantChoir;Target_Harm2e;Target_Heal2e;Target_BloodVendetta;Target_BoneShaker;Target_CLawsong;Target_DeathKnell;Target_FinalSacrifice;Shout_FireProof;Target_ImpeccableFlow;Shout_MimicUndead;Target_SoundBurst;Target_WarriorRegret;Target_AgonzingDespair;Target_BindUndead;Shout_ConsecratedFlesh;Shout_FocusingHum;Projectile_MoonlightRay;Projectile_SearingLight;Projectile_ChillingDarkness;Target_Organsight;Projectile_PercussiveImpact;Target_PossitiveAttunement;Target_BloodSprayCurse;Shout_CloakOfLight;Shout_DicernLies;Shout_GirzanjesMarch;Zone_Radiantbeam;Target_SoothingSpring;Shout_VitalBeacon" />
+          <attribute id="UUID" type="guid" value="d22ec1b1-17ba-4397-a995-363f8ea8e42c" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="1af25962-14da-4a1b-9c92-a4acaba52ad8" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 5" />
+          <attribute id="Spells" type="LSString" value="Projectile_AdmonishingRay;Target_CondordantChoir;Target_Harm2e;Target_Heal2e;Target_BloodVendetta;Target_BoneShaker;Target_CLawsong;Target_DeathKnell;Target_FinalSacrifice;Shout_FireProof;Target_ImpeccableFlow;Shout_MimicUndead;Target_SoundBurst;Target_WarriorRegret;Target_AgonzingDespair;Target_BindUndead;Shout_ConsecratedFlesh;Shout_FocusingHum;Projectile_MoonlightRay;Projectile_SearingLight;Projectile_ChillingDarkness;Target_Organsight;Projectile_PercussiveImpact;Target_PossitiveAttunement;Target_BloodSprayCurse;Shout_CloakOfLight;Shout_DicernLies;Shout_GirzanjesMarch;Zone_Radiantbeam;Target_SoothingSpring;Shout_VitalBeacon;Shout_BelittlingBoast;Target_BlinkCharge;Target_BloodFeast;Target_BreathOfLife;Shout_RepellingPulse;Target_ScouringPulse" />
+          <attribute id="UUID" type="guid" value="01153a44-d43d-4568-b9f3-baec0ece6643" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="f8f18e21-c268-4445-99ec-fa6eab619186" />
+          <attribute id="Name" type="FixedString" value="Wizard Cantrips" />
+          <attribute id="Spells" type="LSString" value="Target_Daze;Projectile_ElectricArc;Shout_ElementalCounter;Shout_GlassShield;Projectile_PhaseBolt;Shout_GaleBlast;Target_PuffOfPoison;Shout_WarpStep" />
+          <attribute id="UUID" type="guid" value="e228bc5e-e3ac-4391-8275-3479ed268e8a" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="b230db70-cb1b-49da-95a9-121d3da6df29" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 1" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul" />
+          <attribute id="UUID" type="guid" value="2c94d33f-ad27-40a8-bb8c-a7d9c4cf086a" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="8f9963d8-075c-4aef-8f80-a499aaaff0b2" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 2" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret" />
+          <attribute id="UUID" type="guid" value="b06cc264-2609-4c8c-b3f9-cf8cc89bffb7" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="31d229de-3449-4ad9-9473-9789745f8806" />
+          <attribute id="Name" type="FixedString" value="Wizard Cantrips" />
+          <attribute id="Spells" type="LSString" value="Projectile_ElectricArc;Shout_ElementalCounter;Shout_GlassShield;Target_DisruptUndead;Shout_GaleBlast;Target_Guidance2e;Target_PuffOfPoison" />
+          <attribute id="UUID" type="guid" value="3fca61e6-b07d-48fa-9e77-9ff7ec96e6de" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="9e2bc9af-ce4e-467f-8d3d-e58112d1ab9a" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 1" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Shout_AirBurst;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Shout_FleetStep;Target_MudPit;Projectile_SnowBall;Zone_BuffettingWinds;Target_Heal2e;Projectile_HorizonThunderSphere;Target_AntHaul" />
+          <attribute id="UUID" type="guid" value="76d26474-a478-4d7e-8a34-a30d3c76bff6" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="50dd064f-e68a-4f2b-b9fc-195c7d11f495" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 2" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Shout_AirBurst;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Shout_FleetStep;Target_MudPit;Projectile_SnowBall;Zone_BuffettingWinds;Target_Heal2e;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BoneShaker;Projectile_BrineDragonBile;Target_CLawsong;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpartEmpathy;Target_LooseTimeArrowProjectile_ScorchingRay2e" />
+          <attribute id="UUID" type="guid" value="d89a09bc-b5da-4174-b451-ba351d9b776b" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="f8f18e21-c268-4445-99ec-fa6eab619186" />
+          <attribute id="Name" type="FixedString" value="Wizard Cantrips" />
+          <attribute id="Spells" type="LSString" value="Target_Daze;Projectile_ElectricArc;Shout_ElementalCounter;Shout_GlassShield;Projectile_PhaseBolt;Shout_GaleBlast;Target_PuffOfPoison;Shout_WarpStep" />
+          <attribute id="UUID" type="guid" value="56311ea8-819d-4cac-9e5e-f1e47ddc5c0f" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="b230db70-cb1b-49da-95a9-121d3da6df29" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 1" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul" />
+          <attribute id="UUID" type="guid" value="695af7fb-e938-4f19-9701-aa77b4975a09" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="8f9963d8-075c-4aef-8f80-a499aaaff0b2" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 2" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret" />
+          <attribute id="UUID" type="guid" value="bcb11c45-1fe4-48c7-a64f-a16ddeac12c8" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="46bae1d4-e3ab-4e6d-865a-0f342e7073db" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 3" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret;Target_AgonzingDespair;Target_BindUndead;Projectile_BlazingDive;Target_BracingTendril;Projectile_Fireball;Target_FireworkBlast;Target_GhostlyWeapon;Shout_InvisibilitySphere;Shout_OozeForm;Target_Organsight;Projectile_PercussiveImpact;Projectile_ShadowProjectile;Shout_TimeJump" />
+          <attribute id="UUID" type="guid" value="ac504428-9de1-40c5-84bc-d4aa8192cae6" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="0fd1bd28-ea3a-4e19-a60e-7f316f13e730" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 4" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret;Target_AgonzingDespair;Target_BindUndead;Projectile_BlazingDive;Target_BracingTendril;Projectile_Fireball;Target_FireworkBlast;Target_GhostlyWeapon;Shout_InvisibilitySphere;Shout_OozeForm;Target_Organsight;Projectile_PercussiveImpact;Projectile_ShadowProjectile;Shout_TimeJump;Shout_AerialForm;Shout_DicernLies;Shout_DrawTheLightning;Rush_MercurialStride;Zone_WeaponStorm;Target_WinningStreak;Shout_ZephyrSlip" />
+          <attribute id="UUID" type="guid" value="1e69afa9-8e44-47d9-b798-88511020b7e0" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="8b3d8b42-292a-4628-bfc0-98ac04c4713f" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 5" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret;Target_AgonzingDespair;Target_BindUndead;Projectile_BlazingDive;Target_BracingTendril;Projectile_Fireball;Target_FireworkBlast;Target_GhostlyWeapon;Shout_InvisibilitySphere;Shout_OozeForm;Target_Organsight;Projectile_PercussiveImpact;Projectile_ShadowProjectile;Shout_TimeJump;Shout_AerialForm;Shout_DicernLies;Shout_DrawTheLightning;Rush_MercurialStride;Zone_WeaponStorm;Target_WinningStreak;Shout_ZephyrSlip;Shout_BelittlingBoast;Zone_BlazingFissure;Target_BlinkCharge;Target_BloodFeast;Zone_CrushingDespair;Shout_ElementalForm;Target_FlameDancer;Target_ForcefulHand;Target_ScouringPulse;Shout_RepellingPulse" />
+          <attribute id="UUID" type="guid" value="7888d659-7dab-4b3c-8802-20fe53d135ca" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="17bc1829-ee1a-4492-a8b3-06da4244aa74" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 6" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret;Target_AgonzingDespair;Target_BindUndead;Projectile_BlazingDive;Target_BracingTendril;Projectile_Fireball;Target_FireworkBlast;Target_GhostlyWeapon;Shout_InvisibilitySphere;Shout_OozeForm;Target_Organsight;Projectile_PercussiveImpact;Projectile_ShadowProjectile;Shout_TimeJump;Shout_AerialForm;Shout_DicernLies;Shout_DrawTheLightning;Rush_MercurialStride;Zone_WeaponStorm;Target_WinningStreak;Shout_ZephyrSlip;Shout_BelittlingBoast;Zone_BlazingFissure;Target_BlinkCharge;Target_BloodFeast;Zone_CrushingDespair;Shout_ElementalForm;Target_FlameDancer;Target_ForcefulHand;Target_ScouringPulse;Shout_RepellingPulse;Zone_CastIntoTime;Shout_DevilForm;Target_ElementalConfluence;Target_Necrotize;Target_PhantomOrchestra;Shout_Repulsion;Target_SpellWrack    " />
+          <attribute id="UUID" type="guid" value="3fbe7d67-dc46-4ccc-a1ab-54a31898f3ff" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="7e6a5546-6e71-4333-be31-340e7ee9d353" />
+          <attribute id="Name" type="FixedString" value="Wizard Cantrips" />
+          <attribute id="Spells" type="LSString" value="Target_Daze;Projectile_ElectricArc;Shout_ElementalCounter;Shout_GlassShield;Projectile_PhaseBolt;Shout_GaleBlast;Target_PuffOfPoison;Shout_WarpStep;Zone_HauntingHymn;Projectile_DivineLance;Target_DisruptUndead" />
+          <attribute id="UUID" type="guid" value="5c13cded-a13d-4f15-a114-3de11a5c5640" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="df190df7-2431-4217-b336-25737aa23fdd" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 1" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BitingWords;Target_CondordantChoir" />
+          <attribute id="UUID" type="guid" value="f67dfe27-26e6-43d1-959f-7660b662cbf4" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="9fe59215-841e-4827-a566-5a4a887070e5" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 2" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BitingWords;Target_CondordantChoir;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret;Target_BlisteringInvective;Target_BloodVendetta;Target_DeathKnell;Target_ImpartEmpathy;Shout_MimicUndead;Target_SoundBurst" />
+          <attribute id="UUID" type="guid" value="d08d16a6-0660-4053-8975-ee85b0c55e4f" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="8f10d55d-5f55-4b4b-8234-050a7b37c1d7" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 3" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BitingWords;Target_CondordantChoir;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret;Target_BlisteringInvective;Target_BloodVendetta;Target_DeathKnell;Target_ImpartEmpathy;Shout_MimicUndead;Target_SoundBurst;Target_AgonzingDespair;Target_BindUndead;Projectile_BlazingDive;Target_BracingTendril;Projectile_Fireball;Target_FireworkBlast;Target_GhostlyWeapon;Shout_InvisibilitySphere;Shout_OozeForm;Target_Organsight;Projectile_PercussiveImpact;Projectile_ShadowProjectile;Shout_TimeJump;Shout_FocusingHum;Shout_InvisibilitySphere;Target_MothsSupper;Shout_ConsecratedFlesh;Projectile_MoonlightRay;Projectile_SearingLight;Projectile_ChillingDarkness" />
+          <attribute id="UUID" type="guid" value="b749adc5-ab8a-4c68-a5ef-ea07e9a284c0" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="a7560a9b-88e9-47e3-ae3e-a47e3391c28f" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 4" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BitingWords;Target_CondordantChoir;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret;Target_BlisteringInvective;Target_BloodVendetta;Target_DeathKnell;Target_ImpartEmpathy;Shout_MimicUndead;Target_SoundBurst;Target_AgonzingDespair;Target_BindUndead;Projectile_BlazingDive;Target_BracingTendril;Projectile_Fireball;Target_FireworkBlast;Target_GhostlyWeapon;Shout_InvisibilitySphere;Shout_OozeForm;Target_Organsight;Projectile_PercussiveImpact;Projectile_ShadowProjectile;Shout_TimeJump;Shout_FocusingHum;Shout_InvisibilitySphere;Target_MothsSupper;Shout_ConsecratedFlesh;Projectile_MoonlightRay;Projectile_SearingLight;Projectile_ChillingDarkness;Shout_AerialForm;Shout_DicernLies;Shout_DrawTheLightning;Rush_MercurialStride;Zone_WeaponStorm;Target_WinningStreak;Shout_ZephyrSlip;Target_BloodSprayCurse;Shout_FeyForm_Container;Shout_GirzanjesMarch;Zone_Radiantbeam;Target_SoothingSpring;Shout_VitalBeacon" />
+          <attribute id="UUID" type="guid" value="043e9c43-37ce-4788-9a65-fb34d7f53793" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="c4280383-d0be-42ab-9d78-43d59c3f1ea4" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 5" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BitingWords;Target_CondordantChoir;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret;Target_BlisteringInvective;Target_BloodVendetta;Target_DeathKnell;Target_ImpartEmpathy;Shout_MimicUndead;Target_SoundBurst;Target_AgonzingDespair;Target_BindUndead;Projectile_BlazingDive;Target_BracingTendril;Projectile_Fireball;Target_FireworkBlast;Target_GhostlyWeapon;Shout_InvisibilitySphere;Shout_OozeForm;Target_Organsight;Projectile_PercussiveImpact;Projectile_ShadowProjectile;Shout_TimeJump;Shout_FocusingHum;Shout_InvisibilitySphere;Target_MothsSupper;Shout_ConsecratedFlesh;Projectile_MoonlightRay;Projectile_SearingLight;Projectile_ChillingDarkness;Shout_AerialForm;Shout_DicernLies;Shout_DrawTheLightning;Rush_MercurialStride;Zone_WeaponStorm;Target_WinningStreak;Shout_ZephyrSlip;Target_BloodSprayCurse;Shout_FeyForm_Container;Shout_GirzanjesMarch;Zone_Radiantbeam;Target_SoothingSpring;Shout_VitalBeacon;Shout_BelittlingBoast;Zone_BlazingFissure;Target_BlinkCharge;Target_BloodFeast;Zone_CrushingDespair;Shout_ElementalForm;Target_FlameDancer;Target_ForcefulHand;Target_ScouringPulse;Shout_AberrantForm;Target_BloodFeast;Shout_RepellingPulse;Shout_SynapticPulse;Target_BreathOfLife" />
+          <attribute id="UUID" type="guid" value="2b1b21a0-2a01-4883-bb2a-d4f164882491" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="dcb32b55-05ae-4c24-ac1d-e976435466a6" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 6" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BitingWords;Target_CondordantChoir;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret;Target_BlisteringInvective;Target_BloodVendetta;Target_DeathKnell;Target_ImpartEmpathy;Shout_MimicUndead;Target_SoundBurst;Target_AgonzingDespair;Target_BindUndead;Projectile_BlazingDive;Target_BracingTendril;Projectile_Fireball;Target_FireworkBlast;Target_GhostlyWeapon;Shout_InvisibilitySphere;Shout_OozeForm;Target_Organsight;Projectile_PercussiveImpact;Projectile_ShadowProjectile;Shout_TimeJump;Shout_FocusingHum;Shout_InvisibilitySphere;Target_MothsSupper;Shout_ConsecratedFlesh;Projectile_MoonlightRay;Projectile_SearingLight;Projectile_ChillingDarkness;Shout_AerialForm;Shout_DicernLies;Shout_DrawTheLightning;Rush_MercurialStride;Zone_WeaponStorm;Target_WinningStreak;Shout_ZephyrSlip;Target_BloodSprayCurse;Shout_FeyForm_Container;Shout_GirzanjesMarch;Zone_Radiantbeam;Target_SoothingSpring;Shout_VitalBeacon;Shout_BelittlingBoast;Zone_BlazingFissure;Target_BlinkCharge;Target_BloodFeast;Zone_CrushingDespair;Shout_ElementalForm;Target_FlameDancer;Target_ForcefulHand;Target_ScouringPulse;Shout_AberrantForm;Target_BloodFeast;Shout_RepellingPulse;Shout_SynapticPulse;Target_BreathOfLife;Shout_BlanketOfStars;Zone_CastIntoTime;Target_PhantomOrchestra;Shout_Repulsion;Target_SpellWrack;Target_EnergyAegis;Target_PrismaticArmor;Target_ShockToTheSystem;Target_TrueTarget;Target_HypnoticTerror;Target_Maze2e;Target_SummonIrii;Shout_DevilForm;Target_Necrotize;Shout_RighteousMight;Target_ElementalConfluence" />
+          <attribute id="UUID" type="guid" value="0a735cdd-e28a-4b7a-9b56-42b724e50fc5" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="55ed6ab7-cfab-4cc1-819e-87c446d1e814" />
+          <attribute id="Name" type="FixedString" value="Wizard Cantrips" />
+          <attribute id="Spells" type="LSString" value="Target_Daze;Projectile_ElectricArc;Shout_ElementalCounter;Shout_GlassShield;Projectile_PhaseBolt;Shout_GaleBlast;Target_PuffOfPoison;Shout_WarpStep;Zone_HauntingHymn;Projectile_DivineLance;Target_DisruptUndead" />
+          <attribute id="UUID" type="guid" value="0f9a1a0a-235a-4e2a-b052-3e806e2fdc07" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="e09742e4-1f1a-4f2c-9028-005b848e677e" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 1" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BitingWords;Target_CondordantChoir" />
+          <attribute id="UUID" type="guid" value="6a2e6a62-62d2-449d-a5ff-2d33ba0f9508" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="fb26a017-d222-435e-94b5-67760893145f" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 2" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BitingWords;Target_CondordantChoir;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret;Target_BlisteringInvective;Target_BloodVendetta;Target_DeathKnell;Target_ImpartEmpathy;Shout_MimicUndead;Target_SoundBurst" />
+          <attribute id="UUID" type="guid" value="b1c3bb72-4af0-4235-9ae6-3b3042b25768" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="05497359-7ad6-4fc6-a9de-ab5457460aaf" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 3" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BitingWords;Target_CondordantChoir;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret;Target_BlisteringInvective;Target_BloodVendetta;Target_DeathKnell;Target_ImpartEmpathy;Shout_MimicUndead;Target_SoundBurst;Target_AgonzingDespair;Target_BindUndead;Projectile_BlazingDive;Target_BracingTendril;Projectile_Fireball;Target_FireworkBlast;Target_GhostlyWeapon;Shout_InvisibilitySphere;Shout_OozeForm;Target_Organsight;Projectile_PercussiveImpact;Projectile_ShadowProjectile;Shout_TimeJump;Shout_FocusingHum;Shout_InvisibilitySphere;Target_MothsSupper;Shout_ConsecratedFlesh;Projectile_MoonlightRay;Projectile_SearingLight;Projectile_ChillingDarkness" />
+          <attribute id="UUID" type="guid" value="5fca067d-e996-4045-9c53-91b6e84783a3" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="89300ed2-e923-48af-8ccc-cc3ec1db65eb" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 4" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BitingWords;Target_CondordantChoir;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret;Target_BlisteringInvective;Target_BloodVendetta;Target_DeathKnell;Target_ImpartEmpathy;Shout_MimicUndead;Target_SoundBurst;Target_AgonzingDespair;Target_BindUndead;Projectile_BlazingDive;Target_BracingTendril;Projectile_Fireball;Target_FireworkBlast;Target_GhostlyWeapon;Shout_InvisibilitySphere;Shout_OozeForm;Target_Organsight;Projectile_PercussiveImpact;Projectile_ShadowProjectile;Shout_TimeJump;Shout_FocusingHum;Shout_InvisibilitySphere;Target_MothsSupper;Shout_ConsecratedFlesh;Projectile_MoonlightRay;Projectile_SearingLight;Projectile_ChillingDarkness;Shout_AerialForm;Shout_DicernLies;Shout_DrawTheLightning;Rush_MercurialStride;Zone_WeaponStorm;Target_WinningStreak;Shout_ZephyrSlip;Target_BloodSprayCurse;Shout_FeyForm_Container;Shout_GirzanjesMarch;Zone_Radiantbeam;Target_SoothingSpring;Shout_VitalBeacon" />
+          <attribute id="UUID" type="guid" value="1087c649-3d06-40ad-9988-c2f5b050e13e" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="24706e0b-b663-468c-bf86-7bc9a935202b" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 5" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BitingWords;Target_CondordantChoir;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret;Target_BlisteringInvective;Target_BloodVendetta;Target_DeathKnell;Target_ImpartEmpathy;Shout_MimicUndead;Target_SoundBurst;Target_AgonzingDespair;Target_BindUndead;Projectile_BlazingDive;Target_BracingTendril;Projectile_Fireball;Target_FireworkBlast;Target_GhostlyWeapon;Shout_InvisibilitySphere;Shout_OozeForm;Target_Organsight;Projectile_PercussiveImpact;Projectile_ShadowProjectile;Shout_TimeJump;Shout_FocusingHum;Shout_InvisibilitySphere;Target_MothsSupper;Shout_ConsecratedFlesh;Projectile_MoonlightRay;Projectile_SearingLight;Projectile_ChillingDarkness;Shout_AerialForm;Shout_DicernLies;Shout_DrawTheLightning;Rush_MercurialStride;Zone_WeaponStorm;Target_WinningStreak;Shout_ZephyrSlip;Target_BloodSprayCurse;Shout_FeyForm_Container;Shout_GirzanjesMarch;Zone_Radiantbeam;Target_SoothingSpring;Shout_VitalBeacon;Shout_BelittlingBoast;Zone_BlazingFissure;Target_BlinkCharge;Target_BloodFeast;Zone_CrushingDespair;Shout_ElementalForm;Target_FlameDancer;Target_ForcefulHand;Target_ScouringPulse;Shout_AberrantForm;Target_BloodFeast;Shout_RepellingPulse;Shout_SynapticPulse;Target_BreathOfLife" />
+          <attribute id="UUID" type="guid" value="3fc2b1df-639a-47cc-b4c3-5b96d05d475e" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="b030747c-82f9-4514-acd2-89b510839649" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 6" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BitingWords;Target_CondordantChoir;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret;Target_BlisteringInvective;Target_BloodVendetta;Target_DeathKnell;Target_ImpartEmpathy;Shout_MimicUndead;Target_SoundBurst;Target_AgonzingDespair;Target_BindUndead;Projectile_BlazingDive;Target_BracingTendril;Projectile_Fireball;Target_FireworkBlast;Target_GhostlyWeapon;Shout_InvisibilitySphere;Shout_OozeForm;Target_Organsight;Projectile_PercussiveImpact;Projectile_ShadowProjectile;Shout_TimeJump;Shout_FocusingHum;Shout_InvisibilitySphere;Target_MothsSupper;Shout_ConsecratedFlesh;Projectile_MoonlightRay;Projectile_SearingLight;Projectile_ChillingDarkness;Shout_AerialForm;Shout_DicernLies;Shout_DrawTheLightning;Rush_MercurialStride;Zone_WeaponStorm;Target_WinningStreak;Shout_ZephyrSlip;Target_BloodSprayCurse;Shout_FeyForm_Container;Shout_GirzanjesMarch;Zone_Radiantbeam;Target_SoothingSpring;Shout_VitalBeacon;Shout_BelittlingBoast;Zone_BlazingFissure;Target_BlinkCharge;Target_BloodFeast;Zone_CrushingDespair;Shout_ElementalForm;Target_FlameDancer;Target_ForcefulHand;Target_ScouringPulse;Shout_AberrantForm;Target_BloodFeast;Shout_RepellingPulse;Shout_SynapticPulse;Target_BreathOfLife;Shout_BlanketOfStars;Zone_CastIntoTime;Target_PhantomOrchestra;Shout_Repulsion;Target_SpellWrack;Target_EnergyAegis;Target_PrismaticArmor;Target_ShockToTheSystem;Target_TrueTarget;Target_HypnoticTerror;Target_Maze2e;Target_SummonIrii;Shout_DevilForm;Target_Necrotize;Shout_RighteousMight;Target_ElementalConfluence" />
+          <attribute id="UUID" type="guid" value="a17f4b6e-0fb7-4d34-9288-008bec010bbc" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="3f9a4b7f-6de6-4f8f-8e0e-829bb6eaf4f3" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 1" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Target_BitingWords;Target_CondordantChoir;Target_Harm2e;Target_Heal2e;Projectile_AdmonishingRay;Target_Agitate;Target_AnticipatePeril;Target_Befuddle;Target_Endure" />
+          <attribute id="UUID" type="guid" value="a1ea1b28-626e-48d8-b47e-bb429e3d1fe9" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="94917636-0f63-4573-9040-7a9cecebbad9" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 2" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Target_BitingWords;Target_CondordantChoir;Target_Harm2e;Target_Heal2e;Projectile_AdmonishingRay;Target_Agitate;Target_AnticipatePeril;Target_Befuddle;Target_Endure;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_CLawsong;Target_DeathKnell;Target_ExtractPoison;Target_FeastOfAshes;Shout_FireProof;Shout_Watrproof;Shout_MimicUndeadTarget_WarriorRegret" />
+          <attribute id="UUID" type="guid" value="c8ee0675-4a59-44d8-baa9-d23160f1c783" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="df9a175f-a05f-4ef6-adae-a7f185d800cd" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 3" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Target_BitingWords;Target_CondordantChoir;Target_Harm2e;Target_Heal2e;Projectile_AdmonishingRay;Target_Agitate;Target_AnticipatePeril;Target_Befuddle;Target_Endure;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_CLawsong;Target_DeathKnell;Target_ExtractPoison;Target_FeastOfAshes;Shout_FireProof;Shout_Watrproof;Shout_MimicUndeadTarget_WarriorRegret;Target_AgonzingDespair;Target_BindUndead;Target_GhostlyWeapon;Target_MothsSupper;Target_Organsight" />
+          <attribute id="UUID" type="guid" value="91aa0bfa-b86e-4b82-9132-de4f395674e4" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="78fefde1-d600-4d99-87f3-1ca7bb50c4ef" />
+          <attribute id="Name" type="FixedString" value="Wizard Cantrips" />
+          <attribute id="Spells" type="LSString" value="Target_Daze;Projectile_ElectricArc;Shout_ElementalCounter;Shout_GlassShield;Projectile_PhaseBolt;Shout_GaleBlast;Target_PuffOfPoison;Shout_WarpStep;Zone_HauntingHymn;Projectile_DivineLance;Target_DisruptUndead" />
+          <attribute id="UUID" type="guid" value="fb85687e-1c83-4ce4-89dc-c2c337024b00" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="5a6aadbb-554b-4d9b-afba-92dc901cf5e1" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 1" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BitingWords;Target_CondordantChoir" />
+          <attribute id="UUID" type="guid" value="068cda29-97ca-4996-9ba0-fc1b99c13775" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="eb396d91-557c-4ed5-90be-2a0c4c7a993f" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 2" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BitingWords;Target_CondordantChoir;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret;Target_BlisteringInvective;Target_BloodVendetta;Target_DeathKnell;Target_ImpartEmpathy;Shout_MimicUndead;Target_SoundBurst" />
+          <attribute id="UUID" type="guid" value="37462b66-a3ad-4a9d-8773-f21c178740f4" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="d5285fa7-d3da-4edd-8ecf-6fc313648759" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 3" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BitingWords;Target_CondordantChoir;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret;Target_BlisteringInvective;Target_BloodVendetta;Target_DeathKnell;Target_ImpartEmpathy;Shout_MimicUndead;Target_SoundBurst;Target_AgonzingDespair;Target_BindUndead;Projectile_BlazingDive;Target_BracingTendril;Projectile_Fireball;Target_FireworkBlast;Target_GhostlyWeapon;Shout_InvisibilitySphere;Shout_OozeForm;Target_Organsight;Projectile_PercussiveImpact;Projectile_ShadowProjectile;Shout_TimeJump;Shout_FocusingHum;Shout_InvisibilitySphere;Target_MothsSupper;Shout_ConsecratedFlesh;Projectile_MoonlightRay;Projectile_SearingLight;Projectile_ChillingDarkness" />
+          <attribute id="UUID" type="guid" value="a3b254a0-e2d9-496d-8609-35d13264ec89" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="00532b01-03e3-4647-b602-6922c3ec82bb" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 4" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BitingWords;Target_CondordantChoir;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret;Target_BlisteringInvective;Target_BloodVendetta;Target_DeathKnell;Target_ImpartEmpathy;Shout_MimicUndead;Target_SoundBurst;Target_AgonzingDespair;Target_BindUndead;Projectile_BlazingDive;Target_BracingTendril;Projectile_Fireball;Target_FireworkBlast;Target_GhostlyWeapon;Shout_InvisibilitySphere;Shout_OozeForm;Target_Organsight;Projectile_PercussiveImpact;Projectile_ShadowProjectile;Shout_TimeJump;Shout_FocusingHum;Shout_InvisibilitySphere;Target_MothsSupper;Shout_ConsecratedFlesh;Projectile_MoonlightRay;Projectile_SearingLight;Projectile_ChillingDarkness;Shout_AerialForm;Shout_DicernLies;Shout_DrawTheLightning;Rush_MercurialStride;Zone_WeaponStorm;Target_WinningStreak;Shout_ZephyrSlip;Target_BloodSprayCurse;Shout_FeyForm_Container;Shout_GirzanjesMarch;Zone_Radiantbeam;Target_SoothingSpring;Shout_VitalBeacon" />
+          <attribute id="UUID" type="guid" value="03c0723d-cfa9-484c-8039-d8fe2727973f" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="8307c344-2c21-49cf-a452-32739c3918d0" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 5" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BitingWords;Target_CondordantChoir;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret;Target_BlisteringInvective;Target_BloodVendetta;Target_DeathKnell;Target_ImpartEmpathy;Shout_MimicUndead;Target_SoundBurst;Target_AgonzingDespair;Target_BindUndead;Projectile_BlazingDive;Target_BracingTendril;Projectile_Fireball;Target_FireworkBlast;Target_GhostlyWeapon;Shout_InvisibilitySphere;Shout_OozeForm;Target_Organsight;Projectile_PercussiveImpact;Projectile_ShadowProjectile;Shout_TimeJump;Shout_FocusingHum;Shout_InvisibilitySphere;Target_MothsSupper;Shout_ConsecratedFlesh;Projectile_MoonlightRay;Projectile_SearingLight;Projectile_ChillingDarkness;Shout_AerialForm;Shout_DicernLies;Shout_DrawTheLightning;Rush_MercurialStride;Zone_WeaponStorm;Target_WinningStreak;Shout_ZephyrSlip;Target_BloodSprayCurse;Shout_FeyForm_Container;Shout_GirzanjesMarch;Zone_Radiantbeam;Target_SoothingSpring;Shout_VitalBeacon;Shout_BelittlingBoast;Zone_BlazingFissure;Target_BlinkCharge;Target_BloodFeast;Zone_CrushingDespair;Shout_ElementalForm;Target_FlameDancer;Target_ForcefulHand;Target_ScouringPulse;Shout_AberrantForm;Target_BloodFeast;Shout_RepellingPulse;Shout_SynapticPulse;Target_BreathOfLife" />
+          <attribute id="UUID" type="guid" value="c990d63b-ea71-4ea6-a7f0-6092b112d7f5" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="b030747c-82f9-4514-acd2-89b510839649" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 6" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BitingWords;Target_CondordantChoir;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret;Target_BlisteringInvective;Target_BloodVendetta;Target_DeathKnell;Target_ImpartEmpathy;Shout_MimicUndead;Target_SoundBurst;Target_AgonzingDespair;Target_BindUndead;Projectile_BlazingDive;Target_BracingTendril;Projectile_Fireball;Target_FireworkBlast;Target_GhostlyWeapon;Shout_InvisibilitySphere;Shout_OozeForm;Target_Organsight;Projectile_PercussiveImpact;Projectile_ShadowProjectile;Shout_TimeJump;Shout_FocusingHum;Shout_InvisibilitySphere;Target_MothsSupper;Shout_ConsecratedFlesh;Projectile_MoonlightRay;Projectile_SearingLight;Projectile_ChillingDarkness;Shout_AerialForm;Shout_DicernLies;Shout_DrawTheLightning;Rush_MercurialStride;Zone_WeaponStorm;Target_WinningStreak;Shout_ZephyrSlip;Target_BloodSprayCurse;Shout_FeyForm_Container;Shout_GirzanjesMarch;Zone_Radiantbeam;Target_SoothingSpring;Shout_VitalBeacon;Shout_BelittlingBoast;Zone_BlazingFissure;Target_BlinkCharge;Target_BloodFeast;Zone_CrushingDespair;Shout_ElementalForm;Target_FlameDancer;Target_ForcefulHand;Target_ScouringPulse;Shout_AberrantForm;Target_BloodFeast;Shout_RepellingPulse;Shout_SynapticPulse;Target_BreathOfLife;Shout_BlanketOfStars;Zone_CastIntoTime;Target_PhantomOrchestra;Shout_Repulsion;Target_SpellWrack;Target_EnergyAegis;Target_PrismaticArmor;Target_ShockToTheSystem;Target_TrueTarget;Target_HypnoticTerror;Target_Maze2e;Target_SummonIrii;Shout_DevilForm;Target_Necrotize;Shout_RighteousMight;Target_ElementalConfluence" />
+          <attribute id="UUID" type="guid" value="9d6d21d6-9a16-4b6c-bcaf-3dc040b8cc08" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="a272ae36-54fd-4d0d-9fca-02a61790d93b" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 1" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BitingWords;Target_CondordantChoir" />
+          <attribute id="UUID" type="guid" value="7175e2c7-34df-434b-b961-7c316f5ae534" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="b2284849-8f3f-4fc2-9e15-921eecd00c1e" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 2" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BitingWords;Target_CondordantChoir;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret;Target_BlisteringInvective;Target_BloodVendetta;Target_DeathKnell;Target_ImpartEmpathy;Shout_MimicUndead;Target_SoundBurst" />
+          <attribute id="UUID" type="guid" value="6b080cdb-9562-4b0f-96d8-08ac2b664d03" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="7afe7b05-0674-4060-a7a3-6f5082372dda" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 3" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BitingWords;Target_CondordantChoir;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret;Target_BlisteringInvective;Target_BloodVendetta;Target_DeathKnell;Target_ImpartEmpathy;Shout_MimicUndead;Target_SoundBurst;Target_AgonzingDespair;Target_BindUndead;Projectile_BlazingDive;Target_BracingTendril;Projectile_Fireball;Target_FireworkBlast;Target_GhostlyWeapon;Shout_InvisibilitySphere;Shout_OozeForm;Target_Organsight;Projectile_PercussiveImpact;Projectile_ShadowProjectile;Shout_TimeJump;Shout_FocusingHum;Shout_InvisibilitySphere;Target_MothsSupper;Shout_ConsecratedFlesh;Projectile_MoonlightRay;Projectile_SearingLight;Projectile_ChillingDarkness" />
+          <attribute id="UUID" type="guid" value="e8be9254-54d1-4938-9863-0483a42440ac" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="bb065367-045f-49e4-812e-d8529fbfcde9" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 4" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BitingWords;Target_CondordantChoir;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret;Target_BlisteringInvective;Target_BloodVendetta;Target_DeathKnell;Target_ImpartEmpathy;Shout_MimicUndead;Target_SoundBurst;Target_AgonzingDespair;Target_BindUndead;Projectile_BlazingDive;Target_BracingTendril;Projectile_Fireball;Target_FireworkBlast;Target_GhostlyWeapon;Shout_InvisibilitySphere;Shout_OozeForm;Target_Organsight;Projectile_PercussiveImpact;Projectile_ShadowProjectile;Shout_TimeJump;Shout_FocusingHum;Shout_InvisibilitySphere;Target_MothsSupper;Shout_ConsecratedFlesh;Projectile_MoonlightRay;Projectile_SearingLight;Projectile_ChillingDarkness;Shout_AerialForm;Shout_DicernLies;Shout_DrawTheLightning;Rush_MercurialStride;Zone_WeaponStorm;Target_WinningStreak;Shout_ZephyrSlip;Target_BloodSprayCurse;Shout_FeyForm_Container;Shout_GirzanjesMarch;Zone_Radiantbeam;Target_SoothingSpring;Shout_VitalBeacon" />
+          <attribute id="UUID" type="guid" value="a643ce29-9cf2-4672-9083-d59fc30bdbb5" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="5d3c8f0f-de77-40a0-a86a-15b2b6303dc3" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 5" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BitingWords;Target_CondordantChoir;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret;Target_BlisteringInvective;Target_BloodVendetta;Target_DeathKnell;Target_ImpartEmpathy;Shout_MimicUndead;Target_SoundBurst;Target_AgonzingDespair;Target_BindUndead;Projectile_BlazingDive;Target_BracingTendril;Projectile_Fireball;Target_FireworkBlast;Target_GhostlyWeapon;Shout_InvisibilitySphere;Shout_OozeForm;Target_Organsight;Projectile_PercussiveImpact;Projectile_ShadowProjectile;Shout_TimeJump;Shout_FocusingHum;Shout_InvisibilitySphere;Target_MothsSupper;Shout_ConsecratedFlesh;Projectile_MoonlightRay;Projectile_SearingLight;Projectile_ChillingDarkness;Shout_AerialForm;Shout_DicernLies;Shout_DrawTheLightning;Rush_MercurialStride;Zone_WeaponStorm;Target_WinningStreak;Shout_ZephyrSlip;Target_BloodSprayCurse;Shout_FeyForm_Container;Shout_GirzanjesMarch;Zone_Radiantbeam;Target_SoothingSpring;Shout_VitalBeacon;Shout_BelittlingBoast;Zone_BlazingFissure;Target_BlinkCharge;Target_BloodFeast;Zone_CrushingDespair;Shout_ElementalForm;Target_FlameDancer;Target_ForcefulHand;Target_ScouringPulse;Shout_AberrantForm;Target_BloodFeast;Shout_RepellingPulse;Shout_SynapticPulse;Target_BreathOfLife" />
+          <attribute id="UUID" type="guid" value="85953390-8126-44e7-a370-e17ecf5ad3dd" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="4296c424-eea5-4bac-9927-61bfe952fa91" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 6" />
+          <attribute id="Spells" type="LSString" value="Target_HydraulicPush;Projectile_AdmonishingRay;Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_Endure;Target_MudPit;Projectile_SnowBall;Projectile_HorizonThunderSphere;Target_AntHaul;Target_BitingWords;Target_CondordantChoir;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_WarriorRegret;Target_BlisteringInvective;Target_BloodVendetta;Target_DeathKnell;Target_ImpartEmpathy;Shout_MimicUndead;Target_SoundBurst;Target_AgonzingDespair;Target_BindUndead;Projectile_BlazingDive;Target_BracingTendril;Projectile_Fireball;Target_FireworkBlast;Target_GhostlyWeapon;Shout_InvisibilitySphere;Shout_OozeForm;Target_Organsight;Projectile_PercussiveImpact;Projectile_ShadowProjectile;Shout_TimeJump;Shout_FocusingHum;Shout_InvisibilitySphere;Target_MothsSupper;Shout_ConsecratedFlesh;Projectile_MoonlightRay;Projectile_SearingLight;Projectile_ChillingDarkness;Shout_AerialForm;Shout_DicernLies;Shout_DrawTheLightning;Rush_MercurialStride;Zone_WeaponStorm;Target_WinningStreak;Shout_ZephyrSlip;Target_BloodSprayCurse;Shout_FeyForm_Container;Shout_GirzanjesMarch;Zone_Radiantbeam;Target_SoothingSpring;Shout_VitalBeacon;Shout_BelittlingBoast;Zone_BlazingFissure;Target_BlinkCharge;Target_BloodFeast;Zone_CrushingDespair;Shout_ElementalForm;Target_FlameDancer;Target_ForcefulHand;Target_ScouringPulse;Shout_AberrantForm;Target_BloodFeast;Shout_RepellingPulse;Shout_SynapticPulse;Target_BreathOfLife;Shout_BlanketOfStars;Zone_CastIntoTime;Target_PhantomOrchestra;Shout_Repulsion;Target_SpellWrack;Target_EnergyAegis;Target_PrismaticArmor;Target_ShockToTheSystem;Target_TrueTarget;Target_HypnoticTerror;Target_Maze2e;Target_SummonIrii;Shout_DevilForm;Target_Necrotize;Shout_RighteousMight;Target_ElementalConfluence" />
+          <attribute id="UUID" type="guid" value="58f24e17-ae74-48f7-bdbd-999856a412b6" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="167d465d-7b29-4ffb-9b37-1fa1913a747f" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 2" />
+          <attribute id="Spells" type="LSString" value="Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Shout_ConductiveWeapon;Target_Endure;Target_AntHaul;Target_BloodVendetta;Target_ExtractPoison;Target_FeastOfAshes;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_DeathKnell;Shout_MimicUndead" />
+          <attribute id="UUID" type="guid" value="052db5ec-f246-44e9-b08e-9ca839355c74" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="5747b53e-02a2-4dde-8070-10fcc150458f" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 3" />
+          <attribute id="Spells" type="LSString" value="Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Shout_ConductiveWeapon;Target_Endure;Target_AntHaul;Target_BloodVendetta;Target_ExtractPoison;Target_FeastOfAshes;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_DeathKnell;Shout_MimicUndead" />
+          <attribute id="UUID" type="guid" value="31be2cfa-c7f2-40f5-a1ba-f1ee05a6ce71" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="7cfe6a4a-f4e9-440c-a8fe-80ebe9a75ef7" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 4" />
+          <attribute id="Spells" type="LSString" value="Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Shout_ConductiveWeapon;Target_Endure;Target_AntHaul;Target_BloodVendetta;Target_ExtractPoison;Target_FeastOfAshes;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_DeathKnell;Shout_MimicUndeadTarget_AgonzingDespair;Target_BindUndead;Target_BracingTendril;Target_GhostlyWeapon;Shout_InvisibilitySphere;Target_Organsight;Projectile_ShadowProjectile;Shout_TimeJump;Target_MothsSupper" />
+          <attribute id="UUID" type="guid" value="93bbae76-45ad-40b2-a29d-4add30515f80" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="a5a6f171-bcc3-4ddb-88b0-e5addabe431d" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 5" />
+          <attribute id="Spells" type="LSString" value="Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Shout_ConductiveWeapon;Target_Endure;Target_AntHaul;Target_BloodVendetta;Target_ExtractPoison;Target_FeastOfAshes;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_DeathKnell;Shout_MimicUndeadTarget_AgonzingDespair;Target_BindUndead;Target_BracingTendril;Target_GhostlyWeapon;Shout_InvisibilitySphere;Target_Organsight;Projectile_ShadowProjectile;Shout_TimeJump;Target_MothsSupper;Target_BloodSprayCurse;Shout_DicernLies;Shout_FeyForm_Container;Shout_GirzanjesMarch;Rush_MercurialStride;Target_WinningStreak;Shout_ZephyrSlip;Target_SoothingSpring;Zone_WeaponStorm" />
+          <attribute id="UUID" type="guid" value="aa75b679-b660-49e1-8e23-378d85309eec" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="63668dcb-62f5-45a0-9af5-2e19a7210078" />
+          <attribute id="Name" type="FixedString" value="Wizard Spells SLevel 6" />
+          <attribute id="Spells" type="LSString" value="Target_Agitate;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Shout_ConductiveWeapon;Target_Endure;Target_AntHaul;Target_BloodVendetta;Target_ExtractPoison;Target_FeastOfAshes;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_DeathKnell;Shout_MimicUndeadTarget_AgonzingDespair;Target_BindUndead;Target_BracingTendril;Target_GhostlyWeapon;Shout_InvisibilitySphere;Target_Organsight;Projectile_ShadowProjectile;Shout_TimeJump;Target_MothsSupper;Target_BloodSprayCurse;Shout_DicernLies;Rush_MercurialStride;Target_WinningStreak;Shout_ZephyrSlip;Target_SoothingSpring;Zone_WeaponStorm;Shout_BelittlingBoast;Target_BlinkCharge;Target_BloodFeast;Zone_CrushingDespair;Target_ForcefulHand;Shout_SynapticPulse" />
+          <attribute id="UUID" type="guid" value="046bed69-db6f-4269-b3c6-2ff4c4cba163" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="28de18b4-0dc4-4b1a-b543-a9e79da6f036" />
+          <attribute id="Name" type="FixedString" value="Sorcerer Nightbringer Cantrips" />
+          <attribute id="Spells" type="LSString" value="Target_Daze;Shout_GlassShield;Shout_GaleBlast" />
+          <attribute id="UUID" type="guid" value="7571c4c3-5539-48c4-ba4b-b8283a45620b" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="2248ed2e-da10-4f45-a313-8acc0cef7403" />
+          <attribute id="Name" type="FixedString" value="Sorcerer Nightbringer Spells SLevel 1" />
+          <attribute id="Spells" type="LSString" value="Shout_FleetStep;Target_AnticipatePeril;Target_BefuddleTarget_Endure;Target_MudPit;Target_AntHaul;" />
+          <attribute id="UUID" type="guid" value="93756651-8dc1-41fd-8f4e-d9e50ad13bbd" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="87e9c330-b11f-45d5-9ccd-e4e4cbdb01b1" />
+          <attribute id="Name" type="FixedString" value="Sorcerer Nightbringer Spells SLevel 2" />
+          <attribute id="Spells" type="LSString" value="Shout_FireProof;Shout_Watrproof;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_ImpartEmpathy;Shout_MimicUndead" />
+          <attribute id="UUID" type="guid" value="81a37674-8326-4d20-ba21-2fedc5c7c916" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="e8fa7302-1546-402d-b2c4-0ab547a37920" />
+          <attribute id="Name" type="FixedString" value="Sorcerer Nightbringer Spells SLevel 3" />
+          <attribute id="Spells" type="LSString" value="Target_BindUndead;Target_GhostlyWeapon;Shout_InvisibilitySphere;Shout_OozeForm;Target_Organsight;Shout_TimeJump;Shout_FocusingHum;Shout_InvisibilitySphere;Target_MothsSupper;Shout_ConsecratedFlesh;" />
+          <attribute id="UUID" type="guid" value="0d023b5a-6cb8-4f33-aeae-a93642c9f341" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="d2100dff-6d66-4c05-b19b-422c6ddbe348" />
+          <attribute id="Name" type="FixedString" value="Sorcerer Nightbringer Spells SLevel 4" />
+          <attribute id="Spells" type="LSString" value="Shout_AerialForm;Shout_DicernLies;Target_WinningStreak;Shout_ZephyrSlip;Shout_FeyForm_Container;Shout_GirzanjesMarch;Target_SoothingSpring;Shout_VitalBeacon" />
+          <attribute id="UUID" type="guid" value="dfffba13-135a-4931-89f5-b0dc2cae09ff" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="a70bc820-d943-44f0-aff5-8e601f356d31" />
+          <attribute id="Name" type="FixedString" value="Shout_BelittlingBoast;Shout_ElementalForm;Shout_AberrantForm;;Target_BreathOfLife" />
+          <attribute id="UUID" type="guid" value="f0036fdc-a693-4389-a1d4-bd345c822d74" />
+      </node>
+        <node id="SpellList">
+          <attribute id="MergedInto" type="guid" value="748207db-e6b3-47c7-8051-058a85f01fbf" />
+          <attribute id="Name" type="FixedString" value="Sorcerer Nightbringer Spells SLevel 6" />
+          <attribute id="Spells" type="LSString" value="Shout_BlanketOfStars;Zone_CastIntoTime;Shout_Repulsion;Target_EnergyAegis;Target_PrismaticArmor;Target_TrueTarget;Target_HypnoticTerror;Target_Maze2e;Target_SummonIrii;Shout_DevilForm;Target_Necrotize;Shout_RighteousMight;Target_ElementalConfluence" />
+          <attribute id="UUID" type="guid" value="b2bc66a8-74e5-4832-9bd3-beb241901bb2" />
+      </node>
+      </children>
+    </node>
+  </region>
+</save>

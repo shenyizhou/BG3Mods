@@ -1,0 +1,1098 @@
+Bug Reports:
+
+Concordant Choir no damage on AOE (Fixed)
+Friend Fetch not actually fetching (Fixed)
+Chill touch no damage (Fixed)
+
+
+Cantrips: 15/16 implemented
+
+=====================================================================================
+Occult: 
+Shout_WarpStep;Zone_HauntingHymn;Target_Guidance2e;Target_ChillTouch2e;Projectile_PhaseBolt;Target_Daze;
+
+Divine: 
+Target_Daze;Shout_Shield2e;Target_ChillTouch2e;Projectile_DivineLance;Target_DisruptUndead;Target_Guidance2e;Zone_HauntingHymn;
+
+Primal: 
+Projectile_AcidSplash2e;Projectile_ElectricArc;Shout_ElementalCounter;Shout_GlassShield;Target_DisruptUndead;Shout_GaleBlast;Target_Guidance2e;Target_PuffOfPoison;
+
+Arcane: 
+Projectile_AcidSplash2e;Target_Daze;Projectile_ElectricArc;Shout_ElementalCounter;Shout_GlassShield;Projectile_PhaseBolt;Shout_Shield2e;Target_ChillTouch2e;Shout_GaleBlast;Target_PuffOfPoison;Shout_WarpStep;
+
+All: 
+Projectile_AcidSplash2e;Target_Daze;Projectile_ElectricArc;Shout_ElementalCounter;Shout_GlassShield;Projectile_PhaseBolt;Shout_Shield2e;Target_ChillTouch2e;Projectile_DivineLance;Target_DisruptUndead;Shout_GaleBlast;Target_Guidance2e;Zone_HauntingHymn;Target_PuffOfPoison;Shout_WarpStep;
+=====================================================================================
+
+A,P COMPLETE Acid Splash: 1d6 + 1 splash + 1 persistent
+
+A,D,O COMPLETE Daze apply Daze
+
+A,P COMPLETE Electric Arc 1d4+Int + 1d4 extra damage
+
+A,P COMPLETE Elemental Counter Reduce elemental dmg taken by 2 for the round
+
+A,P COMPLETE Glass Shield thp shield + reflect dmg for 1 turn
+
+A,O COMPLETE Phase Bolt
+
+A,D,O COMPLETE Shield +1AC, unlock interrupt, reduce 5 dmg, once used reactin, can't be used until next combat
+
+A,D,O COMPLETE Chill Touch Con save Living: 1d4 + spellcasting and enfeebled 1 +1d4 necrotic, Undead Offbalance on success, fleeing + offbalance on fail.
+
+D COMPLETE Diving Lance 30ft 1d4+Spellcasting +1d4 radiant
+
+D,P COMPLETE Disrupt Undead Con save 1d6+Spellcasting Radiant to undead and enfeebled 1
+
+================= D,O Forbidding Ward +1AC, concenrtration, +1 AC at level 10
+
+A,P COMPLETE Gale Blast Str save 5ft around caster, spellcasting mod bludgeon +1d6 push 5ft
+
+D,O,P COMPLETE Guidance BA +1 to attack, and saves, end at start of next turn +1
+
+D,O COMPLETE Haunting Hymn Con save 15ft cone, Spellcasting Mod Thunder, +1d6 Deafen on fail
+
+A,P COMPLETE Puff of Poison Con save Spellcasting mod + 2 persistent, half damage / persistent dmg on save, +1d8 +1
+
+A,O COMPLETE Warp Step Dash +10ft movement
+
+
+
+
+
+1st Level 29/50
+
+=====================================================================================
+Occult: 
+Target_Agitate;Target_DrawIre;Target_Endure;Projectile_FriendFetch;Shout_MageArmor2e;Projectile_MagicMissile2e;Target_Sleep2e;Target_BitingWords;Zone_ColorSpray;Target_CondordantChoir;
+
+Divine: 
+Projectile_AdmonishingRay;Target_CondordantChoir;Target_Harm2e;Target_Heal2e;
+
+Primal: 
+Shout_AirBurst;Projectile_BrinyBolt;Zone_BurningHands2e;Zone_ChillingSpray;Shout_ConductiveWeapon;Shout_FleetStep;Shout_Jump2e;Target_MudPit;Target_ShockingGrasp2e;Projectile_SnowBall;Wall_WallOfShrubs;Zone_BuffettingWinds;Target_Heal2e;Projectile_HorizonThunderSphere;
+
+Arcane: 
+Projectile_AdmonishingRay;Target_Agitate;Zone_BurningHands2e;Shout_FleetStep;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_DrawIre;Target_Endure;Projectile_FriendFetch;Shout_Jump2e;Shout_MageArmor2e;Projectile_MagicMissile2e;Target_MudPit;Target_ShockingGrasp2e;Target_Sleep2e;Projectile_SnowBall;Wall_WallOfShrubs;Zone_ColorSpray;Projectile_HorizonThunderSphere;
+
+All:
+Wall_WallOfShrubs;Zone_BuffettingWinds;Zone_BurningHands2e;Target_BitingWords;Target_CondordantChoir;Target_Harm2e;Target_Heal2e;Projectile_AdmonishingRay;Target_Agitate;Shout_AirBurst;Target_AnticipatePeril;Target_Befuddle;Projectile_BrinyBolt;Zone_BuffettingWinds;Zone_ChillingSpray;Shout_ConductiveWeapon;Target_DrawIre;Target_Endure;Projectile_FriendFetch;Shout_Jump2e;Shout_MageArmor2e;Projectile_MagicMissile2e;Target_MudPit;Target_ShockingGrasp2e;Target_Sleep2e;Projectile_SnowBall;Wall_WallOfShrubs;Zone_ColorSpray;Projectile_HorizonThunderSphere;
+
+=====================================================================================
+
+================= Acid Burst 5ft around caster 2d6 acid dmg, +2d6 per upcast
+
+A,D COMPLETE Admonishing ray 180ft 2d6 bludgeoning none lethal +2d6 DealDamage(MainRangedWeapon, Bludgeoning, Nonmagical, Nonlethal);"
+
+A,O COMPLETE Agitate 30ft +3 move speed, 2d8 psychic dmg wisdom TooltipAttackSave +2d8
+
+A,P COMPLETE air burst BA 5ft around caster, push back 5ft, +5ft push and radius consult repulse
+
+================= ant haul touch look at how carry limit is determined CarryCapacityMultiplier(3)
+
+A,O COMPLETE Anticipate peril touch +1 initiative, +1, remove when combat starts 
+
+A COMPLETE Befuddle 30ft Clumsy (-1 dex) + Stupified (-1 int,wis,cha)
+
+A,P COMPLETE Briny Bolt 60ft 2d6 bludgeoning blinded +2d6 use Acid Chromatic Orb animation 
+
+A,P COMPLETE Burning Hands 15ft cone, 2d6 +2d6
+
+A,P COMPLETE Chilling Spray 15ft cone, 2d4 +2d4, 5ft speed DamageReduction
+
+A,P COMPLETE Conductive Weapon Shout, +1d6 lightning, critical +2 extra targets 
+
+A,O COMPLETE Draw Ire 120ft, 1 min, -1 to hit against others, 1d10 psychic +1d10 +-1, success apply -1 for 1 turn instead
+
+================= A,D,O Echoing Weapon touch 1 min, each hit store 1 sonic charge, end turn, create explosion, deal thunder dmg equal to duration
+
+A,O COMPLETE Endure BA touch 5 thp, +5 thp for 1 turn
+
+================= A,D,O,P Fear 30ft, frightened, take roll penalty equal to duration, success 1 turn, fail 2 turns. +1 duration per upcast, +1 target per two upcast
+
+A,P COMPLETE Fleet Step 1 min +30ft speed
+
+================= A,P Forge 30ft 3d6 fire dmg, half on save, if construct +2 physical dmg taken +2d6
+
+A,O COMPLETE Friend Fetch 30ft ally drag to self +1 target per Level
+
+================= A,O Gravitational Pull, move 10 ft toward caster and prone, Str save, BA 10ft, A 20ft, +1 target
+
+A,P COMPLETE Hydraulic Push atk, 3d6 bludgeon knock back 5ft +2d6
+
+================= A,P Interposing Earth, Reaction Summon a wall?
+
+A,P COMPLETE Jump BA, 30ft, +10ft for every upcast
+
+A,O COMPLETE Mage Armor +1AC, +1 Save, +1+1 for every 2 level.
+
+A,O COMPLETE Magic Missile BA 1 missile, A 2 missiles, BA+A 3 missiles, +1+2+3
+
+================= A,D,O Magic Weapon shout +1 attack roll, +1 dmg die, 1min
+
+A,P COMPLETE Mud Pit see the mud mephits
+
+================= A,O Overselling Flourish Reaction when hit dazzle / off balance
+
+================= A,P Personal rain cloud? see create water
+
+================= NOT SURE IF WORKS A,D,O COMPLETE Schadenfreude reaction, on hit, self prone, Wisdom save stupified 1 on success, stupified 2 and stunned 1 on failure
+
+A,P COMPLETE Shocking Grasp touch 2d12 lightning, 1d4 persistent lightning dmg, +1d12 +1
+
+================= A,P Shockwave 15ft cone, success: offbalance, failure, prone, +5ft
+
+A,O COMPLETE Sleep 1 target, wisdom save, sleep + disarm 
+
+A,P COMPLETE Snowball 30ft, 2d4 cold, -5ft, +2d4
+
+================= A Temporary tool see artificer summon tool / tutorial chest summoning, create 1 theif tool / trap disarm tool / shovel for 10 turns
+
+================= A,O True Strike: 30ft, Force crit on next hit
+
+A,P COMPLETE Wall of Shrubs 120ft, 1 minute, spike growth like a wall Spell
+
+O COMPLETE Biting Word concentration 1 min vicious mockery 2d6 psychic on cast, 2d6 BA, +2d6
+
+P COMPLETE Buffetting Winds 15ft cone Dex save 2d4 bludgeon non-lethal to living, 2d4 bludgeon to undead + 5ft push +2d4
+
+A,O COMPLETE Color Spray 15ft cone Wisdom save fail: Stunned 1, Dazzled 1min, Success Dazzled 1 Dazzle: disadvantage on attacks check blinded
+
+D,O COMPLETE Concordant Choir 30ft Wisdom save for half, has friendly fire BA: 1d4 Psychic single target, A: 2d4 psychic 10ft radius, BA+A: 2d4 psychic 30ft around caster +1d4 / +2d4
+
+================= D Disrupting Weapon +1d4 weapon damage against undead +1d4 for every 2 spell level
+
+================= A,O Flashy Disappearance BA become invisible until end of turn +30ft move speed
+
+D COMPLETE Harm Con save 1d8 dmg to living, half on save / 1d8 healing to undead BA 1 target touch A: 30ft +8 healing BA+A: 30ft radius, targets all. +1d8 +8
+
+D,P COMPLETE Heal opposite of Harm
+
+A,P COMPLETE Horizon Thunder Sphere 3d6 Lightning ranged attack A: 30ft, BA+A: 60ft, half dmg on miss, 2 round: unlock status on cast + temp spell +2d6 AOE with a 10ft radius, half on save, apply status with 1 reflected Lightning dmg, +2d6/+1
+
+================= O Phantom Pain 30ft Wisdom save 2d4 Psychic dmg, 1d4 persistent psychic dmg 1 min, full dmg but no persistent on save, +2d4 +1d4
+
+================= D,P Purifying Icicle 60ft, 2d6 Piercing + 1d6 Cold + 1d4 Radiant if undead, -10ft speed, +1d6 +1d6 +1d4
+
+================= P Shillelagh 1 min, +1 to attack roll +1 weapon die, +2 weapon die if undead
+
+================= O Soothe 30ft 1d10+4 healing + resistent to psychic (or reduce psychic dmg by 2) for 1 min, +1d10+4
+
+================= D,O Spirit Link +2hp to target, -2 hp to self, for 100 turns, unlock temp spell to dismess, ends when drop to 0.
+
+
+
+
+
+
+
+
+
+
+
+2nd level 28/44
+=====================================================================================
+Occult: 
+Target_BlisteringInvective;Target_BloodVendetta;Target_DeathKnell;Target_FeastOfAshes;Target_FinalSacrifice;Target_ImpartEmpathy;Target_LooseTimeArrow;Shout_MimicUndead;Target_RemoveFear;Target_RemoveParalysis;Target_ResistEnergy;Target_RestoreSenses;Target_SoundBurst;Target_TelekineticManeuver;Target_WarriorRegret;
+
+Divine: 
+Shout_BlazingArmory;Target_BloodVendetta;Target_BoneShaker;Target_CLawsong;Target_CreateFood2e;Target_DeathKnell;Target_FinalSacrifice;Shout_FireProof;Target_ImpeccableFlow;Shout_MimicUndead;Target_RemoveFear;Target_RemoveParalysis;Target_RestoreSenses;Target_ResistEnergy;Target_SoundBurst;Target_WarriorRegret;
+
+Primal: 
+Projectile_AcidArrow2e;Target_Barkskin2e;Shout_BlazingArmory;Target_BoneShaker;Projectile_BrineDragonBile;Target_CLawsong;Target_CreateFood2e;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpartEmpathy;Target_LooseTimeArrow;Target_RemoveFear;Target_RemoveParalysis;Target_RestoreSenses;Target_ResistEnergy;Projectile_ScorchingRay2e;
+
+Arcane: 
+Projectile_AcidArrow2e;Shout_BlazingArmory;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_CreateFood2e;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpeccableFlow;Target_LooseTimeArrow;Target_ResistEnergy;Projectile_ScorchingRay2e;Target_TelekineticManeuver;Target_WarriorRegret;
+
+All: 
+Projectile_AcidArrow2e;Target_Barkskin2e;Shout_BlazingArmory;Target_BlisteringInvective;Target_BloodVendetta;Target_BoneShaker;Projectile_BrineDragonBile;Target_CLawsong;Target_CreateFood2e;Target_DeathKnell;Target_ExtractPoison;Target_FeastOfAshes;Target_FinalSacrifice;Shout_FireProof;Shout_Watrproof;Shout_FlameWisp;Target_ImpartEmpathy;Target_ImpeccableFlow;Target_LooseTimeArrow;Shout_MimicUndead;Target_RemoveFear;Target_RemoveParalysis;Target_RestoreSenses;Target_ResistEnergy;Projectile_ScorchingRay;Target_SoundBurst;Target_TelekineticManeuver;Target_WarriorRegret;
+
+=====================================================================================
+
+A,P COMPLETE Acid Arrow 120ft 3d8 acid 1d6 persistent, Heightened 2 +2d8 +1d6
+
+================= P Animal Form: +1AC, +5THP +DarkVision +specific ability from each form +move speed if applicable, use disguise self to change shape
+
+================= O Animus Mine 4d8 Psychic dmg, wisdom save, trigger on taking psychic dmg. half dmg on save, +2d8 psychic dmg
+
+================= A,P Ash Cloud Action + BA 120ft, 20ft radius, 1 minute, use a firecloud surface, take 2d4 fire dmg when enter / start, apply dazzled for 1 turn +1d4
+
+P COMPLETE BarkSkin use barkskin, last 100 turns, touch, take 2 less bludgeoning and piercing dmg and 3 more fire dmg, +2/+3
+
+A,D,P COMPLETE Blazing Armory 5min, 30ft, 1 creature, summon use flame blade. +1 weapon, double dmg die 4th +1d6 fire dmg, +1d10 persistent fire dmg on crit, 6th, +2 +2 dmg die, 8th, +3, +1d10 persistent, 10th, +3, +3 dmg die, +1d10 persistent
+
+O COMPLETE Blistering Invective wisdom save, 2d6 persistent fire dmg, success, 1d6 persistent fire dmg, +1 target per upcast +2d6 persistent dmg per 2 upcast
+
+A,D,O COMPLETE Blood Vendetta reaction on getting damaged, Nearby, look at hellish rebuke, 2d6 persistent bleed dmg on a failed wisdom save, half on a success. +2d6 heightened 2
+
+A,D,P COMPLETE Boneshaker 100ft, 1 create (not ooze), Action: 3d8 bludgeoning dmg con save, Action+BA: 3d8 Bludgeoning + Push/Pull 30ft + prone. success half dmg / 5ft. failure + enfeebled 1 heightened 2 +3d8 
+
+A,P COMPLETE Brine Dragon Bile, nearby, when a creature takes piercing / slashing dmg, shoot a bolt of acid and do 2d6 persistent acid dmg. Heightened 2 +2d6
+
+================= D,O Calm Emotions 120ft, 10ft radius, wisdom save, -1 pentaly to attack rolls on a success, block hostile spells?
+
+D,P COMPLETE Clawsong +1d6 unarmed damage to target creature. +1d6 per 2 upcasts. 
+
+================= A,D,P Cleanse Air: 120ft, 30ft radius remove poison cloud surface.
+
+================= A,D,O,P Continual Flame, apply light indefinitely to a weapon / armor. action+BA
+
+A,D,P COMPLETE Create Food, out of combat, make 1 supply pack (20 supplies). +1 per spell level
+
+================= O Cutting Insult 30ft, wisdom save, 4d6 psychic dmg, 1 persistent bleed dmg, success, frightened 1 half initial, no persistent, failure, frightened 2. LOOK AT HOLD PERSON FOR REMOVE ON SAVE. Heightened 2 +4d6 +1
+
+================= A,D,O,P Dancing Shield, Concentration, shout, 1 minute, gain the benefit of a shield without wielding it. + reaction to reduce dmg taken by 10.
+
+================= A,D,O,P Deafness 30ft, 1 target, deafened for 1 turn on success, 100 turns on fail, +1 target per upcast
+
+D,O COMPLETE Death Knell touch target a corpse, +10 THP, +1 Attack roll for 100 turns. +10 +1 per 2 upcasts
+
+================= A,P Exploding Earth 120ft, ragned spell attack 4d6 bludgeoning 1d6 splash str save or prone. Heightened 2 +2d6 +1d6
+
+A,P COMPLETE Extract Poison touch, removed poisoned condition on target and gain 1d6 poison dmg on next attack
+
+================= A,O False Life shout 6+SAM temp hp, +3 per spell level
+
+A,O,P COMPLETE Feast of Ashes Con save, 100 turns. success: fatigued 1 round (-1 AC, -1 Save), failure: Fatigued for 10 turns, take 1d4 dmg and -1d4 max hp per turn. +1d4 per upcast
+
+A,D,O,P COMPLETE Final Sacrifice 120ft, explode summon for 6d6 fire dmg within 20ft of it. dex save for half. +2d6 per upcast
+
+A,D,P COMPLETE Fireproof, 100 turns, out of combat cast, take 10 less fire dmg. 4th level, long rest, 6th level indefinitely statuspropertyflag IgnoreResting
+
+A,P COMPLETE Waterproof, touch, resistence 5 to acid/cold for 1 hour. 4th 1 day, 6th indefinitely
+
+A,P COMPLETE Flame Wisps +1d4 fire dmg on hit with weapon. when cast a spell with fire dmg, +1 wisp for a maximum of 3. heightened 2, +1d4 fire dmg
+
+================= A,P Ignite Fireworks Dex save 1d8 fire + 1d8 thunder, success: half dmg, and dazzled for 1 round, failure: dazzled for 1 minute and take 1d4 persistent fire dmg. heightened 2 +1d8/1d8/1d4
+
+O,P COMPLETE Impart Empathy concentration +spellcasting mod to persuation checks for 1 day
+
+A,D COMPLETE Impeccable Flow 1 min self, +1 to skill checks, saving throws, and perception checks. Heightened 1, +1
+
+A,O,P COMPLETE Loose Time's Arrow 30ft, 3 targets, 2 turns, +free Dash +1 turn duration per upcast, +1 target per upcast
+
+================= A,D,O Lucky Number, gain 1 portent die, out of combat, can not be used until portent die is used.
+
+D,O COMPLETE Mimic Undead, 10 minutes gain undead Tagged
+
+================= A,O Mind Games, concentration, Wisdom save, stun self on success, stun target on failure, bonus action to try against
+
+================= A,P Pave Ground, 60ft line, remove difficult terrains
+
+D,O,P COMPLETE Remove Fear, touch, remove fear, 4th level, 30ft, 6th level, 10 creatures
+
+D,O,P COMPLETE Remove Paralysis, touch remove paralyzed, 4th level 30ft, 6th level 10 creatures
+
+A,D,O,P COMPLETE Resist Energy reduce elemental dmg by 3, +3 at level 4, and +6 at level 6, +9 at level 8
+
+D,O,P COMPLETE Restore Senses remove blinded and deafened gain immunity to both for 1 min 4th level 30ft, 6th level 10 creatures
+
+A,P COMPLETE Scorching Ray 60ft, 1 ray for each action, BA 2d6, A/A+BA 4d6. +1d6/+2d6 per upcast
+
+D,O COMPLETE Sound Burst 30ft, 10ft radius, 2d10 thunder con save, half dmg on save, deafened on fail, +1d10 per upcast
+
+A,O COMPLETE Telekinetic Maneuver 60ft, disarm, shock, knock prone
+
+================= A,O Touch of Idiocy Touch, Wisdom, 1 minute, stupified 2 on fail
+
+A,D,O Warrior's Regret touch, wisdom, 1d8 psychic dmg each time he makes an attack, 1 turn on success, 10 turns on failure. heightened 2 +1d8 dmg
+
+
+
+
+
+
+
+3rd level 25/40
+=====================================================================================
+Occult: 
+Target_AgonzingDespair;Target_BindUndead;Target_BracingTendril;Shout_FocusingHum;Target_GhostlyWeapon;Target_Haste2e;Target_Heroism2e;Shout_InvisibilitySphere;Target_MothsSupper;Shout_OozeForm;Target_Organsight;Projectile_PercussiveImpact;Projectile_ShadowProjectile;Shout_TimeJump;Target_VampiricTouch2e;
+
+Divine: 
+Target_AgonzingDespair;Target_BindUndead;Shout_ConsecratedFlesh;Shout_FocusingHum;Target_Heroism2e;Projectile_MoonlightRay;Projectile_SearingLight;Projectile_ChillingDarkness;Target_Organsight;Projectile_PercussiveImpact;Target_PossitiveAttunement;Target_VampiricTouch2e;
+
+Primal: 
+Projectile_BlazingDive;Target_EnvenomCompanion;Projectile_Fireball2e;Target_Haste2e;Zone_LightningBolt2e;Projectile_MoonlightRay;Projectile_SearingLight;Target_MothsSupper;Target_Organsight;Target_PossitiveAttunement;
+
+Arcane: 
+Projectile_Fireball2e;Target_AgonzingDespair;Target_BindUndead;Projectile_BlazingDive;Target_BracingTendril;Target_FireworkBlast;Target_GhostlyWeapon;Target_Haste2e;Shout_InvisibilitySphere;Zone_LightningBolt2e;Shout_OozeForm;Target_Organsight;Projectile_PercussiveImpact;Projectile_ShadowProjectile;Shout_TimeJump;Target_VampiricTouch2e;
+
+All: 
+Target_AgonzingDespair;Target_BindUndead;Projectile_BlazingDive;Target_BracingTendril;Shout_ConsecratedFlesh;Target_EnvenomCompanion;Projectile_Fireball2e;Target_FireworkBlast;Shout_FocusingHum;Target_GhostlyWeapon;Target_Haste2e;Target_Heroism2e;Shout_InvisibilitySphere;Zone_LightningBolt2e;Projectile_MoonlightRay;Projectile_SearingLight;Projectile_ChillingDarkness;Target_MothsSupper;Shout_OozeForm;Target_Organsight;Projectile_PercussiveImpact;Target_PossitiveAttunement;Projectile_ShadowProjectile;Shout_TimeJump;Target_VampiricTouch2e;
+
+=====================================================================================
+
+A,D,O COMPLETE Agonizing Despair 18m, Wisdom save, 4d6 psychic, frightened 2 on failure, frightened 1 on success, hieghtened 1, +2d6
+
+A,D,O COMPLETE Bind Undead 9m, Wisdom save or check level? until long rest, take a look at dominate Personal
+
+================= A,P Blast Back 6m range, reaction when falling? no implementation otherwise
+
+A,P COMPLETE Blazing Dive 18m, 3d4 bludgeoning + 3d6 fire, basic Dex save, 3m radius, set fire on ground? Heightened 1, +1d4/+1d6
+
+A,O COMPLETE Bracing Tendril shout, 1 minute, no pushing or moving forcibly. look at Repear's Rigidity  Attribute(Grounded);
+
+================= A,P Cave Fangs look into how to create new terrain type?
+
+================= A,P Cloud Dragon's Cloak, touch, 1 minute, cloak someone is a moving fog cloud, change status to be hidden / dodge instead of blinded, 1 hour at 5th level, until on rest on 7th, indefinite on 9th. unlock a spell to dismiss it
+
+D COMPLETE Consecrated Flesh 1 mLinute, self, weakness 5 to necrotic, resistance 5 to radiant melee attacks reflect 1d6 radiant dmg, weapon attack deal +1d4 radiant dmg, healing spells heal for extra 1d4. Heightgened 3, +5/+5/+1d6/+1d4/+1d4
+
+================= A,P Crashing wave, 9m cone, 6d6 bludgeoning, apply wet, push 6m? basic dex save, heightened 1, +2d6
+
+================= A,P Dive and Breach, 18m, 3d10 bludgeoning when leaving and 3d10 bludgeoning when exit, create 2 pools of water. Heightened 1, +1d10
+
+================= A,P Elemenetal Absorbtion, maybe?
+
+================= A,P Elemental Annihilation wave. Action: 1d6 fire + 3d6 bludgeoning. 9m cone, Dex save for half, FR: same dmg, push 5ft on success, 10ft + prone on failure. 2FR, 18m cone, 5/10ft+prone, gust of wind effect. Heightened 2, +2d6 fire/bludgeoning, +5/10ft
+
+P COMPLETE Envenom Companion, 9m, 10 turns, +1d8 poison dmg on slashing / piercing weapon, on hit apply clumsy 1 on failed DC 10 con save. Heightened 3, +1d8/ clumsy+1/ DC+5
+
+A,P COMPLETE Fireball 150m range, 6m radius, dex save. heightened 1, +2d6 fire, +1.5 radius
+
+A COMPLETE Firework Blast, 150m range, 6m radius, dex save for dmg, con save for blinded/deafened for 1 turn. hieghtened 1, +2d6, +1 turn duration
+
+COMPLETE ALL: make a spell that turns 1 action into 2 bonus actions, and 2 bonus actions into 1 action.
+
+D,O COMPLETE Focusing Hum concentration, bonus action, 4.5 m around caster, advantage on wisdom saves, caster can not hidden
+
+A,O COMPLETE Ghostly Weapon, touch, ignore resistance to physical damage, until long rest. IgnoreResistance(Slashing, Resistant)
+
+A,O,P COMPLETE Haste, 9m, 1 min, +1 bonus action. unlock a once per round bonus action dash that gives 50% movement speed. Heightened 1, +1 target
+
+D,O COMPLETE Heroism, 10 min, touch +1 to attack, save, and skill checks. heightened 3, +1
+
+================= A,O Hypnotic Pattern, 36m, concnetration 1 min, investigate creating a hypnotic pattern surface
+
+A,O COMPLETE Invisibility Sphere, 10min, 3m around caster, apply invisibility to any ally within radius. Heightened 5th, 1 hour, 7th greater invisibility
+
+================= D,P Life Connection. until long rest, touch, out of combat, reaction to reduce target dmg taken to 0 and take the according amount
+
+================= D,O,P Life Pact. touch, until long rest, bound a creature and when they drop to 0, they drop to 1 instead and you take 1 damage
+
+A,P COMPLETE Lightning Bolt, 36m line, basic dex save, 4d12 lightning dmg. Heightened 1, +0.75 radius, +1d12 lightning
+
+D,P COMPLETE Moonlight Ray, 36m range, ranged spell attack, 5d6 cold dmg, +5d6 radiant against undead and fiend. Heightened 1, +2d6 of each
+
+D,P COMPLETE Searing Light, same as moonlight ray, fire dmg instead
+
+D COMPLETE Chilling Darkness, same as moonlight ray, necrotic dmg instead, against celestial
+
+O,P COMPLETE Moth's Supper, 10 turns, regain 2d4 hit points each turn, help action heals you 4d4 hp. Heightened 1, +1d4/+2d4
+
+A,O, COMPLETE Ooze Form, turn into the ooze in grym forge, gain 20 THP, immune to critical hits, immune to SG_Blinded, (add SG_Blinded to dazzled). take 5 less piercing/slashing/acid dmg. Heightened +more status, look at enlarge reduce for size adjustment ochre jelly
+
+A,D,O,P COMPLETE Organsight, shout, 1 min, agianst living, not fungus/ooze, once per turn deal 4d6 extra piercing / slashing damage when using peircing / slashing weapon. heightened 1, +1d6 dmg
+
+A,D,O COMPLETE Percussive Impact, 18m, ranged spell attack, 4d8 bludgeoning + 1d4 thunder splash, aoe con save for deafened 1. Heightened 2, +4d8/+1d4/+1 turn duration
+
+D,P COMPLETE Positive attunement, touch, wisdom save, concentration 1 min, regain 1d8 hp on cast and at the end of each turn, undead takes 1d8 radiant on cast and on each turn
+
+================= D Sanctified Ground choose abberation, celestial, dragons, fiends, or undead, -1d4 to attack rolls, saving throws, AC. heightened 1, -1
+
+================= A,O Sea of Thought, 18m range, 4.5 radius, 1 min, difficult terrain, successful save -10ft speed, failure, prone. Heightened 1, +1.5 radius
+
+A,O COMPLETE Shadow Projectile, reaction, nearby, when ally makes a ranged attack, mimic it, wisdom save, 3d8 psychic, enemy has -2 ac against triggering attack. Heightened 2, +1d8
+
+================= A,D,O Sparkleskin, +2 performance, when taking damage, create explosion around self that dazzle creatures for 1 turn.
+
+A,O COMPLETE Time Jump, bonus action, unlock 2 free charge of a charge spell, no attack of opportunity. resource block for action and bonus action. aura that block action and bonus action for allies?
+
+A,D,O COMPLETE Vampiric Touch, touch attack, 6d6 necrotic damage, gain half as much as THP. heightened 1, +2d6
+
+================= A,P Wall of Radiance, dazzle / 2d6 fire damage. heightened 1, +1d6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4th level 19/34 -3
+=====================================================================================
+Occult: 
+Shout_Blink2e;Target_BloodSprayCurse;Shout_DicernLies;Shout_FeyForm;Shout_GirzanjesMarch;Rush_MercurialStride;Target_WinningStreak;
+
+Divine: 
+Target_BloodSprayCurse;Shout_CloakOfLight;Shout_DicernLies;Shout_GirzanjesMarch;Zone_Radiantbeam;Target_SoothingSpring;Shout_VitalBeacon;
+
+Primal: 
+Shout_AerialForm;Target_BloodSprayCurse;Shout_CloakOfLight;Shout_DinoForm;Shout_DrawTheLightning;Shout_FeyForm;Shout_FireShield2e;Zone_HydraulicTorrent;Zone_Radiantbeam;Target_SoothingSpring;Target_Stoneskin2e;Shout_VitalBeacon;Zone_WeaponStorm;Shout_ZephyrSlip;
+
+Arcane: 
+Shout_AerialForm;Shout_Blink2e;Shout_DicernLies;Shout_DrawTheLightning;Shout_FireShield2e;Rush_MercurialStride;Target_Stoneskin2e;Zone_WeaponStorm;Target_WinningStreak;Shout_ZephyrSlip;
+
+All: 
+Shout_AerialForm;Shout_Blink2e;Target_BloodSprayCurse;Shout_CloakOfLight;Shout_DinoForm;Shout_DicernLies;Shout_DrawTheLightning;Shout_FeyForm;Shout_FireShield2e;Shout_GirzanjesMarch;Zone_HydraulicTorrent;Rush_MercurialStride;Zone_Radiantbeam;Target_SoothingSpring;Target_Stoneskin2e;Shout_VitalBeacon;Zone_WeaponStorm;Target_WinningStreak;Shout_ZephyrSlip;
+
+=====================================================================================
+
+A,P COMPLETE Aerial Form: battle form, giant eagle.
+
+================= A,P Airlift: instantaneous fly, 18m, but longer range and brings party with you
+
+A,O COMPLETE Blink: resistance + free teleport
+
+D,O,P COMPLETE Bloodspray curse: 9m, SG_Cursed con save: success, whent aking more than 10 piercine/slashing damage deal additional 2d6 damage. failure: 2d6 persistent in addition. Heightened 2, +1d6/+1d6
+
+D,P COMPLETE Cloak of Light: self, emit light in 30+30ft. living creatures within 10ft regain 2d4 hit points on turn start, undead within 30ft takes 4d4 radiant damage on turn start. heightened 2, +1d4, +2d4
+
+P COMPLETE Dinosaur Form: battle form, raptor from circus.
+
+A,D,O COMPLETE Discern Lies: expertise in Insight for 10 min, self.
+
+A,P COMPLETE Draw the Lightning: self, conductive weapon + call lightning, 1d12 once per turn + 4d12 lightning aoe within 6m, dex save for half. heightened 4, +4d12, +1d12
+
+================= P Elemental Gift: 9m, 10 turns, 
+    Air: 9m bonus to speed, and a 9m fly, 
+    Earth: advantage on athletics, and maybe create difficult terrain on move? 
+    Fire: 1d6 persistent fire dmg on hit
+    Water: resistance 5 to fire, ignroe difficult terrain
+    Metal: +1d4 and +1 to hit as long as not using a quarterstaff or club
+    Wood: +spell level in thp, and half on turn.
+
+================= A,D,O Enervation: 30ft line, con, success: 2d8 persistant necrotic damage, 4d8 persistant necrotic dmg, Drained 1 (con -1)
+
+O,P COMPLETE Fey Form: turn into meenlock or red Cap or red cap sage 
+
+A,P COMPLETE Fire shield: self, 10 turns, cold resistance 5, 2d6 reflected fire dmg. heightened 2, +5/+1d6
+
+D,O COMPLETE Girzanje's March: self, 9m radius, +1d4+1 to attacks, con saves, and wisdom saves. can not be deafened to gain this benefit. heightened 2, +1
+
+================= A,P grasping earth: look at earthen grasp from 5e spells
+
+================= D Holy Cascade: look at ceremony from 5e to consume holy water in inventory, 6m radius, 150m range, 3d6 bludgeoning damage, +6d6 radiant to undead or fiends.  heightened 1, +1d6/+2d6
+
+P COMPLETE Hydraulic Torrent: 60ft line, 8d6 bludgeon damage, con save for half, failure also pushed 10ft away. heightened 1, +2d6, +5ft.
+
+================= A,P Ice Storm: 36m, 6m radius, concentration 1 min, 2d8 bludgeoning damage + 2d8 cold basic dex, apply difficult terrain, ends turn within storm take 2 cold damage. heightened 2, +1d8/+1d8, +1
+
+================= A,P Life Draing Roots: 30ft line, 8d6 peircing damage basic dex, apply status (on success or fail), that heals context.Source for 1d4 hp. heightened 1, +2d6
+
+A,O COMPLETE Mercurial Stride: rush, 18m, con save, success: sickened 1 (-1 to everything) con save to reduce value by 1, failure sickened 2 and 6d6 poison dmg. heightened 1, +1d6, heightened 2, +1 sicken
+
+================= A,O,P Ocular Overload: out of combat, until long rest, while active use reaction, nearby, on attacked hit, con save, dazzled 1, or blinded 1. set disadvantage on attack.
+
+================= A,O Phantasmal Killer: 36m, 1 creature, wisdom save, 4d6 frightened 1, or 8d6 frightened 2. heightened 2, +2d6
+
+================= D,P Phoenix Ward: self, 1 min, resistance 10 to fire, if would take fire dmg and die, regain 4d8+10 hit points, spell then ends. Heightened 1, +1d8
+
+D,P COMPLETE Radiant Beam: 36m line, basic dex, 5d10 radiant dmg, dazzled 1 on success, dazzled 4 round on failure. heightened 1, +1d10
+
+================= A,O Rebounding Barrier. reaction, nearby, weapon attack, take 10 less physical damage, attacker takes 5 physical damage. heightened 1, +2/+1
+
+================= A,D,O Seal Fate: choose between elemental, physical, and necrotic/radiant. target takes 5 more damage of the type for 1 turn on success, or 1 minute on failure. heightened 1, +1.
+
+================= A,P Solid Fog: 36m, 6m radius, fog cloud but difficult terrain.
+
+D,P COMPLETE Soothing Spring, 9m range, out of combat, create water 6m, and get a short rest for creatures within aoe. take a look at song of rest ShortRest()
+
+================= A,D,O Spell Immunity. automatically succeed saving throws against spells 3 levels lower than the cast of this spell. (check for spell levels?) SpellLevelEqualOrLessThan(value)
+
+A,P COMPLETE Stoneskin: resistance 5 to all physical damage, for 100 turns. taking physical damage reduces duration by 1 turn. heightened 2, +5
+
+D,P COMPLETE Vital beacon: 1 action self, 10 turns, 36m aura give allies a BA touch spell that heals themselve for 4d8 hit points. heightened 1, +1d8
+
+A,P COMPLETE Weapon Storm: 9m cone or 4m burst, buff weapon animation, 4 main weapon damage with basic dex. heightened 1, +1 weapon damage
+
+A,O COMPLETE Winning Streak: BA, 6m, apply aura status to 1 creature, quicken 1. status apply aura to self if land a hit. 
+
+================= A,D,P Ymeri's Mark: touch, mark a creature, fatigued and can't reduce it. detenoate mark, dismiss spell, no range, target marked creature, 3m radius explosion, 5d6 fire damage, basic dex. choose to include or exclude target. con save, success: 1 minute, failure: permanent until removed. heightened 1, +2d6
+
+A,P COMPLETE Zephyr Slip: reaction on creatures entry 5e, force self 6m away. heightened 2, +6m.
+
+note: add additional battle forms.
+
+animal form level 2
+
+Insect form level 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th level 18/34
+=====================================================================================
+Occult: 
+Shout_AberrantForm;Shout_BelittlingBoast;Target_BlinkCharge;Target_BloodFeast;Zone_CrushingDespair;Target_DeathWard2e;Target_FlameDancer;Target_ForcefulHand;Shout_RepellingPulse;Target_ScouringPulse;Shout_SynapticPulse
+
+Divine: 
+Shout_BelittlingBoast;Target_BlinkCharge;Target_BloodFeast;Target_BreathOfLife;Target_DeathWard2e;Shout_RepellingPulse;Target_ScouringPulse
+
+Primal: 
+Zone_BlazingFissure;Zone_ConeOfCold2e;Target_DeathWard2e;Shout_ElementalForm;Target_FlameDancer;Target_LightningStorm;Shout_PlantForm;Target_StormBurst
+
+Arcane: 
+Shout_BelittlingBoast;Zone_BlazingFissure;Target_BlinkCharge;Target_BloodFeast;Zone_ConeOfCold2e;Zone_CrushingDespair;Shout_ElementalForm;Target_FlameDancer;Target_ForcefulHand;Target_ScouringPulse;
+
+All: 
+Shout_AberrantForm;Shout_BelittlingBoast;Zone_BlazingFissure;Target_BlinkCharge;Target_BloodFeast;Target_BreathOfLife;Zone_ConeOfCold2e;Zone_CrushingDespair;Target_DeathWard2e;Shout_ElementalForm;Target_FlameDancer;Target_ForcefulHand;Target_LightningStorm;Shout_PlantForm;Shout_RepellingPulse;Target_ScouringPulse;Target_StormBurst;Shout_SynapticPulse
+
+=====================================================================================
+
+COMPLETE implement demoralize, barbar roar, intemidation chech vs 10 + wisdom score. single target frightened 1 on success.
+
+COMPLETE remove shield_used status when combat end
+
+O COMPLETE Abberant Form: 16+dex ac, 13 thp, athletics (cloaker)
+
+Target_Tentacles_MindFlayer
+Projectile_TAD_Levitate
+Target_MF_AbsorbIntellect
+Target_MF_ConcentratedBlast
+Target_MF_ShieldOfThralls
+Zone_MF_MindBlast
+Target_MF_MindSanctuary
+Target_MF_PerilousStakes
+Target_MF_Imperil
+Target_MF_BlackHole
+Target_ExtractBrain_Mindflayer
+Rush_MF_ForceTunnel
+
+A,D,O COMPLETE Belittling Boast: attempt to demoralize within 30ft, -1 on fail, self gain +1 for 1 min. heightened 8th, +2
+
+A,P COMPLETE Blazing Fissure: 4d6 bludgeoning, 6d6 fire, 120ft line, basic dex. failure falls prone. create lava surface for 1 round.
+
+A,D,O COMPLETE Blink Charge: Dimensional Assault, weapon dmg + 2d8 force, deal 1d8 force on miss. heightened +2, +1d8 force dmg +60ft range
+
+================= A,O,P Blister: con save, 1 blister on success, 2 blisters on failure, 60ft, 1 minute. BA to detonate a blister, dealing 7d6 acid dmg basic con 15ft burst. heightened 1 +1d6
+
+A,D,O COMPLETE Blood Feast: find a bite animation. spell attack, melee, 12d6 piercing dmg, 6d6 temp hp. heightened 1, +2d6,+1d6.
+
+D COMPLETE Breath of Life: reaction when ally die, heal target by 4d8+spellcasting ability.
+
+================= A,O Cloak of colors: 30ft 1 target 1min, creatures within 5ft are dazzled, and attacking the creature must succeed will save, or be blinded for 1 round. 
+
+A,P COMPLETE Cone of Cold: 60ft cone, basic dex, 12d6 cold. heightened 1 +2d6
+
+A,O COMPLETE Crushing Despair: 30ft cone, will save, success: slowed for 1 round can't use reaction, failure: as success but 1 min. heightened 7th, 60ft cone
+
+D,O,P COMPLETE Death Ward: touch, until long rest, +4 bonus to death saves, +10 necrotic resistance.
+
+A,P COMPLETE Elemental Form: 17+Dex ac, 10thp, 
+
+================= A,P Fire's Pathways: out of combat, self, until long rest, can teleport as a BA between fire surfaces. look at meenlock ability
+
+A,O,P COMPLETE Flame Dancer: 60ft, +2d6 unarmed fire dmg, 2d4 persistent on crit, 1 min. can demoralize with performance instead of intimidation. heightened 7th, 3d6/3d4/flee for 1 round when succeed in demoralizing
+
+================= D Flame Strike: 120ft, 10ft radius, 8d6 fire, ignore resistence and immunity, heightnened 1, +2d6
+
+================= A,P Flowing Strike: 50ft, no AoO, fly spell?, make 1 attack against 1 target, +2d10 bludgeoning dmg on hit, push 10ft.
+
+A,O COMPLETE Forceful Hand: mage hand + concentration
+
+P COMPLETE lightning Storm: call lightning, 120ft, 20ft burst, basic dex, concentration 1 min, 4d12, FR to cast, BA to recast. heightened 2 +1d12
+
+================= A,P Mantel of Frozen Heart: self, 1min, resist 10 to cold, reflect 2d6 cold to melee hits, +20ft speed, dash skill that create a trail of ice as a BA. finesse unarmed attack, 1d6 piercing +2d6 cold unarmed dmg.
+
+================= A,P Mantel of Magma Heart: self, 1min, grow to large size, clumsy 1, increase reach by 5ft, +2 melee dmg, 1d8 bludgeon + 2d6 fire + 1d6 persistent fire on unarmed hit, reflect 2d6 fire dmg on melee hit, resistance 5 to fire and cold
+
+================= A,P Mantel of Unwaving Heart: self, 1min, fast healing 3, 15ft aura sickened 1 due to pollen, increase size to large, clumsy 1, increase reach by 5ft, unarmed strike 2d8 bludgeoning dmg + ensnare, advantage on mental saves
+
+P COMPLETE Plant Form: 18+dex, AC, 12THP, resist 10 poison, Athletics
+
+D,O COMPLETE Repelling Pulse: pulse wave, 30ft around caster, basic dex, 7d10 force, failure also pushed 10ft away. heightened 2, +2d10, +5ft
+
+================= A,D,O Rewinding Step: summon a target dummy on location, until long rest can cast spell on dummy to tp to dummy, spell then ends. maybe take a look at TP party?
+
+A,D,O COMPLETE Scouring Pulse: 120ft, 10ft radius, flame strike, 6d8 radiant, +1d8 persistent radiant on a basic dex. creatures failed also light up, heightened 8th, 9d8 radiant, 2d8 persistent
+
+================= A,O Shadow Walk: out of combat, 10 creatures, until long rest, can teleport between shadows. look at meenlock ability
+
+================= D Spiritual Guardian: guaridan of faith reskin, can move and under command.
+
+P COMPLETE Storm Burst: 60ft, 15ft burst, 6d6 lightning basic dex, use verbal prepare and cast, and call lightning position effect, fail: half and prone, succeed, full, prone and stunned 1. heightened 2, +2d6 lightning, +1 stunned
+
+================= D Summon Celestial: summon a celestial
+
+================= D Summon Fiend: summon a fiend
+
+================= A Summon Dragon: summon a dragons
+
+================= P Summon Giant: create a very large wolf 
+
+O COMPLETE Synaptic Pulse: synaptic static, 30ft around caster, will save, stunned 1 on success, stunned 2 on failure
+
+================= A,P Wyvern Sting: melee attack, 3d4 piercing, con save, success take 5d6 poison, failure: wyvern poison: 5d6 round 1 then +1d6 per round, total of 6 rounds.
+
+
+
+
+
+
+
+
+
+
+
+
+
+6th level 10/21
+=====================================================================================
+Occult: 
+Shout_BlanketOfStars;Zone_CastIntoTime;Target_PhantomOrchestra;Shout_Repulsion;Target_SpellWrack
+
+Divine: 
+Shout_DevilForm;Target_Necrotize;Shout_Repulsion;Target_SpellWrack;Shout_RighteousMight
+
+Primal: 
+Shout_BlanketOfStars;Projectile_ChainLightning2e;Target_ElementalConfluence;Target_Necrotize;Target_PhantomOrchestra
+
+Arcane: 
+Zone_CastIntoTime;Projectile_ChainLightning2e;Shout_DevilForm;Target_ElementalConfluence;Target_Necrotize;Target_PhantomOrchestra;Shout_Repulsion;Target_SpellWrack;
+
+All: 
+Shout_BlanketOfStars;Zone_CastIntoTime;Projectile_ChainLightning2e;Shout_DevilForm;Target_ElementalConfluence;Target_Necrotize;Target_PhantomOrchestra;Shout_Repulsion;Target_SpellWrack
+
+=====================================================================================
+
+================= A,P Arrow Salvo: 100ft range, 30ft burst, 8d10 piercing with basic dex. failure knocked prone. heightened 1, +1d10
+
+O,P COMPLETE Blanket of Starts: greater invisibility, 100 turns, aura wisdom save dazzled on failure. Once per turn, can shoot magic missile 2e at 2nd level. 
+
+A,O COMPLETE Cast into Time: 15ft cone, banishment for 1 turn, when return take 5d8 psychic and 5d6 bludgeoning dmg on a basic con save. failure also sickened 1. 
+
+A,P COMPLETE Chain lightning: 8d12 lightning dmg, 500ft range, targets all hostile creatures within 30ft of each other. heightened 1 +1d12
+
+================= A,O Chromatic Image: mirror image, but whenever an image is destroyed, deal 5+5 dmg to attacker. 
+
+================= A,O Collective Transposition: 2 targets, teleport within 30ft of caster, unwilling = wisdom save. Heightened 1, +1 target
+
+================= A,D Demon Form: Demon
+
+A,D COMPLETE Devil Form: Devil
+
+================= A,P Dragon Form: turn into a dragons
+
+A,P COMPLETE Elemental Confluence: make a large air elemental, give it combined stats of all 4 Spell_Abjuration_AbsorbElements. maybe whenever cast spell, apply a -1 status to disguise into the repsective elemental form
+
+================= D,P Field of Life: use holy fire, living regain 1d8 hit points on turn undead take 1d8 radiant dmg. 30ft, 20ft burst, 1 min concentration. Heightened 8th: 1d10, 9th: 1d12
+
+================= P. Fire Seeds: create 4 acorn bombs. BA to throw, 4d6 fire dmg, 5ft burst. create fire surface, 2d6 burn dmg. Heightened 8th: 5d6/3d6 9th 6d6/3d6 
+
+A,D,P COMPLETE Necrotize: 60ft, 1 creature, con save, 12d6 necrotic dmg, failure 1 min, success 1 turn. heightened 1, +2d6
+    - bone: vulnerable to bludgeoning
+    - Joints: clumsy 3
+    - Legs: -20ft speed
+    - Muscles: enfeebled 3
+
+A,O,P COMPLETE Phantom Orchestra: 120ft, concentration 1 min, 8d6 thunder dmg, 10ft burst, BA subsequent round to recast. Heightened 1, +1d6
+
+================= A,P Purple Worm Sting: touch, con save. 3d6 piercing on hit. 3d6 poison on success, enfeebled 2 for 6 rounds on failure, and 3d6->6d6 dmg on success.
+
+A,D,O COMPLETE Repulsion: 40ft around caster, any enemy approaching must make will save when enter, failure = no movement, success = movement halfed (look at spirit guardian)
+
+D COMPLETE Righteous Might: transform into guardian of faith
+
+A,D,O COMPLETE Spellwrack: wisdom save, each time target takes dmg from spell, it takes 2d12 persistent force dmg. success 1 min, failure permanent. 
+
+================= D,O Suspended Retribution: 60ft, 1 target, 1 min. dash/makes extra attack/cast a spell. 70 physic dmg basic dex each time. heightened 1, +10
+
+================= A,O Teleport: self +4, TP anywhere on map.
+
+================= A,D,O Vampiric Exsanguination: 30ft cone, 12d6 necrotic dmg to each living creature, gain 36 temp hp. heightened 1, +2d6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note:
+
+7th level 11/18
+=====================================================================================
+Occult:
+Target_EnergyAegis;Target_PrismaticArmor;Target_ShockToTheSystem;Target_TrueTarget
+
+Divine:
+Shout_AngelForm;Shout_CosmicForm;Target_EclipseBurst;Target_EnergyAegis;Target_MoonBurst;Target_Regenerate;Target_ShockToTheSystem
+
+Primal:
+Shout_CorrosiveBody;Shout_CosmicForm;Target_EclipseBurst;Target_EnergyAegis;Target_MoonBurst;Target_Regenerate;Target_ShockToTheSystem
+
+Arcane:
+Shout_CorrosiveBody;Shout_CosmicForm;Target_EclipseBurst;Target_EnergyAegis;Shout_EntrancingEyes;Target_PrismaticArmor;Target_TrueTarget;
+
+All:
+Shout_AngelForm;Shout_CorrosiveBody;Shout_CosmicForm;Target_EclipseBurst;Target_EnergyAegis;Shout_EntrancingEyes;Target_MoonBurst;Target_PrismaticArmor;Target_Regenerate;Target_ShockToTheSystem;Target_TrueTarget
+
+=====================================================================================
+
+D COMPLETE Angel Form:  
+
+================= A Contingency: 
+
+A,P COMPLETE Corrosive Body:
+
+D,P COMPLETE Cosmic Form:
+
+================= D Diety's Strike:
+
+================= D Divine Decree:
+
+================= D Divine Vessel:
+
+A,D,P COMPLETE Eclipse Burst:
+
+A,D,O,P COMPLETE Energy Aegis:
+
+A COMPLETE Entrancing Eye:
+
+================= A,P Fiery Body:
+
+D,P COMPLETE Moonburst:
+
+A,O COMPLETE Prismatic Armor: faerie fire vfx
+
+D,P COMPLETE Regenerate:
+
+D,O,P COMPLETE Shock to the System:
+
+================= D,P Sunburst:
+
+A,O COMPLETE True Target:
+
+================= P Volcanic Eruption:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8th level 8/12
+=====================================================================================
+Occult: 
+Target_HypnoticTerror;Target_Maze2e;Target_SummonIrii
+
+Divine: 
+Target_MomentOfRenewal;Target_SummonDeificHerald;
+
+Primal: 
+Target_MomentOfRenewal;Shout_MonstrosityForm;Projectile_PolarRay;
+
+Arcane: 
+Target_Maze2e;Shout_MonstrosityForm;Projectile_PolarRay;Target_SummonArchmage;Target_SummonIrii;
+
+All:
+Target_HypnoticTerror;Target_Maze2e;Target_MomentOfRenewal;Shout_MonstrosityForm;Projectile_PolarRay;Target_SummonArchmage;Target_SummonIrii;
+
+
+=====================================================================================
+
+================= P Clone Companion
+
+================= D Divine Armageddon
+
+O COMPLETE Hypnotic Terror 
+
+A,O COMPLETE Maze
+
+D,P COMPLETE Moment of Renewal
+
+A,P COMPLETE Monstrosity Form
+
+A,P COMPLETE Polar Ray
+
+================= O Spirit Song
+
+A COMPLETE Summon Archmage
+
+D COMPLETE Summon Deific Herald
+
+================= A,D,P Summon Elemental Herald
+
+A,O COMPLETE Summon Irii
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9th level /4
+=====================================================================================
+Occult: 
+
+Divine: 
+
+Primal: 
+
+Arcane: 
+
+All: 
+
+=====================================================================================
+
+D Crusade: turn a creature hostile or friendly to you, permanently.
+
+A,P Implosion:
+
+A,D,P Massacre:
+
+A,P Meteror Swarm:
+
+A Summon Draconic Legion
+
+A,O Wierd:
+
+
+        {
+            "Comment": "Add Arcane Cantrips to Magus list.",
+            "Action": "Insert",
+            "UUID": "2a41b091-c019-4dd0-b17e-f45555555555",
+            "Type": "SpellList",
+            "Items": [
+                "Projectile_FireBoltHB",
+                "Projectile_AcidSplash2e",
+                "Target_Daze",
+                "Projectile_ElectricArc",
+                "Shout_ElementalCounter",
+                "Shout_GlassShield",
+                "Projectile_PhaseBolt",
+                "Shout_Shield2e",
+                "Target_ChillTouch2e",
+                "Shout_GaleBlast",
+                "Target_PuffOfPoison",
+                "Shout_WarpStep"
+            ]
+        },
+        {
+            "Comment": "Add Arcane 1st level spells to Magus lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "0678e65f-3aff-4a39-a992-f45555555555",
+                "db383feb-e781-48b4-bcc3-f45555555555",
+                "8915d1da-35db-4927-82e1-f45555555555",
+                "d8be7670-c139-4b9b-802d-f45555555555",
+                "dac85adf-4013-4756-98dc-f45555555555",
+                "75dbdf19-f8e9-48d1-9ba6-f45555555555",
+                "0d8f9189-8094-4aa7-9a87-f45555555555",
+                "c021525b-d640-4bd6-85f2-f45555555555",
+                "9987d007-273e-4ad0-b5a7-f45555555555"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Target_HydraulicPush",
+                "Projectile_AdmonishingRay",
+                "Target_Agitate",
+                "Zone_BurningHands2e",
+                "Shout_FleetStep",
+                "Shout_AirBurst",
+                "Target_AnticipatePeril",
+                "Target_Befuddle",
+                "Projectile_BrinyBolt",
+                "Zone_ChillingSpray",
+                "Shout_ConductiveWeapon",
+                "Target_DrawIre",
+                "Target_Endure",
+                "Projectile_FriendFetch",
+                "Shout_Jump2e",
+                "Shout_MageArmor2e",
+                "Projectile_MagicMissile2e",
+                "Target_MudPit",
+                "Target_ShockingGrasp2e",
+                "Target_Sleep2e",
+                "Projectile_SnowBall",
+                "Wall_WallOfShrubs",
+                "Zone_ColorSpray2e",
+                "Projectile_HorizonThunderSphere"
+            ]
+        },
+        {
+            "Comment": "Add Arcane 2nd level spells to Magus lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "db383feb-e781-48b4-bcc3-f45555555555",
+                "8915d1da-35db-4927-82e1-f45555555555",
+                "d8be7670-c139-4b9b-802d-f45555555555",
+                "dac85adf-4013-4756-98dc-f45555555555",
+                "75dbdf19-f8e9-48d1-9ba6-f45555555555",
+                "0d8f9189-8094-4aa7-9a87-f45555555555",
+                "c021525b-d640-4bd6-85f2-f45555555555",
+                "9987d007-273e-4ad0-b5a7-f45555555555"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Projectile_AcidArrow2e",
+                "Shout_BlazingArmory",
+                "Target_BloodVendetta",
+                "Target_BoneShaker",
+                "Projectile_BrineDragonBile",
+                "Target_CreateFood2e",
+                "Target_ExtractPoison",
+                "Target_FeastOfAshes",
+                "Target_FinalSacrifice",
+                "Shout_FireProof",
+                "Shout_Watrproof",
+                "Shout_FlameWisp",
+                "Target_ImpeccableFlow",
+                "Target_LooseTimeArrow",
+                "Target_ResistEnergy",
+                "Projectile_ScorchingRay2e",
+                "Target_TelekineticManeuver",
+                "Target_WarriorRegret"
+            ]
+        },
+        {
+            "Comment": "Add Arcane 3rd level spells to Magus lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "8915d1da-35db-4927-82e1-f45555555555",
+                "d8be7670-c139-4b9b-802d-f45555555555",
+                "dac85adf-4013-4756-98dc-f45555555555",
+                "75dbdf19-f8e9-48d1-9ba6-f45555555555",
+                "0d8f9189-8094-4aa7-9a87-f45555555555",
+                "c021525b-d640-4bd6-85f2-f45555555555",
+                "9987d007-273e-4ad0-b5a7-f45555555555"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Projectile_Fireball2e",
+                "Target_AgonzingDespair",
+                "Target_BindUndead",
+                "Projectile_BlazingDive",
+                "Target_BracingTendril",
+                "Projectile_Fireball",
+                "Target_FireworkBlast",
+                "Target_GhostlyWeapon",
+                "Target_Haste2e",
+                "Shout_InvisibilitySphere",
+                "Zone_LightningBolt2e",
+                "Shout_OozeForm",
+                "Target_Organsight",
+                "Projectile_PercussiveImpact",
+                "Projectile_ShadowProjectile",
+                "Shout_TimeJump",
+                "Target_VampiricTouch2e"
+            ]
+        },
+        {
+            "Comment": "Add Arcane 4th level spells to Magus lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "d8be7670-c139-4b9b-802d-f45555555555",
+                "dac85adf-4013-4756-98dc-f45555555555",
+                "75dbdf19-f8e9-48d1-9ba6-f45555555555",
+                "0d8f9189-8094-4aa7-9a87-f45555555555",
+                "c021525b-d640-4bd6-85f2-f45555555555",
+                "9987d007-273e-4ad0-b5a7-f45555555555"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Shout_AerialForm",
+                "Shout_Blink2e",
+                "Shout_DicernLies",
+                "Shout_DrawTheLightning",
+                "Shout_FireShield2e",
+                "Rush_MercurialStride",
+                "Target_Stoneskin2e",
+                "Zone_WeaponStorm",
+                "Target_WinningStreak",
+                "Shout_ZephyrSlip"
+            ]
+        },
+        {
+            "Comment": "Add Arcane 5th level spells to Magus lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "dac85adf-4013-4756-98dc-f45555555555",
+                "75dbdf19-f8e9-48d1-9ba6-f45555555555",
+                "0d8f9189-8094-4aa7-9a87-f45555555555",
+                "c021525b-d640-4bd6-85f2-f45555555555",
+                "9987d007-273e-4ad0-b5a7-f45555555555"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Shout_BelittlingBoast",
+                "Zone_BlazingFissure",
+                "Target_BlinkCharge",
+                "Target_BloodFeast",
+                "Zone_ConeOfCold2e",
+                "Zone_CrushingDespair",
+                "Shout_ElementalForm",
+                "Target_FlameDancer",
+                "Target_ForcefulHand",
+                "Target_ScouringPulse"
+            ]
+        },
+        {
+            "Comment": "Add Arcane 6th level spells to Magus lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "75dbdf19-f8e9-48d1-9ba6-f45555555555",
+                "0d8f9189-8094-4aa7-9a87-f45555555555",
+                "c021525b-d640-4bd6-85f2-f45555555555",
+                "9987d007-273e-4ad0-b5a7-f45555555555"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Zone_CastIntoTime",
+                "Projectile_ChainLightning2e",
+                "Shout_DevilForm",
+                "Target_ElementalConfluence",
+                "Target_Necrotize",
+                "Target_PhantomOrchestra",
+                "Shout_Repulsion",
+                "Target_SpellWrack"
+            ]
+        },

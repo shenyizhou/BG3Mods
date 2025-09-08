@@ -1,0 +1,18 @@
+local __util = require 'larian.util'
+
+function TotalPiercingOrSlashingDamageDoneGreaterThan(value)
+    local result = context.HitDescription.GetDamageDoneForType(DamageType.Slashing) > value
+    or context.HitDescription.GetDamageDoneForType(DamageType.Piercing) > value
+    return ConditionResult(result)
+end
+
+function TotalPhysicalDamageDoneGreaterThan(value)
+    local result = context.HitDescription.GetDamageDoneForType(DamageType.Slashing) > value
+    or context.HitDescription.GetDamageDoneForType(DamageType.Piercing) > value
+    or context.HitDescription.GetDamageDoneForType(DamageType.Bludgeoning) > value
+    return ConditionResult(result)
+end
+
+function IsClericCantrip()
+	return SpellId ('Target_SacredFlame') | SpellId ('Target_Daze') | SpellId ('Target_ChillTouch2e') | SpellId ('Projectile_DivineLance') | SpellId ('Target_DisruptUndead') | SpellId ('Zone_HauntingHymn')
+end

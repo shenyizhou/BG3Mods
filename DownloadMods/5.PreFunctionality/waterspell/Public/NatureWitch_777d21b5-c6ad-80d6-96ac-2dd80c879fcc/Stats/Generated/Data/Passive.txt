@@ -1,0 +1,14 @@
+new entry "HydroResistDawnstar"
+type "PassiveData"
+data "DisplayName" "hcd8fbc37ged21g469ag775fg1b103b9109d2;1"
+data "Description" "h78a5a9ccgc58egc43agb975g09efbd2531e8;2"
+data "Icon" "Spell_Target_HydroResist_02"
+data "Properties" "Highlighted"
+
+new entry "ChrushingBubbleDawnstar"
+type "PassiveData"
+data "DisplayName" "h04c722d2g036dg60bfg1392g45f47dfd0c1d;2"
+data "Description" "h19ddae2aga8beg4462g6fdfg9e275367269e;1"
+data "Icon" "Spell_Target_CrushingBubble_02"
+data "Properties" "Highlighted"
+

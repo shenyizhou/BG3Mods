@@ -1,0 +1,1287 @@
+{
+    "FileVersion": 1,
+    "Lists": [
+        {
+            "Comment": "Add Occult Cantrips to Bard and Warlock lists.",
+            "Action": "Insert",
+            "UUIDs": [
+                "61f79a30-2cac-4a7a-b5fe-50c89d307dd6",
+                "f5c4af9c-5d8d-4526-9057-94a4b243cd40"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Shout_WarpStep",
+                "Zone_HauntingHymn",
+                "Target_Guidance2e",
+                "Target_ChillTouch2e",
+                "Projectile_PhaseBolt",
+                "Target_Daze"
+            ]
+        },
+        {
+            "Comment": "Add Divine Cantrips to Cleric list.",
+            "Action": "Insert",
+            "UUID": "2f43a103-5bf1-4534-b14f-663decc0c525",
+            "Type": "SpellList",
+            "Items": [
+                "Target_Daze",
+                "Shout_Shield2e",
+                "Target_ChillTouch2e",
+                "Projectile_DivineLance",
+                "Target_DisruptUndead",
+                "Target_Guidance2e",
+                "Zone_HauntingHymn"
+            ]
+        },
+        {
+            "Comment": "Add Primal Cantrips to Druid list.",
+            "Action": "Insert",
+            "UUID": "b8faf12f-ca42-45c0-84f8-6951b526182a",
+            "Type": "SpellList",
+            "Items": [
+                "Projectile_FireBoltHB",
+                "Projectile_AcidSplash2e",
+                "Projectile_ElectricArc",
+                "Shout_ElementalCounter",
+                "Shout_GlassShield",
+                "Target_DisruptUndead",
+                "Shout_GaleBlast",
+                "Target_Guidance2e",
+                "Target_PuffOfPoison",
+                "Projectile_RayOfFrostHB"
+            ]
+        },
+        {
+            "Comment": "Add Arcane Cantrips to Sorcerer and Wizard lists.",
+            "Action": "Insert",
+            "UUIDs": [
+                "485a68b4-c678-4888-be63-4a702efbe391",
+                "3cae2e56-9871-4cef-bba6-96845ea765fa"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Projectile_FireBoltHB",
+                "Projectile_AcidSplash2e",
+                "Target_Daze",
+                "Projectile_ElectricArc",
+                "Shout_ElementalCounter",
+                "Shout_GlassShield",
+                "Projectile_PhaseBolt",
+                "Shout_Shield2e",
+                "Target_ChillTouch2e",
+                "Shout_GaleBlast",
+                "Target_PuffOfPoison",
+                "Shout_WarpStep",
+                "Projectile_RayOfFrostHB"
+            ]
+        },
+        {
+            "Comment": "Add Occult 1st level spells to bard and warlock lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "dcb45167-86bd-4297-9b9d-c295be51af5b",
+                "7ea8f476-97a1-4256-8f10-afa76a845cce",
+                "c213ca01-3767-457b-a5c8-fd4c1dd656e2",
+                "75e04c40-be8f-40a5-9acc-0b5d59d5f3a6",
+                "bd71fffb-e4d2-4233-9a31-13d43fba36e3",
+                "586a8796-34f4-41f5-a3ef-95738561d55d",
+                "f923e058-b1d9-4b02-98ef-9daaa82a71b6",
+                "073c09e5-ccb9-4153-a210-001225a30cbb",
+                "2bbd99d0-21b4-41cc-836e-e386a96fc8e6",
+                "4823a292-f584-4f7f-8434-6630c72e5411",
+                "835aeca7-c64a-4aaa-a25c-143aa14a5cec",
+                "5dec41aa-f16a-434e-b209-50c07e64e4ed",
+                "7ad7dbd0-751b-4bcd-8034-53bcc7bfb19d",
+                "deab57bf-4eec-4085-82f7-87335bce3f5d",
+                "65952d48-bb16-4ad7-b173-532182bf7770",
+                "fe101a94-8619-49b2-859d-a68c2c291054",
+                "30e9b761-6be0-418e-bb28-5103c00c663b",
+                "b64e527e-1f97-4125-84f7-78376ab1440b",
+                "6d2edca9-71a7-4f3f-89f0-fccfff0bdee5",
+                "e0099b15-2599-4cba-a54b-b25ae03d6519",
+                "0cc2c8ab-9bbc-43a7-a66d-08e47da4c172",
+                "f18ad912-e2f4-47a9-8744-73d6a51c2941",
+                "c3d8a4a5-9dae-4193-8322-a5d1c5b89f47",
+                "0a9b924f-64fb-4f22-b975-5eeedc99b2fd"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Target_Agitate",
+                "Target_DrawIre",
+                "Target_Endure",
+                "Projectile_FriendFetch",
+                "Shout_MageArmor2e",
+                "Projectile_MagicMissile2e",
+                "Target_Sleep2e",
+                "Target_BitingWords",
+                "Zone_ColorSpray2e",
+                "Target_CondordantChoir"
+            ]
+        },
+        {
+            "Comment": "Add Occult 2nd level spells to bard and warlock lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "7ea8f476-97a1-4256-8f10-afa76a845cce",
+                "c213ca01-3767-457b-a5c8-fd4c1dd656e2",
+                "75e04c40-be8f-40a5-9acc-0b5d59d5f3a6",
+                "bd71fffb-e4d2-4233-9a31-13d43fba36e3",
+                "586a8796-34f4-41f5-a3ef-95738561d55d",
+                "f923e058-b1d9-4b02-98ef-9daaa82a71b6",
+                "073c09e5-ccb9-4153-a210-001225a30cbb",
+                "2bbd99d0-21b4-41cc-836e-e386a96fc8e6",
+                "835aeca7-c64a-4aaa-a25c-143aa14a5cec",
+                "5dec41aa-f16a-434e-b209-50c07e64e4ed",
+                "7ad7dbd0-751b-4bcd-8034-53bcc7bfb19d",
+                "deab57bf-4eec-4085-82f7-87335bce3f5d",
+                "fe101a94-8619-49b2-859d-a68c2c291054",
+                "30e9b761-6be0-418e-bb28-5103c00c663b",
+                "b64e527e-1f97-4125-84f7-78376ab1440b",
+                "6d2edca9-71a7-4f3f-89f0-fccfff0bdee5",
+                "0cc2c8ab-9bbc-43a7-a66d-08e47da4c172",
+                "f18ad912-e2f4-47a9-8744-73d6a51c2941",
+                "c3d8a4a5-9dae-4193-8322-a5d1c5b89f47",
+                "0a9b924f-64fb-4f22-b975-5eeedc99b2fd"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Target_BlisteringInvective",
+                "Target_BloodVendetta",
+                "Target_DeathKnell",
+                "Target_FeastOfAshes",
+                "Target_FinalSacrifice",
+                "Target_ImpartEmpathy",
+                "Target_LooseTimeArrow",
+                "Shout_MimicUndead",
+                "Target_RemoveFear",
+                "Target_RemoveParalysis",
+                "Target_ResistEnergy",
+                "Target_RestoreSenses",
+                "Target_SoundBurst",
+                "Target_TelekineticManeuver",
+                "Target_WarriorRegret"
+            ]
+        },
+        {
+            "Comment": "Add Occult 3rd level spells to bard and warlock lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "c213ca01-3767-457b-a5c8-fd4c1dd656e2",
+                "75e04c40-be8f-40a5-9acc-0b5d59d5f3a6",
+                "bd71fffb-e4d2-4233-9a31-13d43fba36e3",
+                "586a8796-34f4-41f5-a3ef-95738561d55d",
+                "f923e058-b1d9-4b02-98ef-9daaa82a71b6",
+                "073c09e5-ccb9-4153-a210-001225a30cbb",
+                "2bbd99d0-21b4-41cc-836e-e386a96fc8e6",
+                "5dec41aa-f16a-434e-b209-50c07e64e4ed",
+                "7ad7dbd0-751b-4bcd-8034-53bcc7bfb19d",
+                "deab57bf-4eec-4085-82f7-87335bce3f5d",
+                "30e9b761-6be0-418e-bb28-5103c00c663b",
+                "b64e527e-1f97-4125-84f7-78376ab1440b",
+                "6d2edca9-71a7-4f3f-89f0-fccfff0bdee5",
+                "f18ad912-e2f4-47a9-8744-73d6a51c2941",
+                "c3d8a4a5-9dae-4193-8322-a5d1c5b89f47",
+                "0a9b924f-64fb-4f22-b975-5eeedc99b2fd"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Target_AgonzingDespair",
+                "Target_BindUndead",
+                "Target_BracingTendril",
+                "Shout_FocusingHum",
+                "Target_GhostlyWeapon",
+                "Target_Haste2e",
+                "Target_Heroism2e",
+                "Shout_InvisibilitySphere",
+                "Target_MothsSupper",
+                "Shout_OozeForm",
+                "Target_Organsight",
+                "Projectile_PercussiveImpact",
+                "Projectile_ShadowProjectile",
+                "Shout_TimeJump",
+                "Target_VampiricTouch2e"
+            ]
+        },
+        {
+            "Comment": "Add Occult 4th level spells to bard and warlock lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "75e04c40-be8f-40a5-9acc-0b5d59d5f3a6",
+                "bd71fffb-e4d2-4233-9a31-13d43fba36e3",
+                "586a8796-34f4-41f5-a3ef-95738561d55d",
+                "f923e058-b1d9-4b02-98ef-9daaa82a71b6",
+                "073c09e5-ccb9-4153-a210-001225a30cbb",
+                "2bbd99d0-21b4-41cc-836e-e386a96fc8e6",
+                "7ad7dbd0-751b-4bcd-8034-53bcc7bfb19d",
+                "deab57bf-4eec-4085-82f7-87335bce3f5d",
+                "b64e527e-1f97-4125-84f7-78376ab1440b",
+                "6d2edca9-71a7-4f3f-89f0-fccfff0bdee5",
+                "c3d8a4a5-9dae-4193-8322-a5d1c5b89f47",
+                "0a9b924f-64fb-4f22-b975-5eeedc99b2fd"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Shout_Blink2e",
+                "Target_BloodSprayCurse",
+                "Shout_DicernLies",
+                "Shout_FeyForm_Container",
+                "Shout_GirzanjesMarch",
+                "Rush_MercurialStride",
+                "Target_WinningStreak"
+            ]
+        },
+        {
+            "Comment": "Add Occult 5th level spells to bard and warlock lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "bd71fffb-e4d2-4233-9a31-13d43fba36e3",
+                "586a8796-34f4-41f5-a3ef-95738561d55d",
+                "f923e058-b1d9-4b02-98ef-9daaa82a71b6",
+                "073c09e5-ccb9-4153-a210-001225a30cbb",
+                "2bbd99d0-21b4-41cc-836e-e386a96fc8e6",
+                "deab57bf-4eec-4085-82f7-87335bce3f5d",
+                "6d2edca9-71a7-4f3f-89f0-fccfff0bdee5",
+                "0a9b924f-64fb-4f22-b975-5eeedc99b2fd"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Shout_AberrantForm",
+                "Shout_BelittlingBoast",
+                "Target_BlinkCharge",
+                "Target_BloodFeast",
+                "Zone_CrushingDespair",
+                "Target_DeathWard2e",
+                "Target_FlameDancer",
+                "Target_ForcefulHand",
+                "Shout_RepellingPulse",
+                "Target_ScouringPulse",
+                "Shout_SynapticPulse"
+            ]
+        },
+        {
+            "Comment": "Add Occult 6th level spells to bard lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "586a8796-34f4-41f5-a3ef-95738561d55d",
+                "f923e058-b1d9-4b02-98ef-9daaa82a71b6",
+                "073c09e5-ccb9-4153-a210-001225a30cbb",
+                "2bbd99d0-21b4-41cc-836e-e386a96fc8e6"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Shout_BlanketOfStars",
+                "Zone_CastIntoTime",
+                "Target_PhantomOrchestra",
+                "Shout_Repulsion",
+                "Target_SpellWrack"
+            ]
+        },
+        {
+            "Comment": "Add Occult 7th level spells to bard lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "f923e058-b1d9-4b02-98ef-9daaa82a71b6",
+                "073c09e5-ccb9-4153-a210-001225a30cbb",
+                "2bbd99d0-21b4-41cc-836e-e386a96fc8e6"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Target_EnergyAegis",
+                "Target_PrismaticArmor",
+                "Target_ShockToTheSystem",
+                "Target_TrueTarget"
+            ]
+        },
+        {
+            "Comment": "Add Occult 8th level spells to bard lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "073c09e5-ccb9-4153-a210-001225a30cbb",
+                "2bbd99d0-21b4-41cc-836e-e386a96fc8e6"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Target_HypnoticTerror",
+                "Target_Maze2e",
+                "Target_SummonIrii"
+            ]
+        },
+        {
+            "Comment": "Add Divine 1st level spells to Cleric and Paladin lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "269d1a3b-eed8-4131-8901-a562238f5289",
+                "c6288ac5-c68b-40ed-bbdd-2ff388575831"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Projectile_AdmonishingRay",
+                "Target_CondordantChoir",
+                "Target_Harm2e",
+                "Target_Heal2e"
+            ]
+        },
+        {
+            "Comment": "Add Divine 2nd level spells to Cleric and Paladin lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "2968a3e6-6c8a-4c2e-882a-ad295a2ad8ac",
+               "c14c9564-1503-47a1-be19-98e77f22ff59"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Shout_BlazingArmory",
+                "Target_BloodVendetta",
+                "Target_BoneShaker",
+                "Target_CLawsong",
+                "Target_CreateFood2e",
+                "Target_DeathKnell",
+                "Target_FinalSacrifice",
+                "Shout_FireProof",
+                "Target_ImpeccableFlow",
+                "Shout_MimicUndead",
+                "Target_RemoveFear",
+                "Target_RemoveParalysis",
+                "Target_RestoreSenses",
+                "Target_ResistEnergy",
+                "Target_SoundBurst",
+                "Target_WarriorRegret"
+            ]
+        },
+        {
+            "Comment": "Add Divine 3rd level spells to Cleric and Paladin lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "21be0992-499f-4c7a-a77a-4430085e947a",
+                "d18dec04-478f-41c3-b816-239d5cfcf2a2"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Target_AgonzingDespair",
+                "Target_BindUndead",
+                "Shout_ConsecratedFlesh",
+                "Shout_FocusingHum",
+                "Target_Heroism2e",
+                "Projectile_MoonlightRay",
+                "Projectile_SearingLight",
+                "Projectile_ChillingDarkness",
+                "Target_Organsight",
+                "Projectile_PercussiveImpact",
+                "Target_PossitiveAttunement",
+                "Target_VampiricTouch2e"
+            ]
+        },
+        {
+            "Comment": "Add Divine 4th level spells to Cleric and Paladin lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "37e9b20b-5fd1-45c5-b1c5-159c42397c83",
+                "11d0c2a0-41c6-4ec0-98fe-5d987f7e1665"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Target_BloodSprayCurse",
+                "Shout_CloakOfLight",
+                "Shout_DicernLies",
+                "Shout_GirzanjesMarch",
+                "Zone_Radiantbeam",
+                "Target_SoothingSpring",
+                "Shout_VitalBeacon"
+            ]
+        },
+        {
+            "Comment": "Add Divine 5th level spells to Cleric and Paladin lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "b73aeea5-1ff9-4cac-b61d-b5aa6dfe31c2",
+                "f351595c-90f7-4804-9e55-18c4d624593c"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Shout_BelittlingBoast",
+                "Target_BlinkCharge",
+                "Target_BloodFeast",
+                "Target_BreathOfLife",
+                "Target_DeathWard2e",
+                "Shout_RepellingPulse",
+                "Target_ScouringPulse"
+            ]
+        },
+        {
+            "Comment": "Add Divine 6th level spells to Cleric lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "f8ba7b05-1237-4eaa-97fa-1d3623d5862b"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Shout_DevilForm",
+                "Target_Necrotize",
+                "Shout_Repulsion",
+                "Target_SpellWrack",
+                "Shout_RighteousMight"
+            ]
+        },
+        {
+            "Comment": "Add Divine 7th level spells to Cleric lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "11862b36-c2d6-4d2f-b2d7-4af29f8fe31a"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Shout_AngelForm",
+                "Shout_CosmicForm",
+                "Target_EclipseBurst",
+                "Target_EnergyAegis",
+                "Target_MoonBurst",
+                "Target_Regenerate",
+                "Target_ShockToTheSystem"
+            ]
+        },
+        {
+            "Comment": "Add Divine 8th level spells to Cleric lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "a0df1e32-1c61-4017-939f-44cc7695a924"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Target_MomentOfRenewal",
+                "Target_SummonDieficHerald"
+            ]
+        },
+        {
+            "Comment": "Add Primal 1st level spells to Druid and Ranger lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "2cd54137-2fe5-4100-aad3-df64735a8145",
+                "458be063-60d4-4548-ae7d-50117fa0226f",
+                "e7cfb80a-f5c2-4304-8446-9b00ea6a9814",
+                "9a60f649-7f82-4152-90b1-0499c5c9f3e2",
+                "7022d937-b2e4-4b6e-a3c5-e168f5c00194",
+                "412d77e1-4aa2-4149-aa0e-c835b8c79f32"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Target_HydraulicPush",
+                "Shout_AirBurst",
+                "Projectile_BrinyBolt",
+                "Zone_BurningHands2e",
+                "Zone_ChillingSpray",
+                "Shout_ConductiveWeapon",
+                "Shout_FleetStep",
+                "Shout_Jump2e",
+                "Target_MudPit",
+                "Target_ShockingGrasp2e",
+                "Projectile_SnowBall",
+                "Wall_WallOfShrubs",
+                "Zone_BuffettingWinds",
+                "Target_Heal2e",
+                "Projectile_HorizonThunderSphere",
+                "Target_AntHaul"
+            ]
+        },
+        {
+            "Comment": "Add Primal 2nd level spells to Druid and Ranger lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "92126d17-7f1a-41d2-ae6c-a8d254d2b135",
+                "e7cfb80a-f5c2-4304-8446-9b00ea6a9814",
+                "9a60f649-7f82-4152-90b1-0499c5c9f3e2",
+                "7022d937-b2e4-4b6e-a3c5-e168f5c00194",
+                "412d77e1-4aa2-4149-aa0e-c835b8c79f32"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Projectile_AcidArrow2e",
+                "Target_Barkskin2e",
+                "Shout_BlazingArmory",
+                "Target_BoneShaker",
+                "Projectile_BrineDragonBile",
+                "Target_CLawsong",
+                "Target_CreateFood2e",
+                "Target_ExtractPoison",
+                "Target_FeastOfAshes",
+                "Target_FinalSacrifice",
+                "Shout_FireProof",
+                "Shout_Watrproof",
+                "Shout_FlameWisp",
+                "Target_ImpartEmpathy",
+                "Target_LooseTimeArrow",
+                "Target_RemoveFear",
+                "Target_RemoveParalysis",
+                "Target_RestoreSenses",
+                "Target_ResistEnergy",
+                "Projectile_ScorchingRay2e"
+            ]
+        },
+        {
+            "Comment": "Add Primal 3rd level spells to Druid and Ranger lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "3156daf5-9266-41d0-b52c-5bc559a98654",
+                "9a60f649-7f82-4152-90b1-0499c5c9f3e2",
+                "7022d937-b2e4-4b6e-a3c5-e168f5c00194",
+                "412d77e1-4aa2-4149-aa0e-c835b8c79f32"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Projectile_BlazingDive",
+                "Target_EnvenomCompanion",
+                "Projectile_Fireball",
+                "Target_Haste2e",
+                "Zone_LightningBolt2e",
+                "Projectile_MoonlightRay",
+                "Projectile_SearingLight",
+                "Target_MothsSupper",
+                "Target_Organsight",
+                "Target_PossitiveAttunement"
+            ]
+        },
+        {
+            "Comment": "Add Primal 4th level spells to Druid and Ranger lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "09c326c9-672c-4198-a4c0-6f07323bde27",
+                "7022d937-b2e4-4b6e-a3c5-e168f5c00194",
+                "412d77e1-4aa2-4149-aa0e-c835b8c79f32"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Shout_AerialForm",
+                "Target_BloodSprayCurse",
+                "Shout_CloakOfLight",
+                "Shout_DinoForm",
+                "Shout_DrawTheLightning",
+                "Shout_FeyForm_Container",
+                "Shout_FireShield2e",
+                "Zone_HydraulicTorrent",
+                "Zone_Radiantbeam",
+                "Target_SoothingSpring",
+                "Target_Stoneskin2e",
+                "Shout_VitalBeacon",
+                "Zone_WeaponStorm",
+                "Shout_ZephyrSlip"
+            ]
+        },
+        {
+            "Comment": "Add Primal 5th level spells to Druid and Ranger lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "ff711c12-b59f-4fde-b9ea-6e5c38ec8f23",
+                "412d77e1-4aa2-4149-aa0e-c835b8c79f32"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Zone_BlazingFissure",
+                "Zone_ConeOfCold2e",
+                "Target_DeathWard2e",
+                "Shout_ElementalForm",
+                "Target_FlameDancer",
+                "Target_LightningStorm",
+                "Shout_PlantForm",
+                "Target_StormBurst"
+            ]
+        },
+        {
+            "Comment": "Add Primal 6th level spells to Druid lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "6a4e2167-55f3-4ba8-900f-14666b293e93"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Shout_BlanketOfStars",
+                "Projectile_ChainLightning2e",
+                "Target_ElementalConfluence",
+                "Target_Necrotize",
+                "Target_PhantomOrchestra"
+            ]
+        },
+        {
+            "Comment": "Add Primal 7th level spells to Druid lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "29c9cf78-3bd6-47dc-88b4-2dce54710124"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Shout_CorrosiveBody",
+                "Shout_CosmicForm",
+                "Target_EclipseBurst",
+                "Target_EnergyAegis",
+                "Target_MoonBurst",
+                "Target_Regenerate",
+                "Target_ShockToTheSystem"
+            ]
+        },
+        {
+            "Comment": "Add Primal 8th level spells to Druid lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "bdff0cba-d631-4b83-9562-63c0187df380"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Target_MomentOfRenewal",
+                "Shout_MonstrosityForm",
+                "Projectile_PolarRay"
+            ]
+        },
+        {
+            "Comment": "Add Arcane 1st level spells to Sorcerer and Wizard lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "92c4751f-6255-4f67-822c-a75d53830b27",
+                "f80396e2-cb76-4694-b0db-5c34da61a478",
+                "dcbaf2ae-1f45-453e-ab83-cd154f8277a4",
+                "5fe40622-1d3e-4cc1-8d89-e66fe51d8c5c",
+                "3276fcfe-e143-4559-b6e0-7d7aa0ffcb53",
+                "1270a6db-980b-4e3b-bf26-2924da61dfd5",
+                "9e38e5ae-51e8-4dd4-aad5-869a571b1519",
+                "5a8a002c-352b-44e9-8233-da7e6112f4b0",
+                "d58ac072-e079-410b-b167-a5e43723b59f",
+                "11f331b0-e8b7-473b-9d1f-19e8e4178d7d",
+                "80c6b070-c3a6-4864-84ca-e78626784eb4",
+                "22755771-ca11-49f4-b772-13d8b8fecd93",
+                "820b1220-0385-426d-ae15-458dc8a6f5c0",
+                "f781a25e-d288-43b4-bf5d-3d8d98846687",
+                "bc917f22-7f71-4a25-9a77-7d2f91a96a65",
+                "dff7917a-0abc-4671-b68f-c03e56212549",
+                "f27a2d0a-0d6c-4c01-98a5-60081abf4807",
+                "cb123d97-8809-4d71-a0cb-0ecb66177d15"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Target_HydraulicPush",
+                "Projectile_AdmonishingRay",
+                "Target_Agitate",
+                "Zone_BurningHands2e",
+                "Shout_FleetStep",
+                "Shout_AirBurst",
+                "Target_AnticipatePeril",
+                "Target_Befuddle",
+                "Projectile_BrinyBolt",
+                "Zone_ChillingSpray",
+                "Shout_ConductiveWeapon",
+                "Target_DrawIre",
+                "Target_Endure",
+                "Projectile_FriendFetch",
+                "Shout_Jump2e",
+                "Shout_MageArmor2e",
+                "Projectile_MagicMissile2e",
+                "Target_MudPit",
+                "Target_ShockingGrasp2e",
+                "Target_Sleep2e",
+                "Projectile_SnowBall",
+                "Wall_WallOfShrubs",
+                "Zone_ColorSpray2e",
+                "Projectile_HorizonThunderSphere",
+                "Target_AntHaul"
+            ]
+        },
+        {
+            "Comment": "Add Arcane 2nd level spells to Sorcerer and Wizard lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "f80396e2-cb76-4694-b0db-5c34da61a478",
+                "dcbaf2ae-1f45-453e-ab83-cd154f8277a4",
+                "5fe40622-1d3e-4cc1-8d89-e66fe51d8c5c",
+                "3276fcfe-e143-4559-b6e0-7d7aa0ffcb53",
+                "1270a6db-980b-4e3b-bf26-2924da61dfd5",
+                "9e38e5ae-51e8-4dd4-aad5-869a571b1519",
+                "5a8a002c-352b-44e9-8233-da7e6112f4b0",
+                "d58ac072-e079-410b-b167-a5e43723b59f",
+                "80c6b070-c3a6-4864-84ca-e78626784eb4",
+                "22755771-ca11-49f4-b772-13d8b8fecd93",
+                "820b1220-0385-426d-ae15-458dc8a6f5c0",
+                "f781a25e-d288-43b4-bf5d-3d8d98846687",
+                "bc917f22-7f71-4a25-9a77-7d2f91a96a65",
+                "dff7917a-0abc-4671-b68f-c03e56212549",
+                "f27a2d0a-0d6c-4c01-98a5-60081abf4807",
+                "cb123d97-8809-4d71-a0cb-0ecb66177d15"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Projectile_AcidArrow2e",
+                "Shout_BlazingArmory",
+                "Target_BloodVendetta",
+                "Target_BoneShaker",
+                "Projectile_BrineDragonBile",
+                "Target_CreateFood2e",
+                "Target_ExtractPoison",
+                "Target_FeastOfAshes",
+                "Target_FinalSacrifice",
+                "Shout_FireProof",
+                "Shout_Watrproof",
+                "Shout_FlameWisp",
+                "Target_ImpeccableFlow",
+                "Target_LooseTimeArrow",
+                "Target_ResistEnergy",
+                "Projectile_ScorchingRay2e",
+                "Target_TelekineticManeuver",
+                "Target_WarriorRegret"
+            ]
+        },
+        {
+            "Comment": "Add Arcane 3rd level spells to Sorcerer and Wizard lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "dcbaf2ae-1f45-453e-ab83-cd154f8277a4",
+                "5fe40622-1d3e-4cc1-8d89-e66fe51d8c5c",
+                "3276fcfe-e143-4559-b6e0-7d7aa0ffcb53",
+                "1270a6db-980b-4e3b-bf26-2924da61dfd5",
+                "9e38e5ae-51e8-4dd4-aad5-869a571b1519",
+                "5a8a002c-352b-44e9-8233-da7e6112f4b0",
+                "d58ac072-e079-410b-b167-a5e43723b59f",
+                "22755771-ca11-49f4-b772-13d8b8fecd93",
+                "820b1220-0385-426d-ae15-458dc8a6f5c0",
+                "f781a25e-d288-43b4-bf5d-3d8d98846687",
+                "bc917f22-7f71-4a25-9a77-7d2f91a96a65",
+                "dff7917a-0abc-4671-b68f-c03e56212549",
+                "f27a2d0a-0d6c-4c01-98a5-60081abf4807",
+                "cb123d97-8809-4d71-a0cb-0ecb66177d15"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Projectile_Fireball2e",
+                "Target_AgonzingDespair",
+                "Target_BindUndead",
+                "Projectile_BlazingDive",
+                "Target_BracingTendril",
+                "Projectile_Fireball",
+                "Target_FireworkBlast",
+                "Target_GhostlyWeapon",
+                "Target_Haste2e",
+                "Shout_InvisibilitySphere",
+                "Zone_LightningBolt2e",
+                "Shout_OozeForm",
+                "Target_Organsight",
+                "Projectile_PercussiveImpact",
+                "Projectile_ShadowProjectile",
+                "Shout_TimeJump",
+                "Target_VampiricTouch2e"
+            ]
+        },
+        {
+            "Comment": "Add Arcane 4th level spells to Sorcerer and Wizard lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "5fe40622-1d3e-4cc1-8d89-e66fe51d8c5c",
+                "3276fcfe-e143-4559-b6e0-7d7aa0ffcb53",
+                "1270a6db-980b-4e3b-bf26-2924da61dfd5",
+                "9e38e5ae-51e8-4dd4-aad5-869a571b1519",
+                "5a8a002c-352b-44e9-8233-da7e6112f4b0",
+                "d58ac072-e079-410b-b167-a5e43723b59f",
+                "820b1220-0385-426d-ae15-458dc8a6f5c0",
+                "f781a25e-d288-43b4-bf5d-3d8d98846687",
+                "bc917f22-7f71-4a25-9a77-7d2f91a96a65",
+                "dff7917a-0abc-4671-b68f-c03e56212549",
+                "f27a2d0a-0d6c-4c01-98a5-60081abf4807",
+                "cb123d97-8809-4d71-a0cb-0ecb66177d15"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Shout_AerialForm",
+                "Shout_Blink2e",
+                "Shout_DicernLies",
+                "Shout_DrawTheLightning",
+                "Shout_FireShield2e",
+                "Rush_MercurialStride",
+                "Target_Stoneskin2e",
+                "Zone_WeaponStorm",
+                "Target_WinningStreak",
+                "Shout_ZephyrSlip"
+            ]
+        },
+        {
+            "Comment": "Add Arcane 5th level spells to Sorcerer and Wizard lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "3276fcfe-e143-4559-b6e0-7d7aa0ffcb53",
+                "3276fcfe-e143-4559-b6e0-7d7aa0ffcb53",
+                "1270a6db-980b-4e3b-bf26-2924da61dfd5",
+                "9e38e5ae-51e8-4dd4-aad5-869a571b1519",
+                "5a8a002c-352b-44e9-8233-da7e6112f4b0",
+                "d58ac072-e079-410b-b167-a5e43723b59f",
+                "820b1220-0385-426d-ae15-458dc8a6f5c0",
+                "f781a25e-d288-43b4-bf5d-3d8d98846687",
+                "bc917f22-7f71-4a25-9a77-7d2f91a96a65",
+                "dff7917a-0abc-4671-b68f-c03e56212549",
+                "f27a2d0a-0d6c-4c01-98a5-60081abf4807",
+                "cb123d97-8809-4d71-a0cb-0ecb66177d15"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Shout_BelittlingBoast",
+                "Zone_BlazingFissure",
+                "Target_BlinkCharge",
+                "Target_BloodFeast",
+                "Zone_ConeOfCold2e",
+                "Zone_CrushingDespair",
+                "Shout_ElementalForm",
+                "Target_FlameDancer",
+                "Target_ForcefulHand",
+                "Target_ScouringPulse"
+            ]
+        },
+        {
+            "Comment": "Add Arcane 6th level spells to Sorcerer and Wizard lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "1270a6db-980b-4e3b-bf26-2924da61dfd5",
+                "9e38e5ae-51e8-4dd4-aad5-869a571b1519",
+                "5a8a002c-352b-44e9-8233-da7e6112f4b0",
+                "d58ac072-e079-410b-b167-a5e43723b59f",
+                "bc917f22-7f71-4a25-9a77-7d2f91a96a65",
+                "dff7917a-0abc-4671-b68f-c03e56212549",
+                "f27a2d0a-0d6c-4c01-98a5-60081abf4807",
+                "cb123d97-8809-4d71-a0cb-0ecb66177d15"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Zone_CastIntoTime",
+                "Projectile_ChainLightning2e",
+                "Shout_DevilForm",
+                "Target_ElementalConfluence",
+                "Target_Necrotize",
+                "Target_PhantomOrchestra",
+                "Shout_Repulsion",
+                "Target_SpellWrack"
+            ]
+        },
+        {
+            "Comment": "Add Arcane 7th level spells to Sorcerer and Wizard lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "9e38e5ae-51e8-4dd4-aad5-869a571b1519",
+                "5a8a002c-352b-44e9-8233-da7e6112f4b0",
+                "d58ac072-e079-410b-b167-a5e43723b59f",
+                "dff7917a-0abc-4671-b68f-c03e56212549",
+                "f27a2d0a-0d6c-4c01-98a5-60081abf4807",
+                "cb123d97-8809-4d71-a0cb-0ecb66177d15"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Shout_CorrosiveBody",
+                "Shout_CosmicForm",
+                "Target_EclipseBurst",
+                "Target_EnergyAegis",
+                "Shout_EntrancingEyes",
+                "Target_PrismaticArmor",
+                "Target_TrueTarget"
+            ]
+        },
+        {
+            "Comment": "Add Arcane 8th level spells to Sorcerer and Wizard lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "5a8a002c-352b-44e9-8233-da7e6112f4b0",
+                "d58ac072-e079-410b-b167-a5e43723b59f",
+                "f27a2d0a-0d6c-4c01-98a5-60081abf4807",
+                "cb123d97-8809-4d71-a0cb-0ecb66177d15"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Target_Maze2e",
+                "Shout_MonstrosityForm",
+                "Projectile_PolarRay",
+                "Target_SummonArchmage",
+                "Target_SummonIrii"
+            ]
+        },
+        {
+            "Comment": "Add All 1st level spells to 3rd level Magical Secret",
+            "Action": "Insert",
+            "UUIDs": [
+                "175ceed7-5a53-4f48-823c-41c4f72d18ae",
+                "858d4322-9e9f-4aa4-aada-9c68835dc6fe",
+                "95f80109-32b7-43f8-a99a-7ee2286a993a",
+                "cd83187f-c886-45c2-be81-34083981f240"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Target_HydraulicPush",
+                "Wall_WallOfShrubs",
+                "Zone_BuffettingWinds",
+                "Zone_BurningHands2e",
+                "Target_BitingWords",
+                "Target_CondordantChoir",
+                "Target_CondordantChoir",
+                "Target_Harm2e",
+                "Target_Heal2e",
+                "Projectile_AdmonishingRay",
+                "Target_Agitate",
+                "Shout_AirBurst",
+                "Target_AnticipatePeril",
+                "Target_Befuddle",
+                "Projectile_BrinyBolt",
+                "Zone_BuffettingWinds",
+                "Zone_ChillingSpray",
+                "Shout_ConductiveWeapon",
+                "Target_DrawIre",
+                "Target_Endure",
+                "Projectile_FriendFetch",
+                "Shout_Jump2e",
+                "Shout_MageArmor2e",
+                "Projectile_MagicMissile2e",
+                "Target_MudPit",
+                "Target_ShockingGrasp2e",
+                "Target_Sleep2e",
+                "Projectile_SnowBall",
+                "Wall_WallOfShrubs",
+                "Zone_ColorSpray2e",
+                "Projectile_HorizonThunderSphere"
+            ]
+        },
+        {
+            "Comment": "Add All 2nd level spells to 3rd level Magical Secret",
+            "Action": "Insert",
+            "UUIDs": [
+                "175ceed7-5a53-4f48-823c-41c4f72d18ae",
+                "858d4322-9e9f-4aa4-aada-9c68835dc6fe",
+                "95f80109-32b7-43f8-a99a-7ee2286a993a",
+                "cd83187f-c886-45c2-be81-34083981f240"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Projectile_AcidArrow2e",
+                "Target_Barkskin2e",
+                "Shout_BlazingArmory",
+                "Target_BlisteringInvective",
+                "Target_BloodVendetta",
+                "Target_BoneShaker",
+                "Projectile_BrineDragonBile",
+                "Target_CLawsong",
+                "Target_CreateFood2e",
+                "Target_DeathKnell",
+                "Target_ExtractPoison",
+                "Target_FeastOfAshes",
+                "Target_FinalSacrifice",
+                "Shout_FireProof",
+                "Shout_Watrproof",
+                "Shout_FlameWisp",
+                "Target_ImpartEmpathy",
+                "Target_ImpeccableFlow",
+                "Target_LooseTimeArrow",
+                "Shout_MimicUndead",
+                "Target_RemoveFear",
+                "Target_RemoveParalysis",
+                "Target_RestoreSenses",
+                "Target_ResistEnergy",
+                "Projectile_ScorchingRay",
+                "Target_SoundBurst",
+                "Target_TelekineticManeuver",
+                "Target_WarriorRegret"
+            ]
+        },
+        {
+            "Comment": "Add All 3rd level spells to 3rd level Magical Secret",
+            "Action": "Insert",
+            "UUIDs": [
+                "175ceed7-5a53-4f48-823c-41c4f72d18ae",
+                "858d4322-9e9f-4aa4-aada-9c68835dc6fe",
+                "95f80109-32b7-43f8-a99a-7ee2286a993a",
+                "cd83187f-c886-45c2-be81-34083981f240"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Target_AgonzingDespair",
+                "Target_BindUndead",
+                "Projectile_BlazingDive",
+                "Target_BracingTendril",
+                "Shout_ConsecratedFlesh",
+                "Target_EnvenomCompanion",
+                "Projectile_Fireball2e",
+                "Target_FireworkBlast",
+                "Shout_FocusingHum",
+                "Target_GhostlyWeapon",
+                "Target_Haste2e",
+                "Target_Heroism2e",
+                "Shout_InvisibilitySphere",
+                "Zone_LightningBolt2e",
+                "Projectile_MoonlightRay",
+                "Projectile_SearingLight",
+                "Projectile_ChillingDarkness",
+                "Target_MothsSupper",
+                "Shout_OozeForm",
+                "Target_Organsight",
+                "Projectile_PercussiveImpact",
+                "Target_PossitiveAttunement",
+                "Projectile_ShadowProjectile",
+                "Shout_TimeJump",
+                "Target_VampiricTouch2e"
+            ]
+        },
+        {
+            "Comment": "Add All 4th level spells to 5th level Magical Secret",
+            "Action": "Insert",
+            "UUIDs": [
+                "858d4322-9e9f-4aa4-aada-9c68835dc6fe",
+                "95f80109-32b7-43f8-a99a-7ee2286a993a",
+                "cd83187f-c886-45c2-be81-34083981f240"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Shout_AerialForm",
+                "Shout_Blink2e",
+                "Target_BloodSprayCurse",
+                "Shout_CloakOfLight",
+                "Shout_DinoForm",
+                "Shout_DicernLies",
+                "Shout_DrawTheLightning",
+                "Shout_FeyForm_Container",
+                "Shout_FireShield2e",
+                "Shout_GirzanjesMarch",
+                "Zone_HydraulicTorrent",
+                "Rush_MercurialStride",
+                "Zone_Radiantbeam",
+                "Target_SoothingSpring",
+                "Target_Stoneskin2e",
+                "Shout_VitalBeacon",
+                "Zone_WeaponStorm",
+                "Target_WinningStreak",
+                "Shout_ZephyrSlip"
+            ]
+        },
+        {
+            "Comment": "Add All 5th level spells to 5th level Magical Secret",
+            "Action": "Insert",
+            "UUIDs": [
+                "858d4322-9e9f-4aa4-aada-9c68835dc6fe",
+                "95f80109-32b7-43f8-a99a-7ee2286a993a",
+                "cd83187f-c886-45c2-be81-34083981f240"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Shout_AberrantForm",
+                "Shout_BelittlingBoast",
+                "Zone_BlazingFissure",
+                "Target_BlinkCharge",
+                "Target_BloodFeast",
+                "Target_BreathOfLife",
+                "Zone_ConeOfCold2e",
+                "Zone_CrushingDespair",
+                "Target_DeathWard2e",
+                "Shout_ElementalForm",
+                "Target_FlameDancer",
+                "Target_ForcefulHand",
+                "Target_LightningStorm",
+                "Shout_PlantForm",
+                "Shout_RepellingPulse",
+                "Target_ScouringPulse",
+                "Target_StormBurst",
+                "Shout_SynapticPulse"
+            ]
+        },
+        {
+            "Comment": "Add All 6th level spells to 7th level Magical Secret",
+            "Action": "Insert",
+            "UUIDs": [
+                "95f80109-32b7-43f8-a99a-7ee2286a993a",
+                "cd83187f-c886-45c2-be81-34083981f240"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Shout_BlanketOfStars",
+                "Zone_CastIntoTime",
+                "Projectile_ChainLightning2e",
+                "Shout_DevilForm",
+                "Target_ElementalConfluence",
+                "Target_Necrotize",
+                "Target_PhantomOrchestra",
+                "Shout_Repulsion",
+                "Shout_RighteousMight",
+                "Target_SpellWrack"
+            ]
+        },        
+        {
+            "Comment": "Add All 7th level spells to 7th level Magical Secret",
+            "Action": "Insert",
+            "UUIDs": [
+                "95f80109-32b7-43f8-a99a-7ee2286a993a",
+                "cd83187f-c886-45c2-be81-34083981f240"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Shout_AngelForm",
+                "Shout_CorrosiveBody",
+                "Shout_CosmicForm",
+                "Target_EclipseBurst",
+                "Target_EnergyAegis",
+                "Shout_EntrancingEyes",
+                "Target_MoonBurst",
+                "Target_PrismaticArmor",
+                "Target_Regenerate",
+                "Target_ShockToTheSystem",
+                "Target_TrueTarget"
+            ]
+        },
+        {
+            "Comment": "Add All 8th level spells to 9th level Magical Secret",
+            "Action": "Insert",
+            "UUIDs": [
+                "cd83187f-c886-45c2-be81-34083981f240"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Target_HypnoticTerror",
+                "Target_Maze2e",
+                "Target_MomentOfRenewal",
+                "Shout_MonstrosityForm",
+                "Projectile_PolarRay",
+                "Target_SummonArchmage",
+                "Target_SummonIrii"
+            ]
+        },
+        {
+            "Comment": "Add Arcane Cantrips to Artificer list.",
+            "Action": "Insert",
+            "UUID": "b9808849-c41b-444a-83aa-9748e03e9e16",
+            "Type": "SpellList",
+            "Items": [
+                "Projectile_FireBoltHB",
+                "Projectile_AcidSplash2e",
+                "Target_Daze",
+                "Projectile_ElectricArc",
+                "Shout_ElementalCounter",
+                "Shout_GlassShield",
+                "Projectile_PhaseBolt",
+                "Shout_Shield2e",
+                "Target_ChillTouch2e",
+                "Shout_GaleBlast",
+                "Target_PuffOfPoison",
+                "Shout_WarpStep"
+            ]
+        },
+        {
+            "Comment": "Add Arcane 1st level spells to Artificer lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "ef3aa11f-cc98-412f-a85e-7fae4561a4d4"
+        ],
+            "Type": "SpellList",
+            "Items": [
+                "Target_HydraulicPush",
+                "Projectile_AdmonishingRay",
+                "Target_Agitate",
+                "Zone_BurningHands2e",
+                "Shout_FleetStep",
+                "Shout_AirBurst",
+                "Target_AnticipatePeril",
+                "Target_Befuddle",
+                "Projectile_BrinyBolt",
+                "Zone_ChillingSpray",
+                "Shout_ConductiveWeapon",
+                "Target_DrawIre",
+                "Target_Endure",
+                "Projectile_FriendFetch",
+                "Shout_Jump2e",
+                "Shout_MageArmor2e",
+                "Projectile_MagicMissile2e",
+                "Target_MudPit",
+                "Target_ShockingGrasp2e",
+                "Target_Sleep2e",
+                "Projectile_SnowBall",
+                "Wall_WallOfShrubs",
+                "Zone_ColorSpray2e",
+                "Projectile_HorizonThunderSphere",
+                "Target_AntHaul"
+            ]
+        },
+        {
+            "Comment": "Add Arcane 2nd level spells to Artificer lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "2f3aa11f-cc98-412f-a85e-7fae4561a4d4"
+        ],
+            "Type": "SpellList",
+            "Items": [
+                "Projectile_AcidArrow2e",
+                "Shout_BlazingArmory",
+                "Target_BloodVendetta",
+                "Target_BoneShaker",
+                "Projectile_BrineDragonBile",
+                "Target_CreateFood2e",
+                "Target_ExtractPoison",
+                "Target_FeastOfAshes",
+                "Target_FinalSacrifice",
+                "Shout_FireProof",
+                "Shout_Watrproof",
+                "Shout_FlameWisp",
+                "Target_ImpeccableFlow",
+                "Target_LooseTimeArrow",
+                "Target_ResistEnergy",
+                "Projectile_ScorchingRay2e",
+                "Target_TelekineticManeuver",
+                "Target_WarriorRegret"
+            ]
+        },
+        {
+            "Comment": "Add Arcane 3rd level spells to Artificer lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "3f3aa11f-cc98-412f-a85e-7fae4561a4d4"
+        ],
+            "Type": "SpellList",
+            "Items": [
+                "Projectile_Fireball2e",
+                "Target_AgonzingDespair",
+                "Target_BindUndead",
+                "Projectile_BlazingDive",
+                "Target_BracingTendril",
+                "Projectile_Fireball",
+                "Target_FireworkBlast",
+                "Target_GhostlyWeapon",
+                "Target_Haste2e",
+                "Shout_InvisibilitySphere",
+                "Zone_LightningBolt2e",
+                "Shout_OozeForm",
+                "Target_Organsight",
+                "Projectile_PercussiveImpact",
+                "Projectile_ShadowProjectile",
+                "Shout_TimeJump",
+                "Target_VampiricTouch2e"
+            ]
+        },
+        {
+            "Comment": "Add Arcane 4th level spells to Artificer lists",
+            "Action": "Insert",
+            "UUIDs": [
+                "4f3aa11f-cc98-412f-a85e-7fae4561a4d4"
+            ],
+            "Type": "SpellList",
+            "Items": [
+                "Shout_AerialForm",
+                "Shout_Blink2e",
+                "Shout_DicernLies",
+                "Shout_DrawTheLightning",
+                "Shout_FireShield2e",
+                "Rush_MercurialStride",
+                "Target_Stoneskin2e",
+                "Zone_WeaponStorm",
+                "Target_WinningStreak",
+                "Shout_ZephyrSlip"
+            ]
+        },
+        {
+            "Comment": "Add Arcane 5th level spells to Artificer lists",
+            "Action": "Insert",
+            "UUID": "5f3aa11f-cc98-412f-a85e-7fae4561a4d4",
+            "Type": "SpellList",
+            "Items": [
+                "Shout_BelittlingBoast",
+                "Zone_BlazingFissure",
+                "Target_BlinkCharge",
+                "Target_BloodFeast",
+                "Zone_ConeOfCold2e",
+                "Zone_CrushingDespair",
+                "Shout_ElementalForm",
+                "Target_FlameDancer",
+                "Target_ForcefulHand",
+                "Target_ScouringPulse"
+            ]
+        }
+    ]
+}

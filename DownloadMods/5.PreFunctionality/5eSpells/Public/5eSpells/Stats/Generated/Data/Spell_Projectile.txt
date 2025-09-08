@@ -1,0 +1,7 @@
+new entry "Projectile_ChaosBolt_Toolkit"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Projectile_FireBolt"
+data "PrepareEffect" "91c1a97b-0b50-43cd-b298-5f5a4d098599"
+data "CastEffect" "9273080a-0f40-40f2-82c4-25e78b8f73dc"
+

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="4" build="600"/>
+    <region id="ActionResourceDefinitions">
+        <node id="root">
+            <children>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="he8eb2b4ag6a75g4c6bgb8bdgeac394c6cf19" version="1"/>
+					<attribute id="DiceType" type="uint32" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb23b225eg0312g4e1fga421gb0f122d28a1a" version="1"/>
+                    <attribute id="Error" type="FixedString" value="ActionResourceDefinitions_New_Stat_4_Error"/>
+                    <attribute id="IsSpellResource" type="bool" value="false"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="MaxValue" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="FlameWispAttack"/>
+                    <attribute id="PartyActionResource" type="bool" value="false"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="1977eda4-9358-407e-a498-f45555555555"/>
+                    <attribute id="UpdatesSpellPowerLevel" type="bool" value="false"/>
+                </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="h5a4cf921g8d36g414dg9eefg44afe3a14ccc" version="1"/>
+					<attribute id="DiceType" type="uint32" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6641f9a8g008bg44d3g935bgf6ce3c0075d5" version="1"/>
+                    <attribute id="Error" type="FixedString" value="ActionResourceDefinitions_New_Stat_4_Error"/>
+                    <attribute id="IsSpellResource" type="bool" value="false"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="MaxValue" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="VitalBeacon"/>
+                    <attribute id="PartyActionResource" type="bool" value="false"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="45e27eee-5a8e-467c-977d-f45555555555"/>
+                    <attribute id="UpdatesSpellPowerLevel" type="bool" value="false"/>
+                </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="h283c7acbg78dcg42begbde2g0a9c53a9647f" version="1"/>
+					<attribute id="DiceType" type="uint32" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h283c7acbg78dcg42begbde2g0a9c53a9647f" version="1"/>
+                    <attribute id="Error" type="FixedString" value="ActionResourceDefinitions_New_Stat_4_Error"/>
+                    <attribute id="IsSpellResource" type="bool" value="false"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="MaxValue" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="OrgansightCharge"/>
+                    <attribute id="PartyActionResource" type="bool" value="false"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Turn"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+                    <attribute id="UUID" type="guid" value="9a4c25ee-1a26-4d46-8271-f45555555555"/>
+                    <attribute id="UpdatesSpellPowerLevel" type="bool" value="false"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
