@@ -1,0 +1,8 @@
+{
+    "RequiredVersion": 18,
+    "ModTable": "LynNeahMonkOutfit",
+    "FeatureFlags": [
+      "Osiris",
+      "Lua"
+    ]
+}

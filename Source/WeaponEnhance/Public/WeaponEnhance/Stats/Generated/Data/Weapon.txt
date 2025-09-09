@@ -1,0 +1,11 @@
+new entry "MAG_TheVictory_Longbow"
+type "Weapon"
+using "MAG_TheVictory_Longbow"
+data "Damage Range" "4800"
+data "WeaponRange" "3000"
+data "PassivesOnEquip" "MAG_Victory_Longbow_Passive;MAG_Light_TheVictory_Passive;ImprovedCritical;GrowingWeaponDamage_Passive"
+
+new entry "MAG_TheDueller_Rapier"
+type "Weapon"
+using "MAG_TheDueller_Rapier"
+data "PassivesMainHand" "MAG_TheDueller_ImprovedDuelist_2_Passive;MAG_TheDueller_WitheringCut_Passive;GrowingWeaponDamage_Passive"

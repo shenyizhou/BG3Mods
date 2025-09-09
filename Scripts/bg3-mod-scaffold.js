@@ -37,10 +37,10 @@ const templates = {
           <attribute id="Tags" type="LSWString" value="" />
           <attribute id="Type" type="FixedString" value="Add-on" />
           <attribute id="UUID" type="FixedString" value="${modInfo.uuid}" />
-          <attribute id="Version64" type="int64" value="288230376151711744" />
+          <attribute id="Version64" type="int64" value="36028797018963968" />
           <children>
             <node id="PublishVersion">
-              <attribute id="Version64" type="int64" value="288230376151711744" />
+              <attribute id="Version64" type="int64" value="36028797018963968" />
             </node>
             <node id="Scripts" />
             <node id="TargetModes">
@@ -64,166 +64,150 @@ const templates = {
     'Passive.txt': `// 被动技能数据文件
 // 用于定义模组中的被动技能
 // 示例格式:
-/*
-new entry "YourPassiveName"
-type "PassiveData"
-data "DisplayName" "h12345678g1234g1234g1234g123456789012;1"
-data "Description" "h12345678g1234g1234g1234g123456789012;2"
-data "Icon" "PassiveFeature_Generic_Damage"
-data "Properties" "Highlighted;OncePerTurn"
-data "Boosts" "ActionResource(ActionPoint,1,0)"
-*/
+// new entry "YourPassiveName"
+// type "PassiveData"
+// data "DisplayName" "h12345678g1234g1234g1234g123456789012;1"
+// data "Description" "h12345678g1234g1234g1234g123456789012;2"
+// data "Icon" "PassiveFeature_Generic_Damage"
+// data "Properties" "Highlighted;OncePerTurn"
+// data "Boosts" "ActionResource(ActionPoint,1,0)"
 `,
     
     'Weapon.txt': `// 武器数据文件
 // 用于定义模组中的武器属性
 // 示例格式:
-/*
-new entry "YourWeaponName"
-type "Weapon"
-data "RootTemplate" "12345678-1234-1234-1234-123456789012"
-data "Damage Type" "Slashing"
-data "Damage" "1d8+1"
-data "Damage Range" "150"
-data "Weight" "1.35"
-data "Price" "15"
-data "Rarity" "Common"
-data "Weapon Group" "SimpleMeleeWeapon"
-data "Weapon Properties" "Finesse;Light"
-*/
+// new entry "YourWeaponName"
+// type "Weapon"
+// data "RootTemplate" "12345678-1234-1234-1234-123456789012"
+// data "Damage Type" "Slashing"
+// data "Damage" "1d8+1"
+// data "Damage Range" "150"
+// data "Weight" "1.35"
+// data "Price" "15"
+// data "Rarity" "Common"
+// data "Weapon Group" "SimpleMeleeWeapon"
+// data "Weapon Properties" "Finesse;Light"
 `,
     
     'Status.txt': `// 状态效果数据文件
 // 用于定义模组中的状态效果
 // 示例格式:
-/*
-new entry "YourStatusName"
-type "StatusData"
-data "StatusType" "BOOST"
-data "DisplayName" "h12345678g1234g1234g1234g123456789012;1"
-data "Description" "h12345678g1234g1234g1234g123456789012;2"
-data "Icon" "statIcons_Condition"
-data "StackId" "YourStatusName"
-data "Boosts" "Advantage(AttackRoll)"
-data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
-*/
+// new entry "YourStatusName"
+// type "StatusData"
+// data "StatusType" "BOOST"
+// data "DisplayName" "h12345678g1234g1234g1234g123456789012;1"
+// data "Description" "h12345678g1234g1234g1234g123456789012;2"
+// data "Icon" "statIcons_Condition"
+// data "StackId" "YourStatusName"
+// data "Boosts" "Advantage(AttackRoll)"
+// data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 `,
     
     'Spell_Target.txt': `// 目标法术数据文件
-// 用于定义需要选择目标的法术
+// 用于定义模组中的目标法术
 // 示例格式:
-/*
-new entry "YourSpellName"
-type "SpellData"
-data "SpellType" "Target"
-data "Level" "1"
-data "SpellSchool" "Evocation"
-data "TargetRadius" "300"
-data "AreaRadius" "0"
-data "ExplodeRadius" "0"
-data "TargetConditions" "Character() and not Dead()"
-data "Icon" "Spell_Evocation_MagicMissile"
-data "DisplayName" "h12345678g1234g1234g1234g123456789012;1"
-data "Description" "h12345678g1234g1234g1234g123456789012;2"
-data "TooltipDamageList" "DealDamage(1d4+1,Force)"
-data "CastSound" "Spell_Cast_Damage_Force_MagicMissile_L1to3"
-data "TargetSound" "Spell_Impact_Damage_Force_MagicMissile_L1to3"
-data "VocalComponentSound" "Vocal_Component_EnchantWeapon"
-data "CastTextEvent" "Cast"
-data "CycleConditions" "Enemy() and not Dead()"
-data "UseCosts" "ActionPoint:1;SpellSlot:1:1"
-data "SpellAnimation" "83fb6c44-f0bb-49c4-9ca8-e2c9a0c9e78a,,;,,;d8925ce4-d6d9-400c-92f5-ad772ef7f178,,;,,;,,"
-data "VerbalIntent" "Damage"
-data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsSpell;HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;IsHarmful"
-data "PrepareEffect" "12345678-1234-1234-1234-123456789012"
-data "CastEffect" "12345678-1234-1234-1234-123456789012"
-data "TargetEffect" "12345678-1234-1234-1234-123456789012"
-*/
+// new entry "YourSpellName"
+// type "SpellData"
+// data "SpellType" "Target"
+// data "Level" "1"
+// data "SpellSchool" "Evocation"
+// data "TargetRadius" "300"
+// data "AreaRadius" "200"
+// data "ExplodeRadius" "0"
+// data "TargetConditions" "Character() and not Dead()"
+// data "Icon" "Spell_Evocation_MagicMissile"
+// data "DisplayName" "h12345678g1234g1234g1234g123456789012;1"
+// data "Description" "h12345678g1234g1234g1234g123456789012;2"
+// data "TooltipDamageList" "DealDamage(1d4+1,Force)"
+// data "CastSound" "Spell_Cast_Damage_Force_MagicMissile_L1to3"
+// data "TargetSound" "Spell_Impact_Damage_Force_MagicMissile_L1to3"
+// data "VocalComponentSound" "Vocal_Component_EnchantWeapon"
+// data "CastTextEvent" "Cast"
+// data "CycleConditions" "Enemy() and not Dead()"
+// data "UseCosts" "ActionPoint:1;SpellSlotsGroup:1:1:1"
+// data "SpellAnimation" "dd86aa43-8189-4d9f-9a5c-454b5fe4a197,,;,,;d8925ce4-d6d9-400c-92da-be4c0531bbf5,,;,,;,"
+// data "VerbalIntent" "Damage"
+// data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsSpell;HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;IsHarmful"
+// data "PrepareEffect" "d85c0d00-8b5e-4b80-9aad-6770b0fca5e6"
+// data "CastEffect" "d85c0d00-8b5e-4b80-9aad-6770b0fca5e6"
+// data "TargetEffect" "69b0ad69-5b90-4909-9fb9-5c9d92ad4c9b"
 `,
     
     'Spell_Projectile.txt': `// 投射物法术数据文件
-// 用于定义发射投射物的法术
+// 用于定义模组中的投射物法术
 // 示例格式:
-/*
-new entry "YourProjectileSpell"
-type "SpellData"
-data "SpellType" "Projectile"
-data "Level" "1"
-data "SpellSchool" "Evocation"
-data "TargetRadius" "1800"
-data "AreaRadius" "0"
-data "ExplodeRadius" "0"
-data "ProjectileCount" "3"
-data "Projectile" "12345678-1234-1234-1234-123456789012"
-data "Icon" "Spell_Evocation_MagicMissile"
-data "DisplayName" "h12345678g1234g1234g1234g123456789012;1"
-data "Description" "h12345678g1234g1234g1234g123456789012;2"
-data "TooltipDamageList" "DealDamage(1d4+1,Force)"
-data "CastSound" "Spell_Cast_Damage_Force_MagicMissile_L1to3"
-data "TargetSound" "Spell_Impact_Damage_Force_MagicMissile_L1to3"
-data "VocalComponentSound" "Vocal_Component_EnchantWeapon"
-data "CastTextEvent" "Cast"
-data "CycleConditions" "Enemy() and not Dead()"
-data "UseCosts" "ActionPoint:1;SpellSlot:1:1"
-data "SpellAnimation" "83fb6c44-f0bb-49c4-9ca8-e2c9a0c9e78a,,;,,;d8925ce4-d6d9-400c-92f5-ad772ef7f178,,;,,;,,"
-data "VerbalIntent" "Damage"
-data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsSpell;HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;IsHarmful"
-data "PrepareEffect" "12345678-1234-1234-1234-123456789012"
-data "CastEffect" "12345678-1234-1234-1234-123456789012"
-data "TargetEffect" "12345678-1234-1234-1234-123456789012"
-*/
+// new entry "YourProjectileSpell"
+// type "SpellData"
+// data "SpellType" "Projectile"
+// data "Level" "1"
+// data "SpellSchool" "Evocation"
+// data "TargetRadius" "1800"
+// data "AreaRadius" "0"
+// data "ExplodeRadius" "0"
+// data "ProjectileCount" "3"
+// data "Projectile" "12345678-1234-1234-1234-123456789012"
+// data "Icon" "Spell_Evocation_MagicMissile"
+// data "DisplayName" "h12345678g1234g1234g1234g123456789012;1"
+// data "Description" "h12345678g1234g1234g1234g123456789012;2"
+// data "TooltipDamageList" "DealDamage(1d4+1,Force)"
+// data "CastSound" "Spell_Cast_Damage_Force_MagicMissile_L1to3"
+// data "TargetSound" "Spell_Impact_Damage_Force_MagicMissile_L1to3"
+// data "VocalComponentSound" "Vocal_Component_EnchantWeapon"
+// data "CastTextEvent" "Cast"
+// data "UseCosts" "ActionPoint:1;SpellSlotsGroup:1:1:1"
+// data "SpellAnimation" "dd86aa43-8189-4d9f-9a5c-454b5fe4a197,,;,,;d8925ce4-d6d9-400c-92da-be4c0531bbf5,,;,,;,"
+// data "VerbalIntent" "Damage"
+// data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsSpell;HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;IsHarmful"
+// data "PrepareEffect" "d85c0d00-8b5e-4b80-9aad-6770b0fca5e6"
+// data "CastEffect" "d85c0d00-8b5e-4b80-9aad-6770b0fca5e6"
 `,
     
     'Spell_Shout.txt': `// 喊话法术数据文件
 // 用于定义范围效果法术
 // 示例格式:
-/*
-new entry "YourShoutSpell"
-type "SpellData"
-data "SpellType" "Shout"
-data "Level" "1"
-data "SpellSchool" "Enchantment"
-data "TargetRadius" "0"
-data "AreaRadius" "300"
-data "ExplodeRadius" "0"
-data "Icon" "Spell_Enchantment_CharmPerson"
-data "DisplayName" "h12345678g1234g1234g1234g123456789012;1"
-data "Description" "h12345678g1234g1234g1234g123456789012;2"
-data "CastSound" "Spell_Cast_Utility_CharmPerson_L1to3"
-data "TargetSound" "Spell_Impact_Utility_CharmPerson_L1to3"
-data "VocalComponentSound" "Vocal_Component_EnchantWeapon"
-data "CastTextEvent" "Cast"
-data "CycleConditions" "Enemy() and not Dead()"
-data "UseCosts" "ActionPoint:1;SpellSlot:1:1"
-data "SpellAnimation" "83fb6c44-f0bb-49c4-9ca8-e2c9a0c9e78a,,;,,;d8925ce4-d6d9-400c-92f5-ad772ef7f178,,;,,;,,"
-data "VerbalIntent" "Utility"
-data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsSpell;Concentration;IsHarmful"
-data "PrepareEffect" "12345678-1234-1234-1234-123456789012"
-data "CastEffect" "12345678-1234-1234-1234-123456789012"
-data "TargetEffect" "12345678-1234-1234-1234-123456789012"
-*/
+// new entry "YourShoutSpell"
+// type "SpellData"
+// data "SpellType" "Shout"
+// data "Level" "1"
+// data "SpellSchool" "Enchantment"
+// data "TargetRadius" "0"
+// data "AreaRadius" "300"
+// data "ExplodeRadius" "0"
+// data "Icon" "Spell_Enchantment_CharmPerson"
+// data "DisplayName" "h12345678g1234g1234g1234g123456789012;1"
+// data "Description" "h12345678g1234g1234g1234g123456789012;2"
+// data "CastSound" "Spell_Cast_Utility_CharmPerson_L1to3"
+// data "TargetSound" "Spell_Impact_Utility_CharmPerson_L1to3"
+// data "VocalComponentSound" "Vocal_Component_EnchantWeapon"
+// data "CastTextEvent" "Cast"
+// data "CycleConditions" "Enemy() and not Dead()"
+// data "UseCosts" "ActionPoint:1;SpellSlot:1:1"
+// data "SpellAnimation" "83fb6c44-f0bb-49c4-9ca8-e2c9a0c9e78a,,;,,;d8925ce4-d6d9-400c-92f5-ad772ef7f178,,;,,;,,"
+// data "VerbalIntent" "Utility"
+// data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsSpell;Concentration;IsHarmful"
+// data "PrepareEffect" "12345678-1234-1234-1234-123456789012"
+// data "CastEffect" "12345678-1234-1234-1234-123456789012"
+// data "TargetEffect" "12345678-1234-1234-1234-123456789012"
 `,
     
     'Interrupt.txt': `// 中断数据文件
 // 用于定义反应和机会攻击等中断行为
 // 示例格式:
-/*
-new entry "YourInterruptName"
-type "InterruptData"
-data "InterruptContext" "OnDamaged"
-data "InterruptContextScope" "Nearby"
-data "Conditions" "HasStatus('YourCondition')"
-data "Properties" "Reaction"
-data "Cost" "ReactionActionPoint:1"
-data "InterruptDefaultValue" "Ask"
-data "EnableCondition" "HasActionResource('ReactionActionPoint', 1, 0, false, false, context.Source)"
-data "EnableContext" "OnDamaged"
-data "InterruptFlags" "TriggerSelf"
-data "Description" "h12345678g1234g1234g1234g123456789012;1"
-data "DescriptionParams" "DealDamage(1d6,Fire)"
-data "Icon" "Action_Reaction_FireShield"
-data "DisplayName" "h12345678g1234g1234g1234g123456789012;2"
-*/
+// new entry "YourInterruptName"
+// type "InterruptData"
+// data "InterruptContext" "OnDamaged"
+// data "InterruptContextScope" "Nearby"
+// data "Conditions" "HasStatus('YourCondition')"
+// data "Properties" "Reaction"
+// data "Cost" "ReactionActionPoint:1"
+// data "InterruptDefaultValue" "Ask"
+// data "EnableCondition" "HasActionResource('ReactionActionPoint', 1, 0, false, false, context.Source)"
+// data "EnableContext" "OnDamaged"
+// data "InterruptFlags" "TriggerSelf"
+// data "Description" "h12345678g1234g1234g1234g123456789012;1"
+// data "DescriptionParams" "DealDamage(1d6,Fire)"
+// data "Icon" "Action_Reaction_FireShield"
+// data "DisplayName" "h12345678g1234g1234g1234g123456789012;2"
 `
   }
 };
@@ -339,10 +323,101 @@ function validateUUID(uuid) {
   return null;
 }
 
-// 主函数
-async function main() {
-  console.log('🎮 BG3模组脚手架生成器');
-  console.log('====================\n');
+// 生成UUID功能
+async function generateUUIDs() {
+  console.log('🆔 UUID生成器');
+  console.log('=============\n');
+
+  try {
+    // 询问生成数量
+    let count;
+    while (true) {
+      const input = await askQuestion('生成UUID数量 (1-10)', '1');
+      count = parseInt(input);
+      if (count >= 1 && count <= 10) break;
+      console.log('❌ 请输入1-10之间的数字');
+    }
+
+    // 询问UUID格式
+    console.log('\n选择UUID格式:');
+    console.log('1. 标准格式 (12345678-1234-1234-1234-123456789012)');
+    console.log('2. 句柄格式 (h12345678g1234g1234g1234g123456789012)');
+    console.log('3. 两种格式都生成');
+    
+    const formatChoice = await askQuestion('请选择格式 (1/2/3)', '1');
+    
+    const uuids = [];
+    const handleUuids = [];
+    
+    // 生成UUID
+    for (let i = 0; i < count; i++) {
+      const uuid = uuidv4();
+      const handleUuid = 'h' + uuid.replace(/-/g, 'g');
+      
+      uuids.push(uuid);
+      handleUuids.push(handleUuid);
+    }
+    
+    // 显示结果
+    console.log('\n✅ 生成的UUID:');
+    console.log('================');
+    
+    for (let i = 0; i < count; i++) {
+      console.log(`\n${i + 1}.`);
+      if (formatChoice === '1' || formatChoice === '3') {
+        console.log(`   标准格式: ${uuids[i]}`);
+      }
+      if (formatChoice === '2' || formatChoice === '3') {
+        console.log(`   句柄格式: ${handleUuids[i]}`);
+      }
+    }
+    
+    // 询问是否保存到文件
+    const saveToFile = await askQuestion('\n是否保存到文件? (y/n)', 'n');
+    
+    if (saveToFile.toLowerCase() === 'y' || saveToFile.toLowerCase() === 'yes') {
+      const fileName = await askQuestion('文件名', 'generated_uuids.txt');
+      const filePath = path.join(process.cwd(), fileName);
+      
+      let content = `BG3 UUID生成结果\n生成时间: ${new Date().toLocaleString()}\n生成数量: ${count}\n\n`;
+      
+      for (let i = 0; i < count; i++) {
+        content += `${i + 1}.\n`;
+        if (formatChoice === '1' || formatChoice === '3') {
+          content += `   标准格式: ${uuids[i]}\n`;
+        }
+        if (formatChoice === '2' || formatChoice === '3') {
+          content += `   句柄格式: ${handleUuids[i]}\n`;
+        }
+        content += '\n';
+      }
+      
+      await fs.writeFile(filePath, content, 'utf8');
+      console.log(`\n💾 已保存到: ${filePath}`);
+    }
+    
+  } catch (error) {
+    console.error('❌ UUID生成失败:', error.message);
+  }
+}
+
+// 显示主菜单
+async function showMainMenu() {
+  console.log('🎮 BG3模组脚手架工具');
+  console.log('==================\n');
+  console.log('请选择功能:');
+  console.log('1. 创建模组');
+  console.log('2. 生成UUID');
+  console.log('3. 退出\n');
+  
+  const choice = await askQuestion('请输入选项 (1/2/3)', '1');
+  return choice;
+}
+
+// 创建模组功能
+async function createMod() {
+  console.log('🎮 BG3模组创建器');
+  console.log('================\n');
 
   try {
     // 获取模组名称
@@ -441,6 +516,40 @@ async function main() {
     
   } catch (error) {
     console.error('❌ 生成失败:', error.message);
+  }
+}
+
+// 主函数
+async function main() {
+  try {
+    while (true) {
+      const choice = await showMainMenu();
+      
+      switch (choice) {
+        case '1':
+          await createMod();
+          break;
+        case '2':
+          await generateUUIDs();
+          break;
+        case '3':
+          console.log('👋 再见!');
+          return;
+        default:
+          console.log('❌ 无效选项，请重新选择\n');
+          continue;
+      }
+      
+      // 询问是否继续
+      const continueChoice = await askQuestion('\n是否继续使用? (y/n)', 'y');
+      if (continueChoice.toLowerCase() !== 'y' && continueChoice.toLowerCase() !== 'yes') {
+        console.log('👋 再见!');
+        break;
+      }
+      console.log('\n');
+    }
+  } catch (error) {
+    console.error('❌ 程序运行失败:', error.message);
   } finally {
     rl.close();
   }

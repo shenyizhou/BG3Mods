@@ -1,0 +1,15 @@
+// 2->-1
+new entry "Shout_BladeWard"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_BladeWard"
+data "SpellProperties" "ApplyStatus(BLADE_WARD,100,-1)"
+data "TooltipStatusApply" "ApplyStatus(BLADE_WARD,100,-1)"
+
+// 10->-1
+new entry "Shout_MirrorImage"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_MirrorImage"
+data "SpellProperties" "ApplyStatus(MIRROR_IMAGE_3,100,-1);ApplyStatus(MIRROR_IMAGE_2,100,-1);ApplyStatus(MIRROR_IMAGE_1,100,-1)"
+data "TooltipStatusApply" "ApplyStatus(MIRROR_IMAGE_1,100,-1)"

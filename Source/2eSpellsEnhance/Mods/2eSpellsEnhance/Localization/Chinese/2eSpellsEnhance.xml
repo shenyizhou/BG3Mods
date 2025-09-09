@@ -27,7 +27,8 @@
     <content contentuid="h3c764a82g9c3bg4f31g9054g67ecaa96bf4e" version="1">举盾</content>
     <content contentuid="h966b42fcgd695g4425g8246ga87df4c239bc" version="1">元素反击</content>
     <content contentuid="h8870663eg7c56g4dcdg929dg6c1579a08ad7" version="1">将本回合受到的元素伤害减少 [1]。</content>
-    <content contentuid="h2e533274g91ceg4c48gae8bgd2b2161658ae" version="1">减少所受伤害 [1]</content>	<content contentuid="he2d7b620ge5cdg45e9g8760g50ae9e5ba251" version="1">Enfeebled</content>
+    <content contentuid="h2e533274g91ceg4c48gae8bgd2b2161658ae" version="1">减少所受伤害 [1]</content>
+    <content contentuid="he2d7b620ge5cdg45e9g8760g50ae9e5ba251" version="1">虚弱</content>
     <content contentuid="h76049447ga077g4583gbcddg2d3e3acd1e23" version="1">力量减少 [1]</content>
     <content contentuid="h841ee35cg1f0cg459agb919gab16b21dfb85" version="1">冰霜之触</content>
     <content contentuid="h141cb337g27a7g4210gae63gd0de704ceaa0" version="1">你的触碰伤害活物，造成 [1] 点伤害，或使亡灵迷失方向。</content>
@@ -56,7 +57,8 @@
     <content contentuid="h9e643bb2g8a30g428dgb5a4g0286fa5135ba" version="1">你投掷出一团灰烬，命中时造成 [1] 点伤害。</content>
     <content contentuid="h17bc7eb4g114cg4d59g87cfge3d9aa64e1f2" version="1">寒冰射线 HB</content>
     <content contentuid="h4044c1dfg0c42g4a26g92acgba40bd7ded4f" version="1">你投掷出一道寒冰射线，命中时造成 [1] 点伤害，并减少目标的移动速度 [2]。</content>
-    <content contentuid="h4cbbcf43g245fg44c4gb318g5a4555b32318" version="1">警告射线</content> ================ 1st LEVEL ================
+    <content contentuid="h4cbbcf43g245fg44c4gb318g5a4555b32318" version="1">警告射线</content>
+    <!-- ================ 1st LEVEL ================ -->
     <content contentuid="h369c2c34ga984g45c0gba8fgefacf735c141" version="1">一道能量射线将目标击晕，但不会造成持久伤害。</content>
     <content contentuid="hf56915a6ge344g4f61gaa78g7b6155eb679e" version="1">空气爆裂</content>
     <content contentuid="hb44b75c9g386dg4c37gbae3g2f78cd4a958f" version="1">在你周围制造一股空气爆炸，将 [1] 范围内的生物推回 [2]。</content>

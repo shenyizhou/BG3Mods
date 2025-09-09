@@ -1,0 +1,14 @@
+// fix: Icon
+new entry "Target_BoomingBlade"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_BoomingBlade"
+data "Icon" "Spell_Evocation_BoomingBlade"
+
+// ActionPoint->BonusActionPoint, remove IsConcentration
+new entry "Target_TrueStrike"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_TrueStrike"
+data "UseCosts" "BonusActionPoint:1"
+data "SpellFlags" "HasSomaticComponent;IsSpell;HasHighGroundRangeExtension;IsHarmful"

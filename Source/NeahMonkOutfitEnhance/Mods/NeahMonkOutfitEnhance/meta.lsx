@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <save>
   <version major="4" minor="0" revision="6" build="5" />
   <region id="Config">
@@ -9,19 +9,19 @@
           <attribute id="Author" type="LSWString" value="Shenlang" />
           <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
           <attribute id="Description" type="LSWString" value="" />
-          <attribute id="Folder" type="LSWString" value="2eSpellsEnhance" />
+          <attribute id="Folder" type="LSWString" value="NeahMonkOutfitEnhance" />
           <attribute id="GMTemplate" type="FixedString" value="" />
           <attribute id="LobbyLevelName" type="FixedString" value="" />
           <attribute id="MD5" type="LSWString" value="" />
           <attribute id="MainMenuBackgroundVideo" type="FixedString" value="" />
           <attribute id="MenuLevelName" type="FixedString" value="" />
-          <attribute id="Name" type="FixedString" value="2eSpellsEnhance" />
+          <attribute id="Name" type="FixedString" value="NeahMonkOutfitEnhance" />
           <attribute id="NumPlayers" type="uint8" value="4" />
           <attribute id="PhotoBooth" type="FixedString" value="" />
           <attribute id="StartupLevelName" type="FixedString" value="" />
           <attribute id="Tags" type="LSWString" value="" />
           <attribute id="Type" type="FixedString" value="Add-on" />
-          <attribute id="UUID" type="FixedString" value="397be147-264d-475c-8eaf-cca8c142ca1e" />
+          <attribute id="UUID" type="FixedString" value="1c47086c-2fbd-41be-989d-a8bd63e0caa8" />
           <attribute id="Version64" type="int64" value="36028797018963968" />
           <children>
             <node id="PublishVersion">
