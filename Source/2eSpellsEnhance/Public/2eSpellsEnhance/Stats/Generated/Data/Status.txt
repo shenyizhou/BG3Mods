@@ -1,0 +1,6 @@
+// add StackId
+new entry "FLEETSTEP"
+type "StatusData"
+data "StatusType" "BOOST"
+using "FLEETSTEP"
+data "StackId" "FLEETSTEP"

@@ -1,0 +1,647 @@
+<contentList date="09/09/2025 21:27">
+	<content contentuid="he3f651b4g2604g43bdgb26eg95a7e3a495c1" version="1">电弧</content>
+	<content contentuid="hfe393cf5g84a5g4a80ga667g4ebfa7396fe6" version="1">向 [1] 内的敌人射出一道闪电，并传导至另一个敌对生物。</content>
+	<content contentuid="hf53633e6gce25g4f27g8b1bg77073b963567" version="1">酸液飞溅</content>
+	<content contentuid="he1327518g04c1g4c42g9b5egeb3584591361" version="1">你溅出一团酸液，溅射到你的目标和附近的生物。</content>
+	<content contentuid="h78310432g37feg4cadgb0bfg08eb28cc397d" version="1">每回合受到 [1]点酸性伤害</content>
+	<content contentuid="h83485303gf09dg4c8egaa6ag5b5f581fb459" version="1">眩晕 </content>
+	<content contentuid="h9586c028gdc8cg4d8eg80e0g380c9340aecc" version="1">你使目标的思维模糊，并用精神冲击使其眩晕。</content>
+	<content contentuid="ha9f88adbg3201g45bfga67ag4af363b23039" version="1">眩晕状态</content>
+	<content contentuid="h58e6c22dg02abg45fag8d76g5d5de04b6b7f" version="1">无法进行反应，移动速度减半，攻击检定处于劣势</content>
+	<content contentuid="h0cf6ed45gc98ag4632gab50g2026e71f2883" version="1">玻璃护盾</content>
+	<content contentuid="hb45e360cg60f1g441fgb101gc747e17c1baf" version="1">你召唤出一层透明的玻璃来保护自己。你获得 [1] 点临时生命值，如果在你有临时生命值时，有敌人在5英尺内攻击你，护盾会部分破碎并对攻击者造成 [2] 点伤害。</content>
+	<content contentuid="hd643c18agfe12g4d98g8449g6435607b6cd2" version="1">获得 [1] 点临时生命值，如果在你有临时生命值时，有敌人在5英尺内攻击你，护盾会部分破碎并对攻击者造成 [2] 点伤害。</content>
+    <content contentuid="h17f380aeg6be3g411cg94e4g662a84d30eba" version="1">元素反击</content>
+    <content contentuid="h7d61d311g51adg40eeg8447g0540e8582d71" version="1">在受到元素伤害时，你可以将本回合受到的元素伤害减少 [1]。</content>
+    <content contentuid="hc0de72eeged33g4787g9294gb078b91082f2" version="1">减少所受元素伤害 [1]</content>
+    <content contentuid="h695cbcd5g4024g4c4fga021g67f0aaffd4b7" version="1">相位箭</content>
+    <content contentuid="h71450130gc287g4407gabedg9792744da3fd" version="1">射出一道能量箭，摧毁目标的护甲，造成 [1] 点伤害，并在 [3] 回合内将目标的AC降低 [2]。</content>
+    <content contentuid="h068741fbg8d50g4d63g9fa3ge814d5f9c376" version="1">相位箭护甲破坏</content>
+    <content contentuid="h7c4088a8gdc01g49fbg9b8cg4b6a496920a3" version="1">AC降低 2</content>
+    <content contentuid="h9cb87167g1dd4g4531gbb92g816d3ae25c0f" version="1">神圣之矛</content>
+    <content contentuid="h712ffd94g15b4g4d04gb2a6gbd43303015b6" version="1">你释放一道神圣能量，造成 [1] 点伤害。</content>
+    <content contentuid="hf0903b78g7809g4503g9702gb1c79b6e591f" version="1">护盾</content>
+    <content contentuid="h3ca39abdg7e91g48bag8a4cg1f047f57d1ad" version="1">一个魔法力场护盾阻挡攻击，增加你的AC [1]。当护盾激活时，你可以用一个反应来减少 [2] 点即将到来的伤害，然后失去护盾。你不能在下一次战斗前再次受益于该法术。</content>
+    <content contentuid="h0fc1ba47g049dg40c5g99bage3c58e31dc9c" version="1">护盾状态</content>
+    <content contentuid="ha6cf6023gfe4ag491agbcc6ge69881369092" version="1">AC增加 [1]</content>
+    <content contentuid="h3c764a82g9c3bg4f31g9054g67ecaa96bf4e" version="1">举盾</content>
+    <content contentuid="h966b42fcgd695g4425g8246ga87df4c239bc" version="1">元素反击</content>
+    <content contentuid="h8870663eg7c56g4dcdg929dg6c1579a08ad7" version="1">将本回合受到的元素伤害减少 [1]。</content>
+    <content contentuid="h2e533274g91ceg4c48gae8bgd2b2161658ae" version="1">减少所受伤害 [1]</content>	<content contentuid="he2d7b620ge5cdg45e9g8760g50ae9e5ba251" version="1">Enfeebled</content>
+    <content contentuid="h76049447ga077g4583gbcddg2d3e3acd1e23" version="1">力量减少 [1]</content>
+    <content contentuid="h841ee35cg1f0cg459agb919gab16b21dfb85" version="1">冰霜之触</content>
+    <content contentuid="h141cb337g27a7g4210gae63gd0de704ceaa0" version="1">你的触碰伤害活物，造成 [1] 点伤害，或使亡灵迷失方向。</content>
+    <content contentuid="h0157d773g1ad9g438ag9133g8dbcd2c0159a" version="1">扰乱亡灵</content>
+    <content contentuid="h518f88a7g76e9g4ae7ga41eg8788ab7f0528" version="1">在亡灵的体质豁免失败时，造成 [1] 点伤害。</content>
+    <content contentuid="h21c89942g37d1g45c1gb78bgb300007859b6" version="1">狂风爆裂</content>
+    <content contentuid="hb83f8d04g4f7cg4f55ga718g4cfadffb1241" version="1">用空气伤害并推动相邻的生物 [1]，造成 [2] 点伤害。</content>
+    <content contentuid="h8378a61fg3120g4adaga9d3g5517d28a9d81" version="1">指引</content>
+    <content contentuid="hd58ef8a1gc9d2g47a3g9e03gbd568630d933" version="1">神圣指引提升目标的攻击检定和豁免检定 [1]，直到他们下一轮开始。</content>
+    <content contentuid="h78ed5ca3gc333g4f6aga488g69213b6d8c03" version="1">获得攻击检定和豁免检定 [1] 的奖励</content>
+    <content contentuid="h7915ce8egce1bg4b69gaab2g6dbf4d326d6f" version="1">阴森圣歌</content>
+    <content contentuid="hc39a2f30ged40g4d2fg86b0gea92851762f9" version="1">你回荡出一个刺耳的圣歌，只有该区域内的生物能听见。该圣歌造成 [1] 点伤害，并使目标耳聋 1 分钟。</content>
+    <content contentuid="hd033fb17g3f9ag49d9g8e2cg0d5c6f679ddd" version="1">耳聋</content>
+    <content contentuid="h3bb9ee18gfa85g4689gbf99g82802fb4519e" version="1">耳聋，无法施放包含语言成分的法术</content>
+    <content contentuid="h64d2c9a4ge7eag4fd1ga02bg270d8c3b981a" version="1">毒雾</content>
+    <content contentuid="hd99363abged3dg4062gac4bg5be0d2f202b4" version="1">你对着敌人的脸呼出一团有毒的气息，造成 [1] 点伤害，并在每回合开始时造成 [2] 点伤害。</content>
+    <content contentuid="ha6b2cc9fgff00g4b1bgb42egf7b5d70db2b2" version="1">毒雾</content>
+    <content contentuid="haf528796g12bbg4fb9g8db7gd69e90d80d8d" version="1">每回合受到 [1] 点持续毒性伤害</content>
+    <content contentuid="h296e2d79g182bg4a01g9ad3g62abffd4f232" version="1">跃迁步伐</content>
+    <content contentuid="he2def29ege805g4a24g88bcg078c20f71dfd" version="1">冲刺并将速度提高 [1]。</content>
+    <content contentuid="hb7f95e6fgd293g4a05g818agfa59f00e35e8" version="1">跃迁步伐</content>
+    <content contentuid="h5bc8ecfeg1d03g485dg999fg0db2a8460e33" version="1">当你行走时，大地在你脚下变形——你的步伐延伸，距离缩短，一切都变得近了一些。冲刺并获得额外的 [1] 移动速度。</content>
+    <content contentuid="h91bc2e50ge2dag48c2gaf32g1fbb6fa0499d" version="1">恐吓</content>
+    <content contentuid="hd0b6f52egd306g4fddg89ffgd639b1a197bf" version="1">通过突然的喊叫、及时的嘲讽或尖锐的挖苦，你可以动摇敌人的决心。选择一个你能看到的30英尺内的生物。尝试进行恐吓检定，对抗该目标的被动智慧（10+智慧）。</content>
+    <content contentuid="h1f179fc3gdcb7g4757g88e2g84002f57afa7" version="1">火球 HB</content>
+    <content contentuid="h9e643bb2g8a30g428dgb5a4g0286fa5135ba" version="1">你投掷出一团灰烬，命中时造成 [1] 点伤害。</content>
+    <content contentuid="h17bc7eb4g114cg4d59g87cfge3d9aa64e1f2" version="1">寒冰射线 HB</content>
+    <content contentuid="h4044c1dfg0c42g4a26g92acgba40bd7ded4f" version="1">你投掷出一道寒冰射线，命中时造成 [1] 点伤害，并减少目标的移动速度 [2]。</content>
+    <content contentuid="h4cbbcf43g245fg44c4gb318g5a4555b32318" version="1">警告射线</content> ================ 1st LEVEL ================
+    <content contentuid="h369c2c34ga984g45c0gba8fgefacf735c141" version="1">一道能量射线将目标击晕，但不会造成持久伤害。</content>
+    <content contentuid="hf56915a6ge344g4f61gaa78g7b6155eb679e" version="1">空气爆裂</content>
+    <content contentuid="hb44b75c9g386dg4c37gbae3g2f78cd4a958f" version="1">在你周围制造一股空气爆炸，将 [1] 范围内的生物推回 [2]。</content>
+    <content contentuid="hcfeed51dg43f3g4f02gb4b0g6bfbc5c0267c" version="1">预知危险</content>
+    <content contentuid="hc5ccee70g827bg421bga0cfgc3936f959888" version="1">你的目标在先攻检定上获得 [1] 的加值，并且无法被奇袭。</content>
+    <content contentuid="h1556ab88ge444g42c2gb9f8g5877af917ad7" version="1">预知危险</content>
+    <content contentuid="hfaa62f6ag2812g46e4g8eaeg213399cf2716" version="1">你在先攻检定上获得 [1] 的加值，并且无法被奇袭。</content>
+    <content contentuid="h163972a4g1766g4a6eg9d3dgc98d1a9ee221" version="1">激动</content>
+    <content contentuid="h16fc6c1fga23ag4ac1g8089g333fd8497b60" version="1">你让目标的心灵和身体进入过度驱动状态，迫使它变得不安和亢奋。增加目标的移动速度 [1]，并造成 [2] 点伤害。在每个回合，如果它不移动，它会额外受到 [3] 点伤害。此法术为非致命。</content>
+    <content contentuid="h3f881908gbccbg455bg9700ga74b233e28f2" version="1">激动状态</content>
+    <content contentuid="hde0399eeg470fg4a21g843fg55473db27d24" version="1">你的移动速度增加 [1]。如果你在你的回合中没有移动，你将受到 [2] 点伤害。</content>
+    <content contentuid="h57d1b10egf7aeg44degbc94g1923670db1a6" version="1">迷惑</content>
+    <content contentuid="h35754facg5466g459fg8b5cgc82b6069deca" version="1">你在目标的心灵中播下混乱的种子，使其行为和思想变得笨拙。</content>
+    <content contentuid="hda341d61g7d8bg4e63g8784g138f3674e79f" version="1">笨拙</content>
+    <content contentuid="ha8beaf51g949cg4215g8aa4g2bdf0a5efa2d" version="1">敏捷减少 [1]</content>
+    <content contentuid="h23b0d6a8g4c54g4d5eg8481g7ecaee3be356" version="1">愚钝</content>
+    <content contentuid="h84744ec6g10f9g40d0g9ae3ga036f64262e6" version="1">智力、智慧和魅力减少 [1]</content>
+    <content contentuid="hbcedd283g4bc0g4a6dg9a62gea8720f3e927" version="1">咸水箭</content>
+    <content contentuid="hc614efe9g9634g47dega1f6g66c0a4b46dfd" version="1">你从伸出的手中投掷出一道盐水箭，造成 [1] 点伤害，并使生物致盲。</content>
+    <content contentuid="h6832acddgc2f3g400egb347g4b3aeaa93765" version="1">燃烧之手</content>
+    <content contentuid="hd7250590gea55g4384g8aa1g5d809cd98421" version="1">寒冰喷雾</content>
+    <content contentuid="h3504711egc51eg4f3ag8eeeg7fee3f87b693" version="1">冰片从你身上飞出，呈锥形散开，造成 [1] 点伤害，并减少他们的移动速度 [2]。</content>
+    <content contentuid="h81d6d3a6g6b42g490cga87agf7b32738d51b" version="1">寒冷</content>
+    <content contentuid="ha2c4fb36g8875g4f30gad21g8a40fb686899" version="1">移动速度减少 [1]</content>
+    <content contentuid="hc2e63b4bgb850g4048gae48g22790456379a" version="1">导电武器</content>
+    <content contentuid="hfb0f33ecgcb19g4c1bgb2e3g913ec75cdcb5" version="1">导电武器</content>
+    <content contentuid="h6a5f5264g7fa8g4c55gabb3gc293b1907f55" version="1">你通过武器导入强大的电流，击中任何目标时造成电击。附魔武器额外造成 [1] 点伤害，暴击时会对附近的敌人进行 [2] 道闪电攻击，造成 [3] 点伤害。</content>
+    <content contentuid="h91f1e8d4g6545g4ba9g8e58g0100b9dc53e4" version="1">激怒</content>
+    <content contentuid="h5fd3886bg8e72g4a0fg9707g777d004e66a2" version="1">精神上刺痛目标的心灵，使其难以攻击除你之外的其他生物。</content>
+    <content contentuid="h8ed96d58g96c4g4768g81b7g52105179c77a" version="1">激怒状态</content>
+    <content contentuid="hbcce75ccg9025g47acg8ec4g33966b418a06" version="1">攻击其他生物时受到 [1] 处罚。</content>
+    <content contentuid="h333e0ea0gf9f9g465egadf0g07cc9fe5ceed" version="1">回响武器</content>
+    <content contentuid="h6f6e38c0gc475g4afdg91a9g03ff7987d865" version="1">你的攻击积累能量以释放声波脉冲。</content>
+    <content contentuid="h1945281ag8c1eg412fg9970ge6dbc184757f" version="1">坚韧</content>
+    <content contentuid="h76c4b6abg68a5g47f2g9a25g3f01ae3a2373" version="1">你激励目标的心灵并督促其坚持下去，赋予其 [1] 点坚韧。</content>
+    <content contentuid="h29b091e0ge27eg4673g9232gc4a8df1f0191" version="1">坚韧状态</content>
+    <content contentuid="h5f69a428g40ceg41cbg8a30g1dec6900bdb1" version="1">获得 [1] 点坚韧。</content>
+    <content contentuid="h1fe42905gf43cg4122g84b1g51b2c326bd80" version="1">轻盈步伐</content>
+    <content contentuid="h74da630egf1f3g4b40g83e3g65a389d97d8d" version="1">获得额外 [1] 点移动速度。</content>
+    <content contentuid="h645ee264g9e39g41c2g9abeg502746acfb0d" version="1">轻盈步伐</content>
+    <content contentuid="h40daa61cg793dg42e8gaaf4ga7c3ace4de74" version="1">获得 [1] 点额外移动速度。</content>
+    <content contentuid="hf2bbfa98g1ea2g4faeg8bf8g29f59a688b6b" version="1">友引</content>
+    <content contentuid="ha8938a25g9518g4b27g828bg26c4d3977572" version="1">你射出几缕虚无的心灵丝线，将每个目标直接拉向你，并停在离你最近的未占据的空间。</content>
+    <content contentuid="h0d2679f7ga058g41f5g819fga086839d330a" version="1">跳跃</content>
+    <content contentuid="hbb151b11gd333g4fcega571ga9316d959ada" version="1">你以魔法增强你的跳跃能力，在一次附赠动作中跳跃 [1]。</content>
+    <content contentuid="ha1f9cee4g55f4g4e2cga375gfee9f2becc2c" version="1">跳跃中</content>
+    <content contentuid="h700b0f01gee91g4b9bgb8a5gd08a72c3a3c9" version="1">跳跃中...你还需要什么其他提示？</content>
+    <content contentuid="h9a8ebb71gf4b6g469eg84c0gbc84b0b9a634" version="1">法师护甲</content>
+    <content contentuid="h79817a73g8e7dg41a0g97fcgdb73b69b052c" version="1">用魔法护甲保护自己，增加你的护甲等级 [1] 和豁免检定 [2]，直到下次长休，或直到你穿上盔甲。</content>
+    <content contentuid="hb1091350g69c0g4aaagac28gcb619e40e8e0" version="1">增加你的护甲等级 [1] 和豁免检定 [2]</content>
+    <content contentuid="h6a128d00g3941g4bc4gaf1ag2c7614a5d3e8" version="1">魔法飞弹</content>
+    <content contentuid="h4b420f10g5d3ag4e3ag9009gd8f30f202dd1" version="1">用无法偏转的魔法力箭攻击生物，每个箭造成 [1] 点伤害。你可以通过使用更多动作创造更多飞弹。</content>
+    <content contentuid="h16e40e48g7d6eg4589gaad4g7cbe56d5ea14" version="1">泥坑</content>
+    <content contentuid="hd8319313g2ddcg4affg983fg49f64326373e" version="1">创造一个泥坑。</content>
+    <content contentuid="hd774f282g8b67g48c1ga4deg9267da15acfb" version="1">幸灾乐祸</content>
+    <content contentuid="h7f080343g71a6g49b5ga953gf90a0ea0d8d3" version="1">当你灾难性失败时，你用敌人幸灾乐祸的情绪分散他们的注意力。若智慧豁免失败，他们会被弄得愚钝和震惊。</content>
+    <content contentuid="hee130cdagd172g4167g8668gc0304df6d6a6" version="1">电击掌</content>
+    <content contentuid="hca76055cg139fg49b5gb592ga820b57305c3" version="1">你用闪电覆盖你的双手，命中时造成 [1] 点伤害，并在目标的回合开始时再造成 [2] 点伤害。</content>
+    <content contentuid="ha5f30969g3091g4ffcgbf74g7e636047b076" version="1">电击状态</content>
+    <content contentuid="h636618ceg256ag4b55ga855gc4188e7e4a9a" version="1">每回合受到 [1] 点伤害</content>
+    <content contentuid="h6fbe9683ga2c6g4a5egb58ag6f222b651411" version="1">睡眠</content>
+    <content contentuid="h6607ff9fg90e4g4eefg8884g063409ef11a5" version="1">区域内的每个生物都会变得昏昏欲睡，并在智慧豁免失败时进入睡眠状态，持续 1 分钟。当你在 4 级施展此法术时，你还会解除目标的武装。受伤的生物会醒来。</content>
+    <content contentuid="h077e9d8cgeb73g4c40g9a1ag8cd3603a9a69" version="1">区域内的每个生物都会变得昏昏欲睡，放下他们手中的东西，并在智慧豁免失败时进入睡眠状态，持续 1 分钟，成功时为 1 轮。受伤的生物会醒来。</content>
+    <content contentuid="h14928ba4g6314g4244g85bfg24316e182c86" version="1">雪球</content>
+    <content contentuid="h3f349e9bg5055g415ag880bgcc8aaf970e5f" version="1">你投掷出一个魔法驱动且冰冷的雪球。目标受到 [1] 点伤害，并且移动速度减少 [2]。</content>
+    <content contentuid="h8d4a0dfeg5e6eg4640gae56g69001f2c9633" version="1">冰冻状态</content>
+    <content contentuid="he8ba04d4gf8efg4d71gb597g0b63189c5646" version="1">移动速度减少 [1]</content>
+    <content contentuid="h6894fe6eg37d9g442fg8928ge9e854833476" version="1">灌木墙</content>
+    <content contentuid="h13140f2agf5afg450eg956fga4c844170e33" version="1">你召唤出一排本地的灌木从地面冒出。</content>
+    <content contentuid="hf5d66e7cg7744g41e3g9211g31867de19840" version="1">尖刻言词</content>
+    <content contentuid="hd742a6dfgf5b6g4c38g8b40g16d673ae1914" version="1">你用魔法缠绕你的声音，使你的嘲讽和讥讽对敌人造成物理伤害，造成 [1] 点伤害。你可以在随后的回合中再次作为附赠动作使用。</content>
+    <content contentuid="h13239fe7gb1d4g4d6bgb29cgd8fc87182632" version="1">猛烈之风</content>
+    <content contentuid="h6e2aa55dgf99dg47b0ga7dbgf97292968818" version="1">你释放出一阵迅猛的风，对活物对手造成冲击而不会造成持久伤害，同时吹飞亡灵，造成 [1] 点伤害。</content>
+    <content contentuid="hcd60edefg34cbg458cg8a8cgf7bf25a8e70b" version="1">目眩</content>
+    <content contentuid="h124eeea0g2408g42dag89f6g2910884a3bd8" version="1">你的眼睛受到过度刺激，攻击检定处于劣势。</content>
+    <content contentuid="h2aa0e473gb744g4845g8b9dg43a139a6a3ca" version="1">彩虹喷射</content>
+    <content contentuid="h6c5b0b16gba89g4f93gb2a3ge0100fa456b3" version="1">旋转的颜色使你的敌人眩晕和目眩</content>
+    <content contentuid="h28b7212eg7dd6g460bg8e52g9e85ce1ebe45" version="1">和谐圣歌</content>
+    <content contentuid="hb3907292g41a4g4c37g9cbfg81ce098001f3" version="1">你释放出危险的和声，集中在一个目标上或扩散出去伤害多个敌人，造成 [1] 点伤害。</content>
+    <content contentuid="h052b2fb0gbfe9g4138g8debgf0f00064e15f" version="1">伤害</content>
+    <content contentuid="hd9769af9gcc77g4f57g8490g0905e99daf83" version="1">你引导死灵能量来伤害活物或治疗亡灵。</content>
+    <content contentuid="hc04e80ecgaf49g433bga4a4g576f7cd40bc9" version="1">治疗</content>
+    <content contentuid="h0990069eg890eg4f0fg9188gbfacd949203a" version="1">你引导正能量来治疗活物或伤害亡灵。</content>
+    <content contentuid="had9b8455gd51fg4c2bgb17fg79deec3065ba" version="1">地平线雷球</content>
+    <content contentuid="h2d9d8c45gbcf1g4c94gb4a7g4a659ee36b48" version="1">你在手掌中聚集魔法能量，形成一个集中雷球，发出如同遥远雷鸣般的咔嚓声和轰鸣声。</content>
+    <content contentuid="hb7f7d91egd37ag4461ga458gdc890a1e8861" version="1">你在手掌中聚集魔法能量，形成一个集中雷球，发出如同遥远雷鸣般的咔嚓声和轰鸣声。此变体需要 2 回合施法。</content>
+    <content contentuid="ha8f500afg4d2bg4325ga5edg6767ab48d62d" version="1">带电</content>
+    <content contentuid="h17998f29ga94ag49fcg9f24g518e78c218d4" version="1">近战攻击者在攻击你时受到 [1] 点伤害。</content>
+    <content contentuid="h51b9ff47g8214g4870g8969g1e7da8f5bbef" version="1">水力推进</content>
+    <content contentuid="h6aea7a04g8388g4f03g967dgeee5fd3ba139" version="1">你召唤出一股强大的压缩空气，对目标造成打击并将其击退。</content>
+    <content contentuid="h50dcd903gdd24g4e63g8720g8594418c65dd" version="1">蚂蚁负荷</content>
+    <content contentuid="he143cfaeg9ea6g40a4g985cga87f6f748aca" version="1">你加强目标的骨骼肌系统，以承受更多重量，增加目标的携带能力。</content>
+    <content contentuid="h3857a4e0gbdb4g4f5eg84e3g892bc7cfeac1" version="1">酸箭</content> ================ 2级法术 ================
+    <content contentuid="h4a2b4299gf5e8g413cg862cg262a1937ec92" version="1">你召唤出一道酸箭，击中目标后持续腐蚀目标。对目标进行一次法术攻击。命中时，造成 [1] 点伤害，并在每个回合开始时再造成 [2] 点伤害。</content>
+    <content contentuid="h57ecd0d1geaaag445dg82c7g3d990a09235a" version="1">树皮术</content>
+    <content contentuid="h9529ea60ge2a0g4b4fgb252g182c1ed7f729" version="1">目标的皮肤变得如树皮般坚硬，减少受到的物理伤害 [1]。被火焰伤害后，树皮会被烧毁。</content>
+    <content contentuid="h2579f62cg19ffg4284g9998g937c7d36f840" version="1">树皮术</content>
+    <content contentuid="h7943e539gf057g465bgbdeag67b8f9ef653a" version="1">减少受到的物理伤害 [1]，受到火焰伤害后移除。</content>
+    <content contentuid="h1f98a045g0b3eg43d1gbe8eg16b59876f601" version="1">炽烈武器库</content>
+    <content contentuid="h19ce9d07g7d75g4efag8ba3ge33cf7cd8845" version="1">你在手中召唤出一把炽烈的弯刀，造成 [1] 点伤害，并在命中和伤害检定上获得 +[2] 加值。</content>
+    <content contentuid="h869f8975gc125g4defgb26ag17a1739d9454" version="1">你召唤一把燃烧的弯刀在手中，造成[1]伤害并获得+[2]命中和伤害加成。此外，暴击时，目标在每个回合开始时受到[3]伤害。</content>
+    <content contentuid="hf9b037d1g0a0fg446fgb1b3g0fe637398dce" version="1">燃烧军械库 - 弯刀</content>
+    <content contentuid="h5543b1c1g1386g4a2eg8902g8bedca234200" version="1">召唤的燃烧弯刀</content>
+    <content contentuid="h0a33b1c9gef09g4016g93c9g8f5b83e6ff50" version="1">燃烧军械库 - 燃烧</content>
+    <content contentuid="h52e0e505gf67cg4d29gacc1g3d8b0da3244b" version="1">每回合受到[1]伤害</content>
+    <content contentuid="ha44bbbfcg675eg4819g94ccgaa7c0bbc3c80" version="1">燃烧军械库 - 暴击</content>
+    <content contentuid="h305ea8acg8c15g492bgacf6g3940a9773565" version="1">暴击时点燃目标，每回合造成[1]伤害</content>
+    <content contentuid="h68c35995g2dd9g4856g93cdgd3276db45afa" version="1">灼热谩骂</content>
+    <content contentuid="he75c9efag5773g4bfdg91b1gb79bde0a3a02" version="1">一堆侮辱和谩骂从你的口中喷出——这些话语如此毁灭性，你的敌人因你的诽谤而燃烧。若目标智慧豁免失败，则受到惊吓1轮并开始燃烧，每回合造成[1]伤害，若豁免成功，则伤害减半且无其他效果。</content>
+    <content contentuid="h27cd7768g5a02g4d5cg8f2dgc0d59bc01212" version="1">灼热谩骂 - 燃烧</content>
+    <content contentuid="heeb38d41gfa6ag494bg8121g2cd3ef861568" version="1">血之复仇</content>
+    <content contentuid="ha6aed448g4f55g4b6dg9c3bga85065f9764d" version="1">你诅咒目标，惩罚它的冒犯。目标每回合在智慧豁免失败时受到[1]伤害，若豁免成功，则伤害减半。</content>
+    <content contentuid="h493c8928g4321g4610gbdb6gf9967ef6f7da" version="1">血之复仇 - 流血</content>
+    <content contentuid="h5b367210g1ec9g4c05g8dd4g7a908fa98e2f" version="1">震骨术</content>
+    <content contentuid="h695043deg8bfdg43bbg863cg0006a794c3a9" version="1">你伸出一只手，从远处抓住一个生物的骨骼，伤害它的身体，并可能通过骨骼将其拉动。</content>
+    <content contentuid="hb936eabegca45g47d2g9aecga43ef72379e5" version="1">目标在体质豁免失败时受到钝击伤害，豁免成功则伤害减半。</content>
+    <content contentuid="hbd3f81bfgaeddg4aafg9841g732c1161e21c" version="1">目标在体质豁免失败时受到钝击伤害，豁免成功则伤害减半，并被推开30英尺</content>
+    <content contentuid="h69499186gd974g4aeeg9ba9g6c1ed1789553" version="1">目标在体质豁免失败时受到钝击伤害，豁免成功则伤害减半，并被拉近30英尺</content>
+    <content contentuid="h15cf38fagf9e9g42d5g9c64gc01ab889f70a" version="1">盐龙胆汁</content>
+    <content contentuid="he5e4869cg7093g4ce0g8527gb1d5d25318e1" version="1">你吐出一团腐蚀性的盐水，刺激目标的穿刺或切割伤口，造成[1]持续酸性伤害。</content>
+    <content contentuid="h85173761g9c1dg4b0egb7a5g2c88caf04fdb" version="1">兽爪之歌</content>
+    <content contentuid="h1a1c10b7gcf5bg4057gbc38g04c6c5e19c71" version="1">你低声咆哮，唱出一首激烈的祈祷，唤醒特尔瓦兽的古老灵魂，指引并增强目标的徒手攻击。目标的徒手攻击额外造成[1]伤害。</content>
+    <content contentuid="hb9bb00dcg075bg4c47g8ff4g25c679c6fecb" version="1">你的徒手攻击额外造成[1]伤害。</content>
+    <content contentuid="h14adc438g53beg45begb146gd6873c02a2c6" version="1">制造食物</content>
+    <content contentuid="hd2dabd8dgbb1ag4568g9027ga7719495607b" version="1">在目标的库存中创造[1]份食物。</content>
+    <content contentuid="h8477eb62g9248g4b45g9095gc900917b0af4" version="1">死亡钟声</content>
+    <content contentuid="h3c9bb541g51ceg4cb1g95bdgee714e53cdce" version="1">你掐灭刚刚被杀死的生物的生命，获得[1]并在接下来的100轮中获得+ [2]攻击和伤害加成。</content>
+    <content contentuid="h4e305b92g45c3g44ceg9fd9g86dfb0cb557f" version="1">获得[1]并在接下来的100轮中获得+ [2]攻击和伤害加成。</content>
+    <content contentuid="hd23e668bg4737g412fgaea3gf20c9d92510d" version="1">提取毒药</content>
+    <content contentuid="hb9d22b27g8335g4017gb9ccga9c086133dd7" version="1">轻轻一触，你可以从生物体内抽取毒药并保存以备后用。</content>
+    <content contentuid="h45566d4dg1c3eg4e17g80ecgd68184aef9ed" version="1">灰烬盛宴</content>
+    <content contentuid="h427bd896gaa62g4a89g87b0ge4eb1d2b52b5" version="1">你诅咒目标，使其无论吃多少食物都无法满足饥饿。</content>
+    <content contentuid="h0dc1d58ag6b6eg49c1gbc49g824ac6409393" version="1">疲劳</content>
+    <content contentuid="h56a7dc65gf98fg4880g896ag156dd8c2d2da" version="1">减少AC和豁免检定[1]</content>
+    <content contentuid="h46db0f47g6bdbg405aga603g80ecc96081d0" version="1">无法满足的饥饿</content>
+    <content contentuid="he73332b3g11ddg4959ga4a6g48ec1b775541" version="1">每回合受到[1]伤害，并减少最大生命值[2]</content>
+    <content contentuid="hf63a1a34g61aag48cbg810cge81aeee9a16b" version="1">最终牺牲</content>
+    <content contentuid="h48653c9fgacf6g46ddga604g588965183756" version="1">你通过与你的仆从之间的纽带传导破坏性能量，使其剧烈爆炸。目标立即死亡，爆炸对20英尺范围内的生物造成[1]伤害，豁免成功则伤害减半。</content>
+    <content contentuid="h8516d83agfd41g4186g93fdg2f92353bb54f" version="1">防火</content>
+    <content contentuid="hf9477215g42fag4fb1ga1eegae17a13d09aa" version="1">你防止目标物品在法术持续时间内传导热量或着火。</content>
+    <content contentuid="h992ffd98g390dg4007gad90ge747dbf99afc" version="1">防水</content>
+    <content contentuid="h0cbc140cg27f8g4b41gbbb0g0ab6c9561886" version="1">你防止目标物品在法术持续时间内吸水或变湿。</content>
+    <content contentuid="h7d949debga4bfg4916gb08dg0874f4c65b96" version="1">防火</content>
+    <content contentuid="h27a3f6e6g20ccg455dg9001gf6bf57d85f11" version="1">减少10点火焰伤害并免疫燃烧</content>
+    <content contentuid="h762f0947g07c9g4dfcg9f91g0dfe4ee1e45a" version="1">防水</content>
+    <content contentuid="h84666360g0ef7g4962gb0eeg44c3d2358099" version="1">减少10点酸性伤害并免疫湿润</content>
+    <content contentuid="h492f283ag17b6g4abdg80f2gc1380a68cb12" version="1">减少10点火焰伤害并无限期免疫燃烧</content>
+    <content contentuid="h401c1c0dg5a4eg418dg8fa5g29991c493179" version="1">减少10点酸性伤害并无限期免疫湿润</content>
+    <content contentuid="h0966ea35g5582g40f2g820ag82a6df59fe74" version="1">火焰幽灵</content>
+    <content contentuid="hc8162aa5g3254g4c17gb71fg6351453554fa" version="1">三个微弱发光的火焰幽灵在你的头上飘浮。每次你用攻击命中生物时，一个幽灵会飞向另一个生物，造成[1]伤害并点燃你的目标和第二个生物。当你施放火焰伤害的法术时，你恢复一个火焰幽灵。</content>
+    <content contentuid="hb23b225eg0312g4e1fga421gb0f122d28a1a" version="1">火焰幽灵</content>
+    <content contentuid="he8eb2b4ag6a75g4c6bgb8bdgeac394c6cf19" version="1">一个造成[1]伤害的火焰幽灵。</content>
+    <content contentuid="h07c30fe0gfb5eg418egb795g6e1a033aba72" version="1">火花挥击</content>
+    <content contentuid="hf1489baeg636fg4b6fg9235g46eca689eb22" version="1">一种攻击，将你的一个火焰幽灵射向另一个生物。</content>
+    <content contentuid="h9b6cde81gbf17g461egbc4fg223f07cee377" version="1">火花射击</content>
+    <content contentuid="h6bad05c4ge967g4c6cg9f08ge7570816eafe" version="1">传递同情</content>
+    <content contentuid="h60384cefgf4a5g4314g86b4g3f26a750f88a" version="1">将你的施法修正值添加到目标的日常说服检定中。</content>
+    <content contentuid="heb87a0c9ge9f2g4611g87b0g190e97e9f045" version="1">传递的同情</content>
+    <content contentuid="hf4b13ca6g34bcg4a7agafbege68ce8fa4a9b" version="1">获得+[1]说服检定加成。</content>
+    <content contentuid="hcc8c11d1g459dg4e9fg9ca0gab56eb8f3bb8" version="1">完美流动</content>
+    <content contentuid="ha80ec36fg38e7g43f7ga829g4a9307a78bd7" version="1">你调整自己以适应世界的潜在宇宙秩序。保持这种力量的调和时，你获得+[1]状态加成，用于技能检定、豁免检定和攻击检定。</content>
+    <content contentuid="ha9b1a595g5a55g4bc0ga214g403609f56165" version="1">完美流动</content>
+    <content contentuid="h5a50ba0dg0eadg4d80g865fg8fde0ec2ad5e" version="1">你调整自己以适应世界的潜在宇宙秩序，获得+[1]状态加成，用于技能检定、豁免检定和攻击检定。</content>
+    <content contentuid="h07479988g73f9g4696g8c36g4c04b606a8fb" version="1">松开时间之箭</content>
+    <content contentuid="h3b9c3ca8g9d48g450fgbeb3g217b3bcbf164" version="1">你像拉弓一样拨动时间之流——拉回一根弦，放开，看着一个生物飞驰。所有受影响的目标可以在他们的回合免费冲刺。</content>
+    <content contentuid="h75203c23gc32fg4bc8ga2d3g0a7c8bd606af" version="1">松开时间之箭</content>
+    <content contentuid="hfe33a254ga73ag4d33g917egedc2ff7434b5" version="1">你可以在你的回合免费冲刺一次。</content>
+    <content contentuid="hb3e0d333g169ag457eg843bgcd828e4e9691" version="1">模仿亡灵</content>
+    <content contentuid="h9932061ag264dg4debg8fceg20793c398c3f" version="1">你将死亡裹在你身上，像披风一样——你的颜色褪去，皮肤变得冰冷。你获得亡灵标签，获得对死灵伤害的抗性，并对光耀伤害的易伤。</content>
+    <content contentuid="h8b2d24e6g1fa4g4836ga70eg554deee84aa4" version="1">模仿亡灵</content>
+    <content contentuid="hdb641538g0bf6g4beag93feg0e9a26801254" version="1">你获得亡灵标签。</content>
+    <content contentuid="hc97dab83g528bg4c00g90b5gf79646944464" version="1">解除恐惧</content>
+    <content contentuid="h58f9b386g4de1g43c7ga3d3g46797648f6ba" version="1">通过触摸，你缓解一个生物的恐惧，并增强它的决心，使其在1分钟内不受影响。</content>
+    <content contentuid="hf4b57b9dg90a3g4311g84a2g5eddd7c2f591" version="1">恐惧免疫</content>
+    <content contentuid="h1aeabc6egafc5g4f8dga2edge79686f06637" version="1">免疫恐惧</content>
+    <content contentuid="h8f85665dg4db6g4188gb3d0g319fbf36cf9e" version="1">解除瘫痪</content>
+    <content contentuid="h7aedad8cg9298g4d4cgb4ccgd76b6745a500" version="1">能量激增解放一个瘫痪的生物，目标在接下来的1分钟内免疫瘫痪。</content>
+    <content contentuid="h77fe4b04g0959g4eecgb02ag16eeda5f1634" version="1">瘫痪免疫</content>
+    <content contentuid="h21bd8308g8e1bg4f2agb439g0add24688c3a" version="1">免疫瘫痪</content>
+    <content contentuid="h1731bbdcgefbcg48b0ga5ccga8ee527a8756" version="1">恢复感官</content>
+    <content contentuid="h0c394e95gfcc9g45ccg9fe4gca1a1fb6b85e" version="1">你用魔法点亮生物的感官，消除失明和失聪状态，目标生物在接下来的1分钟内免疫这些状态。</content>
+    <content contentuid="h1d4022e4g2276g4ff8g975dga462af1495e0" version="1">感官恢复</content>
+    <content contentuid="h2bd5496bg1ad9g4f84g8a92gf88783672604" version="1">免疫失明和失聪</content>
+    <content contentuid="hf84c1076gb3b7g497cgb2bage4c884a41943" version="1">抗能量</content>
+    <content contentuid="hc623b44cg9a95g4205g80b8g0e40eb7b40a0" version="1">一层元素能量盾保护一个生物免受一种类型的能量伤害。选择酸、冷、闪电、火焰或雷鸣伤害。减少所选类型的伤害[1]。</content>
+    <content contentuid="h277f7239g4810g4de5g9c1dg447dec69109c" version="1">抗火</content>
+    <content contentuid="h399c399dg6f89g4734gbac3g37fd780034e9" version="1">抗冷</content>
+    <content contentuid="h0620bf77gd503g4632g9465g3f461d7baed9" version="1">抗酸</content>
+    <content contentuid="h2ebf66c4g080ag4c6cgb91cga724c70e4d13" version="1">抗闪电</content>
+    <content contentuid="hbfb5bdccgbd0bg49e8gb662g07ea52a4e8e2" version="1">抗雷鸣</content>
+    <content contentuid="h90255f16g9eb6g446cg98d4ge5b23e75fb09" version="1">减少所受伤害[1]。</content>
+    <content contentuid="hca4d9d71gaeaeg4779ga398g725c2c23961a" version="1">音爆</content>
+    <content contentuid="he5c684c0gbc9eg44bbg97aag3d8874c26ff5" version="1">一阵喧嚣的噪音爆发，造成[1]伤害。</content>
+    <content contentuid="h9d133358ge7ecg4d79g8c0cgd2e998492e13" version="1">灼热射线</content>
+    <content contentuid="h693718dega981g4e65gbee9gd385d32e8531" version="1">你发射热量和火焰的射线。</content>
+    <content contentuid="h6c9db84dg9062g4c12g8a01g66df7c8dd298" version="1">你发射[1]束热量和火焰射线，造成[2]伤害。</content>
+    <content contentuid="h1029c869g870cg4801gaed5g02cf6a475173" version="1">念动力操作</content>
+    <content contentuid="h2111b807g4bddg4e7fg8990g7dfa41661578" version="1">随着一股念动力力量，你远程操控敌人，解除其武装、推开或击倒。</content>
+    <content contentuid="h4683a53fg7b67g46acg896ag90cbda42166a" version="1">念动力推开</content>
+    <content contentuid="h5db0c53bgcc09g4d32gac35gf2b36578e3c3" version="1">念动力解除武装</content>
+    <content contentuid="h66d46885g0d2ag4534ga6c2ge28ca132ef92" version="1">念动力击倒</content>
+    <content contentuid="h4b89530ag55d3g4256gb448ge65688e460d2" version="1">战士的悔恨</content>
+    <content contentuid="h9db080f3g6978g4581g8c0fgdd046c271b08" version="1">悔恨侵蚀目标的心灵，惩罚其暴力行为，直到其停止敌对行为。目标每次攻击时受到[1]伤害。</content>
+    <content contentuid="h5ff6a368gea71g4c09gb287g9a60a1867c49" version="1">战士的悔恨</content>
+    <content contentuid="h2369517bg1d74g4c9fgb683g1fc90fd7f20d" version="1">每次攻击时受到[1]伤害。</content>
+    <content contentuid="h6a2f0ef6g0d62g46d8g8f2fg364446f22c05" version="1">盐龙胆汁</content>
+    <content contentuid="h39e95589gc833g4b0dg9d67gfe3aec81d62e" version="1">每回合受到[1]伤害。</content>
+    <content contentuid="h49628f3agc1fbg4c8bgac2bgd463ad287ce0" version="1">闪电箭</content>
+    <content contentuid="hb2481dbbg77bcg4f58g9c02g2936181c1837" version="1">一道闪电从你的手中射出，造成[1]伤害。</content>
+    <content contentuid="hdcb92488g06dbg41cdg8421g4b9d8373951d" version="1">火球术</content>
+    <content contentuid="h71d43cccg8c67g4928g94b5gd49218c08c95" version="1">在你指定的位置出现一阵咆哮的火焰爆炸，造成[1]伤害。</content>
+    <content contentuid="hc1e2c45ag7b33g498ag9266g515e7de7d4a2" version="1">燃烧俯冲</content>
+    <content contentuid="h623c9eebg4ceag4de1gae72g8d88f291459a" version="1">超热的空气在你下方聚集，将你高高抬升到空中，然后你像火焰彗星一样笔直飞向地面上你选择的空地。当你着陆时，炽热的空气从你身边爆发出来，对3米内的所有生物造成[1]和[2]伤害。</content>
+    <content contentuid="h3ab9572cg1c10g450fg96eag4b28813d8580" version="1">支撑触须</content>
+    <content contentuid="he7ea033egb7eeg45f1g9c9eg28f1361c93f4" version="1">可见的力场触须将你的身体锚定在地上，防止不必要的移动。</content>
+    <content contentuid="h4a0a3252g57e8g4bc6g9045g48f5f5dedfba" version="1">支撑触须</content>
+    <content contentuid="he14618d9g0f99g4217ga476gdd8b54332ba8" version="1">你被固定在地上，无法被强行移动。</content>
+    <content contentuid="hf0e3808cg6f19g423ag91f8gb79e0db55607" version="1">束缚亡灵</content>
+    <content contentuid="h2572557bg6e41g465cg8453gb3eb6928b11c" version="1">通过一个死灵咒语，你控制了目标亡灵。</content>
+    <content contentuid="h7f7900d6g71ddg4cbfg9318g637de7b240cc" version="1">束缚亡灵</content>
+    <content contentuid="h61d85bcegafafg4954g90b2g7b0f48dd3b75" version="1">该亡灵被束缚为你的仆从。</content>
+    <content contentuid="hc5b1b099gbc2eg4f61gbbfeg8201ccd912c0" version="1">惊吓</content>
+    <content contentuid="h48d9dc5ag944dg42c2gbf14g48172667f6f0" version="1">攻击检定和豁免检定- [1]减值。</content>
+    <content contentuid="h1a8609a8gf1a8g463fga547ge17bb19e6091" version="1">剧痛绝望</content>
+    <content contentuid="h5e3d9991g099dg450fg8d11g1d2b27241939" version="1">目标的心灵陷入深深的恐惧之井，痛苦地沉浸在深藏的恐惧中。</content>
+    <content contentuid="h1df5b8b8gbd6ag4ba2g8ee2g64fc64d67aaa" version="1">圣化血肉</content>
+    <content contentuid="hb620cbd0gcf9ag4602g9ce0g3628c3821170" version="1">通过信仰的力量，你的身体充满了圣洁能量。当你受到死灵伤害时，额外受到[1]伤害，并减少[2]伤害。任何在5英尺内用近战攻击攻击你的生物都会受到[3]伤害。你的武器和徒手攻击额外造成[4]伤害，你的治疗法术额外恢复[5]。</content>
+    <content contentuid="he7e15d4fg04a7g4016gaebcg41a9fce8ee47" version="1">圣化血肉</content>
+    <content contentuid="hc807299cg5be9g414ag8b90g08c84b531db6" version="1">当你受到死灵伤害时，额外受到[1]伤害，并减少[2]伤害。任何在5英尺内用近战攻击攻击你的生物都会受到[3]伤害。你的武器和徒手攻击额外造成[4]伤害，你的治疗法术额外恢复[5]。</content>
+    <content contentuid="h0f438b86g1accg45adg882bg3e50efa6face" version="1">将动作转为附赠动作</content>
+    <content contentuid="h630d40acge160g49bdgb311g4ec0cf4dba11" version="1">将一个动作转化为2个附赠动作。</content>
+    <content contentuid="h42fbfd1fg51e9g439ag9975g12410a613003" version="1">将附赠动作转为动作</content>
+    <content contentuid="hadcdbe18ga3acg4342gbe9ag3db11e4b6da8" version="1">将2个附赠动作转化为一个动作。</content>
+    <content contentuid="h679fd6ebg52e3g47e6ga8c8g2eb361e9614c" version="1">爆炸反击</content>
+    <content contentuid="h0146360agdce1g4663g9f54g8aa3aba75604" version="1">你以震动的轰鸣击打地面，将落地的力量向外传播成波浪。你不会因坠落受到伤害，因为被置换的空气让你轻轻落地，但法术区域内的所有其他生物会受到[1]伤害。未通过豁免的生物也会被推开[2]英尺。</content>
+    <content contentuid="h03168025gec04g4dd1ga7d9g03d174162d60" version="1">毒化伙伴</content>
+    <content contentuid="hcde043a8g9f28g4e63g97dbg7228fb3ee027" version="1">你毒化了你伙伴的攻击，使其在法术持续时间内滴下剧毒。生物的武器攻击额外造成[1]伤害。被毒液伤害的生物必须进行体质豁免。若豁免失败，则变得笨拙1轮。</content>
+    <content contentuid="h98f6487eg1135g44a5g9178ge03fa3ca9771" version="1">毒化</content>
+    <content contentuid="h8c2465d6g3f9ag4091gb9fbge5a4488cf31f" version="1">你的穿刺和切割武器攻击额外造成[1]伤害，并可能使目标笨拙。</content>
+    <content contentuid="h0a5b018dgdf64g4269g8b99g502714cfdd60" version="1">烟花爆炸</content>
+    <content contentuid="h9b1ef670ge62bg43d6gbdf4g546d62d6d806" version="1">你创造了一场巨大的声音和色彩爆炸，造成[1]伤害。</content>
+    <content contentuid="hf22d3e4bgaeb5g45acgae6dg7bbef09aab07" version="1">专注嗡鸣</content>
+    <content contentuid="he8405c13g8858g462cg9b50gf4533cc42b96" version="1">你将空气中注入持续的嗡鸣，使其中的生物抵抗干扰。区域内的生物在所有智力和智慧豁免检定中拥有优势，并免疫困惑状态。但你无法隐藏。</content>
+    <content contentuid="h8e08657cg3636g4168gbde6gc5419f8af59e" version="1">专注嗡鸣</content>
+    <content contentuid="h5706e927g83fag4a24gb479g6dfd1a4f07d4" version="1">你在智力和智慧豁免检定中拥有优势。</content>
+    <content contentuid="h5665dcadg694bg4cc6ga335g29f05fde4781" version="1">嗡鸣</content>
+    <content contentuid="h1275e96dg10dcg47cegac7ag337d15f2b1a9" version="1">你在智力和智慧豁免检定中拥有优势，但无法隐藏。</content>
+    <content contentuid="he5144280g89e6g432fga0bcg00b0f089cea9" version="1">鬼影武器</content>
+    <content contentuid="h0a79f67egcc0bg45f1g8022g96a058322346" version="1">目标武器变得半透明且鬼影化，可影响物质和非物质的生物和物体。无视对穿刺、切割和钝击伤害的抗性。</content>
+    <content contentuid="h861142c6gbb50g4868g9d37g9b2e34709899" version="1">鬼影武器</content>
+    <content contentuid="h9cd334c9g98c3g44a0g9399g01e55892db3e" version="1">无视物理抗性。</content>
+    <content contentuid="hcf3964f1gdd82g4421gb383g5e3317bb1700" version="1">加速术</content>
+    <content contentuid="h34185cc0gacfeg4c2ag826ega7bf720afc18" version="1">魔法赋予目标更快的行动能力。每回合获得一个额外的附赠动作。</content>
+    <content contentuid="h3b6465b8g3d1eg436bga14dgf45d91c8519c" version="1">加速</content>
+    <content contentuid="h52c162e3gee90g41b6gba2cgbfa5e5a30c59" version="1">在你的回合获得一个额外的附赠动作。</content>
+    <content contentuid="h4e03ae5cg7c48g4f66gad54g7980b5e2fa0b" version="1">英雄气概</content>
+    <content contentuid="hc065bb28gc57ag4c8aga8c9g8e4abf7e407b" version="1">你激发目标的内在英雄主义，给予其攻击检定、豁免检定和技能检定+[1]加成。</content>
+    <content contentuid="h9e9a3343g27dbg4056gaaf5gee4af3b4f2d1" version="1">英雄气概</content>
+    <content contentuid="h6980b844g4cdag4b2egaf15g22da898787be" version="1">获得攻击检定、豁免检定和技能检定+[1]加成。</content>
+    <content contentuid="hda8fa4cbg0379g484cg82e5gc7383c4bd462" version="1">隐形球</content>
+    <content contentuid="hec26e2bbgb8c4g431eg8e9agd09fda2acdc7" version="1">你和所有目标除了彼此之外都隐形，只要你们保持在法术范围内。若由此法术隐形的生物离开法术范围，则变为可见，即使返回法术范围内也仍然可见。</content>
+    <content contentuid="heb367849g758cg4bdeg9e92gd4eeebe9b75e" version="1">隐形球</content>
+    <content contentuid="haa78f68bg34a7g42fbg803ega04e8fa918e0" version="1">你发出一种光环，使周围的其他人隐形。</content>
+    <content contentuid="h7b0960f0g97c0g4662g8f9dg60c58c87e716" version="1">生命连接</content>
+    <content contentuid="h6ae6af33g0464g4a91g83d4g73cbb7b0f3a5" version="1">当你施放此法术时，你在目标的生命力中植入一个安全装置。你可以感知目标受伤的情况。一个生物不能同时参与超过一个生命连接。当你的目标受到致命伤害时，你可以选择为其承受伤害作为反应。</content>
+    <content contentuid="hd8458d27g238bg42fbgb267gcb6a77ad5552" version="1">生命连接</content>
+    <content contentuid="h3d1ed954gadf4g4227ga616g219719b685da" version="1">当你的连接目标受到致命伤害时，你可以作为反应为其承受伤害。</content>
+    <content contentuid="h127849f0g9f62g439cg91f4gc0d1274cfb75" version="1">你的生命被另一个目标连接到自己身上。</content>
+    <content contentuid="hcb3b4509gc698g4e44gaad0g1e77483c6a32" version="1">保护生命</content>
+    <content contentuid="h6d937b14g14a8g422eg933cg99f214e6f75f" version="1">为你的生命连接目标承受伤害，并防止其生命值降至0点。</content>
+    <content contentuid="h5cbe8d2agb7acg49ecg836fg78ee402cc5ac" version="1">月光射线</content>
+    <content contentuid="h0c2951fegad43g4fa3g8a4fgf06f771f1913" version="1">你释放一道冰冷的月光圣光，造成[1]伤害。若目标是恶魔或亡灵，则额外造成[2]伤害。</content>
+    <content contentuid="he5c3c493g49d5g400fgbb28g02d590a3a511" version="1">灼热光线</content>
+    <content contentuid="h91c23a24g5f5ag4b6bg8426g64c37e8644c0" version="1">你射出一道炽热的光线，带有圣洁能量，造成[1]伤害。若目标是恶魔或亡灵，则额外造成[2]伤害。</content>
+    <content contentuid="h27967236g4ee5g4ba1gacffg7faea75f40e2" version="1">冰冷黑暗</content>
+    <content contentuid="h27f05269g02cbg45e4g8788g22b295c42247" version="1">你射出一道极冷的黑暗光线，带有不洁能量，造成[1]伤害。若目标是天使，则额外造成[2]伤害。</content>
+    <content contentuid="h493e0995g695eg43abg9fd1g2912b227d237" version="1">蛾之晚餐</content>
+    <content contentuid="h096030d2ge802g4a5aga52dg0beec3c28151" version="1">你以一个尸体为目标，吸收其剩余的生命力。在接下来的100轮中，每10轮恢复[1]生命值。</content>
+    <content contentuid="h3ca345e4g382bg4591g8506g0a2933e1dab2" version="1">蛾之晚餐</content>
+    <content contentuid="h2809bea3g1a1eg4967g8fb5gc8a923b14d76" version="1">每10轮恢复[1]生命值。</content>
+    <content contentuid="h7271468cgd6bag4a95gb80cg65b30803e258" version="1">正能量调谐</content>
+    <content contentuid="ha9d98de7g22f8g458ega934ged5b8562355e" version="1">你将一个生物调谐到上位位面，连接其生命力而不完全传送。生物的外貌变得更加明亮。若生物是活的，立即恢复[1]生命值，并在每回合结束时恢复。若生物是亡灵，则受到[2]伤害。</content>
+    <content contentuid="hd9dccafcg1fdeg4e6cg94e1gb01b0242a852" version="1">正能量调谐</content>
+    <content contentuid="he80c9e37g9e77g45fbg8dc8gd15461a104cd" version="1">恢复[1]生命值。</content>
+    <content contentuid="h963c1e33gfc1eg4328gb268gc1c8c52fb371" version="1">受到[1]伤害。</content>
+    <content contentuid="h096068b3gcf83g4608g9d13gb32ff8927c1d" version="1">吸血触摸</content>
+    <content contentuid="h11da0b8eg5096g4b06ga3ffga9c9818bb709" version="1">你的触摸从活物目标中吸取生命力以增强自己。你对目标造成[1]伤害，并获得[2]临时生命值。10轮后失去剩余的临时生命值。</content>
+    <content contentuid="hd06fb459g9a47g409aga528g781b86471b3f" version="1">吸血触摸临时生命值</content>
+    <content contentuid="h5b4baa4eg8ec9g4da9ga95eg40df2b1ae373" version="1">软泥形态</content>
+    <content contentuid="h813061e3ga26cg4848g842cgf450731447de" version="1">你召唤所有渗透和软泥的力量，使你的身体溶解成厚厚的泥浆，然后重组成中型软泥战斗形态。你可以在持续时间结束前解散法术。在这种形态下，你不能施法。高等级施放此法术会增加你的体型、攻击范围、伤害和在软泥形态下的伤害减免。</content>
+    <content contentuid="hd1cf2d99g27cdg4e20g84f0ge4582e3100b2" version="1">软泥形态</content>
+    <content contentuid="h065eee17gb91fg4d58gb6c9g2c18bf12adef" version="1">软软啪</content>
+    <content contentuid="h310beadcg76efg4478g8831ga642300d6ca8" version="1">器官视觉</content>
+    <content contentuid="h9c5f6dedg20b4g4fd4g9718gc7510b866dbd" version="1">你看目标仿佛它已被解剖并在你面前陈列，每回合你用切割或穿刺武器攻击时，额外造成[1]伤害。</content>
+    <content contentuid="h283c7acbg78dcg42begbde2g0a9c53a9647f" version="1">器官视觉</content>
+    <content contentuid="h6113e96cge297g4631gb91cg7aa3e7587bdc" version="1">器官视觉 - 暴击</content>
+    <content contentuid="hd7b5ae7agd6ffg4c9agbf24g1443f2d5fb5c" version="1">冲击爆炸</content>
+    <content contentuid="hc50a23a1g49e8g438bg94ffg85ecd0113135" version="1">你向敌人投掷一个压缩的声音球。球体撞击时爆炸，释放出强大的声音冲击波，造成[1]和[2]伤害，并使目标耳聋[3]轮。</content>
+    <content contentuid="h6b3bedbbgf94ag4200g9ef8ge037f99ce8ca" version="1">暗影射弹</content>
+    <content contentuid="h095a6091gcc45g45b8gb7ccgd5cd9ce0e2f1" version="1">当你的盟友对敌人进行远程攻击时，你创造一个虚幻射线以迷惑对手，使敌人不确定该躲避哪个攻击。目标受到[1]伤害，若智慧豁免失败，你的盟友在进行远程攻击时获得优势。</content>
+    <content contentuid="hcb4bcd08g9df4g4a58g9182ge4c4432de8bc" version="1">时间跳跃</content>
+    <content contentuid="hc8555a04gae12g4a00gb3cbged27daebd2da" version="1">你在时间中向前跃进几秒钟，瞬间出现在战场的另一端。你可以冲刺两次，然后时间才会恢复正常。</content>
+    <content contentuid="h294e5338g697fg4b6cgb3c8g44a02a4c2df6" version="1">时间跳跃</content>
+    <content contentuid="h9d10bd63g25b0g4cfagae7cg8306e2da2d23" version="1">时间停止，直到你冲刺两次。</content>
+    <content contentuid="h360e2c19gea62g440fgb382g0185ad9cd7ca" version="1">冲刺</content>
+    <content contentuid="hb384ce4bgada1g4926g83d0g5d538ab08200" version="1">向前冲刺[1]。</content>
+    <content contentuid="h546f3f69g1920g4ca6g92c1g0d5fb73896c8" version="1">取消战斗形态</content>
+    <content contentuid="h56e94a1ag3071g4025gb360gfae492b2ca80" version="1">解除你当前的战斗形态。</content>
+    <content contentuid="hd1c35765g170bg40e8ga9e4gabfadf9efb56" version="1">空中形态</content>
+    <content contentuid="h5e671aa4g9014g4876g9c7bgef14b4f33eaf" version="1">你利用对原始力量的掌握，将你的身体重新塑造成一种中型飞行动物的战斗形态。</content>
+    <content contentuid="hd244c789g15a5g4a6cga82eg407e17b1eaab" version="1">空中形态</content>
+    <content contentuid="hf219d3bcg0991g41f1g8829g41f27f49af5e" version="1">飞翔</content>
+    <content contentuid="hb74f1108g4a36g45f6g8dc2g617c07f9b453" version="1">闪现</content>
+    <content contentuid="h879dc7bbg444cg43bega9adg05e931028bc2" version="1">你在物质位面和幽影位面之间快速闪烁。你从任何来源（除了力场）受到的伤害减少[1]。你可以用一个附赠动作传送10英尺。</content>
+    <content contentuid="h6c3c62bdg61cbg4073gad23g7a1478eb3e51" version="1">闪现</content>
+    <content contentuid="h4f11468cg133bg4f02ga734gc1034503abf6" version="1">你从任何来源（除了力场）受到的伤害减少[1]。</content>
+    <content contentuid="h1d6cc617gf26bg47a5gb7b0gde2cc72de7c7" version="1">作为附赠动作传送[1]。</content>
+    <content contentuid="hbea64b88gbc5fg4e7fga6b6g0e26913eb5b1" version="1">血喷诅咒</content>
+    <content contentuid="h4616ca89gca4fg4bb4g870cg5d826e8b38b9" version="1">你对目标施加诅咒，使任何伤口喷涌鲜血。</content>
+    <content contentuid="h388881d6g456ag4d2egb6bag5f81309fbe2f" version="1">每当目标受到单次攻击超过10点的穿刺或切割伤害时，额外受到[1]伤害。若豁免失败，则该伤害持续存在。</content>
+    <content contentuid="h0bb5fddage4eag49fdg9710gc47f659109e6" version="1">血喷诅咒</content>
+    <content contentuid="h19217411g282cg41dbgbab0g177bf3e116fc" version="1">额外受到[1]伤害。</content>
+    <content contentuid="h93a5eb37g636fg4583gbbe8g20f5119a8b0c" version="1">额外受到持续[2]伤害。</content>
+    <content contentuid="hbfc17577ge31eg4d95gb551g902226bb2838" version="1">光之披风</content>
+    <content contentuid="he20888b5gc7d6g4643ga59fgbaa00450df67" version="1">你将自己包裹在圣洁的光芒中，恢复生者并击退亡灵。你在30英尺范围内发出明亮的光芒，并在接下来的30英尺范围内发出微光。</content>
+    <content contentuid="h6758f0a2g5e82g4390g8fc1g6caf8cbad5bb" version="1">光之披风治疗</content>
+    <content contentuid="hd4959818g266fg41b6gb3aag0879802615d4" version="1">在你的回合开始时恢复[1]生命值。</content>
+    <content contentuid="hcc611fdfg172cg49b2ga105g67a35970b365" version="1">光之披风伤害</content>
+    <content contentuid="hb203affbgb76bg457fgaa17g0f362b2965a2" version="1">在你的回合开始时受到[1]伤害。</content>
+    <content contentuid="hd4112321g4c1bg4ac3g8148g9a2f24a82756" version="1">光之披风</content>
+    <content contentuid="h80f412a6gbb8fg4101g9e68g3b95677c2d44" version="1">你周围的亡灵受到[1]伤害，生物恢复[2]生命值。</content>
+    <content contentuid="h5e250f33g0db3g4628g8978gcad771caa9ed" version="1">恐龙形态</content>
+    <content contentuid="hd9a68de1g18afg48bfg83a0gdbd244c25100" version="1">你召唤自然的原始力量，变身为一种大型动物的战斗形态，特别是一种强大而可怕的恐龙。</content>
+    <content contentuid="he0aac5feg6608g48a4gaa3fgda1debd6cc7e" version="1">恐龙形态</content>
+    <content contentuid="h22d5ef45g6339g4534gb401g308d5fcd9598" version="1">恐龙叫声</content>
+    <content contentuid="h2ac076c5g485bg414bg9912ge2b6d09a5ca0" version="1">辨谎</content>
+    <content contentuid="h62b5f9d6gcb57g4c8cg8f7dg522a5ca732a0" version="1">谎言在你耳中如同不和谐的音符。你在洞察技能上获得专长。</content>
+    <content contentuid="h56cc01f1g6978g4af7g8f38gd1dc0682c90f" version="1">辨谎</content>
+    <content contentuid="h74181f95g9adeg4411g8bdbg0042c3ae3869" version="1">洞察专长</content>
+    <content contentuid="h769c0b89g8917g41a1g97f3g25239237421e" version="1">引雷术</content>
+    <content contentuid="h712e1862g237bg4677g8716g4c60988f57db" version="1">你向天空呼唤，召唤一道闪电穿过上方的敌人，进入你的武器或身体，为其充电。作为此法术的姿势成分，你必须高举武器或空手。当你这样做时，一道闪电从头顶和周围的暴风云中降下，造成[1]伤害。然后在持续时间内，你的武器额外造成[2]伤害。</content>
+    <content contentuid="h1b22d703g17cdg4c83ga177g9917117ab66d" version="1">引雷术</content>
+    <content contentuid="hd4542a6dg3d40g4775g91fcg649cf3649bd4" version="1">这把武器额外造成[1]伤害。</content>
+    <content contentuid="hdaae58b2gdd92g4e0fg845fg083a6a65d3fb" version="1">妖精形态</content>
+    <content contentuid="he6359e43g3a5fg4327g8164g70b9b3797256" version="1">你召唤妖精的恶作剧之力，变身为一种妖精战斗形态，通常为中型形态，除非另有说明。</content>
+    <content contentuid="h4ea327dfgde6dg4104g95d7g1f867bd98dec" version="1">红帽妖形态</content>
+    <content contentuid="hb4dc0aaegd6ccg40fcg8cecg474695107034" version="1">红帽血贤形态</content>
+    <content contentuid="hb8a91702g2a8eg481fg80e9gb8e5a5086226" version="1">米洛克形态</content>
+    <content contentuid="hdf13efa2g3dcbg4fcfga72ag89eabea570d1" version="1">妖精噪音</content>
+    <content contentuid="h34fe7ddbgedbag49a5gbd05g9a91a6d0ecdc" version="1">用毒爪攻击你的目标。</content>
+    <content contentuid="he6538252gc615g4c7cgbebfg0ef696e1ed6c" version="1">火焰护盾</content>
+    <content contentuid="hacafa8d0g8dfcg48begbc54g0a48e0e74f81" version="1">你用鬼火环绕自己，减少[1]受到的伤害。此外，每当邻近生物用近战攻击击中你时，它们会受到[2]伤害。</content>
+    <content contentuid="h11fc1b86gc2f9g412bg93d0g7fbe5cceff1d" version="1">火焰护盾</content>
+    <content contentuid="h47f0b118gb67eg49bfga694gf77d51366401" version="1">减少[1]受到的伤害，当被近战攻击时反射[2]伤害。</content>
+    <content contentuid="ha5f063e1g5c5bg4d04gbcb8g34772341f628" version="1">吉尔赞杰的进军</content>
+    <content contentuid="he70bc4c0gf881g46f8gb535g3058588b5593" version="1">你唱出战祷，激励听到你歌声的盟友。可以听到你歌声的盟友获得攻击检定、体质豁免和智慧豁免+ [1]加值。</content>
+    <content contentuid="hb67495c3gd668g4f95g9e46g994de333aefd" version="1">吉尔赞杰的进军</content>
+    <content contentuid="h86be7178g6c7bg4e4fg9a4bg76a9bfe0942f" version="1">获得攻击检定、体质豁免和智慧豁免+ [1]加值。</content>
+    <content contentuid="h0830e9beg6e27g4237gb6aagefc39a2f8fe6" version="1">水力洪流</content>
+    <content contentuid="hdcf1e243gde7cg4414g9352gd44c2f004146" version="1">一股旋转的水流在直线上出现，击打路径上的生物和无主物体，可能将它们推开。水流造成[1]伤害。未通过豁免的生物和物体也会被击退[2]。</content>
+    <content contentuid="h2315d71bgbf9eg4f2dg9e75ge9f71a51c556" version="1">水银步伐</content>
+    <content contentuid="h89791381g1364g4d73g8dcageb6340d515ac" version="1">你的形态波动，变得如水银般流动且有毒。你部分转变为液态金属形态，冲刺最多[1]。这样穿过生物空间时，会使其中毒，生物在体质豁免失败时会受到[2]伤害。</content>
+    <content contentuid="h6af9cad8ga263g438ega892g12f1f4e32fb2" version="1">中毒</content>
+    <content contentuid="heafdd320g910eg4a26gbb4cg0fd446296faf" version="1">所有攻击检定、豁免检定、能力检定和法术豁免DC受到-[1]惩罚。</content>
+    <content contentuid="hd8746516g80d9g4a2cgb1afg03b1b8a3c531" version="1">光辉射线</content>
+    <content contentuid="h2d0d47ddgaaeag4e33gb347gd389ba3a7bc0" version="1">你从伸出的手中发射一束炫目的光线。光束造成[1]伤害。未通过豁免的生物会被目眩4轮，豁免成功则目眩1轮。</content>
+    <content contentuid="h9935cd06g3947g478fga2f6g18f85e141045" version="1">安抚之泉</content>
+    <content contentuid="hf750a96fgf29cg4776g8958ge2b5d069c0ac" version="1">恢复之泉的水流给区域内的人带来短暂休息的效果。</content>
+    <content contentuid="ha2183fcagdaf6g4cc2g977aga76d3a43d233" version="1">武器风暴</content>
+    <content contentuid="h1c1dcd06g7c3cg48bag8bd6gf694cd8bec47" version="1">你挥舞手中的武器，武器神奇地复制成多个，在锥形或放射范围内横扫所有生物，未通过敏捷豁免的生物受到[1]（相当于你武器伤害的两倍），豁免成功则受到一半伤害。</content>
+    <content contentuid="h6338abf2gfdaeg4332gbeadg2c471ffdf454" version="1">武器风暴锥形</content>
+    <content contentuid="h9adff858g7e55g4c9cg9962gb3e720b4af05" version="1">武器风暴爆发</content>
+    <content contentuid="h10f6430agfe88g48b4gb3adg1720ac3b3ebd" version="1">连胜</content>
+    <content contentuid="hda3007c5g9970g4168g94ceg340e6319a9db" version="1">目标因其好运而充满能量，并将好运传播给他人，只要他们持续胜利。目标迅捷1轮。如果目标或20英尺内的盟友命中攻击检定，他们也会迅捷（如果尚未迅捷），并延长连胜的持续时间。</content>
+    <content contentuid="h3b8957a0gb4cdg458cg990cg9486d4c84d04" version="1">连胜</content>
+    <content contentuid="h08537958g253ag401eg9bf2g184b07b874ee" version="1">你是迅捷的，周围[1]的盟友在成功命中时也会获得这个光环。</content>
+    <content contentuid="hfad50531g4a36g423dgaff6gcc06e1614668" version="1">石肤术</content>
+    <content contentuid="hdaf7199ag9d4dg472bg9f1eg0f176ed6605f" version="1">目标的皮肤变硬如石，减少物理伤害[1]。每次目标受到钝击、穿刺或挥砍攻击时，石肤术的持续时间减少5轮。</content>
+    <content contentuid="h807bbc95g6e9eg48dcg9671g54c9c4bd0d45" version="1">石肤术</content>
+    <content contentuid="h5261efebg394bg4a4cga538g3ed41cb1a177" version="1">减少物理伤害[1]</content>
+    <content contentuid="ha7f0f2e0g55d9g4404ga38fg73dfd686efd4" version="1">生命灯塔</content>
+    <content contentuid="h2f4a9108gb598g4894gb304gb9a260d8fed7" version="1">生命力从你身上辐射出来，让他人可以请求并获得治疗。每轮你或盟友可以使用互动动作请求并触摸你来恢复生命值。</content>
+    <content contentuid="h029c29ddg49e0g43ccg80f8gf032d171f281" version="1">生命灯塔</content>
+    <content contentuid="h31587f06g585fg40f6g9d18g843aec8d782c" version="1">盟友可以触摸你恢复[1]生命值。</content>
+    <content contentuid="he9d12d5dgc32dg41c9g94b7gebb5a0e9143b" version="1">生命灯塔治疗</content>
+    <content contentuid="h4d055c77g68e6g49c4g8c23g9b64a4b3e419" version="1">触摸带有生命灯塔的盟友恢复[1]生命值。</content>
+    <content contentuid="h6641f9a8g008bg44d3g935bgf6ce3c0075d5" version="1">生命灯塔治疗充能</content>
+    <content contentuid="h5a4cf921g8d36g414dg9eefg44afe3a14ccc" version="1">用生命灯塔治疗你的目标</content>
+    <content contentuid="h464404c4g320fg4ab5g995ag298cd6c2a819" version="1">微风滑行</content>
+    <content contentuid="h25daf8f9gce61g42fbgb49cg48118f583454" version="1">一阵令人惊叹的微风立即将你带离危险。你飞行[1]，直接远离触发生物。</content>
+    <content contentuid="h8cfb74e2gb38eg482cg998bg5bfc3803aa14" version="1">畸形形态</content> ======================= 5级 ============================
+    <content contentuid="hde376fa5g491bg425dg9fa6g73969be94589" version="1">变成一个心灵魔或披风怪</content>
+    <content contentuid="h8455f9ffg536cg40bfga983g220926421694" version="1">心灵魔形态</content>
+    <content contentuid="h833d6937g09b6g4cd1g98cbg5ba5db432a3e" version="1">披风怪形态</content>
+    <content contentuid="h61c6039ag6f23g4846g91e5gad7fbc0d9837" version="1">贬低自夸</content>
+    <content contentuid="h8366f454gc087g451bg88acg5954e8185189" version="1">你自夸自己的技能或战斗能力，增强自己的能力，贬低对手。试图恐吓30英尺内的所有敌人。每个被吓到的生物还会在攻击检定上受到-[1]环境罚值1分钟。如果至少有一个生物被吓到，你在1分钟内每个受到惊吓的生物攻击检定上获得+ [1]加值。</content>
+    <content contentuid="h28e582b0gd255g4cfagbdb6gd0371f8f03c1" version="1">自夸</content>
+    <content contentuid="h3dfd78dbg1f88g4930gad0fg8dd9ee1cbe43" version="1">你获得攻击检定+ [1]加值。</content>
+    <content contentuid="h2353c60agfb10g44d3ga0bbgee42c3a69180" version="1">烈焰裂缝</content>
+    <content contentuid="h6e5d1498g9cd5g41d7g8ba5ge39406da2069" version="1">一道细小的裂缝撕裂大地，喷出岩浆，然后迅速封闭。沿线和在坚实地面上的每个生物受到[1]和[2]伤害。</content>
+    <content contentuid="h9971defbg785bg4045gb8bfg51152172e381" version="1">闪电冲击</content>
+    <content contentuid="h379126bdg2135g48bbg9300g15b79f06d342" version="1">你通过空间传送的力量来进行打击，带着传送的动能打击敌人。你传送到一个你能看到的范围内靠近生物的空位，然后用你手中的武器对其进行打击。打击造成[1]伤害和额外[2]伤害。</content>
+    <content contentuid="hbdd6e157gefb4g44a6ga86bg969caa638a8e" version="1">水泡术</content>
+    <content contentuid="hacff2167g1f2ag4a86g882cg2d591606504c" version="1">你指向一个范围内的目标，它的皮肤上长出充满腐蚀性液体的炽热水泡。作为一个附赠动作，戳破水泡，在目标周围[2]范围内造成[1]伤害。目标在豁免失败时会长出2个水泡，成功则长出1个。</content>
+    <content contentuid="h86e01b85g120dg42afga228g72dbe466fbba" version="1">血宴</content>
+    <content contentuid="h5d41efefg4d6bg4f4ega417g3e1ebdf33c0e" version="1">你的头部垂直裂开成一个巨大的口，吞噬目标的血液，造成[1]伤害。法术结束后，你的头部会像从未裂开过一样愈合。你恢复相当于目标所受穿刺伤害一半的生命值。</content>
+    <content contentuid="h2c9aed47g3e5eg47f9g9b5bgef02eb674444" version="1">生命之息</content>
+    <content contentuid="h96c075f8gc480g436fgac45ga67d006f7f3e" version="1">你的祝福在目标死亡的瞬间将其复活。你防止目标死亡并恢复目标[1]生命值。</content>
+    <content contentuid="hda8d59a0g37cdg40aagaf3dg300679bc906a" version="1">寒冰锥</content>
+    <content contentuid="h946913d6ga3c0g4e94g8a3dg32aa0f2e7ddd" version="1">寒冷的冰雪从你的手中喷出。你对区域内的生物造成[1]伤害。</content>
+    <content contentuid="hb91395e6g05dcg4681gbd6agc6a41c26c97d" version="1">压抑绝望</content>
+    <content contentuid="h1e9071ceg0c04g4631gafb6ga48676e49ff1" version="1">你对区域内的生物施加绝望，使其减速。</content>
+    <content contentuid="h688f358ege36cg445egad3eg2d2373b2dadf" version="1">减速</content>
+    <content contentuid="h8cda9d2ag5ac7g44eeg9231g0330c91e5655" version="1">不能进行额外动作或反应，移动速度减半。</content>
+    <content contentuid="h6377379dg53b9g45fcg9d36gaf345db7fa23" version="1">不能进行动作或反应，移动速度减至四分之一。</content>
+    <content contentuid="h4e0a8258g46a2g4ec9g9a30gc6cba250a662" version="1">不能进行动作、额外动作或反应，不能移动。</content>
+    <content contentuid="h20ac47e8gd3d5g40ceg9b39g0383f9f1b9d6" version="1">死亡守护</content>
+    <content contentuid="hfdbbee7dgc544g4948gbeacgcccffd84b813" version="1">你保护一个生物免受负能量的侵害。它在对抗死亡和负面效果的豁免上获得+4加值，减少[1]受到的伤害。</content>
+    <content contentuid="h3f0dad4bg7725g4cd2g82c3gea2ee94a5934" version="1">死亡守护</content>
+    <content contentuid="h200edbcbgabbfg486dg8319g71d980fada55" version="1">你在死亡豁免检定上获得+4加值，减少[1]受到的伤害。</content>
+    <content contentuid="h3dc736bdg7f87g4a47gb74bg292c9de89799" version="1">强力之手</content>
+    <content contentuid="hd721eeeegc71fg4dacga0e6g648cecd14e21" version="1">创造一个由力量构成的战斗手。</content>
+    <content contentuid="hfdc595f0g0795g454dg8228ge4931e944216" version="1">闪电风暴</content>
+    <content contentuid="h661507f4g1facg4bfbg859cg638377e1cc7d" version="1">你创造一个黑色的雷鸣风暴云，并在法术区域内召唤一道闪电。闪电从风暴云顶部垂直降至地面，对区域内的生物造成[1]伤害。在随后的回合中，你可以用一个附赠动作在区域内再次召唤闪电。</content>
+    <content contentuid="h2ffd8f68g5588g4acaga777gf3a812a81441" version="1">召唤闪电</content>
+    <content contentuid="h7304fa4eg3014g4ae7gabd2g2e78323461cd" version="1">召唤一道闪电造成[1]伤害。</content>
+    <content contentuid="he0aa5ce3gc284g4a22ga549gf7521f0f4d20" version="1">植物形态</content>
+    <content contentuid="hf1505e5cg1dd0g4421g95e0g9479b8de26ba" version="1">变成木精</content>
+    <content contentuid="h229e8ae7g4208g4f74gafc0gb76a2ad81c36" version="1">排斥脉冲</content>
+    <content contentuid="h6c71c5c8ga088g43d9g8d0agede2d158d5d2" version="1">你释放一股强大的念力脉冲，将生物猛烈地推开。区域内的每个生物受到[1]伤害，并被推开[2]。</content>
+    <content contentuid="hf698a5fegf02fg4620gbe28gf74cd8ad8b00" version="1">清除脉冲</content>
+    <content contentuid="hafd36da6g277cg4898gb2a2g9c0223c624c6" version="1">你用集中正能量冲击区域，清除不死生物的痕迹。区域内的每个生物受到[1]伤害。未通过豁免的生物每轮还会受到[2]伤害。受到持续辐射伤害的生物会被无热光环笼罩，在5英尺范围内发出明亮的光，无法隐形。</content>
+    <content contentuid="h732c9dcfg4c6eg49e6gb814gbf7d9b88c594" version="1">清除之火</content>
+    <content contentuid="h03da8006gd6b0g4a26g8cc2g05b4997dbe99" version="1">每轮受到[1]伤害，无法隐形。</content>
+    <content contentuid="h4e0ea270ga503g4378gabf6g0d6cf99514ee" version="1">风暴爆发</content>
+    <content contentuid="h17e33d8ega822g461cg9b0fg16b5677b909f" version="1">你的声音像雷鸣般传递，召唤一场局部风暴，产生可怕的闪电和风，对区域内的生物造成[1]伤害，并将其推开[2]。未通过豁免的生物也会被击晕。</content>
+    <content contentuid="h596592bfgfd36g4e96g89fagb0063db4ceea" version="1">突触脉冲</content>
+    <content contentuid="h6d7b2243gb04ag4072gab24ge19f5c5a1314" version="1">你发出一股脉动的精神冲击，穿透区域内所有敌人的心灵，使其震慑。</content>
+    <content contentuid="h16624fd7g0ec0g41f4g86b8g574ab0f3d951" version="1">元素形态</content>
+    <content contentuid="h0ff32883g7416g479cgaf78g9aef87b6668e" version="1">元素形态：火</content>
+    <content contentuid="hb4d680bfge5a7g43b0g92abg87946cf93383" version="1">元素形态：气</content>
+    <content contentuid="h2f0f1a6eg35d9g48ddg9e31g5590d8c1d08f" version="1">元素形态：地</content>
+    <content contentuid="h350792ceg6f86g4237g9e03gbea231299828" version="1">元素形态：水</content>
+    <content contentuid="h0c65d634g1cbcg42aegaf47g12dfdfdb14c1" version="1">变成元素</content>
+    <content contentuid="h8379d600gf14dg464eg9d83g8c7ba6b38a1c" version="1">火焰舞者</content>
+    <content contentuid="h5fa38ab2gecfcg47deg94d7gbfb28648c74a" version="1">火焰环绕目标的双手和双脚，目标的眼睛和头发燃烧起来。目标的徒手打击额外造成[1]伤害。用这些打击造成暴击还会造成每轮[2]伤害。此外，当目标试图恐吓敌人时，可以用表演代替威吓。</content>
+    <content contentuid="h4791718eg5107g4210gacb1gba2005d4efb6" version="1">火焰舞动</content>
+    <content contentuid="h1ca27513ge48eg49b8ga892gd2dd09f37fe4" version="1">徒手打击额外造成[1]伤害，暴击时每轮额外造成[2]伤害。</content>
+    <content contentuid="h7969f706g9f62g4c7bg8818gaa23fb439a85" version="1">星空斗篷</content> ======================= 6级 ============================
+    <content contentuid="hf7c5b2f8g9546g4acdgb8abg1839111e9be3" version="1">一件充满微弱星光的漆黑斗篷披在你身上，赋予你宇宙的静谧，使你获得高级隐形效果。在法术持续时间内，你可以每轮施放一次3级魔法飞弹。</content>
+    <content contentuid="hcf220e48g31c0g4bb6g956bgd4fd3e31a6cc" version="1">星空斗篷</content>
+    <content contentuid="h21eb331agf2f2g4729g92afgf32aa199fdfe" version="1">高级隐形并且可以在每个回合施放3级魔法飞弹。</content>
+    <content contentuid="h357776f7g2e15g4971g9a85g8fc209c8ef3e" version="1">时空投放</content>
+    <content contentuid="h5f033436gdbe5g4ebcgbb34g07a3142e6171" version="1">你释放一股时间能量波，将生物剧烈地抛入时间的长河中，使其思维被周围流动的信息所伤。尽管旅程可能感觉持续了数分钟甚至数天，但目标几乎立即重新出现。目睹这一混乱的时间流动并被撞击在不同时间的物体上会对目标造成[1]和[2]伤害。陷入时间的生物会在你的回合结束时重新出现。</content>
+    <content contentuid="hf3884c73g8ec4g4b01g8a1cg669f4ae469a3" version="1">时空投放</content>
+    <content contentuid="h845cde71g3181g4341g8c6eg4a9c8f69f74d" version="1">被投放到时间中，重新出现时受到[1]和[2]伤害</content>
+    <content contentuid="h273099c0g04f5g497bg9e10ge6895307f9cb" version="1">被投放到时间中，重新出现时受到[1]和[2]伤害，并且会中毒</content>
+    <content contentuid="hbebad1d4ge35dg4a57g8e3eg1450f9b2655a" version="1">链式闪电</content>
+    <content contentuid="h62745af8g6310g486fgbfd3g91d4bf2948b0" version="1">你向目标发射一股强大的闪电，造成[1]伤害。闪电会弧形跳跃到目标范围内[2]的另一个敌对生物，再次跳跃到该目标范围内[2]的另一个敌对生物，直到没有新目标。</content>
+    <content contentuid="h180e6004gb949g4870gacb6g260acc232ac1" version="1">恶魔形态</content>
+    <content contentuid="h0d3c6180g56e6g4168gba4fg2b921d582eb9" version="1">变成一个半魔</content>
+    <content contentuid="h40b319abg173bg4c50gb45bg39a0c576e487" version="1">元素合流</content>
+    <content contentuid="h3b6ce149g01f9g4f48gbd6fg097e79232e7c" version="1">你召唤四种元素，它们合力形成一场混沌风暴。</content>
+    <content contentuid="h4a32574fgc9eeg4756gba37g8f188c58abbb" version="1">切换元素</content>
+    <content contentuid="he4df03ecg377fg4a51g9cf4gbda0668dad24" version="1">坏死术</content>
+    <content contentuid="h661a9b86gc3c2g4b5fg82f0g917ccb5575cf" version="1">你使目标生物的身体部分坏死，使其身体腐烂，模仿自然的衰退过程。目标受到[1]伤害并承受其中一种虚弱效果。</content>
+    <content contentuid="h33cae15bg0d83g447fg9b70ge8a99133c93a" version="1">坏死骨骼</content>
+    <content contentuid="h41f93f76gf0a8g404ag87d7g23a261aaaeaa" version="1">目标的骨骼变脆，对钝击伤害有弱点</content>
+    <content contentuid="h7aa200b1g5208g4a93gade0g60bb26a3814c" version="1">坏死关节</content>
+    <content contentuid="h6446d56eg1be2g408cgb274g33b9c3cc9880" version="1">目标的关节变得僵硬，笨拙[1]</content>
+    <content contentuid="h7c8c5c39g87c6g47c5gbde1ga11944a023c7" version="1">坏死腿部</content>
+    <content contentuid="ha49ab803g8142g4db9gbf30g21dcf604a53d" version="1">目标的腿部解体，速度减少20英尺</content>
+    <content contentuid="h10ab93aag3795g4131gbca5g654f1a28c078" version="1">坏死肌肉</content>
+    <content contentuid="hf90ad19dga894g41cbg8385g27fa1ffb1807" version="1">目标的肌肉开始腐烂，虚弱[1]</content>
+    <content contentuid="h446084ffg7773g4653ga2d9g005a62d8537c" version="1">幻影乐团</content>
+    <content contentuid="h4c153880g8c18g42d9gaab5g71b37d833e82" version="1">你组织一个由风元素平原中游离的声音组成的无形乐团，并可以指挥这支交响乐攻击范围内的敌人。当你施放该法术时，一股捕捉到的音乐气息在你选择的范围内爆发，造成[1]伤害并使生物失聪。法术施放后的持续时间内，每当你使用附赠动作时可以再次制造一次音乐爆发。</content>
+    <content contentuid="h88e2a04cg2227g46b6ga7d2g240fd0ae2fdc" version="1">排斥</content>
+    <content contentuid="h1189af7bg2b68g4f88g845ag2b342f170b8c" version="1">你创造一个排斥光环，防止敌对生物接近你，范围最多为[1]。</content>
+    <content contentuid="hf77a5cb7g4d70g46fdgb64cg6c8b91b2192b" version="1">排斥</content>
+    <content contentuid="h9ae6836cg4763g4fb1gb0aag8f79355ad0f3" version="1">无法移动</content>
+    <content contentuid="h212d2bebg7498g4d4fgb0b2g40ec15f34f6a" version="1">排斥豁免成功</content>
+    <content contentuid="hfbcf9ce7gcdf1g459fg9a2ag8f54f4f7dae0" version="1">移动速度减半</content>
+    <content contentuid="hd7f31bceg1ad2g494fga6e8g2f3064961364" version="1">排斥 - 40英尺</content>
+    <content contentuid="ha49c625fg67bbg4e71g889fgcb9665b44c55" version="1">排斥 - 30英尺</content>
+    <content contentuid="h564e8422g70f6g40e9g9429g043c8de7cb44" version="1">排斥 - 20英尺</content>
+    <content contentuid="hd71ea00bgd4aeg4191gb03bg84ba3941f188" version="1">排斥 - 10英尺</content>
+    <content contentuid="h89f5e489ga522g4750g9358ged5afdbd87c7" version="1">法术诅咒</content>
+    <content contentuid="h0812b064g63efg40d2gb664g35d71123abd7" version="1">你使目标生物所受的任何法术都能释放出有害的能量。目标生物对法术易伤，并在被法术伤害时每轮受到[1]伤害。</content>
+    <content contentuid="h5b05a268gb54dg4f48g8c00g2d390c9a2b0e" version="1">法术诅咒</content>
+    <content contentuid="h651b7dcdg3e30g4be4g8428g721c79f4ac9b" version="1">任何伤害你的法术都会使你每轮受到[1]伤害</content>
+    <content contentuid="h08b83ed7gc308g4ec5ga128g4524b38532f8" version="1">法术诅咒持续伤害</content>
+    <content contentuid="hbbe529e3g1cfbg497egbf88ge602dcfaf0e3" version="1">每轮受到[1]伤害</content>
+    <content contentuid="hf5059938g59b3g48a8g8bd3gdb0e56b23111" version="1">正义力量</content>
+    <content contentuid="h44754cccg5cb2g427fgb3c1g917a3d51c511" version="1">召唤一件神圣武器到你的手中</content>
+    <content contentuid="hc2b4571cg36efg4731gbe76g2dd451fdcda8" version="1">正义力量</content>
+    <content contentuid="h4ae97cb6gc677g48begac10gd6e4e672194a" version="1">神圣武器</content>
+    <content contentuid="h1f1912f7g6bdeg4ff3g9c5ag6ccbbf4430a6" version="1">你受到的物理伤害减少[1]，额外移动[2]，你的AC变为[3]+敏捷，并获得运动专长。</content>
+    <content contentuid="hc00dfb6dgc5b9g4d52g819bgf2ecd44bf5c7" version="1">解除正义力量</content>
+    <content contentuid="h14aca66ag20dfg4f2eg8064ga546b846ee45" version="1">天使形态</content> ======================= 7级 ============================
+    <content contentuid="h3fcdb7ffg9eadg438bg9773g5e566443df2c" version="1">变成一个天使</content>
+    <content contentuid="h2bedf8ffg0d9dg42b5g94d2gb1e30159c4e8" version="1">天使大剑</content>
+    <content contentuid="h1caee296g7a61g47bdgb451gc7a312571672" version="1">天使大剑</content>
+    <content contentuid="hbb7dc685gd2a2g4fe7gb23dgdca1505d4606" version="1">腐蚀之躯</content>
+    <content contentuid="ha79f73a1ge275g441fga192g4393ea9d1d08" version="1">你呼出腐蚀性气体，酸性分泌物覆盖你的皮肤，将你变成一个活酸生物。</content>
+    <content contentuid="h857604dag5a3cg4964g9d42g7605f8f41fa3" version="1">宇宙形态</content>
+    <content contentuid="h44821b9egb91cg4450g96dcg1019ca9c9237" version="1">变成一个巨大的宇宙生物</content>
+    <content contentuid="had104b74gcc69g4a5cga584g22e3daf28a49" version="1">太阳形态</content>
+    <content contentuid="h2d8f16c2g72f3g47b9g845dgea08fc9d9a40" version="1">变成太阳的化身</content>
+    <content contentuid="h8a722232gec95g45dbgb79agd3e7013b568a" version="1">月亮形态</content>
+    <content contentuid="h0ba263fdg6c2cg48d2g9604g7d15a8cb4ec5" version="1">变成月亮的化身</content>
+    <content contentuid="h6b7d00d8g22f3g4a27gb3a8g32741d22e0ed" version="1">日食爆发</content>
+    <content contentuid="h2f918d78g7f72g448eg80degbad0e2fa72b7" version="1">一个冻结黑暗的球体在区域内爆发，对区域内的生物造成[1]伤害，并对活生物额外造成[2]伤害。该区域随后被黑暗笼罩。</content>
+    <content contentuid="hbb9b842cg89e9g4c5ag8556gefe12b264b69" version="1">能量庇护</content>
+    <content contentuid="h0b213dc8g838bg4869g9165gb879613278a3" version="1">你减少[1]元素、力场、负能量和辐射伤害。</content>
+    <content contentuid="h51070eb0g205eg4165g9aa8g511c46c70b38" version="1">迷人的眼睛</content>
+    <content contentuid="h4e839cfdga83eg426dg8aa3g6332b46ddf37" version="1">你的眼睛发出迷人的光辉，使看到你目光的生物着迷。9米内的生物在智力豁免失败时会被震慑。</content>
+    <content contentuid="h408379bag310eg48bdg9cd4gf352a664d30b" version="1">迷人的眼睛 - 凝视</content>
+    <content contentuid="ha6ab99feg5cb6g411dga088g9b5441e699db" version="1">你集中目光在一个生物上，它必须进行智力豁免，就像它在9米内一样。如果目标已经被震慑，它会被瘫痪。</content>
+    <content contentuid="h46b314fagb02cg4b9bgb271gf11d0c6d5f82" version="1">月亮爆发</content>
+    <content contentuid="h23d96bbfg12bbg4102g93bcg3b349b4a937f" version="1">一个强大的冰冷月光球体在区域内爆发，对区域内的生物和物体造成[1]伤害，并对不死生物额外造成[2]伤害。</content>
+    <content contentuid="hfda82edcg3a4cg4adbga720g874aef229862" version="1">棱光护甲</content>
+    <content contentuid="h7ba5ad28gef4bg4f9bg9867gec9a85686bf6" version="1">你用多彩的光芒包裹目标，充当能量护盾。在持续时间内，攻击者在成功的体质豁免上会被目眩，失败则会被致盲。</content>
+    <content contentuid="h7dc1a234g64b8g41efg9601ge253e8139989" version="1">再生术</content>
+    <content contentuid="ha8fadb1cg9058g4978gb002g05ddb7a38a80" version="1">正能量的注入使生物持续治疗。目标在每个回合开始时恢复[1]生命值。在再生期间，目标不会因伤害而死亡。如果目标受到酸或火焰伤害，其再生效果会在其下一个回合结束前失效。</content>
+    <content contentuid="h4a7f5c2bg6eadg4cd0gb622gbd0147e0d2d1" version="1">系统冲击</content>
+    <content contentuid="h8182a3adg020ag4c2dg9759g1cf5951f78f7" version="1">一片密集的雷云降临并填满目标的空间，然后发射一股复苏的闪电到目标身上。如果目标死亡，目标会复活，恢复8d8生命值，并且迅捷1分钟。</content>
+    <content contentuid="hb8ff0733g8285g4e35g8f34g8a417f947c86" version="1">雷霆打击 - 系统冲击</content>
+    <content contentuid="h48ee3c86gd02eg47aegaaccgea04ad238958" version="1">你挥舞巨大的武器，创造一波音波震动，击倒生物。</content>
+    <content contentuid="hab833f47g6218g408fgb0c6g40321334b65c" version="1">系统冲击</content>
+    <content contentuid="h1c2f72b4g233dg4becga9e3g442a1d9374d9" version="1">你可以施放雷霆打击。</content>
+    <content contentuid="hf263d2a3g3dbdg47e4g9f3cg38445c6c91c0" version="1">真目标</content>
+    <content contentuid="hac10457bg140ag472ega66dge7bc8a497a63" version="1">你深入探究接下来的几秒钟可能发生的所有未来，了解敌人可能躲避伤害的所有方式，然后将这一未来的幻象传递给周围的人。对目标生物的攻击具有优势，并在命中时视为暴击。</content>
+    <content contentuid="hdcbdb4f1g6dc3g4162gb9d5gd8f94d1cb199" version="1">催眠恐惧</content> ================ 8级 ================
+    <content contentuid="he5e29b79ga1a6g48c3g8b04g3daf4cc5cd93" version="1">你将一波噩梦般的幻象传递给目标，使其因恐惧而瘫痪。这些幻象对易受伤的目标造成真实的伤害，造成[1]伤害。</content>
+    <content contentuid="hb083f29bge0aeg4055g9ac7gbd90e7200d24" version="1">迷宫</content>
+    <content contentuid="hce8c8df1g65ddg4c8fg97bbg3b953a78f77b" version="1">你将目标传送到一个异度空间的迷宫中并困住它。每轮一次，目标可以花费一个动作进行生存检定或感知检定，对抗你的法术DC，以尝试逃出迷宫。</content>
+    <content contentuid="h6ee65becga462g4629ga5d8g345ccdcc36b5" version="1">迷宫 - 被困</content>
+    <content contentuid="h0968372bg2a0bg4e5eg8326g788a56b6f742" version="1">被困在迷宫中，可以通过成功的生存检定找到正确的路径。</content>
+    <content contentuid="he9b2f69ag08aag47b7g8161gf60f1cbea08e" version="1">迷宫 - 在正确的路径上</content>
+    <content contentuid="h40d54bebgf71dg4812g8f25g0335f9e779a7" version="1">在正确的路径上可以通过成功的生存检定逃离迷宫，失败则失去正确的路径。</content>
+    <content contentuid="hcb55beaeg7dcdg4f79gb781g33bfbb00730d" version="1">迷宫 - 技术</content>
+    <content contentuid="h66c391f9g1cdcg4b66gada2geabfffb32941" version="1">在迷宫中。</content>
+    <content contentuid="h25507e3fgdff9g4bf3gb9dcgc3020d765ebc" version="1">更新时刻</content>
+    <content contentuid="h55c36050gdba0g40f8g87fbg993181119aa1" version="1">目标在瞬间体验一天的恢复。你不能恢复3级以上的法术位。</content>
+    <content contentuid="hebffa62cg9e55g4610g9515gbc3c2133cccb" version="1">怪物形态</content>
+    <content contentuid="hcfbe7ccagf075g4e24g897fge981917642fd" version="1">变成一只土鲨或钩爪恐兽</content>
+    <content contentuid="he1e72295gfdb2g4110gb5a3gebcc9f5accbd" version="1">土鲨形态</content>
+    <content contentuid="h27e3591dg0757g4636gab12gb0c5180d8e0e" version="1">变成一只土鲨</content>
+    <content contentuid="h83519b3fg0162g4934ga16dgf1e6cdaf44c2" version="1">可怜的鲁斯</content>
+    <content contentuid="h4edd7d12g4bd4g4e7ag9628g859be17d7b16" version="1">钩爪恐兽</content>
+    <content contentuid="h6e1fa53dg6cdcg4a25g9062g31dcb997e11a" version="1">召唤援军</content>
+    <content contentuid="hb429e02dgc246g43a4gbda9g848b2dc18052" version="1">变成一只钩爪恐兽</content>
+    <content contentuid="hd144d45dg546bg45f7gb66dgf3b3175d467a" version="1">极寒射线</content>
+    <content contentuid="hcff2b870gcc3eg42e4gb615gc26ad4e3f1a0" version="1">你发射一股蓝白色的极寒射线，对目标造成[1]伤害并使其被吸取。</content>
+    <content contentuid="h3d6be66fg7894g4be5ga082g23a65796ae3f" version="1">被吸取</content>
+    <content contentuid="h3176f31dga360g4f71g821eg5579de3d39b1" version="1">体质减少[1]。</content>
+    <content contentuid="h3bfa771eg7d43g4d47gb6cfg03d4b77c2716" version="1">召唤大法师</content>
+    <content contentuid="h099cd4cbgc17fg499cgac86gb5156c072f8f" version="1">你短暂地召唤出一位远古传奇巫师的灵魂</content>
+    <content contentuid="h365905cegb489g4f30g8826ged1b5dbee33c" version="1">召唤伊瑞</content>
+    <content contentuid="h4d3e045eg8206g4d86ga95cg4e6012dff0d0" version="1">你短暂地召唤命运或幸运的灵魂。</content>
+    <content contentuid="h2f6fee29g4101g462eg928bg7ec1ef12c0b4" version="1">命运光环</content>
+    <content contentuid="h9d64c8aegbc64g4c3fg81f9g932809a8814d" version="1">在9米内向朋友和敌人投射命运光环</content>
+    <content contentuid="hbde37647g8218g4e90gb883g02ca70ed4bd5" version="1">你的攻击检定、豁免检定和技能检定不低于10。</content>
+    <content contentuid="h5c589ac4g46e6g45c1gaf95gb60cb5d526a1" version="1">你的攻击检定、豁免检定和技能检定受到-3罚值（这相当于将10以上的结果视为10）。</content>
+    <content contentuid="h016bf6e2gffffg44eag9e29g10a96788a5bb" version="1">幸运光环</content>
+    <content contentuid="h5bb14a23gfac5g41d2ga901g36a8fc8231c6" version="1">在9米内向朋友和敌人投射幸运光环</content>
+    <content contentuid="h9cf02a88g098ag412dgbf13gf61a95a7c4ed" version="1">你在所有攻击检定、豁免检定和技能检定上有优势。</content>
+    <content contentuid="he13aaa8cg09a6g4280ga7ecg3b76e6dea5b2" version="1">你在所有攻击检定、豁免检定和技能检定上有劣势。</content>
+    <content contentuid="hf817c113g86d1g47c2gbd81gcf9fd21c8e5e" version="1">召唤伊瑞 - 命运</content>
+    <content contentuid="h2bfc7d25g6e0eg4799gaeacg0d929df487fe" version="1">召唤命运灵魂。9米内的盟友将低于10的攻击检定、豁免检定和技能检定视为10，敌人将10或以上的结果视为10（相当于-3罚值）。</content>
+    <content contentuid="h7128de4ag14ebg49f2g9eb4gffe9b6390cb8" version="1">召唤伊瑞 - 幸运</content>
+    <content contentuid="h60b15f8cgac97g4c5ag8544gabfa71972874" version="1">召唤幸运灵魂。9米内的盟友在攻击检定、豁免检定和技能检定上有优势，敌人有劣势。</content>
+    <content contentuid="h86f43617gf156g49c3g91efgf31e376c0ba5" version="1">召唤神使</content>
+    <content contentuid="h04df7954gf1d4g4200ga3e7g540bb253b971" version="1">你的信仰足够强大，可以短暂召唤出你神祇的直接代表，如神祇的使者。法术的效果将取决于你的神祇的阵营。</content>
+    <content contentuid="h00212c9dg16bbg4754g90ccg1967e8d247e0" version="1">神使 - 善良</content>
+    <content contentuid="h9127719agd690g487cg8a2fge9e341324ea5" version="1">9米内的盟友获得反击反击反应。</content>
+    <content contentuid="h8743d21cg4958g4b4fgbfabgb478ff68bfc9" version="1">你获得反击反应。</content>
+    <content contentuid="h9117330dg8844g42bbgbf89g3553ab6cc6ab" version="1">神使 - 中立</content>
+    <content contentuid="hf45c5a33gde89g4bcfg9eeagf6db5f1aa4b5" version="1">9米内的盟友迅捷，减少20点负能量和辐射伤害。</content>
+    <content contentuid="h60ec2dbcg3df6g4c3fg9df6gd7555c2c0082" version="1">你迅捷，减少20点负能量和辐射伤害。</content>
+    <content contentuid="habce79bbg9d59g46b9g98e1g7e8ee615a56b" version="1">神使 - 邪恶</content>
+    <content contentuid="h04569cc2gbff7g4f44ga60eg763d88ce13a7" version="1">9米内的盟友获得铁命令反应。</content>
+    <content contentuid="ha32fe05fg758cg4f06g91fag52ca8e1ea8bf" version="1">你获得铁命令反应。</content>
+    <content contentuid="hc9f2a84fg4ad4g4205g91f8g48ef78fb2ee2" version="1">反击反应</content>
+    <content contentuid="h842aa98egdd5fg4b47g947fg845a16b1a6a1" version="1">你保护你的盟友并打击你的敌人。盟友对触发伤害获得抗性，你可以对敌人进行近战打击。</content>
+    <content contentuid="h9b25fd96g20cag4bc7ga8b0gebfb9f44113e" version="1">铁命令</content>
+    <content contentuid="h9efcd893gcfffg4e3fgb5f3gdc6060df110c" version="1">你将敢于伤害你的敌人放置于其适当的位置。你命令你的敌人跪在你面前服从。</content>
+</contentList>

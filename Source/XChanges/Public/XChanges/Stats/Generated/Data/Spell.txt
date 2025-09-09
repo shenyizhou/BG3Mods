@@ -1,5 +1,0 @@
-new entry "Target_BoomingBlade"
-type "SpellData"
-data "SpellType" "Target"
-using "Target_BoomingBlade"
-data "Icon" "Spell_Evocation_BoomingBlade"

@@ -1,0 +1,29 @@
+{
+  "name": "bg3-mod-scaffold",
+  "version": "1.0.0",
+  "description": "BG3模组脚手架生成器",
+  "main": "bg3-mod-scaffold.js",
+  "bin": {
+    "bg3-scaffold": "./Scripts/bg3-mod-scaffold.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "new": "node ./Scripts/bg3-mod-scaffold.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenyizhou/BG3Mods.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shenyizhou/BG3Mods/issues"
+  },
+  "homepage": "https://github.com/shenyizhou/BG3Mods#readme",
+  "dependencies": {
+    "fs-extra": "^11.3.1",
+    "inquirer": "^8.2.7",
+    "uuid": "^13.0.0"
+  }
+}

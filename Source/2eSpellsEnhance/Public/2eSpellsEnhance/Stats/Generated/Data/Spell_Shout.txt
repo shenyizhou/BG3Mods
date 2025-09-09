@@ -1,0 +1,30 @@
+// 10->-1
+new entry "Shout_ConductiveWeapon"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_ConductiveWeapon"
+data "SpellProperties" "ApplyEquipmentStatus(MainHand,CONDUCTIVE_WEAPON,100,-1);ApplyStatus(SELF,CONDUCTIVE_WEAPON_CRITICAL,100,-1)"
+data "TooltipStatusApply" "ApplyStatus(CONDUCTIVE_WEAPON,100,-1)"
+
+// 10->-1
+new entry "Shout_FleetStep"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_FleetStep"
+data "SpellProperties" "ApplyStatus(FLEETSTEP,100,-1)"
+data "TooltipStatusApply" "ApplyStatus(FLEETSTEP,100,-1)"
+
+// 1->10
+new entry "Shout_GlassShield"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_GlassShield"
+data "SpellProperties" "ApplyStatus(GLASS_SHIELD,100,10)"
+data "TooltipStatusApply" "ApplyStatus(GLASS_SHIELD,100,10)"
+
+// ActionPoint->BonusActionPoint
+new entry "Shout_WarpStep"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_WarpStep"
+data "UseCosts" "BonusActionPoint:1"
