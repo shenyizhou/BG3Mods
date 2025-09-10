@@ -1,0 +1,5 @@
+new entry "EnhanceIntelligence"
+type "PassiveData"
+data "DisplayName" "h633cc555g5e2ag4d40g9104g6c0f858bc939;1"
+data "Description" "hfe9ebdd2ge744g432cgb4f1g34bfca880d54;1"
+data "Boosts" "IF(not CharacterLevelGreaterThan(4) and not AbilityGreaterThan(Ability.Intelligence,21)):AbilityOverrideMinimum(Intelligence,22);IF(CharacterLevelGreaterThan(4) and not CharacterLevelGreaterThan(8) and not AbilityGreaterThan(Ability.Intelligence,23)):AbilityOverrideMinimum(Intelligence,24);IF(CharacterLevelGreaterThan(8) and not CharacterLevelGreaterThan(12) and not AbilityGreaterThan(Ability.Intelligence,25)):AbilityOverrideMinimum(Intelligence,26);IF(CharacterLevelGreaterThan(12) and not CharacterLevelGreaterThan(16) and not AbilityGreaterThan(Ability.Intelligence,27)):AbilityOverrideMinimum(Intelligence,28);IF(CharacterLevelGreaterThan(16) and not AbilityGreaterThan(Ability.Intelligence,29)):AbilityOverrideMinimum(Intelligence,30)"

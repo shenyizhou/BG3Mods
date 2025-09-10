@@ -1,6 +1,0 @@
-new entry "Shout_BladeWard"
-type "SpellData"
-data "SpellType" "Shout"
-using "Shout_BladeWard"
-data "SpellProperties" "ApplyStatus(BLADE_WARD,100,-1)"
-data "TooltipStatusApply" "ApplyStatus(BLADE_WARD,100,-1)"

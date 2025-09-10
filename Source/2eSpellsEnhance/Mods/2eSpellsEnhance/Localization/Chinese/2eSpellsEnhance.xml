@@ -58,7 +58,6 @@
     <content contentuid="h17bc7eb4g114cg4d59g87cfge3d9aa64e1f2" version="1">寒冰射线 HB</content>
     <content contentuid="h4044c1dfg0c42g4a26g92acgba40bd7ded4f" version="1">你投掷出一道寒冰射线，命中时造成 [1] 点伤害，并减少目标的移动速度 [2]。</content>
     <content contentuid="h4cbbcf43g245fg44c4gb318g5a4555b32318" version="1">警告射线</content>
-    <!-- ================ 1st LEVEL ================ -->
     <content contentuid="h369c2c34ga984g45c0gba8fgefacf735c141" version="1">一道能量射线将目标击晕，但不会造成持久伤害。</content>
     <content contentuid="hf56915a6ge344g4f61gaa78g7b6155eb679e" version="1">空气爆裂</content>
     <content contentuid="hb44b75c9g386dg4c37gbae3g2f78cd4a958f" version="1">在你周围制造一股空气爆炸，将 [1] 范围内的生物推回 [2]。</content>
@@ -449,7 +448,7 @@
     <content contentuid="h5a4cf921g8d36g414dg9eefg44afe3a14ccc" version="1">用生命灯塔治疗你的目标</content>
     <content contentuid="h464404c4g320fg4ab5g995ag298cd6c2a819" version="1">微风滑行</content>
     <content contentuid="h25daf8f9gce61g42fbgb49cg48118f583454" version="1">一阵令人惊叹的微风立即将你带离危险。你飞行[1]，直接远离触发生物。</content>
-    <content contentuid="h8cfb74e2gb38eg482cg998bg5bfc3803aa14" version="1">畸形形态</content> ======================= 5级 ============================
+    <content contentuid="h8cfb74e2gb38eg482cg998bg5bfc3803aa14" version="1">畸形形态</content>
     <content contentuid="hde376fa5g491bg425dg9fa6g73969be94589" version="1">变成一个心灵魔或披风怪</content>
     <content contentuid="h8455f9ffg536cg40bfga983g220926421694" version="1">心灵魔形态</content>
     <content contentuid="h833d6937g09b6g4cd1g98cbg5ba5db432a3e" version="1">披风怪形态</content>
@@ -507,7 +506,7 @@
     <content contentuid="h5fa38ab2gecfcg47deg94d7gbfb28648c74a" version="1">火焰环绕目标的双手和双脚，目标的眼睛和头发燃烧起来。目标的徒手打击额外造成[1]伤害。用这些打击造成暴击还会造成每轮[2]伤害。此外，当目标试图恐吓敌人时，可以用表演代替威吓。</content>
     <content contentuid="h4791718eg5107g4210gacb1gba2005d4efb6" version="1">火焰舞动</content>
     <content contentuid="h1ca27513ge48eg49b8ga892gd2dd09f37fe4" version="1">徒手打击额外造成[1]伤害，暴击时每轮额外造成[2]伤害。</content>
-    <content contentuid="h7969f706g9f62g4c7bg8818gaa23fb439a85" version="1">星空斗篷</content> ======================= 6级 ============================
+    <content contentuid="h7969f706g9f62g4c7bg8818gaa23fb439a85" version="1">星空斗篷</content>
     <content contentuid="hf7c5b2f8g9546g4acdgb8abg1839111e9be3" version="1">一件充满微弱星光的漆黑斗篷披在你身上，赋予你宇宙的静谧，使你获得高级隐形效果。在法术持续时间内，你可以每轮施放一次3级魔法飞弹。</content>
     <content contentuid="hcf220e48g31c0g4bb6g956bgd4fd3e31a6cc" version="1">星空斗篷</content>
     <content contentuid="h21eb331agf2f2g4729g92afgf32aa199fdfe" version="1">高级隐形并且可以在每个回合施放3级魔法飞弹。</content>
@@ -557,7 +556,7 @@
     <content contentuid="h4ae97cb6gc677g48begac10gd6e4e672194a" version="1">神圣武器</content>
     <content contentuid="h1f1912f7g6bdeg4ff3g9c5ag6ccbbf4430a6" version="1">你受到的物理伤害减少[1]，额外移动[2]，你的AC变为[3]+敏捷，并获得运动专长。</content>
     <content contentuid="hc00dfb6dgc5b9g4d52g819bgf2ecd44bf5c7" version="1">解除正义力量</content>
-    <content contentuid="h14aca66ag20dfg4f2eg8064ga546b846ee45" version="1">天使形态</content> ======================= 7级 ============================
+    <content contentuid="h14aca66ag20dfg4f2eg8064ga546b846ee45" version="1">天使形态</content>
     <content contentuid="h3fcdb7ffg9eadg438bg9773g5e566443df2c" version="1">变成一个天使</content>
     <content contentuid="h2bedf8ffg0d9dg42b5g94d2gb1e30159c4e8" version="1">天使大剑</content>
     <content contentuid="h1caee296g7a61g47bdgb451gc7a312571672" version="1">天使大剑</content>

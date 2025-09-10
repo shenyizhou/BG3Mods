@@ -15,7 +15,7 @@
           <attribute id="MD5" type="LSWString" value="" />
           <attribute id="MainMenuBackgroundVideo" type="FixedString" value="" />
           <attribute id="MenuLevelName" type="FixedString" value="" />
-          <attribute id="Name" type="FixedString" value="NeahMonkOutfitEnhance" />
+          <attribute id="Name" type="FixedString" value="Neah Monk Outfit Enhance" />
           <attribute id="NumPlayers" type="uint8" value="4" />
           <attribute id="PhotoBooth" type="FixedString" value="" />
           <attribute id="StartupLevelName" type="FixedString" value="" />

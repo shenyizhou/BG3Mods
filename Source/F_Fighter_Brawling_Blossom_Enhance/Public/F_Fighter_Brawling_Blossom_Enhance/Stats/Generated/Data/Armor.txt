@@ -1,0 +1,9 @@
+new entry "Item_ChunLi_C1_Body"
+type "Armor"
+using "Item_ChunLi_C1_Body"
+data "PassivesOnEquip" "EnhanceIntelligence;MAG_OfArcanicDefense_Robe_Passive"
+
+new entry "Item_ChunLi_C1_Body_Iso"
+type "Armor"
+using "Item_ChunLi_C1_Body_Iso"
+data "PassivesOnEquip" "EnhanceIntelligence;MAG_OfArcanicDefense_Robe_Passive"
