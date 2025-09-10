@@ -1,0 +1,31 @@
+treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_Item_ChunLi_C1_Body_Iso",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Item_ChunLi_C1_Body",1,0,0,0,0,0,0,0
+new treasuretable "HAV_HarperQuarterMaster"
+CanMerge 1
+new subtable "1,1"
+object category "I_Item_ChunLi_C1_Body_Iso",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Item_ChunLi_C1_Body",1,0,0,0,0,0,0,0
+new treasuretable "LOW_Figaro_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_Item_ChunLi_C1_Body_Iso",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Item_ChunLi_C1_Body",1,0,0,0,0,0,0,0
+new treasuretable "DEN_Entrance_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_Item_ChunLi_C1_Body_Iso",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Item_ChunLi_C1_Body",1,0,0,0,0,0,0,0
+new treasuretable "WYR_OrinsImpersonation_Smith"
+CanMerge 1
+new subtable "1,1"
+object category "I_Item_ChunLi_C1_Body_Iso",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Item_ChunLi_C1_Body",1,0,0,0,0,0,0,0

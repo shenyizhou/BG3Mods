@@ -1,0 +1,12 @@
+new entry "Item_ChunLi_C1_Body"
+type "Armor"
+using "ARM_Monk"
+data "RootTemplate" "65b17f01-b284-43b4-afc5-1d7cfd74d021"
+data "Rarity" "VeryRare"
+
+new entry "Item_ChunLi_C1_Body_Iso"
+type "Armor"
+using "ARM_Monk"
+data "RootTemplate" "3c7c382f-e79b-4233-ad09-451f9ddf7d93"
+data "Rarity" "Uncommon"
+
