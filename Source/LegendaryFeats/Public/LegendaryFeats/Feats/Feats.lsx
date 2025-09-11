@@ -5,7 +5,6 @@
     <node id="root">
       <children>
         <node id="Feat">
-          <attribute id="CanBeTakenMultipleTimes" type="bool" value="true"/>
           <attribute id="Name" type="FixedString" value="LegendaryFeats_FastHands"/>
           <attribute id="PassivesAdded" type="LSString" value="FastHands"/>
           <attribute id="UUID" type="guid" value="c1df78cd-a14d-4768-8267-c2ff4145ddf6"/>
@@ -87,7 +86,6 @@
           <attribute id="UUID" type="guid" value="e4c54ead-9331-435f-8aa8-034ee3aabaf3"/>
         </node>
         <node id="Feat">
-          <attribute id="CanBeTakenMultipleTimes" type="bool" value="true"/>
           <attribute id="Name" type="FixedString" value="LegendaryFeats_ViciousAttack"/>
           <attribute id="PassivesAdded" type="LSString" value="LegendaryFeats_ViciousAttack"/>
           <attribute id="UUID" type="guid" value="608aa13a-e97a-4e8b-a3b4-06fb312c840d"/>

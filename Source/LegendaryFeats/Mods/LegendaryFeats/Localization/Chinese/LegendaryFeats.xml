@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
 <contentList>
   <content contentuid="hdde6b8f8gf3f7g4cd5g81e9gd7cbfe304644" version="1">快手</content>
-  <content contentuid="hcd3fb78cgaff7g4eebg874bgd513d6446dc9" version="1">获得一个额外的&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;。此专长可以重复学习。</content>
+  <content contentuid="hcd3fb78cgaff7g4eebg874bgd513d6446dc9" version="1">获得一个额外的&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;。</content>
   <content contentuid="hd56e5c56g7c03g4296g8529gb01450e653e5" version="1">能力强化</content>
   <content contentuid="hd535bc4eg6289g49a0gb0fdgcbaccaf5f58b" version="1">从力量、敏捷、魅力中选择一项强化。</content>
   <content contentuid="hf8aea69bg477ag4cc9g93f2g8ed85099c245" version="1">巨人力量</content>
@@ -46,7 +45,7 @@
   <content contentuid="h580b1639gcfc6g42a6gb255g713d28c48195" version="1">打出&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时，额外造成 1d6 点力场伤害(A类附伤)。该效果会随着等级提升而增加。</content>
   <content contentuid="h988baf40gdbdbg4f6bga778g51839c24a144" version="1">打出&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时，额外造成 [1] 点力场伤害(A类附伤)。该效果会随着等级提升而增加。</content>
   <content contentuid="h0e6155e7g8fe2g40b2ga343g1325509e760e" version="1">悲惨重击</content>
-  <content contentuid="h6a38e0cfgb8acg4ea0gbb8cgcb5cdfe60ca8" version="1">打出&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时，额外造成 7 点伤害(B类附伤)。此专长可以重复学习。</content>
+  <content contentuid="h6a38e0cfgb8acg4ea0gbb8cgcb5cdfe60ca8" version="1">打出&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;时，额外造成 7 点伤害(B类附伤)。</content>
   <content contentuid="h90f52acfg2f5dg4582gaf2eg9fdee35c929c" version="1">精通重击</content>
   <content contentuid="h778d413cg0142g41e5g9e89g645191486c18" version="1">你进行&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;时，触发&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;所需的点数-1。此效果可以叠加。此专长可以重复学习。</content>
   <content contentuid="hd5ec8398gfba7g4fcdg8999g396f458bfb40" version="1">精准射击</content>
