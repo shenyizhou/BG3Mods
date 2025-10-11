@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Wisdom;Constitution"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="OriginUUID" type="guid" value="2bb39cf2-4649-4238-8d0c-44f62b5a3dfd"/>
+                    <attribute id="SelectorId" type="LSString" value="AbilityBonus"/>
+                    <attribute id="TableUUID" type="guid" value="460d52e1-65b9-404a-80a4-89fa82edb725"/>
+                    <attribute id="UUID" type="guid" value="1c353e45-b29d-4c87-98ce-efaf4a48c358"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Intelligence;Dexterity"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="AbilityBonus"/>
+                    <attribute id="TableUUID" type="guid" value="c723948e-bdaf-4dca-9bc9-f00402e4c7e5"/>
+                    <attribute id="UUID" type="guid" value="a56a1256-ffc0-4bba-9b0e-80c0ad50f82b"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Charisma;Dexterity"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="AbilityBonus"/>
+                    <attribute id="TableUUID" type="guid" value="e00bd9ee-bd20-468f-ad95-450bacb7604d"/>
+                    <attribute id="UUID" type="guid" value="8800bc1d-3b8f-4ac6-b06f-f902e1cb4859"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Strength;Constitution"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="AbilityBonus"/>
+                    <attribute id="TableUUID" type="guid" value="fef90694-423e-4069-b0e7-066a242b8eec"/>
+                    <attribute id="UUID" type="guid" value="10639086-40f0-4bc6-ac98-41c32316e10a"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Constitution;Strength"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="AbilityBonus"/>
+                    <attribute id="TableUUID" type="guid" value="ed4d2a5a-14a5-45c4-bf20-2b959905f254"/>
+                    <attribute id="UUID" type="guid" value="2ae5d485-60d3-4eda-95ef-d0155ef98142"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Charisma;Dexterity"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="AbilityBonus"/>
+                    <attribute id="TableUUID" type="guid" value="7cf609a9-a8ca-4f4d-bed4-0094778fb0fd"/>
+                    <attribute id="UUID" type="guid" value="ab39e408-29a8-4876-8f95-be8dad1ac253"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

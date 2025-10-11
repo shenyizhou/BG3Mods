@@ -1,0 +1,34 @@
+//-----------------------------------------------------------------------------------------------------------------------------------------
+//Karlach
+//-----------------------------------------------------------------------------------------------------------------------------------------
+new entry "Siael_Karlach"
+type "PassiveData"
+data "DisplayName" "ha8808f02ge755g4bb3g89dbg7f166c9ee165;1"
+data "Description" "h30e165ebg9d58g4c87gb5e9g68e37e186e86;1"
+data "LoreDescription" "ha2fce863gaed3g4b4dga3fdgdc2deea48c11;1"
+data "Icon" "I_Karlach"
+data "StatsFunctorContext" "OnCreate"
+data "StatsFunctors" "IF(not HasStatus('SIAEL_KARLACH_COINS')):ApplyStatus(SIAEL_KARLACH_COINS,100,1)"
+data "Boosts" "Skill(Survival,ProficiencyBonus);Skill(Athletics,ProficiencyBonus)"
+data "Properties" "Highlighted"
+
+new entry "SIAEL_KARLACH_COINS"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h97ba760cg108bg4f7ag97b0g0fb25d6e1744;1"
+data "Description" "hd5c2d3a9g6b9cg45c3g81bfgb44b1619735b;1"
+data "DescriptionParams" "DealDamage(1,Fire)"
+data "ExtraDescription" "hb355edcfg1a97g4b1fg9189gb45fd3c5a719;1"
+data "Icon" "Item_QUEST_GLO_SoulCoin"
+data "StackId" "SIAEL_SORCERERS_FURY_BOOST"
+data "StackType" "Additive"
+data "Passives" "Siael_Karlach_Coins"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;FreezeDuration;IgnoreResting;ApplyToDead"
+
+new entry "Siael_Karlach_Coins"
+type "PassiveData"
+data "StatsFunctorContext" "OnStatusApplied"
+data "Conditions" "StatusId('ORI_KARLACH_INFERNAL_FURY')"
+data "StatsFunctors" "ApplyStatus(SIAEL_KARLACH_COINS,100,1)"
+data "Boosts" "IF(IsMeleeAttack() and not HasPassive('ORI_Karlach_FirstUpgrade',context.Source) and not HasPassive('ORI_Karlach_SecondUpgrade',context.Source)):DamageBonus(SIAEL_KARLACH_COINS.Duration/4,Fire);IF(IsMeleeAttack() and HasPassive('ORI_Karlach_FirstUpgrade',context.Source) and not HasPassive('ORI_Karlach_SecondUpgrade',context.Source)):DamageBonus(1+(SIAEL_KARLACH_COINS.Duration/4),Fire);IF(IsMeleeAttack() and HasPassive('ORI_Karlach_SecondUpgrade',context.Source)):DamageBonus(2+(SIAEL_KARLACH_COINS.Duration/4),Fire);IF(not HasPassive('ORI_Karlach_FirstUpgrade') and not HasPassive('ORI_Karlach_SecondUpgrade')):DamageReduction(Fire,Flat,SIAEL_KARLACH_COINS.Duration/4);IF(HasPassive('ORI_Karlach_FirstUpgrade') and not HasPassive('ORI_Karlach_SecondUpgrade')):DamageReduction(Fire,Flat,1+(SIAEL_KARLACH_COINS.Duration/4));IF(HasPassive('ORI_Karlach_SecondUpgrade')):DamageReduction(Fire,Flat,2+(SIAEL_KARLACH_COINS.Duration/4))"
+

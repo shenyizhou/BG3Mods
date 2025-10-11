@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ActionResourceDefinitions">
+    <node id="root">
+      <children>
+        <node id="ActionResourceDefinition">
+            <attribute id="Description" type="TranslatedString" handle="ha5746c7dg0652g4345g9df0g58f76be58e40" version="1" />
+            <attribute id="DisplayName" type="TranslatedString" handle="ha5746c7dg0652g4345g9df0g58f76be58e40" version="1" />
+            <attribute id="Error" type="TranslatedString" handle="hea9d4496g788ag4a57gb9degb995324381b7" version="1" />
+            <attribute id="MaxLevel" type="uint32" value="0" />
+            <attribute id="MaxValue" type="uint32" value="3" />					
+            <attribute id="Name" type="FixedString" value="SiaelVampireRes" />
+            <attribute id="ReplenishType" type="FixedString" value="Turn" />
+            <attribute id="ShowOnActionResourcePanel" type="bool" value="false" />
+            <attribute id="UUID" type="guid" value="b620f2ca-2b6b-49e7-91e2-3df0bfee03bd" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

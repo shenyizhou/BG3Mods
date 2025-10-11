@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="400"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Projectile_FireBolt;Target_MageHand;Projectile_RayOfFrost;Shout_FalseLife;Target_Grease;Target_Longstrider;Target_MageArmor;Projectile_MagicMissile;Shout_Shield_Wizard"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="OriginUUID" type="guid" value="35c3caad-5543-4593-be75-e7deba30f062"/>
+                    <attribute id="TableUUID" type="guid" value="c723948e-bdaf-4dca-9bc9-f00402e4c7e5"/>
+                    <attribute id="UUID" type="guid" value="7c0e63c3-791a-43ed-92fe-aa2514b43cf9"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Target_Guidance;Target_SacredFlame;Shout_BladeWard"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="OriginUUID" type="guid" value="2bb39cf2-4649-4238-8d0c-44f62b5a3dfd"/>
+                    <attribute id="TableUUID" type="guid" value="460d52e1-65b9-404a-80a4-89fa82edb725"/>
+                    <attribute id="UUID" type="guid" value="a7bb56c5-f6bd-4a00-8b34-6aabe7546805"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Shout_ProduceFlame"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="RangerCantrips"/>
+                    <attribute id="TableUUID" type="guid" value="8f068974-ed32-43fc-a9d9-028be1c01a9c"/>
+                    <attribute id="UUID" type="guid" value="f03ee5bf-d3e4-402a-b8c6-9ff53b877f87"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

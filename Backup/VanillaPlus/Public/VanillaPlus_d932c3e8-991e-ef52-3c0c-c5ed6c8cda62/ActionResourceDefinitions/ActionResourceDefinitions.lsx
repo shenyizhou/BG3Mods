@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="400"/>
+    <region id="ActionResourceDefinitions">
+        <node id="root">
+            <children>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="h8e8f6f4eg7ffagcd9cgf7c1g9bc1f885f09d" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="he612a82agd418g0f2bgae0ege7f3a4ee2b69" version="1"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="ChannelOath"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="c0503ecf-c3cd-4719-9cfd-05460a1db95a"/>
+                </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2e8d5f9fg429aga855gf1c8gb59e13aa494f" version="1"/>
+                    <attribute id="IsHidden" type="bool" value="true"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="SneakPoint"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Turn"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+                    <attribute id="UUID" type="guid" value="64e81b6d-a805-4b59-b314-46f6c70639cd"/>
+                </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h59f48a22g012eg5629g75c7g646a6dfdaf91" version="1"/>
+                    <attribute id="IsHidden" type="bool" value="true"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="JumpPoint"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+                    <attribute id="UUID" type="guid" value="f9c83cb7-760b-4a9e-a668-74e81edb53af"/>
+                </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3dc78623g1d38gb0b1g7273ge1aca61e1070" version="1"/>
+                    <attribute id="IsHidden" type="bool" value="true"/>
+                    <attribute id="MaxValue" type="uint32" value="1"/>
+                    <attribute id="Name" type="FixedString" value="SneakAttack_Charge"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Turn"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+                    <attribute id="UUID" type="guid" value="1531b6ec-4ba8-4b0d-8411-422d8f51855f"/>
+                </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hbda12830gac20g3555ge995ge52bc562bbb4" version="1"/>
+                    <attribute id="IsHidden" type="bool" value="true"/>
+                    <attribute id="MaxValue" type="uint32" value="1"/>
+                    <attribute id="Name" type="FixedString" value="InstinctCastPoint"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Turn"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+                    <attribute id="UUID" type="guid" value="fd006d56-11fc-41bd-9162-2c7daf5804ce"/>
+                </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="h06e4cbb6gfae2g7e9dgb321ge4b89b760c35" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf4f1e0e9gcb25g60e4g670egf5607a746cb0" version="1"/>
+                    <attribute id="Name" type="FixedString" value="InstinctPoint"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="3793ffa9-6a5c-4ca2-bcec-1c0ef4835e86"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

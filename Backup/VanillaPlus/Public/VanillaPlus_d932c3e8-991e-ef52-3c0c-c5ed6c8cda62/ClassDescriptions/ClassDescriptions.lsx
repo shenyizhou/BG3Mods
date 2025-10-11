@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="ClassDescriptions">
+        <node id="root">
+            <children>
+                <node id="ClassDescription">
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="Description" type="TranslatedString" handle="h52a8efcbg0f89g4002g13b8g1208e9b8e2e2" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hda99f403g93ccg4ee6ged3egddd6321ca334" version="1"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="Name" type="FixedString" value="FourElements"/>
+                    <attribute id="ParentGuid" type="guid" value="c4598bdb-fc07-40dd-a62c-90cc138bd76f"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="5"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="6c9fac23-d01a-4e0d-bfb1-28bed5581ee2"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Monk"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
+                    <attribute id="UUID" type="guid" value="22894c32-54cf-49ea-b366-44bfcf01bb2a"/>
+                </node>
+                <node id="ClassDescription">
+                    <attribute id="BaseHp" type="int32" value="8"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="CC_Shadowheart"/>
+                    <attribute id="ClassHotbarColumns" type="int32" value="5"/>
+                    <attribute id="CommonHotbarColumns" type="int32" value="9"/>
+                    <attribute id="Description" type="TranslatedString" handle="h086f6c73g9ca8gb9d8g7897gfe2cbd777b70" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf0dc8b64gc8e7gf74dg2879g3800c17a15f6" version="1"/>
+                    <attribute id="HpPerLevel" type="int32" value="5"/>
+                    <attribute id="ItemsHotbarColumns" type="int32" value="2"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MulticlassSpellcasterModifier" type="double" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="DaughterOfDarkness"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="5"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="460d52e1-65b9-404a-80a4-89fa82edb725"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Cleric"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
+                    <attribute id="UUID" type="guid" value="d4dc2e46-b215-47f8-b02e-533a254b54e4"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="1671b4bf-4f47-4bb7-9cb9-80bb1f6009d5"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="6d85ab2d-5c23-498c-a61e-98f05a00177a"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="ClassDescription">
+                    <attribute id="BaseHp" type="int32" value="6"/>
+                    <attribute id="CanLearnSpells" type="bool" value="true"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="CC_Gale"/>
+                    <attribute id="ClassHotbarColumns" type="int32" value="5"/>
+                    <attribute id="CommonHotbarColumns" type="int32" value="9"/>
+                    <attribute id="Description" type="TranslatedString" handle="ha94d05e0g9206g7e6cg3778g06717038d92f" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb30fb7a8g77fag02e3gfd32g1f17106fcf62" version="1"/>
+                    <attribute id="HpPerLevel" type="int32" value="4"/>
+                    <attribute id="ItemsHotbarColumns" type="int32" value="2"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MulticlassSpellcasterModifier" type="double" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="OrbBearer"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="4"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="c723948e-bdaf-4dca-9bc9-f00402e4c7e5"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Wizard"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="4"/>
+                    <attribute id="UUID" type="guid" value="8de5c35f-7f2e-4e0e-a2eb-8d13216a3c36"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="6fe3ae27-dc6c-4fc9-9245-710c790c396c"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="ClassDescription">
+                    <attribute id="BaseHp" type="int32" value="8"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="CC_Wyll"/>
+                    <attribute id="ClassHotbarColumns" type="int32" value="5"/>
+                    <attribute id="CommonHotbarColumns" type="int32" value="9"/>
+                    <attribute id="Description" type="TranslatedString" handle="h15df49e8ge797g7a97gb9b2g22f9ecbe016d" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf04f492fg3a84g4246g8458g4f8b0aa94a93" version="1"/>
+                    <attribute id="HpPerLevel" type="int32" value="5"/>
+                    <attribute id="ItemsHotbarColumns" type="int32" value="2"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="BladeOfFrontiers"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="6"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="e00bd9ee-bd20-468f-ad95-450bacb7604d"/>
+                    <attribute id="ShortName" type="TranslatedString" handle="h3d8e4abag0e71g4079gac43g8f90c56bdd82" version="1"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Warlock"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="6"/>
+                    <attribute id="UUID" type="guid" value="f0351b2a-ae80-4ce7-bfdb-f478877c806b"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="5804f55a-93f7-4281-9512-8d548a9e2a22"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="fbe3ee5d-1bb8-4c0b-a18c-26386101a680"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="ClassDescription">
+                    <attribute id="BaseHp" type="int32" value="12"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="CC_Karlach"/>
+                    <attribute id="ClassHotbarColumns" type="int32" value="5"/>
+                    <attribute id="CommonHotbarColumns" type="int32" value="9"/>
+                    <attribute id="Description" type="TranslatedString" handle="h64d9bd41ge3cage348ge524g862252d8455a" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf16ea58bg26eag9352g3a3fgfbc8dce2c1c0" version="1"/>
+                    <attribute id="HpPerLevel" type="int32" value="7"/>
+                    <attribute id="ItemsHotbarColumns" type="int32" value="2"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="Name" type="FixedString" value="HeartOfFire"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="1"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="fef90694-423e-4069-b0e7-066a242b8eec"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Barbarian"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="3"/>
+                    <attribute id="UUID" type="guid" value="d185221e-834e-47d7-9898-69aed352bb63"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="02913f9a-f696-40cf-acdf-32032afab32c"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="ClassDescription">
+                    <attribute id="BaseHp" type="int32" value="10"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="CC_Laezel"/>
+                    <attribute id="ClassHotbarColumns" type="int32" value="5"/>
+                    <attribute id="CommonHotbarColumns" type="int32" value="9"/>
+                    <attribute id="Description" type="TranslatedString" handle="hd1e98eabgbbb3g500fg67fdg4d74282cbd58" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h60e22036g0987gae43g36a3g8f6b458249e7" version="1"/>
+                    <attribute id="HpPerLevel" type="int32" value="6"/>
+                    <attribute id="ItemsHotbarColumns" type="int32" value="2"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="Name" type="FixedString" value="AstralSoldier"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="1"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="ed4d2a5a-14a5-45c4-bf20-2b959905f254"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Fighter"/>
+                    <attribute id="UUID" type="guid" value="41cf83ee-0bc1-4900-839d-645c827dc837"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="1ae7017c-4884-4a43-bc4a-742fa0d201c0"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="ClassDescription">
+                    <attribute id="BaseHp" type="int32" value="8"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="CC_Astarion"/>
+                    <attribute id="ClassHotbarColumns" type="int32" value="5"/>
+                    <attribute id="CommonHotbarColumns" type="int32" value="9"/>
+                    <attribute id="Description" type="TranslatedString" handle="h75818e59g6662gd503gc734g5f8424bcd5ed" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9e040a95ga3e4gae15ged15gbadeb0ecd6a1" version="1"/>
+                    <attribute id="HpPerLevel" type="int32" value="5"/>
+                    <attribute id="ItemsHotbarColumns" type="int32" value="2"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="Name" type="FixedString" value="Nightstalker"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="2"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="7cf609a9-a8ca-4f4d-bed4-0094778fb0fd"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Rogue"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="6"/>
+                    <attribute id="UUID" type="guid" value="571487ae-9c1b-40ff-ba2b-5f0061295b87"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="f8a0608b-666c-4be6-a49c-03b369c10bd2"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="ClassDescription">
+                    <attribute id="CanLearnSpells" type="bool" value="true"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="Description" type="TranslatedString" handle="h912388c8g8c2fg000cg1910ga93d6b642b8d" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hcc558c33g503eg3468g744fg1a43d9782446" version="1"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="KnowledgeDomain"/>
+                    <attribute id="ParentGuid" type="guid" value="114e7aee-d1d4-4371-8d90-8a2080592faf"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="5"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="4709e126-1b45-4baf-93a2-be66ed4487d2"/>
+                    <attribute id="ShortName" type="TranslatedString" handle="h8d4b92ddg7c6cg8598g610agcb89dad51604" version="1"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Cleric"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
+                    <attribute id="SpellList" type="guid" value="6e728725-5a3a-42f4-ae6c-93b803e5d979"/>
+                    <attribute id="UUID" type="guid" value="ebe18794-b5e1-41c4-befa-4b9d6922b0ec"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

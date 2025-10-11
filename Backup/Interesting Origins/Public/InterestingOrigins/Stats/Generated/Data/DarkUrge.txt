@@ -1,0 +1,47 @@
+//-----------------------------------------------------------------------------------------------------------------------------------------
+//Dark Urge
+//-----------------------------------------------------------------------------------------------------------------------------------------
+new entry "Siael_DarkUrge"
+type "PassiveData"
+data "DisplayName" "h7f364e9cg503ag442bg8696g147281de4ab1;1"
+data "Description" "h14be3828g164ag4409g9a47g2af169985906;1"
+data "LoreDescription" "he7b540e6g2b52g4f3fga7aag782e2fb1844f;1"
+data "Icon" "I_HauntedOne"
+data "Boosts" "Skill(Intimidation,ProficiencyBonus);Skill(Perception,ProficiencyBonus);IF(not Combat()):ReduceCriticalAttackThreshold(1)"
+data "StatsFunctorContext" "OnCreate"
+data "StatsFunctors" "ApplyStatus(SIAEL_DARKURGE_FERAL,100,-1)"
+data "Properties" "Highlighted"
+
+new entry "SIAEL_DARKURGE_FERAL"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackType" "Ignore"
+data "Passives" "FeralInstinct"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting;ApplyToDead"
+
+new entry "UNI_DarkUrge_Bhaal_Cloak"
+type "Armor"
+using "UNI_DarkUrge_Bhaal_Cloak"
+data "StatusInInventory" "SIAEL_DARKURGE_MANTLE"
+
+new entry "SIAEL_DARKURGE_MANTLE"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackType" "Ignore"
+data "OnApplyFunctors" "IF(HasPassive('Siael_DarkUrge')):ApplyStatus(SIAEL_DARKURGE,100,-1)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting;ApplyToDead"
+
+new entry "SIAEL_DARKURGE"
+type "StatusData"
+data "StatusType" "BOOST"
+data "Passives" "Assassinate_Ambush;Assassinate_Initiative;Assassinate_Resource;Siael_DarkUrge_Real"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting;ApplyToDead"
+
+new entry "Siael_DarkUrge_Real"
+type "PassiveData"
+data "DisplayName" "h74c56a7cg1d8cg4ecfg8716g877884d7be19;1"
+data "Description" "h67848f64ga01ag4ed4gbaa7gc4e3338f22ab;1"
+data "LoreDescription" "hce3a1c7eg87aeg443ag9b48g70af447652cc;1"
+data "Icon" "I_HauntedOne"
+data "Properties" "Highlighted"
+

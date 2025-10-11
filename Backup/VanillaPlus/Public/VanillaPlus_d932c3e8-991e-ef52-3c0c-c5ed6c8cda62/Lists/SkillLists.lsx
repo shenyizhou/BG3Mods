@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="SkillLists">
+        <node id="root">
+            <children>
+                <node id="SkillList">
+                    <attribute id="Name" type="FixedString" value="Transmutation"/>
+                    <attribute id="Skills" type="LSString" value="Arcana, Medicine"/>
+                    <attribute id="UUID" type="guid" value="a123e9bf-6ba8-4500-a055-665f9bc67ef3"/>
+                </node>
+                <node id="SkillList">
+                    <attribute id="Name" type="FixedString" value="Trickery"/>
+                    <attribute id="Skills" type="LSString" value="Deception"/>
+                    <attribute id="UUID" type="guid" value="730ce333-73b4-4a71-afff-26e0fb5cc23f"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

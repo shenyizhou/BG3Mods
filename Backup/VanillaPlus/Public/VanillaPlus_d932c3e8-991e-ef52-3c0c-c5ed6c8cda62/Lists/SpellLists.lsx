@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="400"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Four Elements Monk Level 11"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_Fireball_Monk;Shout_GaseousForm_Monk;Shout_Fly_Monk;Target_HoldPerson_Monk;Projectile_ScorchingRay_Monk;Target_Shatter_Monk;Projectile_BladeOfTheRime;Projectile_RayOfFrost_Monk;Projectile_FangsOfTheFireSnake;Zone_Thunderwave_Monk;Target_FistOfUnbrokenAir;Zone_GustOfWind_Monk;Target_ShapeTheFlowingRiver_IceBlock;Projectile_ChromaticOrb_Monk;Zone_BurningHands_Monk;Target_ShockingGrasp_Monk;Target_WaterWhip;Zone_Sunbeam_FourElements;Shout_DestructiveWave_FourElements;Wall_WallOfIce_FourElements;Projectile_ChainLightning_FourElements"/>
+                    <attribute id="UUID" type="guid" value="cf014f77-4d0a-4322-a2bf-95e38b89435b"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="ShadowheartsClassActionSpells"/>
+                    <attribute id="Spells" type="LSString" value="Shout_ShadowheartWeaponBind;Target_ShadowheartShadowStep"/>
+                    <attribute id="UUID" type="guid" value="08f77e13-4cf2-43e1-805a-99a6f1d46d12"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="ShadowheartClassSpells"/>
+                    <attribute id="Spells" type="LSString" value="Target_Sanctuary;Target_Command_Container;Projectile_GuidingBolt;Target_HealingWord;Shout_DisguiseSelf;Target_Smite_Wrathful_Shadowheart;Shout_DivineFavor;Target_ShieldOfFaith"/>
+                    <attribute id="UUID" type="guid" value="a71c6080-b285-40de-a5e1-e02ab72ca1f3"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="DJShart"/>
+                    <attribute id="Spells" type="LSString" value="Target_Darkness_Shadowheart"/>
+                    <attribute id="UUID" type="guid" value="e77545c2-ca3d-4591-9ff6-78b65c7cabaa"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="WyllSpells"/>
+                    <attribute id="Spells" type="LSString" value="Target_WyllsFlourish;Shout_WyllsBladeWard;Projectile_EldritchBlast"/>
+                    <attribute id="UUID" type="guid" value="de48b8bf-8cb5-4018-9ac5-fce8d7a01b06"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="AstarionHide"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Hide_BonusAction"/>
+                    <attribute id="UUID" type="guid" value="9ebaa3b0-1496-4d33-98f5-f9eb556655cf"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="AstarionTouch"/>
+                    <attribute id="Spells" type="LSString" value="Target_VampiricTouch_Astarion"/>
+                    <attribute id="UUID" type="guid" value="187eb9a6-67a4-45f0-ba91-7a9a25bf47e1"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="KarsiteRecovery"/>
+                    <attribute id="Spells" type="LSString" value="Shout_ChannelTheOrb"/>
+                    <attribute id="UUID" type="guid" value="749c5a69-bb54-4ea3-bfd3-1f673d25283e"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="ChampionsSurge"/>
+                    <attribute id="Spells" type="LSString" value="Shout_ChampionsSurge"/>
+                    <attribute id="UUID" type="guid" value="abf8d111-7ebe-4d44-9842-994007e2f3e9"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Illusion Wizard 6"/>
+                    <attribute id="Spells" type="LSString" value="Shout_SeeInvisibility_TrainedEye;Shout_Darkvision_ThirdEye"/>
+                    <attribute id="UUID" type="guid" value="2a428023-b6cd-4d77-a801-d1e1f772c83e"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Transmutation 6"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_TransmutersThrow"/>
+                    <attribute id="UUID" type="guid" value="97ad9b84-ff56-4c2a-9ba7-8849f3b4dab2"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric Trickery Domain 2"/>
+                    <attribute id="Spells" type="LSString" value="Shout_MirrorImage;Shout_ShadowBlade_Class"/>
+                    <attribute id="UUID" type="guid" value="9f603ac8-2e51-4ce9-b924-c8093148bdf5"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Shadow Monk level 3"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Hide_ShadowArts;Shout_PassWithoutTrace_Monk;Target_Darkness_Monk;Target_Darkvision_Monk;Target_MinorIllusion;Target_Silence_Monk;Shout_ShadowBlade_Monk"/>
+                    <attribute id="UUID" type="guid" value="e050fe59-a8f0-4c03-a7f4-569ac747c80e"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Ranger SLevel 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_Barkskin;Shout_Blur;Target_Darkvision;Target_EnhanceAbility;Target_HeatMetal;Target_LesserRestoration;Target_Moonbeam;Shout_PassWithoutTrace;Target_ProtectionFromPoison;Target_Silence;Target_SpikeGrowth;Target_AnimalFriendship;Target_CreateWater;Target_CureWounds;Target_Jump;Target_Entangle;Shout_ExpeditiousRetreat;Shout_FeatherFall;Target_FogCloud;Target_Goodberry;Target_HealingWord;Target_HuntersMark;Target_Jump;Target_Longstrider;Shout_SpeakWithAnimals"/>
+                    <attribute id="UUID" type="guid" value="458be063-60d4-4548-ae7d-50117fa0226f"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Ranger spells level 1"/>
+                    <attribute id="Spells" type="LSString" value="Target_AnimalFriendship;Target_CreateWater;Target_CureWounds;Target_Jump;Target_Entangle;Shout_ExpeditiousRetreat;Shout_FeatherFall;Target_FogCloud;Target_Goodberry;Target_HealingWord;Target_HuntersMark;Target_Jump;Target_Longstrider;Shout_SpeakWithAnimals"/>
+                    <attribute id="UUID" type="guid" value="e7cfb80a-f5c2-4304-8446-9b00ea6a9814"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Ranger SLevel 3"/>
+                    <attribute id="Spells" type="LSString" value="Target_CallLightning;Target_Daylight_Container;Target_GlyphOfWarding;Target_PlantGrowth;Target_ProtectionFromEnergy;Target_SleetStorm;Target_StinkingCloud;Target_Barkskin;Shout_Blur;Target_Darkvision;Target_EnhanceAbility;Target_HeatMetal;Target_LesserRestoration;Target_Moonbeam;Shout_PassWithoutTrace;Target_ProtectionFromPoison;Target_Silence;Target_SpikeGrowth;Target_AnimalFriendship;Target_CreateWater;Target_CureWounds;Target_Jump;Target_Entangle;Shout_ExpeditiousRetreat;Shout_FeatherFall;Target_FogCloud;Target_Goodberry;Target_HealingWord;Target_HuntersMark;Target_Jump;Target_Longstrider;Shout_SpeakWithAnimals"/>
+                    <attribute id="UUID" type="guid" value="9a60f649-7f82-4152-90b1-0499c5c9f3e2"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Ranger Cantrips"/>
+                    <attribute id="Spells" type="LSString" value="Target_LightningStrike;Shout_Shillelagh;Shout_ProduceFlame;Target_ShockingGrasp;Target_ThornWhip;Projectile_RayOfFrost;Projectile_PoisonSpray;Projectile_SunFletchedStrike"/>
+                    <attribute id="UUID" type="guid" value="d40b4646-75bf-4a9a-b16b-053c913af0e6"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Instincts level 1"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_HailOfThorns_ranger_1;Projectile_EnsnaringStrike_Container_ranger"/>
+                    <attribute id="UUID" type="guid" value="6c2f2aa1-b526-44af-ae26-61fbdafc288b"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Instincts level 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_CloudOfDaggers_ranger;Projectile_HailOfThorns_ranger_1;Projectile_IceKnife_ranger;Projectile_EnsnaringStrike_Container_ranger"/>
+                    <attribute id="UUID" type="guid" value="617bf7c2-8f3f-4fb5-a4cd-18445ac49f48"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Instincts level 3"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_LightningArrow_ranger;Zone_ConjureBarrage_ranger;Target_CloudOfDaggers_ranger;Projectile_HailOfThorns_ranger_1;Projectile_IceKnife_ranger;Projectile_EnsnaringStrike_Container_ranger"/>
+                    <attribute id="UUID" type="guid" value="e04c3fa6-e905-4859-b7c1-0b8276c1d006"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Wizard cantrips (Intelligence)"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_AcidSplash;Target_BoomingBlade_ClassSpell;Target_BurstingSinew;Target_ChillTouch;Projectile_FireBolt;Projectile_PoisonSpray;Projectile_RayOfFrost;Target_ShockingGrasp;Shout_BladeWard;Target_Friends;Target_DancingLights;Target_Light;Target_LightningStrike;Target_MageHand;Target_MinorIllusion;Target_TollTheDead;Target_TrueStrike;Projectile_ZephyrShot"/>
+                    <attribute id="UUID" type="guid" value="3cae2e56-9871-4cef-bba6-96845ea765fa"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Sorcerer cantrips"/>
+                    <attribute id="Spells" type="LSString" value="Shout_BladeWard;Target_BoomingBlade_ClassSpell;Target_BurstingSinew;Projectile_AcidSplash;Target_MageHand;Projectile_PoisonSpray;Target_TrueStrike;Target_Friends;Target_DancingLights;Projectile_FireBolt;Target_LightningStrike;Target_Light;Projectile_RayOfFrost;Target_ShockingGrasp;Projectile_SunFletchedStrike;Target_MinorIllusion;Target_ChillTouch;Projectile_ZephyrShot"/>
+                    <attribute id="UUID" type="guid" value="485a68b4-c678-4888-be63-4a702efbe391"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Warlock cantrips (Charisma)"/>
+                    <attribute id="Spells" type="LSString" value="Shout_BladeWard;Target_BoomingBlade_ClassSpell;Target_ChillTouch;Projectile_EldritchBlast;Target_Friends;Target_LightningStrike;Target_MageHand;Target_MinorIllusion;Projectile_PoisonSpray;Target_TollTheDead;Target_TrueStrike;Projectile_ZephyrShot"/>
+                    <attribute id="UUID" type="guid" value="3489b1a5-9f7c-439a-b6e3-8cceb21e34fd"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Druid Cantrips"/>
+                    <attribute id="Spells" type="LSString" value="Target_Guidance;Target_LightningStrike;Projectile_PoisonSpray;Shout_ProduceFlame;Target_Resistance;Shout_Shillelagh;Projectile_SunFletchedStrike;Target_ThornWhip"/>
+                    <attribute id="UUID" type="guid" value="b8faf12f-ca42-45c0-84f8-6951b526182a"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cleric cantrips (Wisdom)"/>
+                    <attribute id="Spells" type="LSString" value="Shout_BladeWard;Target_BurstingSinew;Target_Guidance;Target_Light;Shout_ProduceFlame;Target_Resistance;Target_SacredFlame;Projectile_SunFletchedStrike;Shout_Thaumaturgy;Target_TollTheDead"/>
+                    <attribute id="UUID" type="guid" value="2f43a103-5bf1-4534-b14f-663decc0c525"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Warlock Cantrips"/>
+                    <attribute id="Spells" type="LSString" value="Shout_BladeWard;Target_BoomingBlade_ClassSpell;Target_ChillTouch;Projectile_EldritchBlast;Target_Friends;Target_LightningStrike;Target_MageHand;Target_MinorIllusion;Projectile_PoisonSpray;Target_TollTheDead;Target_TrueStrike;Projectile_ZephyrShot"/>
+                    <attribute id="UUID" type="guid" value="f5c4af9c-5d8d-4526-9057-94a4b243cd40"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

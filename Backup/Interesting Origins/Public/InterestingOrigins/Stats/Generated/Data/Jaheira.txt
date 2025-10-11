@@ -1,0 +1,20 @@
+//-----------------------------------------------------------------------------------------------------------------------------------------
+//Jaheira
+//-----------------------------------------------------------------------------------------------------------------------------------------
+new entry "Siael_Jaheira"
+type "PassiveData"
+data "DisplayName" "h69c496f7gfc46g47ddga203gaf7ce42b7294;1"
+data "Description" "h91f00d30g9b02g473fg9725gafad255e5ce6;1"
+data "LoreDescription" "h6e41100eg33d1g41b1ga199gcd5a77de6f6d;1"
+data "Icon" "I_Jaheira"
+data "Boosts" "Skill(Performance,ProficiencyBonus);Skill(History,ProficiencyBonus)"
+data "StatsFunctorContext" "OnCreate"
+data "StatsFunctors" "ApplyStatus(SIAEL_JAHEIRA,100,-1)"
+data "Properties" "Highlighted"
+
+new entry "SIAEL_JAHEIRA"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackType" "Ignore"
+data "Passives" "DualWielder_PassiveBonuses;DualWielder_BonusAC"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting;ApplyToDead"

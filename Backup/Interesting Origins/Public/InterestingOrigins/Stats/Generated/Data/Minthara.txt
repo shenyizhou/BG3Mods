@@ -1,0 +1,13 @@
+//----------------------------------------------------------------------------------------------------------
+//Minthara
+//----------------------------------------------------------------------------------------------------------
+new entry "Siael_Minthara"
+type "PassiveData"
+data "DisplayName" "h592e545cg30c4g46adgab51gd78c3bc64c48;1"
+data "Description" "h1725a449g0726g4a96g97f8gc79194574d71;1"
+data "LoreDescription" "ha4921f7cg8006g4f1fgb447gfe5b06823be0;1"
+data "Icon" "I_Minthara"
+data "Boosts" "Skill(Intimidation,ProficiencyBonus);Skill(Insight,ProficiencyBonus);IF(MintharaThresh(4)):UnlockSpellVariant(SpellId('Target_GOB_DrowCommander_Buff'),ModifyNumberOfTargets(AdditiveBase,1),ModifyTooltipDescription());IF(MintharaThresh(9)):UnlockSpellVariant(SpellId('Target_GOB_DrowCommander_Buff'),ModifyNumberOfTargets(AdditiveBase,1),ModifyTooltipDescription());IF(MintharaThresh(14)):UnlockSpellVariant(SpellId('Target_GOB_DrowCommander_Buff'),ModifyNumberOfTargets(AdditiveBase,1),ModifyTooltipDescription());IF(MintharaThresh(19)):UnlockSpellVariant(SpellId('Target_GOB_DrowCommander_Buff'),ModifyNumberOfTargets(AdditiveBase,1),ModifyTooltipDescription());IF(MintharaThresh(24)):UnlockSpellVariant(SpellId('Target_GOB_DrowCommander_Buff'),ModifyNumberOfTargets(AdditiveBase,1),ModifyTooltipDescription())"
+data "StatsFunctorContext" "OnCreate"
+data "StatsFunctors" "ApplyStatus(SIAEL_JAHEIRA,100,-1)"
+data "Properties" "Highlighted"

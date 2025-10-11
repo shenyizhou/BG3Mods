@@ -1,0 +1,28 @@
+//-----------------------------------------------------------------------------------------------------------------------------------------
+//Wyll
+//-----------------------------------------------------------------------------------------------------------------------------------------
+new entry "Siael_Wyll"
+type "PassiveData"
+data "DisplayName" "hdf8e3232g09f3g4dbcg86c7g43ee1dacfa96;1"
+data "Description" "hf0e21ff9g7d6bg41d5ga639g3ca674dc323b;1"
+data "DescriptionParams" "ProficiencyBonus-1"
+data "LoreDescription" "ha335fff0gd067g4847g8775g13538e37d932;1"
+data "Icon" "I_Wyll"
+data "Boosts" "Skill(Persuasion,ProficiencyBonus);Skill(History,ProficiencyBonus)"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnCreate"
+data "Conditions" "IsWeaponOfProficiencyGroup('Rapiers',GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand))"
+data "StatsFunctors" "ApplyStatus(SELF,SIAEL_WYLL,100,-1)"
+
+new entry "SIAEL_WYLL"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "hdf8e3232g09f3g4dbcg86c7g43ee1dacfa96;1"
+data "Description" "hf0e21ff9g7d6bg41d5ga639g3ca674dc323b;1"
+data "DescriptionParams" "ProficiencyBonus-1"
+data "Icon" "I_Wyll"
+data "StackType" "Ignore"
+data "Boosts" "IF(HasProficiency('MartialWeapons',context.Source)):RollBonus(MeleeWeaponAttack,ProficiencyBonus-1);IF(HasProficiency('MartialWeapons',context.Source) and IsMeleeWeaponAttack()):DamageBonus(ProficiencyBonus-1);IF(HasProficiency('MartialWeapons',context.Source)):MinimumRollResult(MeleeWeaponAttack,2);IF(HasProficiency('MartialWeapons',context.Source)):MinimumRollResult(MeleeWeaponDamage,2);IF(not CharacterLevelGreaterThan(4)):SpellSaveDC(1);IF(CharacterLevelGreaterThan(4) and not CharacterLevelGreaterThan(8)):SpellSaveDC(2);IF(CharacterLevelGreaterThan(8)):SpellSaveDC(3);RollBonus(MeleeSpellAttack,ProficiencyBonus-1);RollBonus(RangedSpellAttack,ProficiencyBonus-1);IF(not CharacterLevelGreaterThan(4)):AC(1);IF(CharacterLevelGreaterThan(4) and not CharacterLevelGreaterThan(8)):AC(2);IF(CharacterLevelGreaterThan(8)):AC(3)"
+data "StatusPropertyFlags" "IgnoreResting;ApplyToDead"
+data "RemoveEvents" "OnEquip;OnUnequip"
+data "RemoveConditions" "not IsWeaponOfProficiencyGroup('Rapiers',GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand))"

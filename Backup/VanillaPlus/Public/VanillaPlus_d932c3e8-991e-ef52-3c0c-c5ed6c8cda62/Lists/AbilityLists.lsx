@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="AbilityLists">
+        <node id="root">
+            <children>
+                <node id="AbilityList">
+                    <attribute id="Abilities" type="LSString" value="Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma"/>
+                    <attribute id="Name" type="FixedString" value="AllAbility"/>
+                    <attribute id="UUID" type="guid" value="f9217f5a-8310-4625-aa73-167f6821464e"/>
+                </node>
+                <node id="AbilityList">
+                    <attribute id="Abilities" type="LSString" value="Intelligence, Wisdom, Charisma"/>
+                    <attribute id="Name" type="FixedString" value="SpellCasting"/>
+                    <attribute id="UUID" type="guid" value="da9ceca7-142e-4bf4-9d65-85c4e38ebf55"/>
+                </node>
+                <node id="AbilityList">
+                    <attribute id="Abilities" type="LSString" value="Strength, Dexterity"/>
+                    <attribute id="Name" type="FixedString" value="StrDex"/>
+                    <attribute id="UUID" type="guid" value="9213aa8f-518c-43cc-bbaa-02edcdac45b1"/>
+                </node>
+                <node id="AbilityList">
+                    <attribute id="Abilities" type="LSString" value="Constitution"/>
+                    <attribute id="Name" type="FixedString" value="Constitution"/>
+                    <attribute id="UUID" type="guid" value="49786e93-d9b6-4c87-93f3-6345169c27bb"/>
+                </node>
+                <node id="AbilityList">
+                    <attribute id="Abilities" type="LSString" value="Charisma"/>
+                    <attribute id="Name" type="FixedString" value="Charisma"/>
+                    <attribute id="UUID" type="guid" value="4603584d-4cb4-4a0d-9462-440247393c18"/>
+                </node>
+                <node id="AbilityList">
+                    <attribute id="Abilities" type="LSString" value="Strength, Constitution"/>
+                    <attribute id="Name" type="FixedString" value="ConStr"/>
+                    <attribute id="UUID" type="guid" value="d8fdb586-1ac8-4d01-96dd-a5db50aa623b"/>
+                </node>
+                <node id="AbilityList">
+                    <attribute id="Abilities" type="LSString" value="Dexterity, Constitution"/>
+                    <attribute id="Name" type="FixedString" value="DexCon"/>
+                    <attribute id="UUID" type="guid" value="b01cc784-6518-4688-8f6b-e4f0fe40610b"/>
+                </node>
+                <node id="AbilityList">
+                    <attribute id="Abilities" type="LSString" value="Dexterity"/>
+                    <attribute id="Name" type="FixedString" value="Dexterity"/>
+                    <attribute id="UUID" type="guid" value="634975e0-a5a0-4e69-87c8-a6d8db8aa26e"/>
+                </node>
+                <node id="AbilityList">
+                    <attribute id="Abilities" type="LSString" value="Intelligence, Wisdom"/>
+                    <attribute id="Name" type="FixedString" value="Insightful"/>
+                    <attribute id="UUID" type="guid" value="1841506b-c6a5-4c90-a78f-3bc9fc5ec7ac"/>
+                </node>
+                <node id="AbilityList">
+                    <attribute id="Abilities" type="LSString" value="Dexterity, Intelligence, Charisma"/>
+                    <attribute id="Name" type="FixedString" value="Devious"/>
+                    <attribute id="UUID" type="guid" value="ce01700a-c3fb-43b7-b0cb-879a50364fc9"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

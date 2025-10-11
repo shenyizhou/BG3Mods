@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="BasicTraining"/>
+                    <attribute id="Passives" type="LSString" value="BasicTraining_Strength,BasicTraining_Dexterity,BasicTraining_Constitution,BasicTraining_Intelligence,BasicTraining_Wisdom,BasicTraining_Charisma"/>
+                    <attribute id="UUID" type="guid" value="a971c141-e49f-4f82-acaf-cb42e107d235"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="BasicMartialTraining"/>
+                    <attribute id="Passives" type="LSString" value="BasicTraining_Strength,BasicTraining_Dexterity,BasicTraining_Constitution"/>
+                    <attribute id="UUID" type="guid" value="2e218fe7-8bd5-43f2-9524-f06acf43e3d4"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="SkilledTraining"/>
+                    <attribute id="Passives" type="LSString" value="SkilledTraining_Strength,SkilledTraining_Dexterity,SkilledTraining_Constitution,SkilledTraining_Intelligence,SkilledTraining_Wisdom,SkilledTraining_Charisma"/>
+                    <attribute id="UUID" type="guid" value="2e2fcba1-a0d5-4c57-93ba-e4c16f53b273"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Warlock Initiate"/>
+                    <attribute id="Passives" type="LSString" value="AgonizingBlast,ArmorOfShadows,BeastSpeech,BeguilingInfluence,DevilsSight,FiendishVigor,MaskOfManyFaces,OneWithShadows,RepellingBlast"/>
+                    <attribute id="UUID" type="guid" value="283c21fc-c0b0-4d2e-b5dc-1942e2a3922a"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Gods"/>
+                    <attribute id="Passives" type="LSString" value="Bahamut,Selune,Shar,Tempus,Tyr,Helm,Ilmater,Mystra,Oghma,Kelemvor,Moradin,Corellon_Larethian,Garl_Glittergold,Yondalla,Lolth,Laduguer,Vlaakith,Eilistraee,Lathander,Talos,Tymora,Mielikki,Gruumsh,Tiamat,Devoted"/>
+                    <attribute id="UUID" type="guid" value="7216993c-e89c-4f36-b99c-2b17003d8ff6"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="College of Valor Fighting Styles"/>
+                    <attribute id="Passives" type="LSString" value="FightingStyle_Archery,FightingStyle_Defense,FightingStyle_Dueling,FightingStyle_Protection"/>
+                    <attribute id="UUID" type="guid" value="c7e26d2d-9b81-425e-b8de-1b67dea189e1"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="LaezelsFightingStyles"/>
+                    <attribute id="Passives" type="LSString" value="FightingStyle_GreatWeaponFighting_override,FightyingStyle_LongswordFighting"/>
+                    <attribute id="UUID" type="guid" value="f49fceb0-a825-4983-b8ee-7e8df663faed"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Weapon Master Proficiency"/>
+                    <attribute id="Passives" type="LSString" value="Proficiency_Battleaxes_override,Proficiency_Clubs_override,Proficiency_Daggers_override,Proficiency_Flails_override,Proficiency_Glaives_override,Proficiency_Greataxe_override,Proficiency_Greatclub_override,Proficiency_Greatswords_override,Proficiency_Halberds_override,Proficiency_HandCrossbows_override,Proficiency_Handaxes_override,Proficiency_HeavyCrossbows_override,Proficiency_Javelins_override,Proficiency_LightCrossbows_override,Proficiency_LightHammers_override,Proficiency_Longbows_override,Proficiency_Longswords_override,Proficiency_Maces_override,Proficiency_Mauls_override,Proficiency_Morningstars_override,Proficiency_Pikes_override,Proficiency_Quarterstaffs_override,Proficiency_Rapiers_override,Proficiency_Scimitars_override,Proficiency_Shortbows_override,Proficiency_Shortswords_override,Proficiency_Sickles_override,Proficiency_Spears_override,Proficiency_Tridents_override,Proficiency_Warhammers_override,Proficiency_Warpicks_override"/>
+                    <attribute id="UUID" type="guid" value="f21e6b94-44e8-4ae0-a6f1-0c81abac03a2"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Ranger Natural Explorer"/>
+                    <attribute id="Passives" type="LSString" value="NaturalExplorer_BeastTamer,NaturalExplorer_UrbanTracker,NaturalExplorer_WastelandWander_Cold,NaturalExplorer_WastelandWander_Fire,NaturalExplorer_WastelandWander_Poison,WildEndurance,WastelandAthlete,WasteNot,WastelandForager,TavernExplorer"/>
+                    <attribute id="UUID" type="guid" value="72c63024-60af-486e-a180-c7aeee5d77c1"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Ranger Favored Enemy"/>
+                    <attribute id="Passives" type="LSString" value="FavoredEnemy_BountyHunter,FavoredEnemy_KeeperOfTheVeil,FavoredEnemy_MageBreaker,FavoredEnemy_RangerKnight,FavoredEnemy_SanctifiedStalker,Pilgrim_ranger,SageOfTheWild,Protector_ranger,WanderingMonk"/>
+                    <attribute id="UUID" type="guid" value="d0f13dda-eb37-41f5-aea5-2683f0229e2e"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,11 @@
+//-----------------------------------------------------------------------------------------------------------------------------------------
+//Minsc
+//-----------------------------------------------------------------------------------------------------------------------------------------
+new entry "Siael_Minsc"
+type "PassiveData"
+data "DisplayName" "hf0cd31c5g2ef8g4aa1gb50dg463cb1809d67;1"
+data "Description" "hb117536fgaf6fg4fa7gb995g272025f6d828;1"
+data "LoreDescription" "h05876931gc8b9g4f5dg8407g0f6b58f31a54;1"
+data "Icon" "I_Minsc"
+data "Boosts" "AbilityOverrideMinimum(Strength,18);Ability(Strength,2);Skill(Athletics,ProficiencyBonus);Skill(AnimalHandling,ProficiencyBonus);"
+data "Properties" "Highlighted"

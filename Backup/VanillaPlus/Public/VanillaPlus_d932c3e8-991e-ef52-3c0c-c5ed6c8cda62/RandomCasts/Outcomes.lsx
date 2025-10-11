@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="Outcomes">
+        <node id="root">
+            <children>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gamble"/>
+                    <attribute id="Spell" type="FixedString" value="Zone_ColorSpray_4"/>
+                    <attribute id="UUID" type="guid" value="00862368-a5d3-4ac2-a24a-44c9b24911c8"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gamble"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagic_Blur"/>
+                    <attribute id="UUID" type="guid" value="f2a0f296-0d85-44e3-acc6-5f999d3901cb"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gamble"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagic_Mephit"/>
+                    <attribute id="UUID" type="guid" value="44f2acaa-65c5-4513-8d92-a00028fbad04"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gamble"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagic_ActionSurge"/>
+                    <attribute id="UUID" type="guid" value="cc70dac5-8527-4f14-a88f-2fc3258f79a2"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gamble"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagic_EnlargeReduce"/>
+                    <attribute id="UUID" type="guid" value="9a05b535-8698-4fa3-8f97-22e52d440879"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gamble"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagic_Shield"/>
+                    <attribute id="UUID" type="guid" value="fa384c19-0589-473a-887d-633e2b6a4a29"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gamble"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagic_Burning"/>
+                    <attribute id="UUID" type="guid" value="00cde5b3-3592-4e35-be9c-a6ec6353fafe"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gamble"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagic_SpikeGrowth"/>
+                    <attribute id="UUID" type="guid" value="10bdc29c-24b5-49ac-9568-a2f63d751b1c"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gamble"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagic_ResilientSphere"/>
+                    <attribute id="UUID" type="guid" value="14522914-e4c3-4451-8b3e-f0fe4c5e6371"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gamble"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagic_Cambion"/>
+                    <attribute id="UUID" type="guid" value="8496e010-d6e6-4246-8964-95eac50cb313"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gamble"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagicBarbarian_ExplodingFlumph_Activate"/>
+                    <attribute id="UUID" type="guid" value="ebed9003-f71f-42a5-8a09-c5976f6f6da1"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gamble"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagicBarbarian_WeaponInfusion"/>
+                    <attribute id="UUID" type="guid" value="79ccc215-d74a-424e-bc2a-f27cad07f88f"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gamble"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagicBarbarian_WeaponInfusion"/>
+                    <attribute id="UUID" type="guid" value="9ba61e55-dfba-4c8e-8700-25c5970e4bcf"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gamble"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagicBarbarian_WeaponInfusion"/>
+                    <attribute id="UUID" type="guid" value="1f1cfe91-703d-46ea-9a40-d09abcf88e73"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gamble"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagicBarbarian_ShadowyTendrils"/>
+                    <attribute id="UUID" type="guid" value="48652f9a-33cd-4bd3-ae1b-5016137eeee8"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gamble"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagicBarbarian_Teleport_Activate"/>
+                    <attribute id="UUID" type="guid" value="f03681a8-a524-426e-b162-d0f968ddff4f"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gamble"/>
+                    <attribute id="Spell" type="FixedString" value="Zone_Thunderwave"/>
+                    <attribute id="UUID" type="guid" value="f1451f15-2df7-4922-ac39-ba1d3651239f"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gamble"/>
+                    <attribute id="Spell" type="FixedString" value="Zone_Thunderwave"/>
+                    <attribute id="UUID" type="guid" value="ed17b90a-677f-4588-a890-944684077320"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

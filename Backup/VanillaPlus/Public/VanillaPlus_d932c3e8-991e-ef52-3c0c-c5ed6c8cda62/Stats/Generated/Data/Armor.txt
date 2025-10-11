@@ -1,0 +1,18 @@
+new entry "_TWN_a"
+type "Armor"
+
+new entry "MAG_PHB_ElvenChain_Armor"
+type "Armor"
+using "ARM_ChainShirt_Body_1"
+data "RootTemplate" "391bccb7-8199-41e3-9aa3-261def2ebf26"
+data "ArmorClass" "10"
+data "ValueUUID" "240eb257-ef20-4877-89bd-6956b4b7c41a"
+data "Rarity" "Rare"
+data "Weight" "4"
+data "Boosts" "AC(3)"
+data "PassivesOnEquip" "MAG_PHB_ElvenChain_Armor_Passive;MAG_PHB_ElvenChain_AddedEffect_Armor_Passive;MAG_FlexibleArmor_Defense_Passive"
+data "ArmorType" "None"
+data "Unique" "1"
+data "Ability Modifier Cap" ""
+data "Proficiency Group" ""
+

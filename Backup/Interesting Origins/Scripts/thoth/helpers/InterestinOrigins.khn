@@ -1,0 +1,5 @@
+function MintharaThresh(threshold)
+    local source = context.Source
+    local value = GetTadpolePowersNumber(source)
+    return ConditionResult(value > threshold)
+end

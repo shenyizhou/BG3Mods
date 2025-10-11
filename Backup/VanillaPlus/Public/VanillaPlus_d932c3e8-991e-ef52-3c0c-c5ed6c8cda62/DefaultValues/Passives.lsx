@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="FightingStyle_GreatWeaponFighting_override"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="OriginUUID" type="guid" value="fb3bc4c3-49eb-4944-b714-d0cb357bb635"/>
+                    <attribute id="TableUUID" type="guid" value="ed4d2a5a-14a5-45c4-bf20-2b959905f254"/>
+                    <attribute id="UUID" type="guid" value="481ca64e-ba18-447f-aa07-86cf784b86b3"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

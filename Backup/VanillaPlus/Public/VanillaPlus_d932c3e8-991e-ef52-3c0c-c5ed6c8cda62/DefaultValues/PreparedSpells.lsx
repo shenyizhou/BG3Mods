@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="OriginUUID" type="guid" value="2bb39cf2-4649-4238-8d0c-44f62b5a3dfd"/>
+                    <attribute id="Prepare" type="LSString" value="Target_ShieldOfFaith;Target_Command_Container;Target_Smite_Wrathful_Shadowheart;Projectile_GuidingBolt"/>
+                    <attribute id="TableUUID" type="guid" value="460d52e1-65b9-404a-80a4-89fa82edb725"/>
+                    <attribute id="UUID" type="guid" value="c3190aa0-7aec-4dec-b5be-951276efc592"/>
+                    <attribute id="Unprepare" type="LSString" value="Target_Sanctuary;Target_HealingWord;Shout_DivineFavor"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

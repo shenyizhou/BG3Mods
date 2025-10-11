@@ -1,0 +1,10 @@
+// 被动技能数据文件
+// 用于定义模组中的被动技能
+// 示例格式:
+// new entry "YourPassiveName"
+// type "PassiveData"
+// data "DisplayName" "h12345678g1234g1234g1234g123456789012;1"
+// data "Description" "h12345678g1234g1234g1234g123456789012;2"
+// data "Icon" "PassiveFeature_Generic_Damage"
+// data "Properties" "Highlighted;OncePerTurn"
+// data "Boosts" "ActionResource(ActionPoint,1,0)"

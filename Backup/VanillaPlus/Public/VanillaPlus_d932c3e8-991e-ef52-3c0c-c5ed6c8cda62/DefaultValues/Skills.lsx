@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="400"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Perception;Stealth;SleightOfHand;Athletics;Acrobatics;Persuasion;Deception;Intimidation;Survival;AnimalHandling;Arcana;History;Insight;Investigation;Medicine;Nature;Performance;Religion"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="SkilledSkills"/>
+                    <attribute id="TableUUID" type="guid" value="460d52e1-65b9-404a-80a4-89fa82edb725"/>
+                    <attribute id="UUID" type="guid" value="b0177a7a-9fb4-409a-94be-2bcbe28bb7b1"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Arcana;Insight;History;Investigation;Religion;Medicine"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="SkilledSkills"/>
+                    <attribute id="TableUUID" type="guid" value="c723948e-bdaf-4dca-9bc9-f00402e4c7e5"/>
+                    <attribute id="UUID" type="guid" value="52eede05-de1d-4a25-8b00-1ef94bf02d4a"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Arcana;Intimidation;History;Deception;Investigation;Nature;Religion"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="SkilledSkills"/>
+                    <attribute id="TableUUID" type="guid" value="e00bd9ee-bd20-468f-ad95-450bacb7604d"/>
+                    <attribute id="UUID" type="guid" value="516cf83e-9416-467b-85c6-eac496befc87"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Perception;Athletics;Intimidation;AnimalHandling;Survival;Nature"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="OriginUUID" type="guid" value="b8b4a974-b045-45f6-9516-b457b8773abd"/>
+                    <attribute id="SelectorId" type="LSString" value="SkilledSkills"/>
+                    <attribute id="TableUUID" type="guid" value="fef90694-423e-4069-b0e7-066a242b8eec"/>
+                    <attribute id="UUID" type="guid" value="5fff137a-3f38-4379-8f70-3a855b2c96c7"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Athletics;Intimidation;Survival;Acrobatics;Perception;History;Insight;AnimalHandling"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="SkilledSkills"/>
+                    <attribute id="TableUUID" type="guid" value="ed4d2a5a-14a5-45c4-bf20-2b959905f254"/>
+                    <attribute id="UUID" type="guid" value="697c7c34-6031-46d3-8eac-a4bf5588ca70"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="SleightOfHand;Stealth;Acrobatics;Deception;Persuasion;Performance;Insight;Investigation;Intimidation"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="7cf609a9-a8ca-4f4d-bed4-0094778fb0fd"/>
+                    <attribute id="UUID" type="guid" value="be161c4d-6906-40fe-b992-da62d9b30a8f"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Arcana;Medicine"/>
+                    <attribute id="Level" type="int32" value="2"/>
+                    <attribute id="SelectorId" type="LSString" value="Transmutation"/>
+                    <attribute id="TableUUID" type="guid" value="de2a9945-7c62-444b-a61d-a8e8fe09fefd"/>
+                    <attribute id="UUID" type="guid" value="72877883-8208-4f1e-86f0-48cf2cb57256"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
