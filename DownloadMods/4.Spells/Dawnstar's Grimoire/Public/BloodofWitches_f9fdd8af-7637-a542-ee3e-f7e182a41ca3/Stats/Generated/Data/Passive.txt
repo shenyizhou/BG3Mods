@@ -1,0 +1,43 @@
+new entry "FamiliarSpirit_Dawnstar"
+type "PassiveData"
+data "DisplayName" "h06efe79bg1a9cg1254ge4ebg4c67b8994669;1"
+data "Icon" "GenericIcon_DamageType_Radiant"
+data "PriorityOrder" "0"
+data "Properties" "IsHidden;OncePerTurn"
+data "StatsFunctorContext" "OnAttacked"
+data "Conditions" "IsMeleeAttack() and HasDamageEffectFlag(DamageFlags.Hit)"
+data "StatsFunctors" "DealDamage(SWAP,4d4, Cold,Magical);DealDamage(SWAP,4d4, Necrotic,Magical)"
+
+new entry "FamiliarSpirit_6_Dawnstar"
+type "PassiveData"
+using "FamiliarSpirit_Dawnstar"
+data "StatsFunctors" "DealDamage(SWAP,5d4, Cold,Magical);DealDamage(SWAP,5d4, Necrotic,Magical)"
+
+new entry "FamiliarSpirit_7_Dawnstar"
+type "PassiveData"
+using "FamiliarSpirit_Dawnstar"
+data "StatsFunctors" "DealDamage(SWAP,6d4, Cold,Magical);DealDamage(SWAP,6d4, Necrotic,Magical)"
+
+new entry "FamiliarSpirit_8_Dawnstar"
+type "PassiveData"
+using "FamiliarSpirit_Dawnstar"
+data "StatsFunctors" "DealDamage(SWAP,7d4, Cold,Magical);DealDamage(SWAP,7d4, Necrotic,Magical)"
+
+new entry "FamiliarSpirit_9_Dawnstar"
+type "PassiveData"
+using "FamiliarSpirit_Dawnstar"
+data "StatsFunctors" "DealDamage(SWAP,8d4, Cold,Magical);DealDamage(SWAP,8d4, Necrotic,Magical)"
+
+new entry "PheromonalDoom_Remove_Dawnstar"
+type "PassiveData"
+data "Icon" "Spell_Cleric_TurnUndead"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnDamage;OnAttacked;OnHeal"
+data "Conditions" "TotalAttackDamageDoneGreaterThan(0)"
+data "StatsFunctors" "RemoveStatus(PHEROMONALDOOM_DS)"
+
+new entry "BleedOut_Dawnstar"
+type "PassiveData"
+data "DisplayName" "h851ac8dag75c8g7e70gc8caga16d7577e019;1"
+data "Properties" "IsHidden"
+

@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="3cae2e56-9871-4cef-bba6-96845ea765fa"/>
+                    <attribute id="Name" type="FixedString" value="Wiz Ds Grimoire CT"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_DeathMark_Dawnstar;Target_Entangle_Dawnstar;Rush_AstralDive_Dawnstar;Projectile_BallLightning_Dawnstar;Projectile_Bleed_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="60cab347-4746-41c7-afab-90c3c1a43709"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="11f331b0-e8b7-473b-9d1f-19e8e4178d7d"/>
+                    <attribute id="Name" type="FixedString" value="Wiz Ds Grimoire Spells 1"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="929b16aa-0c4e-405d-9b54-945171ef203e"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="80c6b070-c3a6-4864-84ca-e78626784eb4"/>
+                    <attribute id="Name" type="FixedString" value="Wiz Ds Grimoire Spells 2"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="12f75cfe-0a6b-4b26-a56e-2f82d369df3e"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="22755771-ca11-49f4-b772-13d8b8fecd93"/>
+                    <attribute id="Name" type="FixedString" value="Wiz Ds Grimoire Spells 3"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;Shout_WillO_theWisp_Dawnstar;Projectile_BloodLance_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="9468f6f8-19da-4265-ac86-2573490d1ce4"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="820b1220-0385-426d-ae15-458dc8a6f5c0"/>
+                    <attribute id="Name" type="FixedString" value="Wiz Ds Grimoire Spells 4"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;Shout_WillO_theWisp_Dawnstar;Projectile_BloodLance_Dawnstar;Zone_DrainEssence_Dawnstar;Target_NaturesEmbrace_Dawnstar;Target_HellfireStorm_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="fbdd5e2b-c283-4846-8fcd-e1c33e1268f7"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="f781a25e-d288-43b4-bf5d-3d8d98846687"/>
+                    <attribute id="Name" type="FixedString" value="Wiz Ds Grimoire Spells 5"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;Shout_WillO_theWisp_Dawnstar;Projectile_BloodLance_Dawnstar;Zone_DrainEssence_Dawnstar;Target_NaturesEmbrace_Dawnstar;Target_HellfireStorm_Dawnstar;Target_SummonFamiliarSpirit_Dawnstar;Target_ExplodeCorpse_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="4aafc670-3c97-4680-9e2b-3a4af235122d"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="bc917f22-7f71-4a25-9a77-7d2f91a96a65"/>
+                    <attribute id="Name" type="FixedString" value="Wiz Ds Grimoire Spells 6"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;Shout_WillO_theWisp_Dawnstar;Projectile_BloodLance_Dawnstar;Zone_DrainEssence_Dawnstar;Target_NaturesEmbrace_Dawnstar;Target_HellfireStorm_Dawnstar;Target_SummonFamiliarSpirit_Dawnstar;Target_ExplodeCorpse_Dawnstar;Target_DeathEater_Dawnstar;Shout_PheromoneBlast_Dawnstar;Target_WitchStorm_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="33f216e8-ce6f-4104-b459-22af6b2ccc06"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="485a68b4-c678-4888-be63-4a702efbe391"/>
+                    <attribute id="Name" type="FixedString" value="Sorc Ds Grimoire CT"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_DeathMark_Dawnstar;Target_Entangle_Dawnstar;Rush_AstralDive_Dawnstar;Projectile_BallLightning_Dawnstar;Projectile_Bleed_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="e6530497-2931-4563-ad70-bdd8e0069458"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="92c4751f-6255-4f67-822c-a75d53830b27"/>
+                    <attribute id="Name" type="FixedString" value="Sorc Ds Grimoire Spells 1"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="9e2b7e75-c9cc-41b4-ad81-4f782969ac44"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="f80396e2-cb76-4694-b0db-5c34da61a478"/>
+                    <attribute id="Name" type="FixedString" value="Sorc Ds Grimoire Spells 2"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="f43d975a-8cf9-45b1-ad3b-ff0d691378d7"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="dcbaf2ae-1f45-453e-ab83-cd154f8277a4"/>
+                    <attribute id="Name" type="FixedString" value="Sorc Ds Grimoire Spells 3"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;Shout_WillO_theWisp_Dawnstar;Projectile_BloodLance_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="3d3da4d9-7253-479a-b98e-3d6d50f8deb0"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="5fe40622-1d3e-4cc1-8d89-e66fe51d8c5c"/>
+                    <attribute id="Name" type="FixedString" value="Sorc Ds Grimoire Spells 4"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;Shout_WillO_theWisp_Dawnstar;Projectile_BloodLance_Dawnstar;Zone_DrainEssence_Dawnstar;Target_NaturesEmbrace_Dawnstar;Target_HellfireStorm_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="23bc0e69-0f8d-4d13-b00c-a27391e61b81"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="3276fcfe-e143-4559-b6e0-7d7aa0ffcb53"/>
+                    <attribute id="Name" type="FixedString" value="Sorc Ds Grimoire Spells 5"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;Shout_WillO_theWisp_Dawnstar;Projectile_BloodLance_Dawnstar;Zone_DrainEssence_Dawnstar;Target_NaturesEmbrace_Dawnstar;Target_HellfireStorm_Dawnstar;Target_SummonFamiliarSpirit_Dawnstar;Target_ExplodeCorpse_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="d8ccdfc3-ce13-4481-bb37-49c67556e48d"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="1270a6db-980b-4e3b-bf26-2924da61dfd5"/>
+                    <attribute id="Name" type="FixedString" value="Sorc Ds Grimoire Spells 6"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;Shout_WillO_theWisp_Dawnstar;Projectile_BloodLance_Dawnstar;Zone_DrainEssence_Dawnstar;Target_NaturesEmbrace_Dawnstar;Target_HellfireStorm_Dawnstar;Target_SummonFamiliarSpirit_Dawnstar;Target_ExplodeCorpse_Dawnstar;Target_DeathEater_Dawnstar;Shout_PheromoneBlast_Dawnstar;Target_WitchStorm_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="981590c5-9e81-4dcc-87b7-3a1f05b11e52"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="f5c4af9c-5d8d-4526-9057-94a4b243cd40"/>
+                    <attribute id="Name" type="FixedString" value="WarL Ds Grimoire CT"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_DeathMark_Dawnstar;Target_Entangle_Dawnstar;Rush_AstralDive_Dawnstar;Projectile_BallLightning_Dawnstar;Projectile_Bleed_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="2c4fbbf9-0fe1-497a-8694-81d694e6a71c"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="4823a292-f584-4f7f-8434-6630c72e5411"/>
+                    <attribute id="Name" type="FixedString" value="WarL Fiend Ds Grimoire Spells 1"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="90771086-ff90-42d9-8c77-aa0a5d888be5"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="835aeca7-c64a-4aaa-a25c-143aa14a5cec"/>
+                    <attribute id="Name" type="FixedString" value="WarL Fiend Ds Grimoire Spells 2"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="b716c42d-5de8-44f8-bc0f-6b5c8aefd52e"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="5dec41aa-f16a-434e-b209-50c07e64e4ed"/>
+                    <attribute id="Name" type="FixedString" value="WarL Fiend Ds Grimoire Spells 3"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;Shout_WillO_theWisp_Dawnstar;Projectile_BloodLance_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="bf609d84-f1c8-4397-8541-ab8f467511b8"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="7ad7dbd0-751b-4bcd-8034-53bcc7bfb19d"/>
+                    <attribute id="Name" type="FixedString" value="WarL Fiend Ds Grimoire Spells 4"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;Shout_WillO_theWisp_Dawnstar;Projectile_BloodLance_Dawnstar;Zone_DrainEssence_Dawnstar;Target_NaturesEmbrace_Dawnstar;Target_HellfireStorm_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="88a58715-966b-4550-b4d6-170ce5d891c0"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="deab57bf-4eec-4085-82f7-87335bce3f5d"/>
+                    <attribute id="Name" type="FixedString" value="WarL Fiend Ds Grimoire Spells 5"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;Shout_WillO_theWisp_Dawnstar;Projectile_BloodLance_Dawnstar;Zone_DrainEssence_Dawnstar;Target_NaturesEmbrace_Dawnstar;Target_HellfireStorm_Dawnstar;Target_SummonFamiliarSpirit_Dawnstar;Target_ExplodeCorpse_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="6838629f-5b71-4d3d-9776-2cd218d75003"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="e0099b15-2599-4cba-a54b-b25ae03d6519"/>
+                    <attribute id="Name" type="FixedString" value="WarL Archfey Ds Grimoire Spells 1"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="4f73f154-307f-43f0-90aa-98164a12be8f"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="0cc2c8ab-9bbc-43a7-a66d-08e47da4c172"/>
+                    <attribute id="Name" type="FixedString" value="WarL Archfey Ds Grimoire Spells 2"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="3bc83fcf-87cb-43d5-869c-4a5a2ed21746"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="f18ad912-e2f4-47a9-8744-73d6a51c2941"/>
+                    <attribute id="Name" type="FixedString" value="WarL Archfey Ds Grimoire Spells 3"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;Shout_WillO_theWisp_Dawnstar;Projectile_BloodLance_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="175db818-ac93-4da6-a6e9-7e7691b4b45d"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="c3d8a4a5-9dae-4193-8322-a5d1c5b89f47"/>
+                    <attribute id="Name" type="FixedString" value="WarL Archfey Ds Grimoire Spells 4"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;Shout_WillO_theWisp_Dawnstar;Projectile_BloodLance_Dawnstar;Zone_DrainEssence_Dawnstar;Target_NaturesEmbrace_Dawnstar;Target_HellfireStorm_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="51b875c0-11e0-447a-b41d-5644b94176bc"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="0a9b924f-64fb-4f22-b975-5eeedc99b2fd"/>
+                    <attribute id="Name" type="FixedString" value="WarL Archfey Ds Grimoire Spells 5"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;Shout_WillO_theWisp_Dawnstar;Projectile_BloodLance_Dawnstar;Zone_DrainEssence_Dawnstar;Target_NaturesEmbrace_Dawnstar;Target_HellfireStorm_Dawnstar;Target_SummonFamiliarSpirit_Dawnstar;Target_ExplodeCorpse_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="81cd145e-4730-4a86-97e3-155381cbc6b3"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="65952d48-bb16-4ad7-b173-532182bf7770"/>
+                    <attribute id="Name" type="FixedString" value="WarL TGOO Ds Grimoire Spells 1"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="ce028f7f-d139-4558-9e57-54344b5d9c20"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="fe101a94-8619-49b2-859d-a68c2c291054"/>
+                    <attribute id="Name" type="FixedString" value="WarL TGOO Ds Grimoire Spells 2"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="a9d0ebcb-96a9-4bee-89e7-2798ee81aa1f"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="30e9b761-6be0-418e-bb28-5103c00c663b"/>
+                    <attribute id="Name" type="FixedString" value="WarL TGOO Ds Grimoire Spells 3"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;Shout_WillO_theWisp_Dawnstar;Projectile_BloodLance_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="2613332c-d193-4d79-9e5d-93b45f537403"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="b64e527e-1f97-4125-84f7-78376ab1440b"/>
+                    <attribute id="Name" type="FixedString" value="WarL TGOO Ds Grimoire Spells 4"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;Shout_WillO_theWisp_Dawnstar;Projectile_BloodLance_Dawnstar;Zone_DrainEssence_Dawnstar;Target_NaturesEmbrace_Dawnstar;Target_HellfireStorm_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="6ed76b17-a233-4729-8c1b-6cde2b09207f"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="6d2edca9-71a7-4f3f-89f0-fccfff0bdee5"/>
+                    <attribute id="Name" type="FixedString" value="WarL TGOO Ds Grimoire Spells 5"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;Shout_WillO_theWisp_Dawnstar;Projectile_BloodLance_Dawnstar;Zone_DrainEssence_Dawnstar;Target_NaturesEmbrace_Dawnstar;Target_HellfireStorm_Dawnstar;Target_SummonFamiliarSpirit_Dawnstar;Target_ExplodeCorpse_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="c73aedaf-7d67-4ead-b560-8e26ae1d1f56"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="d90e88eb-e5f9-4db2-b7ef-1dccb044839a"/>
+                    <attribute id="Name" type="FixedString" value="WarL HexBlade Ds Grimoire Spells 1"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="56961a15-da1d-40d9-9a31-d09b037904ab"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="4a3bf687-91c1-4dad-821c-ad32171c7552"/>
+                    <attribute id="Name" type="FixedString" value="WarL HexBlade Ds Grimoire Spells 2"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="6ac33a5c-4187-4ccb-968a-77f2851f9895"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="58b8c82e-8ab3-4fd7-aa0a-3f2b831187f5"/>
+                    <attribute id="Name" type="FixedString" value="WarL HexBlade Ds Grimoire Spells 3"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;Shout_WillO_theWisp_Dawnstar;Projectile_BloodLance_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="1d6c5f5f-054d-4391-b546-f2cbfcb63c3d"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="39750075-781e-4ce2-a033-f8a288e47b8e"/>
+                    <attribute id="Name" type="FixedString" value="WarL HexBlade Ds Grimoire Spells 4"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;Shout_WillO_theWisp_Dawnstar;Projectile_BloodLance_Dawnstar;Zone_DrainEssence_Dawnstar;Target_NaturesEmbrace_Dawnstar;Target_HellfireStorm_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="805aa583-8520-43ab-afaa-91d399c7c347"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="88fafaeb-8b59-4319-9841-b9e6043f4636"/>
+                    <attribute id="Name" type="FixedString" value="WarL HexBlade Ds Grimoire Spells 5"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;Shout_WillO_theWisp_Dawnstar;Projectile_BloodLance_Dawnstar;Zone_DrainEssence_Dawnstar;Target_NaturesEmbrace_Dawnstar;Target_HellfireStorm_Dawnstar;Target_SummonFamiliarSpirit_Dawnstar;Target_ExplodeCorpse_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="ebfb6b51-728e-40b8-9dc4-710245803bcb"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="e6ccab5e-3b3b-4b34-8fa2-1058dff2b3e6"/>
+                    <attribute id="Name" type="FixedString" value="WarL Ds Grimoire Spells 6"/>
+                    <attribute id="Spells" type="LSString" value="Target_DeathEater_Dawnstar;Shout_PheromoneBlast_Dawnstar;Target_WitchStorm_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="d47a8c9e-5784-458b-88d5-ae1e902339d7"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="61f79a30-2cac-4a7a-b5fe-50c89d307dd6"/>
+                    <attribute id="Name" type="FixedString" value="Bard Ds Grimoire CT"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_DeathMark_Dawnstar;Target_Entangle_Dawnstar;Rush_AstralDive_Dawnstar;Projectile_BallLightning_Dawnstar;Projectile_Bleed_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="2c09ecfa-713a-47e8-bbf0-ebf8b73fcf89"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="dcb45167-86bd-4297-9b9d-c295be51af5b"/>
+                    <attribute id="Name" type="FixedString" value="Bard Ds Grimoire Spells 1"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="006ab419-83f2-4718-a416-2d77bee081eb"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="7ea8f476-97a1-4256-8f10-afa76a845cce"/>
+                    <attribute id="Name" type="FixedString" value="Bard Ds Grimoire Spells 2"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="c333c8a6-2541-4638-87f8-9aebc72dea25"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="c213ca01-3767-457b-a5c8-fd4c1dd656e2"/>
+                    <attribute id="Name" type="FixedString" value="Bard Ds Grimoire Spells 3"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;Shout_WillO_theWisp_Dawnstar;Projectile_BloodLance_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="e6bfef10-0fbe-42a5-92e2-efa873187db4"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="75e04c40-be8f-40a5-9acc-0b5d59d5f3a6"/>
+                    <attribute id="Name" type="FixedString" value="Bard Ds Grimoire Spells 4"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;Shout_WillO_theWisp_Dawnstar;Projectile_BloodLance_Dawnstar;Zone_DrainEssence_Dawnstar;Target_NaturesEmbrace_Dawnstar;Target_HellfireStorm_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="a1a9905e-dc70-467e-9d46-d7367bd0fb29"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="bd71fffb-e4d2-4233-9a31-13d43fba36e3"/>
+                    <attribute id="Name" type="FixedString" value="Bard Ds Grimoire Spells 5"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;Shout_WillO_theWisp_Dawnstar;Projectile_BloodLance_Dawnstar;Zone_DrainEssence_Dawnstar;Target_NaturesEmbrace_Dawnstar;Target_HellfireStorm_Dawnstar;Target_SummonFamiliarSpirit_Dawnstar;Target_ExplodeCorpse_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="62df912a-007d-42c7-aaa3-5d6698af6948"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="586a8796-34f4-41f5-a3ef-95738561d55d"/>
+                    <attribute id="Name" type="FixedString" value="Bard Ds Grimoire Spells 6"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;Shout_WillO_theWisp_Dawnstar;Projectile_BloodLance_Dawnstar;Zone_DrainEssence_Dawnstar;Target_NaturesEmbrace_Dawnstar;Target_HellfireStorm_Dawnstar;Target_SummonFamiliarSpirit_Dawnstar;Target_ExplodeCorpse_Dawnstar;Target_DeathEater_Dawnstar;Shout_PheromoneBlast_Dawnstar;Target_WitchStorm_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="56d7bf66-526c-4698-96e7-6cd41714d61d"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="2f43a103-5bf1-4534-b14f-663decc0c525"/>
+                    <attribute id="Name" type="FixedString" value="Clerc Ds Grimoire CT"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_DeathMark_Dawnstar;Target_Entangle_Dawnstar;Rush_AstralDive_Dawnstar;Projectile_BallLightning_Dawnstar;Projectile_Bleed_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="fdc7e7d0-c582-4e49-8af8-96e346ccbf78"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="269d1a3b-eed8-4131-8901-a562238f5289"/>
+                    <attribute id="Name" type="FixedString" value="Clerc Ds Grimoire Spells 1"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="19f9c0a9-ed64-46cb-93bd-71bd67cbbdff"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="2968a3e6-6c8a-4c2e-882a-ad295a2ad8ac"/>
+                    <attribute id="Name" type="FixedString" value="Clerc Ds Grimoire Spells 2"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="dd53a25f-c150-4004-a3b1-6dd22b3d8845"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="21be0992-499f-4c7a-a77a-4430085e947a"/>
+                    <attribute id="Name" type="FixedString" value="Clerc Ds Grimoire Spells 3"/>
+                    <attribute id="Spells" type="LSString" value="Shout_WillO_theWisp_Dawnstar;Projectile_BloodLance_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="3f83ff92-76f6-4d82-86e6-a326d4bb5eae"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="37e9b20b-5fd1-45c5-b1c5-159c42397c83"/>
+                    <attribute id="Name" type="FixedString" value="Clerc Ds Grimoire Spells 4"/>
+                    <attribute id="Spells" type="LSString" value="Zone_DrainEssence_Dawnstar;Target_NaturesEmbrace_Dawnstar;Target_HellfireStorm_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="e03e5930-b13d-483c-9ae3-ef7e059a1a11"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="b73aeea5-1ff9-4cac-b61d-b5aa6dfe31c2"/>
+                    <attribute id="Name" type="FixedString" value="Clerc Ds Grimoire Spells 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_SummonFamiliarSpirit_Dawnstar;Target_ExplodeCorpse_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="45d80e3c-60aa-4796-8100-1f0d3a83163a"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="f8ba7b05-1237-4eaa-97fa-1d3623d5862b"/>
+                    <attribute id="Name" type="FixedString" value="Clerc Ds Grimoire Spells 6"/>
+                    <attribute id="Spells" type="LSString" value="Target_DeathEater_Dawnstar;Shout_PheromoneBlast_Dawnstar;Target_WitchStorm_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="b3ba27d5-8397-4182-b8db-7252a6421e13"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="b8faf12f-ca42-45c0-84f8-6951b526182a"/>
+                    <attribute id="Name" type="FixedString" value="Druid Ds Grimoire CT"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_DeathMark_Dawnstar;Target_Entangle_Dawnstar;Rush_AstralDive_Dawnstar;Projectile_BallLightning_Dawnstar;Projectile_Bleed_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="7f1ac264-c826-4f6d-82ea-6ce3ae9c7f60"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="2cd54137-2fe5-4100-aad3-df64735a8145"/>
+                    <attribute id="Name" type="FixedString" value="Druid Ds Grimoire Spells 1"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="7f062002-1643-4c5d-b5f2-5b2dc26d0260"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="92126d17-7f1a-41d2-ae6c-a8d254d2b135"/>
+                    <attribute id="Name" type="FixedString" value="Druid Ds Grimoire Spells 2"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="312d6408-1a51-4195-96ca-3604bf4ac9d2"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="3156daf5-9266-41d0-b52c-5bc559a98654"/>
+                    <attribute id="Name" type="FixedString" value="Druid Ds Grimoire Spells 3"/>
+                    <attribute id="Spells" type="LSString" value="Shout_WillO_theWisp_Dawnstar;Projectile_BloodLance_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="8868ed0b-501e-47da-bb97-a736df8ef971"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="09c326c9-672c-4198-a4c0-6f07323bde27"/>
+                    <attribute id="Name" type="FixedString" value="Druid Ds Grimoire Spells 4"/>
+                    <attribute id="Spells" type="LSString" value="Zone_DrainEssence_Dawnstar;Target_NaturesEmbrace_Dawnstar;Target_HellfireStorm_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="36a4afda-308a-4b4a-a921-ba70e815f7f7"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="ff711c12-b59f-4fde-b9ea-6e5c38ec8f23"/>
+                    <attribute id="Name" type="FixedString" value="Druid Ds Grimoire Spells 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_SummonFamiliarSpirit_Dawnstar;Target_ExplodeCorpse_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="b678ce11-cf1b-4ede-9c46-1a2df56614bb"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="6a4e2167-55f3-4ba8-900f-14666b293e93"/>
+                    <attribute id="Name" type="FixedString" value="Druid Ds Grimoire Spells 6"/>
+                    <attribute id="Spells" type="LSString" value="Target_DeathEater_Dawnstar;Shout_PheromoneBlast_Dawnstar;Target_WitchStorm_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="f0778496-989c-43fb-98bb-1a960e847987"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="6529c75a-d8cd-4ddb-a1b1-f55cb1e66d9f"/>
+                    <attribute id="Name" type="FixedString" value="EldKni Grimoire Ds CT"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_DeathMark_Dawnstar;Target_Entangle_Dawnstar;Rush_AstralDive_Dawnstar;Projectile_BallLightning_Dawnstar;Projectile_Bleed_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="5510fdfc-1ac9-4b75-9e3c-91d8ea0180d7"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="32aeba85-13bd-4a6f-8e06-cd4447b746d8"/>
+                    <attribute id="Name" type="FixedString" value="Eldkni Grimoire DS Spells 1"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="0e5668b9-80b9-46f5-b0b4-42c3b4b672d8"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="4a86443c-6a21-4b8d-b1bf-55a99e021354"/>
+                    <attribute id="Name" type="FixedString" value="Eldkni Grimoire DS Spells 2"/>
+                    <attribute id="Spells" type="LSString" value="Zone_SpiritBlade_Dawnstar;Projectile_BleedingOut_Dawnstar;Projectile_SacrificeHealth_Dawnstar;Target_NaturesGrasp_Dawnstar;Target_Blizzard_Dawnstar;"/>
+                    <attribute id="UUID" type="guid" value="a0848007-bde3-48f2-8e8e-9f0f4541d340"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

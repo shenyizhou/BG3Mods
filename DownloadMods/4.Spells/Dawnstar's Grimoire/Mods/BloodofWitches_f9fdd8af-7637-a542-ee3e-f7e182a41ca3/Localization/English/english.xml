@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h1d591227gbd54gba12g0a24g09a26407cc16" version="4">WitchcraftSchool</content>
+  <content contentuid="h8f910975gb33fg178fgc008ga1daa3a73bf3" version="2">Born with acient magic from generations of powerful witches.</content>
+  <content contentuid="h8c5273c4g1e1agc1b6gabd5g5709ca9639a2" version="1">Blood of Witches</content>
+  <content contentuid="h52ff98cfg930cgbef3gf26ag85474f77f40b" version="1">Witch</content>
+  <content contentuid="hf44dd86bgf372gd34dg611cga5bcef2c38b0" version="1">The wisdom and power of old witchcraft have been passed down from your ancestors.</content>
+  <content contentuid="h1ca7ba1dgbaa4gc643gb303gbe4b0252e915" version="1">The wisdom and power of old witchcraft have been passed down from your ancestors.</content>
+  <content contentuid="hbc4f0d87gaa24g972ega7bfg5dedffb2978f" version="2">Witchcraft School Spells</content>
+  <content contentuid="h4ceb9b87gd3b1g16d9g421eg41430814a3a6" version="1">The raw power of acient witches runs through your veins granting you access to their spells. These are &lt;LSTag Tooltip="AlwaysPrepared"&gt;Always Prepared&lt;/LSTag&gt;.</content>
+  <content contentuid="hb5748101g7abcgcd28g7880ga7aa0e60d0ff" version="3">Sacrificial Offering </content>
+  <content contentuid="h083de032g8ebega80bgbfddg9b69c829397a" version="1">Drain Essence</content>
+  <content contentuid="heb991987gc99dgbebdgfb9bg1bf9f4b7ef72" version="1">Drain Essence Caster</content>
+  <content contentuid="he302ae76gb683g2ac9gbf4bg25f40828e3f7" version="2">Unlocked Drain Essence: Activate</content>
+  <content contentuid="h7f65f1efg0e51g462agfc2cg704674320ace" version="2">Activate Drain Essence</content>
+  <content contentuid="h30b3e1efg527ag92dagbd1dg27504e0b3929" version="3">Activate the necrotic tether to deal [1] and regain half as many &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.</content>
+  <content contentuid="h3a28b15ag5331g70c1g0a27g2dbfd6455c68" version="3">The spellcaster can activate the tether that's attached to the creature to automatically deal necrotic damage and regain half as many &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.</content>
+  <content contentuid="h9c290d9agccb3g59a0gd636g237ab057cd38" version="14">Extract your own life force, taking [1], to heal a creature of your choice. They recieve &lt;LSTag Type="Status" Tooltip="FALSE_LIFE"&gt;False Life&lt;/LSTag&gt; gaining [2].</content>
+  <content contentuid="hf8ae3565g6ed2g751bg8fabg307f6b32607e" version="2">Drain Essence</content>
+  <content contentuid="h20157285g2ea9g36bfg0e6eg723987edbe42" version="5">Tether yourself to up to 5 creatures in front of you. Each turn, activate the spell to deal [1] and regain half as many &lt;LSTag Tooltip='HitPoints'&gt;hit points&lt;/LSTag&gt;. The tethers break if concentration is lost or if it's not activated for two turns.</content>
+  <content contentuid="hd4c09466gc0ddg4e72gb42bg52a18112fe03" version="1">Drain Essence Absorb</content>
+  <content contentuid="he5b8581fgbcaeg5cbege7ddg2c10777c8579" version="2">Life or Death</content>
+  <content contentuid="hd1ab8123gd148g7e53ga1f1g7571ac8245a9" version="6">A creature can be cursed to take an additonal [1] or enchanted to receive the maximum number of &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;. </content>
+  <content contentuid="h1c4a925eg8e24g66bbgc461g8c8621aee26a" version="3">Decay</content>
+  <content contentuid="h227f3929g0f7dgbf36g0eb8g13e40dfd7711" version="5">Target will be become vulnerable to [1].</content>
+  <content contentuid="h9649abe2g142cg07dcg7becg837b0a61e480" version="3">Decay</content>
+  <content contentuid="h492e449cg9dcbgcf03ge247gb51b0d29e9af" version="8">Creature takes an additional [1] when hit by a spell that deals necrotic damage.</content>
+  <content contentuid="hd0ade9afgcf63gd11fg3e5ag935a7f310671" version="2">Life</content>
+  <content contentuid="h3d5fdd6eg021agd82dgcc03g73ca8518b438" version="2">Target will receive the maximum number of &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.</content>
+  <content contentuid="hd28eef91ge174gb83cg4b03g245e1c5ef91f" version="1">Gift of Life</content>
+  <content contentuid="h9c896ca4g2716ga3a3g6b76g5fc2db80e5bc" version="1">Will receive the maximum number of &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; when healed. </content>
+  <content contentuid="h9cc44aefg2c58g72f1g0b10g8f7cd1c6f4e1" version="1">Astral Decoy</content>
+  <content contentuid="h0fec839bga0cdg5be6gb87cgcb981faa4756" version="1">Cast A projection of yourself, drawing your enemies attention to your duplicate. </content>
+  <content contentuid="h76d53e24g067bg72cage9acg2aeb01ddfd5e" version="2">Familiar Spirit</content>
+  <content contentuid="h0be5ba9ag2ff3g4113gceffg3a50859fa222" version="12">Gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to damage from spells and melee attackers take [2] and [3] when they strike.</content>
+  <content contentuid="h64633dafg4c39g59f2ge522g116024701aa3" version="1">Astral Aura</content>
+  <content contentuid="hdea00e62g7896g5d36g6bebg83598ea48a59" version="1">Illusory Double</content>
+  <content contentuid="h128dcb12g0e6eg01c3g2f7bg46ffa213b706" version="1">Illusory Double</content>
+  <content contentuid="h3a934436g49d2gc3beg0582g1b5cd3f272eb" version="1">Illusory Double</content>
+  <content contentuid="h4448e1bbg6755g321ag7792gb77b3cdaf17d" version="1">Illusory Double</content>
+  <content contentuid="h75efac18gb9a4g944agb0e0gf70d4a576e28" version="1">Illusory Double</content>
+  <content contentuid="h3796076bga4cfgdf88gecf3g72a22a33839d" version="1">Illusory Double</content>
+  <content contentuid="h7fa7c129g2afag4419g9262g78d94f36ca1d" version="1">Illusory Double</content>
+  <content contentuid="h3a1b6bc0ga1d2gd406g8aa0gc00a10cd8570" version="1">Illusory Double</content>
+  <content contentuid="hcb32e709g00bcg4e41ge6e0g277130d2c2a1" version="1">Illusory Double</content>
+  <content contentuid="hac1f744bgd4c2g13b9gac2fgb42c399b4988" version="1">Illusory Double</content>
+  <content contentuid="h50fdeff3g931eg94d7gd935gb75f4ba79ea8" version="1">Illusory Double</content>
+  <content contentuid="h96aad583g3d09gcd8dg28f1g28468e49ff2d" version="1">Illusory Double</content>
+  <content contentuid="hd9078e15g574cgcd4dg34adg7dd0bf222cf1" version="8">Illusory Double</content>
+  <content contentuid="hc0be9083g07d3g9175g1417g0e93191717c8" version="1">Illusory Double</content>
+  <content contentuid="h6fb0b073g7725g3d5bg729bga898a0a13216" version="1">Illusory Double</content>
+  <content contentuid="h2be62ff8g823eg2d22g18a1g20a3c1b19794" version="1">Illusory Double</content>
+  <content contentuid="h941bde9aga390ga9dcg28cag1bf8acc20f93" version="1">Illusory Double</content>
+  <content contentuid="hd717726bg1411gc717g91bfg7eaa11996026" version="1">Illusory Double</content>
+  <content contentuid="h82867cf5g02f7ga56cga34ag0ac1b4a5f179" version="1">Illusory Double</content>
+  <content contentuid="hd529c794g2104g063fg4207g1267e176d6cf" version="1">Illusory Double</content>
+  <content contentuid="ha306c111gb34bg14dfg6f1bg220149173e5e" version="1">Illusory Double</content>
+  <content contentuid="hc4051ebegeb5cg23efg199eg96ea30af3e97" version="1">Illusory Double</content>
+  <content contentuid="h46230180g0cc6g953fgce30g2b8ab1c47355" version="3">Illusory Double</content>
+  <content contentuid="he2b2f693gc70cg2ea7g503fg9edb7f1ef764" version="1">The spellcaster and its allies have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; when they and their target are both within [1] of the illusory duplicate.</content>
+  <content contentuid="h822a8348gf04eg7e9cg4dcbg611f65779168" version="45">Familiar Spirit</content>
+  <content contentuid="ha1c4d87bg3a5dgdd17gcd40g44ccc45ab3b3" version="2">Familiar Spirit</content>
+  <content contentuid="hc41cb4e3ge862g4320g1c0bg34e50fa2be95" version="6">Call forth a vengeful familiar spirit that protects the spellcaster and their allies. When less than [1] of the familiar gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to damage from spells</content>
+  <content contentuid="h7403a540g3485g63fcg0c80g80d51e7f066a" version="1">Minor Illusion</content>
+  <content contentuid="h14a6daf5g7595g6d75g065bg1ee19fe4fc92" version="1">Familiar Spirit Aura</content>
+  <content contentuid="h7523dd83ge4aeg53c5gdd72gd2d8b9a4bc01" version="1">The spellcaster and its allies have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; when they and their target are both within [1] of the illusory duplicate.</content>
+  <content contentuid="hd15a4332gcec4g7541gcad3g35d52c65c187" version="1">Will-o-the-wisp</content>
+  <content contentuid="h2f0d4352g60dagb221ga2beg36aca7238abd" version="12">Summon three wisps; each increases your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 1. Use an action to launch one at will and it will possibly seek out two extra targets. Each wisp deals [1] and [2].</content>
+  <content contentuid="h5224588bgfae1gfe10gd946gfbb01d5e76ba" version="2">Three Will-o'-the-wisp</content>
+  <content contentuid="hb402db05gc012gf3ceg3eeag59665079467f" version="3">Three flickering wisps surround the creature, ready to be sent out to attack the spellcasters foes.</content>
+  <content contentuid="hbd56a254g7c92g71d6g37f0gee0f9edb23f9" version="2">Fire Will-o-the-wisp</content>
+  <content contentuid="h8edf99fcgcc59gf3aeg24a3gece603815fb7" version="4">Send out one of the three wisps that will seek out another two enemies if they fail the &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
+  <content contentuid="hcad34f96g9df8g2430g3ae6g3cad095785b1" version="4">Two Will-o'-the-wisp</content>
+  <content contentuid="he93d69eeg2a63g4431g3fd9g3f37bdd9717b" version="3">Two flickering wisps surround the creature, ready to be sent out to attack the spellcasters foes.</content>
+  <content contentuid="h4a318fb8g1c29g3209g78cagc56398e71635" version="2">Fire Will-o-the-wisp</content>
+  <content contentuid="h9504ec8cg9b3eg8246g1385gcda093afcdd8" version="5">Send out one of the two wisps that will seek out another two enemies if they fail the &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
+  <content contentuid="hf06cc6e4g70a3g360agd64eg749360ddf099" version="2">Fire Will-o-the-wisp</content>
+  <content contentuid="ha8d1cabagb836g42f2gd0a1g1f900e4fa90d" version="4">Send out a wisp that will seek out another two enemies if they fail the &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
+  <content contentuid="hfb10e1a9g59b0gd9a3g0695gbe0c1d2e6591" version="2">Will-o'-the-wisp</content>
+  <content contentuid="h4f6516fag91f6gcec7g707cgc7d9e0652bf9" version="3">A flickering wisp surrounds the creature, ready to be sent out to attack the spellcasters foes.</content>
+  <content contentuid="hfe6ea50bg186ag6563gc97egb55767cd1712" version="1">Will-o-the-wisp: DIsmiss</content>
+  <content contentuid="hce9f5e9eg3897gffc7g8962g1a1cd5675e78" version="1">Dispel the wisp[s]. </content>
+  <content contentuid="h54132a80g48e8ga6f4g5512geabe170cf669" version="1">Will-o'-the-wisp</content>
+  <content contentuid="hc1eb9084ga506g0630gfa87gb2d1a12bac4e" version="1">Death Curse</content>
+  <content contentuid="h5e22f025gf730g4562g2d55g369cd39a3ab4" version="1">Attacking the target of your Death curse spell deals an extra [1].</content>
+  <content contentuid="h1aa4493fgdf46g77e6g3711ga79cfab54338" version="1">Curse of Death</content>
+  <content contentuid="h4f303084gf594g753bg97ffgd216d9a7158d" version="1">When this creature attacks the target of its Hex spell, it deals an additional [1].</content>
+  <content contentuid="ha66220b0g9ae6ga91cgf92cgd855b46689f3" version="2">Decay</content>
+  <content contentuid="he057f695g7ac1g1068g1502g29039444756b" version="2">Creature suffers an additional [1] when the spellcaster deals necrotic damage from a spell.</content>
+  <content contentuid="h4c6b35f3g97e4g20d5g1ad1g8dc4037d4093" version="11">The target takes an additional [1] when hit by a spell that deals necrotic damage. If the Target is already suffering from &lt;LSTag Type="Status" Tooltip="LIFEORDEATH_DEATH_DS"&gt;Decay&lt;/LSTag&gt; it takes [2] on impact, along with the full effects of the spell.</content>
+  <content contentuid="h6554efb4ga760g407cg0408g1e1bf6a85bf2" version="1">Death Curse</content>
+  <content contentuid="h5849cd72g9a53gfb76g6924g06c1a56298ab" version="1">Curse of Death</content>
+  <content contentuid="h35a7924bg2049gf183gaf4bg6d3069742d0a" version="1">Witchcraft</content>
+  <content contentuid="hed635f8dg1699g79fdg3f4dgde06bfde6cb6" version="1">Witch</content>
+  <content contentuid="hea0b4b80gf525g7e76g9248g591cc3c06dcb" version="1">The wisdom and power of old witchcraft have been passed down for generations.</content>
+  <content contentuid="h70639c96g4f3cg434fg3719gf2f1a2bc792c" version="1">The raw power of acient witches runs through your veins granting you access to their spells. These are &lt;LSTag Tooltip="AlwaysPrepared"&gt;Always Prepared&lt;/LSTag&gt;.</content>
+  <content contentuid="h367655f6gcf81gda40g632fgdef81d837746" version="1">Hellfire </content>
+  <content contentuid="h277f4c86g0985gf267ga2a4g6887992497cb" version="1">Summon a blast of hellfire</content>
+  <content contentuid="h804a74cegc58eg17bag2b00gf823baadc453" version="1">Hellfire</content>
+  <content contentuid="he3ac7d66gab41g545egff8dg7d538e1c32ec" version="2">Open a portal to hell that rains fire and brimstone, leaving a &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt; surface.</content>
+  <content contentuid="h4fa38bccg3541ga7a7g32f1gce28ae109713" version="1">Witch Storm</content>
+  <content contentuid="h4ecf6cf3gc6aag8fb3gfc11g635e0d30dac9" version="6">Conjure a lightning storm that pulls enemies toward its center on impact, dealing [1]. At the start of each turn, it strikes again for [2]. The storm reduces enemy &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; by half and they become highly conductive, causing the Ball Lightning cantrip to chain between them.</content>
+  <content contentuid="h93611521gb231g9b67g99c3g53a8b7434c59" version="2">Highly Conductive (Witch Storm)</content>
+  <content contentuid="hd91774f5g9628g1f07g6d6dgaedf37d374ed" version="2">Takes [1] at the start of its turn.</content>
+  <content contentuid="h265ba2a9gdd83g6e61g77d0g6bd0c9b9063c" version="2">Witch Storm</content>
+  <content contentuid="h42942a0fg2f2fgc3aagbd5cg3495332d593d" version="8">Witch Storm</content>
+  <content contentuid="h06efe79bg1a9cg1254ge4ebg4c67b8994669" version="1">Familiar Spirit</content>
+  <content contentuid="h0c42c8degadf6g59e8g8612g295aa4349491" version="7">Summon a vengeful familiar that shields the spellcaster and their allies, when they're within [1] of the spirit they become &lt;LSTag Tooltip='Resistant'&gt;Resistance&lt;/LSTag&gt; to spell damage. When an enemy lands a melee attack, they take [2] and [3] in retaliation once per turn for each ally harmed.</content>
+  <content contentuid="hdb385100g6784gb30egeb14gb9eea21af3e0" version="7">The spirit emits a vengeful aura that reflects [1] and [2] back at melee attackers when they strike the caster or allies within the aura. The spirit is vulnerable to spell damage, but allies within the aura gain Resistance to spell damage.</content>
+  <content contentuid="hfb18c6a0g49b9g118fg25b4gf48f14f59dfd" version="2">When caught in the Witch Storm creatures take [1] at the start of their turn.</content>
+  <content contentuid="h920a5615g2470gb2c1ga07cg29c6f76b88a2" version="2">Blood Surge</content>
+  <content contentuid="h9b3673a9ge53eg969fgd359gb1ebe88b5bc6" version="9">Form a cluster of bloody spikes around a fresh corpse. Any creature within [1] of the target is harmed. You can keep bursting corpses while concentrating.</content>
+  <content contentuid="hd9dd69deg62f2g0e8cg72a4gb2faece17381" version="1">Punctured Defense</content>
+  <content contentuid="h1275f233g1f8dg6215g0407ga9767a2508ef" version="3">&lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; is reduced by [1] and there is a -[2] penalty to &lt;LSTag Tooltip="SavingThrows"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+  <content contentuid="h4003b8a7gd252g4fd7g0e43gec98da3c4985" version="1">Natures Grasp</content>
+  <content contentuid="h43ffeb55gdfb2ga59cg2a1fgdcb5d577b2c7" version="8">Cage up to 3 creatures with vines and deadly plants that sprays the victim with poison. Each turn it takes [1], cannot move, cannot take reactions and has a &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+  <content contentuid="hd50d27d1g534ege7ceg9ab2gd02cde6de827" version="1">Natures Grasp</content>
+  <content contentuid="h731defd3g970agcdfcgfa47g64b68cd68d11" version="6">Take [1] at the start of each turn, cannot move or take reactions and has a &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+  <content contentuid="h39205847geb25g931eg2b3fgb8e13256f7c0" version="3">Bleed Out</content>
+  <content contentuid="h2bb3f02bg4c7dg8a43gab7cge935cb282a72" version="7">Takes [2] and [1] at the start of it's turn and Incoming attacks have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.</content>
+  <content contentuid="h326ac8efgdc38ge835g2785g074c27a5cda3" version="1">Bleed Out</content>
+  <content contentuid="h0c240126ga937g2827g8a59g690616a44fa8" version="1">Target a living creature and pull the blood from it's body causing it to bleed  taking [1] at the start of every turn.</content>
+  <content contentuid="he31bb48egd53fg232bg75bagfddedc1eb4c3" version="1">Bleeding Out</content>
+  <content contentuid="hed3a686cgd6a2gd2b4ga932g192cb86db8cc" version="1">Blood Lance</content>
+  <content contentuid="h4beab78cg603cgf158g4d64g6b7e4015f824" version="1">Fire a spike of blood from a fresh corspe or bloody puddle.</content>
+  <content contentuid="heb73f16fgcb1fg6b60g0269gbe5539863cb1" version="2">Phlebotomize</content>
+  <content contentuid="hcd8a8e69g2c1bgfe52gad6cgde5c9c308e35" version="19">Target a fresh corpse or a creature afflicted with &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;Bleed&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="BLEEDOUT_DS"&gt;Bleed Out&lt;/LSTag&gt;, or &lt;LSTag Type="Status" Tooltip="GAPING_WOUND"&gt;Gaping Wounds&lt;/LSTag&gt; to release up tp 5 spears made of blood. Each one strikes a different enemy within [1] of the target, dealing [2]. If the original target is living it takes [3].</content>
+  <content contentuid="h2091e37dgdc94gef07geb69g93843d741d8f" version="1">Blood Surge</content>
+  <content contentuid="h0ee3eb21g3934gdb1fg96afg7cb3cce4f35b" version="1">Create spikes using the blood of fresh corpse to puncture through your opponent's armor and reduce its &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by [1] and -[2] penalty to &lt;LSTag Tooltip="SavingThrows"&gt;Saving Throws&lt;/LSTag&gt;. </content>
+  <content contentuid="h34f4f7aage401g156bgdc4bg41737b49575a" version="2">Hemorrhage</content>
+  <content contentuid="hca725496g790dgdac4g9a56g2e5e36532e88" version="14">Pull the blood from a creature’s body, causing it to &lt;LSTag Type="Status" Tooltip="BLEEDOUT_DS"&gt;Bleed Out&lt;/LSTag&gt;. At the end of its turn, the target takes [1] and [2], and incoming attacks have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;. Creatures can make a Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; at the end of each of their turn to end the effect early.</content>
+  <content contentuid="h050365e7gf1bagee83g469dg5978274a2106" version="1">Pheromone Blast</content>
+  <content contentuid="hdf5353d7gfa47g9786gc54fgf51a4afe0ba0" version="8">Call forth plants that release fear-inducing pheromones, warping the minds of nearby creatures. Overwhelmed by hallucinations, they are compelled to flee and suffer &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on Intelligence and Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. The effect lasts for 5 turns, but taking damage snaps them back to reality.</content>
+  <content contentuid="h20b11384gba20g791fg9996g1cb2870cd776" version="1">Pheromonal Doom</content>
+  <content contentuid="h2ca3b26dgc075g7cb8gdb65g1ae7a11f5d4c" version="3">The affected entity must move away from the creature that casted the spell.&lt;br&gt;&lt;br&gt;It can't take actions, bonus actions, or reactions other than &lt;LSTag Type="Spell" Tooltip="Shout_Dash"&gt;Dash&lt;/LSTag&gt;, or try to escape an effect that prevents movement.&lt;br&gt;&lt;br&gt;Ends upon taking damage. &lt;br&gt;&lt;br&gt;Has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on all &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+  <content contentuid="hc5b9e2a0ga88ag36c3gea9egeb6f9ab51cfe" version="1">Spirit Blade</content>
+  <content contentuid="hcea05766g1ad3g58a4ge98fg6df527cadd02" version="7">Form a sword out of the energy of spirits; swing it in a large arc to possibly throw your enemy &lt;LSTag Type="Status" Tooltip="OFF_BALANCED"&gt;Off Balance&lt;/LSTag&gt;.</content>
+  <content contentuid="hc5f2e059gc4f7g12b0gae3dgfdc37de90d42" version="2">Soul Dive</content>
+  <content contentuid="hac510b22g38d3g2215gaf8fg23f472d757ad" version="5">Charge forward in astral form, hitting all enemies in the way and possibly knock them &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+  <content contentuid="h5986d39bg2cc7gbfabgb238g7fbdbd370beb" version="1">Bleed</content>
+  <content contentuid="h3b72dad6g64fag3cb9g24c4gc58a1da407fa" version="2">Cause a creature to &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;Bleed&lt;/LSTag&gt;.</content>
+  <content contentuid="h38e5c3f8g94f8g7568g8304gc29cf92594f0" version="3">Ensnare</content>
+  <content contentuid="hb2ff83abgc511ge208g97ddg53c6892eb4ca" version="1">Entangle </content>
+  <content contentuid="hf9fd9ffag52dfgdc33gad1egb4cdf0939f3c" version="3">Entangle a creature; it can't move, &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against it have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;, while its Attack Rolls and Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+  <content contentuid="h3b80df1cge708gf7e5ge0a2g8ecce86c1995" version="1">Natures Embrace</content>
+  <content contentuid="h8c972475g1bd5g645egdacfgac7e209a4666" version="9">Nature’s bounty surges forth, covering the ground in lush, radiant flora. When cast, allies in the area restore [2]. Allies that remain in the enchanted growth regains [1] at the start of their turn.</content>
+  <content contentuid="h225e4fd0g2344g1783g57afge0ec0e1b2eaf" version="1">Natures Embrace</content>
+  <content contentuid="h09006019g2c01gdd5eg379cgb262d0235d11" version="3">Creature [1] at the start of its turn.</content>
+  <content contentuid="h1e139ce3gfa97g32e1g575agd39ff4ef3e9b" version="1">Natures Embrace</content>
+  <content contentuid="h493afb10gea85g13bagec58g4770a1f52346" version="1">Regain hitpoints at the start of turn</content>
+  <content contentuid="h87929752g4578gc6dag6ffdg95ce65a4215d" version="2">Death Eater</content>
+  <content contentuid="h25282d39gced7g07e3gaa42g620cfe8bdea0" version="3">Make use of a fresh corpse or the undead to produce runes that surround them with a necrotic aura. Creatures inside the spell takes [1] and can't regain &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.</content>
+  <content contentuid="h9d9ee3a7g3b65g8efega15cg1cdcf99e0fd3" version="4">Cursed Corspe</content>
+  <content contentuid="h2c21da0bgf83dg36ddg59dag9f16404d892a" version="1">Death Eating Aura</content>
+  <content contentuid="ha0d557ecg0610g684agc163gc8187ca27a38" version="6">Creatures within the spell can't regain &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; and are &lt;LSTag Tooltip="Vulnerable"&gt;vulnerable&lt;/LSTag&gt; to Radiant damage. Spellcaster can detonate the runes dealing [1] and regain half as many &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.</content>
+  <content contentuid="hae4ec39dg20e6g8c0dga568gcb3d700c2414" version="1">Death Eater</content>
+  <content contentuid="h5add8e47gd87cg331cgf774g700b7eeefecd" version="1">Creatures take [1] at the end of their turn and on status apply</content>
+  <content contentuid="h9db81a06g67a9gadefgc0eeg51aa49d276e4" version="3">Death Eater</content>
+  <content contentuid="h737952d3g7801gf3e4gc337g549a3eefaa9f" version="3">Creature can't regain &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; and is &lt;LSTag Tooltip="Vulnerable"&gt;vulnerable&lt;/LSTag&gt; to Radiant damage.</content>
+  <content contentuid="ha25fd550g678bg9399ge5f8g6c8efd2ab051" version="4">Make use of a fresh corpse or the undead to produce runes that surround it with a necrotic aura. Creatures inside the spell can't regain &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; and are &lt;LSTag Tooltip="Vulnerable"&gt;vulnerable&lt;/LSTag&gt; to radiant damage. Detonating these runes deal [1] to nearby creatures and you receive half as many &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.</content>
+  <content contentuid="h06bdf1b6g8aa7gbeb3g3f06gdb13e65abb4c" version="1">Detonate Death Eater</content>
+  <content contentuid="h7783740bgcda0g8a1agf1d0g52551826b2f4" version="1">Detonate the Death Eater runes, dealing [1] to nearby creatures and you receive half as many &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.</content>
+  <content contentuid="h811590d1g3fbag22a3g7bedg0cadd5397b0c" version="1">Familiar Spirit</content>
+  <content contentuid="h790713c1gc05egdb03gff84gcc2ffed2ab4f" version="3">Natures Embrace</content>
+  <content contentuid="h3c768d3fg222fg0c26g804cg40cd7525ba42" version="1">Ball Lightning</content>
+  <content contentuid="h065e961ag4b73g5cadg09dcg4c5b41f5fe78" version="2">Release an orb of electricty, if nearby enemies are suffering from &lt;LSTag Type="Status" Tooltip="SHOCKED"&gt;Shocked&lt;/LSTag&gt;, it chains off and deals [1].</content>
+  <content contentuid="h3fd6b642gdc18g7e2eg92a1gb05b8e26bde1" version="5">Blizzard</content>
+  <content contentuid="hd4b2da89gdc03g9d4fg4ee6g4d60bef53db2" version="5">A furious ice storm that will eventually freeze the creatures inside.</content>
+  <content contentuid="hcbd1bd13g5719g95f7g5bc5g6662691b59a0" version="3">Winters Veil</content>
+  <content contentuid="h63844d7fgdce8g7525g4fe8gfebf4b26fd34" version="9">Summon a swirling snowstorm that grants you and your allies +[1] to &lt;LSTag Tooltip='ArmourClass'&gt;Armour Class&lt;/LSTag&gt; but halves all &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt;. While active, enemies may become &lt;LSTag Type="Status" Tooltip="CHILLED"&gt;Chilled&lt;/LSTag&gt;, and you can call down a spiked hailstone to deal [2].</content>
+  <content contentuid="h4efe4819g49bag9632gec3eg9416b79e897f" version="1">Blizzard </content>
+  <content contentuid="h8dd02a50g809fg2ed1g58c9ga8862bde8080" version="1">xx</content>
+  <content contentuid="hf9780ebcg8156gf9a3g90efg8ae144511f3c" version="11">Blizzard</content>
+  <content contentuid="hc84c6f31g6463g39afg915fg71092875afda" version="1">Blizzard </content>
+  <content contentuid="h549edbdfga4cbgd87cgb455ga4f87c452daf" version="1">Takes [1] at the start of its turn.</content>
+  <content contentuid="hc5291801g0fe4g738bg94fbga4a54146c0ee" version="1">Deep Freeze</content>
+  <content contentuid="hd2fb7d55g2269gc9e4g2c1bgb7bd57ee1fe1" version="1">Frozen by blizzard</content>
+  <content contentuid="h9c78ea66g23b9g561dg5be6g1d32d6c89dc3" version="2">Ice Prison</content>
+  <content contentuid="hb2ceec60g9302gddcfg4b44g109fe5280da1" version="2">Standing in the blizzard for too long has frozen this creature frozen in place.</content>
+  <content contentuid="h252ec91eg78f8g6b14g966egdc29fc8c22e0" version="3">Hail Stone</content>
+  <content contentuid="hc6a6fdaag4e4ag96f1g9d9agb75feb562c32" version="2">Drop a large spike of ice from the Blizzard on to an enemy.</content>
+  <content contentuid="h57484182gc783g4bb2g9006g35f87b42d85d" version="2">CastHailStone</content>
+  <content contentuid="h8741c119g4f99ga71fgc93agb96a00738f3e" version="2">x</content>
+  <content contentuid="h0e0c4739gdd32g8559g344dgf2f678ab0365" version="1">Ice Shard</content>
+  <content contentuid="he662a199g3e1dg7a6eg256eg1c60f592ed54" version="3">Drop a spiked hail stone on an enemy.</content>
+  <content contentuid="h6ce92674gcf0cg3d21g703dga8a6139ba3a3" version="1">Ice Armour</content>
+  <content contentuid="h1355cc47gfec6gc091g1eadg558429cd3410" version="2">Covered in a magical layer of frost, increasing &lt;LSTag Tooltip='ArmourClass'&gt;Armour Class&lt;/LSTag&gt; by [1].</content>
+  <content contentuid="h7caadb8dg1969ge946geca7g62e9eb57e719" version="5">Movement Speed is halved and risk becoming &lt;LSTag Type="Status" Tooltip="CHILLED"&gt;Chilled&lt;/LSTag&gt; from being within the storm. </content>
+  <content contentuid="h1a6d1810g6296g3c83gc54bg0b0badde60d6" version="2">Standing in the blizzard for more than 1 turn can freeze an enemy in place.</content>
+  <content contentuid="h00e9cc2fgd8cegd3d5g2db9gf38c79d1f502" version="1">Hailstone</content>
+  <content contentuid="h1162270fg6ffag90e9g2e63g2708578db80a" version="1">Creature [1] at the start of its turn.</content>
+  <content contentuid="h4bc6378agaa59g5c67gc741gff227c542511" version="1">Decay</content>
+  <content contentuid="h4c6c1083ge9a6gec9bg007bg351e74821385" version="1">Creature takes an additional [1] when hit by a spell that deals necrotic damage.</content>
+  <content contentuid="h699604f1g5ca4g9b1fg3720g1c562a67c443" version="1">Decay</content>
+  <content contentuid="h156fd15cg8281g7818gfdeag2240d6a8f032" version="1">Creature takes an additional [1] when hit by a spell that deals necrotic damage.</content>
+  <content contentuid="hb6dbaa02g4114g6915g3489ged097d2d4f98" version="1">Decay</content>
+  <content contentuid="hc427510bg9763g946fg363dge4e16e910dc2" version="1">Creature takes an additional [1] when hit by a spell that deals necrotic damage.</content>
+  <content contentuid="h851ac8dag75c8g7e70gc8caga16d7577e019" version="1">Bleed Out</content>
+  <content contentuid="hdd20dcb6ga382g5401g9643ge3be281464af" version="1">Bleed</content>
+  <content contentuid="h8343176agf27egb886g85d0g88a303f72cd1" version="1">Cause a creature to &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;Bleed&lt;/LSTag&gt;.</content>
+  <content contentuid="h65d44720gf99fg9721g3c77g606245f842ca" version="1">Ensnare</content>
+  <content contentuid="h9af72d11gebadg280ag2efcgfd0d03180ac3" version="1">Restrain a creature with entangling vines.</content>
+  <content contentuid="hce5c8a7cg3e56gd953g1381gdf2460bd5be4" version="1">Ensnare</content>
+  <content contentuid="h826555d1g0175g4ac3gaac9ge8567a3a6841" version="1">Immobilized by grasping vine.</content>
+  <content contentuid="hc12343c4g6541g3d69gf197g037b41224476" version="2">Pull the blood from up to [3] creatures’ bodies, causing it to &lt;LSTag Type="Status" Tooltip="BLEEDOUT_DS"&gt;Bleed Out&lt;/LSTag&gt;. At the end of its turn, the target takes [1] and [2], and incoming attacks have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;. Creatures can make a Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; at the end of each of their turn to end the effect early.</content>
+  <content contentuid="h3bc74fc7g75fcg9fcbga9fegb5ce80a770ed" version="2">Pull the blood from up to [3] creatures’ bodies, causing it to &lt;LSTag Type="Status" Tooltip="BLEEDOUT_DS"&gt;Bleed Out&lt;/LSTag&gt;. At the end of its turn, the target takes [1] and [2], and incoming attacks have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;. Creatures can make a Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; at the end of each of their turn to end the effect early.</content>
+  <content contentuid="h8b5276ddgf3a5g8849g83d2gdba48ab495ad" version="2">Pull the blood from up to [3] creatures’ bodies, causing it to &lt;LSTag Type="Status" Tooltip="BLEEDOUT_DS"&gt;Bleed Out&lt;/LSTag&gt;. At the end of its turn, the target takes [1] and [2], and incoming attacks have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;. Creatures can make a Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; at the end of each of their turn to end the effect early.</content>
+  <content contentuid="h60c5bcffgb917g3b1dg5222g668dff95b216" version="2">Pull the blood from up to [3] creatures’ bodies, causing it to &lt;LSTag Type="Status" Tooltip="BLEEDOUT_DS"&gt;Bleed Out&lt;/LSTag&gt;. At the end of its turn, the target takes [1] and [2], and incoming attacks have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;. Creatures can make a Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; at the end of each of their turn to end the effect early.</content>
+  <content contentuid="hd000a76cg4b7fg4721gd358gbbd745f5a456" version="2">Pull the blood from up to [3] creatures’ bodies, causing it to &lt;LSTag Type="Status" Tooltip="BLEEDOUT_DS"&gt;Bleed Out&lt;/LSTag&gt;. At the end of its turn, the target takes [1] and [2], and incoming attacks have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;. Creatures can make a Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; at the end of each of their turn to end the effect early.</content>
+  <content contentuid="hf7a9cc6dg833dg0355g4c63g3efdbdbcb074" version="2">Pull the blood from up to [3] creatures’ bodies, causing it to &lt;LSTag Type="Status" Tooltip="BLEEDOUT_DS"&gt;Bleed Out&lt;/LSTag&gt;. At the end of its turn, the target takes [1] and [2], and incoming attacks have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;. Creatures can make a Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; at the end of each of their turn to end the effect early.</content>
+  <content contentuid="hd70d09abg2d8fgc135gdc92g909cd55dc174" version="2">Pull the blood from up to [3] creatures’ bodies, causing it to &lt;LSTag Type="Status" Tooltip="BLEEDOUT_DS"&gt;Bleed Out&lt;/LSTag&gt;. At the end of its turn, the target takes [1] and [2], and incoming attacks have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;. Creatures can make a Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; at the end of each of their turn to end the effect early.</content>
+  <content contentuid="ha80767bbg7404g9922ga09ag77f4db2250e0" version="2">Pull the blood from up to [3] creatures’ bodies, causing it to &lt;LSTag Type="Status" Tooltip="BLEEDOUT_DS"&gt;Bleed Out&lt;/LSTag&gt;. At the end of its turn, the target takes [1] and [2], and incoming attacks have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;. Creatures can make a Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; at the end of each of their turn to end the effect early.</content>
+  <content contentuid="h3f571c05g72b4g8ae9g213cg1e20c5898984" version="1">Blood Surge</content>
+  <content contentuid="h5c8577a9ga4c5g0e88g0fb1g4b5d52112ca6" version="1">Form a cluster of bloody spikes around a fresh corpse. Any creature within [1] of the target is harmed. You can keep bursting corpses while concentrating.</content>
+  <content contentuid="he2d6202fgecdfgfe7cg858eg8d34a522ae3f" version="1">Blood Surge</content>
+  <content contentuid="h7e87f3fegb146g9857gfd4bga64b6879e52b" version="1">Able to recast Blood Surge as an Action. </content>
+  <content contentuid="h46608050g618eg532ag0c02g32d8166f15ae" version="1">Death Eater</content>
+  <content contentuid="h14466b66gaa75ge7e8g948ag5886994173bc" version="1">Able to detonate Death Eater runes dealing [1] and regain half as many &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.</content>
+</contentList>
