@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<content contentuid="h75892551g0291g48baga725gf3578fbfcae2" version="1">妖精漫游者</content>
+<content contentuid="hd09eb2cdgccd9g482eg8599g0ee2c6b18fdd" version="1">或来自一位至高妖精的恩惠，或是来自你食用的一枚从能言之树上取下的闪亮果实，或是来自你曾浸游于中的魔法清泉，或是来自其它妙事，你的身侧因那次奇遇而有妖精的魔力缠绕。无论你是怎么得到你来自妖精的魔法的，你现在是一名代表了凡间与妖精国度双方的游侠妖精漫游者。你漫步于多元宇宙之时，你轻快的笑声为受压迫者们带来欣喜的希望，你英勇的技艺直击你敌人的恐惧，你所就的伟绩乃是妖精的喜悦，你散播的恐惧乃是妖精的愤怒。</content>
+<content contentuid="hdda8cc78gf3bfg4f01gb234g6671e9e599f8" version="1">哀惧灵袭</content>
+<content contentuid="hdf85ec5dga095g4847gb71ag000482e93be8" version="1">当你用武器击中一个生物时，你会对目标造成额外的[1]，该额外伤害每回合只能生效一次。</content>
+<content contentuid="h9f62f060ga080g4952ga16fgf3a5daa33107" version="1">妖冶娴都</content>
+<content contentuid="h3debc993gcfcdg454cg8628gfc3051f48489" version="1">你的魅力&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;等于你的感知调整值（至少为1）。</content>
+<content contentuid="h8f09c05eg6bc0g46dag97cfgb07eb9d0d547" version="1">妖思魅缕</content>
+<content contentuid="h3d48bfe4g75cdg4c40gbd8dgd8d7791d4d08" version="1">你在对抗&lt;LSTag Type="Status" Tooltip="CHARMED"&gt;魅惑&lt;/LSTag&gt;或&lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;恐惧&lt;/LSTag&gt;的状态豁免上有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。当你或你可视范围内的一名其他生物成功通过对抗魅惑或恐惧的效果的豁免时，你可以尝试魅惑或恐惧一名不同且随机的、在你[1]范围内的生物。</content>
+<content contentuid="h1253a9a8g8b11g489bg8ef0gccb89ae06736" version="1">妖思魅缕: 魅惑</content>
+<content contentuid="ha198537ag263eg43dag8034g4507902bf59a" version="1">当你或你可视范围内的一名其他生物成功通过对抗魅惑或恐惧的效果的豁免时，尝试对目标施加&lt;LSTag Type="Status" Tooltip="CHARMED"&gt;魅惑&lt;/LSTag&gt;效果。</content>
+<content contentuid="h28921a19g7129g4b61g8a84g100d84a08e91" version="1">妖思魅缕: 恐惧</content>
+<content contentuid="h368cf3fbgcef1g49d3ga4ebg26cd4a3737bb" version="1">当你或你可视范围内的一名其他生物成功通过对抗魅惑或恐惧的效果的豁免时，尝试对目标施加&lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;恐惧&lt;/LSTag&gt;效果。</content>
+<content contentuid="h8c4a31d8gec9eg4156g9125g6b51094c7f6e" version="1">实体可以在其回合结束时通过成功的豁免来终止此效果。</content>
+<content contentuid="ha1d47ebcg6157g4a05gbbaag15de9f99d50d" version="1">精宸所与</content>
+<content contentuid="hc25df54cg4659g43f3gaf8agb8482ac5f9eb" version="1">你可以不消耗&lt;LSTag Tooltip="SpellSlot"&gt;法术位&lt;/LSTag&gt;施展&lt;LSTag Type="Spell" Tooltip="Target_SummonFey"&gt;精类召唤术&lt;/LSTag&gt;，但每经过一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;只能使用一次。</content>
+<content contentuid="h2845913fgf80eg43b5g968bg219c78710c06" version="1">无需&lt;LSTag Tooltip="Concentration"&gt;专注&lt;/LSTag&gt;即可施展&lt;LSTag Type="Spell" Tooltip="Target_SummonFey"&gt;精类召唤术&lt;/LSTag&gt;。这样做会将法术持续时间减少至1分钟。</content>
+<content contentuid="hec842e49g7354g443bg8669g6becc13bb9e3" version="1">雾行漫游</content>
+<content contentuid="h2ffc3527g163cg46b0g803fg65b8453e04f4" version="1">妖精漫游者可以在眨眼之间穿梭妖精荒原以进行移动。</content>
+<content contentuid="h2ef7f9ecga1b1g42beg8a95g2ec9761a1aee" version="1">被银色迷雾包围，你可以将自己和最多一名相邻的盟友传送到你能看到的一个未被占据的空间。</content>
+<content contentuid="h18f35dadg4dcbg4739g9e46g9f8e7795cdf9" version="1">雾行漫游</content>
+<content contentuid="h3025f69bg83aag4229g85cdgc1b5b01d74f9" version="1">你可以不使用&lt;LSTag Tooltip="SpellSlot"&gt;法术位&lt;/LSTag&gt;施展&lt;LSTag Type="Spell" Tooltip="Target_MistyStep"&gt;迷踪步&lt;/LSTag&gt;，次数等于你的感知&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;，每经过一次&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;可使用的次数有限。每当施展迷踪步时，你可以将一名在[1]范围内的盟友传送到你旁边的一个未被占据的空间。</content>
+<content contentuid="h73af29d9g0e38g48fdgabffg156e59f4d719" version="1">选择一名你能看到的在[1]范围内的盟友，并在施展&lt;LSTag Type="Spell" Tooltip="Target_MistyStep"&gt;迷踪步&lt;/LSTag&gt;时将其传送到你旁边的未被占据空间。</content>
+<content contentuid="h71f1971cg2dccg4cecgb0bdg61519d86e90a" version="1">迷踪步 盟友</content>
+<content contentuid="hfafc415cg6910g42c6g9384ga1c73cc890a3" version="1">实体可以选择与妖精漫游者一起传送。</content>
+<content contentuid="hf31b1616gc9bcg4399g90b7gc0eb20edf727" version="1">雾行漫游: 选择盟友</content>
+<content contentuid="h542ba6b1ga74ag443eg98fdge7af07756274" version="1">选择一名在[1]范围内的盟友与你一起共享&lt;LSTag Type="Spell" Tooltip="Target_MistyStep"&gt;迷踪步&lt;/LSTag&gt;进行传送。</content>
+<content contentuid="h41628508gc67bg489bga8f7ged6e33916bba" version="1">必须距离施法者不超过3米。</content>
+	<content contentuid="ha6a2a79ag902ag4a44g88fbg1d915fc2c5fa" version="1">迷踪步</content>
+<content contentuid="h59b3f8cagafb6g4a41gbfcfg2e98179cb7e2" version="1">迷踪步: 盟友</content>
+<content contentuid="hb79bad7cg7c80g4351g947fgca22eda4ba70" version="1">实体加入妖精漫游者的&lt;LSTag Type="Spell" Tooltip="Target_MistyStep"&gt;迷踪步&lt;/LSTag&gt;施法。</content>
+<content contentuid="h3942e46cg82dag4003gab20gbb1104178304" version="1">召唤 精宸所与: 愤怒</content>
+<content contentuid="hb85ede44gfaaeg4369gb73bg7344ca53759c" version="1">召唤 精宸所与: 欢欣</content>
+<content contentuid="hf31731c0g89abg4888ga440g1e6ddc345794" version="1">召唤 精宸所与: 诡诈</content>
+<content contentuid="h5e326998gc3f1g4c21ga049g2e6337ea1776" version="1">假象术</content>
+<content contentuid="hd2a37b0ag21dag49e5g8d77g8badfc561715" version="1">在你站立的位置变得&lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;隐形&lt;/LSTag&gt;的同时，一个你的幻影出现在原地。</content>
+<content contentuid="hf8535092gf8e4g4f32g8030ga5b08f28fe4b" version="1">其施法者的一个幻影可以移动并造成干扰。</content>
+<content contentuid="hf27452b9gce25g4782g9775g4bcc97c94062" version="1">幻影双身</content>
+<content contentuid="hab72a780g0ab6g48d5gb05cg8fe38e0b1069" version="1">分散注意力</content>
+<content contentuid="h913fb4d1g2535g469cgbf8bg9467d6703637" version="1">假象术: 控制双身</content>
+<content contentuid="hbf822732g1c6ag4ef9g89a2g02e716612dd8" version="1">被你的施法者控制，以便你可以移动并造成干扰。</content>
+<content contentuid="ha4eada9cg8659g4f54ga8c0g1570a9f256c2" version="1">控制双身</content>
+<content contentuid="h6f9663c1g0860g46f8g9f4cg8773a0fc1555" version="1">实体正在使用其幻影双身的感官，并处于&lt;LSTag Type="Status" Tooltip="BLINDED"&gt;失明&lt;/LSTag&gt;状态。</content>
+<content contentuid="h55b9565bg888fg44fegaccag18723a2e4970" version="1">命令你的幻影双身移动并造成干扰。你会对你自己的周围环境处于&lt;LSTag Type="Status" Tooltip="BLINDED"&gt;失明&lt;/LSTag&gt;状态。</content>
+<content contentuid="h6a12550dg3436g4d8bga917gd2d6c9039f08" version="1">妖精荒野的魔法守护着妖精漫游者的心灵。</content>
+<content contentuid="h9a76b007ge507g4b49gb84fg430c88867aaa" version="1">尝试魅惑或恐吓一名你能看到的、在[1]范围内的随机生物。</content>
+<content contentuid="h85ad83c8g95d9g4d81g9e87ga0abf9470283" version="1">精类召唤术</content>
+<content contentuid="h5afcc8ceg31e1g4055ga4ddg88c01afd825b" version="1">召唤一个具有特定情绪&lt;LSTag Type="Status" Tooltip="SUMMON_FEY_FUMING"&gt;愤怒&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="SUMMON_FEY_MIRTHFUL"&gt;欢欣&lt;/LSTag&gt;或&lt;LSTag Type="Status" Tooltip="SUMMON_FEY_TRICKSY"&gt;诡诈&lt;/LSTag&gt;的妖精灵魄。根据选择的情绪不同，该精灵拥有不同的可用法术。</content>
+<content contentuid="h28a33619g56edg4195ga0dcgabcafbd8c994" version="1">精类召唤术: 愤怒</content>
+<content contentuid="h3320d72bga486g4a62gb252ga962855065f4" version="1">召唤一个能在近战中释放其愤怒的狂热妖精灵魄。</content>
+<content contentuid="had2d5f62gab62g489ag88b3gdfea55b5914e" version="1">这个被召唤的妖精非常愤怒。在使用它的&lt;LSTag Type="Spell" Tooltip="Target_FeyStep_FUMING"&gt;精类步&lt;/LSTag&gt;能力后，它对下一次的&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+<content contentuid="h20af6555gcc8eg4457g9b63g747860cc9a38" version="1">精类召唤术: 欢欣</content>
+<content contentuid="he1e88141g6f66g410aga413g414d3ddcffb6" version="1">召唤一个能够魅惑敌人的快乐妖精灵魄。</content>
+<content contentuid="h4401397cgf99ag43abg99e1gaef08fe07d47" version="1">这个被召唤的妖精极具魅力。在使用它的&lt;LSTag Type="Spell" Tooltip="Target_FeyStep_MIRTHFUL"&gt;精类步&lt;/LSTag&gt;能力后，它可以魅惑附近的敌人。</content>
+<content contentuid="hd030aa65ga8bag40e2g9c9cg0cab81a4b0c1" version="1">精类召唤术: 诡诈</content>
+<content contentuid="h2a9b3741g9bf5g43eeg8ae0gff13f54cfc80" version="1">召唤一个能召唤黑暗区域的淘气妖精灵魄。</content>
+<content contentuid="h7f7294e0gc231g4cd9g907fgf16af5ecdcfe" version="1">这个被召唤的妖精心怀鬼胎。当使用其&lt;LSTag Type="Spell" Tooltip="Target_FeyStep_TRICKSY"&gt;精类步&lt;/LSTag&gt;能力时，它可以创造一片持续到其下回合结束的黑暗区域。</content>
+<content contentuid="h252182d4g9179g4f9bg8cffgcd28d1c9b5f8" version="1">精类步: 愤怒</content>
+<content contentuid="h2f03b9ccgd298g4e50g94b4g1091b6381053" version="1">传送到一个你能看到的未被占据的空间。之后，在你的下一次&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;上获得&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+<content contentuid="hbc7e8538gddb3g434dgaebdg50a6a0ecc66f" version="1">愤怒 优势</content>
+	<content contentuid="h154d70c4gaf56g4ea4g8392gf49be6a76c63" version="1">在下一次&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;上有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+<content contentuid="hff652c71ga6f2g4976g9fe8g7587e2949a5d" version="1">精类步: 欢欣</content>
+<content contentuid="hcdb14210g2f74g4838g928fg13d9629aeb2f" version="1">传送到一个你能看到的未被占据的空间。之后，你可以&lt;LSTag Type="Spell" Tooltip="Target_MIRTHFULCharm"&gt;魅惑&lt;/LSTag&gt;一名敌人。</content>
+<content contentuid="hc06d3c9eg41d4g4313ga102gf06d85ad0fde" version="1">精类步: 诡诈</content>
+<content contentuid="h613579e1g3885g4fbag804fg1a2262a172d9" version="1">传送到一个你能看到的未被占据的空间。之后，你可以创造一片持续到你下回合结束的&lt;LSTag Type="Spell" Tooltip="Target_Darkness_TRICKSY"&gt;黑暗区域&lt;/LSTag&gt;。</content>
+<content contentuid="h53ab9ebbge744g415fgb2f7g1e5214c50a86" version="1">妖精斩击</content>
+<content contentuid="h7d81460ag214dg4f54g94b4g8b3eafeed9b4" version="1">瞄准目标进行攻击。</content>
+<content contentuid="hf1ed27eagd72ag4132gae53gd7457ab84a41" version="1">造成等于用于召唤法术的法术位等级的额外伤害。</content>
+<content contentuid="hc4310343ga33eg4b10ga209ge70b3123cd58" version="1">精类召唤术 附赠</content>
+<content contentuid="h30b727aegc64eg4534g9c2fg48e89b9ec059" version="1">诡诈 黑暗</content>
+<content contentuid="ha32ee917g898cg4457g943eg8ec73d841478" version="1">创造一小片黑暗区域。</content>
+<content contentuid="hc0ac4df8g2244g41ddgb4c2gcb4f2954207f" version="1">可以创造一小片黑暗区域。</content>
+<content contentuid="h740ad486g2a29g489aga4f8gf300b24d43d0" version="1">欢欣 魅惑</content>
+<content contentuid="ha5efa8c5gbcd1g4594g97e5g153549c0dd34" version="1">可以魅惑附近的敌人。</content>
+<content contentuid="he41dc336g9c34g45f2ga32ag02d235864c91" version="1">被妖精灵魄魅惑。</content>
+<content contentuid="h82b0e79eg2c29g49e9ga16eg9e19a2d54997" version="1">魅惑附近的敌人，防止其攻击你。</content>
+<content contentuid="h06fff7b8g2eb0g4240gbafbg3cb17da94285" version="1">边界行者</content>
+<content contentuid="h6f326bd7g3375g4acdg9662g4c6156a058b2" version="1">边界行者会保护世界不受其他位面的威胁，也从那些妄图利用异界魔法摧残现有世界的恶徒。</content>
+<content contentuid="he8adc63ag3367g4393gbd30g9fd8a492c4dd" version="1">侦测传送门</content>
+<content contentuid="h4784937bgefb1g48cdga27dg95d6aad48706" version="1">你在[1]分钟内对察觉&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;获得&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。一旦使用此特性，直到完成一次&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;或&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之前不能再次使用。</content>
+<content contentuid="he1a660c6gfce3g4e8dgaf32gf708525ee483" version="1">在[1]分钟内对察觉&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;获得&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+<content contentuid="he9dac748g056fg44acg990dg770efdbc0c97" version="1">在察觉&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;上具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+<content contentuid="h47cb591ag4dbag44ccg81dfg1f3439e8a2ea" version="1">位面战士</content>
+<content contentuid="had8ad625gec00g4f31g945cg775bb508b03b" version="1">你学会了从多元宇宙中汲取能量来增强你的攻击，允许你标记一个在你[1]范围内的你能看见的生物，并在下次攻击时对其造成力场伤害。</content>
+<content contentuid="hfc8851d6g3476g4f62gafdegd467eb84524d" version="1">位面战士之印</content>
+<content contentuid="h8c765919gc6a8g448cg9f79g17730b3a2217" version="1">选择一个在你[1]范围内的你能看见的生物。当这回合你用武器攻击命中该生物时，攻击造成的伤害变为力场伤害，且该生物会受到额外的[2]。</content>
+<content contentuid="h6d057719gd472g4b36ga4acg8cbf776f65d3" version="1">当你攻击你的猎物时，攻击造成的伤害变为力场伤害，且该生物会受到额外的[1]。</content>
+<content contentuid="hac1c4d16gc453g49acg9ce0g1f6e350bfdb5" version="1">位面战士之印的猎物</content>
+<content contentuid="h430a4eebg4c64g4db1gb01fg13e6fae18917" version="1">实体将在本回合的下一次武器攻击中对&lt;LSTag Type="Status" Tooltip="PLANAR_WARRIORS_MARK"&gt;标记的目标&lt;/LSTag&gt;造成力场伤害加上额外的[1]。</content>
+<content contentuid="he3d818a2g6621g4f3egad1egdd21b601ab98" version="1">位面战士之印目标</content>
+<content contentuid="hebca2993g97ddg4fe4g82c3g623562b84b1d" version="1">实体将从其&lt;LSTag Type="Spell" Tooltip="Target_Planar_Warriors_Mark"&gt;印记所有者的&lt;/LSTag&gt;下一次武器攻击中受到力场伤害。</content>
+<content contentuid="h5842e0f7g990bg42c4g80fag72bfa7886b25" version="1">以太漫步</content>
+<content contentuid="h0009385cgc581g4ba2g8dcfg677a113b935a" version="1">以太化</content>
+<content contentuid="hfad900a6ga542g455dga904g70b5f6624e41" version="1">以太状态</content>
+<content contentuid="h3204c1e0gdb97g43a2gaac9g66eb3108b424" version="1">以太疾走</content>
+<content contentuid="h328d4f6agf544g4aa3g9024g0ba55928cc62" version="1">以太跳跃</content>
+	<content contentuid="hf2f1f610g5959g4236gba6agb3f9c1d01562" version="1">你学会了穿越以太位面。在你的回合中，你可以无需消耗法术位施放&lt;LSTag Type="Spell" Tooltip="Shout_HW_Etherealness"&gt;以太化&lt;/LSTag&gt;法术，但该法术会在当前回合结束时终止。一旦使用此特性，直到完成一次&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;或&lt;LSTag Tooltip="LongRest"&gt;长休&lt;/LSTag&gt;之前不能再次使用。</content>
+<content contentuid="h7308d612g5b4cg4e84ga33fgba8e75f7b92b" version="1">进入以太位面持续[1]回合。当你位于以太位面时，你只能影响并被同一平面上的其他生物影响。不在以太位面的生物无法感知你或与你互动，且你会忽略所有不在以太位面上的对象和效果。</content>
+<content contentuid="h2f04b757gcd70g44b8gbf29gba2c0ed8e95c" version="1">你已进入以太位面的边界区域，在它与你当前所在位面重叠的地方。</content>
+<content contentuid="h2ad8e061g7aabg4120ga6b2gf80fd553eaff" version="1">返回物质位面</content>
+<content contentuid="hc4bd8c58g8760g4b6cga0a9geb640be60992" version="1">离开以太位面并返回物质位面。</content>
+<content contentuid="h0e09891egc8c0g4ebdg818fg3f81797c5447" version="1">闪现打击</content>
+<content contentuid="h8b691c7agff06g4cecgb484gf5c5646da35c" version="1">闪现打击 额外攻击</content>
+<content contentuid="h54fb2da4g9349g4448gac3bg009316ddba08" version="1">当你使用攻击动作时，可以在每次攻击前传送到一个你能看到的未被占据的空间，传送距离最多为[1]。如果你用这个动作至少攻击了两个不同的生物，则可以用相同的动作对第三个生物进行一次额外攻击。</content>
+<content contentuid="h7a3feed9gd9fag42d4gb9fbgbe5eb3a0e1a8" version="1">可以对另一个不同的第三生物进行一次额外攻击。</content>
+<content contentuid="h3047c268gacc1g49c0ga69cg3009da1bf68b" version="1">闪现打击 第一目标</content>
+<content contentuid="h3dd2183ag0405g493fg9fc7g1209a8ecfcc3" version="1">实体是边界行者攻击动作期间第一个被攻击的生物。</content>
+<content contentuid="h30e01b51g9767g48b0g8b75gc32f60d11a12" version="1">闪现打击 第二目标</content>
+<content contentuid="h15ad15b4g0148g47ebg89afg841416c86231" version="1">实体是边界行者攻击动作期间第二个被攻击的生物。</content>
+<content contentuid="hdb516bcbg43e2g4111g87d5geebecefb9a5f" version="1">已攻击第一目标</content>
+<content contentuid="hf6ec2dd3gcf37g4904g9b19geaa5a582dca8" version="1">已攻击第二目标</content>
+<content contentuid="h14fc9c57g3ed2g4db3ga857g2ddeaf170f27" version="1">已攻击第三目标</content>
+<content contentuid="hfae68172g8c59g4f8dga317g2da29a6c8742" version="1">闪现打击 传送</content>
+<content contentuid="h0591284fgfee0g4541ga203ga30ee60fa380" version="1">作为攻击动作的一部分，传送至多[1]到一个你能看到的未被占据的空间，并在攻击前进行传送。</content>
+<content contentuid="hbc2d5919ge58fg4d64gbe03g2e84769d82bd" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; 使用闪现打击传送后必须紧接着进行攻击、移动或两者结合。在完成这些操作前，你将无法花费其他行动资源。</content>
+<content contentuid="h3bb57719gdc99g4003gb5efg41f3dc82f827" version="1">不完整的攻击动作</content>
+<content contentuid="hbcf08fb3gbdb1g466agbb70g6c62b37f1097" version="1">使用&lt;LSTag Type="Spell" Tooltip="Target_Distant_Strike_Teleport"&gt;闪现打击&lt;/LSTag&gt;传送后接着进行攻击。</content>
+<content contentuid="hdea7e606g6b37g45fbgbf5bg068061265c7e" version="1">闪现打击 额外攻击</content>
+<content contentuid="ha327cf5bgfe66g48fdg8d9ag3dc3dcee3781" version="1">闪现打击 特殊额外攻击</content>
+<content contentuid="h0b289bdbg8a37g4460gaaebgaa9d95f822a5" version="1">本回合内对第三个生物进行一次额外攻击。</content>
+<content contentuid="h4b2ce86agecc2g4f6ag9dc2g6b730cf08e7d" version="1">闪现打击 主手额外攻击</content>
+<content contentuid="hcaf77dfcg839ag46ebga3cfg11de978941db" version="1">闪现打击 远程额外攻击</content>
+<content contentuid="h1447874eg269fg4bbcgad44g1b843e34d87a" version="1">闪现打击 徒手额外攻击</content>
+<content contentuid="hb7f14cceg67eeg4249gb790g19a760dd190c" version="1">闪现打击 投掷额外攻击</content>
+<content contentuid="h44a0adddgf525g4164gbda4g1b2390960f59" version="1">闪现打击 即兴近战武器额外攻击</content>
+<content contentuid="h390721cag1999g406cg873cgd5f2a7f41efa" version="1">闪现打击 推击额外攻击</content>
+<content contentuid="h26178cddg8b21g4e08gbe39g4dc1911a8ccd" version="1">闪现打击 推倒额外攻击</content>
+<content contentuid="h0cec6fdag5f28g4873gabd2gd055ed0f2b3f" version="1">闪现打击 擒抱额外攻击</content>
+<content contentuid="h3284d4ceg3959g4b75g865fg3c6cf60ff48b" version="1">实体已经攻击了一个生物。</content>
+<content contentuid="h4f715658ge092g4ca3ga738g85bd6a4a36d3" version="1">实体已经攻击了两个不同的生物。</content>
+	<content contentuid="h85949077g188dg4578g89d3g681d86f6de95" version="7">尝试将目标推倒。你的成功率取决于你的运动技能，并且如果你躲藏或隐形，成功率会更高。</content>
+<content contentuid="h7217a351ge16dg4f74g8aa4g204c37a7064a" version="1">灵体防御</content>
+<content contentuid="hdc2f9c8egdbfbg4ff9gbc43gb959e668754d" version="1">当你受到攻击造成的伤害时，你可以使用&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;来使自己在本回合对该攻击的所有伤害获得&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
+<content contentuid="he84b70b3gcddag4b48g906cg6d5d08ded9f7" version="1">你穿越位面的能力使你能够穿过位面边界，以减少战斗中对你造成的伤害。</content>
+<content contentuid="h1962f217g7fa2g45b8g9c94ga8f4dafcdef9" version="1">传送法阵</content>
+<content contentuid="h390b0f72g5032g4dacg9ccfg787e12bd2fac" version="1">在地上创建两个带有符文的连接圆圈。传送门将在这些圆圈内打开并保持开放直到你下回合结束。任何进入源传送门的生物会立即出现在目的地传送门[1]范围内的某个位置。</content>
+<content contentuid="hec619facgd929g4b04ga0aagd98d050d5768" version="1">通过传送魔法与它的副本相连，这个传送门允许通过的人从其另一个传送门出现。</content>
+<content contentuid="h959d42deged38g4d90g8208gd88ee4cab585" version="1">增强攻击</content>
+<content contentuid="he29a33d0g61a1g4f02gb88fg58c6264416fd" version="1">将对你的&lt;LSTag Type="Status" Tooltip="PLANAR_WARRIORS_MARK"&gt;印记目标&lt;/LSTag&gt;进行的武器攻击所造成的伤害转化为力场伤害。</content>
+<content contentuid="he9d867cfgebf5g43ddgaa2bg423b553446a5" version="1">必须是新的第三个目标</content>
+<content contentuid="h3f9c2736g78d9g40cdgb33aga4926e2d1a53" version="1">传送法阵</content>
+<content contentuid="hea487b3egf29bg4a37gb70eg2030cb331f2e" version="1">通过传送魔法与它的副本相连，这个圆圈允许进入其中的人从其对应的圆圈出现。</content>
+<content contentuid="h161480a7gac45g4842g8abdg787809300474" version="1">怪物杀手</content>
+<content contentuid="hec5baa58gb4dag472bg986bg171c6fba0d71" version="1">怪物杀手们专注于猎杀那些黑夜中的怪物与邪恶魔法的使用者。他们四处搜寻着吸血鬼、龙、邪恶精类、邪魔、以及其他的魔法威胁。他们为了击败这些怪物而训练超自然的技巧。怪物杀手精通于找出并击败这些强大且神秘的敌人。</content>
+<content contentuid="hedf66affg3a77g406bg8e41ge48edbc8bb45" version="1">狩猎开始</content>
+<content contentuid="h30c0943cg22a3g4f48gab15g44dc2e320b9f" version="1">切换 狩猎开始</content>
+<content contentuid="h14d48ee3g95a9g45d9g8c79g510b9c8e8b43" version="1">猎物</content>
+<content contentuid="h8f331d61ga622g49e6ga351gbc991aab30e4" version="1">实体是怪物杀手的&lt;LSTag Type="Spell" Tooltip="Target_DesignatePrey"&gt;狩猎开始&lt;/LSTag&gt;能力的目标，并且会从其标记中受到额外伤害。</content>
+<content contentuid="hf71f69f6g06f8g4f01g8326g6f61bd2a400a" version="1">你可以专注于一个你在[1]范围内能看到的一个敌人，增加对其造成的伤害。</content>
+<content contentuid="hc5057ccfgcea3g4b79ga99eg7ac90e37e2c5" version="1">指定一个在你[1]范围内的你能看到的生物作为你的猎物。每回合第一次用武器攻击命中该目标时，它将受到额外1d6点武器伤害。</content>
+<content contentuid="h572704aag0599g450cga142ge433731e34f5" version="1">猎手感知</content>
+<content contentuid="h006fe2a4g9703g4b70gac57g458582efe24e" version="1">通过魔法辨别，怪物杀手可以绕过生物的防御。</content>
+<content contentuid="h9c39e224g21e1g4224gb215g69b88ec46794" version="1">当您用&lt;LSTag Type="Spell" Tooltip="Target_DesignatePrey"&gt;狩猎开始&lt;/LSTag&gt;标记目标时，您可以使您的下一次攻击忽略目标的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;和&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;。</content>
+<content contentuid="hce17ddf2geabfg4224gb77eg22bdab0bf217" version="1">实体将忽略其&lt;LSTag Type="Status" Tooltip="SLAYERS_PREY_TARGET"&gt;猎物&lt;/LSTag&gt;拥有的任何伤害&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;和&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;。</content>
+<content contentuid="h3d1d756eg3348g4df1g97cbgaa8b8a9f036f" version="1">直到你下回合结束，你对&lt;LSTag Type="Status" Tooltip="SLAYERS_PREY_TARGET"&gt;猎物&lt;/LSTag&gt;的下一次攻击将忽略伤害&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;和&lt;LSTag Tooltip="Immune"&gt;免疫&lt;/LSTag&gt;。</content>
+<content contentuid="h53d371bcg944cg45d3g90cdgbccf692caf05" version="1">诚实之域</content>
+<content contentuid="h3e85882agfcafg43a5g8fa1g23716a8cb895" version="1">创建一个以你为中心半径为[1]的球形魔法区域，防止欺瞒。任何生物在其回合首次进入该区域或在其区域内开始回合时，必须进行一次&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免掷骰&lt;/LSTag&gt;，否则在半径内进行&lt;LSTag Tooltip="Deception"&gt;欺瞒&lt;/LSTag&gt;检定时会有惩罚。此外，在法术持续时间内，你对&lt;LSTag Tooltip="Insight"&gt;洞察&lt;/LSTag&gt;检定具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+<content contentuid="h6fbb2122g82e2g437bga441gdc83788bce7c" version="1">在光环内受影响的实体在进行&lt;LSTag Tooltip="Deception"&gt;欺瞒&lt;/LSTag&gt;检定时有惩罚，而施法者对&lt;LSTag Tooltip="Insight"&gt;洞察&lt;/LSTag&gt;检定有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+<content contentuid="hcacc3780gc606g4576ga07fg95f01e25964d" version="1">卓越防守</content>
+<content contentuid="hfd7122edg36d9g4fabg83efgfcde2e40fb09" version="1">每当你的&lt;LSTag Type="Status" Tooltip="SLAYERS_PREY_TARGET"&gt;猎物&lt;/LSTag&gt;迫使你进行一次&lt;LSTag Tooltip="SavingThrow"&gt;豁免掷骰&lt;/LSTag&gt;，或你为逃脱那个目标的擒抱时的&lt;LSTag Tooltip="AbilityCheck"&gt;能力检定&lt;/LSTag&gt;，给你的投骰加上[1]。</content>
+<content contentuid="h7daac979gd018g4397g92aeg58b51f96bc21" version="1">对由你的&lt;LSTag Type="Status" Tooltip="SLAYERS_PREY_TARGET"&gt;猎物&lt;/LSTag&gt;强迫的&lt;LSTag Tooltip="SavingThrow"&gt;豁免掷骰&lt;/LSTag&gt;添加+[1]的加值。</content>
+<content contentuid="h097067c9g38a8g49f9ga430ga1bebd6c22ff" version="1">增加持续时间[1]。</content>
+	<content contentuid="hff1df374g7c29g4d99gb33eg19d77741834e" version="1">防护法阵</content>
+<content contentuid="h78e7ad23g69c3g44cfgb621ge69d16879046" version="1">在你范围内一个你能看到的地面上指定一点为中心，创造一个半径为[1]的魔法能量区域。特定类型的生物对区域内目标进行攻击掷骰时具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;，区域内的目标不能被这些生物&lt;LSTag Type="Status" Tooltip="CHARMED"&gt;魅惑&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;恐惧&lt;/LSTag&gt;或&lt;LSTag Type="Status" Tooltip="LOW_GHOST_POSSESSED"&gt;附身&lt;/LSTag&gt;，且这些生物无法通过非魔法手段进入该区域。如果这些生物试图使用传送或位面旅行来进入，则必须首先成功进行一次&lt;LSTag Tooltip="Charisma"&gt;魅力&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免掷骰&lt;/LSTag&gt;。</content>
+<content contentuid="hb1d1c52dg3df2g402cgb246g15a60ff75026" version="1">防护法阵的效果适用于天界生物、元素生物、邪魔、精类和不死生物。</content>
+<content contentuid="h04913c04g2a74g45a4g9f3fga2d0bfd89634" version="1">防护法阵光环</content>
+<content contentuid="h92c532f3gaf47g47dag9d81g0918734098f9" version="1">魔法使的克星</content>
+<content contentuid="ha1397e84g341fg475fgb483gccc321125d9a" version="1">当你看到一个生物在你[1]范围内施法或传送时，你可以使用你的&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;尝试以魔法方式阻止它。该生物必须成功通过一次针对你的&lt;LSTag Tooltip="DifficultyClass"&gt;法术豁免DC&lt;/LSTag&gt;的&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免掷骰&lt;/LSTag&gt;，否则其法术或传送失败并浪费掉。</content>
+<content contentuid="ha4d544edg5a4fg4f7dg8cdfg68813a8b837f" version="1">阻止一个法术的施放，或阻止一个传送的使用。施法者必须进行一次&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免掷骰&lt;/LSTag&gt;以避免被反制。</content>
+<content contentuid="ha99644eag2587g43cfg86fcg940360c5b4c7" version="1">作为反应无效化另一生物的法术。该生物必须成功通过一次&lt;LSTag Tooltip="Wisdom"&gt;感知&lt;/LSTag&gt;&lt;LSTag Tooltip="SavingThrow"&gt;豁免掷骰&lt;/LSTag&gt;以避免被反制。</content>
+<content contentuid="h7142811egdba3g4cb2gac4bga8c8863b00ee" version="1">魔法使的克星失败</content>
+<content contentuid="h81110ae3gff43g4e6dgba94g271e77a2bddb" version="1">怪物杀手可以阻止他人的魔法。</content>
+<content contentuid="h4fc4f1d4g2b87g400dg955bg7be4409b74eb" version="1">杀手反制</content>
+<content contentuid="h6c06802fgb03ag4c5eg9168gfb6fa0e68085" version="1">杀手反制（近战）</content>
+<content contentuid="hec27e74bg2805g47d1g82a7g78148db42e4a" version="1">杀手反制（徒手）</content>
+<content contentuid="hb5295945g2bb3g4e2fgbe98gbdea463f0547" version="1">杀手反制（远程）</content>
+<content contentuid="hbd56e046gdc70g49bagbb8dgb76ed2e7a5af" version="1">如果你的&lt;LSTag Type="Spell" Tooltip="Target_DesignatePrey"&gt;狩猎开始&lt;/LSTag&gt;的目标迫使你进行一次&lt;LSTag Tooltip="SavingThrow"&gt;豁免掷骰&lt;/LSTag&gt;，你可以使用你的&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;反应&lt;/LSTag&gt;对该目标进行一次武器攻击。如果攻击命中，你的豁免自动成功，并产生正常的攻击效果。</content>
+<content contentuid="h1aa23e1fg6075g4f35g8f1dgf62c1f679ef3" version="1">当你的&lt;LSTag Type="Status" Tooltip="SLAYERS_PREY_TARGET"&gt;猎物&lt;/LSTag&gt;迫使你进行一次&lt;LSTag Tooltip="SavingThrow"&gt;豁免掷骰&lt;/LSTag&gt;时，你可以用装备的武器或徒手打击反击。如果攻击命中，你的豁免自动成功。</content>
+<content contentuid="h812e9997gedc1g4469ga42ega106aa7a1958" version="1">必须有猎物在附近。</content>
+<content contentuid="h9f49b0deg51e0g4d78gbe08g5dfbf1d271d2" version="1">当你的&lt;LSTag Type="Status" Tooltip="SLAYERS_PREY_TARGET"&gt;猎物&lt;/LSTag&gt;迫使你进行一次&lt;LSTag Tooltip="SavingThrow"&gt;豁免掷骰&lt;/LSTag&gt;时，对其发动武器攻击。如果攻击命中，你的豁免自动成功。</content>
+<content contentuid="h00fd7aeega157g4740gbf0bg034b0e7a0bc1" version="1">已经是猎物。</content>
+<content contentuid="hd6d88c98gfcb0g4496g84f3g718e1b3d50cb" version="1">原始卫士</content>
+<content contentuid="h2ee503efg928bg48e7gaf04g68ea918b9aed" version="1">原始卫士行会的游侠们遵循着根植于强力的德鲁伊魔法中的远古传统。这些游侠学会了如何与自然合为一体，这允许它们用许多野兽和植物的力量击溃其敌人</content>
+<content contentuid="he1a23141g92ffg4fddga868ge6e3dac72219" version="1">卫士之魂</content>
+<content contentuid="h9bd48407g7031g4175gb0b9g91c3a2682c61" version="1">减少你的&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;至[1]同时增加你的体型至巨型。</content>
+<content contentuid="hfccf6a76gd21cg4432ga0b8gdf390f060f31" version="1">获得额外的[1]触及范围并在每回合开始时获得[2]。</content>
+<content contentuid="h2f4b168fg1767g49c5g89a6g2f1a5d9d85c7" version="1">你的卫士形态持续到你选择结束它或变得&lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;失能&lt;/LSTag&gt;为止。</content>
+<content contentuid="h88a2d557g9a06g42e5ga291g04b88d1260c9" version="1">卫士形态</content>
+<content contentuid="h18a5c514g2760g449bgab39g771d4b61abf8" version="1">体型增大，触及范围增加。移动速度降低。每回合开始时获得&lt;LSTag Tooltip="TemporaryHitPoints"&gt;临时生命值&lt;/LSTag&gt;。</content>
+<content contentuid="h169e35e2gb90cg45e2gbfbcga7a42936e1ec" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; 卫士形态提前结束如果游侠变得&lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;失能&lt;/LSTag&gt;。</content>
+<content contentuid="h2f3a2e60ga59eg41c4gb26bgfa12bc1c012d" version="1">林地精华</content>
+<content contentuid="hcbf40984g5ddcg4f31ga311g80c6bec19d29" version="1">结束卫士形态</content>
+<content contentuid="h36b97620g46bdg43d2ga1a9g155b2334d249" version="1">使用附赠动作结束你的卫士形态。</content>
+<content contentuid="h2b60c265g13edg4ed0gb5c1ga0738bbef4f8" version="1">穿刺荆棘</content>
+<content contentuid="ha269af8bg98a3g4fc4ga541ga924ee0ba7d6" version="1">在你的每个回合中，你可以对你用武器攻击命中的一个生物造成额外的[1]。</content>
+<content contentuid="h800b2498geb08g4841g9d57g4ee32c822f07" version="1">原始卫士对原始魔法的掌控允许他们用荆棘增强自己的攻击。</content>
+<content contentuid="h373f2d4fg400dg4d0bg8736g04f71801522f" version="1">用魔法荆棘增强你的攻击。</content>
+	<content contentuid="h263b0e9dgb23ag4be7g97f1g4dca89518992" version="1">远古强韧</content>
+<content contentuid="h8054f04agfcffg49d3g87c7gb28ad8693690" version="1">当你进入&lt;LSTag Type="Status" Tooltip="GUARDIAN_SOUL"&gt;卫士形态&lt;/LSTag&gt;时，你的最大生命值和当前生命值增加[1]。</content>
+<content contentuid="hc9409322gad7fg41edg9611g4d2f06e6d3ea" version="1">扎根防御</content>
+<content contentuid="h2d395c94g3b35g4241ga2cagc8da29d04dae" version="1">在你的&lt;LSTag Type="Status" Tooltip="GUARDIAN_SOUL"&gt;卫士形态&lt;/LSTag&gt;期间，你周围[1]范围内的地面对于敌人而言是&lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;困难地形&lt;/LSTag&gt;。</content>
+<content contentuid="h4666308dg86a3g45f2g92fdga180eb2aec0d" version="1">实体周围[1]范围内的地面对于其敌人而言是&lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;困难地形&lt;/LSTag&gt;。</content>
+<content contentuid="h32b3edfcgff4fg4230g85e5g81d2a79fb638" version="1">卫士光环</content>
+<content contentuid="h87a92800g4d31g4563g967dga65ef6f5e851" version="1">在你的&lt;LSTag Type="Status" Tooltip="GUARDIAN_SOUL"&gt;卫士形态&lt;/LSTag&gt;期间，处于你[1]范围内的盟友如果生命值低于一半，在回合开始时会恢复[2]。</content>
+<content contentuid="h38efad8fga683g422fgab6fged51a31dec3a" version="1">处于实体[1]范围内的受伤盟友在其回合开始时恢复[2]。</content>
+<content contentuid="h7129e197g399bg4144g83fag5ae16421a4ac" version="1">在卫士光环中</content>
+<content contentuid="hcb2d097bg3f37g4156ga78bg5e61c8195f00" version="1">若受伤，实体在原始卫士的光环内时，在其回合开始时恢复生命值。</content>
+
+
+
+</contentList>

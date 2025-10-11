@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="Config">
+        <node id="root">
+            <children>
+                <node id="Conflicts"/>
+                <node id="Dependencies">
+                </node>
+                <node id="ModuleInfo">
+                    <attribute id="Author" type="LSString" value="YangYangMei"/>
+                    <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
+                    <attribute id="Description" type="LSString" value="chinese translation by YangYangMei"/>
+                    <attribute id="FileSize" type="uint64" value=""/>
+                    <attribute id="Folder" type="LSString" value="5eRangerSubclassesCombinedCHS"/>
+                    <attribute id="LobbyLevelName" type="FixedString" value=""/>
+                    <attribute id="MD5" type="LSString" value="8d5b5bacfb6ca0f6b6537aedabbb6b0b"/>
+                    <attribute id="MenuLevelName" type="FixedString" value=""/>
+                    <attribute id="Name" type="LSString" value="5e Ranger Subclasses Combined CHS"/>
+                    <attribute id="NumPlayers" type="uint8" value="4"/>
+                    <attribute id="PhotoBooth" type="FixedString" value=""/>
+                    <attribute id="PublishHandle" type="uint64" value=""/>
+                    <attribute id="StartupLevelName" type="FixedString" value=""/>
+                    <attribute id="UUID" type="FixedString" value="83f5ac71-5446-46a3-80eb-13716424f34e"/>
+                    <attribute id="Version64" type="int64" value="36310280585609273"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

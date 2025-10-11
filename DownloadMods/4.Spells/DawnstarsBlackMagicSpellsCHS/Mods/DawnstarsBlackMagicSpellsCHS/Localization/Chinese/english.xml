@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="ha22e73c2gbee2gfcc3g99b1g88d9c3687a8d" version="1">血祭</content>
+  <content contentuid="haf1b657bg7880g208fg4004g9c4507a73f41" version="4">献祭自身的一部分血液，承受[1]。处于[3]范围内的近战攻击者若对你造成物理伤害，则其每回合会受到等量的反噬伤害。生效期间，你将获得“冥刃”法术。</content>
+  <content contentuid="h7eed2427g3f7cg5617gb643g8a91cd3c5ce3" version="1">血祭</content>
+  <content contentuid="he04dc362ge94fg8f57gf1d7ga580a01ba395" version="3">已献上血祭，只要近战攻击者处于[2]范围内且对你造成物理伤害，每回合便会将[1]反噬于其身。</content>
+  <content contentuid="h9addd050ga0d5gf67dgae1dg54bd549ac6b0" version="1">血祭</content>
+  <content contentuid="hc5ace741g26e7g2360g8f9eg64bc2e9a1e13" version="1">已献上血祭，只要近战攻击者处于[2]范围内且对你造成物理伤害，便会将[1]反噬于其身。</content>
+  <content contentuid="h14ba5407g5391g83a0g23bdg3e813c19e77a" version="2">冥刃</content>
+  <content contentuid="h6387d735g2c35g3b5bg8f5cgf6e0142a980b" version="13">以自身生命力凝聚成匕首刺击目标，你可恢复造成伤害值一半的&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;。若目标受&lt;LSTag Type="Status" Tooltip="BONEDUST_TONGUE_DS"&gt;骨尘之舌&lt;/LSTag&gt;状态影响，你额外恢复等同于你施法属性调整值的&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;。</content>
+  <content contentuid="ha20a7637gbc1dg5b59g81b1g3476b0483b20" version="1">幻影人偶</content>
+  <content contentuid="h6c2331fdg6445ge00ag5d25g233eea9a470a" version="1">召唤一个蕴含黑暗魔法的人偶，刺击此人偶将伤害你选定的目标。若你拥有&lt;LSTag Type="Status" Tooltip="BLOOD_OFFERING_DS"&gt;血祭&lt;/LSTag&gt;状态，你施加&lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;流血&lt;/LSTag&gt;效果。</content>
+ <content contentuid="he076ee73gbebfg7643g5367g73af467308eb" version="2">痛缚傀儡</content>
+  <content contentuid="hdd5b4b49gc369g722dge7b4gca92d1497142" version="5">召唤一个蕴含黑暗魔法的人偶；刺击它可伤害你选定的目标。若你拥有&lt;LSTag Type="Status" Tooltip="BLOOD_OFFERING_DS"&gt;血祭&lt;/LSTag&gt;状态，则会施加&lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;流血&lt;/LSTag&gt;效果。对生命值高于一半的目标，则造成[1]和[2]。</content>
+  <content contentuid="h4536c692ga7d8gff69g47c8g8ec92d8a9f8f" version="3">骨尘之舌</content>
+  <content contentuid="h5f766232g70b4g9793gb8feg4c56b42f1a5e" version="3">召唤一个燃烧的黑暗魔法碗，吸入烟雾并朝前方目标吐息。未通过豁免检定的生物无法恢复&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;。</content>
+  <content contentuid="h72be847fg8b18g202cg4d92g72e8b2e1c8a0" version="1">骨尘之舌</content>
+  <content contentuid="h5bbd8bcdgfc57g846cg2c33g5b13c48d9f9f" version="1">该生物无法恢复&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;。</content>
+  <content contentuid="h8f74213dgcd3age2ecgf84dgf07e261e7dd4" version="1">骨尘之舌</content>
+  <content contentuid="h61986217g7e5dgae9bg1c22g8d461e73e078" version="8">吐出诅咒烟雾，影响至多三个目标。阻止治疗效果，若目标具有&lt;LSTag Type="Status" Tooltip="PLUCKLIFE_DS"&gt;摘命&lt;/LSTag&gt;状态，则你可恢复造成伤害值一半的&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;。</content>
+  <content contentuid="h7137130fg67a5gb248gd44eg0c38395d1de9" version="1">降灵</content>
+  <content contentuid="h3d4f5df7gbd55g50adg0640ga39523ad2b2c" version="6">启动通灵仪式召唤怨灵并投向目标。怨灵会绕过障碍物抵达标记点。若目标豁免检定失败，则变为&lt;LSTag Tooltip="HAUNTED"&gt;萦魂&lt;/LSTag&gt;状态：对其的攻击具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，且其&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;减半。</content>
+  <content contentuid="h5e64cbc6gdeb0g2a37g8dacg2ce21354c0d2" version="1">萦魂</content>
+  <content contentuid="hf7e679a6g303egbbc4g52dfg27ba1123bc77" version="5">被亡者怨灵缠身，攻击者对其具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，且其&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;减半。</content>
+  <content contentuid="h2ead40beg6ca7g1107g4d19gcb7225348bdd" version="1">女巫坩埚</content>
+  <content contentuid="h12e78447gd507g4c22ga595gc24f943962e9" version="6">将仍在跳动的心脏投入沸腾的死灵药剂坩埚，引发诅咒液体喷发。处于喷发范围内的生物可能对体质&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;和&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;承受&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content>
+  <content contentuid="h9fef4e44g3a1bg2062gcac0gb36ff8795edd" version="1">摘命</content>
+  <content contentuid="hffc8070bg341dga37cgeebdg483996b85c59" version="4">标记一个活体目标的灵魂，当其因黯蚀伤害死亡时，击杀者恢复[1]。</content>
+  <content contentuid="h354970d7g7a48gf298g27dbgec64bd00d05d" version="1">摘命</content>
+  <content contentuid="h3f29a944gb3e9gaf15g65edg125bbee7c91b" version="3">该生物死亡时生命能量将流向击杀者，为其恢复[1]。</content>
+  <content contentuid="hf266dfd9g8932g8258g5e35g6226c9745caf" version="1">血缚诅咒</content>
+  <content contentuid="hc1b07f98g60e9g9a53g71edg755a9f66d81d" version="2">受渗入皮肤并束缚心脏的诅咒药剂折磨。该生物对体质&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;和&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;承受&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content>
+  <content contentuid="h927d5140gee9aga15fgd982g70cc760f3eaa" version="1">死神化身</content>
+  <content contentuid="h5a14daf0gaa12g39a3g9b61g57627a443b45" version="1">你的死灵&lt;LSTag Tooltip="Cantrip"&gt;戏法&lt;/LSTag&gt;若仅以单个生物为目标，则可额外影响一个生物。</content>
+  <content contentuid="h7d999328g30c8gf2d1g5939g4f5561056669" version="2">聚魂棱</content>
+  <content contentuid="h47a34b74g0f9cg39a1g90f1ge60ba84a4e59" version="8">将新鲜尸体的部分生命精华封存于悬浮于空中的水晶中，提供[1]点临时生命值。当临时生命值耗尽时，棱镜碎裂释放能量，治疗[2]范围内的盟友[3]。</content>
+  <content contentuid="h69cc9e34g0640g1dddgfbddg44b803a001c0" version="1">魂镜</content>
+  <content contentuid="h4079550egd1c2g081dgc6d7g7f159403d9d7" version="3">一个聚魂棱环绕目标旋转，提供[1]点临时生命值。当临时生命值耗尽时，棱镜碎裂治疗[2]范围内所有其他盟友[3]。携带者不会受到此治疗效果影响。</content>
+  <content contentuid="hbc80567fg34a5gf730g1999g7eba82f5fa60" version="1">碎魂弹</content>
+  <content contentuid="h717f70e1g0e83g17dfg0b9dg8f72cf4979d5" version="1">恸爆</content>
+  <content contentuid="h36b92a64g287ag0fa7g85f5gcea711f8d079" version="1">该尸体被诅咒，在施法者下一回合开始时再次爆炸，对[2]范围内的所有生物造成[1]。</content>
+  <content contentuid="h82d83c24gf44ag2020g5896gd43f25a4f9b9" version="2">碎魂弹</content>
+  <content contentuid="h770daf09g1b64g9274gd73egbf19ca0c0431" version="1">该尸体被诅咒，在施法者下一回合开始时再次爆炸，对[2]范围内的所有生物造成[1]。</content>
+  <content contentuid="hb8415cedg065bg6fe2g2c52gfec0694a12a2" version="3">投掷一具浸透死灵能量的尸体，撞击时在[2]半径范围内爆炸，并在你下一回合开始时再次爆炸，对[2]范围内的敌人造成[1]。</content>
+  <content contentuid="hcd9766f8g5eacgbe19gcc04gf2f639119168" version="1">死亡缝合</content>
+  <content contentuid="h78a7505fgf662gc1d3g01b5gcc92e0b62352" version="1">凡世永耀</content>
+  <content contentuid="h63a7c478g6f37gc869ga410g6be0b4f6eb4e" version="1">凡世永耀</content>
+  <content contentuid="hc28c88d4g5ac9gba7cgc319g29991bfc2f6e" version="1">凡世永耀</content>
+  <content contentuid="h235f833dgbdc7g2ab0g1c04g580d61104a0c" version="1">凡世永耀·迸发</content>
+  <content contentuid="h869594c6g6b76gda3dgb5f4gf90a12ff8f9e" version="4">灵魂水晶在[1]半径范围内环绕新鲜尸体。处于范围内时，你获得最大治疗效果、黯蚀抗性，且敌人攻击你时具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content>
+  <content contentuid="h4007b863g8c03gefb8g3955gfb7f20c90ccc" version="1">在[1]范围内，盟友获得最大治疗效果、黯蚀抗性，无视黯蚀抗性，且敌人进行&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;时具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content>
+  <content contentuid="h51fc6fdbg81bfg7bd3g3a19gbfc059a8efcf" version="2">在[1]范围内，盟友获得最大治疗效果、黯蚀抗性，且敌人对你的&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content>
+  <content contentuid="h3ea5bd1dgfa47g3bd1g0b91gdf24aafdab17" version="1">魂之风暴</content>
+  <content contentuid="h136783d1g7c6egd3c7gdbe7g2c2dec45e00c" version="1">魂之风暴</content>
+  <content contentuid="hd86f9de6g220dgdfe3g65f3g847655586ade" version="1">每回合承受[1]。</content>
+  <content contentuid="h402408c5ga513g7e84g2aa5g7f286492c876" version="1">魂之风暴</content>
+  <content contentuid="h0d24a2bbg53afgeabeg469dg94d3d048e232" version="3">一个[2]半径范围的幽魂骷髅风暴。每回合风暴爆发，造成[1]并使敌人可能进入&lt;LSTag Tooltip="SOS_MAIMED_DS"&gt;跛足&lt;/LSTag&gt;状态。你和你的盟友获得光耀伤害抗性，攻击无视黯蚀抗性，且无法被&lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;恐慌&lt;/LSTag&gt;。</content>
+  <content contentuid="h6a1c4779gd258g5bedg6e59gcf4446996a4b" version="2">束缚</content>
+  <content contentuid="h4f091ea6gc574gfd33gdfb1gebaa2eb35d07" version="9">召唤一个[2]半径范围的幽魂骷髅风暴。每回合风暴爆发，造成[1]并使敌人可能进入&lt;LSTag Tooltip="SOS_MAIMED_DS"&gt;跛足&lt;/LSTag&gt;状态。处于风暴中时，你获得光耀伤害抗性，攻击无视黯蚀抗性，且无法被&lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;恐慌&lt;/LSTag&gt;。</content>
+  <content contentuid="he049c829g6cdbgedf5g9ddfg322dad73f035" version="1">魂之风暴</content>
+  <content contentuid="h829c14cdg05dag3d96gabe2g8d7f82be7894" version="4">终焉献祭：超升</content>
+  <content contentuid="h93095897ga5bdg33b8g6ddfg498d29203636" version="5">让灵魂在璀璨风暴中消散，以牺牲之力治愈生者。每个盟友恢复等同于你最大&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;的生命值，并获得额外的&lt;LSTag Tooltip="Action"&gt;动作&lt;/LSTag&gt;。</content>
+  <content contentuid="h38c63f30g2f3dg7b0cg9d89g71f6e160f196" version="1">终焉献祭</content>
+  <content contentuid="h03f3358ag1106gb0a4g8857g9565100791a6" version="1">本回合可多进行一个&lt;LSTag Tooltip="Action"&gt;动作&lt;/LSTag&gt;，由阵亡盟友的牺牲赐予。</content>
+  <content contentuid="hae26f002g360ag79c2gbd43g12e6a4b2ce71" version="1">死亡射线</content>
+  <content contentuid="h2048cdacg8d4bga4d8g4e24gc47b8ae4019a" version="1">死亡射线</content>
+  <content contentuid="hace4dbd5gcc3eg96c7g3ed6gbe9234f8fd5c" version="1">死亡射线</content>
+ <content contentuid="h25ce5259g21b6g208cg73c2g151d4386b9be" version="4">引导一道由死亡回响编织而成的能量束。若目标因此死亡，射线将分裂攻击另一名敌人。若以尸体为目标，则尸体不受影响，但其残留的灵质会强化射线，向附近敌人迸发造成[1]。</content>
+  <content contentuid="he9fd0267g5bd4g8222g889cgf3f3c18a8639" version="1">亡者的幽魂抓住该生物的双腿，使其无法移动，并在体质&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;上承受&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content>
+  <content contentuid="h437f1da3g5450g4132g742agf9f841c03f96" version="2">亡者之魂赋予该生物力量，使其获得对光耀伤害的抗性、攻击无视黯蚀抗性，且免疫&lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;恐慌&lt;/LSTag&gt;状态。</content>
+  <content contentuid="haf307f6ega018g4f54g0c74ge5d850fb23d5" version="2">墓缚者</content>
+  <content contentuid="ha2cb4b68g782dgc3c4g06a8g586b03994c24" version="1">墓缚</content>
+  <content contentuid="h53e7ae6agb5ddg200dg306cg1a6633f0f936" version="1">墓赐</content>
+  <content contentuid="h32874cc0g8693g0bd1g81f5gde7450ce3ee1" version="9">豁免检定失败的敌人将陷入&lt;LSTag Type="Status" Tooltip="GRAVEBOUND_DS"&gt;墓缚&lt;/LSTag&gt;状态。其临时失去四分之一的&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;，且&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;承受&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;，对其的&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。当其死亡时，击杀者恢复[1]，并在下一次&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;中获得&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+  <content contentuid="h4ad061b9g18e0gcc7dg9b2ag2acb529cb443" version="2">该生物失去四分之一的&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;，&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;承受&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;，对其的&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。当其死亡时，击杀者恢复[1]，并在下一次&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;中获得&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+  <content contentuid="h5778ee5bg6ab5gddadge3b3g402a9fd6d5e6" version="2">下一次&lt;LSTag Tooltip="AttackRoll"&gt;攻击掷骰&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+  <content contentuid="hf3e0ae93gf0c9gc08cg1a81gb98b5fbcfcb7" version="2">死亡行军</content>
+  <content contentuid="hf3aeffbdg5416g8c50g61eegb3e6d0a5cbd9" version="35">死亡行者</content>
+  <content contentuid="h33571d6eg1dd9g5188ge522gcfdf6965a0b1" version="1">死亡行军</content>
+  <content contentuid="h868a3808g98eeg758cga63eg33b1bf0c8f56" version="1">该幽影被击杀时会爆发出黯蚀能量。</content>
+  <content contentuid="h831f81e5g73e7ge25cgf1dcg2888fd69747a" version="1">死亡行军</content>
+  <content contentuid="h805eeae6g2788g3a20gc2d4gd5349ca44f8a" version="1">死亡行军</content>
+  <content contentuid="h7d097c50g17dcg42f0g738ege805ef5033d2" version="1">自爆</content>
+  <content contentuid="h6288b702g2c94g176ege3f3gf4ef50558350" version="1">骨击</content>
+  <content contentuid="h277a00cfgac8eg7267g1e00g3c7ab5558401" version="1">以纯粹的死灵能量凝聚成骨，猛烈撞击敌人。</content>
+  <content contentuid="hb82f546eg2f73ga9e2g2e6cgffb5a9e8305d" version="1">至多以四个尸体为目标，每个尸体上方开启一道死灵裂隙。尸体的腐化物质被消耗，凝聚成一个幽魂骷髅为你而战。</content>
+  <content contentuid="hd01efd32g293cg5479gd22dgf2e75691c516" version="1">死亡行军者将其精华猛烈爆发为一股死灵能量，牺牲自身对附近所有敌人造成伤害。</content>
+  <content contentuid="h2d6c9dc1gc043g9febg7c88g6066a02e9168" version="1">至多以五个尸体为目标，每个尸体上方开启一道死灵裂隙。尸体的腐化物质被消耗，凝聚成一个幽魂骷髅为你而战。</content>
+  <content contentuid="he12a0cf9g86b4gb12cg4516g387be5aa6064" version="1">至多以六个尸体为目标，每个尸体上方开启一道死灵裂隙。尸体的腐化物质被消耗，凝聚成一个幽魂骷髅为你而战。</content>
+  <content contentuid="h5a8f7777g3a69g8e79g1350gb3bc78a819d3" version="1">至多以七个尸体为目标，每个尸体上方开启一道死灵裂隙。尸体的腐化物质被消耗，凝聚成一个幽魂骷髅为你而战。</content>
+  <content contentuid="h4db803a8gb205g0693gb66cg8307ca154502" version="1">至多以八个尸体为目标，每个尸体上方开启一道死灵裂隙。尸体的腐化物质被消耗，凝聚成一个幽魂骷髅为你而战。</content>
+  <content contentuid="hbc51b97bg9548g96b1gce12g9ca90fb4016e" version="1">摘命</content>
+  <content contentuid="hc435f18eg4b3ag3c0fgd108g3928d0c2c6c9" version="2">当该生物因黯蚀伤害死亡时，击杀者恢复[1]。</content>
+  <content contentuid="hefc10b72g753fg8ea8g724fg4f6768b0ed31" version="1">终焉献祭</content>
+  <content contentuid="h4f14f356g7e74g6e58g5977g58a1bd4657ec" version="1">终焉献祭</content>
+ <content contentuid="h270aaa84g2888g8619g5385g2c8bfe6bf0a8" version="2">献出生命以重塑战场。牺牲后，你将陷入仅剩&lt;LSTag Tooltip="HitPoints"&gt;1点生命值&lt;/LSTag&gt;的濒死状态，持续&lt;LSTag Tooltip="Turns"&gt;3回合&lt;/LSTag&gt;，直至你重新凝聚灵魂。期间无法移动或采取行动、附赠动作及反应，所有&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;均具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;，敌人攻击你时具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content>
+  <content contentuid="hb8b4068bg1490g6947gf28egc08835803663" version="3">终焉献祭：湮灭</content>
+  <content contentuid="hdd175016g7a17g9c3eg3ad4gf6ddf9f90751" version="3">撕裂灵魂引发死亡灾变。你的躯体爆发出狂暴的死灵能量洪流，以完全解放的精华之力彻底湮灭附近所有生命。</content>
+  <content contentuid="h74f0daaega99dg320fg5309g943e06873d93" version="3">终焉献祭：惊惧苏生</content>
+  <content contentuid="heef471c3g33cfg2d8dg7a0bgbee0c0476d99" version="4">将灵魂献祭于虚无，在最后一息释放无声的恐慌波。敌人陷入&lt;LSTag Tooltip="FEARED_DS"&gt;惊惧&lt;/LSTag&gt;状态，被自身必死的命运真相彻底击溃。</content>
+  <content contentuid="h17b85b08gce8cg40a7g62d3ga183f47e902a" version="1">惊惧</content>
+  <content contentuid="h603767c4gcf39g5e37g8880g008f4e4ba1cb" version="2">魂之风暴</content>
+  <content contentuid="h26febe46g53ecg4e08gaa06g23312d15a0c1" version="1">终焉献祭</content>
+  <content contentuid="h9ac678ddg5d0bg78d0g9ca9gf9e64684cbbc" version="1">已发生献祭，无法恢复&lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;或被复活。</content>
+  <content contentuid="h08870395g2a85g2c44g9a5fg563e16160951" version="1">终焉献祭</content>
+  <content contentuid="hc2287137g58f5g61bdg0b26g62ef12fdf712" version="1">该生物完全无法行动，不能采取行动、附赠动作或反应。攻击此倒地生物具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，所有&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;均具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。最大生命值降低至1点。</content>
+</contentList>

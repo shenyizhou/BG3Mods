@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <content contentuid="h7abb4ab9g0f01g2d79g2e87g9f625088ea41" version="1">念力投掷</content>
+<content contentuid="h8acce70bgf089gbb7agab4fg8a0db10441e4" version="4">以念力投掷一个小到中等大小的物体，如果该物体比目标重，则额外造成[2]。</content>
+<content contentuid="h978c2966g12b2g744ega729g82d69e93ba65" version="1">拉拽</content>
+<content contentuid="h21fa3afbg8656g0bcdg9549g0b4810fdafe4" version="1">将目标拉近至多[1]。</content>
+<content contentuid="h0144bffbga33cg7da1g40d5g4c2504336c0a" version="2">将目标推开至多[1]。</content>
+<content contentuid="hb5be9886gef74gd0bbge871g812c3b1488eb" version="1">推挤</content>
+<content contentuid="h80bfa374gf62fgdae2gb322g93767282fd2e" version="2">力场操控</content>
+<content contentuid="hf52943dcg33dbge0bag225fg0bd1dcd41035" version="2">推或拉目标至多[1]</content>
+<content contentuid="h7ce75a15gd755g039bg2976gaaee8295d76b" version="3">碎岩齐射</content>
+<content contentuid="hac8ad0d1ga258g8849gf876gb64ba51e6d38" version="5">从地面撕裂一小块巨石并将其分裂成三块石头，向目标发射。每块石头造成[1]并在命中时施加 &lt;LSTag Type="Status" Tooltip="Dazed"&gt;眩晕&lt;/LSTag&gt; 状态。</content>
+<content contentuid="h1753217dg6616g4bb3gbc99g8a05a5f32bbe" version="1">念力护盾</content>
+<content contentuid="hedccfc6cgf91dg2c72g94efgf2f81c5575fc" version="8">用一个念力球包围自己，获得对物理和力场伤害的 &lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。当近战攻击者击中你时，护盾会爆炸，造成[1]并将他们击退[2]。</content>
+<content contentuid="hf0a8ce69g9584g15e6ga2c6g505265edadb6" version="1">念力护盾</content>
+<content contentuid="h264af11egf75cg6cd9g88cfg6be0df15ce9f" version="4">生物被一层念力能量包围，当受到近战攻击时会发生爆炸，造成[1]并将攻击者推至多[2]。当力场存在时，它们对物理和力场伤害具有 &lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
+<content contentuid="h4d3368deg92c7g146cgbf95g1768583e0e64" version="1">念力护盾</content>
+<content contentuid="h45f79938g4407g7290g16c9g0098e42ea289" version="3">地震喷发</content>
+<content contentuid="hac5874fcga93bgaa8fgc2b7g2a16634adc60" version="3">从地面拉出一根土柱，留下一个可投掷的巨石。</content>
+<content contentuid="hc81f420bgcf23gc517g2278ge427c657d7a9" version="24">冰块</content>
+<content contentuid="h66b17c39g786bgc146g5343g521eac07612b" version="24">可攀爬且可破坏。</content>
+<content contentuid="h1723ea94g9a68ga6f6g674ag6976f0351083" version="24">由空气中的水分形成的巨大冰块。</content>
+<content contentuid="hd47b1ddfg609bg57d8gc2e7g03877317d6d4" version="4">可投掷巨石</content>
+<content contentuid="h79503597g4711g6e83g1700g4aecf8ef5e3a" version="2">冲撞波</content>
+<content contentuid="he9f81a44ge00cgeab1g8222gdcfea667a2c8" version="3">释放强大的念力波，迫使生物后退[1]并使它们处于 &lt;LSTag Type="Status" Tooltip="OFF_BALANCED"&gt;失衡&lt;/LSTag&gt; 状态。</content>
+<content contentuid="hef5a6b50g9933g9747g7dadg80d5d594f32e" version="1">散射射击</content>
+<content contentuid="hccd358cdgceb5ga834g4689ge2e0e070c0f3" version="7">从地面拉出一块巨石并形成飞向前方的石刺，路径上的生物遭受 &lt;LSTag Type="Status" Tooltip="GAPING_WOUND"&gt;开放伤口&lt;/LSTag&gt;。</content>
+<content contentuid="h2e732013gdcf1g3bd8g708dga7d60d23d398" version="1">力场屏障</content>
+<content contentuid="h9bc0693ag54a3ga797g9bafgd36bb95a240d" version="1">x</content>
+<content contentuid="h677fc697g20b2gf5aeg8e38g55f9f28339f0" version="3">力场屏障</content>
+<content contentuid="h4847f107g37f7gd07dg4a33gb5396cab9664" version="17">力场屏障</content>
+<content contentuid="h947f43b2gd7dcg4052gd927ge3ec2e5b1366" version="6">力场屏障</content>
+<content contentuid="hef35c6deg60b3g8d26g6fd1gf52b9ccf2998" version="7">创造一个封闭[2]半径范围的念力能量球体。当你和盟友位于其中时，对物理、力场伤害具有 &lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。每个回合，力场会释放一道冲击波，造成[1]并将敌人推出[2]。</content>
+<content contentuid="hdfcdbe6dg433bgce7cg0795g7cf4aafd9634" version="71">力场屏障</content>
+  <content contentuid="hacbf32d5gba62gde65ga982g09647fe3f7fd" version="1">幽影诅咒</content>
+  <content contentuid="hf0fdd730g7350g5697g43d4g27f0ad7d2ce2" version="2">幽影诅咒</content>
+ <content contentuid="h123db56ag8f44gbbdbg6766g5db465944d60" version="2">念力球体</content>
+<content contentuid="hc379d933g64feg339ag0123ge2491555261c" version="3">力场屏障</content>
+<content contentuid="h2d165a71g5cedg60f7g3a45ge8cf15c2984b" version="4">被一个心灵遥感形成的球体所保护，获得对物理伤害和力场伤害的&lt;LSTag Tooltip="Resistant"&gt;抗性&lt;/LSTag&gt;。</content>
+<content contentuid="h587d3372g0c5ag8f34g5f3dg3fc301daf9b5" version="2">岩石突袭</content>
+<content contentuid="he5275541gab80g03b6gfd46gb232e221556c" version="5">从地面撕裂巨石并投掷向一个目标。可能造成 &lt;LSTag Type="Status" Tooltip="CRIPPLED"&gt;残废&lt;/LSTag&gt; 状态。</content>
+<content contentuid="hdbe8831fg7c51g9b41g2ad2g7a1efb5427dd" version="3">内爆球体</content>
+<content contentuid="h5b7cfb8egea04g03d8g4d9bgb867139ee5b7" version="4">发射一枚压缩力场形成的球体，它会追踪你的目标并在撞击时内爆，将生物击退并使其进入 &lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒伏&lt;/LSTag&gt; 状态。</content>
+<content contentuid="h28a4ab15ga703g8a3fg52f9gbb23078a284a" version="1">解除念力护盾</content>
+<content contentuid="hbe271c62gf9deg5309gf275gc8909fc1cb26" version="1">移除念力护盾</content>
+<content contentuid="h72a6eadeg47d8g0674g26e0gf68483f1a2fd" version="4">碎石风暴</content>
+<content contentuid="hd08ac691gf8adg288bgcf97g65fffe6aaf2d" version="5">用念力风暴包围自己，风暴中飞舞着岩石与巨石，附近的敌人每回合承受[1]与[2]，并且其 &lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt; 减半。法术生效期间你也可以飞行。</content>
+<content contentuid="h9c5bead1g4b52g7690ga496g72d649671f38" version="1">碎石风暴</content>
+<content contentuid="hb5943746g0b1eg7096gc87eg4b2c403bbf0e" version="2">附近的敌人每回合承受[1]与[2]，并且其 &lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt; 减半。&lt;br&gt;&lt;br&gt;施法者在专注于此法术期间无法变为 &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;隐形&lt;/LSTag&gt; 状态。&lt;br&gt;&lt;br&gt;豁免成功的目标仍将承受一半伤害。</content>
+<content contentuid="h11186288gfd60g20fdg87acg7c323ecba13c" version="1">碎石风暴</content>
+<content contentuid="h13d5e9b2g3f85gb333ge287g09ada465d250" version="1">附近的敌人每回合承受[1]与[2]，并且其 &lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt; 减半。&lt;br&gt;&lt;br&gt;施法者在专注于此法术期间无法变为 &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;隐形&lt;/LSTag&gt; 状态。&lt;br&gt;&lt;br&gt;豁免成功的目标仍将承受一半伤害。</content>
+<content contentuid="hd42c462egd42bg5249g0032gd76bdf96aed8" version="1">悬浮术</content>
+<content contentuid="h77e1db69ga6cegefb5ge88bg769989324387" version="1">被念力包围使你获得飞行能力。</content>
+<content contentuid="he24b629eg940cgfc7ag2a7ag07d99e19ab58" version="1">念力联结</content>
+<content contentuid="hbcfd09d4gd2a2g2d45g827cg892c21c19177" version="1">通过念力将你自己与盟友连接，提升护甲等级并赋予他们飞行能力。</content>
+<content contentuid="hb343ed87g6716gfe77g9385ga628389dfeaa" version="1">念力联结</content>
+<content contentuid="h089206ebge802gbe40g4833g6013262c11d8" version="1">念力联结应用</content>
+<content contentuid="h57b98fbbgae76g8b46g6353g9db105cd2879" version="1">通过念力将你自己与盟友连接，提升护甲等级并赋予他们飞行能力。</content>
+<content contentuid="hdca645bdg1340g2519ga09fgddc82aa179c0" version="1">念力联结</content>
+<content contentuid="h77f80ee8gd749g47b7g1642g81188b7a65c8" version="1">念力系索</content>
+<content contentuid="hc81086bcga6b8gc0d7gda9dg27910d2b7263" version="1">赋予你自己或一名盟友使用 &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;飞行&lt;/LSTag&gt; 的能力。</content>
+<content contentuid="hbe048eafgcaf0g9293g0eb2g63eb87108f9a" version="5">念力联结</content>
+<content contentuid="hb8a94596g6125gfc1bg2b87g54399c20c833" version="6">将你的念力连接至附近盟友，赋予他们及你自己飞行能力、+3 护甲、+3 所有豁免检定。</content>
+<content contentuid="h7b47552fgf846g7908g753dg845d7e517fdd" version="3">茧化术</content>
+<content contentuid="h8a80de8ag8a8ege341gd872gab248c1b5888" version="4">将你自己或一名盟友悬吊于空中，并包裹在念力形成的茧中。处于茧中时，目标无敌并从所有来源获得最大治疗值，但无法行动、移动或做出反应。</content>
+<content contentuid="hebbaac83g7c81gcfaag26fcg689eb8178407" version="2">茧化术</content>
+ <content contentuid="h6324ea50ga567gfa69g87b9gdbd0d6e48c3c" version="1">念力茧</content>
+<content contentuid="h90ab936agfd72g9cdagc314g74fb8250890f" version="2">被念力场包裹，使其中的生物无敌，并在受到治疗时恢复最大值的 &lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;。</content>
+<content contentuid="h71be439cg840dg495dg0144g98ffaa859b9b" version="1">茧化术</content>
+<content contentuid="h5583609dgc150gd2b1g7721ga2c03cf2c413" version="1">被念力场包裹，使该生物无敌，并在受到治疗时恢复最大值的 &lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;。</content>
+<content contentuid="h33a819c1gf0e3g8415g361fg2a37c7ad1ef1" version="1">被念力场包裹，使其中的生物无敌，并在受到治疗时恢复最大值的 &lt;LSTag Tooltip="HitPoints"&gt;生命值&lt;/LSTag&gt;。</content>
+<content contentuid="he5b23836g4592gcff2g74e8g061dbbbe71ca" version="1">念力联结</content>
+<content contentuid="h5d9fb9fag64c4g0964g3374g075cea5f13d4" version="2">+3 护甲、+3 所有豁免检定。</content>
+<content contentuid="h419fa419g0064gea92g962bge16160ca04aa" version="1">+3 护甲、+5 所有豁免检定、免疫环境效果、免疫借机攻击并能够飞行。</content>
+<content contentuid="h0f5bb1fagf677gda5dg46e5g4dfc54de41f1" version="2">+3 护甲、+3所有豁免检定。</content>
+<content contentuid="h10558751g68b6gc1a0g0227gc75d120d9e4d" version="1">悬浮术</content>
+<content contentuid="h82cc1b03g2e10g30d8g6165geb8c03f0f8ce" version="1">被念力包围使你获得飞行能力。</content>
+<content contentuid="hea681c7egc179g534bgb050gbf9765ef52c0" version="1">念力风暴</content>
+<content contentuid="hf8f6e462g78f9g67f1gb6eeg52a70302e8e1" version="1">念力风暴</content>
+<content contentuid="h1640c68agaf69gfddcg872bg01cd7a0ed6f1" version="1">念力风暴</content>
+<content contentuid="h7816dd41g478ag7f3cgbaf3g069da6b8e27b" version="1">念力风暴：瓦解阶段 1</content>
+<content contentuid="h10072120gc9a1gec20ga171g20ee71eb54f1" version="5">被压倒性的念力减缓，该生物对施法者和盟友的攻击具有 &lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt; 减半。</content>
+<content contentuid="h2a305ba1ge3e8gb522g44c4g652ba9b71874" version="1">念力风暴：瓦解阶段 2</content>
+<content contentuid="hc7eddb58gbaa3g1a24gcc71g0cfb5f6af68c" version="4">被压倒性的念力束缚，该生物处于 &lt;LSTag Tooltip="Restrained"&gt;被束缚&lt;/LSTag&gt; 和 &lt;LSTag Tooltip="Immobilized"&gt;无法行动&lt;/LSTag&gt; 状态。对其的 &lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt; 具有 &lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，而它自己的 &lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt; 和敏捷 &lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt; 具有 &lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content>
+<content contentuid="h6ab2fad6g3504g00ecge719g7641716501ed" version="1">念力风暴：瓦解阶段 3</content>
+<content contentuid="hbfcaa1e3g2e18g3585gba87ge14fb8942708" version="1">受影响实体无法移动，其身体进入最终的瓦解阶段。对其的 &lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt; 具有 &lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，而该实体的攻击检定和敏捷 &lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt; 具有 &lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content>
+<content contentuid="ha3b34b34gf079g66b2gbdf9g3fa838e75206" version="1">被念力压制，若该生物在其回合结束时仍留在场内，则承受[1]。它处于 &lt;LSTag Tooltip="Restrained"&gt;被束缚&lt;/LSTag&gt; 和 &lt;LSTag Tooltip="Immobilized"&gt;无法行动&lt;/LSTag&gt; 状态。对其的 &lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt; 具有 &lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，而它自己的 &lt;LSTag Tooltip="AttackRoll"&gt;攻击检定&lt;/LSTag&gt; 和敏捷 &lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt; 具有 &lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content>
+<content contentuid="h3068d2c6g6cafga4b2g0c13g749725803040" version="1">你释放意志化为纯粹力场的风暴，你的身体固定不动，心智撕裂现实。未能逃脱的敌人将被逐渐束缚、粉碎并最终瓦解。</content>
+<content contentuid="h59efecf4ge6c6gb8c6gd0d3g864258758c62" version="1">正在引导一场纯粹的念力风暴，该角色在维持法术期间处于 &lt;LSTag Tooltip="Incapacitated"&gt;失能&lt;/LSTag&gt; 状态。被困于风暴中的敌人若未逃脱，将被逐渐束缚、粉碎并瓦解。</content>
+<content contentuid="hf0edbceagcd30gb753gb7f3g89eab988ae39" version="1">碎石风暴</content>
+<content contentuid="hc6ded82eg2dfcg086agcedfg2058d9feed0d" version="1">附近的敌人每回合承受[1]与[2]，并且其 &lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt; 减半。&lt;br&gt;&lt;br&gt;施法者在专注于此法术期间无法变为 &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;隐形&lt;/LSTag&gt; 状态。&lt;br&gt;&lt;br&gt;豁免成功的目标仍将承受一半伤害。</content>
+<content contentuid="h74581002g017cg91b1gdb82gd180fc9aa2f3" version="1">碎石风暴</content>
+<content contentuid="hc0668b18g31feg5526gaaabga6ca569a9e1b" version="1">附近的敌人每回合承受[1]与[2]，并且其 &lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt; 减半。&lt;br&gt;&lt;br&gt;施法者在专注于此法术期间无法变为 &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;隐形&lt;/LSTag&gt; 状态。&lt;br&gt;&lt;br&gt;豁免成功的目标仍将承受一半伤害。</content>
+<content contentuid="hc08935beg9f84gde8cg2fb2gdb38fb722b9a" version="1">碎石风暴</content>
+<content contentuid="h4c9cdad4g266eg76d4g21f8gf7c8e182c69f" version="1">附近的敌人每回合承受[1]与[2]，并且其 &lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt; 减半。&lt;br&gt;&lt;br&gt;施法者在专注于此法术期间无法变为 &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;隐形&lt;/LSTag&gt; 状态。&lt;br&gt;&lt;br&gt;豁免成功的目标仍将承受一半伤害。</content>
+<content contentuid="h397bb9bfg4c2bg4b6dgdc93g5d827ac4c3e9" version="1">碎石风暴</content>
+<content contentuid="h7322c044g75e8g4eacg7eb8gba39436cdacc" version="1">附近的敌人每回合承受[1]与[2]，并且其 &lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt; 减半。&lt;br&gt;&lt;br&gt;施法者在专注于此法术期间无法变为 &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;隐形&lt;/LSTag&gt; 状态。&lt;br&gt;&lt;br&gt;豁免成功的目标仍将承受一半伤害。</content>
+<content contentuid="h580c3a3eg9134gc50bg8a27gdade58eb2f47" version="1">三重光束</content>
+<content contentuid="h84123e5dgd698gb260g51e1ge0a56a9db220" version="1">念力遥控</content>
+<content contentuid="h4eb5ecfdga026g2ae3g308bg61b0b3ebe634" version="1">锁定目标区域并将碎片抬升至空中，然后以巨大力量砸下，使区域内生物 &lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒伏&lt;/LSTag&gt;。</content>
+<content contentuid="h4b6192aeg98c6g744fg5f26gd4f367108187" version="1">念力遥控</content>
+<content contentuid="h9d51f6fag3914gb47fg2743g9abe35d33cb4" version="1">锁定目标区域并将碎片抬升至空中，然后以巨大力量砸下，使区域内生物 &lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒伏&lt;/LSTag&gt;。</content>
+<content contentuid="hcaf0980bg66b5g9834g49a0g9428b33357ef" version="1">聚焦光束</content>
+<content contentuid="h3209d8cbg550cg27b3g3b57g68e436e1cba1" version="1">将所有念力集中成一束锁定目标的光束，在此期间你和目标都无法移动。</content>
+<content contentuid="h6b1f80b6gb92dg200eg1e8agbdbf05f0a0e1" version="2">聚焦光束</content>
+ <content contentuid="he0d17689g99e7g1a58g8dd1g28df9792f01b" version="2">聚焦光束</content>
+<content contentuid="h4720fc8fg9f42g60e0g0732geac9b7eb6856" version="9">用集中力场的光束束缚一个生物，当你专注于目标时，你也会被锁定在原地。该生物每回合承受[1]，且受到的攻击具有 &lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。该生物可以在其回合进行一次力量 &lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;以结束此效果。</content>
+<content contentuid="h3c839644g46e7g29b1g1420g2c212770f4b1" version="2">聚焦光束</content>
+<content contentuid="h489929cdg154bgce49gee4eg451b02e63968" version="1">聚焦光束</content>
+<content contentuid="h35168a7age75fg73a3gef2dg9f618dc01395" version="1">该生物处于 &lt;LSTag Tooltip="Incapacitated"&gt;失能&lt;/LSTag&gt; 状态且不能移动或行动。每回合开始时承受[1]，所有对它的攻击都具有 &lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt; 和 &lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;。在其回合结束时进行一次力量 &lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;以结束此效果。</content>
+<content contentuid="h11273182gcbfcgb46egac76g0c58b1e965af" version="2">施法者在维持念力束缚期间处于 &lt;LSTag Tooltip="Incapacitated"&gt;失能&lt;/LSTag&gt; 状态。如果目标通过 &lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;逃脱，则施法者将变得 &lt;LSTag Type="Status" Tooltip="DAZED"&gt;眩晕&lt;/LSTag&gt; 并且法术结束。</content>
+<content contentuid="h3e4ec61agb0dfg8351gb038g03bf177c18a7" version="1">该生物处于 &lt;LSTag Tooltip="Incapacitated"&gt;失能&lt;/LSTag&gt; 状态且不能移动或行动。每回合开始时承受[1]，所有对它的攻击都具有 &lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt; 和 &lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;。在其回合结束时进行一次力量 &lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;以结束此效果。</content>
+<content contentuid="he1299791gab96g49b3gaffdg52968a474c8e" version="1">作弊恢复法术</content>
+<content contentuid="hde76ee4eg34fbg5a2fg5c67g5ac7d942e172" version="1">聚焦光束</content>
+<content contentuid="h77012c4fg157ag903bgb124g86c87dd9e16c" version="1">该生物处于 &lt;LSTag Tooltip="Incapacitated"&gt;失能&lt;/LSTag&gt; 状态且不能移动或行动。每回合开始时承受[1]，所有对它的攻击都具有 &lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt; 和 &lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;。在其回合结束时进行一次力量 &lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;以结束此效果。</content>
+<content contentuid="h98aaaea4gf381g3646g74c6g4536a0415ae5" version="1">聚焦光束</content>
+<content contentuid="hefd79169ga433gd135g7fcfgd32fc6ddb0ee" version="1">施法者在维持念力束缚期间处于 &lt;LSTag Tooltip="Incapacitated"&gt;失能&lt;/LSTag&gt; 状态。如果目标通过 &lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;逃脱，则施法者将变得 &lt;LSTag Type="Status" Tooltip="DAZED"&gt;眩晕&lt;/LSTag&gt; 并且法术结束。</content>
+<content contentuid="hea87dcfdgd200g9699g7a17ga59ace55ad89" version="1">聚焦光束</content>
+<content contentuid="hb0384105g1d43g21c1g1156gd6fdfb584535" version="1">用集中力场的光束锁住一个生物。它每回合承受[1]，遭受具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;的&lt;LSTag Tooltip="CriticalHit"&gt;重击&lt;/LSTag&gt;，并且可以每回合进行一次力量 &lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;以结束此效果。如果由于 &lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;导致专注中断，你将变为 &lt;LSTag Type="Status" Tooltip="DAZED"&gt;眩晕&lt;/LSTag&gt;。</content>
+<content contentuid="hf76e77a9g3986g937ag27d4g5a0715ed7213" version="1">当法术激活时，你可以每回合飞行一次。</content>
+<content contentuid="hc8317a03gbb4cg402eg4d23g24f686b8f0a2" version="1">+3 护甲等级，+3 所有豁免掷骰，并且可以获得飞行能力。</content>
+<content contentuid="hb6edb137g9bd5g4cd3gc469gd1616570eb3a" version="1">动能爆发</content>
+<content contentuid="h6e9d5942gc586ga88fg262fgdfb8e2b750b3" version="1">x</content>
+</contentList>
