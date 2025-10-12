@@ -1,3 +1,10 @@
 new entry "SpiritBlade_Passive"
 type "PassiveData"
 data "Boosts" "UnlockSpell(Target_SpiritBlade)"
+
+new entry "IgnoreFireResistance_Passive"
+type "PassiveData"
+data "DisplayName" "h4b716c3fg5a1dg4f3bga2bbgbf93ee9316df;1"
+data "Description" "h72e4a6dbgbce9g48f4g8cf3g94b6069322b8;1"
+data "Icon" "GenericIcon_DamageType_Fire"
+data "Boosts" "IgnoreResistance(Fire,Resistant)"
