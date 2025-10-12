@@ -22,7 +22,7 @@
 					<attribute id="LockClass" type="bool" value="true" />
 					<attribute id="LockRace" type="bool" value="true" />
 					<attribute id="Name" type="FixedString" value="Astarion" />
-					<attribute id="Passives" type="LSString" value="DeathSavingThrows;DuergarInvisibility_Passive" />
+					<attribute id="Passives" type="LSString" value="DeathSavingThrows;Passive_Astarion_SneakAttack_Charge_DuergarInvisibility" />
 					<attribute id="RaceUUID" type="guid" value="6c038dcb-7eb5-431d-84f8-cecfaf1c0c5a" />
 					<attribute id="SubClassUUID" type="guid" value="ede4778e-7602-440f-9075-b4bc8dc31cea" />
 					<attribute id="SubRaceUUID" type="guid" value="f4792c5f-8740-4f22-b77d-5df1e5753c46" />
@@ -167,7 +167,7 @@
 					<attribute id="LockClass" type="bool" value="true" />
 					<attribute id="LockRace" type="bool" value="true" />
 					<attribute id="Name" type="FixedString" value="Karlach" />
-					<attribute id="Passives" type="LSString" value="DeathSavingThrows;IgnoreFireResistance_Passive" />
+					<attribute id="Passives" type="LSString" value="DeathSavingThrows;Passive_IgnoreFireResistance" />
 					<attribute id="RaceUUID" type="guid" value="b6dccbed-30f3-424b-a181-c4540cf38197" />
 					<attribute id="SubRaceUUID" type="guid" value="88d0d219-9dcb-462b-aab6-ccf31eeee2e3" />
 					<attribute id="UUID" type="guid" value="b8b4a974-b045-45f6-9516-b457b8773abd" />
@@ -194,7 +194,7 @@
 					<attribute id="LockClass" type="bool" value="false" />
 					<attribute id="LockRace" type="bool" value="false" />
 					<attribute id="Name" type="FixedString" value="DarkUrge" />
-					<attribute id="Passives" type="LSString" value="DeathSavingThrows;SpiritBlade_Passive" />
+					<attribute id="Passives" type="LSString" value="DeathSavingThrows;Passive_SpiritBlade" />
 					<attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
 					<attribute id="SubClassUUID" type="guid" value="d379fdae-b401-4731-8d50-277c73919ae3" />
 					<attribute id="SubRaceUUID" type="guid" value="cbe10ab9-11a6-450e-844a-175bcca25de7" />

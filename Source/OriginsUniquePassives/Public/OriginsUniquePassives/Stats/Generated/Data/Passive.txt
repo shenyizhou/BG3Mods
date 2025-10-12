@@ -1,16 +1,16 @@
-new entry "SpiritBlade_Passive"
-type "PassiveData"
-data "Boosts" "UnlockSpell(Target_SpiritBlade)"
-data "Properties" "IsHidden"
-
-new entry "DuergarInvisibility_Passive"
-type "PassiveData"
-data "Boosts" "UnlockSpell(Shout_Invisibility_Duergar)"
-data "Properties" "IsHidden"
-
-new entry "IgnoreFireResistance_Passive"
+new entry "Passive_IgnoreFireResistance"
 type "PassiveData"
 data "DisplayName" "h4b716c3fg5a1dg4f3bga2bbgbf93ee9316df;1"
 data "Description" "h72e4a6dbgbce9g48f4g8cf3g94b6069322b8;1"
 data "Icon" "GenericIcon_DamageType_Fire"
 data "Boosts" "IgnoreResistance(Fire,Resistant)"
+
+new entry "Passive_SpiritBlade"
+type "PassiveData"
+data "Boosts" "UnlockSpell(Target_SpiritBlade)"
+data "Properties" "IsHidden"
+
+new entry "Passive_Astarion_SneakAttack_Charge_DuergarInvisibility"
+type "PassiveData"
+data "Boosts" "ActionResource(SneakAttack_Charge,1,0);UnlockSpell(Shout_Invisibility_Duergar)"
+data "Properties" "IsHidden"
