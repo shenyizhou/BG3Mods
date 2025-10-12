@@ -17,6 +17,17 @@ data "Boosts" "IF(HasActionResource('ReactionActionPoint',1,0,false,false,contex
 data "EnableCondition" "IsWeaponOfProficiencyGroup('Greatswords', GetActiveWeapon())"
 data "EnableContext" "OnEquip"
 
+new entry "Passive_WarMagic_Githyanki"
+type "PassiveData"
+data "DisplayName" "h30aeb713g8315g4a1bga8b1gf0138a73c837;1"
+data "Description" "h5e43d902ga54fg4136g985cg56ec41f7f7d4;1"
+data "Icon" "PassiveFeature_WarMagic"
+data "StatsFunctorContext" "OnCast"
+data "Conditions" "HasSpellFlag(SpellFlags.Spell) and not HasStatus('WARMAGIC_GITHYANKI')"
+data "StatsFunctors" "ApplyStatus(WARMAGIC_GITHYANKI,100,1)"
+data "EnableCondition" "IsWeaponOfProficiencyGroup('Greatswords', GetActiveWeapon())"
+data "EnableContext" "OnEquip"
+
 new entry "Passive_SpiritBlade"
 type "PassiveData"
 data "Boosts" "UnlockSpell(Target_SpiritBlade)"
