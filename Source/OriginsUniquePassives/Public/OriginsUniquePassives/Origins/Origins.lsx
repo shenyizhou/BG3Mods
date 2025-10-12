@@ -22,7 +22,7 @@
 					<attribute id="LockClass" type="bool" value="true" />
 					<attribute id="LockRace" type="bool" value="true" />
 					<attribute id="Name" type="FixedString" value="Astarion" />
-					<attribute id="Passives" type="LSString" value="DeathSavingThrows" />
+					<attribute id="Passives" type="LSString" value="DeathSavingThrows;DuergarInvisibility_Passive" />
 					<attribute id="RaceUUID" type="guid" value="6c038dcb-7eb5-431d-84f8-cecfaf1c0c5a" />
 					<attribute id="SubClassUUID" type="guid" value="ede4778e-7602-440f-9075-b4bc8dc31cea" />
 					<attribute id="SubRaceUUID" type="guid" value="f4792c5f-8740-4f22-b77d-5df1e5753c46" />

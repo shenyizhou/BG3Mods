@@ -1,6 +1,12 @@
 new entry "SpiritBlade_Passive"
 type "PassiveData"
 data "Boosts" "UnlockSpell(Target_SpiritBlade)"
+data "Properties" "IsHidden"
+
+new entry "DuergarInvisibility_Passive"
+type "PassiveData"
+data "Boosts" "UnlockSpell(Shout_Invisibility_Duergar)"
+data "Properties" "IsHidden"
 
 new entry "IgnoreFireResistance_Passive"
 type "PassiveData"
