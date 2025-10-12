@@ -79,7 +79,7 @@
 					<attribute id="LockClass" type="bool" value="true" />
 					<attribute id="LockRace" type="bool" value="true" />
 					<attribute id="Name" type="FixedString" value="Gale" />
-					<attribute id="Passives" type="LSString" value="DeathSavingThrows" />
+					<attribute id="Passives" type="LSString" value="DeathSavingThrows;Passive_Netherese_Orb_Siphon;Passive_Netherese_Orb_Siphon_Target_Counterspell" />
 					<attribute id="RaceUUID" type="guid" value="0eb594cb-8820-4be6-a58d-8be7a1a98fba" />
 					<attribute id="SubClassUUID" type="guid" value="c059dca1-c17d-4dce-8260-83ede5070eac" />
 					<attribute id="UUID" type="guid" value="35c3caad-5543-4593-be75-e7deba30f062" />
